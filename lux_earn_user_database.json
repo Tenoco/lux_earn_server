@@ -33,9 +33,18 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TEQXV",
       "inviter_referral_code": null,
-      "balance": 1,
-      "refers": 0,
+      "balance": 51,
+      "refers": 1,
       "lastSpin": "2025-01-18T03:03:28.709Z"
+    },
+    {
+      "username": "Axior",
+      "email": "procode641@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "AXXYQ",
+      "inviter_referral_code": "TEQXV",
+      "balance": 0,
+      "refers": 0
     }
   ]
 }
