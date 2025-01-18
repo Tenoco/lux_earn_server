@@ -33,8 +33,8 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TEQXV",
       "inviter_referral_code": null,
-      "balance": 51,
-      "refers": 1,
+      "balance": 101,
+      "refers": 2,
       "lastSpin": "2025-01-18T03:03:28.709Z"
     },
     {
@@ -42,6 +42,15 @@
       "email": "procode641@gmail.com",
       "encrypted_password": "202cb962ac59075b964b07152d234b70",
       "referral_code": "AXXYQ",
+      "inviter_referral_code": "TEQXV",
+      "balance": 0,
+      "refers": 0
+    },
+    {
+      "username": "Steve",
+      "email": "steve@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "STN4G",
       "inviter_referral_code": "TEQXV",
       "balance": 0,
       "refers": 0
