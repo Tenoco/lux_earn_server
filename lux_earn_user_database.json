@@ -6,7 +6,7 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TEZUE",
       "inviter_referral_code": null,
-      "balance": 10000025,
+      "balance": 9999025,
       "refers": 0,
       "lastSpin": "2025-01-21T17:32:42.399Z",
       "completedMissions": [
@@ -69,6 +69,17 @@
       "amount": 5000,
       "totalBalance": 5025,
       "timestamp": "2025-01-21T17:36:16.133Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "JOSEPHINE OFANGBONMU EHIAGHE OKOSUN",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 10000025,
+      "timestamp": "2025-01-21T17:43:11.377Z",
       "status": "pending"
     }
   ]
