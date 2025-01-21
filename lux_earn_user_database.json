@@ -6,7 +6,7 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TEZUE",
       "inviter_referral_code": null,
-      "balance": 9989025,
+      "balance": 9988025,
       "refers": 0,
       "lastSpin": "2025-01-21T17:32:42.399Z",
       "completedMissions": [
@@ -103,6 +103,17 @@
       "amount": 10000,
       "totalBalance": 9999025,
       "timestamp": "2025-01-21T18:20:40.034Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Enoch",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 9989025,
+      "timestamp": "2025-01-21T18:21:15.436Z",
       "status": "pending"
     }
   ]
