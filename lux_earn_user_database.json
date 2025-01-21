@@ -30,6 +30,15 @@
       "inviter_referral_code": null,
       "balance": 0,
       "refers": 0
+    },
+    {
+      "username": "admins",
+      "email": "nightworker464@gmail.com",
+      "encrypted_password": "00cdb7bb942cf6b290ceb97d6aca64a3",
+      "referral_code": "ADD8V",
+      "inviter_referral_code": null,
+      "balance": 0,
+      "refers": 0
     }
   ]
 }
