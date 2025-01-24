@@ -6,11 +6,20 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEJ8M",
       "inviter_referral_code": null,
-      "balance": 9949000,
-      "refers": 0,
+      "balance": 9949040,
+      "refers": 1,
       "completedMissions": [
         2
       ]
+    },
+    {
+      "username": "Unknown",
+      "email": "favourboi160@gmail.com",
+      "encrypted_password": "b094916741860db912ddf8403ba870f1",
+      "referral_code": "UNID6",
+      "inviter_referral_code": "BEJ8M",
+      "balance": 0,
+      "refers": 0
     }
   ],
   "withdrawals": [
