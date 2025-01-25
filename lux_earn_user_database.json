@@ -43,8 +43,12 @@
       "encrypted_password": "f72a6016e00b6628b5f2bf05bf7b4e87",
       "referral_code": "MU8RD",
       "inviter_referral_code": null,
-      "balance": 0,
-      "refers": 0
+      "balance": 65,
+      "refers": 0,
+      "completedMissions": [
+        1,
+        2
+      ]
     }
   ],
   "withdrawals": [
