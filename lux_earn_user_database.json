@@ -30,7 +30,7 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TESM3",
       "inviter_referral_code": null,
-      "balance": 100005,
+      "balance": 99005,
       "refers": 0,
       "completedMissions": [
         3
@@ -71,6 +71,17 @@
       "totalBalance": 9949040,
       "timestamp": "2025-01-24T23:27:31.486Z",
       "status": "completed"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 100005,
+      "timestamp": "2025-01-25T06:27:02.696Z",
+      "status": "pending"
     }
   ]
 }
