@@ -30,8 +30,10 @@
       "encrypted_password": "c770e34e3024a6d94619b818a840a598",
       "referral_code": "TESM3",
       "inviter_referral_code": null,
-      "balance": 0,
-      "refers": 0
+      "balance": 5,
+      "refers": 0,
+      "completedMissions": [],
+      "lastSpin": "2025-01-25T05:32:06.675Z"
     }
   ],
   "withdrawals": [
