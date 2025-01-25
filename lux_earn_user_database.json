@@ -57,8 +57,9 @@
       "encrypted_password": "9bb418834e31d581e4b8d95dc2d1190b",
       "referral_code": "PRR5E",
       "inviter_referral_code": null,
-      "balance": 0,
-      "refers": 0
+      "balance": 10,
+      "refers": 0,
+      "lastSpin": "2025-01-25T16:58:16.241Z"
     }
   ],
   "withdrawals": [
