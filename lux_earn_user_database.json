@@ -1,1 +1,96 @@
-{"users":[{"username":"Bella","email":"lindleyokpeterhe@gmail.com","encrypted_password":"c3379fdfe940047518750c94e6ca4451","referral_code":"BEJ8M","inviter_referral_code":null,"balance":9939040,"refers":1,"completedMissions":[2]},{"username":"Unknown","email":"favourboi160@gmail.com","encrypted_password":"b094916741860db912ddf8403ba870f1","referral_code":"UNID6","inviter_referral_code":"BEJ8M","balance":30,"refers":0,"completedMissions":[1]},{"username":"Tenoco","email":"tenocostudio0@gmail.com","encrypted_password":"c770e34e3024a6d94619b818a840a598","referral_code":"TESM3","inviter_referral_code":null,"balance":99005,"refers":0,"completedMissions":[3],"lastSpin":"2025-01-25T05:32:06.675Z"}],"withdrawals":[{"username":"Bella","email":"lindleyokpeterhe@gmail.com","accountName":"59999","accountNumber":"812435545","bank":"Opay","amount":50000,"totalBalance":10000000,"timestamp":"2025-01-24T14:31:22.397Z","status":"completed"},{"username":"Bella","email":"lindleyokpeterhe@gmail.com","accountName":"8077666","accountNumber":"Hh","bank":"Zenith Bank","amount":1000,"totalBalance":9950000,"timestamp":"2025-01-24T20:02:49.920Z","status":"completed"},{"username":"Bella","email":"lindleyokpeterhe@gmail.com","accountName":"8077666","accountNumber":"Hh","bank":"Zenith Bank","amount":10000,"totalBalance":9949040,"timestamp":"2025-01-24T23:27:31.486Z","status":"completed"},{"username":"Tenoco","email":"tenocostudio0@gmail.com","accountName":"Tenoco","accountNumber":"8076556252","bank":"Opay","amount":1000,"totalBalance":100005,"timestamp":"2025-01-25T06:27:02.696Z","status":"completed"}]}
+{
+  "users": [
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
+      "referral_code": "BEJ8M",
+      "inviter_referral_code": null,
+      "balance": 9939040,
+      "refers": 1,
+      "completedMissions": [
+        2
+      ]
+    },
+    {
+      "username": "Unknown",
+      "email": "favourboi160@gmail.com",
+      "encrypted_password": "b094916741860db912ddf8403ba870f1",
+      "referral_code": "UNID6",
+      "inviter_referral_code": "BEJ8M",
+      "balance": 30,
+      "refers": 0,
+      "completedMissions": [
+        1
+      ]
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "encrypted_password": "c770e34e3024a6d94619b818a840a598",
+      "referral_code": "TESM3",
+      "inviter_referral_code": null,
+      "balance": 99005,
+      "refers": 0,
+      "completedMissions": [
+        3
+      ],
+      "lastSpin": "2025-01-25T05:32:06.675Z"
+    },
+    {
+      "username": "mummy",
+      "email": "deempresstv@gmail.com",
+      "encrypted_password": "f72a6016e00b6628b5f2bf05bf7b4e87",
+      "referral_code": "MU8RD",
+      "inviter_referral_code": null,
+      "balance": 0,
+      "refers": 0
+    }
+  ],
+  "withdrawals": [
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "59999",
+      "accountNumber": "812435545",
+      "bank": "Opay",
+      "amount": 50000,
+      "totalBalance": 10000000,
+      "timestamp": "2025-01-24T14:31:22.397Z",
+      "status": "completed"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Zenith Bank",
+      "amount": 1000,
+      "totalBalance": 9950000,
+      "timestamp": "2025-01-24T20:02:49.920Z",
+      "status": "completed"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Zenith Bank",
+      "amount": 10000,
+      "totalBalance": 9949040,
+      "timestamp": "2025-01-24T23:27:31.486Z",
+      "status": "completed"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 100005,
+      "timestamp": "2025-01-25T06:27:02.696Z",
+      "status": "completed"
+    }
+  ]
+}
