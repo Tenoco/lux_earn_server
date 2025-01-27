@@ -101,6 +101,17 @@
       "inviter_referral_code": "RAPV7",
       "balance": 0,
       "refers": 0
+    },
+    {
+      "username": "Kevin",
+      "email": "kevin@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "KE7AR",
+      "inviter_referral_code": null,
+      "balance": 0,
+      "refers": 0,
+      "completedMissions": [],
+      "verifyStatus": {}
     }
   ],
   "withdrawals": [
