@@ -119,8 +119,11 @@
       "encrypted_password": "202cb962ac59075b964b07152d234b70",
       "referral_code": "AP0YW",
       "inviter_referral_code": null,
-      "balance": 0,
-      "refers": 0
+      "balance": 10000,
+      "refers": 0,
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
