@@ -6,7 +6,7 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEJ8M",
       "inviter_referral_code": null,
-      "balance": 9949040,
+      "balance": 9939040,
       "refers": 1,
       "completedMissions": [
         2,
@@ -172,6 +172,17 @@
       "totalBalance": 100005,
       "timestamp": "2025-01-25T06:27:02.696Z",
       "status": "completed"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Kuda Bank",
+      "amount": 10000,
+      "totalBalance": 9929040,
+      "timestamp": "2025-01-27T19:36:35.982Z",
+      "status": "pending"
     }
   ]
 }
