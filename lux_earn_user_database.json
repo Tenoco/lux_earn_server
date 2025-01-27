@@ -90,6 +90,15 @@
       "encrypted_password": "f96b0131c0dfdfebe8ecbd7b6175654a",
       "referral_code": "RAPV7",
       "inviter_referral_code": null,
+      "balance": 40,
+      "refers": 1
+    },
+    {
+      "username": "Kenny",
+      "email": "jihavi2715@offcdn.com",
+      "encrypted_password": "f96b0131c0dfdfebe8ecbd7b6175654a",
+      "referral_code": "KE1KC",
+      "inviter_referral_code": "RAPV7",
       "balance": 0,
       "refers": 0
     }
