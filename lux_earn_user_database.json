@@ -71,9 +71,12 @@
       "encrypted_password": "e8ffe08265cb5cddd590b34bc634c397",
       "referral_code": "DAFIC",
       "inviter_referral_code": null,
-      "balance": 32,
+      "balance": 42,
       "refers": 0,
-      "lastSpin": "2025-01-28T14:59:54.425Z"
+      "lastSpin": "2025-01-28T14:59:54.425Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Bellad",
