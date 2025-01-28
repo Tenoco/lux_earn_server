@@ -133,8 +133,9 @@
       "encrypted_password": "9c4497c73a815a17c8dfe15fc40a4fe0",
       "referral_code": "BEPIP",
       "inviter_referral_code": null,
-      "balance": 0,
-      "refers": 0
+      "balance": 20,
+      "refers": 0,
+      "lastSpin": "2025-01-28T08:32:34.308Z"
     }
   ],
   "withdrawals": [
