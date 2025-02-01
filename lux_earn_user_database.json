@@ -163,7 +163,7 @@
       "encrypted_password": "51ceb4d93ac150b46d2c514144e947f4",
       "referral_code": "KISXI",
       "inviter_referral_code": "BEJ8M",
-      "balance": 5000,
+      "balance": 0,
       "refers": 0,
       "completedMissions": [
         2
@@ -236,6 +236,17 @@
       "totalBalance": 9849040,
       "timestamp": "2025-01-27T19:37:00.464Z",
       "status": "completed"
+    },
+    {
+      "username": "KingsMediaT",
+      "email": "kingscrypto77@gmail.com",
+      "accountName": "Chukwuebuka Ekpemandu ",
+      "accountNumber": "8028716014",
+      "bank": "Palmpay",
+      "amount": 5000,
+      "totalBalance": 5000,
+      "timestamp": "2025-02-01T13:02:44.682Z",
+      "status": "pending"
     }
   ]
 }
