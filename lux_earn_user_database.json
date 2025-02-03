@@ -32,7 +32,7 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BET5S",
       "inviter_referral_code": null,
-      "balance": 10010008,
+      "balance": 10008008,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -53,6 +53,17 @@
       "amount": 10000,
       "totalBalance": 10000,
       "timestamp": "2025-02-03T16:26:51.772Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Kuda Bank",
+      "amount": 2000,
+      "totalBalance": 10010008,
+      "timestamp": "2025-02-03T21:27:00.456Z",
       "status": "pending"
     }
   ]
