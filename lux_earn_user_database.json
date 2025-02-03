@@ -32,7 +32,7 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BET5S",
       "inviter_referral_code": null,
-      "balance": 4806008,
+      "balance": 3806008,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -152,6 +152,17 @@
       "amount": 1000000,
       "totalBalance": 5806008,
       "timestamp": "2025-02-03T22:22:18.647Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "B",
+      "accountNumber": "Vg",
+      "bank": "Zenith Bank",
+      "amount": 1000000,
+      "totalBalance": 4806008,
+      "timestamp": "2025-02-03T22:22:21.712Z",
       "status": "pending"
     }
   ]
