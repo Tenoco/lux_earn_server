@@ -32,11 +32,15 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BET5S",
       "inviter_referral_code": null,
-      "balance": 8,
+      "balance": 10010008,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
-      "lastSpin": "2025-02-03T20:10:56.963Z"
+      "lastSpin": "2025-02-03T20:10:56.963Z",
+      "completedMissions": [
+        2,
+        1
+      ]
     }
   ],
   "withdrawals": [
