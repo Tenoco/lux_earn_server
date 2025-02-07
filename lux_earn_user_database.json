@@ -33,14 +33,25 @@
       "referral_code": "BET5S",
       "inviter_referral_code": null,
       "balance": 3806031,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 40,
       "withdrawalBalance": 0,
       "lastSpin": "2025-02-06T12:34:16.338Z",
       "completedMissions": [
         2,
         1
       ]
+    },
+    {
+      "username": "Belng",
+      "email": "lindleyokpeterh@gmail.com",
+      "encrypted_password": "9006249cf21c989a3eba86c977c0e6b9",
+      "referral_code": "BEN6B",
+      "inviter_referral_code": "BET5S",
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0
     }
   ],
   "withdrawals": [
