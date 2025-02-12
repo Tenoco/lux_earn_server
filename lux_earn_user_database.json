@@ -6,7 +6,7 @@
       "encrypted_password": "202cb962ac59075b964b07152d234b70",
       "referral_code": "TEG8X",
       "inviter_referral_code": null,
-      "balance": 10000030,
+      "balance": 9990030,
       "refers": 1,
       "referralBalance": 40,
       "withdrawalBalance": 0,
@@ -220,6 +220,17 @@
       "amount": 1000,
       "totalBalance": 3806118,
       "timestamp": "2025-02-12T19:50:17.362Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 10000,
+      "totalBalance": 10000030,
+      "timestamp": "2025-02-12T19:49:31.693Z",
       "status": "pending"
     }
   ]
