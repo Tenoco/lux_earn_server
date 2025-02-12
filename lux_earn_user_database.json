@@ -74,6 +74,17 @@
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0
+    },
+    {
+      "username": "Apple",
+      "email": "apple@apple.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "AP2GX",
+      "inviter_referral_code": null,
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0
     }
   ],
   "withdrawals": [
