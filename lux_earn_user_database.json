@@ -17,10 +17,13 @@
       "encrypted_password": "30b9f06f2cb0c44c1290564ac007c9e0",
       "referral_code": "PRR8O",
       "inviter_referral_code": null,
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0
+      "withdrawalBalance": 0,
+      "completedMissions": [
+        1
+      ]
     }
   ]
 }
