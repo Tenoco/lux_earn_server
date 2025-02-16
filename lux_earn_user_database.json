@@ -6,10 +6,13 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEMM8",
       "inviter_referral_code": null,
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0
+      "withdrawalBalance": 0,
+      "completedMissions": [
+        4
+      ]
     },
     {
       "username": "prettygold",
