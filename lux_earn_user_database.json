@@ -60,10 +60,11 @@
       "encrypted_password": "c28af7eea54b2c4cea8de352f89f0cd1",
       "referral_code": "GOIXZ",
       "inviter_referral_code": null,
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0
+      "withdrawalBalance": 0,
+      "lastSpin": "2025-02-17T17:00:02.962Z"
     }
   ]
 }
