@@ -50,10 +50,11 @@
       "encrypted_password": "202cb962ac59075b964b07152d234b70",
       "referral_code": "TE3BI",
       "inviter_referral_code": null,
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0
+      "withdrawalBalance": 0,
+      "lastSpin": "2025-02-18T04:05:49.238Z"
     },
     {
       "username": "goldenlunatic",
