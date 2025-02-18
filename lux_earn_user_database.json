@@ -6,7 +6,7 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEMM8",
       "inviter_referral_code": null,
-      "balance": 9999019,
+      "balance": 9998019,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -95,6 +95,17 @@
       "amount": 10000,
       "totalBalance": 10000025,
       "timestamp": "2025-02-18T04:44:49.412Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 9999019,
+      "timestamp": "2025-02-18T05:06:22.841Z",
       "status": "pending"
     }
   ]
