@@ -6,7 +6,7 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEMM8",
       "inviter_referral_code": null,
-      "balance": 10000001,
+      "balance": 10000019,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14,7 +14,8 @@
         4,
         2
       ],
-      "banned": false
+      "banned": false,
+      "lastSpin": "2025-02-18T04:14:52.160Z"
     },
     {
       "username": "prettygold",
