@@ -25,7 +25,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 9030,
+      "balance": 8030,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -68,6 +68,17 @@
       "amount": 1000,
       "totalBalance": 10000,
       "timestamp": "2025-02-18T21:39:04.167Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 9030,
+      "timestamp": "2025-02-18T22:46:21.571Z",
       "status": "pending"
     }
   ],
