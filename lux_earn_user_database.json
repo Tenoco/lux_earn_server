@@ -13,7 +13,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-18T21:29:15.384Z"
+      "joinDate": "2025-02-18T21:29:15.384Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
+      "referral_code": "BE3ON",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-18T21:33:22.513Z"
     }
   ],
   "withdrawals": [],
