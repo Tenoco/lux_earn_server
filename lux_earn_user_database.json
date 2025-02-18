@@ -7,8 +7,8 @@
       "referral_code": "BEMM8",
       "inviter_referral_code": null,
       "balance": 10008019,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 1000,
       "completedMissions": [
         4,
@@ -73,6 +73,17 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "lastSpin": "2025-02-17T17:00:02.962Z"
+    },
+    {
+      "username": "Bellad",
+      "email": "jopy00@gmail.com",
+      "encrypted_password": "e7e9ec3723447a642f762b2b6a15cfd7",
+      "referral_code": "BE6H1",
+      "inviter_referral_code": "BEMM8",
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0
     }
   ],
   "withdrawals": [
