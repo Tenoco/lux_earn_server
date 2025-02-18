@@ -44,12 +44,15 @@
       "inviter_referral_code": "BEJ8M",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10000,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-18T22:30:19.693Z"
+      "joinDate": "2025-02-18T22:30:19.693Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
