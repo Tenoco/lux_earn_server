@@ -6,12 +6,13 @@
       "encrypted_password": "c3379fdfe940047518750c94e6ca4451",
       "referral_code": "BEMM8",
       "inviter_referral_code": null,
-      "balance": 1,
+      "balance": 10000001,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "completedMissions": [
-        4
+        4,
+        2
       ],
       "banned": false
     },
