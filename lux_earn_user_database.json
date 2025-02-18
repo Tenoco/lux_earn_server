@@ -1,3 +1,21 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "CEO ",
+      "email": "specialbella00@gmail.com",
+      "encrypted_password": "5ad707348af0c38dbdd7c7a3664135ba",
+      "referral_code": "CEDWQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-18T21:29:15.384Z"
+    }
+  ],
+  "withdrawals": [],
+  "missions": []
 }
