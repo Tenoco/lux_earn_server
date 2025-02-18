@@ -25,7 +25,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10000,
+      "balance": 9000,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37,6 +37,18 @@
       "lastSpin": null
     }
   ],
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "645533543",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 10000,
+      "timestamp": "2025-02-18T21:39:04.167Z",
+      "status": "pending"
+    }
+  ],
   "missions": []
 }
