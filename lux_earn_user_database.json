@@ -52,7 +52,7 @@
       "encrypted_password": "202cb962ac59075b964b07152d234b70",
       "referral_code": "TE3BI",
       "inviter_referral_code": null,
-      "balance": 10000025,
+      "balance": 9990025,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -84,6 +84,17 @@
       "amount": 1000,
       "totalBalance": 10000019,
       "timestamp": "2025-02-18T04:39:30.206Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Uqhgw",
+      "accountNumber": "Hywuwu",
+      "bank": "UBA",
+      "amount": 10000,
+      "totalBalance": 10000025,
+      "timestamp": "2025-02-18T04:44:49.412Z",
       "status": "pending"
     }
   ]
