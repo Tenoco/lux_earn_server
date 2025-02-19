@@ -83,7 +83,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10000050,
+      "balance": 9997050,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -140,6 +140,16 @@
       "phoneNumber": "08082541588",
       "amount": 600,
       "timestamp": "2025-02-19T08:09:51.910Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "type": "data",
+      "network": "glo",
+      "phoneNumber": "08076556252",
+      "amount": 3000,
+      "timestamp": "2025-02-19T15:11:14.286Z",
       "status": "pending"
     }
   ]
