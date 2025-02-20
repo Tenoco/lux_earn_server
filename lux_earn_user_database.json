@@ -142,7 +142,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:00:50.053Z"
+      "joinDate": "2025-02-20T23:00:50.053Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "STG",
+      "email": "adedejiolumide.24@gmail.com",
+      "encrypted_password": "f9e3eaf70cf1348cae6d7fcb1878efbf",
+      "referral_code": "ST2EB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:01:19.233Z"
     }
   ],
   "withdrawals": [
