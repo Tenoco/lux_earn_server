@@ -1022,7 +1022,7 @@
       "invited_users": [
         "Olaes"
       ],
-      "balance": 120,
+      "balance": 130,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1030,7 +1030,8 @@
       "joinDate": "2025-02-20T23:10:19.870Z",
       "completedMissions": [
         1,
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
@@ -2253,7 +2254,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:22:56.633Z"
+      "joinDate": "2025-02-20T23:22:56.633Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
