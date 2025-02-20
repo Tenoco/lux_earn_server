@@ -2432,7 +2432,8 @@
         7,
         6,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Negro234",
@@ -2703,7 +2704,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 120,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2711,7 +2712,9 @@
       "joinDate": "2025-02-20T23:26:31.036Z",
       "completedMissions": [
         1,
-        1
+        1,
+        1,
+        2
       ],
       "lastSpin": null
     },
