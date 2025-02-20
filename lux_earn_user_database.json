@@ -2705,10 +2705,12 @@
       "referral_code": "COS2L",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "OLIVIALOVE "
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -3548,7 +3550,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:36:22.940Z"
+      "joinDate": "2025-02-20T23:36:22.940Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "OLIVIALOVE ",
+      "email": "berrypinkie1@gmail.com",
+      "encrypted_password": "ac9a7ecccdbf382e958ec8fdb64210b7",
+      "referral_code": "OL6TF",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:27.148Z"
     }
   ],
   "withdrawals": [
