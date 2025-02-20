@@ -2755,7 +2755,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 230,
+      "balance": 252,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2768,7 +2768,7 @@
         7,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:31:59.191Z"
     },
     {
       "username": "Henny123",
@@ -3131,7 +3131,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:32:06.337Z"
+      "joinDate": "2025-02-20T23:32:06.337Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
