@@ -4885,7 +4885,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:58:31.535Z"
+      "joinDate": "2025-02-20T23:58:31.535Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "yakiniemmanuel",
+      "email": "yekiniemmy@gmail.com",
+      "encrypted_password": "685b0eada7a901b0e04a1cdf5c49def1",
+      "referral_code": "YARMK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:58:44.265Z"
     }
   ],
   "withdrawals": [
