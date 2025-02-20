@@ -154,12 +154,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 68,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:01:19.233Z"
+      "joinDate": "2025-02-20T23:01:19.233Z",
+      "lastSpin": "2025-02-20T23:01:29.993Z"
     }
   ],
   "withdrawals": [
