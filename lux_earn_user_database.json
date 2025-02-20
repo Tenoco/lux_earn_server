@@ -1300,11 +1300,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Ummita2 "
+        "Ummita2 ",
+        "Ayomide"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:19.987Z",
@@ -3460,6 +3461,21 @@
       "joinDate": "2025-02-20T23:35:30.184Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomide",
+      "email": "Ayodelelois23@gmail.com",
+      "encrypted_password": "775d0671f97705f6c0159fe9db108d98",
+      "referral_code": "AYHNY",
+      "inviter_referral_code": "RA47P",
+      "inviter_username": "Rahmat2007",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:35:47.857Z"
     }
   ],
   "withdrawals": [
