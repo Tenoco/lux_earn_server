@@ -1537,14 +1537,17 @@
       "inviter_referral_code": "KllO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:18.808Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        1,
+        4
+      ]
     },
     {
       "username": "INVEXTOR ",
