@@ -1969,7 +1969,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 195,
+      "balance": 230,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1979,9 +1979,9 @@
         2,
         1,
         3,
-        8
-      ],
-      "lastSpin": null
+        8,
+        7
+      ]
     },
     {
       "username": "Owoloye ",
@@ -2328,7 +2328,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:23:25.851Z"
+      "joinDate": "2025-02-20T23:23:25.851Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
