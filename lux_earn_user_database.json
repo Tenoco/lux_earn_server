@@ -689,11 +689,12 @@
         "Olawale615",
         "ZAGZI ",
         "Mrhalifa12 ",
-        "faaeez adewale "
+        "faaeez adewale ",
+        "Princezazu"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -1934,6 +1935,21 @@
       "joinDate": "2025-02-20T23:19:29.924Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Princezazu",
+      "email": "princewillcyril88@gmail.com",
+      "encrypted_password": "5eee2ff44070ecca75f0444f3c3ecad8",
+      "referral_code": "PRCEH",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:19:44.437Z"
     }
   ],
   "withdrawals": [
