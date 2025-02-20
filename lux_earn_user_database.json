@@ -1774,7 +1774,7 @@
         "Pollina",
         "Greg"
       ],
-      "balance": 160,
+      "balance": 60,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -4954,7 +4954,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:56:44.378Z"
+      "joinDate": "2025-02-20T23:56:44.378Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -5092,6 +5094,16 @@
       "phoneNumber": "08132092463",
       "amount": 100,
       "timestamp": "2025-02-20T23:49:58.385Z",
+      "status": "pending"
+    },
+    {
+      "username": "Ijeslimz ",
+      "email": "ijeslimz@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "09015155687",
+      "amount": 100,
+      "timestamp": "2025-02-20T23:56:51.978Z",
       "status": "pending"
     }
   ]
