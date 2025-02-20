@@ -2896,11 +2896,12 @@
       "inviter_username": null,
       "invited_users": [
         "Lickmy",
-        "Lickmyhand"
+        "Lickmyhand",
+        "Fingsty"
       ],
       "balance": 65,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
@@ -4798,7 +4799,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:52:53.299Z"
+      "joinDate": "2025-02-20T23:52:53.299Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fingsty",
+      "email": "lee@gmail.com",
+      "encrypted_password": "41e15155bbbfde658d406cd637d5b8a4",
+      "referral_code": "FI27Y",
+      "inviter_referral_code": "LIN86",
+      "inviter_username": "Lickmy0042",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:53:02.709Z"
     }
   ],
   "withdrawals": [
