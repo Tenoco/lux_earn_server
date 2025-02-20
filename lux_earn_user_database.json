@@ -1158,7 +1158,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1172,7 +1172,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -1711,13 +1712,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:49.927Z",
-      "lastSpin": "2025-02-20T23:16:35.140Z",
       "completedMissions": [
         1,
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:16:35.140Z"
     },
     {
       "username": "Bobby12 ",
