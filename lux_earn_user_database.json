@@ -4393,7 +4393,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:45:27.815Z"
+      "joinDate": "2025-02-20T23:45:27.815Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeex101",
+      "email": "faruqadekanbi8@gmail.com",
+      "encrypted_password": "a878ea0b2aae1f3701050fef05849c9a",
+      "referral_code": "ADHGB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:09.658Z"
     }
   ],
   "withdrawals": [
