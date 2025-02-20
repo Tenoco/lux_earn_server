@@ -470,7 +470,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:04:05.111Z"
+      "joinDate": "2025-02-20T23:04:05.111Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hafsey",
+      "email": "salisuhafsat034@gmail.com",
+      "encrypted_password": "4ca82782c5372a547c104929f03fe7a9",
+      "referral_code": "HAKYV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:04:05.608Z"
     }
   ],
   "withdrawals": [
