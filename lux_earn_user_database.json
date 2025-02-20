@@ -4941,7 +4941,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:59:16.886Z"
+      "joinDate": "2025-02-20T23:59:16.886Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "King Von ",
+      "email": "ajokeadeduduke@gmail.com",
+      "encrypted_password": "177eb18acc1fb1237e9c2a810816052c",
+      "referral_code": "KIT4L",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:59:11.613Z"
     }
   ],
   "withdrawals": [
