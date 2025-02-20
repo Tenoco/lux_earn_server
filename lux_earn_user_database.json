@@ -160,7 +160,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:01:29.993Z"
+    },
+    {
+      "username": "Hephzi",
+      "email": "isdoreblossom608@gmail.com",
+      "encrypted_password": "5551435cd37437a9bac868cde975677a",
+      "referral_code": "HEF6Q",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:01:37.429Z"
     }
   ],
   "withdrawals": [
