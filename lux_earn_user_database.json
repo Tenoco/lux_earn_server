@@ -3430,7 +3430,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "teeclassic_05",
@@ -3533,6 +3534,21 @@
       "joinDate": "2025-02-20T23:36:14.723Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fearless ",
+      "email": "oreoluwaoluwakuade@gmail.com",
+      "encrypted_password": "28af29c3fcfa1b71d38c69c1e52a17f1",
+      "referral_code": "FEOE2",
+      "inviter_referral_code": "FI",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:22.940Z"
     }
   ],
   "withdrawals": [
