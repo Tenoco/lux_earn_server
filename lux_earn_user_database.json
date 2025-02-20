@@ -1586,11 +1586,12 @@
         "Sweetmum",
         "Johnny",
         "Lookman",
-        "Yippee "
+        "Yippee ",
+        "Hope "
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3586,7 +3587,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:36:41.918Z"
+      "joinDate": "2025-02-20T23:36:41.918Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hope ",
+      "email": "uopguk@gmail.com",
+      "encrypted_password": "82cad4fe79736c7b0496f93827470c7e",
+      "referral_code": "HO50V",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:46.293Z"
     }
   ],
   "withdrawals": [
