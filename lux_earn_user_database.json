@@ -3376,14 +3376,15 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Mammiegold",
@@ -3451,7 +3452,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:35:30.184Z"
+      "joinDate": "2025-02-20T23:35:30.184Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
