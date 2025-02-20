@@ -1024,7 +1024,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:11:07.867Z"
+      "joinDate": "2025-02-20T23:11:07.867Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Anna10",
+      "email": "annannennadaniel@gmail.com",
+      "encrypted_password": "8ff861bcfd87bd85e9b207ea74cb6596",
+      "referral_code": "ANJQD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:14.125Z"
     }
   ],
   "withdrawals": [
