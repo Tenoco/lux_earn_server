@@ -2124,6 +2124,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:17:51.002Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:45:14.776Z"
     },
     {
@@ -2863,14 +2864,14 @@
       "invited_users": [
         "Lickmy"
       ],
-      "balance": 50,
+      "balance": 65,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:45:15.847Z"
     },
     {
       "username": "CoachNick",
