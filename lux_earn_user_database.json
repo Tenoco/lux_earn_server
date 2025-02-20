@@ -375,7 +375,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Triumph ",
@@ -529,6 +530,21 @@
       "joinDate": "2025-02-20T23:04:32.949Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Confirmtv",
+      "email": "chidubeme00@gmail.com",
+      "encrypted_password": "fc1c58bb80215babc64c50b6a6883fe8",
+      "referral_code": "COWOA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:04:40.135Z"
     }
   ],
   "withdrawals": [
