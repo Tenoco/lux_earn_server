@@ -1245,7 +1245,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jomilee",
@@ -1457,7 +1458,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 155,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1466,7 +1467,8 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        6
       ],
       "lastSpin": null
     },
