@@ -701,11 +701,12 @@
         "Mrhalifa12 ",
         "faaeez adewale ",
         "Princezazu",
-        "Israel"
+        "Israel",
+        "Eric sinx"
       ],
       "balance": 50,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -2261,12 +2262,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:23:38.595Z"
     },
     {
       "username": "Shegzzy Media",
@@ -2648,6 +2649,21 @@
       "joinDate": "2025-02-20T23:26:31.036Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eric sinx",
+      "email": "udoherikan176@gmail.com",
+      "encrypted_password": "c576c6f19e74da9837b47ea3575f66e9",
+      "referral_code": "ERBTM",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:26:36.677Z"
     }
   ],
   "withdrawals": [
