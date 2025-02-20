@@ -726,11 +726,12 @@
         "Princezazu",
         "Israel",
         "Eric sinx",
-        "Blaze"
+        "Blaze",
+        "Ayoola "
       ],
       "balance": 50,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -4334,7 +4335,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:45:05.031Z"
+      "joinDate": "2025-02-20T23:45:05.031Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayoola ",
+      "email": "gbolahansobowale6@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "AYF10",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:08.439Z"
     }
   ],
   "withdrawals": [
