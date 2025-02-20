@@ -389,7 +389,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "09139659667",
@@ -671,6 +672,21 @@
       "joinDate": "2025-02-20T23:06:51.182Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kimah373",
+      "email": "favvysliver373@gmail.com",
+      "encrypted_password": "dabe6cc915993f236c009e6d961fe091",
+      "referral_code": "KITGL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:07:23.196Z"
     }
   ],
   "withdrawals": [
