@@ -2294,7 +2294,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:23:19.896Z"
+      "joinDate": "2025-02-20T23:23:19.896Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tappo",
+      "email": "tapshaksolomon122@gmail.com",
+      "encrypted_password": "289af21cc2d1aea40db21babfebaf45f",
+      "referral_code": "TA275",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:23:21.662Z"
     }
   ],
   "withdrawals": [
