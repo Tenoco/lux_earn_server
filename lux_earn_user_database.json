@@ -1177,11 +1177,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Abdul230"
+        "Abdul230",
+        "Victordominic "
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -3035,6 +3036,21 @@
       "joinDate": "2025-02-20T23:30:50.186Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victordominic ",
+      "email": "Victordominic718@gmail.com",
+      "encrypted_password": "1102f2465bae0d7cf01975cac79c1e71",
+      "referral_code": "VINHC",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:31:14.017Z"
     }
   ],
   "withdrawals": [
