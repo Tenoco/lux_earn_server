@@ -1827,7 +1827,7 @@
         "jamiluamusbahu",
         "Sirblack1338"
       ],
-      "balance": 255,
+      "balance": 265,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -1839,7 +1839,8 @@
         3,
         2,
         8,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-20T23:18:56.576Z"
     },
@@ -4672,7 +4673,8 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "silas olamide",
