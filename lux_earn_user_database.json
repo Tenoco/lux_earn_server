@@ -1106,7 +1106,8 @@
       "joinDate": "2025-02-20T23:11:40.930Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danny ",
@@ -1277,6 +1278,21 @@
       "joinDate": "2025-02-20T23:13:13.451Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "FINIX ",
+      "email": "fiyinfoluwaalabi303@gmail.com",
+      "encrypted_password": "3dd89dd621f1190cfa6ba1d36e0917dd",
+      "referral_code": "FIRQF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:21.962Z"
     }
   ],
   "withdrawals": [
