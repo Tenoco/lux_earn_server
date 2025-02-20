@@ -4664,7 +4664,7 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 120,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4672,9 +4672,10 @@
       "joinDate": "2025-02-20T23:50:15.120Z",
       "completedMissions": [
         1,
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        2
+      ]
     },
     {
       "username": "silas olamide",
