@@ -2737,14 +2737,16 @@
       "inviter_referral_code": "KITGL ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 107,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:26:03.162Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T08:26:58.011Z"
     },
     {
       "username": "Wilson",
@@ -2895,7 +2897,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:29:13.253Z"
+      "joinDate": "2025-02-20T23:29:13.253Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
