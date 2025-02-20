@@ -1618,7 +1618,7 @@
       "invited_users": [
         "Joe"
       ],
-      "balance": 170,
+      "balance": 180,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1628,7 +1628,8 @@
         3,
         2,
         1,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-20T23:13:48.206Z"
     },
@@ -4731,7 +4732,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:51:30.466Z"
+      "joinDate": "2025-02-20T23:51:30.466Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
