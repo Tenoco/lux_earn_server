@@ -245,13 +245,22 @@
       "invited_users": [
         "Tetantes"
       ],
-      "balance": 50,
+      "balance": 235,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        8
+      ],
       "lastSpin": null
     },
     {
@@ -1189,7 +1198,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Rahmat2007",
