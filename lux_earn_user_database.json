@@ -3403,7 +3403,7 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 195,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3413,9 +3413,11 @@
         1,
         2,
         8,
-        3
-      ],
-      "lastSpin": null
+        3,
+        7,
+        4,
+        5
+      ]
     },
     {
       "username": "Mammiegold",
@@ -3697,7 +3699,8 @@
       "joinDate": "2025-02-20T23:37:51.069Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dogggishoo",
