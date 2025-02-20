@@ -1557,10 +1557,12 @@
       "referral_code": "SI8L7",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Olawale "
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -2026,7 +2028,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oluwaferanmi",
@@ -2095,6 +2098,21 @@
       "joinDate": "2025-02-21T08:20:32.995Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olawale ",
+      "email": "olawalegafar561@gmail.com",
+      "encrypted_password": "495222a605b972aedb7a14affb3296fd",
+      "referral_code": "OL0ML",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:21:29.462Z"
     }
   ],
   "withdrawals": [
