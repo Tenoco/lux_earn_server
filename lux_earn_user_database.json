@@ -1399,7 +1399,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:13:57.621Z"
+      "joinDate": "2025-02-20T23:13:57.621Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmy",
+      "email": "emmyfly067@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "EMISH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:58.617Z"
     }
   ],
   "withdrawals": [
