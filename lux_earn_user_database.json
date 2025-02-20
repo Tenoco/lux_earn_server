@@ -863,14 +863,13 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 50,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:09:34.372Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:10:34.283Z"
     },
     {
       "username": "ivy122",
@@ -953,7 +952,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:10:32.858Z"
+      "joinDate": "2025-02-20T23:10:32.858Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
