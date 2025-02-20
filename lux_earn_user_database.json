@@ -2524,7 +2524,7 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 155,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2533,6 +2533,7 @@
       "completedMissions": [
         1,
         2,
+        3,
         3
       ]
     },
