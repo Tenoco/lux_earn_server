@@ -411,7 +411,8 @@
       "joinDate": "2025-02-20T23:03:33.802Z",
       "completedMissions": [
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "AbdulAj",
@@ -548,6 +549,21 @@
       "joinDate": "2025-02-20T23:04:40.135Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jonahegbe",
+      "email": "umumejonah8@gmail.com",
+      "encrypted_password": "d0f356ca9cbb47eca611615ab2557c5e",
+      "referral_code": "JO4QJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:04:56.739Z"
     }
   ],
   "withdrawals": [
