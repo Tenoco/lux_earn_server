@@ -142,11 +142,12 @@
       "inviter_username": null,
       "invited_users": [
         "Murtala1111",
-        "Nana111"
+        "Nana111",
+        "Mootww"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -800,7 +801,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nora",
@@ -1164,6 +1166,21 @@
       "joinDate": "2025-02-20T23:12:22.313Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mootww",
+      "email": "arogunrerinmm@gmail.com",
+      "encrypted_password": "67914da6e505ff9a0bb153574a90b667",
+      "referral_code": "MOD4Q",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:29.463Z"
     }
   ],
   "withdrawals": [
