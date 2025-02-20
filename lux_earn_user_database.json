@@ -2270,14 +2270,15 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:36.620Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Caleb2211",
@@ -2602,7 +2603,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:26:10.360Z"
+      "joinDate": "2025-02-20T23:26:10.360Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
