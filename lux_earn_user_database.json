@@ -632,13 +632,15 @@
         "Olaide ",
         "Starlet123"
       ],
-      "balance": 72,
+      "balance": 112,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
-      "completedMissions": [],
+      "completedMissions": [
+        8
+      ],
       "lastSpin": "2025-02-20T23:48:28.264Z"
     },
     {
@@ -4655,7 +4657,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:50:33.371Z"
+      "joinDate": "2025-02-20T23:50:33.371Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
