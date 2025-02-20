@@ -2526,14 +2526,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:11.110Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Eddie Gregory ",
@@ -2549,6 +2550,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:16.247Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:25:58.781Z"
     },
     {
