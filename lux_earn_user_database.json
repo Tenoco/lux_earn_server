@@ -336,10 +336,12 @@
       "referral_code": "BE2T2",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Elizabeth "
+      ],
       "balance": 85,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:26.644Z",
@@ -1328,7 +1330,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:13:26.804Z"
+      "joinDate": "2025-02-20T23:13:26.804Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elizabeth ",
+      "email": "lizzyebigwai@gmail.com",
+      "encrypted_password": "9a64ce5e08e608171c582386279f57e1",
+      "referral_code": "EL458",
+      "inviter_referral_code": "BE2T2",
+      "inviter_username": "Beverly",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:43.131Z"
     }
   ],
   "withdrawals": [
