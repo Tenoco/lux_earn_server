@@ -1345,10 +1345,12 @@
       "referral_code": "OL0RR",
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
-      "invited_users": [],
+      "invited_users": [
+        "Hardek "
+      ],
       "balance": 195,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:35.894Z",
@@ -2740,7 +2742,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:27:41.280Z"
+      "joinDate": "2025-02-20T23:27:41.280Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hardek ",
+      "email": "iloriherit471@gmail.com",
+      "encrypted_password": "977712f7cf38214be46ac7baf61de5e3",
+      "referral_code": "HA5WA",
+      "inviter_referral_code": "OL0RR",
+      "inviter_username": "Ola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:27:49.169Z"
     }
   ],
   "withdrawals": [
