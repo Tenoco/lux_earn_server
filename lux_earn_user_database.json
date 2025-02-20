@@ -4376,7 +4376,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:45:27.307Z"
+      "joinDate": "2025-02-20T23:45:27.307Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Delight",
+      "email": "olarewajudelight743@gmail.com",
+      "encrypted_password": "622bb50a2d5c6d0c73c89ad514d66008",
+      "referral_code": "DEDC5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:27.815Z"
     }
   ],
   "withdrawals": [
