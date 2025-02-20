@@ -1699,14 +1699,17 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 85,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:34.632Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3,
+        4
       ],
       "lastSpin": null
     },
@@ -2029,7 +2032,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Israel",
