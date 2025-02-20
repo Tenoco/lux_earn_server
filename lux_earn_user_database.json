@@ -150,11 +150,12 @@
       "invited_users": [
         "Murtala1111",
         "Nana111",
-        "Mootww"
+        "Mootww",
+        "Muhammad "
       ],
       "balance": 51,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -1979,7 +1980,8 @@
         1,
         3,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Owoloye ",
@@ -2278,6 +2280,21 @@
       "joinDate": "2025-02-19T21:14:28.428Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad ",
+      "email": "bertyqwer3@gmail.com",
+      "encrypted_password": "f41d412c813c59d86aa1c95b0f5bb40e",
+      "referral_code": "MUS6R",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:23:19.896Z"
     }
   ],
   "withdrawals": [
