@@ -1103,13 +1103,15 @@
         "John",
         "Odia"
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
