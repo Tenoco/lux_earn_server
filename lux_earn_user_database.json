@@ -538,11 +538,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Ameen001"
+        "Ameen001",
+        "Magic"
       ],
       "balance": 220,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -3666,7 +3667,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:37:47.640Z"
+      "joinDate": "2025-02-20T23:37:47.640Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Magic",
+      "email": "saeedusmaan636@gmail.com",
+      "encrypted_password": "aab9ba42b5591219a5b20e34e0c83b78",
+      "referral_code": "MAPN0",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:37:51.069Z"
     }
   ],
   "withdrawals": [
