@@ -96,11 +96,12 @@
         "Starcakesandmore",
         "Jeromey53",
         "hassan11",
-        "Goodnewseff"
+        "Goodnewseff",
+        "DAHIRU"
       ],
       "balance": 50,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -2722,7 +2723,8 @@
         2,
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Henny123",
@@ -2842,6 +2844,21 @@
       "joinDate": "2025-02-20T23:28:20.702Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "DAHIRU",
+      "email": "umarmuhammedfaruq179@gmail.com",
+      "encrypted_password": "24f971591ca62813fa7840ca276b6c7a",
+      "referral_code": "DA3G3",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:29:05.568Z"
     }
   ],
   "withdrawals": [
