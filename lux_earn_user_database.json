@@ -265,7 +265,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
-      "lastSpin": "2025-02-20T23:04:08.318Z",
       "completedMissions": [
         1,
         1,
@@ -276,7 +275,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:04:08.318Z"
     },
     {
       "username": "realism",
@@ -774,6 +774,21 @@
       "joinDate": "2025-02-20T23:08:37.022Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mutiat001 ",
+      "email": "mutiatamolegbe@gmail.com",
+      "encrypted_password": "b1cd7da3429ce0548b9ef8e41c6e1cc6",
+      "referral_code": "MUNUX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:09:11.838Z"
     }
   ],
   "withdrawals": [
