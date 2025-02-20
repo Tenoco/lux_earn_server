@@ -515,7 +515,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Martins1736",
@@ -633,11 +634,12 @@
       "inviter_username": null,
       "invited_users": [
         "ivy122",
-        "Diamond2024"
+        "Diamond2024",
+        "Luxearner"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -937,6 +939,21 @@
       "joinDate": "2025-02-20T23:10:19.870Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Luxearner",
+      "email": "oluwakuadeemma0997@gmail.com",
+      "encrypted_password": "9b9bb71e751bee29b57735ad70ffc1ca",
+      "referral_code": "LUTF3",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:32.858Z"
     }
   ],
   "withdrawals": [
