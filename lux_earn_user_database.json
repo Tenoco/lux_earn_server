@@ -4455,14 +4455,18 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 50,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:27.307Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        8
+      ]
     },
     {
       "username": "Delight",
@@ -4884,7 +4888,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:54:24.491Z"
+      "joinDate": "2025-02-20T23:54:24.491Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
