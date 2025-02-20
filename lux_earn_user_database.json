@@ -402,7 +402,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:03:33.802Z"
+      "joinDate": "2025-02-20T23:03:33.802Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "AbdulAj",
+      "email": "Abduljalalharuna3466@gmail.com",
+      "encrypted_password": "7aa5c89c6f3e9e5fb748f0edff9e1182",
+      "referral_code": "ABR0C",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:41.669Z"
     }
   ],
   "withdrawals": [
