@@ -3085,7 +3085,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victordominic ",
@@ -3216,16 +3217,16 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:25.759Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Lookman",
