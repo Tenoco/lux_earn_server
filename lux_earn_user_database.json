@@ -155,11 +155,12 @@
         "Murtala1111",
         "Nana111",
         "Mootww",
-        "Muhammad "
+        "Muhammad ",
+        "Benjamin1881"
       ],
       "balance": 51,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -2292,7 +2293,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
@@ -2303,7 +2303,8 @@
         7,
         6,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:23:38.595Z"
     },
     {
       "username": "Shegzzy Media",
@@ -2969,6 +2970,21 @@
       "joinDate": "2025-02-20T23:29:53.827Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Benjamin1881",
+      "email": "mustapa111@gmail.com",
+      "encrypted_password": "1e55c108c5f294d990033edb0434ba75",
+      "referral_code": "BETJ9",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:30:12.441Z"
     }
   ],
   "withdrawals": [
