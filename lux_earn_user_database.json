@@ -159,11 +159,12 @@
         "Muhammad ",
         "Benjamin1881",
         "Goodness234",
-        "Dogggishoo"
+        "Dogggishoo",
+        "Muhammad Ali3335"
       ],
       "balance": 51,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -4180,6 +4181,21 @@
       "joinDate": "2025-02-20T23:43:27.420Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad Ali3335",
+      "email": "muhdali@gmail.com",
+      "encrypted_password": "11ff5696688ccece90107ef50f4b43ef",
+      "referral_code": "MUT9L",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:43:49.095Z"
     }
   ],
   "withdrawals": [
