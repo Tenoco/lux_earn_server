@@ -1207,11 +1207,12 @@
       "invited_users": [
         "Olaes",
         "Sergeant",
-        "KaydeeX"
+        "KaydeeX",
+        "Kingsiology "
       ],
       "balance": 315,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -4619,7 +4620,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:50:11.730Z"
+      "joinDate": "2025-02-20T23:50:11.730Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingsiology ",
+      "email": "kingsleydaniel2001@gmail.com",
+      "encrypted_password": "0a662adec5be4591a491f4aced75c997",
+      "referral_code": "KIV96",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:50:15.120Z"
     }
   ],
   "withdrawals": [
