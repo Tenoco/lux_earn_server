@@ -1049,10 +1049,12 @@
       "referral_code": "ED25O",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Uju12"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -1398,7 +1400,8 @@
       "joinDate": "2025-02-20T23:13:23.383Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Bright side ",
@@ -1813,6 +1816,21 @@
       "joinDate": "2025-02-20T23:18:08.315Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uju12",
+      "email": "uju345110@gmail.com",
+      "encrypted_password": "90235ede619530eb295b2671d7ca0e5f",
+      "referral_code": "UJ8SO",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:18:27.143Z"
     }
   ],
   "withdrawals": [
