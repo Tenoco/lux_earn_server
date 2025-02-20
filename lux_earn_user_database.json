@@ -1076,11 +1076,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Uju12"
+        "Uju12",
+        "Peterpan"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -2337,6 +2338,21 @@
       "joinDate": "2025-02-20T23:23:25.851Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peterpan",
+      "email": "petterpan@gmail.com",
+      "encrypted_password": "6b21b2958b3ce2043ac78b1c1dcda5fd",
+      "referral_code": "PEIG0",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:23:33.227Z"
     }
   ],
   "withdrawals": [
