@@ -792,17 +792,16 @@
       "referral_code": "KITGL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [
-        "Olaoluwa ",
-        "Shegzzy Media"
-      ],
-      "balance": 58,
-      "refers": 2,
-      "referralBalance": 200,
+      "invited_users": [],
+      "balance": 93,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-20T23:11:42.945Z"
     },
     {
@@ -1722,7 +1721,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:49.927Z",
-      "lastSpin": "2025-02-20T23:16:35.140Z",
       "completedMissions": [
         1,
         2,
@@ -1731,7 +1729,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:16:35.140Z"
     },
     {
       "username": "Bobby12 ",
