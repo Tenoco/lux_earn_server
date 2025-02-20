@@ -510,7 +510,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Martins1736",
@@ -626,10 +627,12 @@
       "referral_code": "COWOA",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "ivy122"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -861,6 +864,21 @@
       "joinDate": "2025-02-20T23:09:34.372Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ivy122",
+      "email": "ivybaby505@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "IV6GJ",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:04.737Z"
     }
   ],
   "withdrawals": [
