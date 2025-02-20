@@ -219,10 +219,12 @@
       "referral_code": "CR45T",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Tetantes"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -836,6 +838,21 @@
       "joinDate": "2025-02-20T20:09:04.523Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tetantes",
+      "email": "laramummy2017@gmail.com",
+      "encrypted_password": "730a8cd7a1c511607e202fea29894cdf",
+      "referral_code": "TEXOE",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:09:34.372Z"
     }
   ],
   "withdrawals": [
