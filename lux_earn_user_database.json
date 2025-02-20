@@ -686,11 +686,12 @@
         "Bright side ",
         "Olawale615",
         "ZAGZI ",
-        "Mrhalifa12 "
+        "Mrhalifa12 ",
+        "faaeez adewale "
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -1753,6 +1754,21 @@
       "joinDate": "2025-02-20T23:17:29.438Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "faaeez adewale ",
+      "email": "Faaeezadewale16@gmail.com",
+      "encrypted_password": "e49af0298cd562d564c697b7b6e19d5e",
+      "referral_code": "FADN5",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:17:51.002Z"
     }
   ],
   "withdrawals": [
