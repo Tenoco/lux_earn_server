@@ -1751,7 +1751,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 260,
+      "balance": 285,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1767,7 +1767,7 @@
         7,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:30:56.458Z"
     },
     {
       "username": "Adedoyin1999",
@@ -3024,7 +3024,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:30:50.186Z"
+      "joinDate": "2025-02-20T23:30:50.186Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
