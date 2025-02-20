@@ -2366,7 +2366,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 85,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2375,7 +2375,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:35:38.337Z"
     },
     {
       "username": "Starcakesandmore",
@@ -2989,7 +2989,8 @@
       "joinDate": "2025-02-20T23:29:24.492Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ibrahim ",
