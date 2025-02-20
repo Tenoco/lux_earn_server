@@ -4718,14 +4718,13 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 50,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:51:15.233Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:52:23.925Z"
     },
     {
       "username": "Darksky33",
@@ -4774,7 +4773,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:52:25.193Z"
+      "joinDate": "2025-02-20T23:52:25.193Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
