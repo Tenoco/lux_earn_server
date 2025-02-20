@@ -456,10 +456,12 @@
       "referral_code": "09JRJ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Holar square "
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:17.811Z",
@@ -2433,6 +2435,21 @@
       "joinDate": "2025-02-20T23:24:23.868Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Holar square ",
+      "email": "olajumokeesther321@gmail.com",
+      "encrypted_password": "9d48f61e1fecd257d3f74e2bd98b01f3",
+      "referral_code": "HOWEP",
+      "inviter_referral_code": "09JRJ",
+      "inviter_username": "09139659667",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:24:32.187Z"
     }
   ],
   "withdrawals": [
