@@ -136,10 +136,12 @@
       "referral_code": "ASP3D",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Murtala1111"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -393,7 +395,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Triumph ",
@@ -607,6 +610,21 @@
       "joinDate": "2025-02-20T23:05:06.761Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Murtala1111",
+      "email": "hamdalatm4@gmail.com",
+      "encrypted_password": "5e03b60e0655e4f7bded8266d791aefc",
+      "referral_code": "MUP1X",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:06:12.986Z"
     }
   ],
   "withdrawals": [
