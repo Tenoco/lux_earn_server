@@ -1282,10 +1282,12 @@
       "referral_code": "RA47P",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Ummita2 "
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:19.987Z",
@@ -2876,7 +2878,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:29:06.605Z"
+      "joinDate": "2025-02-20T23:29:06.605Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ummita2 ",
+      "email": "rahmatharuna636@gmail.com",
+      "encrypted_password": "e2662d260ffe0674900398c448edc5f2",
+      "referral_code": "UM1KK",
+      "inviter_referral_code": "RA47P",
+      "inviter_username": "Rahmat2007",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:29:13.253Z"
     }
   ],
   "withdrawals": [
