@@ -165,7 +165,7 @@
       "invited_users": [
         "Juliana123"
       ],
-      "balance": 293,
+      "balance": 303,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -178,7 +178,8 @@
         8,
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": "2025-02-20T23:01:29.993Z"
     },
@@ -1454,7 +1455,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:14:18.808Z"
+      "joinDate": "2025-02-20T23:14:18.808Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
