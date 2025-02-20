@@ -1575,11 +1575,12 @@
       "invited_users": [
         "Vector01 ",
         "Sweetmum",
-        "Johnny"
+        "Johnny",
+        "Lookman"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3091,7 +3092,8 @@
       "joinDate": "2025-02-20T23:31:21.585Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny",
@@ -3177,6 +3179,21 @@
       "joinDate": "2025-02-20T23:32:25.759Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lookman",
+      "email": "lookman@gmail.com",
+      "encrypted_password": "372560990f9248eede14b4b25ed59d79",
+      "referral_code": "LONGF",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:42.459Z"
     }
   ],
   "withdrawals": [
