@@ -185,10 +185,12 @@
       "referral_code": "HEF6Q",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Specboi55 "
+      ],
       "balance": 165,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -1049,7 +1051,8 @@
       "joinDate": "2025-02-20T23:11:07.867Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Anna10",
@@ -1220,6 +1223,21 @@
       "joinDate": "2025-02-20T23:12:37.846Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Specboi55 ",
+      "email": "brightcaleb55@gmail.com",
+      "encrypted_password": "fb6bff67c6a0f18876d3a16e05aab18c",
+      "referral_code": "SPF8V",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:51.985Z"
     }
   ],
   "withdrawals": [
