@@ -764,7 +764,7 @@
       "invited_users": [
         "Oluwaferanmi"
       ],
-      "balance": 120,
+      "balance": 155,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -772,7 +772,8 @@
       "joinDate": "2025-02-20T23:05:06.761Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -3807,7 +3808,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:39:18.496Z"
+      "joinDate": "2025-02-20T23:39:18.496Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
