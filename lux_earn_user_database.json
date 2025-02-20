@@ -1199,7 +1199,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:12:35.894Z"
+      "joinDate": "2025-02-20T23:12:35.894Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "juliee ",
+      "email": "mhizjuliet47@gmail.com",
+      "encrypted_password": "f08f2e75ebf92be0d70f65d63d46a905",
+      "referral_code": "JU1WI",
+      "inviter_referral_code": "netlify",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:37.846Z"
     }
   ],
   "withdrawals": [
