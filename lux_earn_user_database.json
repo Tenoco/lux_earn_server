@@ -208,7 +208,8 @@
       "joinDate": "2025-02-20T23:01:51.502Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Crypto",
@@ -254,18 +255,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 170,
+      "balance": 205,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
+      "lastSpin": "2025-02-20T23:04:08.318Z",
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": "2025-02-20T23:04:08.318Z"
+        2,
+        3
+      ]
     },
     {
       "username": "realism",
