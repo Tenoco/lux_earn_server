@@ -2026,7 +2026,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:20:32.218Z"
+      "joinDate": "2025-02-20T23:20:32.218Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomide1124",
+      "email": "alabimateen10@gmail.com",
+      "encrypted_password": "3c94a76c43d247937ec1766a6316f589",
+      "referral_code": "AY4P8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:20:50.457Z"
     }
   ],
   "withdrawals": [
