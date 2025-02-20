@@ -3420,7 +3420,7 @@
       "inviter_referral_code": "DOD5W",
       "inviter_username": "Donny",
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3428,9 +3428,9 @@
       "joinDate": "2025-02-20T23:34:30.427Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "teeclassic_05",
@@ -3530,7 +3530,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:36:14.723Z"
+      "joinDate": "2025-02-20T23:36:14.723Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
