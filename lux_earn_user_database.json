@@ -1041,7 +1041,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:11:14.125Z"
+      "joinDate": "2025-02-20T23:11:14.125Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vinzy",
+      "email": "johnvin489@gmail.com",
+      "encrypted_password": "9254802b07adf7e76fd2f216cb38b70c",
+      "referral_code": "VIKQR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:18.042Z"
     }
   ],
   "withdrawals": [
