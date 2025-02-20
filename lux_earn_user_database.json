@@ -1095,11 +1095,12 @@
       "invited_users": [
         "Uju12",
         "Peterpan",
-        "John"
+        "John",
+        "Odia"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -2725,6 +2726,21 @@
       "joinDate": "2025-02-20T23:27:02.853Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Odia",
+      "email": "odiamark600@gmail.com",
+      "encrypted_password": "2df212f61783321984da027f78b8bc86",
+      "referral_code": "ODH7S",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:27:41.280Z"
     }
   ],
   "withdrawals": [
