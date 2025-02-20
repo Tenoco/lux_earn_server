@@ -484,7 +484,8 @@
       "joinDate": "2025-02-20T23:03:41.669Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tomkid ",
@@ -539,11 +540,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Herikcool"
+        "Herikcool",
+        "Michelle "
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -798,6 +800,21 @@
       "joinDate": "2025-02-20T23:09:11.838Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Michelle ",
+      "email": "calvinwang839@gmail.com",
+      "encrypted_password": "86a9f86a4955b79e69270e80b39bc2f9",
+      "referral_code": "MI7QE",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:09:22.240Z"
     }
   ],
   "withdrawals": [
