@@ -1130,10 +1130,12 @@
       "referral_code": "ANJQD",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abdul230"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -1978,6 +1980,21 @@
       "joinDate": "2025-02-20T23:19:53.423Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdul230",
+      "email": "abdulakeemsulyman55@gmail.com",
+      "encrypted_password": "45b9c138581fa30c6fcc9d29f13c85f1",
+      "referral_code": "ABG1F",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:20:17.895Z"
     }
   ],
   "withdrawals": [
