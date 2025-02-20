@@ -628,11 +628,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "ivy122"
+        "ivy122",
+        "Diamond2024"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -878,7 +879,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:10:04.737Z"
+      "joinDate": "2025-02-20T23:10:04.737Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Diamond2024",
+      "email": "eyitayodiamond15@gmail.com",
+      "encrypted_password": "d9c9ee1773ef6a3a33fd9d1ee1b650c4",
+      "referral_code": "DIUJS",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:08.932Z"
     }
   ],
   "withdrawals": [
