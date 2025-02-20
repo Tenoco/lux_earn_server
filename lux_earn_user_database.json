@@ -1632,11 +1632,12 @@
         "Lookman",
         "Yippee ",
         "Hope ",
-        "Terna"
+        "Terna",
+        "Danielle"
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3929,6 +3930,21 @@
       "joinDate": "2025-02-20T23:40:48.832Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danielle",
+      "email": "daniellez@gmail.com",
+      "encrypted_password": "acb2adb7c4c804b703d50788a43814ac",
+      "referral_code": "DAOV2",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:41:04.300Z"
     }
   ],
   "withdrawals": [
