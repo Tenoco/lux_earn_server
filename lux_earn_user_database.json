@@ -182,7 +182,8 @@
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Revival",
@@ -353,6 +354,21 @@
       "joinDate": "2025-02-20T23:03:04.703Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "09139659667",
+      "email": "eberejoshua95@gmail.com",
+      "encrypted_password": "5c35bfc59f222c748fafa9fac6722546",
+      "referral_code": "09JRJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:17.811Z"
     }
   ],
   "withdrawals": [
