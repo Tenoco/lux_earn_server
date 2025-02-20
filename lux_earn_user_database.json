@@ -321,7 +321,8 @@
       "completedMissions": [
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Lolibaby ",
@@ -365,14 +366,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:17.811Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Triumph ",
