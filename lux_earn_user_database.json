@@ -961,7 +961,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": -180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3067,7 +3067,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ibrahim ",
@@ -4048,6 +4049,16 @@
       "phoneNumber": "09012151442",
       "amount": 200,
       "timestamp": "2025-02-20T23:41:22.574Z",
+      "status": "pending"
+    },
+    {
+      "username": "Mutiat001 ",
+      "email": "mutiatamolegbe@gmail.com",
+      "type": "data",
+      "network": "airtel",
+      "phoneNumber": "09012983962",
+      "amount": 300,
+      "timestamp": "2025-02-20T23:41:44.536Z",
       "status": "pending"
     }
   ]
