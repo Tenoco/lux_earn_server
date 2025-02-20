@@ -718,10 +718,12 @@
       "referral_code": "JO4QJ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "korex56"
+      ],
       "balance": 165,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -2452,6 +2454,21 @@
       "joinDate": "2025-02-20T23:24:32.187Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "korex56",
+      "email": "gmonday794@gmail.com",
+      "encrypted_password": "2402d26d4b0a645e912dd802a7dcce06",
+      "referral_code": "KO2T6",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:24:37.529Z"
     }
   ],
   "withdrawals": [
