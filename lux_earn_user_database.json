@@ -1828,7 +1828,7 @@
         "jamiluamusbahu",
         "Sirblack1338"
       ],
-      "balance": 265,
+      "balance": 275,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -1841,7 +1841,8 @@
         2,
         8,
         4,
-        5
+        5,
+        6
       ],
       "lastSpin": "2025-02-20T23:18:56.576Z"
     },
@@ -4771,10 +4772,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:51:30.466Z",
-      "lastSpin": "2025-02-20T23:52:12.114Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:52:12.114Z"
     },
     {
       "username": "SpecificG ",
