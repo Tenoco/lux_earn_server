@@ -785,7 +785,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nora",
@@ -973,6 +974,21 @@
       "joinDate": "2025-02-20T23:10:46.353Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Seun",
+      "email": "avaa99014@gmail.com",
+      "encrypted_password": "756fe278ca039e7c2056f7b0286e02d9",
+      "referral_code": "SELHX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:58.122Z"
     }
   ],
   "withdrawals": [
