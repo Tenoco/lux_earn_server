@@ -3651,7 +3651,8 @@
       "joinDate": "2025-02-20T23:37:09.917Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "August",
@@ -3756,6 +3757,21 @@
       "joinDate": "2025-02-20T23:38:53.459Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dibie Lilian ",
+      "email": "ehiauntalilian@gmail.com",
+      "encrypted_password": "0bf00b4e01aa7b4318201897168b76b8",
+      "referral_code": "DILQM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:39:01.732Z"
     }
   ],
   "withdrawals": [
