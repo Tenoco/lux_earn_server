@@ -1008,10 +1008,12 @@
       "referral_code": "ZYRZQ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Olaes"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -1861,6 +1863,21 @@
       "joinDate": "2025-02-20T23:18:46.079Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olaes",
+      "email": "olasupoesther61@gmail.com",
+      "encrypted_password": "424956eb10c651897bdf86260a8687b4",
+      "referral_code": "OL8M7",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:18:53.493Z"
     }
   ],
   "withdrawals": [
