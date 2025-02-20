@@ -3096,7 +3096,7 @@
       "inviter_referral_code": "OL0RR",
       "inviter_username": "Ola ",
       "invited_users": [],
-      "balance": 155,
+      "balance": 305,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3105,7 +3105,11 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        7,
+        7,
+        8,
+        8
       ],
       "lastSpin": null
     },
@@ -4704,7 +4708,8 @@
         6,
         7,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "silas olamide",
