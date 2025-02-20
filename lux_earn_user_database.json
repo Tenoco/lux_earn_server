@@ -869,6 +869,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:09:34.372Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:10:34.283Z"
     },
     {
@@ -955,6 +956,21 @@
       "joinDate": "2025-02-20T23:10:32.858Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Edna40",
+      "email": "bigzoe918@gmail.com",
+      "encrypted_password": "5db17925dc1f21afbb17e0fcf2abcaab",
+      "referral_code": "ED25O",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:46.353Z"
     }
   ],
   "withdrawals": [
