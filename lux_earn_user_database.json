@@ -95,11 +95,12 @@
         "Donny",
         "Starcakesandmore",
         "Jeromey53",
-        "hassan11"
+        "hassan11",
+        "Goodnewseff"
       ],
       "balance": 50,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -2317,7 +2318,8 @@
       "joinDate": "2025-02-20T23:22:48.558Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Starcakesandmore",
@@ -2765,6 +2767,21 @@
       "joinDate": "2025-02-20T23:27:49.169Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goodnewseff",
+      "email": "egoodnews738@gmail.com",
+      "encrypted_password": "551b7f5ac4bdc0f569bc25e99998af34",
+      "referral_code": "GO2QW",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:28:05.661Z"
     }
   ],
   "withdrawals": [
