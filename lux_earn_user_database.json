@@ -244,7 +244,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:02:02.070Z"
+      "joinDate": "2025-02-20T23:02:02.070Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "realism",
+      "email": "deempresstv@gmail.com",
+      "encrypted_password": "8781eba6b2631a210de5e363c2834d83",
+      "referral_code": "REBI5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:02:03.673Z"
     }
   ],
   "withdrawals": [
