@@ -2676,10 +2676,12 @@
       "referral_code": "COS2L",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "desmond01 "
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -3062,6 +3064,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:31:14.017Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:31:55.196Z"
     },
     {
@@ -3097,6 +3100,21 @@
       "joinDate": "2025-02-20T23:31:36.243Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "desmond01 ",
+      "email": "destinykenny16@gmail.com",
+      "encrypted_password": "3474923c75e7a99389488de66109f367",
+      "referral_code": "DEQQV",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:01.989Z"
     }
   ],
   "withdrawals": [
