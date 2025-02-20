@@ -226,7 +226,8 @@
         3,
         4,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Crypto",
@@ -1439,6 +1440,21 @@
       "joinDate": "2025-02-20T23:14:11.467Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Krisskull",
+      "email": "stephenchrisvictor100@gmail.com",
+      "encrypted_password": "2353881c157d40158b944b1448217fb9",
+      "referral_code": "KRHXP",
+      "inviter_referral_code": "KllO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:14:18.808Z"
     }
   ],
   "withdrawals": [
