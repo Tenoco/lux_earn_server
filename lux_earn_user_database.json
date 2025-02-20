@@ -617,11 +617,12 @@
         "Emerald",
         "Ebenezerochi",
         "Ibrahim ",
-        "Olaide "
+        "Olaide ",
+        "Starlet123"
       ],
       "balance": 50,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -3241,6 +3242,21 @@
       "joinDate": "2025-02-20T23:32:54.772Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Starlet123",
+      "email": "igwewalterebubechukwu@gmail.com",
+      "encrypted_password": "b4e27ce459b11c4d0973c1055f98ee2e",
+      "referral_code": "STLIZ",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:33:21.536Z"
     }
   ],
   "withdrawals": [
