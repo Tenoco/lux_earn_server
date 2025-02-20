@@ -791,11 +791,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olaoluwa "
+        "Olaoluwa ",
+        "Shegzzy Media"
       ],
       "balance": 58,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -2181,7 +2182,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:22:35.051Z"
+      "joinDate": "2025-02-20T23:22:35.051Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shegzzy Media",
+      "email": "erinlesegun69@gmail.com",
+      "encrypted_password": "fb187460e4bd92f53607ba3ab4e7f455",
+      "referral_code": "SHNDD",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:22:36.620Z"
     }
   ],
   "withdrawals": [
