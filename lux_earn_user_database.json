@@ -332,7 +332,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 145,
+      "balance": 290,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -342,9 +342,13 @@
         8,
         7,
         6,
-        5
+        5,
+        4,
+        3,
+        2,
+        1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:06:49.817Z"
     },
     {
       "username": "Lolibaby ",
@@ -659,7 +663,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:06:51.182Z"
+      "joinDate": "2025-02-20T23:06:51.182Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
