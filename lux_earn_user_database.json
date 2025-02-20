@@ -4048,7 +4048,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danielle",
@@ -4642,13 +4643,15 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 80,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:51:15.233Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-20T23:52:23.925Z"
     },
     {
