@@ -1973,14 +1973,15 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 90,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:18:53.493Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-20T23:21:29.170Z"
     },
@@ -2429,7 +2430,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:24:23.868Z"
+      "joinDate": "2025-02-20T23:24:23.868Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
