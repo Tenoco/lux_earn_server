@@ -1936,14 +1936,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:03.074Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Owoloye ",
@@ -2043,7 +2044,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:20:50.457Z"
+      "joinDate": "2025-02-20T23:20:50.457Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
