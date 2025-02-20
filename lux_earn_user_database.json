@@ -1742,11 +1742,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [
-        "Noblerebel "
+        "Noblerebel ",
+        "cassidy"
       ],
       "balance": 10,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:00.752Z",
@@ -3211,7 +3212,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:32:43.192Z"
+      "joinDate": "2025-02-20T23:32:43.192Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "cassidy",
+      "email": "Cassidycletus65@gmail.com",
+      "encrypted_password": "2a5828e42523a6778242e049729cbe34",
+      "referral_code": "CANK5",
+      "inviter_referral_code": "EBX6A",
+      "inviter_username": "Ebenezerochi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:54.772Z"
     }
   ],
   "withdrawals": [
