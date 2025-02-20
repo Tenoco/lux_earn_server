@@ -215,7 +215,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 205,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -226,9 +226,9 @@
         2,
         3,
         4,
-        8
-      ],
-      "lastSpin": null
+        8,
+        7
+      ]
     },
     {
       "username": "Crypto",
@@ -1539,7 +1539,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:15:00.752Z"
+      "joinDate": "2025-02-20T23:15:00.752Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
