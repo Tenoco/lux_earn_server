@@ -257,7 +257,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -268,9 +268,11 @@
         2,
         3,
         8,
-        7
-      ],
-      "lastSpin": null
+        7,
+        6,
+        5,
+        4
+      ]
     },
     {
       "username": "Dandee321",
@@ -1000,7 +1002,8 @@
         4,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Edna40",
