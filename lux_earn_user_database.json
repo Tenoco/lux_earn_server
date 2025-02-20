@@ -2535,7 +2535,8 @@
         2,
         3,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Debade",
@@ -2691,6 +2692,21 @@
       "joinDate": "2025-02-21T08:26:03.162Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wilson",
+      "email": "yomyfumy@gmail.com",
+      "encrypted_password": "96e2273472b0f008b5a3dce47a4174da",
+      "referral_code": "WIVJ7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:27:02.853Z"
     }
   ],
   "withdrawals": [
