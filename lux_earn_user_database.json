@@ -89,11 +89,12 @@
         "Jomilee",
         "Micah Isuk",
         "Ramelex",
-        "Adedoyin1999"
+        "Adedoyin1999",
+        "Atanda412"
       ],
       "balance": 50,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -1203,7 +1204,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jomilee",
@@ -1631,6 +1633,21 @@
       "joinDate": "2025-02-20T23:16:08.255Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Atanda412",
+      "email": "abdulafeezabdulrahman191@gmail.com",
+      "encrypted_password": "dbff5b48c2e76a9d81840bd35b91b02b",
+      "referral_code": "ATCAE",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:16:16.484Z"
     }
   ],
   "withdrawals": [
