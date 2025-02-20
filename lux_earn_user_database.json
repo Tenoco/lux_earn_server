@@ -3229,7 +3229,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Lookman",
@@ -3409,14 +3410,15 @@
       "inviter_referral_code": "DOD5W",
       "inviter_username": "Donny",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:30.427Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "teeclassic_05",
