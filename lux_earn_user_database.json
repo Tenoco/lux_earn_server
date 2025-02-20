@@ -256,14 +256,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:03.673Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:02:57.959Z"
     },
     {
       "username": "Mubnan",
@@ -329,7 +328,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:03:00.085Z"
+      "joinDate": "2025-02-20T23:03:00.085Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
