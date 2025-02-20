@@ -295,7 +295,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:02:26.644Z"
+      "joinDate": "2025-02-20T23:02:26.644Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Futtizy",
+      "email": "suziealisa6@gmail.com",
+      "encrypted_password": "6e26500ee7705638c5aa68dd3874b599",
+      "referral_code": "FUOWS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:02:30.995Z"
     }
   ],
   "withdrawals": [
