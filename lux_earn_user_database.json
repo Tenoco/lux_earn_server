@@ -2524,14 +2524,17 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 50,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:00.594Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Debade",
@@ -2684,7 +2687,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:26:03.162Z"
+      "joinDate": "2025-02-21T08:26:03.162Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
