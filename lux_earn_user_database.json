@@ -4924,7 +4924,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:59:06.068Z"
+      "joinDate": "2025-02-20T23:59:06.068Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chindimane",
+      "email": "chindimane@gmail.com",
+      "encrypted_password": "87654927fcd933387d68e27d47634745",
+      "referral_code": "CHAZD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:59:16.886Z"
     }
   ],
   "withdrawals": [
