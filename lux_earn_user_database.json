@@ -652,11 +652,12 @@
       "invited_users": [
         "ivy122",
         "Diamond2024",
-        "Luxearner"
+        "Luxearner",
+        "Bright side "
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -1310,7 +1311,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:13:23.383Z"
+      "joinDate": "2025-02-20T23:13:23.383Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bright side ",
+      "email": "brightmarvellous82@gmail.com",
+      "encrypted_password": "305913ec7a1eebf89ccdf4f4d82d7c32",
+      "referral_code": "BRLEJ",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:26.804Z"
     }
   ],
   "withdrawals": [
