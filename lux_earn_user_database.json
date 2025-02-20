@@ -1248,11 +1248,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Fearless77"
+        "Fearless77",
+        "Alex "
       ],
       "balance": 295,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -4676,7 +4677,8 @@
         1,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "silas olamide",
@@ -4850,6 +4852,21 @@
       "joinDate": "2025-02-20T23:53:49.610Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alex ",
+      "email": "alex065ghh@gmail.com",
+      "encrypted_password": "09fe57d00a208096716fcd522aced9a1",
+      "referral_code": "AL95F",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:54:19.354Z"
     }
   ],
   "withdrawals": [
