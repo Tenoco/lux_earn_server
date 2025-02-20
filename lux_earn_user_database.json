@@ -2056,7 +2056,8 @@
         2,
         3,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Israel",
@@ -2535,6 +2536,21 @@
       "joinDate": "2025-02-20T23:25:16.247Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lickmy0042",
+      "email": "benjamind732.1@gmail.com",
+      "encrypted_password": "81d9482a6d02bfdd4af5abd44634340e",
+      "referral_code": "LIN86",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:25:26.964Z"
     }
   ],
   "withdrawals": [
