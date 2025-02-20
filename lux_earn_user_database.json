@@ -3423,7 +3423,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mammiegold",
@@ -3811,6 +3812,21 @@
       "joinDate": "2025-02-20T23:39:18.496Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vickyrichy ",
+      "email": "victor@gmail.com",
+      "encrypted_password": "2353881c157d40158b944b1448217fb9",
+      "referral_code": "VIBK2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:39:29.943Z"
     }
   ],
   "withdrawals": [
