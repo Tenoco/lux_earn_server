@@ -2143,12 +2143,13 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 205,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:17:51.002Z",
+      "lastSpin": "2025-02-20T23:45:14.776Z",
       "completedMissions": [
         1,
         2,
@@ -2156,9 +2157,9 @@
         4,
         6,
         6,
-        5
-      ],
-      "lastSpin": "2025-02-20T23:45:14.776Z"
+        5,
+        7
+      ]
     },
     {
       "username": "Waskid",
