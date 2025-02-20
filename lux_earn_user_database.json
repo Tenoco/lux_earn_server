@@ -3513,7 +3513,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:36:10.716Z"
+      "joinDate": "2025-02-20T23:36:10.716Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "yahay1",
+      "email": "ya0816910@gmail.com",
+      "encrypted_password": "126e48f57f0264a407842dbf1193040f",
+      "referral_code": "YA8FP",
+      "inviter_referral_code": "Yggg",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:14.723Z"
     }
   ],
   "withdrawals": [
