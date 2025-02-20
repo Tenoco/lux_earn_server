@@ -790,10 +790,12 @@
       "referral_code": "KITGL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Olaoluwa "
+      ],
       "balance": 58,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -2023,7 +2025,8 @@
       "joinDate": "2025-02-20T23:20:17.895Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oluwaferanmi",
@@ -2075,6 +2078,21 @@
       "joinDate": "2025-02-20T23:21:15.184Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olaoluwa ",
+      "email": "eniolaolaoluwa37@gmail.com",
+      "encrypted_password": "5a7cf4edf157b4efc4a0f0e7fe528b7a",
+      "referral_code": "OLLJA",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:20:32.995Z"
     }
   ],
   "withdrawals": [
