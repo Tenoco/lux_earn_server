@@ -658,14 +658,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:05:06.761Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -770,7 +771,8 @@
       "joinDate": "2025-02-20T23:08:36.089Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nora",
