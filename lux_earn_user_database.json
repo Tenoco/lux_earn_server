@@ -765,7 +765,7 @@
       "invited_users": [
         "Oluwaferanmi"
       ],
-      "balance": 165,
+      "balance": 200,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -775,7 +775,8 @@
         1,
         2,
         3,
-        4
+        4,
+        7
       ],
       "lastSpin": null
     },
@@ -3908,14 +3909,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:38:44.333Z",
-      "lastSpin": "2025-02-20T23:39:42.526Z",
       "completedMissions": [
         8,
         3,
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:39:42.526Z"
     },
     {
       "username": "Terna",
