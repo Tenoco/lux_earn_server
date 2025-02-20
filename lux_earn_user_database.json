@@ -272,7 +272,8 @@
         6,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dandee321",
@@ -573,11 +574,12 @@
       "invited_users": [
         "Herikcool",
         "Michelle ",
-        "Emerald"
+        "Emerald",
+        "Ebenezerochi"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -1523,6 +1525,21 @@
       "joinDate": "2025-02-20T23:14:50.056Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ebenezerochi",
+      "email": "linusebenezer245@gmail.com",
+      "encrypted_password": "12bd26097a34ed67e51a4f05c12797e7",
+      "referral_code": "EBX6A",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:15:00.752Z"
     }
   ],
   "withdrawals": [
