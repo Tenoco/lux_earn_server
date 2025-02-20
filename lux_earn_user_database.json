@@ -3406,7 +3406,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "CASH223",
@@ -4739,6 +4740,21 @@
       "joinDate": "2025-02-20T23:51:30.466Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SpecificG ",
+      "email": "benmickss3@gmail.com",
+      "encrypted_password": "4df4f3a8e551971cacd04782cd47f04c",
+      "referral_code": "SPSH8",
+      "inviter_referral_code": "OL6TF ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:52:10.688Z"
     }
   ],
   "withdrawals": [
