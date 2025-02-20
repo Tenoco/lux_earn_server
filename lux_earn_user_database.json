@@ -156,11 +156,12 @@
         "Nana111",
         "Mootww",
         "Muhammad ",
-        "Benjamin1881"
+        "Benjamin1881",
+        "Goodness234"
       ],
       "balance": 51,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -2705,7 +2706,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "John",
@@ -3262,6 +3264,21 @@
       "joinDate": "2025-02-20T23:33:21.536Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goodness234",
+      "email": "goderty@gmail.com",
+      "encrypted_password": "275908df959c77c4cf750e7a11c11ba8",
+      "referral_code": "GOKW5",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:33:45.264Z"
     }
   ],
   "withdrawals": [
