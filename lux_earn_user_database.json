@@ -2744,10 +2744,12 @@
       "referral_code": "LIN86",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Lickmy"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
@@ -3944,7 +3946,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:41:04.300Z"
+      "joinDate": "2025-02-20T23:41:04.300Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lickmy",
+      "email": "sconfitexcompany@gmail.com",
+      "encrypted_password": "74d738020dca22a731e30058ac7242ee",
+      "referral_code": "LIKOQ",
+      "inviter_referral_code": "LIN86",
+      "inviter_username": "Lickmy0042",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:41:09.852Z"
     }
   ],
   "withdrawals": [
