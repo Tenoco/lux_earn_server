@@ -563,11 +563,12 @@
       "inviter_username": null,
       "invited_users": [
         "Herikcool",
-        "Michelle "
+        "Michelle ",
+        "Emerald"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -1258,6 +1259,21 @@
       "joinDate": "2025-02-20T23:12:54.930Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emerald",
+      "email": "oluwatobiolanrewaju147@gmail.com",
+      "encrypted_password": "b91ac37acbccd7374b7eafa05da6683d",
+      "referral_code": "EMJHD",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:13.451Z"
     }
   ],
   "withdrawals": [
