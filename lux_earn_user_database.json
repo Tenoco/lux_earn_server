@@ -792,7 +792,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nora",
@@ -870,16 +871,17 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 100,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:09:34.372Z",
+      "lastSpin": "2025-02-20T23:10:34.283Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-20T23:10:34.283Z"
+        1,
+        2
+      ]
     },
     {
       "username": "ivy122",
