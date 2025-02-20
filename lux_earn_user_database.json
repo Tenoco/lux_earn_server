@@ -494,7 +494,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Martins1736",
@@ -709,6 +710,21 @@
       "joinDate": "2025-02-20T23:07:37.062Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "DEESTV",
+      "email": "royalseedtijani@gmail.com",
+      "encrypted_password": "62e112fc2208a193fb32022598d36978",
+      "referral_code": "DEJPW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:07:58.502Z"
     }
   ],
   "withdrawals": [
