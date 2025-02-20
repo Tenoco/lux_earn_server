@@ -4200,14 +4200,15 @@
       "inviter_referral_code": "ABR0C",
       "inviter_username": "AbdulAj",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:43:14.034Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        3
+      ]
     },
     {
       "username": "Loveth Adaora ",
@@ -4381,7 +4382,8 @@
         1,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "adexdave3 ",
