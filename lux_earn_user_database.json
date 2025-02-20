@@ -1720,7 +1720,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 165,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1730,7 +1730,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -2161,7 +2162,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:21:15.184Z",
-      "lastSpin": "2025-02-20T23:22:27.252Z",
       "completedMissions": [
         3,
         2,
@@ -2171,7 +2171,8 @@
         5,
         7,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:22:27.252Z"
     },
     {
       "username": "Olaoluwa ",
