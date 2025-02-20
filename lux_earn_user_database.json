@@ -2149,7 +2149,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:17:51.002Z",
-      "lastSpin": "2025-02-20T23:45:14.776Z",
       "completedMissions": [
         1,
         2,
@@ -2159,7 +2158,8 @@
         6,
         5,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:45:14.776Z"
     },
     {
       "username": "Waskid",
@@ -4697,13 +4697,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
-      "completedMissions": [],
+      "completedMissions": [
+        8
+      ],
       "lastSpin": null
     },
     {
