@@ -453,7 +453,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:03:51.186Z"
+      "joinDate": "2025-02-20T23:03:51.186Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "kingrroggis",
+      "email": "milanmatininez@gmail.com",
+      "encrypted_password": "40fbde6682e7816de3fde185c3648ed0",
+      "referral_code": "KIIO1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:04:05.111Z"
     }
   ],
   "withdrawals": [
