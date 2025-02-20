@@ -229,10 +229,12 @@
       "referral_code": "RET0G",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Patience "
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:51.502Z",
@@ -3461,6 +3463,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:35:30.184Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:35:58.643Z"
     },
     {
@@ -3496,6 +3499,21 @@
       "joinDate": "2025-02-20T23:35:56.096Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Patience ",
+      "email": "fridaydav001@gmail.com",
+      "encrypted_password": "f6355b866e68067da7d7b8743ab3b618",
+      "referral_code": "PAT91",
+      "inviter_referral_code": "RET0G",
+      "inviter_username": "Revival",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:10.716Z"
     }
   ],
   "withdrawals": [
