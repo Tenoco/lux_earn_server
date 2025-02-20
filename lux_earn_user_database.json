@@ -2548,10 +2548,12 @@
       "referral_code": "STF5Y",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Omolade"
+      ],
       "balance": 320,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:53.168Z",
@@ -3909,7 +3911,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:38:44.333Z",
-      "lastSpin": "2025-02-20T23:39:42.526Z",
       "completedMissions": [
         8,
         3,
@@ -3917,7 +3918,8 @@
         2,
         1,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:39:42.526Z"
     },
     {
       "username": "Terna",
@@ -4088,6 +4090,21 @@
       "joinDate": "2025-02-20T23:41:09.852Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Omolade",
+      "email": "priscillaoluwafemi@gmail.com",
+      "encrypted_password": "12d4d186482da34f071e13fd43fd5a96",
+      "referral_code": "OMDL2",
+      "inviter_referral_code": "STF5Y",
+      "inviter_username": "Starcakesandmore",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:42:27.134Z"
     }
   ],
   "withdrawals": [
