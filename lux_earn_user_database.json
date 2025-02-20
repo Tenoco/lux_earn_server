@@ -1281,6 +1281,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:13.451Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:13:48.206Z"
     },
     {
@@ -1384,6 +1385,21 @@
       "joinDate": "2025-02-20T23:13:53.364Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goddy",
+      "email": "egbegodsent123@gmail.com",
+      "encrypted_password": "46c76d0c403a193f1bda5e1821584e74",
+      "referral_code": "GO9Q7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:57.621Z"
     }
   ],
   "withdrawals": [
