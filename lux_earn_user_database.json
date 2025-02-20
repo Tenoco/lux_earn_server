@@ -244,14 +244,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 65,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-20T23:04:08.318Z"
+      "lastSpin": "2025-02-20T23:04:08.318Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "realism",
@@ -359,7 +361,8 @@
       "joinDate": "2025-02-20T23:03:04.703Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "09139659667",
