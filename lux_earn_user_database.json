@@ -87,11 +87,12 @@
         "Lazy38",
         "Rahmat2007",
         "Jomilee",
-        "Micah Isuk"
+        "Micah Isuk",
+        "Ramelex"
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -1545,6 +1546,21 @@
       "joinDate": "2025-02-20T23:15:00.752Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ramelex",
+      "email": "youngramelex0@gmail.com",
+      "encrypted_password": "b96686d6f84e40bd6e13720540848019",
+      "referral_code": "RAGM1",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:15:34.632Z"
     }
   ],
   "withdrawals": [
