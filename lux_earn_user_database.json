@@ -2888,7 +2888,7 @@
       "invited_users": [
         "OLIVIALOVE "
       ],
-      "balance": 200,
+      "balance": 210,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2899,7 +2899,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -4453,7 +4454,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:46:07.456Z"
+      "joinDate": "2025-02-20T23:46:07.456Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
