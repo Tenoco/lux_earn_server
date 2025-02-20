@@ -996,7 +996,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Edna40",
@@ -1478,6 +1479,21 @@
       "joinDate": "2025-02-20T23:14:30.538Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oluwatunmise Bamigboye",
+      "email": "Arinkebabe@gmail.com",
+      "encrypted_password": "48efa56d46adfb177ff86d502b35d702",
+      "referral_code": "OLRRQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:14:43.696Z"
     }
   ],
   "withdrawals": [
