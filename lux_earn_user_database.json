@@ -2914,11 +2914,12 @@
       "invited_users": [
         "Lickmy",
         "Lickmyhand",
-        "Fingsty"
+        "Fingsty",
+        "Lollipop"
       ],
       "balance": 65,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
@@ -4964,6 +4965,21 @@
       "joinDate": "2025-02-20T23:56:44.378Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lollipop",
+      "email": "fee@gmail.com",
+      "encrypted_password": "41e15155bbbfde658d406cd637d5b8a4",
+      "referral_code": "LO66R",
+      "inviter_referral_code": "LIN86",
+      "inviter_username": "Lickmy0042",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:57:31.551Z"
     }
   ],
   "withdrawals": [
