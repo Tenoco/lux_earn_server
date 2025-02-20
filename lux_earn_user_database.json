@@ -732,13 +732,15 @@
         "Blaze",
         "Ayoola "
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 13,
       "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -4211,7 +4213,8 @@
         4,
         5,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Loveth Adaora ",
