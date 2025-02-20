@@ -1822,12 +1822,11 @@
       "invited_users": [
         "Olawale ",
         "jamiluamusbahu",
-        "Sirblack1338",
-        "Darksky33"
+        "Sirblack1338"
       ],
-      "balance": 245,
-      "refers": 4,
-      "referralBalance": 400,
+      "balance": 255,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -1836,7 +1835,8 @@
         7,
         3,
         2,
-        8
+        8,
+        4
       ],
       "lastSpin": "2025-02-20T23:18:56.576Z"
     },
