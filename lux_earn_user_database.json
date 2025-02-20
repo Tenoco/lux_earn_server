@@ -4644,7 +4644,7 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 150,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4652,6 +4652,7 @@
       "joinDate": "2025-02-20T23:51:15.233Z",
       "completedMissions": [
         1,
+        2,
         2
       ],
       "lastSpin": "2025-02-20T23:52:23.925Z"
