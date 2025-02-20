@@ -109,7 +109,23 @@
       "joinDate": "2025-02-20T20:57:45.546Z",
       "completedMissions": [
         3
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Favour ",
+      "email": "ezehfavouromoti@gmail.com",
+      "encrypted_password": "c9e4afa3c5ab40d19ca610d2688ecf80",
+      "referral_code": "FAUS8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:00:11.599Z"
     }
   ],
   "withdrawals": [
