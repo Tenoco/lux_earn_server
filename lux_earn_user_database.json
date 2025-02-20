@@ -2287,7 +2287,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
@@ -2297,7 +2296,8 @@
         5,
         7,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:23:38.595Z"
     },
     {
       "username": "Shegzzy Media",
@@ -2418,7 +2418,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 240,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2430,9 +2430,9 @@
         3,
         8,
         7,
-        6
-      ],
-      "lastSpin": null
+        6,
+        4
+      ]
     },
     {
       "username": "Negro234",
