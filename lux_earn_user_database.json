@@ -2370,7 +2370,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 280,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2384,7 +2384,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": "2025-02-20T23:26:42.840Z"
     },
@@ -3229,7 +3230,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:32:54.772Z"
+      "joinDate": "2025-02-20T23:32:54.772Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
