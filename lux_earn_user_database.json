@@ -147,11 +147,12 @@
       "invited_users": [
         "Murtala1111",
         "Nana111",
-        "Mootww"
+        "Mootww",
+        "Mustafa "
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -1265,7 +1266,8 @@
         7,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "juliee ",
@@ -1676,6 +1678,21 @@
       "joinDate": "2025-02-20T23:16:41.735Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mustafa ",
+      "email": "murtalaridwan31@gmail.com",
+      "encrypted_password": "fea912cc31f38cef1f4e9ef1f96653ed",
+      "referral_code": "MUV9V",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:17:08.074Z"
     }
   ],
   "withdrawals": [
