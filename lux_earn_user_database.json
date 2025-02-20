@@ -2057,7 +2057,8 @@
         3,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Israel",
@@ -2154,14 +2155,20 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 60,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:21:15.184Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-20T23:22:27.252Z"
+      "lastSpin": "2025-02-20T23:22:27.252Z",
+      "completedMissions": [
+        3,
+        2,
+        1,
+        4,
+        6
+      ]
     },
     {
       "username": "Olaoluwa ",
