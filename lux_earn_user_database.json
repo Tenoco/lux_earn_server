@@ -4200,14 +4200,15 @@
       "inviter_referral_code": "ABR0C",
       "inviter_username": "AbdulAj",
       "invited_users": [],
-      "balance": 85,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:43:14.034Z",
       "completedMissions": [
-        3
+        3,
+        4
       ]
     },
     {
