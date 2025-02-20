@@ -84,11 +84,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Lazy38"
+        "Lazy38",
+        "Rahmat2007"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -797,7 +798,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nora",
@@ -1127,6 +1129,21 @@
       "joinDate": "2025-02-20T23:12:16.575Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rahmat2007",
+      "email": "harunarahmat3@gmail.com",
+      "encrypted_password": "578800cfab84142870247a55b16442d1",
+      "referral_code": "RA47P",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:19.987Z"
     }
   ],
   "withdrawals": [
