@@ -3901,17 +3901,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 126,
+      "balance": 196,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:38:44.333Z",
+      "lastSpin": "2025-02-20T23:39:42.526Z",
       "completedMissions": [
         8,
-        3
-      ],
-      "lastSpin": "2025-02-20T23:39:42.526Z"
+        3,
+        3,
+        2
+      ]
     },
     {
       "username": "Terna",
