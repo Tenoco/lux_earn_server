@@ -705,11 +705,12 @@
         "faaeez adewale ",
         "Princezazu",
         "Israel",
-        "Eric sinx"
+        "Eric sinx",
+        "Blaze"
       ],
       "balance": 50,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -2427,7 +2428,8 @@
         8,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Negro234",
@@ -2902,6 +2904,21 @@
       "joinDate": "2025-02-20T23:29:13.253Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Blaze",
+      "email": "ajisolataiwo8@gmail.com",
+      "encrypted_password": "80a948e300558203605329a18882ad35",
+      "referral_code": "BLZE2",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:29:24.492Z"
     }
   ],
   "withdrawals": [
