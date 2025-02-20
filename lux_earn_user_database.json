@@ -2407,11 +2407,12 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [
-        "Mammiegold"
+        "Mammiegold",
+        "Thim cd5"
       ],
       "balance": 285,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:36.620Z",
@@ -4849,7 +4850,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:58:10.366Z"
+      "joinDate": "2025-02-20T23:58:10.366Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Thim cd5",
+      "email": "thomasdoyle034@gmail.com",
+      "encrypted_password": "16a184900e65893e7454404138e61b25",
+      "referral_code": "TH1KK",
+      "inviter_referral_code": "SHNDD",
+      "inviter_username": "Shegzzy Media",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:58:14.859Z"
     }
   ],
   "withdrawals": [
