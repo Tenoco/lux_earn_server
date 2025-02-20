@@ -24,10 +24,12 @@
       "referral_code": "BE3ON",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Lindley"
+      ],
       "balance": 6463,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -87,7 +89,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T20:33:57.712Z"
+      "joinDate": "2025-02-20T20:33:57.712Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lindley",
+      "email": "specialbellah00@gmail.com",
+      "encrypted_password": "312fbea993e5c8ff52a58dd18295c34a",
+      "referral_code": "LIAHK",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T20:40:54.424Z"
     }
   ],
   "withdrawals": [
