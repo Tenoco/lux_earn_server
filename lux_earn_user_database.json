@@ -1817,11 +1817,12 @@
       "invited_users": [
         "Olawale ",
         "jamiluamusbahu",
-        "Sirblack1338"
+        "Sirblack1338",
+        "Darksky33"
       ],
       "balance": 245,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -4713,7 +4714,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:51:15.233Z"
+      "joinDate": "2025-02-20T23:51:15.233Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Darksky33",
+      "email": "neonblack3033@gmail.com",
+      "encrypted_password": "eda6643e138678cbf06b2c17f0e96fad",
+      "referral_code": "DAWVK",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:51:30.466Z"
     }
   ],
   "withdrawals": [
