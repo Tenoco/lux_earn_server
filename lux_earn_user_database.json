@@ -2692,17 +2692,16 @@
       "referral_code": "COS2L",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [
-        "desmond01 "
-      ],
-      "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 85,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "John",
@@ -3256,7 +3255,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:33:21.536Z"
+      "joinDate": "2025-02-20T23:33:21.536Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
