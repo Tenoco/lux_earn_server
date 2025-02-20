@@ -403,14 +403,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:33.802Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        8
+      ]
     },
     {
       "username": "AbdulAj",
@@ -544,7 +545,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:04:40.135Z"
+      "joinDate": "2025-02-20T23:04:40.135Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
