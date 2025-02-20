@@ -86,11 +86,12 @@
       "invited_users": [
         "Lazy38",
         "Rahmat2007",
-        "Jomilee"
+        "Jomilee",
+        "Micah Isuk"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -1292,7 +1293,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:13:21.962Z"
+      "joinDate": "2025-02-20T23:13:21.962Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Micah Isuk",
+      "email": "micahakpan2580@gmail.com",
+      "encrypted_password": "bb5955f8fb69dc5ad4a7437ddd159adf",
+      "referral_code": "MIDK0",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:23.383Z"
     }
   ],
   "withdrawals": [
