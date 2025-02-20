@@ -1721,16 +1721,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:16.484Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        7
+      ]
     },
     {
       "username": "Oweilaaa",
@@ -1949,7 +1949,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:19:44.437Z"
+      "joinDate": "2025-02-20T23:19:44.437Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
