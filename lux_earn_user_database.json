@@ -3853,7 +3853,8 @@
       "completedMissions": [
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Magic",
@@ -3899,16 +3900,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 91,
+      "balance": 126,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:38:44.333Z",
+      "lastSpin": "2025-02-20T23:39:42.526Z",
       "completedMissions": [
-        8
-      ],
-      "lastSpin": "2025-02-20T23:39:42.526Z"
+        8,
+        3
+      ]
     },
     {
       "username": "Terna",
