@@ -3550,16 +3550,23 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 278,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
       "completedMissions": [
-        8
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:43:01.158Z"
     },
     {
       "username": "Sergeant",
