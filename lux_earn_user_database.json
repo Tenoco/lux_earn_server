@@ -1627,7 +1627,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 110,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1803,7 +1803,8 @@
       "joinDate": "2025-02-20T23:17:29.438Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "faaeez adewale ",
@@ -2032,6 +2033,16 @@
       "amount": 3000,
       "timestamp": "2025-02-19T15:11:14.286Z",
       "status": "completed"
+    },
+    {
+      "username": "Ebenezerochi",
+      "email": "linusebenezer245@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "09064569457",
+      "amount": 100,
+      "timestamp": "2025-02-20T23:20:01.936Z",
+      "status": "pending"
     }
   ]
 }
