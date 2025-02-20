@@ -492,11 +492,12 @@
       "inviter_username": null,
       "invited_users": [
         "Nora",
-        "Oweilaaa"
+        "Oweilaaa",
+        "Yungicon "
       ],
       "balance": 155,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:26.986Z",
@@ -3193,7 +3194,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:32:42.459Z"
+      "joinDate": "2025-02-20T23:32:42.459Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yungicon ",
+      "email": "yungcash308@gmail.com",
+      "encrypted_password": "09ed4bda260d96a6916f5ff0f856f511",
+      "referral_code": "YU9WP",
+      "inviter_referral_code": "TRDT4",
+      "inviter_username": "Triumph ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:43.192Z"
     }
   ],
   "withdrawals": [
