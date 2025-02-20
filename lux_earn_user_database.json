@@ -1611,17 +1611,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olawale ",
-        "Bella78"
+        "Olawale "
       ],
-      "balance": 100,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 245,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
       "completedMissions": [
-        1
+        1,
+        7,
+        3,
+        2,
+        8
       ],
       "lastSpin": "2025-02-20T23:18:56.576Z"
     },
@@ -2278,7 +2281,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
@@ -2286,7 +2288,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:23:38.595Z"
     },
     {
       "username": "Shegzzy Media",
