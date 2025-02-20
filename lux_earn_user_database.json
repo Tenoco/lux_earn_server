@@ -3675,11 +3675,12 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": "Shegzzy Media",
       "invited_users": [
-        "Labyber"
+        "Labyber",
+        "Olamide Gold"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -4866,7 +4867,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:54:19.354Z"
+      "joinDate": "2025-02-20T23:54:19.354Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olamide Gold",
+      "email": "Olamideabolaji772@gmail.com",
+      "encrypted_password": "9837c13ec0a1149c571534c071724552",
+      "referral_code": "OLPPW",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:54:24.491Z"
     }
   ],
   "withdrawals": [
