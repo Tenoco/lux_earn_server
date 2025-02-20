@@ -1022,7 +1022,7 @@
       "invited_users": [
         "Olaes"
       ],
-      "balance": 130,
+      "balance": 165,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1031,7 +1031,8 @@
       "completedMissions": [
         1,
         1,
-        4
+        4,
+        3
       ],
       "lastSpin": null
     },
@@ -1715,14 +1716,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:49.927Z",
-      "lastSpin": "2025-02-20T23:16:35.140Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:16:35.140Z"
     },
     {
       "username": "Bobby12 ",
