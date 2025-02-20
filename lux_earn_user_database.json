@@ -125,7 +125,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:00:11.599Z"
+      "joinDate": "2025-02-20T23:00:11.599Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Asssss",
+      "email": "muhammedridwan803@gmail.com",
+      "encrypted_password": "39e4d60cc76c730dd41b7a6dffeea83e",
+      "referral_code": "ASP3D",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:00:50.053Z"
     }
   ],
   "withdrawals": [
