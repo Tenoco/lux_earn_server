@@ -818,6 +818,21 @@
       "joinDate": "2025-02-20T23:09:22.240Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Max",
+      "email": "marvellousadelakun1210@gmail.com",
+      "encrypted_password": "015dbf9714a80ba562300b8ae530d80d",
+      "referral_code": "MAUOD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T20:09:04.523Z"
     }
   ],
   "withdrawals": [
