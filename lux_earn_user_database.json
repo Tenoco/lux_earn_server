@@ -1258,11 +1258,12 @@
         "Peterpan",
         "John",
         "Odia",
-        "August"
+        "August",
+        "Danniella"
       ],
       "balance": 190,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -4219,6 +4220,21 @@
       "joinDate": "2025-02-20T23:44:09.482Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danniella",
+      "email": "danniella@gmail.com",
+      "encrypted_password": "03be2fdb0dbb53d4017edaee96c96fba",
+      "referral_code": "DA0W3",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:44:24.745Z"
     }
   ],
   "withdrawals": [
