@@ -1179,7 +1179,7 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1187,9 +1187,9 @@
       "joinDate": "2025-02-20T23:12:16.575Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Rahmat2007",
@@ -1692,7 +1692,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:17:08.074Z"
+      "joinDate": "2025-02-20T23:17:08.074Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
