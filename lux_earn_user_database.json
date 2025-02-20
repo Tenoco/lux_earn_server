@@ -161,11 +161,12 @@
         "Goodness234",
         "Dogggishoo",
         "Muhammad Ali3335",
-        "Meeky1010"
+        "Meeky1010",
+        "Farida9181"
       ],
       "balance": 51,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -4692,7 +4693,8 @@
         4,
         4,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "silas olamide",
@@ -4902,6 +4904,21 @@
       "joinDate": "2025-02-20T23:54:24.491Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Farida9181",
+      "email": "farida4343@gmail.com",
+      "encrypted_password": "9c6b18d926a45768cfd08b67a204c69a",
+      "referral_code": "FATFB",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:55:33.422Z"
     }
   ],
   "withdrawals": [
