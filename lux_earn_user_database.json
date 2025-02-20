@@ -1441,10 +1441,12 @@
       "referral_code": "IJ105",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Vector01 "
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -1705,6 +1707,21 @@
       "joinDate": "2025-02-20T23:17:08.074Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vector01 ",
+      "email": "devector365@gmail.com",
+      "encrypted_password": "dc6e70e1c251fc3b1626e858503e9966",
+      "referral_code": "VEAQM",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:17:15.273Z"
     }
   ],
   "withdrawals": [
