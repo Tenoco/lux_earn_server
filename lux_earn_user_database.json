@@ -156,10 +156,12 @@
       "referral_code": "ST2EB",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Juliana123"
+      ],
       "balance": 188,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -988,7 +990,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:10:58.122Z"
+      "joinDate": "2025-02-20T23:10:58.122Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Juliana123",
+      "email": "julianaomolade2219@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "JUXIR",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:05.289Z"
     }
   ],
   "withdrawals": [
