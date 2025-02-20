@@ -1557,14 +1557,13 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 50,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:00.752Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:16:15.220Z"
     },
     {
       "username": "Ramelex",
@@ -1647,7 +1646,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:16:16.484Z"
+      "joinDate": "2025-02-20T23:16:16.484Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
