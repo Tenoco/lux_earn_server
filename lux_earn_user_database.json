@@ -987,7 +987,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 175,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -998,9 +998,9 @@
         2,
         3,
         4,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Edna40",
@@ -1517,7 +1517,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:14:50.056Z"
+      "joinDate": "2025-02-20T23:14:50.056Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
