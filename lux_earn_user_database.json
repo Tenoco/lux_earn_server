@@ -660,11 +660,12 @@
         "Diamond2024",
         "Luxearner",
         "Bright side ",
-        "Olawale615"
+        "Olawale615",
+        "ZAGZI "
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -998,7 +999,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Edna40",
@@ -1501,6 +1503,21 @@
       "joinDate": "2025-02-20T23:14:43.696Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ZAGZI ",
+      "email": "kimzagzi@gmail.com",
+      "encrypted_password": "ab663f8fbe4f557f5c4b282c09ea5807",
+      "referral_code": "ZACVA",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:14:50.056Z"
     }
   ],
   "withdrawals": [
