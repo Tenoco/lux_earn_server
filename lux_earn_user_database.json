@@ -320,7 +320,8 @@
       "joinDate": "2025-02-20T23:02:30.995Z",
       "completedMissions": [
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Lolibaby ",
@@ -491,6 +492,21 @@
       "joinDate": "2025-02-20T23:04:05.608Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ezehkosiso ",
+      "email": "Ekosiso314@gmail.com",
+      "encrypted_password": "cd16d58be3111464c6dae575e6d1aede",
+      "referral_code": "EZXEW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:04:20.046Z"
     }
   ],
   "withdrawals": [
