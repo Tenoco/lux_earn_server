@@ -3440,7 +3440,7 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 30,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3449,7 +3449,9 @@
       "completedMissions": [
         2,
         3,
-        4
+        4,
+        8,
+        7
       ],
       "lastSpin": null
     },
