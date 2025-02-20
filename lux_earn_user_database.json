@@ -264,7 +264,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
-      "lastSpin": "2025-02-20T23:04:08.318Z",
       "completedMissions": [
         1,
         1,
@@ -273,7 +272,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:04:08.318Z"
     },
     {
       "username": "realism",
@@ -379,7 +379,7 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 185,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -391,9 +391,9 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "09139659667",
