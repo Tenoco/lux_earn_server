@@ -160,11 +160,12 @@
         "Benjamin1881",
         "Goodness234",
         "Dogggishoo",
-        "Muhammad Ali3335"
+        "Muhammad Ali3335",
+        "Meeky1010"
       ],
       "balance": 51,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -4555,6 +4556,21 @@
       "joinDate": "2025-02-20T23:48:04.731Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Meeky1010",
+      "email": "mvgcfeeetgy111#@gmail.com",
+      "encrypted_password": "41ba1a8b5cbfe4e0288474a33798da27",
+      "referral_code": "MEY84",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:49:06.485Z"
     }
   ],
   "withdrawals": [
