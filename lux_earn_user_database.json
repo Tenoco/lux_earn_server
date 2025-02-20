@@ -3855,7 +3855,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 55,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3866,7 +3866,7 @@
         2,
         3
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:55:31.038Z"
     },
     {
       "username": "Lord Vader",
@@ -4918,7 +4918,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:55:33.422Z"
+      "joinDate": "2025-02-20T23:55:33.422Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
