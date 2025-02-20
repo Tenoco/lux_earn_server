@@ -799,10 +799,12 @@
       "referral_code": "KITGL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Eddie Gregory "
+      ],
       "balance": 163,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -2516,6 +2518,21 @@
       "joinDate": "2025-02-20T23:25:11.110Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eddie Gregory ",
+      "email": "eddiephilips24@gmail.com",
+      "encrypted_password": "83ec15b97527c0a782af4ba206031e1c",
+      "referral_code": "EDDWH",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:25:16.247Z"
     }
   ],
   "withdrawals": [
