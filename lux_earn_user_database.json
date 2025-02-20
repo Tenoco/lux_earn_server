@@ -1987,14 +1987,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Israel",
@@ -2131,7 +2132,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:23:04.586Z"
+      "joinDate": "2025-02-20T23:23:04.586Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
