@@ -3069,7 +3069,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 225,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3080,9 +3080,9 @@
         1,
         2,
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Victordominic ",
@@ -3422,7 +3422,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:34:47.748Z"
+      "joinDate": "2025-02-20T23:34:47.748Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
