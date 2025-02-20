@@ -250,12 +250,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
-      "lastSpin": "2025-02-20T23:04:08.318Z",
       "completedMissions": [
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:04:08.318Z"
     },
     {
       "username": "realism",
@@ -318,7 +318,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 125,
+      "balance": 145,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -326,9 +326,10 @@
       "joinDate": "2025-02-20T23:02:30.995Z",
       "completedMissions": [
         8,
-        7
-      ],
-      "lastSpin": null
+        7,
+        6,
+        5
+      ]
     },
     {
       "username": "Lolibaby ",
