@@ -2017,16 +2017,16 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "Oluwaferanmi",
@@ -2092,7 +2092,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:20:32.995Z"
+      "joinDate": "2025-02-21T08:20:32.995Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
