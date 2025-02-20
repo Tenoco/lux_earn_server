@@ -2265,13 +2265,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:23:38.595Z"
     },
     {
       "username": "Shegzzy Media",
@@ -2670,6 +2670,21 @@
       "joinDate": "2025-02-20T23:26:36.677Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Henny123",
+      "email": "olaoluwaeniola12@gmail.com",
+      "encrypted_password": "ff4cfb6a6081f8fe34a01be136cf1b6b",
+      "referral_code": "HEBAG",
+      "inviter_referral_code": "KITGL ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:26:03.162Z"
     }
   ],
   "withdrawals": [
