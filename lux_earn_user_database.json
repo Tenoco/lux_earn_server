@@ -176,11 +176,12 @@
       "inviter_username": null,
       "invited_users": [
         "Juliana123",
-        "Freeman123"
+        "Freeman123",
+        "Olumide "
       ],
       "balance": 303,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -2952,6 +2953,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:29:29.684Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:30:12.668Z"
     },
     {
@@ -2987,6 +2989,21 @@
       "joinDate": "2025-02-20T23:30:12.441Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olumide ",
+      "email": "showsomerespecttotheheadboy@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "OLA06",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:30:24.691Z"
     }
   ],
   "withdrawals": [
