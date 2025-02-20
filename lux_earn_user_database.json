@@ -610,11 +610,12 @@
         "Herikcool",
         "Michelle ",
         "Emerald",
-        "Ebenezerochi"
+        "Ebenezerochi",
+        "Ibrahim "
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -2918,7 +2919,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:29:24.492Z"
+      "joinDate": "2025-02-20T23:29:24.492Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim ",
+      "email": "ibra61986@gmail.com",
+      "encrypted_password": "2eea46d1753874c39a375513a125f2f4",
+      "referral_code": "IBH9D",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:29:29.684Z"
     }
   ],
   "withdrawals": [
