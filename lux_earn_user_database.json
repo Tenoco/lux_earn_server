@@ -832,14 +832,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 138,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:58.502Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-20T23:22:48.637Z"
     },
     {
       "username": "Herikcool",
@@ -2398,7 +2401,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:23:59.884Z"
+      "joinDate": "2025-02-20T23:23:59.884Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
