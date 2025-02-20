@@ -2554,11 +2554,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Omolade"
+        "Omolade",
+        "Alaba"
       ],
       "balance": 320,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:53.168Z",
@@ -4234,7 +4235,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:44:24.745Z"
+      "joinDate": "2025-02-20T23:44:24.745Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Alaba",
+      "email": "johnwillfords@gmail.com",
+      "encrypted_password": "e4bcabedd75bf20448b0119bab19b2b3",
+      "referral_code": "ALN9E",
+      "inviter_referral_code": "STF5Y",
+      "inviter_username": "Starcakesandmore",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:44:27.274Z"
     }
   ],
   "withdrawals": [
