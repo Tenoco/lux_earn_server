@@ -3109,7 +3109,8 @@
         1,
         8,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny",
@@ -3170,16 +3171,16 @@
       "inviter_referral_code": "ABR0C",
       "inviter_username": "AbdulAj",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:14.479Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Joe",
