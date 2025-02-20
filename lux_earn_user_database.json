@@ -1888,10 +1888,12 @@
       "referral_code": "IAKAO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ugo23"
+      ],
       "balance": 165,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -4833,6 +4835,21 @@
       "joinDate": "2025-02-20T23:57:31.551Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ugo23",
+      "email": "emmanuelchinecherem97@gmail.com",
+      "encrypted_password": "7e05503855ee54eb9459723557506561",
+      "referral_code": "UGSY2",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:58:10.366Z"
     }
   ],
   "withdrawals": [
