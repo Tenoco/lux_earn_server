@@ -3309,7 +3309,8 @@
       "joinDate": "2025-02-20T23:33:21.536Z",
       "completedMissions": [
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Goodness234",
@@ -3571,6 +3572,21 @@
       "joinDate": "2025-02-20T23:36:27.148Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lord Vader",
+      "email": "quyyumadebayo12345@gmail.com",
+      "encrypted_password": "dcd7776406e444f87c05f2700ca34f22",
+      "referral_code": "LO1HB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:36:41.918Z"
     }
   ],
   "withdrawals": [
