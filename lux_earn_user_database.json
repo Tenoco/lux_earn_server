@@ -736,7 +736,7 @@
         "Blaze",
         "Ayoola "
       ],
-      "balance": 235,
+      "balance": 255,
       "refers": 13,
       "referralBalance": 1300,
       "withdrawalBalance": 0,
@@ -747,7 +747,9 @@
         8,
         8,
         7,
-        3
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -4168,7 +4170,8 @@
         2,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danielle",
