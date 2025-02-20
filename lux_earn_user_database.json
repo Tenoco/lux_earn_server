@@ -2265,19 +2265,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
+      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
         2,
-        1
-      ],
-      "lastSpin": "2025-02-20T23:23:38.595Z"
+        1,
+        4
+      ]
     },
     {
       "username": "Shegzzy Media",
@@ -2759,7 +2760,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:27:49.169Z"
+      "joinDate": "2025-02-20T23:27:49.169Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
