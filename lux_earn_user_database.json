@@ -783,7 +783,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 185,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -795,9 +795,9 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "Nora",
@@ -1124,7 +1124,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:12:16.575Z"
+      "joinDate": "2025-02-20T23:12:16.575Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
