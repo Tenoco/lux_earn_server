@@ -265,11 +265,12 @@
       "inviter_username": null,
       "invited_users": [
         "Tetantes",
-        "BOUCK"
+        "BOUCK",
+        "silas olamide"
       ],
       "balance": 235,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -4637,7 +4638,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:50:15.120Z"
+      "joinDate": "2025-02-20T23:50:15.120Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "silas olamide",
+      "email": "silasolamide32@gmail.com",
+      "encrypted_password": "611ee9c8ebaea44e8ac3e73152a89bd4",
+      "referral_code": "SI26P",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:50:33.371Z"
     }
   ],
   "withdrawals": [
