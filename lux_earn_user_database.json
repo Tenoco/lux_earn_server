@@ -768,7 +768,7 @@
       "invited_users": [
         "Oluwaferanmi"
       ],
-      "balance": 200,
+      "balance": 100,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -4216,7 +4216,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:44:09.482Z"
+      "joinDate": "2025-02-20T23:44:09.482Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -4314,6 +4316,16 @@
       "phoneNumber": "08154100146",
       "amount": 100,
       "timestamp": "2025-02-20T23:43:25.574Z",
+      "status": "pending"
+    },
+    {
+      "username": "Raphealperry",
+      "email": "oluwaferanmi857@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "09016678801",
+      "amount": 100,
+      "timestamp": "2025-02-20T23:44:18.550Z",
       "status": "pending"
     }
   ]
