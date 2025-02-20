@@ -1932,14 +1932,13 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 50,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:18:53.493Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:21:29.170Z"
     },
     {
       "username": "Esther20",
@@ -2112,7 +2111,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:21:29.462Z"
+      "joinDate": "2025-02-20T23:21:29.462Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
