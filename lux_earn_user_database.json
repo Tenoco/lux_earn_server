@@ -1591,11 +1591,12 @@
         "Johnny",
         "Lookman",
         "Yippee ",
-        "Hope "
+        "Hope ",
+        "Terna"
       ],
       "balance": 50,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3737,6 +3738,21 @@
       "joinDate": "2025-02-20T23:38:44.333Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Terna",
+      "email": "ternadf@gmail.com",
+      "encrypted_password": "dd95b1ca8dca61e3ab7ca3f18bbdef78",
+      "referral_code": "TEEAM",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:38:53.459Z"
     }
   ],
   "withdrawals": [
