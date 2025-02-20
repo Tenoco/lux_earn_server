@@ -1739,11 +1739,12 @@
         "Yippee ",
         "Hope ",
         "Terna",
-        "Danielle"
+        "Danielle",
+        "Pollina"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -4201,6 +4202,21 @@
       "joinDate": "2025-02-20T23:43:49.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pollina",
+      "email": "pol@gmail.com",
+      "encrypted_password": "158d3dda16f41c1bc2b830cafdd3bd85",
+      "referral_code": "POCJU",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:44:09.482Z"
     }
   ],
   "withdrawals": [
