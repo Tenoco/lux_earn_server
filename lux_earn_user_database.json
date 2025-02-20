@@ -1344,14 +1344,16 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 55,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:13.451Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-20T23:13:48.206Z"
+      "lastSpin": "2025-02-20T23:13:48.206Z",
+      "completedMissions": [
+        3
+      ]
     },
     {
       "username": "FINIX ",
