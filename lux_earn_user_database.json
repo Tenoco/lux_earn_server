@@ -1093,11 +1093,12 @@
       "inviter_username": null,
       "invited_users": [
         "Uju12",
-        "Peterpan"
+        "Peterpan",
+        "John"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -2534,7 +2535,8 @@
       "joinDate": "2025-02-20T23:25:11.110Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Eddie Gregory ",
@@ -2586,6 +2588,21 @@
       "joinDate": "2025-02-20T23:25:51.197Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "John",
+      "email": "johnson346587@gmail.com",
+      "encrypted_password": "bf6f39c6a7ad3b9077e2cbd6bc7cccb8",
+      "referral_code": "JOOX5",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:26:10.360Z"
     }
   ],
   "withdrawals": [
