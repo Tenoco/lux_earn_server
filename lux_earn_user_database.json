@@ -2876,11 +2876,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Lickmy"
+        "Lickmy",
+        "Lickmyhand"
       ],
       "balance": 65,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
@@ -4604,6 +4605,21 @@
       "joinDate": "2025-02-20T23:49:52.412Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lickmyhand",
+      "email": "smith@gmail.com",
+      "encrypted_password": "41e15155bbbfde658d406cd637d5b8a4",
+      "referral_code": "LI8ZG",
+      "inviter_referral_code": "LIN86",
+      "inviter_username": "Lickmy0042",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:50:11.730Z"
     }
   ],
   "withdrawals": [
