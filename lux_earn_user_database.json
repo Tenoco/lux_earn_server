@@ -262,6 +262,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:03.673Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:02:57.959Z"
     },
     {
@@ -331,6 +332,21 @@
       "joinDate": "2025-02-20T23:03:00.085Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Saint ",
+      "email": "esiagasaint@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "SAHU4",
+      "inviter_referral_code": "https://luxearn0.netlify.app",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:04.703Z"
     }
   ],
   "withdrawals": [
