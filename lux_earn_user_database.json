@@ -91,11 +91,12 @@
         "Ramelex",
         "Adedoyin1999",
         "Atanda412",
-        "Owoloye "
+        "Owoloye ",
+        "Donny"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -2056,6 +2057,21 @@
       "joinDate": "2025-02-20T23:20:50.457Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Donny",
+      "email": "savagedonald123@gmail.com",
+      "encrypted_password": "4dad143137124970e17ee58ba7b1dd56",
+      "referral_code": "DOD5W",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:21:15.184Z"
     }
   ],
   "withdrawals": [
