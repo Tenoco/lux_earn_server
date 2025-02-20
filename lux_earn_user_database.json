@@ -1579,11 +1579,12 @@
         "Vector01 ",
         "Sweetmum",
         "Johnny",
-        "Lookman"
+        "Lookman",
+        "Yippee "
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3113,7 +3114,8 @@
         3,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny",
@@ -3304,6 +3306,21 @@
       "joinDate": "2025-02-20T23:34:00.877Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yippee ",
+      "email": "hotboy@gmail.com",
+      "encrypted_password": "b46abf9056079c808a5610ecaa2a9b54",
+      "referral_code": "YIJD0",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:34:07.945Z"
     }
   ],
   "withdrawals": [
