@@ -3408,7 +3408,7 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 130,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4159,7 +4159,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:43:14.034Z"
+      "joinDate": "2025-02-20T23:43:14.034Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -4247,6 +4249,16 @@
       "phoneNumber": "09012983962",
       "amount": 300,
       "timestamp": "2025-02-20T23:41:44.536Z",
+      "status": "pending"
+    },
+    {
+      "username": "Joe",
+      "email": "josephawe100@gmail.com",
+      "type": "airtime",
+      "network": "glo",
+      "phoneNumber": "08154100146",
+      "amount": 100,
+      "timestamp": "2025-02-20T23:43:25.574Z",
       "status": "pending"
     }
   ]
