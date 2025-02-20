@@ -394,7 +394,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "09139659667",
@@ -530,10 +531,12 @@
       "referral_code": "KIIO1",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Herikcool"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -731,6 +734,21 @@
       "joinDate": "2025-02-20T23:07:58.502Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Herikcool",
+      "email": "fasanerickson24@gmail.com",
+      "encrypted_password": "6bec9859f43dde55e5033adfd1a764ca",
+      "referral_code": "HE71O",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:08:36.089Z"
     }
   ],
   "withdrawals": [
