@@ -2311,7 +2311,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:23:21.662Z"
+      "joinDate": "2025-02-20T23:23:21.662Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Negro234",
+      "email": "anonymousnuke.sr@gmail.com",
+      "encrypted_password": "df10ef8509dc176d733d59549e7dbfaf",
+      "referral_code": "NEAWJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:23:25.851Z"
     }
   ],
   "withdrawals": [
