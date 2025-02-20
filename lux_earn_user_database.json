@@ -227,7 +227,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:01:57.010Z"
+      "joinDate": "2025-02-20T23:01:57.010Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dandee321",
+      "email": "adetokunbodaniel544@gmail.com",
+      "encrypted_password": "de18c2eaa611599009fb3da79378f9e6",
+      "referral_code": "DANK3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:02:02.070Z"
     }
   ],
   "withdrawals": [
