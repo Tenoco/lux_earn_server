@@ -419,7 +419,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:03:41.669Z"
+      "joinDate": "2025-02-20T23:03:41.669Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tomkid ",
+      "email": "Salihusaidu112@gmail.com",
+      "encrypted_password": "cd461766705eb64f11032e8464f9beba",
+      "referral_code": "TODB3",
+      "inviter_referral_code": "Luxearn0",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:44.315Z"
     }
   ],
   "withdrawals": [
