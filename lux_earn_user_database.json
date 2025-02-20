@@ -385,7 +385,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:03:26.986Z"
+      "joinDate": "2025-02-20T23:03:26.986Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "sammy112..",
+      "email": "sunnyomoniyi70@gmail.com",
+      "encrypted_password": "b97654f44a528f348404ac3761bc7ef1",
+      "referral_code": "SAJXD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:33.802Z"
     }
   ],
   "withdrawals": [
