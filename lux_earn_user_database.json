@@ -2099,10 +2099,12 @@
       "referral_code": "PRCEH",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Princewill"
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -3110,7 +3112,8 @@
         8,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny",
@@ -3284,6 +3287,21 @@
       "joinDate": "2025-02-20T23:33:45.264Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Princewill",
+      "email": "princewillcharity67@gmail.com",
+      "encrypted_password": "5eee2ff44070ecca75f0444f3c3ecad8",
+      "referral_code": "PRPLU",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:34:00.877Z"
     }
   ],
   "withdrawals": [
