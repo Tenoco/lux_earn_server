@@ -696,13 +696,15 @@
         "Cjstarboy",
         "Ola "
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:32.949Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -4291,7 +4293,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:44:36.954Z"
+      "joinDate": "2025-02-20T23:44:36.954Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
