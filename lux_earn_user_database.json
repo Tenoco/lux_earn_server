@@ -2403,14 +2403,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:23:21.662Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Negro234",
@@ -2800,7 +2803,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:28:06.275Z"
+      "joinDate": "2025-02-20T23:28:06.275Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
