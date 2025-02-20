@@ -2374,14 +2374,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:48.558Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-20T23:35:38.337Z"
     },
@@ -3316,7 +3317,8 @@
       "completedMissions": [
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Goodness234",
