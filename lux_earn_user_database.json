@@ -1052,11 +1052,12 @@
       "inviter_username": null,
       "invited_users": [
         "Olaes",
-        "Sergeant"
+        "Sergeant",
+        "KaydeeX"
       ],
       "balance": 315,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -2992,7 +2993,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ibrahim ",
@@ -3478,6 +3480,21 @@
       "joinDate": "2025-02-20T23:35:47.857Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "KaydeeX",
+      "email": "saizacharmian@gmail.com",
+      "encrypted_password": "6a25530a9b59692d9b2276c3bde3cceb",
+      "referral_code": "KATBU",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:35:56.096Z"
     }
   ],
   "withdrawals": [
