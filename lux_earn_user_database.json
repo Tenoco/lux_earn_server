@@ -2761,7 +2761,7 @@
       "inviter_referral_code": "KITGL ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 142,
+      "balance": 212,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2769,7 +2769,9 @@
       "joinDate": "2025-02-21T08:26:03.162Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3,
+        3
       ],
       "lastSpin": "2025-02-21T08:26:58.011Z"
     },
