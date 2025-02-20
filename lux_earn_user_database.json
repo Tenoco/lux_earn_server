@@ -92,11 +92,12 @@
         "Adedoyin1999",
         "Atanda412",
         "Owoloye ",
-        "Donny"
+        "Donny",
+        "Starcakesandmore"
       ],
       "balance": 50,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -2218,7 +2219,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:22:48.558Z"
+      "joinDate": "2025-02-20T23:22:48.558Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Starcakesandmore",
+      "email": "esthermonsia2@gmail.com",
+      "encrypted_password": "e0647da7fd09225fd6d6e1b4e820712b",
+      "referral_code": "STF5Y",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:22:53.168Z"
     }
   ],
   "withdrawals": [
