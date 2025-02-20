@@ -173,11 +173,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Juliana123"
+        "Juliana123",
+        "Freeman123"
       ],
       "balance": 303,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -2809,6 +2810,21 @@
       "joinDate": "2025-02-20T23:28:06.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Freeman123",
+      "email": "lekanadedeji24@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "FR559",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:28:20.702Z"
     }
   ],
   "withdrawals": [
