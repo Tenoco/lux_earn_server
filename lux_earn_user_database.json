@@ -1825,10 +1825,12 @@
       "referral_code": "KRHXP",
       "inviter_referral_code": "KllO1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Goat "
+      ],
       "balance": 130,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:18.808Z",
@@ -4315,7 +4317,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:45:02.679Z"
+      "joinDate": "2025-02-20T23:45:02.679Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goat ",
+      "email": "goat@gmail.com",
+      "encrypted_password": "4b2dfba9c86c644da6836c95ef6235d4",
+      "referral_code": "GOWR2",
+      "inviter_referral_code": "KRHXP",
+      "inviter_username": "Krisskull",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:05.031Z"
     }
   ],
   "withdrawals": [
