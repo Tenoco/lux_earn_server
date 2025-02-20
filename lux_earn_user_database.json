@@ -3376,14 +3376,15 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "CASH223",
@@ -4545,7 +4546,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:48:04.731Z"
+      "joinDate": "2025-02-20T23:48:04.731Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
