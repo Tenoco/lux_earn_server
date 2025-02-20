@@ -1007,7 +1007,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:11:05.289Z"
+      "joinDate": "2025-02-20T23:11:05.289Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tomiwa089",
+      "email": "petertomiwa58@gmail.com",
+      "encrypted_password": "0c80f9074bda15cee770095698a72716",
+      "referral_code": "TO41W",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:07.867Z"
     }
   ],
   "withdrawals": [
