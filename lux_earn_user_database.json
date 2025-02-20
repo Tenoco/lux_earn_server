@@ -1570,11 +1570,12 @@
       "inviter_username": null,
       "invited_users": [
         "Vector01 ",
-        "Sweetmum"
+        "Sweetmum",
+        "Johnny"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -3074,6 +3075,21 @@
       "joinDate": "2025-02-20T23:31:21.585Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny",
+      "email": "john@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "JOZJT",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:31:36.243Z"
     }
   ],
   "withdrawals": [
