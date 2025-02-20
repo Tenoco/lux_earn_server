@@ -1584,7 +1584,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:15:49.927Z"
+      "joinDate": "2025-02-20T23:15:49.927Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bobby12 ",
+      "email": "bobbyrich749@gmail.com",
+      "encrypted_password": "64935f14e24c2693749ccb021496ef51",
+      "referral_code": "BO6AH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:15:56.661Z"
     }
   ],
   "withdrawals": [
