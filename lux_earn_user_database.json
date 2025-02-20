@@ -736,7 +736,7 @@
         "Blaze",
         "Ayoola "
       ],
-      "balance": 125,
+      "balance": 200,
       "refers": 13,
       "referralBalance": 1300,
       "withdrawalBalance": 0,
@@ -744,7 +744,9 @@
       "joinDate": "2025-02-20T23:04:40.135Z",
       "completedMissions": [
         1,
-        8
+        8,
+        8,
+        7
       ],
       "lastSpin": null
     },
