@@ -994,7 +994,8 @@
       "joinDate": "2025-02-20T23:10:32.858Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Edna40",
@@ -1459,6 +1460,21 @@
       "joinDate": "2025-02-20T23:14:18.808Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "INVEXTOR ",
+      "email": "ibrahimshuaib077@gmail.com",
+      "encrypted_password": "c67d32c53596e393fb900aa5b524e10b",
+      "referral_code": "IN559",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:14:30.538Z"
     }
   ],
   "withdrawals": [
