@@ -1612,11 +1612,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olawale "
+        "Olawale ",
+        "jamiluamusbahu"
       ],
       "balance": 245,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -2858,7 +2859,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:29:05.568Z"
+      "joinDate": "2025-02-20T23:29:05.568Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "jamiluamusbahu",
+      "email": "jamiluamusbahu7@gmail.com",
+      "encrypted_password": "68af4c6e2199b67573316d67a3a1691d",
+      "referral_code": "JA673",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:29:06.605Z"
     }
   ],
   "withdrawals": [
