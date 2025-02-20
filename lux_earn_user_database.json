@@ -1106,10 +1106,12 @@
       "referral_code": "LUTF3",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Fearless77"
+      ],
       "balance": 295,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -3873,6 +3875,21 @@
       "joinDate": "2025-02-20T23:40:02.867Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fearless77",
+      "email": "rolleycorner@gmail.ciom",
+      "encrypted_password": "411da0f7b8496b14b9c6b8cb0596a2a9",
+      "referral_code": "FEVU7",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:40:19.336Z"
     }
   ],
   "withdrawals": [
