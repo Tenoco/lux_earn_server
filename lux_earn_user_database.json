@@ -3643,14 +3643,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:37:09.917Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "August",
@@ -3752,7 +3753,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:38:53.459Z"
+      "joinDate": "2025-02-20T23:38:53.459Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
