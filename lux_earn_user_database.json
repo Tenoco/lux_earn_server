@@ -1051,11 +1051,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olaes"
+        "Olaes",
+        "Sergeant"
       ],
       "balance": 315,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -3337,7 +3338,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:34:09.149Z"
+      "joinDate": "2025-02-20T23:34:09.149Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sergeant",
+      "email": "victorodukoya9@gmail.com",
+      "encrypted_password": "f60c2038df2e3e686415f8b709f41b0a",
+      "referral_code": "SEIKW",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:34:12.097Z"
     }
   ],
   "withdrawals": [
