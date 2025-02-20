@@ -1848,11 +1848,12 @@
       "inviter_referral_code": "KllO1",
       "inviter_username": null,
       "invited_users": [
-        "Goat "
+        "Goat ",
+        "Tyre"
       ],
       "balance": 130,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:18.808Z",
@@ -2145,7 +2146,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:17:51.002Z",
-      "lastSpin": "2025-02-20T23:45:14.776Z",
       "completedMissions": [
         1,
         2,
@@ -2154,7 +2154,8 @@
         6,
         6,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:45:14.776Z"
     },
     {
       "username": "Waskid",
@@ -4783,6 +4784,21 @@
       "joinDate": "2025-02-20T23:52:25.193Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tyre",
+      "email": "tyre@gmail.com",
+      "encrypted_password": "e63a6e9f15567d812684e43b8621b36b",
+      "referral_code": "TYNRR",
+      "inviter_referral_code": "KRHXP",
+      "inviter_username": "Krisskull",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:52:53.299Z"
     }
   ],
   "withdrawals": [
