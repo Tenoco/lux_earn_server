@@ -3400,7 +3400,8 @@
         2,
         8,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mammiegold",
@@ -3609,6 +3610,21 @@
       "joinDate": "2025-02-20T23:36:46.293Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bad boy x ",
+      "email": "nnamokougonna@gmail.com",
+      "encrypted_password": "fbcbe134f0c2ea4e08d9e506b95fa4af",
+      "referral_code": "BA1LN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:37:09.917Z"
     }
   ],
   "withdrawals": [
