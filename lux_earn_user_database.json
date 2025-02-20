@@ -261,7 +261,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:02:03.673Z"
+      "joinDate": "2025-02-20T23:02:03.673Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mubnan",
+      "email": "mubnan006@gmail.com",
+      "encrypted_password": "8edb0ca221f68a7afe9a76710718c4c8",
+      "referral_code": "MUYGM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:02:06.096Z"
     }
   ],
   "withdrawals": [
