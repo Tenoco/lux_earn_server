@@ -83,10 +83,12 @@
       "referral_code": "CHJWK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Lazy38"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -214,7 +216,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Crypto",
@@ -1061,6 +1064,21 @@
       "joinDate": "2025-02-20T23:11:18.042Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lazy38",
+      "email": "kabirkabir3932@gmail.com",
+      "encrypted_password": "f4ed6d5037c6328da69131c89b47f505",
+      "referral_code": "LAHDK",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:40.930Z"
     }
   ],
   "withdrawals": [
