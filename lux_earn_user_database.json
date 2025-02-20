@@ -685,11 +685,12 @@
         "Luxearner",
         "Bright side ",
         "Olawale615",
-        "ZAGZI "
+        "ZAGZI ",
+        "Mrhalifa12 "
       ],
       "balance": 50,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -1350,10 +1351,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:13.451Z",
-      "lastSpin": "2025-02-20T23:13:48.206Z",
       "completedMissions": [
         3
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:13:48.206Z"
     },
     {
       "username": "FINIX ",
@@ -1730,6 +1731,21 @@
       "joinDate": "2025-02-20T23:17:15.273Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mrhalifa12 ",
+      "email": "halifasule797@gmail.com",
+      "encrypted_password": "b4a2ade6fb0658a989f919516a4de7aa",
+      "referral_code": "MR2HP",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:17:29.438Z"
     }
   ],
   "withdrawals": [
