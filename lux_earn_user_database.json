@@ -504,7 +504,8 @@
         2,
         3,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kingrroggis",
@@ -644,6 +645,21 @@
       "joinDate": "2025-02-20T23:06:12.986Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "PaulPablo ",
+      "email": "alabipaul786@gmail.com",
+      "encrypted_password": "e3075413b168072ffd2d0bd733265dc1",
+      "referral_code": "PASJH",
+      "inviter_referral_code": "kIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:06:51.182Z"
     }
   ],
   "withdrawals": [
