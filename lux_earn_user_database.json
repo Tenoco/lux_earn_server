@@ -2565,11 +2565,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "Omolade",
-        "Alaba"
+        "Alaba",
+        "Johnny09"
       ],
       "balance": 320,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:53.168Z",
@@ -4438,6 +4439,21 @@
       "joinDate": "2025-02-20T23:45:57.218Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny09",
+      "email": "mayorjohnk@gmail.com",
+      "encrypted_password": "69c188341148339c2b0df1a48cb259cf",
+      "referral_code": "JOQUP",
+      "inviter_referral_code": "STF5Y",
+      "inviter_username": "Starcakesandmore",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:46:07.456Z"
     }
   ],
   "withdrawals": [
