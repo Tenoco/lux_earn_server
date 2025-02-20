@@ -2255,14 +2255,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:23:38.595Z",
+      "completedMissions": [
+        3,
+        3,
+        2
+      ]
     },
     {
       "username": "Shegzzy Media",
@@ -2281,7 +2285,8 @@
       "completedMissions": [
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Caleb2211",
