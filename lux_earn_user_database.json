@@ -1758,13 +1758,15 @@
         "Pollina",
         "Greg"
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -4674,7 +4676,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:50:49.286Z"
+      "joinDate": "2025-02-20T23:50:49.286Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
