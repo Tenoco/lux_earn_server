@@ -3689,14 +3689,15 @@
       "inviter_referral_code": "ABR0C",
       "inviter_username": "AbdulAj",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:37:51.069Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Dogggishoo",
@@ -3728,7 +3729,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:38:44.333Z"
+      "joinDate": "2025-02-20T23:38:44.333Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
