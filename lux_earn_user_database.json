@@ -1546,11 +1546,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Vector01 "
+        "Vector01 ",
+        "Sweetmum"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -2278,7 +2279,8 @@
       "joinDate": "2025-02-20T23:22:36.620Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Caleb2211",
@@ -2606,6 +2608,21 @@
       "joinDate": "2025-02-20T23:26:10.360Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sweetmum",
+      "email": "lucyijeomaabc@gmail.com",
+      "encrypted_password": "39adab947423244152ea5028f30b5df4",
+      "referral_code": "SW7JU",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:26:23.273Z"
     }
   ],
   "withdrawals": [
