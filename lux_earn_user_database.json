@@ -137,11 +137,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Murtala1111"
+        "Murtala1111",
+        "Nana111"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -252,7 +253,8 @@
         3,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dandee321",
@@ -900,6 +902,21 @@
       "joinDate": "2025-02-20T23:10:08.932Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nana111",
+      "email": "ibrahimmmurtala1234@gmail.com",
+      "encrypted_password": "5e03b60e0655e4f7bded8266d791aefc",
+      "referral_code": "NA4MX",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:10:15.563Z"
     }
   ],
   "withdrawals": [
