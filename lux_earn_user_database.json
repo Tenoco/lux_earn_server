@@ -1602,11 +1602,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olawale "
+        "Olawale ",
+        "Bella78"
       ],
       "balance": 100,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -2622,7 +2623,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:26:23.273Z"
+      "joinDate": "2025-02-20T23:26:23.273Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bella78",
+      "email": "onuoragift00@gmail.com",
+      "encrypted_password": "8336041a6899d0bce657dcd29409cf7e",
+      "referral_code": "BETO5",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:26:31.036Z"
     }
   ],
   "withdrawals": [
