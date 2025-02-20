@@ -90,11 +90,12 @@
         "Micah Isuk",
         "Ramelex",
         "Adedoyin1999",
-        "Atanda412"
+        "Atanda412",
+        "Owoloye "
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -1246,7 +1247,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jomilee",
@@ -1914,6 +1916,21 @@
       "joinDate": "2025-02-20T23:19:03.074Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Owoloye ",
+      "email": "lorddejicashy@gmail.com",
+      "encrypted_password": "cc84573bec56782066066b366e19f7de",
+      "referral_code": "OW4CN",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:19:29.924Z"
     }
   ],
   "withdrawals": [
