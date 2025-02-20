@@ -2116,16 +2116,17 @@
       "inviter_referral_code": "RAJDK",
       "inviter_username": "Raphealperry",
       "invited_users": [],
-      "balance": 85,
+      "balance": 121,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:32.218Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:24:28.154Z"
     },
     {
       "username": "Ayomide1124",
@@ -2550,7 +2551,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:25:26.964Z"
+      "joinDate": "2025-02-20T23:25:26.964Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
