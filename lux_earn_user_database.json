@@ -613,11 +613,12 @@
         "Michelle ",
         "Emerald",
         "Ebenezerochi",
-        "Ibrahim "
+        "Ibrahim ",
+        "Olaide "
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -3050,7 +3051,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:31:14.017Z"
+      "joinDate": "2025-02-20T23:31:14.017Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olaide ",
+      "email": "badmusfaisat38@gmail.com",
+      "encrypted_password": "a000fd0970e303897d0f8e73e7b588a8",
+      "referral_code": "OLI3C",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:31:21.585Z"
     }
   ],
   "withdrawals": [
