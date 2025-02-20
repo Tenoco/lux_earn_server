@@ -312,7 +312,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:02:30.995Z"
+      "joinDate": "2025-02-20T23:02:30.995Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lolibaby ",
+      "email": "funkyeof@gmail.com",
+      "encrypted_password": "568fe0733df32240a4e83a1545f9e747",
+      "referral_code": "LOINN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:00.085Z"
     }
   ],
   "withdrawals": [
