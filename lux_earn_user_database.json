@@ -4220,7 +4220,7 @@
       "inviter_referral_code": "ABR0C",
       "inviter_username": "AbdulAj",
       "invited_users": [],
-      "balance": 240,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4726,6 +4726,16 @@
       "phoneNumber": "08146155891",
       "amount": 100,
       "timestamp": "2025-02-20T23:49:36.338Z",
+      "status": "pending"
+    },
+    {
+      "username": "Mamman11",
+      "email": "muhammadibrahimdrz63@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "08132092463",
+      "amount": 100,
+      "timestamp": "2025-02-20T23:49:58.385Z",
       "status": "pending"
     }
   ]
