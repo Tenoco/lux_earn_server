@@ -1041,14 +1041,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:07.867Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Anna10",
@@ -1216,7 +1217,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:12:37.846Z"
+      "joinDate": "2025-02-20T23:12:37.846Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
