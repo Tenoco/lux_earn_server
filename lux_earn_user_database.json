@@ -1746,11 +1746,12 @@
         "Hope ",
         "Terna",
         "Danielle",
-        "Pollina"
+        "Pollina",
+        "Greg"
       ],
       "balance": 50,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -4419,6 +4420,21 @@
       "joinDate": "2025-02-20T23:45:09.658Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Greg",
+      "email": "gregs@gmail.com",
+      "encrypted_password": "f436893980d5686ca9f8efb961fa1860",
+      "referral_code": "GRXD4",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:57.218Z"
     }
   ],
   "withdrawals": [
