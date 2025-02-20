@@ -182,11 +182,12 @@
         "Juliana123",
         "Freeman123",
         "Olumide ",
-        "Ogunyoka12"
+        "Ogunyoka12",
+        "Uno13"
       ],
       "balance": 303,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -4257,6 +4258,21 @@
       "joinDate": "2025-02-20T23:44:27.274Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uno13",
+      "email": "gotuga@gmail.com",
+      "encrypted_password": "f9e3eaf70cf1348cae6d7fcb1878efbf",
+      "referral_code": "UNIBJ",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:44:33.654Z"
     }
   ],
   "withdrawals": [
