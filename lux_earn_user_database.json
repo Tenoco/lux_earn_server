@@ -3112,10 +3112,12 @@
       "referral_code": "DA3G3",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Umar"
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:29:05.568Z",
@@ -4093,7 +4095,8 @@
         1,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danielle",
@@ -4298,6 +4301,21 @@
       "joinDate": "2025-02-20T23:44:36.954Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Umar",
+      "email": "umarfaruq09120015459@gmail.com",
+      "encrypted_password": "24f971591ca62813fa7840ca276b6c7a",
+      "referral_code": "UMMAE",
+      "inviter_referral_code": "DA3G3",
+      "inviter_username": "DAHIRU",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:45:02.679Z"
     }
   ],
   "withdrawals": [
