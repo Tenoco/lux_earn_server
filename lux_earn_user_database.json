@@ -470,7 +470,7 @@
       "invited_users": [
         "Holar square "
       ],
-      "balance": 260,
+      "balance": 60,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -3066,7 +3066,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ibrahim ",
@@ -4036,6 +4037,16 @@
       "phoneNumber": "09064569457",
       "amount": 100,
       "timestamp": "2025-02-20T23:20:01.936Z",
+      "status": "pending"
+    },
+    {
+      "username": "09139659667",
+      "email": "eberejoshua95@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "09012151442",
+      "amount": 200,
+      "timestamp": "2025-02-20T23:41:22.574Z",
       "status": "pending"
     }
   ]
