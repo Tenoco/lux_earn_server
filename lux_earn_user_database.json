@@ -156,7 +156,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 148,
+      "balance": 188,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -165,7 +165,8 @@
       "completedMissions": [
         6,
         7,
-        7
+        7,
+        8
       ],
       "lastSpin": "2025-02-20T23:01:29.993Z"
     },
@@ -475,7 +476,8 @@
       "joinDate": "2025-02-20T23:03:44.315Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Martins1736",
