@@ -366,7 +366,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -374,9 +374,9 @@
       "joinDate": "2025-02-20T23:03:17.811Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Triumph ",
@@ -580,7 +580,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:05:06.761Z"
+      "joinDate": "2025-02-20T23:05:06.761Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
