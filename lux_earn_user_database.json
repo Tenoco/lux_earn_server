@@ -2144,6 +2144,21 @@
       "joinDate": "2025-02-20T23:23:04.586Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "TMTV",
+      "email": "freelancingspirit@gmail.com",
+      "encrypted_password": "a6ecd33dae00033d0bb288697be7591b",
+      "referral_code": "TMBV8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:22:15.035Z"
     }
   ],
   "withdrawals": [
