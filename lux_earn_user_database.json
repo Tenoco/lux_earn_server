@@ -4466,7 +4466,8 @@
         2,
         3,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Delight",
@@ -4764,14 +4765,16 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 50,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:51:30.466Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-20T23:52:12.114Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "SpecificG ",
