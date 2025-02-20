@@ -1113,11 +1113,12 @@
         "Uju12",
         "Peterpan",
         "John",
-        "Odia"
+        "Odia",
+        "August"
       ],
       "balance": 190,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -3631,6 +3632,21 @@
       "joinDate": "2025-02-20T23:37:09.917Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "August",
+      "email": "augustin58709@gmail.com",
+      "encrypted_password": "8273cadd2e2fc23ce0ab576db3ca03ad",
+      "referral_code": "AU1JL",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:37:18.352Z"
     }
   ],
   "withdrawals": [
