@@ -4471,7 +4471,8 @@
         3,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Delight",
@@ -4675,7 +4676,7 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 225,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4686,9 +4687,10 @@
         1,
         1,
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        2,
+        4
+      ]
     },
     {
       "username": "silas olamide",
