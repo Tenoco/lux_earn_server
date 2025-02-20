@@ -157,11 +157,12 @@
         "Mootww",
         "Muhammad ",
         "Benjamin1881",
-        "Goodness234"
+        "Goodness234",
+        "Dogggishoo"
       ],
       "balance": 51,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:00:50.053Z",
@@ -3689,6 +3690,21 @@
       "joinDate": "2025-02-20T23:37:51.069Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dogggishoo",
+      "email": "benerdoasert1234@gmail.com",
+      "encrypted_password": "8f1eabf0ecf87f129fe0237fd3a1bad4",
+      "referral_code": "DOSGI",
+      "inviter_referral_code": "ASP3D",
+      "inviter_username": "Asssss",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:38:06.555Z"
     }
   ],
   "withdrawals": [
