@@ -185,11 +185,12 @@
         "Freeman123",
         "Olumide ",
         "Ogunyoka12",
-        "Uno13"
+        "Uno13",
+        "samuel"
       ],
       "balance": 303,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -4711,7 +4712,8 @@
         5,
         5,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "silas olamide",
@@ -4938,6 +4940,21 @@
       "joinDate": "2025-02-20T23:55:33.422Z",
       "completedMissions": [],
       "lastSpin": "2025-02-20T23:55:44.446Z"
+    },
+    {
+      "username": "samuel",
+      "email": "netflixadedeji@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "SAVKE",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:56:44.378Z"
     }
   ],
   "withdrawals": [
