@@ -1020,13 +1020,15 @@
       "invited_users": [
         "Olaes"
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -1995,7 +1997,8 @@
       "joinDate": "2025-02-20T23:19:44.437Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Israel",
