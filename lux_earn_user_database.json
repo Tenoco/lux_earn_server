@@ -3418,7 +3418,8 @@
       "joinDate": "2025-02-20T23:34:30.427Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "teeclassic_05",
@@ -3436,6 +3437,21 @@
       "joinDate": "2025-02-20T23:34:47.748Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olay ",
+      "email": "femio1842@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "OL1RD",
+      "inviter_referral_code": "123",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:35:30.184Z"
     }
   ],
   "withdrawals": [
