@@ -1959,7 +1959,8 @@
         2,
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Owoloye ",
@@ -2116,6 +2117,21 @@
       "joinDate": "2025-02-20T23:21:29.462Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Izzy29",
+      "email": "edookoroisrael@gmail.com",
+      "encrypted_password": "5cccc02b648df85c85c1ddeff6ccd378",
+      "referral_code": "IZXJL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:23:04.586Z"
     }
   ],
   "withdrawals": [
