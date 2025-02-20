@@ -1365,7 +1365,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:13:48.335Z"
+      "joinDate": "2025-02-20T23:13:48.335Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ijeslimz ",
+      "email": "ijeslimz@gmail.com",
+      "encrypted_password": "02b518d30c992cb437fbc21624a81a99",
+      "referral_code": "IJ105",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:53.364Z"
     }
   ],
   "withdrawals": [
