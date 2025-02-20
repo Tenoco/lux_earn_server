@@ -1390,14 +1390,15 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:23.383Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Bright side ",
@@ -1809,7 +1810,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:18:08.315Z"
+      "joinDate": "2025-02-20T23:18:08.315Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
