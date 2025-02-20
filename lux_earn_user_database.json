@@ -1113,10 +1113,12 @@
       "referral_code": "MAUOD",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Onug7 "
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:09:04.523Z",
@@ -4694,7 +4696,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:50:57.075Z"
+      "joinDate": "2025-02-20T23:50:57.075Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Onug7 ",
+      "email": "onugwufrancis7@gmail.com",
+      "encrypted_password": "3cd2a144247f48061739c1d3a478293c",
+      "referral_code": "ONX12",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": "Max",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:51:15.233Z"
     }
   ],
   "withdrawals": [
