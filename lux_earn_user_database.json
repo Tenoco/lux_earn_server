@@ -1308,11 +1308,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "Ummita2 ",
-        "Ayomide"
+        "Ayomide",
+        "Tohrah"
       ],
       "balance": 260,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:19.987Z",
@@ -3746,6 +3747,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:38:44.333Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-20T23:39:42.526Z"
     },
     {
@@ -3832,6 +3834,21 @@
       "joinDate": "2025-02-20T23:39:29.943Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tohrah",
+      "email": "tohirlawal@gmail.com",
+      "encrypted_password": "cf27c3efb9af7885e77fef552acc8537",
+      "referral_code": "TOVM3",
+      "inviter_referral_code": "RA47P",
+      "inviter_username": "Rahmat2007",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:40:02.867Z"
     }
   ],
   "withdrawals": [
