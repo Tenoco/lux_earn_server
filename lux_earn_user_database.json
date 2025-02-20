@@ -533,10 +533,12 @@
       "referral_code": "ABR0C",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ameen001"
+      ],
       "balance": 220,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -3134,6 +3136,21 @@
       "joinDate": "2025-02-20T23:32:06.337Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ameen001",
+      "email": "Ahmadyau770@gmail.com",
+      "encrypted_password": "f3d8732ab69d9b66f713851b9961ee1e",
+      "referral_code": "AMHJ3",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:14.479Z"
     }
   ],
   "withdrawals": [
