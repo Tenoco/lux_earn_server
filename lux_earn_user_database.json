@@ -2475,7 +2475,8 @@
         3,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "hassan11",
@@ -2558,14 +2559,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 103,
+      "balance": 138,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:11.110Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-20T23:26:44.104Z"
     },
