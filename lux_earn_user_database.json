@@ -2286,12 +2286,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 275,
+      "balance": 315,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:22:35.051Z",
+      "lastSpin": "2025-02-20T23:23:38.595Z",
       "completedMissions": [
         3,
         3,
@@ -2300,9 +2301,9 @@
         4,
         5,
         7,
-        6
-      ],
-      "lastSpin": "2025-02-20T23:23:38.595Z"
+        6,
+        8
+      ]
     },
     {
       "username": "Shegzzy Media",
