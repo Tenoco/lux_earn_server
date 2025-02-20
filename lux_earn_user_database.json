@@ -3114,7 +3114,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:32:01.989Z"
+      "joinDate": "2025-02-20T23:32:01.989Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "CASH223",
+      "email": "linkinfalokun@gmail.com",
+      "encrypted_password": "31f421587f410e8575e6f61cfbd755fe",
+      "referral_code": "CA9S8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:32:06.337Z"
     }
   ],
   "withdrawals": [
