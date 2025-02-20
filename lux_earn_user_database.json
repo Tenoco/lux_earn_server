@@ -733,10 +733,12 @@
       "referral_code": "RAJDK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oluwaferanmi"
+      ],
       "balance": 120,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:05:06.761Z",
@@ -2010,6 +2012,21 @@
       "joinDate": "2025-02-20T23:20:17.895Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oluwaferanmi",
+      "email": "bris24473@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "OLW2U",
+      "inviter_referral_code": "RAJDK",
+      "inviter_username": "Raphealperry",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:20:32.218Z"
     }
   ],
   "withdrawals": [
