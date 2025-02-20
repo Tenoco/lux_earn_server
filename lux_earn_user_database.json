@@ -515,7 +515,8 @@
         3,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kingrroggis",
@@ -689,6 +690,21 @@
       "joinDate": "2025-02-20T23:07:23.196Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Taisat30",
+      "email": "asanlaiyetaiye@gmail.com",
+      "encrypted_password": "3675c100ecc75d2865f85b7dcec4a222",
+      "referral_code": "TAL3I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:07:37.062Z"
     }
   ],
   "withdrawals": [
