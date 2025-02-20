@@ -1717,7 +1717,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:49.927Z",
-      "lastSpin": "2025-02-20T23:16:35.140Z",
       "completedMissions": [
         1,
         2,
@@ -1725,7 +1724,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-20T23:16:35.140Z"
     },
     {
       "username": "Bobby12 ",
@@ -1968,7 +1968,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1977,9 +1977,9 @@
       "completedMissions": [
         2,
         1,
-        3
-      ],
-      "lastSpin": null
+        3,
+        8
+      ]
     },
     {
       "username": "Owoloye ",
