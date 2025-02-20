@@ -490,7 +490,7 @@
       "inviter_referral_code": "Luxearn0",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -498,9 +498,9 @@
       "joinDate": "2025-02-20T23:03:44.315Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Martins1736",
@@ -767,7 +767,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:08:37.022Z"
+      "joinDate": "2025-02-20T23:08:37.022Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
