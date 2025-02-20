@@ -85,11 +85,12 @@
       "inviter_username": null,
       "invited_users": [
         "Lazy38",
-        "Rahmat2007"
+        "Rahmat2007",
+        "Jomilee"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -1143,7 +1144,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:12:19.987Z"
+      "joinDate": "2025-02-20T23:12:19.987Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jomilee",
+      "email": "adebayoenoch815@gmail.com",
+      "encrypted_password": "810247419084c82d03809fc886fedaad",
+      "referral_code": "JO974",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:22.313Z"
     }
   ],
   "withdrawals": [
