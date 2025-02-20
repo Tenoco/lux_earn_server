@@ -2172,10 +2172,12 @@
       "referral_code": "DOD5W",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Fuhad"
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:21:15.184Z",
@@ -2781,7 +2783,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:28:05.661Z"
+      "joinDate": "2025-02-20T23:28:05.661Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fuhad",
+      "email": "donaldsavage630@gmail.com",
+      "encrypted_password": "4dad143137124970e17ee58ba7b1dd56",
+      "referral_code": "FULK7",
+      "inviter_referral_code": "DOD5W",
+      "inviter_username": "Donny",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:28:06.275Z"
     }
   ],
   "withdrawals": [
