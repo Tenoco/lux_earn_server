@@ -3409,7 +3409,8 @@
         6,
         7,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "CASH223",
@@ -4759,6 +4760,21 @@
       "joinDate": "2025-02-20T23:52:10.688Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmanuel24",
+      "email": "es862967@gmail.com",
+      "encrypted_password": "87fabd1b428ce85c5a76d4f007a40504",
+      "referral_code": "EMWM7",
+      "inviter_referral_code": "Chjwk",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:52:25.193Z"
     }
   ],
   "withdrawals": [
