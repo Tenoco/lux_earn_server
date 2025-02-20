@@ -250,11 +250,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tetantes"
+        "Tetantes",
+        "BOUCK"
       ],
       "balance": 235,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -2478,6 +2479,21 @@
       "joinDate": "2025-02-20T23:24:37.529Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "BOUCK",
+      "email": "greecbouck@gmail.com",
+      "encrypted_password": "a2bb25f64eddfeefa5b6cceb57e6a790",
+      "referral_code": "BOCBE",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:25:00.594Z"
     }
   ],
   "withdrawals": [
