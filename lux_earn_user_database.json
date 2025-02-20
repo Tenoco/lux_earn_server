@@ -1648,11 +1648,12 @@
       "inviter_username": null,
       "invited_users": [
         "Olawale ",
-        "jamiluamusbahu"
+        "jamiluamusbahu",
+        "Sirblack1338"
       ],
       "balance": 245,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -3771,7 +3772,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:39:01.732Z"
+      "joinDate": "2025-02-20T23:39:01.732Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sirblack1338",
+      "email": "davidbenedict1338@gmail.com",
+      "encrypted_password": "8e4cebd3a3ca1e57495f47d88f348388",
+      "referral_code": "SI5FT",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:39:13.423Z"
     }
   ],
   "withdrawals": [
