@@ -25316,11 +25316,12 @@
         "Molly",
         "Bilal",
         "Peter",
-        "Semia"
+        "Semia",
+        "Wasilat"
       ],
       "balance": 0,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -31571,6 +31572,21 @@
       "joinDate": "2025-02-21T13:12:33.144Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T13:13:00.243Z"
+    },
+    {
+      "username": "Wasilat",
+      "email": "xelawa7799@yalcu.com",
+      "encrypted_password": "2ccd89b67324dd915dd2d286f613332e",
+      "referral_code": "WAAPK",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:14:07.386Z"
     }
   ],
   "withdrawals": [
