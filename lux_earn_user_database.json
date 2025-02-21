@@ -38083,7 +38083,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:32:55.526Z"
+      "joinDate": "2025-02-21T22:32:55.526Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "princedane",
+      "email": "princedane456@gmail.com",
+      "encrypted_password": "2a2f3e8cbaf84176c7cd028484c4bd99",
+      "referral_code": "PRSQ9",
+      "inviter_referral_code": "BE30N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:33:12.419Z"
     }
   ],
   "withdrawals": [
