@@ -28282,7 +28282,7 @@
       "inviter_referral_code": "FAUOQ",
       "inviter_username": "Fatty",
       "invited_users": [],
-      "balance": 280,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28300,7 +28300,7 @@
         7,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:50:42.644Z"
     },
     {
       "username": "Dë Dë Õffíçïãl ",
@@ -28755,7 +28755,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:50:42.086Z"
+      "joinDate": "2025-02-21T11:50:42.086Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
