@@ -995,14 +995,15 @@
       "invited_users": [
         "Onug7 "
       ],
-      "balance": 85,
+      "balance": 95,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:09:04.523Z",
       "completedMissions": [
-        7
+        7,
+        4
       ],
       "lastSpin": null
     },
