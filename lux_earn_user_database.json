@@ -14476,7 +14476,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
-      "lastSpin": "2025-02-21T06:33:47.741Z",
       "completedMissions": [
         2,
         5,
@@ -14487,7 +14486,8 @@
         1,
         6,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:33:47.741Z"
     },
     {
       "username": "Gaius velji ",
@@ -14604,7 +14604,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 150,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14615,9 +14615,11 @@
         2,
         3,
         4,
-        5
-      ],
-      "lastSpin": null
+        5,
+        6,
+        7,
+        8
+      ]
     },
     {
       "username": "Emmanuel",
