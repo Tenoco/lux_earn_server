@@ -6213,14 +6213,21 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 62,
+      "balance": 247,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:20:45.413Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T00:21:26.559Z"
+      "lastSpin": "2025-02-21T00:21:26.559Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        5
+      ]
     },
     {
       "username": "Kafilat",
@@ -6279,7 +6286,8 @@
         5,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dray",
