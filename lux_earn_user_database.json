@@ -16830,11 +16830,12 @@
         "Abelgebriel",
         "Chiamakachi",
         "Henryjohn",
-        "Emmanuel okpe"
+        "Emmanuel okpe",
+        "Abigail Innocent"
       ],
       "balance": 280,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36668,6 +36669,21 @@
       "joinDate": "2025-02-21T15:36:38.604Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abigail Innocent",
+      "email": "abigail0@gmail.com",
+      "encrypted_password": "557718fbda495a49b387917386ca1d0a",
+      "referral_code": "AB2KK",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:37:39.083Z"
     }
   ],
   "withdrawals": [
