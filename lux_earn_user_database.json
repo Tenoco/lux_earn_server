@@ -20314,11 +20314,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Hhh"
+        "Hhh",
+        "Gjhhjjjkjj"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:09.637Z",
@@ -20896,6 +20897,21 @@
       "joinDate": "2025-02-21T08:27:36.645Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gjhhjjjkjj",
+      "email": "stevedonald7163@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "GJJD0",
+      "inviter_referral_code": "BIW4P",
+      "inviter_username": "Big Dee",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:28:51.138Z"
     }
   ],
   "withdrawals": [
