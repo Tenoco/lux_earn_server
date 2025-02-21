@@ -13358,11 +13358,12 @@
         "Alamin",
         "Regina ",
         "Zachariah ",
-        "Abdulgaffar"
+        "Abdulgaffar",
+        "Shadrach Nyigba "
       ],
       "balance": 251,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -35307,6 +35308,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:56:05.334Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T14:57:18.831Z"
     },
     {
@@ -35342,6 +35344,21 @@
       "joinDate": "2025-02-21T14:56:32.381Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shadrach Nyigba ",
+      "email": "secivirtershadrachnyigba@gmail.com",
+      "encrypted_password": "800f5dd9c89fb4c96db5837c893c1010",
+      "referral_code": "SHCSQ",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:57:44.831Z"
     }
   ],
   "withdrawals": [
