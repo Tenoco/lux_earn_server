@@ -15021,7 +15021,7 @@
         "Ashabi",
         "Wiskid"
       ],
-      "balance": 300,
+      "balance": -700,
       "refers": 15,
       "referralBalance": 1500,
       "withdrawalBalance": 0,
@@ -37160,6 +37160,17 @@
       "amount": 2000,
       "totalBalance": 1178,
       "timestamp": "2025-02-21T21:18:13.150Z",
+      "status": "pending"
+    },
+    {
+      "username": "Sungjinwoo123 ",
+      "email": "mamoodabdulbasit@gmail.com",
+      "accountName": "RASHIDAT FOLASHADE MAMOOD ",
+      "accountNumber": "9029612084",
+      "bank": "Palmpay",
+      "amount": 1000,
+      "totalBalance": 300,
+      "timestamp": "2025-02-21T21:37:05.546Z",
       "status": "pending"
     }
   ],
