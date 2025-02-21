@@ -11661,14 +11661,15 @@
       "inviter_referral_code": "LI4O7",
       "inviter_username": "Livvey",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:22:44.509Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Tabzzy",
@@ -11795,7 +11796,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abraham6693",
