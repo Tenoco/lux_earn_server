@@ -37446,7 +37446,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:26:44.514Z"
+      "joinDate": "2025-02-21T17:26:44.514Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "adebayo bolu",
+      "email": "okikiabebayo768@gmail.com",
+      "encrypted_password": "bcdc7cd8b30eeca576141446639e2015",
+      "referral_code": "AD7UB",
+      "inviter_referral_code": "FE5BQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:27:19.404Z"
     }
   ],
   "withdrawals": [
