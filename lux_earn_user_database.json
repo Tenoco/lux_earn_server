@@ -36568,7 +36568,8 @@
       "joinDate": "2025-02-21T15:31:44.143Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Peace ",
@@ -36885,6 +36886,21 @@
       "joinDate": "2025-02-21T15:45:29.096Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Djaycity",
+      "email": "julietjone123@gmail.com",
+      "encrypted_password": "b379058f2b91105960691a21ae02fa4b",
+      "referral_code": "DJZLN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:47:04.824Z"
     }
   ],
   "withdrawals": [
