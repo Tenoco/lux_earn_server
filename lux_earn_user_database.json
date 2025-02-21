@@ -16544,11 +16544,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Doris"
+        "Doris",
+        "Young"
       ],
       "balance": 280,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -23796,7 +23797,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:42:44.654Z"
+      "joinDate": "2025-02-21T09:42:44.654Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Young",
+      "email": "younggee@gmail.com",
+      "encrypted_password": "916ce5c621be17a0852ea4909eb0e0bc",
+      "referral_code": "YOSVN",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:42:48.191Z"
     }
   ],
   "withdrawals": [
