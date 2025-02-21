@@ -37543,7 +37543,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 250,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37558,9 +37558,9 @@
         8,
         7,
         6,
-        5
-      ],
-      "lastSpin": null
+        5,
+        3
+      ]
     },
     {
       "username": "kadok23",
