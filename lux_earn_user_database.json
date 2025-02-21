@@ -14800,7 +14800,7 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14809,7 +14809,9 @@
       "completedMissions": [
         1,
         6,
-        2
+        2,
+        3,
+        4
       ]
     },
     {
