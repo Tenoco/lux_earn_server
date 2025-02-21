@@ -38059,10 +38059,12 @@
       "referral_code": "ISOM7",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Neta"
+      ],
       "balance": 115,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:23:59.924Z",
@@ -38140,6 +38142,21 @@
       "joinDate": "2025-02-21T16:29:10.770Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Neta",
+      "email": "nr363054@gmail.com",
+      "encrypted_password": "847140622fe13471a730daf2dc9f0a8f",
+      "referral_code": "NE73T",
+      "inviter_referral_code": "ISOM7",
+      "inviter_username": "Isaac ilechie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:30:00.693Z"
     }
   ],
   "withdrawals": [
