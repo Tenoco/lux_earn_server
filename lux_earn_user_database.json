@@ -13236,10 +13236,12 @@
       "referral_code": "AMFOO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Davidjames "
+      ],
       "balance": 40,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -13867,6 +13869,21 @@
       "joinDate": "2025-02-21T06:22:01.611Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davidjames ",
+      "email": "davidjames@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "DAXXA",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:22:35.017Z"
     }
   ],
   "withdrawals": [
