@@ -9735,7 +9735,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9743,9 +9743,9 @@
       "joinDate": "2025-02-21T03:06:00.638Z",
       "completedMissions": [
         1,
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Teddy186",
@@ -9763,7 +9763,8 @@
       "joinDate": "2025-02-21T03:07:42.870Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
