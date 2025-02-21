@@ -4469,10 +4469,12 @@
       "referral_code": "ADGJX",
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
-      "invited_users": [],
+      "invited_users": [
+        "OPEX85"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:27.307Z",
@@ -17593,6 +17595,21 @@
       "joinDate": "2025-02-21T07:20:02.878Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "OPEX85",
+      "email": "adebesinopeyemi12@gmail.com",
+      "encrypted_password": "da1ee4ae3a075ec4fc9b94ce1bf396fe",
+      "referral_code": "OPSXH",
+      "inviter_referral_code": "ADGJX",
+      "inviter_username": "adexdave3 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:20:15.785Z"
     }
   ],
   "withdrawals": [
