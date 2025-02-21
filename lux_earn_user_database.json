@@ -5834,7 +5834,7 @@
         "Dhhh",
         "Bhgh"
       ],
-      "balance": 360,
+      "balance": 372,
       "refers": 13,
       "referralBalance": 1300,
       "withdrawalBalance": 0,
@@ -5855,7 +5855,7 @@
         6,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:34:12.039Z"
     },
     {
       "username": "Mr T ",
@@ -23415,7 +23415,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:34:14.592Z"
+      "joinDate": "2025-02-21T09:34:14.592Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
