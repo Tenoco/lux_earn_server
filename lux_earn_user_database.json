@@ -5982,7 +5982,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:18:09.349Z"
+      "joinDate": "2025-02-21T00:18:09.349Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "faleski",
+      "email": "faluaayomide34@gmail.com",
+      "encrypted_password": "e2f5b9fa12ac04756bc0ea471b86dff0",
+      "referral_code": "FAOJC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:18:15.624Z"
     }
   ],
   "withdrawals": [
