@@ -37411,7 +37411,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:19:44.161Z"
+      "joinDate": "2025-02-21T17:19:44.161Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Eddymally01",
+      "email": "eddymally64@gmail.com",
+      "encrypted_password": "d791bb28ae529bc2fb3a37045f180417",
+      "referral_code": "ED7HC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:21:37.962Z"
     }
   ],
   "withdrawals": [
