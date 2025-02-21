@@ -32552,7 +32552,8 @@
         1,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billy jos",
@@ -32621,6 +32622,21 @@
       "joinDate": "2025-02-21T13:44:02.564Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hay_bee291",
+      "email": "boluwatifeabidoye638@gmail.com",
+      "encrypted_password": "1b2fe7d05b6e5a51ab9b66a69fd0768c",
+      "referral_code": "HAVDL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:45:14.499Z"
     }
   ],
   "withdrawals": [
