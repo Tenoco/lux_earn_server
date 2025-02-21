@@ -1651,14 +1651,18 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 60,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:26.804Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        1,
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -13552,7 +13556,8 @@
       "joinDate": "2025-02-21T06:12:43.187Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Elijah1234",
