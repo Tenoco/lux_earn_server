@@ -5639,7 +5639,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:12:15.162Z"
+      "joinDate": "2025-02-21T00:12:15.162Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mr T ",
+      "email": "clamsminderzet@gmail.com",
+      "encrypted_password": "d0474fa09530be9e6174ef3fa4dc2e18",
+      "referral_code": "MRFZZ",
+      "inviter_referral_code": "ANJQD ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:12:23.579Z"
     }
   ],
   "withdrawals": [
