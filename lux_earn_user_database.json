@@ -25468,11 +25468,12 @@
         "Bola",
         "Malik",
         "Wasiu",
-        "Latif"
+        "Latif",
+        "Sulaimon"
       ],
       "balance": 0,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -35619,7 +35620,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:06:33.393Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:06:46.301Z"
+    },
+    {
+      "username": "Sulaimon",
+      "email": "fogenot403@dropfam.com",
+      "encrypted_password": "6f1c7c1a921685bfee2a23eacf7826c1",
+      "referral_code": "SUZ00",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:07:02.455Z"
     }
   ],
   "withdrawals": [
