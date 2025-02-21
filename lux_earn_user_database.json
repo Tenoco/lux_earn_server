@@ -15748,10 +15748,12 @@
       "referral_code": "OFP5T",
       "inviter_referral_code": "Sc4h4",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Wisdomchibuike "
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:10.486Z",
@@ -18153,6 +18155,21 @@
       "joinDate": "2025-02-21T07:29:10.599Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdomchibuike ",
+      "email": "chibuikew079@gmail.com",
+      "encrypted_password": "baef5702b5f43e7b114a63be458a53d2",
+      "referral_code": "WIV3Y",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:29:28.923Z"
     }
   ],
   "withdrawals": [
