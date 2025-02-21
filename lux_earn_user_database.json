@@ -4701,11 +4701,12 @@
         "Roy",
         "Zoro",
         "Will",
-        "Zain"
+        "Zain",
+        "Bryan "
       ],
       "balance": 25,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7317,6 +7318,21 @@
       "joinDate": "2025-02-21T00:43:42.150Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bryan ",
+      "email": "Bryancage@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "BRUE2",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:44:17.454Z"
     }
   ],
   "withdrawals": [
