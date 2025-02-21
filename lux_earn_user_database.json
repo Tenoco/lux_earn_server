@@ -20171,7 +20171,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aliamdulillahi",
@@ -20223,6 +20224,21 @@
       "joinDate": "2025-02-21T08:11:22.887Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smartdove ",
+      "email": "volamide719@gmail.com",
+      "encrypted_password": "0d02ad8a47fcff976a3d0b4a84e2f678",
+      "referral_code": "SM0RA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:11:59.512Z"
     }
   ],
   "withdrawals": [
