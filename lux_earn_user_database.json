@@ -19198,11 +19198,12 @@
         "alanapromise117",
         "Ramadan",
         "Ajuo",
-        "Ggg"
+        "Ggg",
+        "Jog"
       ],
       "balance": 232,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -23820,6 +23821,21 @@
       "joinDate": "2025-02-21T09:42:48.191Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jog",
+      "email": "ayomidmmanuel518@gmail.com",
+      "encrypted_password": "45fb45cd49d4fffa0c72db7e59450d4f",
+      "referral_code": "JOV96",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:43:38.482Z"
     }
   ],
   "withdrawals": [
