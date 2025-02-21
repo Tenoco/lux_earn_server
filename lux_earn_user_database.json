@@ -1770,11 +1770,12 @@
         "Terna",
         "Danielle",
         "Pollina",
-        "Greg"
+        "Greg",
+        "lurdings"
       ],
       "balance": 60,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:53.364Z",
@@ -20384,6 +20385,21 @@
       "joinDate": "2025-02-21T08:15:10.496Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "lurdings",
+      "email": "kenzibonze@gmail.com",
+      "encrypted_password": "0915043d7bc4fae0613651e6fea3a2a1",
+      "referral_code": "LUI52",
+      "inviter_referral_code": "IJ105",
+      "inviter_username": "Ijeslimz ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:15:34.711Z"
     }
   ],
   "withdrawals": [
