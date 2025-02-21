@@ -37355,14 +37355,14 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:10:44.491Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T17:23:42.415Z"
     },
     {
       "username": "Queen9",
@@ -37428,7 +37428,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:21:37.962Z"
+      "joinDate": "2025-02-21T17:21:37.962Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
