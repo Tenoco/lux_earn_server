@@ -38448,7 +38448,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 62,
+      "balance": 122,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38456,7 +38456,11 @@
       "joinDate": "2025-02-21T23:06:59.868Z",
       "completedMissions": [
         6,
-        5
+        5,
+        4,
+        3,
+        2,
+        1
       ],
       "lastSpin": "2025-02-21T23:07:31.148Z"
     },
