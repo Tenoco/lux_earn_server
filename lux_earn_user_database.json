@@ -37953,7 +37953,7 @@
       "inviter_referral_code": "Lux EARN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 280,
+      "balance": 281,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37971,7 +37971,7 @@
         5,
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T16:28:09.061Z"
     },
     {
       "username": "Judabe",
@@ -38112,7 +38112,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:27:58.816Z"
+      "joinDate": "2025-02-21T16:27:58.816Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
