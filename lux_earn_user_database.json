@@ -17696,7 +17696,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:21:45.684Z"
+      "joinDate": "2025-02-21T07:21:45.684Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "sharz",
+      "email": "shafiiabdulazeezayomide@gmail.com",
+      "encrypted_password": "23ef2d0ae35b21b1c17403293c3fa475",
+      "referral_code": "SH7CK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:21:48.588Z"
     }
   ],
   "withdrawals": [
