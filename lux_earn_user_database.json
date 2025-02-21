@@ -29038,11 +29038,12 @@
         "Davidson",
         "Josephine",
         "Yohanna",
-        "Princess"
+        "Princess",
+        "Meshack"
       ],
       "balance": 210,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30823,6 +30824,21 @@
       "joinDate": "2025-02-21T12:50:04.502Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Meshack",
+      "email": "meshackiliya5@gmail.com",
+      "encrypted_password": "be3299099489b5f555a0ef968d0f272b",
+      "referral_code": "MEOZ8",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:50:39.936Z"
     }
   ],
   "withdrawals": [
