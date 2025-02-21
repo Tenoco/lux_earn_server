@@ -37182,14 +37182,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:03:25.271Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Anonymous12",
@@ -37434,7 +37435,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:10:25.246Z"
+      "joinDate": "2025-02-21T16:10:25.246Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
