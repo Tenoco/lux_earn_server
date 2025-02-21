@@ -1126,11 +1126,12 @@
         "Olaes",
         "Sergeant",
         "KaydeeX",
-        "Kingsiology "
+        "Kingsiology ",
+        "Tabzzy"
       ],
       "balance": 315,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -11641,7 +11642,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:22:44.509Z"
+      "joinDate": "2025-02-21T05:22:44.509Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tabzzy",
+      "email": "jibrinumar648@gmail.com",
+      "encrypted_password": "157c76df5bfee0b3760fe83efaf36bac",
+      "referral_code": "TANMI",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:53.995Z"
     }
   ],
   "withdrawals": [
