@@ -33810,7 +33810,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:17:32.872Z"
+      "joinDate": "2025-02-21T14:17:32.872Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abudu joy ",
+      "email": "joyabudu02@gmail.com",
+      "encrypted_password": "35ae80503963dc86d3d2235890a71f6d",
+      "referral_code": "ABGG2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:17:40.398Z"
     }
   ],
   "withdrawals": [
