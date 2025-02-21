@@ -36639,7 +36639,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36648,7 +36648,10 @@
       "completedMissions": [
         11,
         11,
-        10
+        10,
+        9,
+        8,
+        7
       ],
       "lastSpin": "2025-02-21T15:36:17.903Z"
     },
@@ -36785,7 +36788,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:40:38.333Z",
-      "lastSpin": "2025-02-21T15:40:48.586Z",
       "completedMissions": [
         3,
         4,
@@ -36796,7 +36798,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:40:48.586Z"
     },
     {
       "username": "Abdulhakim",
