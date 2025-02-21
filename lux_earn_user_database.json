@@ -17740,14 +17740,16 @@
       "inviter_referral_code": "BLVAP",
       "inviter_username": "Blacklord55",
       "invited_users": [],
-      "balance": 8,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:45.684Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T07:26:15.682Z"
+      "lastSpin": "2025-02-21T07:26:15.682Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "sharz",
@@ -18020,7 +18022,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:27:05.580Z"
+      "joinDate": "2025-02-21T07:27:05.580Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
