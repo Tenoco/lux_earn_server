@@ -8680,14 +8680,16 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 50,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:32:59.507Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Vilder ",
@@ -8706,7 +8708,8 @@
       "completedMissions": [
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
