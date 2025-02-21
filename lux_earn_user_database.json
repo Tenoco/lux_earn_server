@@ -3697,11 +3697,12 @@
         "JokehBliss",
         "Olaadura12 ",
         "Sammyjwest ",
-        "Berry"
+        "Berry",
+        "Kaypomping "
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -19219,11 +19220,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:49:48.393Z",
-      "lastSpin": "2025-02-21T07:51:13.992Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:51:13.992Z"
     },
     {
       "username": "Kashey",
@@ -19377,6 +19378,21 @@
       "joinDate": "2025-02-21T07:53:18.443Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaypomping ",
+      "email": "kaypomping272006@gmail.com",
+      "encrypted_password": "ce941319b3d8a271d78ceac59d550682",
+      "referral_code": "KA9N3",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:53:25.765Z"
     }
   ],
   "withdrawals": [
