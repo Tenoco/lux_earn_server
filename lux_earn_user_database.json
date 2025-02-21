@@ -38300,7 +38300,7 @@
       "inviter_referral_code": "2244",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38314,7 +38314,7 @@
         2,
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T23:05:02.188Z"
     },
     {
       "username": "pibiya",
@@ -38405,11 +38405,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:02:49.325Z",
-      "lastSpin": "2025-02-21T23:03:18.957Z",
       "completedMissions": [
         4,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T23:03:18.957Z"
     }
   ],
   "withdrawals": [
