@@ -1698,12 +1698,11 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [
-        "Joe",
-        "sammie2"
+        "Joe"
       ],
-      "balance": 220,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 265,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:13.451Z",
@@ -1713,7 +1712,9 @@
         1,
         4,
         5,
-        8
+        8,
+        7,
+        6
       ],
       "lastSpin": "2025-02-20T23:13:48.206Z"
     },
@@ -37549,7 +37550,8 @@
       "completedMissions": [
         1,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kadok23",
