@@ -29928,11 +29928,12 @@
       "invited_users": [
         "Joseph",
         "Kelly",
-        "Samuel "
+        "Samuel ",
+        "David "
       ],
       "balance": 625,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:52.687Z",
@@ -37033,7 +37034,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:00:41.255Z"
+      "joinDate": "2025-02-21T16:00:41.255Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "David ",
+      "email": "heyimbeesophia@gmail.com",
+      "encrypted_password": "40ed51b2c49bf77e31229dac7fcfb44d",
+      "referral_code": "DAYH6",
+      "inviter_referral_code": "SAIOY",
+      "inviter_username": "Sammycoded18",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:01:01.592Z"
     }
   ],
   "withdrawals": [
