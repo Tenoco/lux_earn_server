@@ -14659,10 +14659,12 @@
       "referral_code": "TERYC",
       "inviter_referral_code": "DAY2X",
       "inviter_username": "daniee250",
-      "invited_users": [],
+      "invited_users": [
+        "Folake"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -15196,7 +15198,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:45:25.478Z"
+      "joinDate": "2025-02-21T06:45:25.478Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Folake",
+      "email": "folakemi33@gmail.com",
+      "encrypted_password": "9342fe4e92ba574703fb8fb4e54a32f5",
+      "referral_code": "FO1ZU",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:45:30.371Z"
     }
   ],
   "withdrawals": [
