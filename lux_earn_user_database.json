@@ -14806,7 +14806,7 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 210,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14819,9 +14819,9 @@
         3,
         4,
         5,
-        9
-      ],
-      "lastSpin": null
+        9,
+        8
+      ]
     },
     {
       "username": "Seyi",
@@ -15526,7 +15526,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:50:17.109Z"
+      "joinDate": "2025-02-21T06:50:17.109Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
