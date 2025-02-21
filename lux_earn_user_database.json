@@ -29590,14 +29590,15 @@
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:42.860Z",
       "completedMissions": [
-        2
+        2,
+        1
       ],
       "lastSpin": null
     },
