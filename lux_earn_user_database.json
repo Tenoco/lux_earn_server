@@ -13069,11 +13069,12 @@
         "Ericmore",
         "Mubarak",
         "Seyi",
-        "Blessing"
+        "Blessing",
+        "Temmy gold"
       ],
       "balance": 48,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15066,7 +15067,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:43:41.202Z"
+      "joinDate": "2025-02-21T06:43:41.202Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Temmy gold",
+      "email": "allsionwealth72@gmail.com",
+      "encrypted_password": "e83e0dc28b40916ad95e5cfa824f4aae",
+      "referral_code": "TE9S7",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:43:50.035Z"
     }
   ],
   "withdrawals": [
