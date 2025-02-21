@@ -10228,10 +10228,12 @@
       "referral_code": "SATE1",
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
-      "invited_users": [],
+      "invited_users": [
+        "Bernard_X"
+      ],
       "balance": 370,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:45:17.275Z",
@@ -37131,7 +37133,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:31:11.948Z"
+      "joinDate": "2025-02-21T19:31:11.948Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bernard_X",
+      "email": "deleoduma@gmail.com",
+      "encrypted_password": "a0143055b7501df224ac049f98488358",
+      "referral_code": "BELWO",
+      "inviter_referral_code": "SATE1",
+      "inviter_username": "Sammyjwest ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:31:52.974Z"
     }
   ],
   "withdrawals": [
