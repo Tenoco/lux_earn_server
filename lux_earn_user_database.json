@@ -37464,13 +37464,16 @@
       "inviter_referral_code": "FE5BQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:27:19.404Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -37522,7 +37525,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:35:45.265Z"
+      "joinDate": "2025-02-21T17:35:45.265Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
