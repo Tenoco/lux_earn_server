@@ -4555,10 +4555,12 @@
       "referral_code": "KIV96",
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
-      "invited_users": [],
+      "invited_users": [
+        "Adeniyi "
+      ],
       "balance": 545,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:15.120Z",
@@ -5036,6 +5038,21 @@
       "joinDate": "2025-02-21T00:01:19.785Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adeniyi ",
+      "email": "adeniyidaniel251@gmail.com",
+      "encrypted_password": "6e04e9b5a76f6bcf2c786133f399f7e6",
+      "referral_code": "ADBNP",
+      "inviter_referral_code": "KIV96",
+      "inviter_username": "Kingsiology ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:01:41.104Z"
     }
   ],
   "withdrawals": [
