@@ -37616,7 +37616,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:17:38.020Z"
+      "joinDate": "2025-02-21T22:17:38.020Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mosunmola33",
+      "email": "mofolashade32@gmail.com",
+      "encrypted_password": "fb6da08a216f1808752b01359b6a6f1b",
+      "referral_code": "MOWBE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:18:11.583Z"
     }
   ],
   "withdrawals": [
