@@ -36626,14 +36626,19 @@
       "inviter_referral_code": "SHR06",
       "inviter_username": "shoyomboizhaq1@gmail.com",
       "invited_users": [],
-      "balance": 0,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:35:17.648Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-21T15:40:54.578Z"
     },
     {
       "username": "Adepoju ",
