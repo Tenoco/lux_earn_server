@@ -1959,7 +1959,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 275,
+      "balance": 305,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1973,7 +1973,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-20T23:16:35.140Z"
     },
@@ -19751,13 +19752,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:59:19.639Z",
-      "lastSpin": "2025-02-21T08:00:07.207Z",
       "completedMissions": [
         2,
         3,
         1,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:00:07.207Z"
     },
     {
       "username": "Musakalam",
