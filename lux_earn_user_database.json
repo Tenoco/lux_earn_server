@@ -24972,14 +24972,14 @@
       "inviter_referral_code": "CUOJC ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:08:29.507Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:29:41.326Z"
     },
     {
       "username": "Khalifangw",
@@ -28098,7 +28098,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:29:42.447Z"
+      "joinDate": "2025-02-21T11:29:42.447Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
