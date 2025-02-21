@@ -9009,11 +9009,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sameft",
-        "Joysak "
+        "Joysak ",
+        "Vice-chairman "
       ],
       "balance": 330,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9193,7 +9194,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:32:37.908Z"
+      "joinDate": "2025-02-21T02:32:37.908Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vice-chairman ",
+      "email": "sakpaidej@gmail.com",
+      "encrypted_password": "64d43f3fc2e407f1809e7dd699f35f07",
+      "referral_code": "VI9S2",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:34:10.856Z"
     }
   ],
   "withdrawals": [
