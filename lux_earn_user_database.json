@@ -8759,7 +8759,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:48:53.775Z"
+      "joinDate": "2025-02-21T01:48:53.775Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sammy4021",
+      "email": "samuelademosu7@gmail.com",
+      "encrypted_password": "763e1df7b787a08249e57a5edb677d0b",
+      "referral_code": "SA6WT",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:49:04.359Z"
     }
   ],
   "withdrawals": [
