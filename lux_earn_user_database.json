@@ -13900,11 +13900,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Aibeeyusufk"
+        "Aibeeyusufk",
+        "Avwero"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -18923,7 +18924,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Rith",
@@ -18975,6 +18977,21 @@
       "joinDate": "2025-02-21T07:45:08.038Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Avwero",
+      "email": "avwerosuoikako@gmail.com",
+      "encrypted_password": "67d46ec7d84ba284982e634970c5b7df",
+      "referral_code": "AV5TO",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:46:11.082Z"
     }
   ],
   "withdrawals": [
