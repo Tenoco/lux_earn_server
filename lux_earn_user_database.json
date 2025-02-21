@@ -4966,7 +4966,7 @@
       "inviter_referral_code": "ThE WEB3 BBLLA",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4975,9 +4975,9 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Chindimane",
@@ -5019,7 +5019,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Temu",
