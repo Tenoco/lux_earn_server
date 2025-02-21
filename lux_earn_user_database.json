@@ -11063,7 +11063,8 @@
       "joinDate": "2025-02-21T05:06:08.011Z",
       "completedMissions": [
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Livvey",
@@ -11073,14 +11074,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:20.435Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "daniel2027_£$",
