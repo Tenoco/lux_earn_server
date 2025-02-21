@@ -17186,13 +17186,15 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 25,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:03:06.257Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-21T15:17:22.207Z"
     },
     {
@@ -36440,7 +36442,8 @@
         2,
         1,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ahmed sodiq",
