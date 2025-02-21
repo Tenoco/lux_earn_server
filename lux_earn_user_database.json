@@ -1259,11 +1259,12 @@
         "Olad ",
         "Azzybae",
         "Orengo",
-        "HUSTLER001"
+        "HUSTLER001",
+        "Legend Issy "
       ],
       "balance": 195,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -35575,7 +35576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:05:23.304Z"
+      "joinDate": "2025-02-21T15:05:23.304Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Legend Issy ",
+      "email": "israelogidan99@gmail.com",
+      "encrypted_password": "fa05b9f84973599be1346e8ff559dedb",
+      "referral_code": "LETBN",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:05:36.435Z"
     }
   ],
   "withdrawals": [
