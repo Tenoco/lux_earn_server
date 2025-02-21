@@ -6572,14 +6572,13 @@
       "inviter_referral_code": "YARMK",
       "inviter_username": "yakiniemmanuel",
       "invited_users": [],
-      "balance": 50,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:40.254Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T00:28:16.427Z"
     },
     {
       "username": "phoenix29",
@@ -6628,7 +6627,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:28:11.848Z"
+      "joinDate": "2025-02-21T00:28:11.848Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
