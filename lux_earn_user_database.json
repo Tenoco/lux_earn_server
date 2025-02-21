@@ -15914,11 +15914,12 @@
         "Unshakable era",
         "Amaka11237",
         "Spotlessboo ",
-        "Emmanuel2024"
+        "Emmanuel2024",
+        "Amaka1179"
       ],
       "balance": 250,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
@@ -30029,7 +30030,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:21:19.277Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T12:21:34.786Z"
+    },
+    {
+      "username": "Amaka1179",
+      "email": "floratessa1@gmail.com",
+      "encrypted_password": "b8b391747281d21f7200b27fb4fe3687",
+      "referral_code": "AMHLR",
+      "inviter_referral_code": "CHVDI",
+      "inviter_username": "Chizzy001xyz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:21:43.077Z"
     }
   ],
   "withdrawals": [
