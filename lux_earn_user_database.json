@@ -32,11 +32,12 @@
         "Blaze08",
         "Toripee",
         "Munachi",
-        "Drone"
+        "Drone",
+        "Chidera10 "
       ],
       "balance": 5503,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -36929,7 +36930,8 @@
       "joinDate": "2025-02-21T15:58:14.997Z",
       "completedMissions": [
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dora",
@@ -36964,6 +36966,21 @@
       "joinDate": "2025-02-21T15:59:12.063Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chidera10 ",
+      "email": "cchukwuma517@gmail.com",
+      "encrypted_password": "350a6f6c8f83712d948ce7f6cc46f0b2",
+      "referral_code": "CHEL0",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:00:01.138Z"
     }
   ],
   "withdrawals": [
