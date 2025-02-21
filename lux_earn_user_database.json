@@ -10263,11 +10263,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tamia"
+        "Tamia",
+        "Nasir"
       ],
       "balance": 305,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -10930,6 +10931,21 @@
       "joinDate": "2025-02-21T05:01:18.646Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nasir",
+      "email": "falolanasiru27@gmail.com",
+      "encrypted_password": "0d13c59600ef085b74980bb99eda8349",
+      "referral_code": "NA3H6",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:02:22.899Z"
     }
   ],
   "withdrawals": [
