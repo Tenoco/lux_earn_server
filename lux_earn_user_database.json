@@ -3093,11 +3093,12 @@
         "Daniels",
         "Lyan Mubby ",
         "Arinze08",
-        "Quadriano "
+        "Quadriano ",
+        "Lekkierose"
       ],
       "balance": 337,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -38425,7 +38426,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:06:33.242Z"
+      "joinDate": "2025-02-21T23:06:33.242Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lekkierose",
+      "email": "lekkierose06@gmail.com",
+      "encrypted_password": "10b372c7013f665d00ccacc216750c3a",
+      "referral_code": "LEZ89",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:06:59.868Z"
     }
   ],
   "withdrawals": [
