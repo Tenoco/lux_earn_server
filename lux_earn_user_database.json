@@ -13581,11 +13581,12 @@
         "Bolaahmed",
         "Jamestown ",
         "AyubaAdam",
-        "Newworlde"
+        "Newworlde",
+        "Jamesq"
       ],
       "balance": 160,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -31896,7 +31897,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:25:30.352Z"
+      "joinDate": "2025-02-21T13:25:30.352Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jamesq",
+      "email": "james1735@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "JA7K3",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:25:32.879Z"
     }
   ],
   "withdrawals": [
