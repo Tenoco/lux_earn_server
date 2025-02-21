@@ -1651,10 +1651,12 @@
       "referral_code": "BRLEJ",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Cosmos "
+      ],
       "balance": 110,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:26.804Z",
@@ -13680,7 +13682,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:16:58.412Z"
+      "joinDate": "2025-02-21T06:16:58.412Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cosmos ",
+      "email": "Convicte35@gmail.com",
+      "encrypted_password": "305913ec7a1eebf89ccdf4f4d82d7c32",
+      "referral_code": "CO9RA",
+      "inviter_referral_code": "BRLEJ",
+      "inviter_username": "Bright side ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:17:43.203Z"
     }
   ],
   "withdrawals": [
