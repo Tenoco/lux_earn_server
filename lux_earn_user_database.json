@@ -24238,7 +24238,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 61,
+      "balance": 131,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24247,7 +24247,10 @@
       "lastSpin": "2025-02-21T10:00:13.601Z",
       "completedMissions": [
         5,
-        4
+        4,
+        8,
+        7,
+        9
       ]
     },
     {
