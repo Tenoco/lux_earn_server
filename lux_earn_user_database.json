@@ -14797,10 +14797,12 @@
       "referral_code": "SUB6O",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Akin"
+      ],
       "balance": 300,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -24761,7 +24763,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:08:51.568Z"
+      "joinDate": "2025-02-21T10:08:51.568Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akin",
+      "email": "akinrinadefolashade410@gmail.com",
+      "encrypted_password": "2af9b1ba42dc5eb01743e6b3759b6e4b",
+      "referral_code": "AKKEB",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:09:09.581Z"
     }
   ],
   "withdrawals": [
