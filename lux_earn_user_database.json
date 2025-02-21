@@ -12401,7 +12401,7 @@
       "inviter_referral_code": "MM6P4",
       "inviter_username": "mmmmdjk1",
       "invited_users": [],
-      "balance": 1,
+      "balance": -29,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12441,6 +12441,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:49:00.314Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T05:50:18.830Z"
     },
     {
@@ -12870,6 +12871,16 @@
       "phoneNumber": "09137336333",
       "amount": 100,
       "timestamp": "2025-02-21T05:50:01.440Z",
+      "status": "pending"
+    },
+    {
+      "username": "Fanjansoy",
+      "email": "khadijaaminu5656@gmail.com",
+      "type": "airtime",
+      "network": "glo",
+      "phoneNumber": "08055738339",
+      "amount": 30,
+      "timestamp": "2025-02-21T05:50:44.207Z",
       "status": "pending"
     }
   ]
