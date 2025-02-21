@@ -26901,7 +26901,7 @@
       "inviter_referral_code": "MI44N",
       "inviter_username": "Mimi4success",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26911,7 +26911,8 @@
         2,
         3,
         4,
-        5
+        5,
+        6
       ],
       "lastSpin": null
     },
@@ -26983,11 +26984,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:47.590Z",
-      "lastSpin": "2025-02-21T10:56:16.714Z",
       "completedMissions": [
         1,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:56:16.714Z"
     },
     {
       "username": "Aycash",
