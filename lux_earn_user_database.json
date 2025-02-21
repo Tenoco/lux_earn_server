@@ -36934,14 +36934,15 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:10:26.417Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Diamond703",
@@ -36973,7 +36974,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:12:43.589Z"
+      "joinDate": "2025-02-21T19:12:43.589Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
