@@ -37609,11 +37609,12 @@
         "Afees",
         "Sulyat",
         "Badiru ",
-        "Zubby"
+        "Zubby",
+        "Ahmad"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38342,7 +38343,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:50:59.462Z"
+      "joinDate": "2025-02-21T20:50:59.462Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ahmad",
+      "email": "ahmad15@gmail.com",
+      "encrypted_password": "30345bfd82b205e8255920fa8a92f797",
+      "referral_code": "AH8ES",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:52:14.482Z"
     }
   ],
   "withdrawals": [
