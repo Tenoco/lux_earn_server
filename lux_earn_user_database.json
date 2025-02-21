@@ -144,11 +144,12 @@
         "Habexpro",
         "preciousmak",
         "Illuminax ",
-        "kingbest001"
+        "kingbest001",
+        "Stanel"
       ],
       "balance": 50,
-      "refers": 48,
-      "referralBalance": 4800,
+      "refers": 49,
+      "referralBalance": 4900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -37806,7 +37807,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:24:33.935Z"
+      "joinDate": "2025-02-21T20:24:33.935Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Stanel",
+      "email": "uchec9053@gmail.com",
+      "encrypted_password": "2b6618a29ba703298bcbe1c616f329d0",
+      "referral_code": "STKY3",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:25:34.934Z"
     }
   ],
   "withdrawals": [
