@@ -16576,7 +16576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:04:20.818Z"
+      "joinDate": "2025-02-21T07:04:20.818Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Damian300",
+      "email": "mumadamian3000@gmail.com",
+      "encrypted_password": "123e79f0a4a5d7e828dfb0eeb6f9496c",
+      "referral_code": "DA4QP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:04:29.452Z"
     }
   ],
   "withdrawals": [
