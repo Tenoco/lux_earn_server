@@ -10513,7 +10513,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:18:30.077Z"
+      "joinDate": "2025-02-21T04:18:30.077Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rabi",
+      "email": "postedlucky305@gmail.com",
+      "encrypted_password": "933112efcf046a4a2e3f221f568b33b2",
+      "referral_code": "RALPZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:18:53.787Z"
     }
   ],
   "withdrawals": [
