@@ -23083,7 +23083,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sunnyjacs ",
@@ -23224,6 +23225,21 @@
       "joinDate": "2025-02-21T09:28:52.257Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Agent Larry Smith ",
+      "email": "shittarashidat9@gmail.com",
+      "encrypted_password": "1cd459b6c56534eeb2cf848bf151ce85",
+      "referral_code": "AG9VC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:29:42.094Z"
     }
   ],
   "withdrawals": [
