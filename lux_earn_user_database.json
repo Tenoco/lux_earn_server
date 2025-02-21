@@ -37454,7 +37454,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "adebayo bolu",
@@ -37528,6 +37529,21 @@
       "joinDate": "2025-02-21T17:35:45.265Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ethan23",
+      "email": "okiethan1@gmail.com",
+      "encrypted_password": "4b42ab46bb53c5c8a5cf18f12e76f056",
+      "referral_code": "ET7BD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:39:24.995Z"
     }
   ],
   "withdrawals": [
