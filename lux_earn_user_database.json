@@ -37653,13 +37653,15 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": "Davidgee ",
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:15:29.749Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": "2025-02-21T16:18:20.208Z"
     },
     {
@@ -37882,7 +37884,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:19:51.100Z"
+      "joinDate": "2025-02-21T16:19:51.100Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
