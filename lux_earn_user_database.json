@@ -25835,7 +25835,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:35:25.773Z"
+      "joinDate": "2025-02-21T10:35:25.773Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Apekeade1 ",
+      "email": "adesewaibrahim04@gmail.com",
+      "encrypted_password": "f62a497ef6dc34f7a38ae682904d562c",
+      "referral_code": "APLQB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:31.802Z"
     }
   ],
   "withdrawals": [
