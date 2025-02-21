@@ -36938,7 +36938,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:50:50.878Z"
+      "joinDate": "2025-02-21T18:50:50.878Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ochiawutor",
+      "email": "ochiawutor@gmail.com",
+      "encrypted_password": "7daf363f3f352dbd26ab7e69ec74f933",
+      "referral_code": "OCBBO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:51:54.302Z"
     }
   ],
   "withdrawals": [
