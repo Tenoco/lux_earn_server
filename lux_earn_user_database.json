@@ -23779,7 +23779,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:42:33.960Z"
+      "joinDate": "2025-02-21T09:42:33.960Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Saddamsb ",
+      "email": "Saddamsalisu6@gmail.com",
+      "encrypted_password": "9dd87de06172f7238c925fc30b1ce99b",
+      "referral_code": "SACMJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:42:44.654Z"
     }
   ],
   "withdrawals": [
