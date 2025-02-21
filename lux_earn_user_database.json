@@ -5458,11 +5458,12 @@
         "Cannadah",
         "Theyreelme",
         "Camellaty",
-        "Panddada"
+        "Panddada",
+        "Kennysanta"
       ],
       "balance": 30,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8188,7 +8189,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:11:44.958Z"
+      "joinDate": "2025-02-21T01:11:44.958Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kennysanta",
+      "email": "alexisjohnsjras@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "KE35U",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:12:05.130Z"
     }
   ],
   "withdrawals": [
