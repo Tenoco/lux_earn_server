@@ -11055,16 +11055,16 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 90,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
       "completedMissions": [
-        8
-      ],
-      "lastSpin": null
+        8,
+        7
+      ]
     },
     {
       "username": "Livvey",
@@ -11083,7 +11083,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "daniel2027_£$",
