@@ -3644,11 +3644,12 @@
         "Bellaxdre ",
         "Usman maryam",
         "JokehBliss",
-        "Olaadura12 "
+        "Olaadura12 ",
+        "Sammyjwest "
       ],
       "balance": 50,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -10117,7 +10118,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:44:39.391Z"
+      "joinDate": "2025-02-21T03:44:39.391Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sammyjwest ",
+      "email": "samoleesky456@gmail.com",
+      "encrypted_password": "7027047477e919ea5fc502fcb6b24ad5",
+      "referral_code": "SATE1",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:45:17.275Z"
     }
   ],
   "withdrawals": [
