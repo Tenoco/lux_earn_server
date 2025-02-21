@@ -10989,7 +10989,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10999,9 +10999,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Nurudeen75",
@@ -11250,7 +11250,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:12:17.016Z"
+      "joinDate": "2025-02-21T05:12:17.016Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
