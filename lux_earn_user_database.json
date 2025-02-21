@@ -29034,11 +29034,12 @@
         "Favourivy",
         "Gabriel",
         "Davidson",
-        "Josephine"
+        "Josephine",
+        "Yohanna"
       ],
       "balance": 210,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30702,7 +30703,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:45:26.458Z"
+      "joinDate": "2025-02-21T12:45:26.458Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yohanna",
+      "email": "kirakoji360@gmail.com",
+      "encrypted_password": "329df57721a2cc515bbc2b2c9d5d863e",
+      "referral_code": "YOXTG",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:45:36.900Z"
     }
   ],
   "withdrawals": [
