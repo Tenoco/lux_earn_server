@@ -29535,14 +29535,16 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:09.415Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        3
+      ]
     },
     {
       "username": "Buikefx",
@@ -29628,10 +29630,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:10:20.188Z",
-      "lastSpin": "2025-02-21T12:10:25.535Z",
       "completedMissions": [
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T12:10:25.535Z"
     },
     {
       "username": "Perfectpe",
