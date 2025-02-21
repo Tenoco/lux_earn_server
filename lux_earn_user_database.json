@@ -12302,7 +12302,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:43:20.800Z"
+      "joinDate": "2025-02-21T05:43:20.800Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingnifezin ",
+      "email": "nifemibanjoko301@gmail.com",
+      "encrypted_password": "657ff79cadd8bc50401cd6e8504c3f5f",
+      "referral_code": "KIZ27",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:43:53.690Z"
     }
   ],
   "withdrawals": [
