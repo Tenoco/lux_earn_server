@@ -776,11 +776,12 @@
         "Blaze",
         "Ayoola ",
         "Firstmanoneart",
-        "Vickiejone"
+        "Vickiejone",
+        "Adewoye Fikayomi "
       ],
       "balance": 265,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -11080,7 +11081,8 @@
         3,
         4,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aramma001 ",
@@ -12585,6 +12587,21 @@
       "joinDate": "2025-02-21T05:53:24.755Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adewoye Fikayomi ",
+      "email": "fikayomiadewoye40@gmail.com",
+      "encrypted_password": "108dd94348d37f375b9c43cfe511e695",
+      "referral_code": "AD4SK",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:54:20.708Z"
     }
   ],
   "withdrawals": [
