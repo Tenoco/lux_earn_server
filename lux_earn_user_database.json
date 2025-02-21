@@ -34715,11 +34715,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Inert "
+        "Inert ",
+        "Godfirst "
       ],
       "balance": 125,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:32:11.803Z",
@@ -38157,6 +38158,21 @@
       "joinDate": "2025-02-21T18:15:44.391Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godfirst ",
+      "email": "wixzygodfirst@gmail.com",
+      "encrypted_password": "646a5d55bca376a003cf0be143f412f6",
+      "referral_code": "GOY50",
+      "inviter_referral_code": "JOM7Z",
+      "inviter_username": "Jokybill",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:19:28.668Z"
     }
   ],
   "withdrawals": [
