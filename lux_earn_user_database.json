@@ -19297,7 +19297,7 @@
       "invited_users": [
         "Minnah24"
       ],
-      "balance": 262,
+      "balance": 352,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -19312,7 +19312,10 @@
         7,
         8,
         1,
-        2
+        2,
+        2,
+        2,
+        9
       ],
       "lastSpin": "2025-02-21T07:50:08.200Z"
     },
@@ -35669,11 +35672,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:07:23.911Z",
-      "lastSpin": "2025-02-21T15:08:02.471Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:08:02.471Z"
     },
     {
       "username": "sallee",
