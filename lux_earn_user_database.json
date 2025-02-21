@@ -14715,7 +14715,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1,
         2,
@@ -14723,7 +14722,8 @@
         4,
         5,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:39:15.564Z"
     },
     {
       "username": "Hephzibah ",
@@ -15020,7 +15020,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 180,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15032,9 +15032,9 @@
         2,
         3,
         4,
-        5
-      ],
-      "lastSpin": null
+        5,
+        6
+      ]
     },
     {
       "username": "Ugomma samuel",
