@@ -4255,11 +4255,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "Amygrace",
-        "Armsty2"
+        "Armsty2",
+        "Opemipoo"
       ],
       "balance": 295,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22762,7 +22763,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:20:32.881Z"
+      "joinDate": "2025-02-21T09:20:32.881Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Opemipoo",
+      "email": "onaopemipoololade@gmail.com",
+      "encrypted_password": "2e7596b134872648a02dfeb488545e75",
+      "referral_code": "OPJFR",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:20:42.100Z"
     }
   ],
   "withdrawals": [
