@@ -17784,14 +17784,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:48.588Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Vickzy",
@@ -18187,7 +18188,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:29:34.174Z"
+      "joinDate": "2025-02-21T07:29:34.174Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
