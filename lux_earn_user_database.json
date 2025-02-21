@@ -15179,7 +15179,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:45:19.265Z"
+      "joinDate": "2025-02-21T06:45:19.265Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Daikin",
+      "email": "oludayoisaiah463@gmail.com",
+      "encrypted_password": "392aae8949d2d2b56de5a1cb90e54e80",
+      "referral_code": "DAGOE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:45:25.478Z"
     }
   ],
   "withdrawals": [
