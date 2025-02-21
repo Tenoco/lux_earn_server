@@ -5433,11 +5433,12 @@
         "LAGA ",
         "Gbenga ",
         "Eralimad",
-        "Smiths "
+        "Smiths ",
+        "Segun"
       ],
       "balance": 295,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:05:56.670Z",
@@ -6646,7 +6647,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:28:35.960Z"
+      "joinDate": "2025-02-21T00:28:35.960Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Segun",
+      "email": "reachwalsmih123@gmail.com",
+      "encrypted_password": "fed199b3c952f5f0469042e226542bb8",
+      "referral_code": "SEUVQ",
+      "inviter_referral_code": "LA7RS",
+      "inviter_username": "LAGACONCEPT ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:28:54.719Z"
     }
   ],
   "withdrawals": [
