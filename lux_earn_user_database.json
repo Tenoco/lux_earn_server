@@ -14688,11 +14688,12 @@
       "invited_users": [
         "Folake",
         "Hannahbella",
-        "Vicky"
+        "Vicky",
+        "Jiggy"
       ],
       "balance": 100,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -16044,7 +16045,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:24.091Z"
+      "joinDate": "2025-02-21T06:58:24.091Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jiggy",
+      "email": "jiggy@gmail.com",
+      "encrypted_password": "28f613e525d68740f10a452e2f7f477f",
+      "referral_code": "JI9O6",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:37.546Z"
     }
   ],
   "withdrawals": [
