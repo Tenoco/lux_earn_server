@@ -19105,14 +19105,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:46:47.635Z",
-      "lastSpin": "2025-02-21T07:47:11.253Z",
       "completedMissions": [
         1,
         2,
         4,
         3,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:47:11.253Z"
     },
     {
       "username": "Tolase ",
@@ -19511,6 +19511,21 @@
       "joinDate": "2025-02-21T07:55:32.014Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nath",
+      "email": "nathalliumthomas1@gmail.com",
+      "encrypted_password": "b395c7ab0b9ae01b0dc6ab13e36f5a6e",
+      "referral_code": "NAEVI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:55:43.839Z"
     }
   ],
   "withdrawals": [
