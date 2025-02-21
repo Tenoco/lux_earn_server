@@ -37322,11 +37322,12 @@
         "dolapo020l",
         "Fikate6jj",
         "Glory6",
-        "Friday40"
+        "Friday40",
+        "Gyakie"
       ],
       "balance": 80,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37603,7 +37604,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:09:29.818Z"
+      "joinDate": "2025-02-21T20:09:29.818Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gyakie",
+      "email": "odqgfy9s3qi7y7@gmail10p.com",
+      "encrypted_password": "f638f4354ff089323d1a5f78fd8f63ca",
+      "referral_code": "GY704",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:12:20.581Z"
     }
   ],
   "withdrawals": [
