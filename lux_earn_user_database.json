@@ -9958,14 +9958,15 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:27:19.099Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     }
