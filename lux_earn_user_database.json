@@ -19599,10 +19599,12 @@
       "referral_code": "IRZJL",
       "inviter_referral_code": "SGhupUQK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Israeliot3 "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:47:06.023Z",
@@ -28850,6 +28852,21 @@
       "joinDate": "2025-02-21T11:53:42.652Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Israeliot3 ",
+      "email": "kehindeogunnubi3@gmail.com",
+      "encrypted_password": "b72ac67e2cc06e8273f42e5535ab8898",
+      "referral_code": "ISOJ2",
+      "inviter_referral_code": "IRZJL",
+      "inviter_username": "Iremidemedia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:54:36.168Z"
     }
   ],
   "withdrawals": [
