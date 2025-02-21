@@ -4967,11 +4967,12 @@
         "big ben 031",
         "Jude 032",
         "ruby alex3",
-        "tob y 32"
+        "tob y 32",
+        "mich 5 di"
       ],
       "balance": 255,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -6429,6 +6430,21 @@
       "joinDate": "2025-02-21T00:24:49.291Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mich 5 di",
+      "email": "adriancremin609@gmail.com",
+      "encrypted_password": "31e5d460152efcc9c295fcdb4f7f9935",
+      "referral_code": "MI8NP",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:26:02.272Z"
     }
   ],
   "withdrawals": [
