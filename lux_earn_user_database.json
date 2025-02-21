@@ -27778,16 +27778,18 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [],
-      "balance": 31,
+      "balance": 91,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:17:03.593Z",
+      "lastSpin": "2025-02-21T11:18:26.314Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T11:18:26.314Z"
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Clems",
@@ -27899,7 +27901,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abbatiy",
