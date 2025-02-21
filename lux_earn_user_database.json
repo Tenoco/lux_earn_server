@@ -23054,7 +23054,7 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": "Pearl",
       "invited_users": [],
-      "balance": 150,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23065,9 +23065,10 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5,
+        6
+      ]
     },
     {
       "username": "ayenieliezer@gmil.com",
@@ -23367,7 +23368,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:33:02.835Z"
+      "joinDate": "2025-02-21T09:33:02.835Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
