@@ -7104,16 +7104,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:39:45.852Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "Samen",
@@ -7332,7 +7332,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:44:17.454Z"
+      "joinDate": "2025-02-21T00:44:17.454Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
