@@ -13629,11 +13629,12 @@
         "Rose55",
         "Johnson26",
         "krrishna",
-        "Esther56 "
+        "Esther56 ",
+        "WizzyMikeAel "
       ],
       "balance": 20,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -16029,6 +16030,21 @@
       "joinDate": "2025-02-21T06:58:42.182Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "WizzyMikeAel ",
+      "email": "wisdomewaen17@gmail.com",
+      "encrypted_password": "c55887f69d1f4fd43ca7d87ab8c645ab",
+      "referral_code": "WIMFX",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:24.091Z"
     }
   ],
   "withdrawals": [
