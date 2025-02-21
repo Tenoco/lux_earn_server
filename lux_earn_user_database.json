@@ -18330,11 +18330,12 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [
-        "39lionking"
+        "39lionking",
+        "Abba007"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:24:34.389Z",
@@ -25707,6 +25708,21 @@
       "joinDate": "2025-02-21T10:33:05.665Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abba007",
+      "email": "abdullahimasaya00@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "AB3GH",
+      "inviter_referral_code": "MUCFD",
+      "inviter_username": "Musazogi001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:33:59.459Z"
     }
   ],
   "withdrawals": [
