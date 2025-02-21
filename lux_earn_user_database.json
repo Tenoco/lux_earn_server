@@ -6611,11 +6611,12 @@
       "invited_users": [
         "B.Crown",
         "Peniel",
-        "Cresterfied"
+        "Cresterfied",
+        "Lora"
       ],
       "balance": 260,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:22:01.731Z",
@@ -37168,7 +37169,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:33:09.391Z"
+      "joinDate": "2025-02-21T19:33:09.391Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lora",
+      "email": "odekhoagloria111@gmail.com",
+      "encrypted_password": "5c22bf65acffeab04a70d11d9f4d5371",
+      "referral_code": "LOPFW",
+      "inviter_referral_code": "WOJE5",
+      "inviter_username": "Wonderful ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:34:22.795Z"
     }
   ],
   "withdrawals": [
