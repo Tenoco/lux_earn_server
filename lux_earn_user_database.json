@@ -23787,7 +23787,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:41:58.091Z",
-      "lastSpin": "2025-02-21T09:43:16.867Z",
       "completedMissions": [
         2,
         1,
@@ -23795,7 +23794,8 @@
         8,
         3,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:43:16.867Z"
     },
     {
       "username": "Vigilance ",
@@ -23915,6 +23915,21 @@
       "joinDate": "2025-02-21T09:48:00.998Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "A<>shinkafi",
+      "email": "aliyuabdulwahab449@gmail.com",
+      "encrypted_password": "b29ccc19056935b6a141a3db5fb9dac8",
+      "referral_code": "A<DMD",
+      "inviter_referral_code": "Jox2B",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:48:27.144Z"
     }
   ],
   "withdrawals": [
