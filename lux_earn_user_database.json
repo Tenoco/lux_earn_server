@@ -5748,11 +5748,12 @@
         "Abdullahi3122",
         "And ",
         "Hhvf",
-        "Hbvnb"
+        "Hbvnb",
+        "Jbvh"
       ],
       "balance": 360,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -17462,11 +17463,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:18:40.100Z",
-      "lastSpin": "2025-02-21T07:18:51.781Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:18:51.781Z"
     },
     {
       "username": "Hbvnb",
@@ -17569,6 +17570,21 @@
       "joinDate": "2025-02-21T07:19:55.849Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jbvh",
+      "email": "abdullahioladipo451@gnail.com",
+      "encrypted_password": "96e79218965eb72c92a549dd5a330112",
+      "referral_code": "JBMUN",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:20:02.878Z"
     }
   ],
   "withdrawals": [
