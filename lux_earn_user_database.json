@@ -1728,11 +1728,12 @@
         "Kingaleey1",
         "Elisha ",
         "SIRBLACKJR ",
-        "Babal112"
+        "Babal112",
+        "Scopegee86 "
       ],
       "balance": 275,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -8885,7 +8886,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:00:01.286Z"
+      "joinDate": "2025-02-21T02:00:01.286Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Scopegee86 ",
+      "email": "oyedeleabiodun3949@gmail.com",
+      "encrypted_password": "4a6874620fd80855364770275e22d540",
+      "referral_code": "SCZZY",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:00:18.006Z"
     }
   ],
   "withdrawals": [
