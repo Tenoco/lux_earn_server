@@ -16202,10 +16202,12 @@
       "referral_code": "MIQP1",
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
-      "invited_users": [],
+      "invited_users": [
+        "Mikemike"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -16874,7 +16876,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:08:40.842Z"
+      "joinDate": "2025-02-21T07:08:40.842Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mikemike",
+      "email": "mikemike@gmail.com",
+      "encrypted_password": "033f1bacb6a301c1fcf31941785c9c93",
+      "referral_code": "MISGA",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:07:52.486Z"
     }
   ],
   "withdrawals": [
