@@ -2262,11 +2262,12 @@
       "invited_users": [
         "Princewill",
         "PaulSamuel2",
-        "Charityprincewill2"
+        "Charityprincewill2",
+        "Ugomma samuel"
       ],
       "balance": 230,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -14738,7 +14739,8 @@
         2,
         8,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danielkafillu",
@@ -14997,6 +14999,21 @@
       "joinDate": "2025-02-21T06:42:00.211Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ugomma samuel",
+      "email": "charityprincewill47@gmail.com",
+      "encrypted_password": "0bf462dab4762458c8cafad7226f44c7",
+      "referral_code": "UGQ78",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:42:23.266Z"
     }
   ],
   "withdrawals": [
