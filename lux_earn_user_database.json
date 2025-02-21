@@ -9196,11 +9196,12 @@
         "Jennifer akuwe",
         "Solomonokun",
         "Ezeboy",
-        "Joyasakp"
+        "Joyasakp",
+        "Frostwalker"
       ],
       "balance": 350,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -38283,7 +38284,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:35:25.477Z"
+      "joinDate": "2025-02-21T16:35:25.477Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Frostwalker",
+      "email": "frostwalker12340@gmail.com",
+      "encrypted_password": "c26f7fc6a01a6c205e5d0249c5ee90d6",
+      "referral_code": "FR22C",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:35:13.978Z"
     }
   ],
   "withdrawals": [
