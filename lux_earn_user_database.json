@@ -3679,11 +3679,12 @@
         "Usman maryam",
         "JokehBliss",
         "Olaadura12 ",
-        "Sammyjwest "
+        "Sammyjwest ",
+        "Berry"
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -16185,6 +16186,21 @@
       "joinDate": "2025-02-21T06:59:40.983Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Berry",
+      "email": "oluwaseuajayi8613@gmail.com",
+      "encrypted_password": "1188a3e3f5f8ff0a5a4158133c774bfd",
+      "referral_code": "BEZ1L",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:59:57.708Z"
     }
   ],
   "withdrawals": [
