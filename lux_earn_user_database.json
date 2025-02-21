@@ -19864,11 +19864,12 @@
       "invited_users": [
         "ayomide",
         "Oladipupo ",
-        "Kaykay"
+        "Kaykay",
+        "Kaykaykay"
       ],
       "balance": 30,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -32318,7 +32319,8 @@
       "joinDate": "2025-02-21T13:35:08.827Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Markito",
@@ -32421,6 +32423,21 @@
       "joinDate": "2025-02-21T13:37:02.439Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaykaykay",
+      "email": "ogundeletoyin289@gmail.com",
+      "encrypted_password": "cb3ca48667440f2513c5c303d7adc0c3",
+      "referral_code": "KAM9D",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:38:07.610Z"
     }
   ],
   "withdrawals": [
