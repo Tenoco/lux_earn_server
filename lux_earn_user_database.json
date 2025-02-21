@@ -31138,12 +31138,13 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 230,
+      "balance": 290,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:57:06.366Z",
+      "lastSpin": "2025-02-21T12:57:16.061Z",
       "completedMissions": [
         1,
         2,
@@ -31152,9 +31153,10 @@
         5,
         6,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-21T12:57:16.061Z"
+        7,
+        8,
+        9
+      ]
     },
     {
       "username": "Nmahope",
@@ -31203,7 +31205,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:58:50.949Z"
+      "joinDate": "2025-02-21T12:58:50.949Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
