@@ -13566,14 +13566,13 @@
       "inviter_referral_code": "GOB58",
       "inviter_username": "Gokugokael",
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:13:17.737Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:13:51.678Z"
     },
     {
       "username": "Suck12139",
@@ -13588,7 +13587,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:13:35.266Z"
+      "joinDate": "2025-02-21T06:13:35.266Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
