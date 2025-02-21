@@ -22440,14 +22440,21 @@
       "inviter_referral_code": "RAA8G",
       "inviter_username": "Rashmoney",
       "invited_users": [],
-      "balance": 8,
+      "balance": 168,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:09:26.254Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T09:11:38.226Z"
+      "lastSpin": "2025-02-21T09:11:38.226Z",
+      "completedMissions": [
+        9,
+        8,
+        8,
+        7,
+        6,
+        5
+      ]
     },
     {
       "username": "Abdul1752",
@@ -22548,6 +22555,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:13:37.692Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T09:14:03.711Z"
     },
     {
