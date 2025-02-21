@@ -21423,7 +21423,8 @@
         2,
         1,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mary.Moses",
@@ -21768,6 +21769,21 @@
       "joinDate": "2025-02-21T08:49:30.615Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chiloveokoye ",
+      "email": "okoyegodslovechinaza@gmail.com",
+      "encrypted_password": "fc7d2a5b9f5a9576a9b4a220d3e8167c",
+      "referral_code": "CHKVT",
+      "inviter_referral_code": "DING",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:50:23.668Z"
     }
   ],
   "withdrawals": [
