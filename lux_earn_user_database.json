@@ -14819,11 +14819,12 @@
       "invited_users": [
         "Akin",
         "Quadri ",
-        "Batere"
+        "Batere",
+        "Bro"
       ],
       "balance": 300,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -25817,7 +25818,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:35:20.749Z"
+      "joinDate": "2025-02-21T10:35:20.749Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bro",
+      "email": "akintundemayowa73@gmail.com",
+      "encrypted_password": "53057a10ca1a8c83597a2907df1d100a",
+      "referral_code": "BR0FB",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:25.773Z"
     }
   ],
   "withdrawals": [
