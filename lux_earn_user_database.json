@@ -22410,11 +22410,12 @@
         "Davidyouhave1",
         "moloreofe",
         "Arausi",
-        "Amobi"
+        "Amobi",
+        "samueljoeseph"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -31052,7 +31053,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:54:45.627Z"
+      "joinDate": "2025-02-21T12:54:45.627Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "samueljoeseph",
+      "email": "samueljoeseph49@gmail.com",
+      "encrypted_password": "d8ae5776067290c4712fa454006c8ec6",
+      "referral_code": "SAT5F",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:55:04.249Z"
     }
   ],
   "withdrawals": [
