@@ -9433,14 +9433,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:43:39.223Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -23793,7 +23794,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:41:58.091Z",
-      "lastSpin": "2025-02-21T09:43:16.867Z",
       "completedMissions": [
         2,
         1,
@@ -23804,7 +23804,8 @@
         9,
         6,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:43:16.867Z"
     },
     {
       "username": "Vigilance ",
