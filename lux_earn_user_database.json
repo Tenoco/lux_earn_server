@@ -30247,7 +30247,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 98,
+      "balance": 158,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30256,7 +30256,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        3,
+        5
       ],
       "lastSpin": "2025-02-21T15:21:27.709Z"
     },
@@ -36172,7 +36174,8 @@
       "joinDate": "2025-02-21T15:22:22.050Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Opeyemi",
