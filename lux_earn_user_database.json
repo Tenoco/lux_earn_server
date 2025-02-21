@@ -132,11 +132,12 @@
         "Zobakezie ",
         "Rogey Boss",
         "Martha ",
-        "Mimi4success"
+        "Mimi4success",
+        "Adekunlejh"
       ],
       "balance": 50,
-      "refers": 42,
-      "referralBalance": 4200,
+      "refers": 43,
+      "referralBalance": 4300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -26475,7 +26476,8 @@
       "joinDate": "2025-02-21T10:45:31.555Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ayelabowo",
@@ -26527,6 +26529,21 @@
       "joinDate": "2025-02-21T10:47:27.566Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adekunlejh",
+      "email": "adekunlehpeter@gmail.com",
+      "encrypted_password": "0fc57c73caf6a41f0e6c539cf7d519ad",
+      "referral_code": "ADZT0",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:47:51.487Z"
     }
   ],
   "withdrawals": [
