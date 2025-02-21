@@ -4970,7 +4970,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4978,9 +4978,9 @@
       "joinDate": "2025-02-21T00:59:11.613Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Temu",
@@ -5029,7 +5029,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:01:19.785Z"
+      "joinDate": "2025-02-21T00:01:19.785Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
