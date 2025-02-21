@@ -19883,11 +19883,12 @@
         "Oladipupo ",
         "Kaykay",
         "Kaykaykay",
-        "Ola"
+        "Ola",
+        "Jay"
       ],
       "balance": 30,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -32788,6 +32789,21 @@
       "joinDate": "2025-02-21T13:48:13.185Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jay",
+      "email": "fola549@gmail.com",
+      "encrypted_password": "f54de765b1b4dae2458b50a0f8583ace",
+      "referral_code": "JAX8F",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:49:11.034Z"
     }
   ],
   "withdrawals": [
