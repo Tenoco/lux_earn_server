@@ -20157,11 +20157,12 @@
       "inviter_username": "Haggaijacob0912172",
       "invited_users": [
         "Ice",
-        "Ice1"
+        "Ice1",
+        "Ice2"
       ],
       "balance": 210,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:59:02.489Z",
@@ -28159,7 +28160,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:32:10.426Z"
+      "joinDate": "2025-02-21T11:32:10.426Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ice2",
+      "email": "davidprecious726@gmail.com",
+      "encrypted_password": "475f711abc14b191879a164013302681",
+      "referral_code": "ICEW8",
+      "inviter_referral_code": "ISTIL",
+      "inviter_username": "Isaac David ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:32:30.072Z"
     }
   ],
   "withdrawals": [
