@@ -3371,10 +3371,12 @@
       "referral_code": "CA9S8",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "STEPHEN463"
+      ],
       "balance": 185,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:06.337Z",
@@ -9177,6 +9179,21 @@
       "joinDate": "2025-02-21T02:30:35.251Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "STEPHEN463",
+      "email": "stephenmayowa475@gmail.com",
+      "encrypted_password": "31f421587f410e8575e6f61cfbd755fe",
+      "referral_code": "STGZY",
+      "inviter_referral_code": "CA9S8",
+      "inviter_username": "CASH223",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:32:37.908Z"
     }
   ],
   "withdrawals": [
