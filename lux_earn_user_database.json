@@ -15725,11 +15725,12 @@
         "mikeystar009",
         "Nmahope",
         "H7890",
-        "Rockzymalone"
+        "Rockzymalone",
+        "Shedrack Jerry"
       ],
       "balance": 380,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -34683,7 +34684,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:38:26.019Z"
+      "joinDate": "2025-02-21T14:38:26.019Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shedrack Jerry",
+      "email": "shedrackirimiya2@gmail.com",
+      "encrypted_password": "aeaaaea7b8a893e0f923c43f713bb47c",
+      "referral_code": "SH12R",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:39:29.837Z"
     }
   ],
   "withdrawals": [
