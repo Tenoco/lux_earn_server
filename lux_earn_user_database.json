@@ -32751,11 +32751,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Miposi"
+        "Miposi",
+        "Tobi123"
       ],
       "balance": 340,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:45:14.499Z",
@@ -34067,6 +34068,21 @@
       "joinDate": "2025-02-21T14:23:27.401Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tobi123",
+      "email": "akhimienmercy@gmail.com",
+      "encrypted_password": "d67d9a714535de4e2d47028d225aa6e7",
+      "referral_code": "TOYFO",
+      "inviter_referral_code": "HAVDL",
+      "inviter_username": "Hay_bee291",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:23:47.449Z"
     }
   ],
   "withdrawals": [
