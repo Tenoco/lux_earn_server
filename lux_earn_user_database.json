@@ -476,11 +476,12 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [
-        "Flower"
+        "Flower",
+        "Emmanuelemmzy"
       ],
       "balance": 270,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -16384,7 +16385,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:01:44.687Z"
+      "joinDate": "2025-02-21T07:01:44.687Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuelemmzy",
+      "email": "emmanuelairiohuodion@gmail.com",
+      "encrypted_password": "905334d5b1ef103c2432c6075f999359",
+      "referral_code": "EMG01",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:01:50.238Z"
     }
   ],
   "withdrawals": [
