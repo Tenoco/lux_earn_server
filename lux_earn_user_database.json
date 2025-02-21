@@ -78,11 +78,12 @@
       "inviter_username": null,
       "invited_users": [
         "Tech",
-        "Presco"
+        "Presco",
+        "Jahhw"
       ],
       "balance": 1000,
-      "refers": 2,
-      "referralBalance": 100,
+      "refers": 3,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -38339,6 +38340,21 @@
       "joinDate": "2025-02-21T18:30:46.231Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jahhw",
+      "email": "hwhhw@gmailmcom",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "JA7AM",
+      "inviter_referral_code": null,
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:26:08.408Z"
     }
   ],
   "withdrawals": [
