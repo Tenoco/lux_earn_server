@@ -13048,11 +13048,12 @@
         "Peller",
         "Funmzy",
         "Ericmore",
-        "Mubarak"
+        "Mubarak",
+        "Seyi"
       ],
       "balance": 48,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -14710,7 +14711,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:37:05.929Z"
+      "joinDate": "2025-02-21T06:37:05.929Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Seyi",
+      "email": "allsionwealty772@gmail.com",
+      "encrypted_password": "a0ab6d0893e1505faf7019940efabc2f",
+      "referral_code": "SEHL2",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:37:28.730Z"
     }
   ],
   "withdrawals": [
