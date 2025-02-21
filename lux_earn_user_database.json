@@ -16155,11 +16155,12 @@
         "Kalamuisah",
         "Isahmarry",
         "Musakalam",
-        "UsmanMuhammad "
+        "UsmanMuhammad ",
+        "Ahmadkusa"
       ],
       "balance": 440,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
@@ -20008,6 +20009,21 @@
       "joinDate": "2025-02-21T08:06:29.360Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ahmadkusa",
+      "email": "hdi2737@gmail.com",
+      "encrypted_password": "00038e20c683a39f4fc89a4f863d4180",
+      "referral_code": "AHHYN",
+      "inviter_referral_code": "ADVEN",
+      "inviter_username": "Adam usman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:07:00.539Z"
     }
   ],
   "withdrawals": [
