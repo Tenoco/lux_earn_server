@@ -14813,11 +14813,12 @@
         "pearlslim12",
         "Mideruqouya",
         "Pearl",
-        "Tommy"
+        "Tommy",
+        "Mustyzai"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -18171,7 +18172,8 @@
       "joinDate": "2025-02-21T07:29:10.599Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdomchibuike ",
@@ -18308,6 +18310,21 @@
       "joinDate": "2025-02-21T07:31:26.894Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mustyzai",
+      "email": "mustyybaba1@gmail.com",
+      "encrypted_password": "c5b0a20d94e56ec83d01d29f38f38d17",
+      "referral_code": "MUHMN",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:31:52.303Z"
     }
   ],
   "withdrawals": [
