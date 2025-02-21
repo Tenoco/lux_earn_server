@@ -10267,11 +10267,12 @@
       "inviter_username": null,
       "invited_users": [
         "Tamia",
-        "Nasir"
+        "Nasir",
+        "Katerina"
       ],
       "balance": 305,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -11085,7 +11086,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "daniel2027_£$",
@@ -11120,6 +11122,21 @@
       "joinDate": "2025-02-21T05:08:51.270Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Katerina",
+      "email": "katejerry068@gmail.com",
+      "encrypted_password": "8b8680db838d4f496bc2b17152cedc13",
+      "referral_code": "KAPQM",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:09:57.192Z"
     }
   ],
   "withdrawals": [
