@@ -32621,14 +32621,15 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:44:02.564Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Hay_bee291",
@@ -32711,7 +32712,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:46:23.825Z"
+      "joinDate": "2025-02-21T13:46:23.825Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
