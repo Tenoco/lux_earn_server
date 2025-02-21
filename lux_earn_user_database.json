@@ -26901,13 +26901,18 @@
       "inviter_referral_code": "MI44N",
       "inviter_username": "Mimi4success",
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:53:37.380Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        3,
+        4,
+        5
+      ],
       "lastSpin": null
     },
     {
