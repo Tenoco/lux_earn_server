@@ -37703,11 +37703,12 @@
         "Jallk",
         "Kalaoeo",
         "Kaoalsk",
-        "Oslsmskso"
+        "Oslsmskso",
+        "Kalpslflr"
       ],
       "balance": 1,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -38163,7 +38164,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:43:19.246Z"
+      "joinDate": "2025-02-21T20:43:19.246Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kalpslflr",
+      "email": "emmanueldoughdough@gmail.com",
+      "encrypted_password": "24cbf09777d424aff8e00ca0d6f24642",
+      "referral_code": "KASK1",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:44:23.489Z"
     }
   ],
   "withdrawals": [
