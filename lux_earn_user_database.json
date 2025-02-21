@@ -35395,7 +35395,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 270,
+      "balance": 360,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35410,9 +35410,11 @@
         3,
         4,
         5,
-        10
-      ],
-      "lastSpin": null
+        10,
+        11,
+        11,
+        9
+      ]
     },
     {
       "username": "Johnny40",
