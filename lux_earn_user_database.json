@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 3000,
+      "balance": 2000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -37497,6 +37497,17 @@
       "amount": 1000,
       "totalBalance": 1503,
       "timestamp": "2025-02-21T17:14:59.888Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "166662",
+      "bank": "GT Bank",
+      "amount": 1000,
+      "totalBalance": 2000,
+      "timestamp": "2025-02-21T17:16:22.636Z",
       "status": "pending"
     }
   ],
