@@ -14804,11 +14804,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Akin"
+        "Akin",
+        "Quadri "
       ],
       "balance": 300,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -25066,7 +25067,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:16:24.130Z"
+      "joinDate": "2025-02-21T10:16:24.130Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Quadri ",
+      "email": "ajibadequadri662@gmail.com",
+      "encrypted_password": "850a91e2dea1454cc0e08427bbccc9ee",
+      "referral_code": "QUD46",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:16:32.820Z"
     }
   ],
   "withdrawals": [
