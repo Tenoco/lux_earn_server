@@ -5869,14 +5869,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 50,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:55.517Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T00:14:32.302Z",
+      "completedMissions": [
+        5
+      ]
     },
     {
       "username": "Zord",
@@ -5976,7 +5978,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:16:08.900Z"
+      "joinDate": "2025-02-21T00:16:08.900Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
