@@ -6601,14 +6601,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:33.556Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Soyet",
@@ -6741,7 +6743,8 @@
       "joinDate": "2025-02-21T00:29:49.835Z",
       "completedMissions": [
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Esther",
