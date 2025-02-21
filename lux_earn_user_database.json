@@ -1236,11 +1236,12 @@
         "cryptomannia",
         "Blacklord55",
         "The jester002",
-        "Ayo2006"
+        "Ayo2006",
+        "Blade "
       ],
       "balance": 315,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -37439,6 +37440,21 @@
       "joinDate": "2025-02-21T22:11:31.516Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Blade ",
+      "email": "desirechijindu6@gmail.com",
+      "encrypted_password": "edab335c036002aa7011541191c2abda",
+      "referral_code": "BLD6H",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:11:48.599Z"
     }
   ],
   "withdrawals": [
