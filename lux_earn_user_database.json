@@ -25378,10 +25378,12 @@
       "referral_code": "FAUOQ",
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
-      "invited_users": [],
+      "invited_users": [
+        "Becky "
+      ],
       "balance": 420,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -27904,7 +27906,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:21:20.233Z"
+      "joinDate": "2025-02-21T11:21:20.233Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Becky ",
+      "email": "beckyshopify23@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "BEVKG",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:21:52.831Z"
     }
   ],
   "withdrawals": [
