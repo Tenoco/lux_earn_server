@@ -28381,7 +28381,7 @@
       "inviter_referral_code": "Chuqv",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28389,9 +28389,10 @@
       "joinDate": "2025-02-21T11:39:27.914Z",
       "completedMissions": [
         1,
-        2
+        2,
+        9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:55:44.931Z"
     },
     {
       "username": "Bakoree",
@@ -28993,7 +28994,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:56:54.477Z"
+      "joinDate": "2025-02-21T11:56:54.477Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
