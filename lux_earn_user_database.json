@@ -16539,10 +16539,12 @@
       "referral_code": "CLV1D",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Doris"
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -23705,6 +23707,21 @@
       "joinDate": "2025-02-21T09:40:41.956Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Doris",
+      "email": "abigail#@gmail.com",
+      "encrypted_password": "670b14728ad9902aecba32e22fa4f6bd",
+      "referral_code": "DO47Z",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:41:10.812Z"
     }
   ],
   "withdrawals": [
