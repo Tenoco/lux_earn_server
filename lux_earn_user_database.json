@@ -19584,14 +19584,13 @@
       "inviter_referral_code": "WEXRG",
       "inviter_username": "Wealth ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:56:13.957Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:58:15.212Z"
     },
     {
       "username": "Mike",
@@ -19640,7 +19639,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:58:10.107Z"
+      "joinDate": "2025-02-21T07:58:10.107Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
