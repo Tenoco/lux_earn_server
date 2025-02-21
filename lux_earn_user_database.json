@@ -11068,14 +11068,18 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:04:28.825Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Aramma001 ",
@@ -12559,7 +12563,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:52:51.609Z"
+      "joinDate": "2025-02-21T05:52:51.609Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
