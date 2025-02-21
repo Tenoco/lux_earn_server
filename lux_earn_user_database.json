@@ -20204,11 +20204,12 @@
         "Ice3",
         "Ice4",
         "Ice5",
-        "Roxanne"
+        "Roxanne",
+        "Roxxie"
       ],
       "balance": 210,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:59:02.489Z",
@@ -35246,6 +35247,21 @@
       "joinDate": "2025-02-21T14:54:51.227Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Roxxie",
+      "email": "roxanneisaac593@gmail.com",
+      "encrypted_password": "475f711abc14b191879a164013302681",
+      "referral_code": "ROSLB",
+      "inviter_referral_code": "ISTIL",
+      "inviter_username": "Isaac David ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:55:47.955Z"
     }
   ],
   "withdrawals": [
