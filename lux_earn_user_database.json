@@ -36071,7 +36071,7 @@
       "inviter_referral_code": "HAGNN",
       "inviter_username": "haseer",
       "invited_users": [],
-      "balance": 325,
+      "balance": 355,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36088,7 +36088,8 @@
         11,
         1,
         1,
-        1
+        1,
+        5
       ],
       "lastSpin": "2025-02-21T15:30:58.551Z"
     },
@@ -36683,7 +36684,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:37:39.083Z"
+      "joinDate": "2025-02-21T15:37:39.083Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
