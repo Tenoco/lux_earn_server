@@ -19174,11 +19174,12 @@
       "invited_users": [
         "mrlee",
         "alanapromise117",
-        "Ramadan"
+        "Ramadan",
+        "Ajuo"
       ],
       "balance": 220,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -23503,7 +23504,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:35:43.069Z"
+      "joinDate": "2025-02-21T09:35:43.069Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajuo",
+      "email": "avacharlotte2233@gmail.com",
+      "encrypted_password": "45fb45cd49d4fffa0c72db7e59450d4f",
+      "referral_code": "AJG8S",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:35:52.224Z"
     }
   ],
   "withdrawals": [
