@@ -37378,14 +37378,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:08:52.669Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T22:09:30.136Z"
     },
     {
       "username": "Flora k",
@@ -37417,7 +37419,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:10:17.396Z"
+      "joinDate": "2025-02-21T22:10:17.396Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
