@@ -10738,11 +10738,12 @@
         "Phetah12",
         "Hamzzy",
         "Treasure Joshua ",
-        "Ajibola"
+        "Ajibola",
+        "Chulnafi2"
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -32541,7 +32542,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billy jos",
@@ -32593,6 +32595,21 @@
       "joinDate": "2025-02-21T13:43:56.510Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chulnafi2",
+      "email": "nafisatuchul@gmail.com",
+      "encrypted_password": "1339182da636890f607249b3ecb2251f",
+      "referral_code": "CH2YN",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:44:02.564Z"
     }
   ],
   "withdrawals": [
