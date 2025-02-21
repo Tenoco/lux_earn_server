@@ -1741,11 +1741,12 @@
         "Amatusafy",
         "Samino",
         "Haggaijacob0912172",
-        "Steohex "
+        "Steohex ",
+        "chukwuma7"
       ],
       "balance": 275,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9740,7 +9741,8 @@
         5,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kashops14",
@@ -9819,6 +9821,21 @@
       "joinDate": "2025-02-21T03:12:43.939Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "chukwuma7",
+      "email": "kaluchukwuma993@gmail.com",
+      "encrypted_password": "285bdde9ce18f24704e065692c7445ba",
+      "referral_code": "CH6BA",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:12:56.075Z"
     }
   ],
   "withdrawals": [
