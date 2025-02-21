@@ -37215,11 +37215,12 @@
       "inviter_username": null,
       "invited_users": [
         "Adeolu",
-        "Zuliybaby"
+        "Zuliybaby",
+        "Emmanuelsho"
       ],
       "balance": 32,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37471,7 +37472,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:12:03.374Z"
+      "joinDate": "2025-02-21T22:12:03.374Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuelsho",
+      "email": "emmmanuelsho@gmail.com",
+      "encrypted_password": "5ff7ca568760a1bf9e8d01d0a3f0748d",
+      "referral_code": "EMEYL",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:12:10.412Z"
     }
   ],
   "withdrawals": [
