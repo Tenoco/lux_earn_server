@@ -36036,7 +36036,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ibrahimizzuddeen",
@@ -36138,10 +36139,12 @@
       "referral_code": "ADIVY",
       "inviter_referral_code": "Ajfym",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Adewale selim"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:02.697Z",
@@ -36484,6 +36487,21 @@
       "joinDate": "2025-02-21T15:31:19.246Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adewale selim",
+      "email": "adewaleselim@gmail.com",
+      "encrypted_password": "f8b6177570d93089db13dbcb8909c8fb",
+      "referral_code": "ADUQQ",
+      "inviter_referral_code": "ADIVY",
+      "inviter_username": "Adam Aremu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:31:44.143Z"
     }
   ],
   "withdrawals": [
