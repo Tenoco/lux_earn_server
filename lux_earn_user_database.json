@@ -1214,11 +1214,12 @@
         "Danniella",
         "Happiness",
         "David",
-        "Usuman"
+        "Usuman",
+        "Emmaunel"
       ],
       "balance": 190,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -13307,6 +13308,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:07:24.773Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:07:48.155Z"
     },
     {
@@ -13342,6 +13344,21 @@
       "joinDate": "2025-02-21T06:07:44.028Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmaunel",
+      "email": "emmaunel21@gmail.com",
+      "encrypted_password": "4467433f6f293f28291b8e7fa512dc28",
+      "referral_code": "EMVDK",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:08:13.197Z"
     }
   ],
   "withdrawals": [
