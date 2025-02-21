@@ -20717,7 +20717,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marcusein ",
@@ -20727,12 +20728,13 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": "Sadiqmkyari",
       "invited_users": [],
-      "balance": 225,
+      "balance": 255,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
+      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
@@ -20741,9 +20743,9 @@
         5,
         6,
         7,
-        8
-      ],
-      "lastSpin": "2025-02-21T08:22:56.088Z"
+        8,
+        9
+      ]
     },
     {
       "username": "Michael",
