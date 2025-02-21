@@ -28203,14 +28203,18 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": "Mideruqouya",
       "invited_users": [],
-      "balance": 30,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:32:10.426Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -28442,7 +28446,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:41:32.474Z"
+      "joinDate": "2025-02-21T11:41:32.474Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
