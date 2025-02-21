@@ -24373,7 +24373,8 @@
         2,
         3,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Animasaun ",
@@ -24586,6 +24587,21 @@
       "joinDate": "2025-02-21T10:05:52.243Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jasonholland",
+      "email": "olatunjij703@gmail.com",
+      "encrypted_password": "1b0f24065ad5ccdce3ba1b6cfa4c385c",
+      "referral_code": "JALJU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:06:39.692Z"
     }
   ],
   "withdrawals": [
