@@ -16043,7 +16043,7 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16053,9 +16053,9 @@
         2,
         1,
         4,
-        3
-      ],
-      "lastSpin": null
+        3,
+        5
+      ]
     },
     {
       "username": "WizzyMikeAel ",
@@ -16240,7 +16240,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:00:41.711Z"
+      "joinDate": "2025-02-21T07:00:41.711Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
