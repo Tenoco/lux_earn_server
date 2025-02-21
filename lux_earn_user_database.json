@@ -13295,11 +13295,12 @@
         "Bright002",
         "Mansur2994",
         "Charmor",
-        "Levisonet"
+        "Levisonet",
+        "Alamin"
       ],
       "balance": 251,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -32555,6 +32556,21 @@
       "joinDate": "2025-02-21T13:42:10.877Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alamin",
+      "email": "muhammadalaminhassan367@gmail.com",
+      "encrypted_password": "0b353927d8be84dee65607d39d274ba9",
+      "referral_code": "ALNQF",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:43:35.269Z"
     }
   ],
   "withdrawals": [
