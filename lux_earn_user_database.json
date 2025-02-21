@@ -19448,10 +19448,12 @@
       "referral_code": "KA4B6",
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kingsleyff "
+      ],
       "balance": 560,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:50:04.582Z",
@@ -21980,6 +21982,21 @@
       "joinDate": "2025-02-21T08:56:42.065Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kingsleyff ",
+      "email": "ajayisamuel@g.mail.com",
+      "encrypted_password": "0515cf4bd0063fc90fbe4afff2f7a0b8",
+      "referral_code": "KI66U",
+      "inviter_referral_code": "KA4B6",
+      "inviter_username": "Kashey",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:58:17.371Z"
     }
   ],
   "withdrawals": [
