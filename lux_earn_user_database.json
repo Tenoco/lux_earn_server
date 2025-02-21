@@ -2922,11 +2922,12 @@
       "invited_users": [
         "OLIVIALOVE ",
         "hope",
-        "Habaku"
+        "Habaku",
+        "Rokkygold"
       ],
       "balance": 325,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -20114,7 +20115,8 @@
       "completedMissions": [
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Krimicrispy ",
@@ -20202,6 +20204,21 @@
       "joinDate": "2025-02-21T08:11:09.637Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rokkygold",
+      "email": "amusatoluwapelumimotunrayo@gmail.com",
+      "encrypted_password": "149104a4b9794edff4b209302a625fe5",
+      "referral_code": "ROQGB",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:11:22.887Z"
     }
   ],
   "withdrawals": [
