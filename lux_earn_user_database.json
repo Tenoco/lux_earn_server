@@ -20041,7 +20041,8 @@
       "completedMissions": [
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Joyitunu",
@@ -20692,14 +20693,13 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": "Sadiqmkyari",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     },
     {
       "username": "Michael",
