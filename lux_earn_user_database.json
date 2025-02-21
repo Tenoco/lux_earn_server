@@ -6665,11 +6665,12 @@
         "phoeix2",
         "phoenix30",
         "Samen",
-        "Flight "
+        "Flight ",
+        "Song"
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7295,7 +7296,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:43:39.096Z"
+      "joinDate": "2025-02-21T00:43:39.096Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Song",
+      "email": "phoenic@gmail.com",
+      "encrypted_password": "aca9966873e21f972ce7b38526d2964b",
+      "referral_code": "SOP9C",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:43:42.150Z"
     }
   ],
   "withdrawals": [
