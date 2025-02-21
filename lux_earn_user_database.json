@@ -26103,7 +26103,7 @@
       "inviter_referral_code": "BON0X",
       "inviter_username": "Boss50",
       "invited_users": [],
-      "balance": 80,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26111,7 +26111,10 @@
       "joinDate": "2025-02-21T10:38:03.772Z",
       "completedMissions": [
         1,
-        2
+        2,
+        9,
+        5,
+        4
       ],
       "lastSpin": "2025-02-21T10:40:47.204Z"
     },
@@ -27586,7 +27589,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:12:58.690Z"
+      "joinDate": "2025-02-21T11:12:58.690Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
