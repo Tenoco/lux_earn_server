@@ -31413,7 +31413,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:04:56.522Z"
+      "joinDate": "2025-02-21T13:04:56.522Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Royalty12",
+      "email": "omolojajohn34@gmail.com",
+      "encrypted_password": "31ef073fa667e615daa9d194493b9f3e",
+      "referral_code": "ROD1U",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:05:09.225Z"
     }
   ],
   "withdrawals": [
