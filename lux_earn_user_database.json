@@ -17120,7 +17120,7 @@
       "inviter_referral_code": "CHVDI",
       "inviter_username": "Chizzy001xyz",
       "invited_users": [],
-      "balance": 120,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17130,7 +17130,12 @@
         1,
         2,
         3,
-        4
+        4,
+        6,
+        5,
+        7,
+        9,
+        8
       ],
       "lastSpin": null
     },
@@ -17463,12 +17468,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:18:40.100Z",
-      "lastSpin": "2025-02-21T07:18:51.781Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:18:51.781Z"
     },
     {
       "username": "Hbvnb",
