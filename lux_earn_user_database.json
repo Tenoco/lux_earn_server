@@ -18687,16 +18687,18 @@
       "inviter_referral_code": "Sawy4",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 31,
+      "balance": 91,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:38:38.802Z",
+      "lastSpin": "2025-02-21T07:39:32.737Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T07:39:32.737Z"
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Flavor",
@@ -18763,13 +18765,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:40:34.275Z",
-      "lastSpin": "2025-02-21T07:40:44.743Z",
       "completedMissions": [
         1,
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:40:44.743Z"
     },
     {
       "username": "Minnah12",
