@@ -1730,11 +1730,12 @@
         "Elisha ",
         "SIRBLACKJR ",
         "Babal112",
-        "Scopegee86 "
+        "Scopegee86 ",
+        "Bona123"
       ],
       "balance": 275,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9211,7 +9212,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:34:10.856Z"
+      "joinDate": "2025-02-21T02:34:10.856Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bona123",
+      "email": "ezenochinaemerem@gmail.com",
+      "encrypted_password": "6e6c55f60fb305f16414d8a889e84461",
+      "referral_code": "BO4Y7",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:35:03.493Z"
     }
   ],
   "withdrawals": [
