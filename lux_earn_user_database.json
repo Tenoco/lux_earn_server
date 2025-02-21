@@ -24469,7 +24469,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24477,7 +24477,8 @@
       "joinDate": "2025-02-21T10:03:53.439Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -24830,7 +24831,8 @@
       "joinDate": "2025-02-21T10:09:23.478Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VaLi ",
