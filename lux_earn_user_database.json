@@ -190,7 +190,7 @@
         "samuel",
         "Olumide"
       ],
-      "balance": 303,
+      "balance": 203,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
@@ -5524,6 +5524,16 @@
       "phoneNumber": "09015155687",
       "amount": 100,
       "timestamp": "2025-02-20T23:56:51.978Z",
+      "status": "pending"
+    },
+    {
+      "username": "STG",
+      "email": "adedejiolumide.24@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "08107021004",
+      "amount": 100,
+      "timestamp": "2025-02-21T00:07:40.224Z",
       "status": "pending"
     }
   ]
