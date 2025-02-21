@@ -20647,7 +20647,7 @@
       "inviter_referral_code": "DAY2X",
       "inviter_username": "daniee250",
       "invited_users": [],
-      "balance": 210,
+      "balance": 450,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20660,7 +20660,17 @@
         2,
         2,
         2,
-        4
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7
       ],
       "lastSpin": null
     },
@@ -20734,7 +20744,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
-      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
@@ -20745,7 +20754,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     },
     {
       "username": "Michael",
