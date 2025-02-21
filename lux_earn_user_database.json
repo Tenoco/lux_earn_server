@@ -15389,14 +15389,19 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [],
-      "balance": 0,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        9,
+        9,
+        9,
+        7
+      ]
     },
     {
       "username": "Shade",
@@ -15598,7 +15603,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:51:15.611Z"
+      "joinDate": "2025-02-21T06:51:15.611Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
