@@ -24879,11 +24879,12 @@
         "Tomison23",
         "Morenikeji22",
         "Enilex",
-        "Joshprince "
+        "Joshprince ",
+        "Adedolapo33"
       ],
       "balance": 270,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -29085,7 +29086,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nicefaith",
@@ -29427,6 +29429,21 @@
       "joinDate": "2025-02-21T12:06:50.687Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adedolapo33",
+      "email": "dolapo76@gmail.com",
+      "encrypted_password": "18d35727dd8c63d5206dcd172c132907",
+      "referral_code": "ADKAG",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:08:00.103Z"
     }
   ],
   "withdrawals": [
