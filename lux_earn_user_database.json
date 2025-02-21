@@ -13077,11 +13077,12 @@
         "Mubarak",
         "Seyi",
         "Blessing",
-        "Temmy gold"
+        "Temmy gold",
+        "Thiago"
       ],
       "balance": 48,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15407,7 +15408,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:48:39.897Z"
+      "joinDate": "2025-02-21T06:48:39.897Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Thiago",
+      "email": "tijaninabilah2@gmail.com",
+      "encrypted_password": "570a61fdde964c7d7b06b8d5c525b9c5",
+      "referral_code": "THYMY",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:48:55.136Z"
     }
   ],
   "withdrawals": [
