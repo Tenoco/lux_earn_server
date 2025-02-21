@@ -5580,11 +5580,12 @@
         "Micheal",
         "Bitcoin ",
         "akachis",
-        "Madison "
+        "Madison ",
+        "Okezies"
       ],
       "balance": 58,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
@@ -8617,7 +8618,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mrbest",
@@ -8641,6 +8643,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Okezies",
+      "email": "okechiumeh222@gmail.com",
+      "encrypted_password": "336f8983c2b9452b37df6e1de87aedb1",
+      "referral_code": "OKVX6",
+      "inviter_referral_code": "RE2O0",
+      "inviter_username": "realchimzy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:29:05.789Z"
     }
   ],
   "withdrawals": [
