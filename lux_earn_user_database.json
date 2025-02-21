@@ -7838,14 +7838,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:00:59.966Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Miles",
@@ -7877,7 +7878,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:02:08.407Z"
+      "joinDate": "2025-02-21T01:02:08.407Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
