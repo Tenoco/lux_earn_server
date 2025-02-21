@@ -33668,14 +33668,19 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 0,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:13:11.871Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T14:16:26.980Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Olamight ",
@@ -33981,7 +33986,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:21:28.717Z"
+      "joinDate": "2025-02-21T14:21:28.717Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
