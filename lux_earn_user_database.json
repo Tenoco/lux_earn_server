@@ -14470,11 +14470,12 @@
         "I12Livebig",
         "Youiyou16 ",
         "sinkonice",
-        "Konyi"
+        "Konyi",
+        "Felix Chinonso"
       ],
       "balance": 20,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -30093,6 +30094,21 @@
       "joinDate": "2025-02-21T12:23:15.464Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Felix Chinonso",
+      "email": "ngwuchinonso08@gmail.com",
+      "encrypted_password": "b2b18aa5fe44ad7e92ca2f408f06e9ec",
+      "referral_code": "FEJGG",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:23:36.597Z"
     }
   ],
   "withdrawals": [
