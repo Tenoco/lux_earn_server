@@ -16922,11 +16922,12 @@
       "invited_users": [
         "Modupe22",
         "Ola75",
-        "Set26"
+        "Set26",
+        "Aycash"
       ],
       "balance": 302,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:44.687Z",
@@ -26952,7 +26953,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:54:47.590Z"
+      "joinDate": "2025-02-21T10:54:47.590Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aycash",
+      "email": "qadriabdul29@gmail.com",
+      "encrypted_password": "691432b8619301b3dbe10e6ca71e10d6",
+      "referral_code": "AYWZP",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": "Pearl",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:54:56.035Z"
     }
   ],
   "withdrawals": [
