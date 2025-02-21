@@ -4691,11 +4691,12 @@
         "Akay",
         "Dray",
         "Rex",
-        "Roy"
+        "Roy",
+        "Zoro"
       ],
       "balance": 325,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -6897,7 +6898,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:35:50.626Z"
+      "joinDate": "2025-02-21T00:35:50.626Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zoro",
+      "email": "zoroffx@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "ZOB12",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:36:11.821Z"
     }
   ],
   "withdrawals": [
