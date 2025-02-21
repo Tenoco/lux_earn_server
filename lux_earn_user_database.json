@@ -15548,14 +15548,16 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:46:04.809Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T07:59:01.575Z"
     },
     {
       "username": "Investor ",
