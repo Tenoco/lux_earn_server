@@ -12583,14 +12583,15 @@
       "inviter_referral_code": "Ifelayomi",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:53:24.755Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Adewoye Fikayomi ",
@@ -12640,6 +12641,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T05:55:06.366Z"
     },
     {
