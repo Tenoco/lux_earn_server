@@ -14834,7 +14834,8 @@
         9,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Monnyjay001",
@@ -15220,6 +15221,21 @@
       "joinDate": "2025-02-21T06:45:30.371Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ruth641",
+      "email": "fancyfrankie641@gmail.com",
+      "encrypted_password": "08b4ba7c36ce7d647f7026b2955c52ac",
+      "referral_code": "RUDYD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:45:48.549Z"
     }
   ],
   "withdrawals": [
