@@ -10285,7 +10285,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:01:21.154Z"
+      "joinDate": "2025-02-21T04:01:21.154Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amiiiiruu",
+      "email": "sulaimanaliyu2005m@gmail.com",
+      "encrypted_password": "a9d6ae3982127245c6a172d4a153d94c",
+      "referral_code": "AM6YI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:02:32.950Z"
     }
   ],
   "withdrawals": [
