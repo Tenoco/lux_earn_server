@@ -25539,11 +25539,12 @@
         "Malik",
         "Wasiu",
         "Latif",
-        "Sulaimon"
+        "Sulaimon",
+        "Sakiru"
       ],
       "balance": 0,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -36244,6 +36245,21 @@
       "joinDate": "2025-02-21T15:23:54.861Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sakiru",
+      "email": "xemija5574@yalcu.com",
+      "encrypted_password": "8704b8b9b66a91e119bfda1df2cc52f5",
+      "referral_code": "SARTE",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:24:22.899Z"
     }
   ],
   "withdrawals": [
