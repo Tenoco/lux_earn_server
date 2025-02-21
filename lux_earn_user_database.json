@@ -19216,11 +19216,12 @@
         "Ajuo",
         "Ggg",
         "Jog",
-        "God33"
+        "God33",
+        "Hod001"
       ],
       "balance": 232,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -24111,7 +24112,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:54:45.108Z"
+      "joinDate": "2025-02-21T09:54:45.108Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hod001",
+      "email": "harlotte12233@gmail.com",
+      "encrypted_password": "e4a1565d6aca3eb9003e5219cae6cf27",
+      "referral_code": "HOHLA",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:55:16.361Z"
     }
   ],
   "withdrawals": [
