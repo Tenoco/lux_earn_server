@@ -1918,11 +1918,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious"
+        "Precious",
+        "Nadeeyah"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -37056,7 +37057,23 @@
       "joinDate": "2025-02-21T18:54:37.308Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Nadeeyah",
+      "email": "ajakaeleojo@gmail.com",
+      "encrypted_password": "27ac360d613e0eee89b5e9520bd6a338",
+      "referral_code": "NAMFA",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:57:25.844Z"
     }
   ],
   "withdrawals": [
