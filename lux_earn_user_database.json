@@ -700,11 +700,12 @@
         "Cleyboy001",
         "Sheujnr",
         "Sharonk ",
-        "esty11"
+        "esty11",
+        "Nosarex0"
       ],
       "balance": 112,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -28598,6 +28599,21 @@
       "joinDate": "2025-02-21T11:46:03.387Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nosarex0",
+      "email": "nosarexy@gmail.com",
+      "encrypted_password": "aa49e8fa1934590cc5a7f890313ea6bf",
+      "referral_code": "NOGEK",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:46:27.581Z"
     }
   ],
   "withdrawals": [
