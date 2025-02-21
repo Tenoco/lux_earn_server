@@ -19825,11 +19825,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Eze Ebuka"
+        "Eze Ebuka",
+        "Majestic"
       ],
       "balance": 45,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:18.443Z",
@@ -25303,6 +25304,21 @@
       "joinDate": "2025-02-21T10:24:19.194Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Majestic",
+      "email": "kizik855@gmail.com",
+      "encrypted_password": "0a5f4467545d13c95797090cb0b6a63f",
+      "referral_code": "MASTN",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": "BigNachi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:24:52.241Z"
     }
   ],
   "withdrawals": [
