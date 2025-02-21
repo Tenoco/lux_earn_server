@@ -37766,10 +37766,12 @@
       "referral_code": "UMT08",
       "inviter_referral_code": "SAWY4",
       "inviter_username": "Sadiqmkyari",
-      "invited_users": [],
+      "invited_users": [
+        "Umar4844"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:54:36.139Z",
@@ -38398,6 +38400,21 @@
       "joinDate": "2025-02-21T18:35:02.064Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Umar4844",
+      "email": "umargonimuhammadkyari@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "UMQ8P",
+      "inviter_referral_code": "UMT08",
+      "inviter_username": "Umar Muhammad ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:35:33.890Z"
     }
   ],
   "withdrawals": [
