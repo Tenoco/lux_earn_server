@@ -755,11 +755,12 @@
         "Teddy186",
         "Bossmanj",
         "Chiboy",
-        "Askbash"
+        "Askbash",
+        "Louis1"
       ],
       "balance": 165,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:32.949Z",
@@ -19276,7 +19277,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:52:01.111Z"
+      "joinDate": "2025-02-21T07:52:01.111Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Louis1",
+      "email": "shekwoyanduza1@gmail.com",
+      "encrypted_password": "a9e1cb4199223db50584776bfee28d3c",
+      "referral_code": "LOHOH",
+      "inviter_referral_code": "JEYIW",
+      "inviter_username": "Jennie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:51:59.602Z"
     }
   ],
   "withdrawals": [
