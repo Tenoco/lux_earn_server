@@ -37610,17 +37610,18 @@
       "inviter_referral_code": "CHJWK ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:42:48.557Z",
+      "lastSpin": "2025-02-21T17:44:02.728Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": "2025-02-21T17:44:02.728Z"
+        2,
+        3
+      ]
     },
     {
       "username": "Princy",
@@ -37655,7 +37656,8 @@
       "joinDate": "2025-02-21T17:45:54.528Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
