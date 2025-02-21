@@ -23251,7 +23251,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23260,9 +23260,11 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3,
+        3,
+        3
+      ]
     },
     {
       "username": "Abbatioo1",
