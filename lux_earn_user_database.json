@@ -25396,11 +25396,12 @@
       "inviter_username": "Jennie ",
       "invited_users": [
         "Becky ",
-        "Aisha"
+        "Aisha",
+        "Oluwajoy"
       ],
       "balance": 420,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -28213,6 +28214,21 @@
       "joinDate": "2025-02-21T11:32:30.072Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oluwajoy",
+      "email": "joyolabisi96@gmail.com",
+      "encrypted_password": "4a6ffd67fa5f3abbc3ac4a2d0427bd88",
+      "referral_code": "OLDAF",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:35:29.738Z"
     }
   ],
   "withdrawals": [
