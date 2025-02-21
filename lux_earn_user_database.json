@@ -11679,7 +11679,8 @@
         4,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tabzzy",
@@ -11894,6 +11895,21 @@
       "joinDate": "2025-02-21T05:30:45.064Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdom",
+      "email": "wbtc6248@gmail.com",
+      "encrypted_password": "f9eef39079866029de5e93ab73bbc305",
+      "referral_code": "WIJNH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:31:17.898Z"
     }
   ],
   "withdrawals": [
