@@ -14399,11 +14399,12 @@
         "ImperialBro",
         "Vigilance ",
         "FMUSK",
-        "I12Livebig"
+        "I12Livebig",
+        "Youiyou16 "
       ],
       "balance": 20,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -24601,7 +24602,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:06:39.692Z"
+      "joinDate": "2025-02-21T10:06:39.692Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Youiyou16 ",
+      "email": "mariamololade339@gmail.com",
+      "encrypted_password": "541e82d42bc34f47af1ce675b7e7e178",
+      "referral_code": "YOW5N",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:06:47.667Z"
     }
   ],
   "withdrawals": [
