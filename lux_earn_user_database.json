@@ -37205,6 +37205,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:37:01.130Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T19:38:25.254Z"
     },
     {
@@ -37223,6 +37224,21 @@
       "joinDate": "2025-02-21T19:37:36.029Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cedan",
+      "email": "chianaky18@gmail.com",
+      "encrypted_password": "532877d8f4673c50d6a5fe1ce577cfcc",
+      "referral_code": "CEWZ3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:39:52.061Z"
     }
   ],
   "withdrawals": [
