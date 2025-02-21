@@ -18213,7 +18213,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18225,9 +18225,9 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "Wisdomchibuike ",
@@ -18552,7 +18552,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:35:59.586Z"
+      "joinDate": "2025-02-21T07:35:59.586Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
