@@ -11858,16 +11858,20 @@
       "inviter_referral_code": "LI407",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:29:24.395Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
     },
     {
       "username": "Mjsilent ",
@@ -12163,7 +12167,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:31:38.313Z"
+      "joinDate": "2025-02-21T05:31:38.313Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
