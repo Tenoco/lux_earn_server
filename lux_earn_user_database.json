@@ -25464,11 +25464,12 @@
         "Semia",
         "Wasilat",
         "Bola",
-        "Malik"
+        "Malik",
+        "Wasiu"
       ],
       "balance": 0,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -35460,7 +35461,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:02:18.872Z"
+      "joinDate": "2025-02-21T15:02:18.872Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wasiu",
+      "email": "lowanat949@dropfam.com",
+      "encrypted_password": "d5a0bb4295b751a8806c7643ce95af2f",
+      "referral_code": "WAL51",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:02:29.741Z"
     }
   ],
   "withdrawals": [
