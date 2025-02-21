@@ -1456,7 +1456,7 @@
       "inviter_referral_code": "netlify",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 165,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1466,7 +1466,8 @@
         1,
         2,
         3,
-        6
+        6,
+        7
       ],
       "lastSpin": null
     },
@@ -8682,7 +8683,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:32:59.507Z"
+      "joinDate": "2025-02-21T01:32:59.507Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
