@@ -33920,7 +33920,7 @@
       "invited_users": [
         "Emma003"
       ],
-      "balance": 90,
+      "balance": 150,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -33929,7 +33929,9 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        4,
+        4
       ],
       "lastSpin": null
     },
