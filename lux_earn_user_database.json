@@ -13044,11 +13044,12 @@
         "Feranmi ",
         "Mazichief ",
         "willsmith234",
-        "Adamsa1"
+        "Adamsa1",
+        "AyoRichee "
       ],
       "balance": 251,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -16052,7 +16053,8 @@
         1,
         4,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "WizzyMikeAel ",
@@ -16206,6 +16208,21 @@
       "joinDate": "2025-02-21T06:59:57.708Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "AyoRichee ",
+      "email": "aderibigbeayomide863@gmail.com",
+      "encrypted_password": "61637114114b351c5ba434c98a0dfd03",
+      "referral_code": "AYVQJ",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:00:36.358Z"
     }
   ],
   "withdrawals": [
