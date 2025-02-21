@@ -13756,7 +13756,8 @@
       "joinDate": "2025-02-21T06:19:06.762Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Riter",
@@ -13808,6 +13809,21 @@
       "joinDate": "2025-02-21T06:20:49.629Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fatima",
+      "email": "zaraty4u@gmail.com",
+      "encrypted_password": "3e5d0cd28a6fa4baa09f0ee51147de85",
+      "referral_code": "FABG1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:21:26.124Z"
     }
   ],
   "withdrawals": [
