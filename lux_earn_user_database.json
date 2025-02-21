@@ -19146,11 +19146,12 @@
       "inviter_username": null,
       "invited_users": [
         "Boss1 ",
-        "Nikki "
+        "Nikki ",
+        "Francis "
       ],
       "balance": 228,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -21693,7 +21694,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:48:00.103Z"
+      "joinDate": "2025-02-21T08:48:00.103Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Francis ",
+      "email": "francisgodstime270@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "FR4P4",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:48:11.837Z"
     }
   ],
   "withdrawals": [
