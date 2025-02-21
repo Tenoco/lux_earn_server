@@ -25596,11 +25596,12 @@
         "Sakiru",
         "Fola",
         "Muniru",
-        "Mutiya"
+        "Mutiya",
+        "Latifat"
       ],
       "balance": 0,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -37122,6 +37123,21 @@
       "joinDate": "2025-02-21T15:50:20.661Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Latifat",
+      "email": "xoreh29362@yalcu.com",
+      "encrypted_password": "6578ee083258c18425105af1999c8c33",
+      "referral_code": "LAWZQ",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:52:06.503Z"
     }
   ],
   "withdrawals": [
