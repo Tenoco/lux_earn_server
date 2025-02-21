@@ -37899,10 +37899,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:19:51.100Z",
-      "lastSpin": "2025-02-21T16:20:08.711Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T16:20:08.711Z"
     },
     {
       "username": "Ozee12",
@@ -37937,6 +37937,21 @@
       "joinDate": "2025-02-21T16:20:49.514Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Enoma ",
+      "email": "enomaanthony947@gmail.com",
+      "encrypted_password": "0d0cb6ac20d2517e727f5ddca9d4f149",
+      "referral_code": "EN41P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:22:00.546Z"
     }
   ],
   "withdrawals": [
