@@ -27728,6 +27728,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:57.299Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:17:32.559Z"
     },
     {
@@ -27746,6 +27747,21 @@
       "joinDate": "2025-02-21T11:17:03.593Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Clems",
+      "email": "yawatmunditanko@gmail.com",
+      "encrypted_password": "942e868911585c7e382461e0561e343a",
+      "referral_code": "CLL2I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:17:42.417Z"
     }
   ],
   "withdrawals": [
