@@ -2269,11 +2269,12 @@
         "Charityprincewill2",
         "Ugomma samuel",
         "Godwillbenson",
-        "Goodnessogachi"
+        "Goodnessogachi",
+        "Louis chukwue"
       ],
       "balance": 230,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -15950,6 +15951,21 @@
       "joinDate": "2025-02-21T06:56:35.485Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Louis chukwue",
+      "email": "godnessemenike@gmail.com",
+      "encrypted_password": "18960af566adee31ce4cfb586deb79e4",
+      "referral_code": "LOB3L",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:56:47.918Z"
     }
   ],
   "withdrawals": [
