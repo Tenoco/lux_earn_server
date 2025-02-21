@@ -34666,7 +34666,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:38:58.299Z"
+      "joinDate": "2025-02-21T14:38:58.299Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "toyosi23",
+      "email": "tsayoola@gmail.com",
+      "encrypted_password": "d9c48134076ef7afc05dbbe8e9117a39",
+      "referral_code": "TO59N",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:38:26.019Z"
     }
   ],
   "withdrawals": [
