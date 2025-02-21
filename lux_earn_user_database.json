@@ -14719,14 +14719,19 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:35.481Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1,
+        2,
+        8
+      ]
     },
     {
       "username": "Danielkafillu",
@@ -14945,7 +14950,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:41:14.997Z"
+      "joinDate": "2025-02-21T06:41:14.997Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
