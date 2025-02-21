@@ -27794,7 +27794,7 @@
       "invited_users": [
         "Kamanda"
       ],
-      "balance": 150,
+      "balance": 175,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -27807,7 +27807,7 @@
         4,
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T14:55:19.623Z"
     },
     {
       "username": "Long",
@@ -35242,7 +35242,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:54:51.227Z"
+      "joinDate": "2025-02-21T14:54:51.227Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
