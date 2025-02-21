@@ -6263,7 +6263,7 @@
         "Kevin ",
         "abdul"
       ],
-      "balance": 190,
+      "balance": 90,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -8386,6 +8386,16 @@
       "phoneNumber": "07033678785",
       "amount": 100,
       "timestamp": "2025-02-21T01:09:47.800Z",
+      "status": "pending"
+    },
+    {
+      "username": "abdulrahman ",
+      "email": "abdulrahmanhabeeb814@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07033678785",
+      "amount": 100,
+      "timestamp": "2025-02-21T01:09:51.151Z",
       "status": "pending"
     }
   ]
