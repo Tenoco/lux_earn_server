@@ -23129,10 +23129,12 @@
       "referral_code": "SE0T6",
       "inviter_referral_code": "PEHXW",
       "inviter_username": "Pearl",
-      "invited_users": [],
+      "invited_users": [
+        "Mak23"
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:59.293Z",
@@ -24285,7 +24287,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:59:16.937Z"
+      "joinDate": "2025-02-21T09:59:16.937Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mak23",
+      "email": "pauleberechi042@gmail.com",
+      "encrypted_password": "b3685a71fbea622025b544405996ecad",
+      "referral_code": "MANWG",
+      "inviter_referral_code": "SE0T6",
+      "inviter_username": "Set26",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:59:28.578Z"
     }
   ],
   "withdrawals": [
