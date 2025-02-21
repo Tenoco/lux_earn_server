@@ -125,11 +125,12 @@
         "Mydey",
         "Joyitunu",
         "Oyinlola",
-        "Comfortchris"
+        "Comfortchris",
+        "Dorcas11"
       ],
       "balance": 50,
-      "refers": 37,
-      "referralBalance": 3700,
+      "refers": 38,
+      "referralBalance": 3800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -22381,7 +22382,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:08:58.094Z"
+      "joinDate": "2025-02-21T09:08:58.094Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dorcas11",
+      "email": "dorcasbusola4@gmail.com",
+      "encrypted_password": "363343ea64116b5dec2536e331bec4de",
+      "referral_code": "DOI40",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:09:22.388Z"
     }
   ],
   "withdrawals": [
