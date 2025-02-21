@@ -29366,14 +29366,15 @@
       "inviter_referral_code": "ISTIL",
       "inviter_username": "Isaac David ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:45.901Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     }
   ],
