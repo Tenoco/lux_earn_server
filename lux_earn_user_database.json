@@ -10816,7 +10816,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 90,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10826,7 +10826,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
