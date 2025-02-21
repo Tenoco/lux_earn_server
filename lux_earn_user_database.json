@@ -28976,7 +28976,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:56:38.327Z"
+      "joinDate": "2025-02-21T11:56:38.327Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ikem mary",
+      "email": "ikemmary@gmail.com",
+      "encrypted_password": "5903c3b17afcc5d2850ccd0cb6cd7b9d",
+      "referral_code": "IK2HW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:56:54.477Z"
     }
   ],
   "withdrawals": [
