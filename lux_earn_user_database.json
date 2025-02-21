@@ -6234,11 +6234,12 @@
         "Washington ",
         "please ",
         "important",
-        "coin "
+        "coin ",
+        "games"
       ],
       "balance": 290,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -7470,6 +7471,21 @@
       "joinDate": "2025-02-21T00:47:42.983Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "games",
+      "email": "abdulrahmanhabeeb314@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "GAC1M",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:48:54.613Z"
     }
   ],
   "withdrawals": [
