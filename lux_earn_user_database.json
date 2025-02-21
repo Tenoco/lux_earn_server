@@ -4988,11 +4988,12 @@
         "tob y 32",
         "mich 5 di",
         "nyat t5",
-        "yoishi 34"
+        "yoishi 34",
+        "La Quinta "
       ],
       "balance": 255,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -6915,7 +6916,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:36:11.821Z"
+      "joinDate": "2025-02-21T00:36:11.821Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "La Quinta ",
+      "email": "nxvg69wiq3@dygovil.com",
+      "encrypted_password": "2ba5e3adf513004cceeee28ff33694a2",
+      "referral_code": "LAWRV",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:36:21.370Z"
     }
   ],
   "withdrawals": [
