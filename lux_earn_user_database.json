@@ -14465,7 +14465,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
-      "lastSpin": "2025-02-21T06:33:47.741Z",
       "completedMissions": [
         2,
         5,
@@ -14473,7 +14472,8 @@
         9,
         4,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:33:47.741Z"
     },
     {
       "username": "Gaius velji ",
@@ -14677,14 +14677,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:39:15.564Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Hephzibah ",
