@@ -11231,11 +11231,12 @@
       "invited_users": [
         "Inioluwa",
         "Favour",
-        "Racheal "
+        "Racheal ",
+        "Ifeoluwa"
       ],
       "balance": 185,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -18135,7 +18136,8 @@
         2,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Daves",
@@ -18479,6 +18481,21 @@
       "joinDate": "2025-02-21T07:34:31.028Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ifeoluwa",
+      "email": "blissvictor959@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "IFXKF",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:35:15.403Z"
     }
   ],
   "withdrawals": [
