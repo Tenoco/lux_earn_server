@@ -32733,7 +32733,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 160,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32745,9 +32745,9 @@
         8,
         9,
         7,
-        6
-      ],
-      "lastSpin": null
+        6,
+        5
+      ]
     },
     {
       "username": "SomtyCee",
@@ -32830,7 +32830,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:49:42.640Z"
+      "joinDate": "2025-02-21T13:49:42.640Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
