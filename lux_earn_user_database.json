@@ -12811,14 +12811,15 @@
       "inviter_referral_code": "WOJE5",
       "inviter_username": "Wonderful ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Chris Richalbert ",
