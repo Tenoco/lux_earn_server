@@ -24612,7 +24612,7 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24622,7 +24622,8 @@
         1,
         1,
         2,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -25005,7 +25006,8 @@
       "joinDate": "2025-02-21T10:14:33.808Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingiong",
