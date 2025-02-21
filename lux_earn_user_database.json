@@ -2384,11 +2384,12 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [
-        "OmokolRe"
+        "OmokolRe",
+        "Kayode26"
       ],
       "balance": 280,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -24235,6 +24236,21 @@
       "joinDate": "2025-02-21T09:58:31.649Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kayode26",
+      "email": "homolaragish@gmail.com",
+      "encrypted_password": "4e409b364ec365c11686ae5172d832f1",
+      "referral_code": "KAIMF",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:58:51.943Z"
     }
   ],
   "withdrawals": [
