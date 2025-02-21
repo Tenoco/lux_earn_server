@@ -14006,11 +14006,12 @@
         "3456@roseberry-45",
         "Great@",
         "Euphemia",
-        "Life"
+        "Life",
+        "Johnny40"
       ],
       "balance": 220,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -35362,6 +35363,21 @@
       "joinDate": "2025-02-21T14:57:44.831Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny40",
+      "email": "johnny43@gmail.com",
+      "encrypted_password": "527bd5b5d689e2c32ae974c6229ff785",
+      "referral_code": "JOL8M",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:59:17.408Z"
     }
   ],
   "withdrawals": [
