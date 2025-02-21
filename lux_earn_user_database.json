@@ -8593,7 +8593,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:24:19.502Z"
+      "joinDate": "2025-02-21T01:24:19.502Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zainabadam100",
+      "email": "khalilnagogo@gmail.com",
+      "encrypted_password": "8ca84b8f456ba355ed6c0fd4a1118af2",
+      "referral_code": "ZAYXN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:26:13.454Z"
     }
   ],
   "withdrawals": [
