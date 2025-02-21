@@ -37586,10 +37586,12 @@
       "referral_code": "OY1XO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Lamide"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -37713,7 +37715,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:20:38.557Z"
+      "joinDate": "2025-02-21T20:20:38.557Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lamide",
+      "email": "lamidi12@gmail.com",
+      "encrypted_password": "0ec1f282ca8dbf612bb370a3100eff88",
+      "referral_code": "LA4BU",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:20:49.520Z"
     }
   ],
   "withdrawals": [
