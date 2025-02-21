@@ -19119,7 +19119,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": "Mideruqouya",
       "invited_users": [],
-      "balance": 190,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19134,7 +19134,7 @@
         6,
         7
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T12:09:33.928Z"
     },
     {
       "username": "okoyec1389459 ",
@@ -29570,7 +29570,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:09:24.851Z"
+      "joinDate": "2025-02-21T12:09:24.851Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
