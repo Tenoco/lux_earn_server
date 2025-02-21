@@ -15361,11 +15361,12 @@
         "Ibrahim",
         "shoyomboizhaq188@gmail.com",
         "shoyomboizhaq05@gmail.com",
-        "Abiodun"
+        "Abiodun",
+        "charlottemily50@gmail.com"
       ],
       "balance": 128,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:35.481Z",
@@ -36998,7 +36999,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:00:12.777Z"
+      "joinDate": "2025-02-21T16:00:12.777Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "charlottemily50@gmail.com",
+      "email": "charlottemily50@gmail.com",
+      "encrypted_password": "7daddfb942ac2e58f65ac0ac5b068532",
+      "referral_code": "CH1XB",
+      "inviter_referral_code": "SHR06",
+      "inviter_username": "shoyomboizhaq1@gmail.com",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:00:29.184Z"
     }
   ],
   "withdrawals": [
