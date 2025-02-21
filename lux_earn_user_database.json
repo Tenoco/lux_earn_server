@@ -77,11 +77,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech"
+        "Tech",
+        "Presco"
       ],
       "balance": 1000,
-      "refers": 1,
-      "referralBalance": 0,
+      "refers": 2,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -38172,7 +38173,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:19:28.668Z"
+      "joinDate": "2025-02-21T18:19:28.668Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Presco",
+      "email": "adekunlepretty960@gmail.com",
+      "encrypted_password": "54e5c05b10111eb6b2cbe138f66c4a34",
+      "referral_code": "PR3ZH",
+      "inviter_referral_code": null,
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:19:37.463Z"
     }
   ],
   "withdrawals": [
