@@ -5306,7 +5306,7 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 175,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5317,9 +5317,9 @@
         4,
         3,
         2,
-        1
-      ],
-      "lastSpin": null
+        1,
+        6
+      ]
     },
     {
       "username": "LAGACONCEPT ",
@@ -5386,6 +5386,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T00:08:01.868Z"
     }
   ],
