@@ -19745,14 +19745,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 8,
+      "balance": 98,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:59:19.639Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T08:00:07.207Z"
+      "lastSpin": "2025-02-21T08:00:07.207Z",
+      "completedMissions": [
+        2,
+        3,
+        1
+      ]
     },
     {
       "username": "Musakalam",
@@ -20077,7 +20081,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:07:49.316Z"
+      "joinDate": "2025-02-21T08:07:49.316Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
