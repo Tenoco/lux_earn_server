@@ -254,11 +254,12 @@
         "Zikkil97",
         "Annabel",
         "Whiteinnocent",
-        "Whiteinnocentcrypto"
+        "Whiteinnocentcrypto",
+        "Chibuzor"
       ],
       "balance": 165,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -26970,7 +26971,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:54:56.035Z"
+      "joinDate": "2025-02-21T10:54:56.035Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chibuzor",
+      "email": "evichibu305@gmail.com",
+      "encrypted_password": "4988e400d2eda5ee8b7d89a64b0b6662",
+      "referral_code": "CHRBU",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:55:18.879Z"
     }
   ],
   "withdrawals": [
