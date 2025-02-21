@@ -2266,11 +2266,12 @@
         "Princewill",
         "PaulSamuel2",
         "Charityprincewill2",
-        "Ugomma samuel"
+        "Ugomma samuel",
+        "Godwillbenson"
       ],
       "balance": 230,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -15164,6 +15165,21 @@
       "joinDate": "2025-02-21T06:45:11.464Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godwillbenson",
+      "email": "princewillcyril030@gmail.com",
+      "encrypted_password": "4d677ff5e6381f296cd5a50507d5a9bf",
+      "referral_code": "GOWXK",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:45:19.265Z"
     }
   ],
   "withdrawals": [
