@@ -22028,14 +22028,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:58:58.867Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Johnjames ",
@@ -22101,7 +22102,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:01:34.081Z"
+      "joinDate": "2025-02-21T09:01:34.081Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
