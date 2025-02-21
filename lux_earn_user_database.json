@@ -128,11 +128,12 @@
         "Comfortchris",
         "Dorcas11",
         "Zobakezie ",
-        "Rogey Boss"
+        "Rogey Boss",
+        "Martha "
       ],
       "balance": 50,
-      "refers": 40,
-      "referralBalance": 4000,
+      "refers": 41,
+      "referralBalance": 4100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -24743,7 +24744,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:08:43.214Z"
+      "joinDate": "2025-02-21T10:08:43.214Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Martha ",
+      "email": "oladesum@gmail.com",
+      "encrypted_password": "5b7385ea33d371f78c01d51104a627cb",
+      "referral_code": "MAFQ4",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:08:51.568Z"
     }
   ],
   "withdrawals": [
