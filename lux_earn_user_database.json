@@ -29697,16 +29697,25 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 30,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:11:07.983Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T12:17:12.045Z"
     },
     {
       "username": "Lekan",
