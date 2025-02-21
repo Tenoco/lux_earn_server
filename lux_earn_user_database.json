@@ -16313,11 +16313,12 @@
         "Nuatin11",
         "Tanimowo2587",
         "johnnysp2",
-        "spomoj"
+        "spomoj",
+        "Kolintin"
       ],
       "balance": 68,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -33035,7 +33036,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:55:46.725Z"
+      "joinDate": "2025-02-21T13:55:46.725Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kolintin",
+      "email": "kolawoleremi4@gmail.com",
+      "encrypted_password": "5c1725cae8ad9cade39c366241fb71eb",
+      "referral_code": "KOLAF",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:56:02.318Z"
     }
   ],
   "withdrawals": [
