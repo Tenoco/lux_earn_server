@@ -37681,11 +37681,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Jorexdee"
+        "Jorexdee",
+        "Joml"
       ],
       "balance": 1,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -37824,7 +37825,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:25:34.934Z"
+      "joinDate": "2025-02-21T20:25:34.934Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joml",
+      "email": "cleuchuks2003@yahoo.com",
+      "encrypted_password": "32f7244eddb2cc73a42573d1aa8dee81",
+      "referral_code": "JO7SE",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:27:25.254Z"
     }
   ],
   "withdrawals": [
