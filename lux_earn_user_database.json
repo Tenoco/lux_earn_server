@@ -28338,6 +28338,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:39:43.950Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:40:34.475Z"
     },
     {
@@ -28382,14 +28383,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:40:26.470Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:40:43.194Z"
     },
     {
       "username": "Eze Kenneth ",
