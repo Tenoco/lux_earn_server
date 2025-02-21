@@ -10601,7 +10601,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10609,9 +10609,10 @@
       "joinDate": "2025-02-21T04:34:21.616Z",
       "completedMissions": [
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3,
+        3
+      ]
     },
     {
       "username": "Oregon",
@@ -10711,7 +10712,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:40:21.787Z"
+      "joinDate": "2025-02-21T04:40:21.787Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
