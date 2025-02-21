@@ -36526,11 +36526,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Cuttly"
+        "Cuttly",
+        "Toddler"
       ],
       "balance": 30,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:40.842Z",
@@ -36989,7 +36990,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:39:16.307Z"
+      "joinDate": "2025-02-21T16:39:16.307Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Toddler",
+      "email": "toddler1@gmail.com",
+      "encrypted_password": "df780a97b7d6a8f779f14728bccd3c4c",
+      "referral_code": "TOR6U",
+      "inviter_referral_code": "BR9VQ",
+      "inviter_username": "Brave290",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:39:56.126Z"
     }
   ],
   "withdrawals": [
