@@ -7684,7 +7684,7 @@
       "inviter_referral_code": "Daniel",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 295,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8081,6 +8081,16 @@
       "phoneNumber": "09135996660",
       "amount": 300,
       "timestamp": "2025-02-21T00:39:16.084Z",
+      "status": "pending"
+    },
+    {
+      "username": "Donzanian",
+      "email": "donz24r@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "09063344356",
+      "amount": 295,
+      "timestamp": "2025-02-21T01:01:44.327Z",
       "status": "pending"
     }
   ]
