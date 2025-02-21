@@ -13011,11 +13011,12 @@
       "invited_users": [
         "Feranmi ",
         "Mazichief ",
-        "willsmith234"
+        "willsmith234",
+        "Adamsa1"
       ],
       "balance": 251,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -14979,6 +14980,21 @@
       "joinDate": "2025-02-21T06:41:27.784Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adamsa1",
+      "email": "abubakaradamm808@gmail.com",
+      "encrypted_password": "c05fcc631ac7ec42d32a40d7e8e8a406",
+      "referral_code": "ADFRJ",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:42:00.211Z"
     }
   ],
   "withdrawals": [
