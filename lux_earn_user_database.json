@@ -14587,7 +14587,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14597,9 +14597,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Emmanuel",
@@ -14683,12 +14683,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:39:15.564Z"
     },
     {
       "username": "Hephzibah ",
