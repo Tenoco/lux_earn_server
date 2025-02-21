@@ -9014,7 +9014,7 @@
       "inviter_referral_code": "RAH53",
       "inviter_username": "Ramadan432",
       "invited_users": [],
-      "balance": 95,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9022,7 +9022,10 @@
       "joinDate": "2025-02-21T02:09:52.073Z",
       "completedMissions": [
         6,
-        7
+        7,
+        8,
+        8,
+        5
       ]
     }
   ],
