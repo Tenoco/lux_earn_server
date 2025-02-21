@@ -22618,7 +22618,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:16:05.370Z"
+      "joinDate": "2025-02-21T09:16:05.370Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emdee24",
+      "email": "mishaeldavid2323@gmail.com",
+      "encrypted_password": "5481f90b01fc18a97202d45c25eab05b",
+      "referral_code": "EM4NV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:16:27.713Z"
     }
   ],
   "withdrawals": [
