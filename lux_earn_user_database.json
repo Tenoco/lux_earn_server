@@ -5454,11 +5454,12 @@
         "Honkong",
         "Cannyson",
         "Cannadah",
-        "Theyreelme"
+        "Theyreelme",
+        "Camellaty"
       ],
       "balance": 30,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8119,6 +8120,21 @@
       "joinDate": "2025-02-21T01:08:48.590Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Camellaty",
+      "email": "Canddyhome@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "CAC1B",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:10:27.849Z"
     }
   ],
   "withdrawals": [
