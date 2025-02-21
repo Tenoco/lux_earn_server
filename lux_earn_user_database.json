@@ -32,11 +32,12 @@
         "Blaze08",
         "Toripee",
         "Munachi",
-        "Drone"
+        "Drone",
+        "Momewing "
       ],
       "balance": 5503,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -36929,6 +36930,21 @@
       "joinDate": "2025-02-21T15:47:36.408Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Momewing ",
+      "email": "muhaabdul59@gmail.com",
+      "encrypted_password": "f4b5607abb6b7d086c9bb5b40df22bcb",
+      "referral_code": "MO1AY",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:48:02.394Z"
     }
   ],
   "withdrawals": [
