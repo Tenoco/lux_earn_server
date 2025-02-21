@@ -37591,7 +37591,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:15:04.651Z"
+      "joinDate": "2025-02-21T16:15:04.651Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fatimajafar",
+      "email": "umarfatimajafar@gmail.com",
+      "encrypted_password": "9b13e59273c8a9e5a9b46c1cabcf3255",
+      "referral_code": "FALOK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:15:15.805Z"
     }
   ],
   "withdrawals": [
