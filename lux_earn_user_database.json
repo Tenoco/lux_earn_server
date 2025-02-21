@@ -32370,7 +32370,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:36:14.451Z"
+      "joinDate": "2025-02-21T13:36:14.451Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bolanlekudirat",
+      "email": "adejokebolanle060@gmail.com",
+      "encrypted_password": "eb31392ae3d581db0bdd9a538ec02a49",
+      "referral_code": "BOCYK",
+      "inviter_referral_code": "Oldaf",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:36:25.500Z"
     }
   ],
   "withdrawals": [
