@@ -37443,7 +37443,7 @@
       "inviter_referral_code": "OLHMH",
       "inviter_username": "Olatimi",
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37451,7 +37451,9 @@
       "joinDate": "2025-02-21T22:10:17.396Z",
       "completedMissions": [
         2,
-        1
+        1,
+        5,
+        5
       ],
       "lastSpin": null
     },
