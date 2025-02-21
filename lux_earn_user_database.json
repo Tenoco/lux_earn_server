@@ -36114,13 +36114,20 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:20:41.540Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        11,
+        10,
+        9,
+        8,
+        7
+      ],
       "lastSpin": null
     },
     {
@@ -36451,7 +36458,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:30:40.842Z"
+      "joinDate": "2025-02-21T15:30:40.842Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
