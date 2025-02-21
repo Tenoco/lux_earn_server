@@ -3793,11 +3793,12 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [
-        "Ideh"
+        "Ideh",
+        "Donpor"
       ],
       "balance": 70,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:36:27.148Z",
@@ -8955,6 +8956,21 @@
         3
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Donpor",
+      "email": "jumokeadewuyi623@gmail.com",
+      "encrypted_password": "81c8478a1be9488b4b62b09d7183408f",
+      "referral_code": "DONTY",
+      "inviter_referral_code": "OL6TF",
+      "inviter_username": "OLIVIALOVE ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:06:53.645Z"
     }
   ],
   "withdrawals": [
