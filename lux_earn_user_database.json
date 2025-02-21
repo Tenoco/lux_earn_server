@@ -15044,11 +15044,12 @@
         "Tommy",
         "Mustyzai",
         "folorunshosg",
-        "TeeVibez"
+        "TeeVibez",
+        "Christian1m0"
       ],
       "balance": 251,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -24473,7 +24474,8 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "bryanny",
@@ -24508,6 +24510,21 @@
       "joinDate": "2025-02-21T10:04:55.423Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Christian1m0",
+      "email": "christian1m0321@gmail.com",
+      "encrypted_password": "35da53a275b9a043a6a86b87d5430db6",
+      "referral_code": "CHTV8",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:05:24.696Z"
     }
   ],
   "withdrawals": [
