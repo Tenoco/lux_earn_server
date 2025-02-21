@@ -15509,11 +15509,12 @@
         "Musa sani",
         "Marcusein ",
         "Ajeboter",
-        "SherwinKura"
+        "SherwinKura",
+        "Kausar"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37250,7 +37251,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:03:15.580Z"
+      "joinDate": "2025-02-21T17:03:15.580Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kausar",
+      "email": "kausar@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "KA6LM",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:03:19.683Z"
     }
   ],
   "withdrawals": [
