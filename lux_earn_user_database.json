@@ -3023,11 +3023,12 @@
         "Rokkygold",
         "Ziviabby",
         "Moses money ",
-        "Daniels"
+        "Daniels",
+        "Lyan Mubby "
       ],
       "balance": 337,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -34260,7 +34261,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:27:22.306Z"
+      "joinDate": "2025-02-21T14:27:22.306Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lyan Mubby ",
+      "email": "afolayanolawale418@gmail.com",
+      "encrypted_password": "d5f0673d9f2bd6f007d94c98e4488e22",
+      "referral_code": "LYMNG",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:27:31.447Z"
     }
   ],
   "withdrawals": [
