@@ -99,11 +99,12 @@
         "Goodnewseff",
         "DAHIRU",
         "Giftedbest",
-        "LAGACONCEPT "
+        "LAGACONCEPT ",
+        "Cutevilex"
       ],
       "balance": 50,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -5730,6 +5731,21 @@
       "joinDate": "2025-02-21T00:13:23.930Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cutevilex",
+      "email": "cutevilex@gmail.com",
+      "encrypted_password": "2ccd89b67324dd915dd2d286f613332e",
+      "referral_code": "CU3G1",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:13:55.517Z"
     }
   ],
   "withdrawals": [
