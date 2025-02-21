@@ -34801,13 +34801,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:16.048Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -34858,14 +34860,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:39.050Z",
-      "lastSpin": "2025-02-21T14:43:18.243Z",
       "completedMissions": [
         1,
         2,
         4,
         3,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:43:18.243Z"
     },
     {
       "username": "Oladaz",
