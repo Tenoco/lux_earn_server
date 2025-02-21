@@ -14009,7 +14009,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:25:02.670Z"
+      "joinDate": "2025-02-21T06:25:02.670Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "John5210",
+      "email": "botdevexpert@gmail.com",
+      "encrypted_password": "a3f93bed8faa32ac977f77b4132c38f9",
+      "referral_code": "JOX2B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:25:18.817Z"
     }
   ],
   "withdrawals": [
