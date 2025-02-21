@@ -25390,11 +25390,12 @@
         "Mally",
         "Debi",
         "Zaddy",
-        "Maga"
+        "Maga",
+        "Koy"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -29325,7 +29326,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Princesspromise",
@@ -29446,6 +29448,21 @@
       "joinDate": "2025-02-21T12:08:00.103Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Koy",
+      "email": "dorabed733@dropfam.com",
+      "encrypted_password": "587682f521365a88875bd356c25f9ef5",
+      "referral_code": "KOE5O",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:08:16.738Z"
     }
   ],
   "withdrawals": [
