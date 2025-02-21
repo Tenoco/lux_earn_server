@@ -25402,11 +25402,12 @@
         "Aisha",
         "Oluwajoy",
         "Dammy ",
-        "Hahi"
+        "Hahi",
+        "Lewis"
       ],
       "balance": 420,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -32154,6 +32155,21 @@
       "joinDate": "2025-02-21T13:31:04.329Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lewis",
+      "email": "Beckylewis112@gmail.com",
+      "encrypted_password": "fa348efcd3bb1a1fc6ba5c2c912cf402",
+      "referral_code": "LEGJN",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:32:07.496Z"
     }
   ],
   "withdrawals": [
