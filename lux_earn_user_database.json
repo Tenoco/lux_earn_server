@@ -15644,11 +15644,12 @@
         "GILBERTOSANTA",
         "Ojiabor",
         "Dominic001",
-        "mikeystar009"
+        "mikeystar009",
+        "Nmahope"
       ],
       "balance": 380,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -31143,6 +31144,21 @@
       "joinDate": "2025-02-21T12:57:06.366Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nmahope",
+      "email": "onyechidimma1@gmail.com",
+      "encrypted_password": "03f28caceabb184879aec440824baa4e",
+      "referral_code": "NM3ZO",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:57:55.957Z"
     }
   ],
   "withdrawals": [
