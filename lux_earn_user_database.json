@@ -10940,14 +10940,15 @@
       "inviter_referral_code": "HA2YX",
       "inviter_username": "Haywhy",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:02:22.899Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Graceboy",
@@ -10979,7 +10980,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:03:04.656Z"
+      "joinDate": "2025-02-21T05:03:04.656Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
