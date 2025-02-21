@@ -13760,10 +13760,12 @@
       "referral_code": "SU4B5",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Aibeeyusufk"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -14482,6 +14484,21 @@
       "joinDate": "2025-02-21T06:33:46.471Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aibeeyusufk",
+      "email": "mixterdoings001@gmail.com",
+      "encrypted_password": "73f7a7f1af4c71dfb565ca7728e02029",
+      "referral_code": "AI5X7",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:34:00.337Z"
     }
   ],
   "withdrawals": [
