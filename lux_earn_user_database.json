@@ -22907,11 +22907,12 @@
         "favour01234",
         "godsave",
         "zoeswanky ",
-        "Donprince141"
+        "Donprince141",
+        "Favor"
       ],
       "balance": 190,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -35729,6 +35730,21 @@
       "joinDate": "2025-02-21T15:09:58.042Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favor",
+      "email": "Favioriill801@Gmail.com",
+      "encrypted_password": "50a999beda2efcbc3cf1e850447336c4",
+      "referral_code": "FA72O",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:10:50.879Z"
     }
   ],
   "withdrawals": [
