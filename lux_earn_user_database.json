@@ -22712,10 +22712,12 @@
       "referral_code": "ORXQ6",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "nariamatt60"
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -25956,6 +25958,21 @@
       "joinDate": "2025-02-21T10:37:17.670Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "nariamatt60",
+      "email": "temitayomatthew1@gmail.com",
+      "encrypted_password": "23f059d94074ed37769d60c2c6565fc2",
+      "referral_code": "NACB9",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:37:34.018Z"
     }
   ],
   "withdrawals": [
