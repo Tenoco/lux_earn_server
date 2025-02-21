@@ -37592,11 +37592,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Lamide"
+        "Lamide",
+        "Ayomi"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -37867,6 +37868,21 @@
       "joinDate": "2025-02-21T20:28:53.158Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomi",
+      "email": "ayomidey22@gmail.com",
+      "encrypted_password": "2eea46d1753874c39a375513a125f2f4",
+      "referral_code": "AYCWA",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:29:17.908Z"
     }
   ],
   "withdrawals": [
