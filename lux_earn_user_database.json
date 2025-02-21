@@ -15143,11 +15143,12 @@
         "Christian1m0",
         "Sugar96",
         "Isreal ",
-        "Monday11"
+        "Monday11",
+        "Syren "
       ],
       "balance": 251,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -32884,6 +32885,21 @@
       "joinDate": "2025-02-21T13:50:59.991Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Syren ",
+      "email": "chinedunewton31@gmail.com",
+      "encrypted_password": "bd7415f75e3ef44390ea7334eae49827",
+      "referral_code": "SYG01",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:51:34.957Z"
     }
   ],
   "withdrawals": [
