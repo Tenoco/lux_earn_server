@@ -27784,7 +27784,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:17:03.593Z",
-      "lastSpin": "2025-02-21T11:18:26.314Z",
       "completedMissions": [
         1,
         2,
@@ -27792,7 +27791,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T11:18:26.314Z"
     },
     {
       "username": "Clems",
@@ -28084,6 +28084,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Promkidzoe ",
+      "email": "promisenwugbo@gmail.com",
+      "encrypted_password": "618e47fc2021da04c4f470317bfa2c52",
+      "referral_code": "PR119",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:29:42.447Z"
     }
   ],
   "withdrawals": [
