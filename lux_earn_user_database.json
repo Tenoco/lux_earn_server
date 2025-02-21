@@ -18017,14 +18017,18 @@
       "inviter_referral_code": "Cowoa",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:23.181Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-21T07:35:19.789Z"
     },
     {
       "username": "Vjkbn",
@@ -18762,7 +18766,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:40:48.494Z"
+      "joinDate": "2025-02-21T07:40:48.494Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
