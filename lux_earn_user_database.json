@@ -12998,12 +12998,11 @@
       "inviter_username": "Babal112",
       "invited_users": [
         "Feranmi ",
-        "Mazichief ",
-        "Gaius velji "
+        "Mazichief "
       ],
-      "balance": 90,
-      "refers": 3,
-      "referralBalance": 300,
+      "balance": 120,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -13011,7 +13010,8 @@
         1,
         2,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": null
     },
@@ -14167,7 +14167,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Rose55",
