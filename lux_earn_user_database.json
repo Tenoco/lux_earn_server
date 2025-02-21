@@ -11114,10 +11114,12 @@
       "referral_code": "LI4O7",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Daniel "
+      ],
       "balance": 155,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:20.435Z",
@@ -11625,6 +11627,21 @@
       "joinDate": "2025-02-21T05:22:21.994Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daniel ",
+      "email": "Dannycash526@gmail.com",
+      "encrypted_password": "a846e92c13b31745f3c885ac965842f8",
+      "referral_code": "DAQN4",
+      "inviter_referral_code": "LI4O7",
+      "inviter_username": "Livvey",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:44.509Z"
     }
   ],
   "withdrawals": [
