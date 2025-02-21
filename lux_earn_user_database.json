@@ -18875,10 +18875,12 @@
       "referral_code": "JEE49",
       "inviter_referral_code": "@BD8K",
       "inviter_username": "@bubble",
-      "invited_users": [],
+      "invited_users": [
+        "mrlee"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -19059,11 +19061,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:46:47.635Z",
-      "lastSpin": "2025-02-21T07:47:11.253Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:47:11.253Z"
     },
     {
       "username": "Tolase ",
@@ -19149,6 +19151,21 @@
       "joinDate": "2025-02-21T07:48:50.072Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mrlee",
+      "email": "Avacharlotte12233@gmail.com",
+      "encrypted_password": "cd14c323902024e72c850aa828d634a7",
+      "referral_code": "MRE0S",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:49:43.409Z"
     }
   ],
   "withdrawals": [
