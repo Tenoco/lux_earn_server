@@ -2083,11 +2083,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "Hannah27 ",
-        "Wummighty "
+        "Wummighty ",
+        "Wummighty01 "
       ],
       "balance": 305,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:49.927Z",
@@ -36983,7 +36984,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Smanazceo",
@@ -37143,6 +37145,21 @@
       "joinDate": "2025-02-21T15:52:06.503Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wummighty01 ",
+      "email": "rifuhatakanni@gmail.com",
+      "encrypted_password": "2ad14306bfba550a2f9b39963b684734",
+      "referral_code": "WUR66",
+      "inviter_referral_code": "AD5OT",
+      "inviter_username": "Adedoyin1999",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:52:34.339Z"
     }
   ],
   "withdrawals": [
