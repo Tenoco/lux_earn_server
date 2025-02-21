@@ -14815,11 +14815,12 @@
       "inviter_username": null,
       "invited_users": [
         "Akin",
-        "Quadri "
+        "Quadri ",
+        "Batere"
       ],
       "balance": 300,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -25558,6 +25559,21 @@
       "joinDate": "2025-02-21T10:29:43.032Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Batere",
+      "email": "baterpaul@gmail.com",
+      "encrypted_password": "53057a10ca1a8c83597a2907df1d100a",
+      "referral_code": "BA3Q1",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:29:58.822Z"
     }
   ],
   "withdrawals": [
