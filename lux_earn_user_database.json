@@ -37868,7 +37868,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Gooes",
@@ -37948,14 +37949,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:04:09.063Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        5
+      ]
     }
   ],
   "withdrawals": [
