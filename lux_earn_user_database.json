@@ -26612,7 +26612,7 @@
       "invited_users": [
         "Smith "
       ],
-      "balance": 280,
+      "balance": 290,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -26630,7 +26630,7 @@
         8,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:17:52.739Z"
     },
     {
       "username": "Adekunlejh",
@@ -27761,7 +27761,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:17:42.417Z"
+      "joinDate": "2025-02-21T11:17:42.417Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
