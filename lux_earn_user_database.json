@@ -13642,7 +13642,7 @@
         "Esther56 ",
         "WizzyMikeAel "
       ],
-      "balance": 20,
+      "balance": 220,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -13650,9 +13650,16 @@
       "joinDate": "2025-02-21T06:12:21.528Z",
       "completedMissions": [
         1,
-        2
+        2,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:03:43.269Z"
     },
     {
       "username": "Olakunlejnr",
@@ -16362,7 +16369,8 @@
       "joinDate": "2025-02-21T07:01:28.554Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Musa sani",
