@@ -5349,11 +5349,12 @@
         "domdresin",
         "Ismail",
         "Camela",
-        "Wantala"
+        "Wantala",
+        "Fantana"
       ],
       "balance": 260,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5964,7 +5965,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:17:57.659Z"
+      "joinDate": "2025-02-21T00:17:57.659Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fantana",
+      "email": "fantanasin@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "FAOAC",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:18:09.349Z"
     }
   ],
   "withdrawals": [
