@@ -36926,7 +36926,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:58:14.997Z"
+      "joinDate": "2025-02-21T15:58:14.997Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dora",
+      "email": "aniobimiracle64@gmail.com",
+      "encrypted_password": "dde98f2d52bb0bb4c6b091c7eac73146",
+      "referral_code": "DODM6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:58:26.491Z"
     }
   ],
   "withdrawals": [
