@@ -26902,14 +26902,16 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:13.572Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T10:55:16.068Z"
     },
     {
       "username": "Morenikeji22",
