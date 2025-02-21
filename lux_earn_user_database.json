@@ -18346,10 +18346,12 @@
       "referral_code": "DA2CY",
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
-      "invited_users": [],
+      "invited_users": [
+        "Frenx"
+      ],
       "balance": 240,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:29:34.174Z",
@@ -19231,7 +19233,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:49:48.393Z",
-      "lastSpin": "2025-02-21T07:51:13.992Z",
       "completedMissions": [
         1,
         2,
@@ -19239,7 +19240,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:51:13.992Z"
     },
     {
       "username": "Kashey",
@@ -19471,6 +19473,21 @@
       "joinDate": "2025-02-21T07:54:31.204Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Frenx",
+      "email": "icent450@gmail.com",
+      "encrypted_password": "cbaa909b28c2b4d45d9bf6c76c2dc259",
+      "referral_code": "FRZDM",
+      "inviter_referral_code": "DA2CY",
+      "inviter_username": "Davolee001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:55:22.246Z"
     }
   ],
   "withdrawals": [
