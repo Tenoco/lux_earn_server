@@ -29700,7 +29700,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 680,
+      "balance": 950,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29728,7 +29728,16 @@
         5,
         5,
         5,
-        5
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
       ],
       "lastSpin": "2025-02-21T12:17:12.045Z"
     },
@@ -29915,7 +29924,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:18:51.943Z"
+      "joinDate": "2025-02-21T12:18:51.943Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
