@@ -23952,14 +23952,17 @@
       "inviter_referral_code": "Jox2B",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:48:27.144Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3,
+        3
       ],
       "lastSpin": null
     },
@@ -24129,7 +24132,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:55:16.361Z"
+      "joinDate": "2025-02-21T09:55:16.361Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
