@@ -24779,11 +24779,12 @@
       "inviter_username": null,
       "invited_users": [
         "Joshua",
-        "Ayomide23"
+        "Ayomide23",
+        "Tomison23"
       ],
       "balance": 270,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -26829,6 +26830,21 @@
       "joinDate": "2025-02-21T10:52:27.852Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tomison23",
+      "email": "olatunjiiyaboomobolaji@gmail.com",
+      "encrypted_password": "0cb2d49813f3b492b1ddd240c9f699aa",
+      "referral_code": "TOPEH",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:53:08.876Z"
     }
   ],
   "withdrawals": [
