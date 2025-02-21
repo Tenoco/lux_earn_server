@@ -18781,10 +18781,12 @@
       "referral_code": "DA1ZN",
       "inviter_referral_code": "ltsekl",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Prosperity"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:39:35.343Z",
@@ -19210,10 +19212,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:49:48.393Z",
-      "lastSpin": "2025-02-21T07:51:13.992Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:51:13.992Z"
     },
     {
       "username": "Kashey",
@@ -19299,6 +19301,21 @@
       "joinDate": "2025-02-21T07:51:59.602Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Prosperity",
+      "email": "olarewajuprosperity@gmail.com",
+      "encrypted_password": "33d1cf60896213ebde3b34c7dc8b6b84",
+      "referral_code": "PRZDR",
+      "inviter_referral_code": "DA1ZN",
+      "inviter_username": "Darahnny",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:52:28.382Z"
     }
   ],
   "withdrawals": [
