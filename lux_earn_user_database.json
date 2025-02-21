@@ -4366,7 +4366,7 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 240,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4378,7 +4378,8 @@
         3,
         8,
         7,
-        6
+        6,
+        4
       ],
       "lastSpin": null
     },
@@ -5932,7 +5933,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:15:23.648Z"
+      "joinDate": "2025-02-21T00:15:23.648Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
