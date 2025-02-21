@@ -37147,7 +37147,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T21:44:57.137Z"
+      "joinDate": "2025-02-21T21:44:57.137Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amosjacob",
+      "email": "jacobamos292@gmail.com",
+      "encrypted_password": "7dd8f86d86ec3f5259cf393d9b4481ab",
+      "referral_code": "AM4FN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:45:25.450Z"
     }
   ],
   "withdrawals": [
