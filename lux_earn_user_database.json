@@ -37169,14 +37169,13 @@
       "inviter_referral_code": "COWOa",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:57:05.844Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T16:57:52.432Z"
     },
     {
       "username": "Anjolaoluwa",
@@ -37208,7 +37207,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:57:39.781Z"
+      "joinDate": "2025-02-21T16:57:39.781Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
