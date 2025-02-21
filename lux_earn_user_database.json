@@ -15485,11 +15485,12 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [
-        "Kelvin"
+        "Kelvin",
+        "@bubble"
       ],
       "balance": 250,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
@@ -16414,7 +16415,8 @@
         5,
         6,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Musa sani",
@@ -17014,6 +17016,21 @@
       "joinDate": "2025-02-21T07:10:52.935Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "@bubble",
+      "email": "paschalnweke666@gmail.com",
+      "encrypted_password": "9401e7a5f45d32655e71e97c5f5553d8",
+      "referral_code": "@BD8K",
+      "inviter_referral_code": "CHVDI",
+      "inviter_username": "Chizzy001xyz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:11:25.656Z"
     }
   ],
   "withdrawals": [
