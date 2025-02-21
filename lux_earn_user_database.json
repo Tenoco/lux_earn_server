@@ -121,11 +121,12 @@
         "Merrysmart",
         "Wealth ",
         "Greziky ",
-        "Mydey"
+        "Mydey",
+        "Joyitunu"
       ],
       "balance": 50,
-      "refers": 34,
-      "referralBalance": 3400,
+      "refers": 35,
+      "referralBalance": 3500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -19924,6 +19925,21 @@
       "joinDate": "2025-02-21T08:03:23.790Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joyitunu",
+      "email": "akinremijoy5@gmail.com",
+      "encrypted_password": "e97661e3bca6c8f3dbe3c31906510f76",
+      "referral_code": "JOPUJ",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:04:25.856Z"
     }
   ],
   "withdrawals": [
