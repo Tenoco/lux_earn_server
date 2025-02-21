@@ -2826,11 +2826,12 @@
       "inviter_username": null,
       "invited_users": [
         "OLIVIALOVE ",
-        "hope"
+        "hope",
+        "Habaku"
       ],
       "balance": 295,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -10800,6 +10801,21 @@
       "joinDate": "2025-02-21T04:46:51.087Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Habaku",
+      "email": "danladihabaku2@gmail.com",
+      "encrypted_password": "fe99626cef118721f5a92d530a40191b",
+      "referral_code": "HA97F",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:48:30.345Z"
     }
   ],
   "withdrawals": [
