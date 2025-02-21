@@ -11207,7 +11207,8 @@
       "joinDate": "2025-02-21T05:11:31.529Z",
       "completedMissions": [
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Estheriyanuoluwa",
@@ -11310,6 +11311,21 @@
       "joinDate": "2025-02-21T05:13:00.527Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SMART KING ",
+      "email": "giwasamuel321@gmail.com",
+      "encrypted_password": "f4e1e572a3c4b88bbefe6fdc1d4615f6",
+      "referral_code": "SMCZP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:13:34.047Z"
     }
   ],
   "withdrawals": [
