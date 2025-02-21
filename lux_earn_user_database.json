@@ -1126,11 +1126,12 @@
         "Hannah",
         "Oladunni",
         "Andrew ",
-        "Joyce "
+        "Joyce ",
+        "Funmilayo24"
       ],
       "balance": 215,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -21067,7 +21068,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Smartdara",
@@ -21423,6 +21425,21 @@
       "joinDate": "2025-02-21T08:41:16.920Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Funmilayo24",
+      "email": "oluwafunmilayo202@gmail.com",
+      "encrypted_password": "bd57665b64999954273ba21482b8a1be",
+      "referral_code": "FU2TO",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:42:11.566Z"
     }
   ],
   "withdrawals": [
