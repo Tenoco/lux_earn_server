@@ -14971,11 +14971,12 @@
         "Pearl",
         "Tommy",
         "Mustyzai",
-        "folorunshosg"
+        "folorunshosg",
+        "TeeVibez"
       ],
       "balance": 191,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -22747,6 +22748,21 @@
       "joinDate": "2025-02-21T09:19:57.217Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "TeeVibez",
+      "email": "raheemawwal72@gmail.com",
+      "encrypted_password": "d2c76b6efad92575aa8818a3f5f144a1",
+      "referral_code": "TEY2E",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:20:32.881Z"
     }
   ],
   "withdrawals": [
