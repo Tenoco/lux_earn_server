@@ -4714,11 +4714,12 @@
         "Zick",
         "Lucky",
         "Miles",
-        "Vick"
+        "Vick",
+        "Willy"
       ],
       "balance": 25,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7952,7 +7953,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:04:25.238Z"
+      "joinDate": "2025-02-21T01:04:25.238Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Willy",
+      "email": "willy007@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "WIE4H",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:04:50.763Z"
     }
   ],
   "withdrawals": [
