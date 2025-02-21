@@ -38430,7 +38430,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:58:31.957Z"
+      "joinDate": "2025-02-21T20:58:31.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Teevibez",
+      "email": "timothyoguzi02@gmail.com",
+      "encrypted_password": "8f8ce9d76233cda014ccd3c20f646686",
+      "referral_code": "TEKV2",
+      "inviter_referral_code": "REKOU ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:58:40.333Z"
     }
   ],
   "withdrawals": [
