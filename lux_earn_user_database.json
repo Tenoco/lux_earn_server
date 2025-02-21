@@ -14155,7 +14155,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:27:12.397Z"
+      "joinDate": "2025-02-21T06:27:12.397Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibkshek",
+      "email": "shekoniibukun@gmail.com",
+      "encrypted_password": "e8105ae258585148dc8c9cf8fd48d18b",
+      "referral_code": "IBZOF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:28:04.686Z"
     }
   ],
   "withdrawals": [
