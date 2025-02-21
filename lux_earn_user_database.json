@@ -22995,14 +22995,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:56.313Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:25:35.236Z"
     },
     {
       "username": "Set26",
@@ -23034,7 +23033,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:25:27.707Z"
+      "joinDate": "2025-02-21T09:25:27.707Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
