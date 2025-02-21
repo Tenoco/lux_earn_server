@@ -37816,11 +37816,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Dikao"
+        "Dikao",
+        "dolapo0206h"
       ],
       "balance": 350,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:56:58.126Z",
@@ -38359,6 +38360,21 @@
       "joinDate": "2025-02-21T18:26:08.408Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "dolapo0206h",
+      "email": "okanlawonoreoluwa400@gmail.com",
+      "encrypted_password": "98564816a2c5d05c32d0ab39e0a375ca",
+      "referral_code": "DO6MK",
+      "inviter_referral_code": "DO2Z4",
+      "inviter_username": "dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:34:14.831Z"
     }
   ],
   "withdrawals": [
