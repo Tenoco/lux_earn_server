@@ -25384,11 +25384,12 @@
         "Brag",
         "Mally",
         "Debi",
-        "Zaddy"
+        "Zaddy",
+        "Maga"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -29306,6 +29307,21 @@
       "joinDate": "2025-02-21T12:04:01.875Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Maga",
+      "email": "xolahij882@yalcu.com",
+      "encrypted_password": "e3b8982d42360794d22def1ec5f708f2",
+      "referral_code": "MAPLS",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:04:31.552Z"
     }
   ],
   "withdrawals": [
