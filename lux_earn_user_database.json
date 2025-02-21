@@ -18906,13 +18906,17 @@
       "invited_users": [
         "mrlee"
       ],
-      "balance": 0,
+      "balance": 90,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -19420,7 +19424,8 @@
       "joinDate": "2025-02-21T07:53:27.982Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abdulhameed ",
