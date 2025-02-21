@@ -20731,11 +20731,12 @@
         "Gkololo",
         "Luckybad",
         "Darakitbot ",
-        "Danielbadoa"
+        "Danielbadoa",
+        "Gokibsvbs"
       ],
       "balance": 250,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -28354,7 +28355,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:39:43.950Z",
-      "lastSpin": "2025-02-21T11:40:34.475Z",
       "completedMissions": [
         1,
         2,
@@ -28364,7 +28364,8 @@
         9,
         8,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T11:40:34.475Z"
     },
     {
       "username": "Amobi",
@@ -28579,6 +28580,21 @@
       "joinDate": "2025-02-21T11:45:46.727Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gokibsvbs",
+      "email": "bohjosj@gmail.com",
+      "encrypted_password": "fd4c9b799e82a14b7d0582aa874dcc26",
+      "referral_code": "GOXC7",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:46:03.387Z"
     }
   ],
   "withdrawals": [
