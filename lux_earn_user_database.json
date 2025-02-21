@@ -37899,10 +37899,12 @@
       "referral_code": "KHRAT",
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
-      "invited_users": [],
+      "invited_users": [
+        "Fajja"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:18:57.122Z",
@@ -38121,6 +38123,21 @@
       "joinDate": "2025-02-21T16:27:58.816Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fajja",
+      "email": "jsjsuhshsuhs@gmail.com",
+      "encrypted_password": "e979b7218f6783598a76fda8159db64b",
+      "referral_code": "FATD3",
+      "inviter_referral_code": "KHRAT",
+      "inviter_username": "Khaleel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:29:10.770Z"
     }
   ],
   "withdrawals": [
