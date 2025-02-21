@@ -24360,16 +24360,18 @@
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
       "invited_users": [],
-      "balance": 30,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        4,
+        4,
+        2
+      ]
     },
     {
       "username": "Animasaun ",
@@ -24478,7 +24480,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "bryanny",
