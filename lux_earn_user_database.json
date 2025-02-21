@@ -15623,7 +15623,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15636,9 +15636,11 @@
         3,
         3,
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        5,
+        5,
+        6
+      ]
     },
     {
       "username": "Vicky",
@@ -15840,7 +15842,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:55:17.108Z"
+      "joinDate": "2025-02-21T06:55:17.108Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
