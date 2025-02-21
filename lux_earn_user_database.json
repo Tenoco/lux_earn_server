@@ -36204,14 +36204,18 @@
       "inviter_referral_code": "ME3ZJ",
       "inviter_username": "Merrysmart",
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:22:30.733Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Illuminax ",
