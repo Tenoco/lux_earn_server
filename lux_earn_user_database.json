@@ -18405,11 +18405,12 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [
-        "Frenx"
+        "Frenx",
+        "Favvvy"
       ],
       "balance": 240,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:29:34.174Z",
@@ -19952,6 +19953,21 @@
       "joinDate": "2025-02-21T08:04:25.856Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favvvy",
+      "email": "oreoluwaalabi05@gmail.com",
+      "encrypted_password": "8cbe8aca150525e34fcffb338cbe4e73",
+      "referral_code": "FAQ6W",
+      "inviter_referral_code": "DA2CY",
+      "inviter_username": "Davolee001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:05:54.199Z"
     }
   ],
   "withdrawals": [
