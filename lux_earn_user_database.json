@@ -14671,11 +14671,12 @@
       "inviter_username": "daniee250",
       "invited_users": [
         "Folake",
-        "Hannahbella"
+        "Hannahbella",
+        "Vicky"
       ],
       "balance": 10,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -15610,6 +15611,21 @@
       "joinDate": "2025-02-21T06:51:15.611Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vicky",
+      "email": "vickyglod@gmail.com",
+      "encrypted_password": "4ac4372ec84d6e582c85dfdcf67945eb",
+      "referral_code": "VICGI",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:51:46.727Z"
     }
   ],
   "withdrawals": [
