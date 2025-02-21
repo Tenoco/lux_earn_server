@@ -32899,7 +32899,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:51:34.957Z"
+      "joinDate": "2025-02-21T13:51:34.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adablessing",
+      "email": "anagablessing336@gmail.com",
+      "encrypted_password": "7dfc93092a5ae6c77c92908c1527f018",
+      "referral_code": "AD46Q",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:51:46.285Z"
     }
   ],
   "withdrawals": [
