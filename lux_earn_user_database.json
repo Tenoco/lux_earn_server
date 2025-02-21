@@ -15091,11 +15091,12 @@
         "folorunshosg",
         "TeeVibez",
         "Christian1m0",
-        "Sugar96"
+        "Sugar96",
+        "Isreal "
       ],
       "balance": 251,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -26917,7 +26918,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:54:21.497Z"
+      "joinDate": "2025-02-21T10:54:21.497Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Isreal ",
+      "email": "isrealhassan167@gmail.com",
+      "encrypted_password": "84e2c3ae9f78061d91f874c8f5fc8e08",
+      "referral_code": "IS2L0",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:54:41.632Z"
     }
   ],
   "withdrawals": [
