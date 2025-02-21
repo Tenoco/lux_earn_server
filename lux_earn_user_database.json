@@ -11552,14 +11552,15 @@
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:20:52.035Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Destiny56",
@@ -11659,7 +11660,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:22:53.995Z"
+      "joinDate": "2025-02-21T05:22:53.995Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
