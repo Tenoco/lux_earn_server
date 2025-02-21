@@ -37649,16 +37649,16 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:45:54.528Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Blessing214",
@@ -37673,7 +37673,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:47:53.063Z"
+      "joinDate": "2025-02-21T17:47:53.063Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
