@@ -26073,11 +26073,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Bigboy "
+        "Bigboy ",
+        "Dera"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:36:43.784Z",
@@ -27999,6 +28000,21 @@
       "joinDate": "2025-02-21T11:23:01.296Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dera",
+      "email": "stephenchidera915@gmail.com",
+      "encrypted_password": "3e64bc3c47b457073477a4b6ddadfd21",
+      "referral_code": "DECQ0",
+      "inviter_referral_code": "MI44N",
+      "inviter_username": "Mimi4success",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:24:32.033Z"
     }
   ],
   "withdrawals": [
