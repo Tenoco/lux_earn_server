@@ -1756,11 +1756,12 @@
         "Goldenstar ",
         "Olazzy01",
         "Shinningglory",
-        "coddy boy"
+        "coddy boy",
+        "Clintonosas"
       ],
       "balance": 275,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10542,7 +10543,8 @@
       "joinDate": "2025-02-21T04:18:53.787Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsley",
@@ -10609,6 +10611,21 @@
       "joinDate": "2025-02-21T04:20:43.851Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Clintonosas",
+      "email": "clintonehios319@gmail.com",
+      "encrypted_password": "854b8468c4369d498dd613bdeade8079",
+      "referral_code": "CL1LG",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:21:31.085Z"
     }
   ],
   "withdrawals": [
