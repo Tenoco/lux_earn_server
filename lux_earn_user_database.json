@@ -13630,11 +13630,12 @@
         "Jamestown ",
         "AyubaAdam",
         "Newworlde",
-        "Jamesq"
+        "Jamesq",
+        "Habibu"
       ],
       "balance": 160,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -33892,7 +33893,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:19:34.321Z"
+      "joinDate": "2025-02-21T14:19:34.321Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Habibu",
+      "email": "habibullahi@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "HAEAE",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:20:01.110Z"
     }
   ],
   "withdrawals": [
