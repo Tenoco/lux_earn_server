@@ -5465,11 +5465,12 @@
       "inviter_username": null,
       "invited_users": [
         "Cannel",
-        "domdresin"
+        "domdresin",
+        "Ismail"
       ],
       "balance": 260,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5899,6 +5900,21 @@
       "joinDate": "2025-02-21T00:14:25.089Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ismail",
+      "email": "ismailjohn@gmail.com",
+      "encrypted_password": "5ef533ce5f054145c1d5a880ae07e090",
+      "referral_code": "ISX4L",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:15:19.178Z"
     }
   ],
   "withdrawals": [
