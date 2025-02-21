@@ -38397,12 +38397,13 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:02:49.325Z"
+      "joinDate": "2025-02-21T23:02:49.325Z",
+      "lastSpin": "2025-02-21T23:03:18.957Z"
     }
   ],
   "withdrawals": [
