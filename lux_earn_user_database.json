@@ -7323,14 +7323,15 @@
       "inviter_referral_code": "SA9B4",
       "inviter_username": "Samuel1 ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:43:39.096Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
