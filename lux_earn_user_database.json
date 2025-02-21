@@ -30657,17 +30657,22 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 80,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:34:44.959Z",
+      "lastSpin": "2025-02-21T12:36:04.803Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": "2025-02-21T12:36:04.803Z"
+        2,
+        7,
+        6,
+        8,
+        4,
+        3
+      ]
     },
     {
       "username": "Moses money ",
@@ -30784,7 +30789,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:38:56.165Z"
+      "joinDate": "2025-02-21T12:38:56.165Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
