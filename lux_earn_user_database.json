@@ -25597,7 +25597,7 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [],
-      "balance": 200,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25609,7 +25609,9 @@
         2,
         3,
         4,
-        4
+        4,
+        5,
+        9
       ],
       "lastSpin": "2025-02-21T10:32:34.976Z"
     },
@@ -25694,7 +25696,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:33:05.665Z"
+      "joinDate": "2025-02-21T10:33:05.665Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
