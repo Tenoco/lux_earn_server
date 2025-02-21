@@ -34,7 +34,7 @@
         "Munachi",
         "Drone"
       ],
-      "balance": 4503,
+      "balance": 3503,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -37180,6 +37180,17 @@
       "amount": 1000,
       "totalBalance": 5503,
       "timestamp": "2025-02-21T16:55:07.819Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "Zenith Bank",
+      "amount": 1000,
+      "totalBalance": 3503,
+      "timestamp": "2025-02-21T16:55:27.458Z",
       "status": "pending"
     }
   ],
