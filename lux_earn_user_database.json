@@ -1106,11 +1106,12 @@
       "inviter_username": null,
       "invited_users": [
         "Onug7 ",
-        "Bolachris"
+        "Bolachris",
+        "Kceemoni "
       ],
       "balance": 105,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:09:04.523Z",
@@ -36956,7 +36957,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T21:14:16.922Z"
+      "joinDate": "2025-02-21T21:14:16.922Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kceemoni ",
+      "email": "destinykelechidavid@gamil.com",
+      "encrypted_password": "ac3c6f0e0deda524ae2e24f19f977834",
+      "referral_code": "KC7EC",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": "Max",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:15:34.101Z"
     }
   ],
   "withdrawals": [
