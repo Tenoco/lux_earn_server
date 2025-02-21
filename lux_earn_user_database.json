@@ -33427,10 +33427,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:07:59.490Z",
-      "lastSpin": "2025-02-21T14:08:59.887Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:08:59.887Z"
     },
     {
       "username": "Dghxs",
@@ -33584,6 +33584,21 @@
       "joinDate": "2025-02-21T14:11:57.070Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ambitious",
+      "email": "rachealj035@gmail.com",
+      "encrypted_password": "5d276b449ebd2f80c2face47eb60f22c",
+      "referral_code": "AMAHG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:12:40.224Z"
     }
   ],
   "withdrawals": [
