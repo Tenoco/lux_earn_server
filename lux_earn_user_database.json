@@ -12322,6 +12322,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:43:20.800Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T05:49:42.267Z"
     },
     {
@@ -12459,6 +12460,21 @@
       "joinDate": "2025-02-21T05:49:31.585Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Manuzzy ",
+      "email": "suleimantabo@gmail.com",
+      "encrypted_password": "e0ffe840a3f7c86e0f30bca44cb8b1e5",
+      "referral_code": "MAJO2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:49:52.682Z"
     }
   ],
   "withdrawals": [
