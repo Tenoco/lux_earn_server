@@ -100,11 +100,12 @@
         "DAHIRU",
         "Giftedbest",
         "LAGACONCEPT ",
-        "Cutevilex"
+        "Cutevilex",
+        "Limzy"
       ],
       "balance": 50,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -6987,7 +6988,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:37:40.642Z"
+      "joinDate": "2025-02-21T00:37:40.642Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Limzy",
+      "email": "mohammedliman0199@gmail.com",
+      "encrypted_password": "9e4eb47fe8cd1744d663030955973c70",
+      "referral_code": "LIQWZ",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:37:57.072Z"
     }
   ],
   "withdrawals": [
