@@ -1424,11 +1424,12 @@
         "Kulumfestus",
         "monday22",
         "Laskid037 ",
-        "Anjolaoluwa"
+        "Anjolaoluwa",
+        "Blessing214"
       ],
       "balance": 88,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -37616,12 +37617,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:42:48.557Z",
-      "lastSpin": "2025-02-21T17:44:02.728Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T17:44:02.728Z"
     },
     {
       "username": "Princy",
@@ -37658,6 +37659,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Blessing214",
+      "email": "adeolaonipede2020@gmail.com",
+      "encrypted_password": "71c1c4f59c3db079a4aa157f74091b8d",
+      "referral_code": "BLRAD",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:47:53.063Z"
     }
   ],
   "withdrawals": [
