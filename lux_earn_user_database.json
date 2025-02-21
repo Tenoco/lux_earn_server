@@ -38112,14 +38112,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:34:06.994Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T22:35:01.571Z"
     },
     {
       "username": "lusty",
@@ -38134,7 +38133,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:34:56.829Z"
+      "joinDate": "2025-02-21T22:34:56.829Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
