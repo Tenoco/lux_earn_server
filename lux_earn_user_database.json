@@ -20180,10 +20180,12 @@
       "referral_code": "VIHKY",
       "inviter_referral_code": "OFP5T",
       "inviter_username": "officialrollex",
-      "invited_users": [],
+      "invited_users": [
+        "Vicky oluwafemii"
+      ],
       "balance": 150,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:07:36.282Z",
@@ -20728,12 +20730,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
-      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     },
     {
       "username": "Michael",
@@ -20821,6 +20823,21 @@
       "joinDate": "2025-02-21T08:25:45.353Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T08:26:19.994Z"
+    },
+    {
+      "username": "Vicky oluwafemii",
+      "email": "Ogundanavictor@gmail.com",
+      "encrypted_password": "2af9b1ba42dc5eb01743e6b3759b6e4b",
+      "referral_code": "VIO3E",
+      "inviter_referral_code": "VIHKY",
+      "inviter_username": "Victor oluwafemi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:26:58.313Z"
     }
   ],
   "withdrawals": [
