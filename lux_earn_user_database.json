@@ -20730,13 +20730,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
-      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     },
     {
       "username": "Michael",
@@ -20782,14 +20782,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:24:50.969Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T08:25:16.094Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Oladunni",
