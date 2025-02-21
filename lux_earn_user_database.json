@@ -16274,13 +16274,17 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:00:36.358Z",
-      "completedMissions": [],
+      "completedMissions": [
+        8,
+        8,
+        9
+      ],
       "lastSpin": null
     },
     {
@@ -16698,7 +16702,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Folaky22",
