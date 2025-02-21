@@ -11927,7 +11927,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdom",
@@ -12031,7 +12032,7 @@
       "inviter_referral_code": "TA077",
       "inviter_username": "Taiwo star",
       "invited_users": [],
-      "balance": 50,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12524,6 +12525,16 @@
       "phoneNumber": "08128344136",
       "amount": 50,
       "timestamp": "2025-02-21T05:38:07.390Z",
+      "status": "pending"
+    },
+    {
+      "username": "Oyinkansola ",
+      "email": "lateefattijani2024@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "09023550495",
+      "amount": 50,
+      "timestamp": "2025-02-21T05:38:32.470Z",
       "status": "pending"
     }
   ]
