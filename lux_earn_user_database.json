@@ -37040,7 +37040,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:22:36.963Z"
+      "joinDate": "2025-02-21T19:22:36.963Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kaja",
+      "email": "kaja@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "KAM3B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:16:58.332Z"
     }
   ],
   "withdrawals": [
