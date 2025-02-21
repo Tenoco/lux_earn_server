@@ -25396,11 +25396,12 @@
         "Becky ",
         "Aisha",
         "Oluwajoy",
-        "Dammy "
+        "Dammy ",
+        "Hahi"
       ],
       "balance": 420,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -32066,7 +32067,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:28:33.907Z"
+      "joinDate": "2025-02-21T13:28:33.907Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hahi",
+      "email": "haishapro22@gmail.com",
+      "encrypted_password": "72972b69942c42b59bc76bec59436f7c",
+      "referral_code": "HA2RP",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:28:44.014Z"
     }
   ],
   "withdrawals": [
