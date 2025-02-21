@@ -22454,11 +22454,12 @@
         "Mwawawa ",
         "edukeitemjames",
         "sallee",
-        "Amarachi "
+        "Amarachi ",
+        "Salamzy"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -38156,7 +38157,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:30:00.693Z"
+      "joinDate": "2025-02-21T16:30:00.693Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Salamzy",
+      "email": "salamzyabdul001@gmail.com",
+      "encrypted_password": "3ecaa2ec7891aa9d9a696f8c0b013c18",
+      "referral_code": "SAGQI",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:30:06.975Z"
     }
   ],
   "withdrawals": [
