@@ -920,8 +920,8 @@
         "Moneyman",
         "Psblo",
         "Marvi",
+        "daniel2027_ÃÂ£$",
         "daniel2027_Â£$",
-        "daniel2027_£$",
         "Chris Richalbert ",
         "Femzico ",
         "Doffy"
@@ -10973,7 +10973,7 @@
       "lastSpin": null
     },
     {
-      "username": "daniel2027_Â£$",
+      "username": "daniel2027_ÃÂ£$",
       "email": "danielclarke9037@gmail.com",
       "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
       "referral_code": "DAZ6L",
@@ -11426,7 +11426,7 @@
       "lastSpin": null
     },
     {
-      "username": "daniel2027_£$",
+      "username": "daniel2027_Â£$",
       "email": "danielclarke123567@gmail.com",
       "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
       "referral_code": "DAH4W",
@@ -11989,7 +11989,7 @@
       "inviter_referral_code": "LI4O7",
       "inviter_username": "Livvey",
       "invited_users": [
-        "�l� m�d� "
+        "Ølå mïdë "
       ],
       "balance": 270,
       "refers": 1,
@@ -22675,7 +22675,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 225,
+      "balance": 255,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22689,7 +22689,8 @@
         4,
         6,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-21T09:27:33.633Z"
     },
@@ -25492,10 +25493,10 @@
       "lastSpin": null
     },
     {
-      "username": "�l� m�d� ",
+      "username": "Ølå mïdë ",
       "email": "o91645694@gmail.com",
       "encrypted_password": "e231a571c085aab2e949ac7589e2331a",
-      "referral_code": "�LQTF",
+      "referral_code": "ØLQTF",
       "inviter_referral_code": "DAQN4",
       "inviter_username": "Daniel ",
       "invited_users": [],
@@ -25504,7 +25505,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:28:04.925Z"
+      "joinDate": "2025-02-21T10:28:04.925Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
