@@ -12609,12 +12609,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:20.708Z",
-      "lastSpin": "2025-02-21T05:54:37.644Z",
       "completedMissions": [
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T05:54:37.644Z"
     },
     {
       "username": "Antee",
@@ -12717,6 +12717,21 @@
       "joinDate": "2025-02-21T05:56:00.322Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oumhanan09",
+      "email": "ki156789ibrahim25@gmail.com",
+      "encrypted_password": "7b31f8649d5cb34db3afd42c9e6a0987",
+      "referral_code": "OU55V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:56:16.651Z"
     }
   ],
   "withdrawals": [
