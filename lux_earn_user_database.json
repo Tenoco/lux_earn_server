@@ -666,10 +666,12 @@
       "referral_code": "MAGXK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kamsy"
+      ],
       "balance": 265,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:51.186Z",
@@ -34885,6 +34887,21 @@
       "joinDate": "2025-02-21T14:43:35.437Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kamsy",
+      "email": "kamsychinevu@gmail.com",
+      "encrypted_password": "5ef0cf5b1a9d6e53ac53ee4f6ebface6",
+      "referral_code": "KAZU2",
+      "inviter_referral_code": "MAGXK",
+      "inviter_username": "Martins1736",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:43:45.148Z"
     }
   ],
   "withdrawals": [
