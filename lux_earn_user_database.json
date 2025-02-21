@@ -14717,12 +14717,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 270,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
+      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1,
         2,
@@ -14732,9 +14733,9 @@
         5,
         6,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-21T06:39:15.564Z"
+        7,
+        8
+      ]
     },
     {
       "username": "Hephzibah ",
@@ -15292,7 +15293,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:47:14.239Z"
+      "joinDate": "2025-02-21T06:47:14.239Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
