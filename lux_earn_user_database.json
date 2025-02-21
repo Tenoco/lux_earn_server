@@ -19179,11 +19179,12 @@
         "mrlee",
         "alanapromise117",
         "Ramadan",
-        "Ajuo"
+        "Ajuo",
+        "Ggg"
       ],
       "balance": 232,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -23600,6 +23601,21 @@
       "joinDate": "2025-02-21T09:36:13.618Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T09:36:43.853Z"
+    },
+    {
+      "username": "Ggg",
+      "email": "alanapromise334@gmail.com",
+      "encrypted_password": "146299a75c71e34cb99c68c2f961068f",
+      "referral_code": "GGHNW",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:38:13.869Z"
     }
   ],
   "withdrawals": [
