@@ -30537,7 +30537,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:32:56.332Z"
+      "joinDate": "2025-02-21T12:32:56.332Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuel663",
+      "email": "ayeniemmanuelblessing@gmail.com",
+      "encrypted_password": "0d0de813c1105498e3435dd2fbf7fa26",
+      "referral_code": "EMPQS",
+      "inviter_referral_code": "Bonox",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:33:07.966Z"
     }
   ],
   "withdrawals": [
