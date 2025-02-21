@@ -5466,11 +5466,12 @@
         "Karem",
         "Darkoer",
         "Honkangel",
-        "Canolata"
+        "Canolata",
+        "Callmedad"
       ],
       "balance": 30,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8385,7 +8386,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:15:51.434Z"
+      "joinDate": "2025-02-21T01:15:51.434Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Callmedad",
+      "email": "dadayata@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "CAOA7",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:16:42.980Z"
     }
   ],
   "withdrawals": [
