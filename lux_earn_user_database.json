@@ -1138,11 +1138,12 @@
         "Noblegrafix",
         "Dolapo911",
         "Olad ",
-        "Azzybae"
+        "Azzybae",
+        "Orengo"
       ],
       "balance": 295,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -10424,7 +10425,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:14:18.578Z"
+      "joinDate": "2025-02-21T04:14:18.578Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Orengo",
+      "email": "trumanlewie@gmail.com",
+      "encrypted_password": "5c04e5292bb5bbeaa45bdff8a35de73b",
+      "referral_code": "ORMB3",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:15:50.675Z"
     }
   ],
   "withdrawals": [
