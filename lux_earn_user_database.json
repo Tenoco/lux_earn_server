@@ -117,11 +117,12 @@
         "Adexan",
         "Christy",
         "Automatic_man",
-        "Peculiarity86 "
+        "Peculiarity86 ",
+        "Merrysmart"
       ],
       "balance": 50,
-      "refers": 30,
-      "referralBalance": 3000,
+      "refers": 31,
+      "referralBalance": 3100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -17047,6 +17048,21 @@
       "joinDate": "2025-02-21T07:11:25.656Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Merrysmart",
+      "email": "matthewoluwatobiloba78@gmail.com",
+      "encrypted_password": "05459c3607dc2d0e2cb0114dadfb83cc",
+      "referral_code": "ME3ZJ",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:12:08.507Z"
     }
   ],
   "withdrawals": [
