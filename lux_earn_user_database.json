@@ -19812,11 +19812,12 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [
-        "Joshua "
+        "Joshua ",
+        "frank6i"
       ],
       "balance": 100,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:57:27.264Z",
@@ -21546,7 +21547,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:44:43.086Z"
+      "joinDate": "2025-02-21T08:44:43.086Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "frank6i",
+      "email": "chinecheremfrancis845@gmail.com",
+      "encrypted_password": "fcb160eddc7089524ac91830604af4c9",
+      "referral_code": "FRSYE",
+      "inviter_referral_code": "HE5KL",
+      "inviter_username": "Henry Joshua ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:45:00.016Z"
     }
   ],
   "withdrawals": [
