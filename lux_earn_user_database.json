@@ -17832,14 +17832,15 @@
       "inviter_referral_code": "CR114",
       "inviter_username": "Cresterfied",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:23:54.753Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        6
+      ]
     },
     {
       "username": "Musazogi001",
@@ -17888,7 +17889,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:25:00.377Z"
+      "joinDate": "2025-02-21T07:25:00.377Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
