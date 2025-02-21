@@ -14599,7 +14599,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmanuel",
@@ -14859,6 +14860,21 @@
       "joinDate": "2025-02-21T06:39:46.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Talabi",
+      "email": "samsonoyinda.talabi@gmail.com",
+      "encrypted_password": "f28afff90e8ec1524b3125db0cbdb8cf",
+      "referral_code": "TA6P6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:40:19.761Z"
     }
   ],
   "withdrawals": [
