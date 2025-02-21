@@ -18693,10 +18693,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:38:38.802Z",
-      "lastSpin": "2025-02-21T07:39:32.737Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:39:32.737Z"
     },
     {
       "username": "Flavor",
@@ -18757,18 +18757,19 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 110,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:40:34.275Z",
+      "lastSpin": "2025-02-21T07:40:44.743Z",
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": "2025-02-21T07:40:44.743Z"
+        3,
+        4
+      ]
     },
     {
       "username": "Minnah12",
