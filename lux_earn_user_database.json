@@ -30857,7 +30857,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:50:42.942Z"
+      "joinDate": "2025-02-21T12:50:42.942Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "BinBala12 ",
+      "email": "khubaibubala@gmail.com",
+      "encrypted_password": "767a592ee21099657332c1b27ac69421",
+      "referral_code": "BIHJL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:51:07.250Z"
     }
   ],
   "withdrawals": [
