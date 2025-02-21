@@ -37109,12 +37109,13 @@
       "inviter_referral_code": "FE5BQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:29:42.772Z"
+      "joinDate": "2025-02-21T19:29:42.772Z",
+      "lastSpin": "2025-02-21T19:30:31.011Z"
     }
   ],
   "withdrawals": [
