@@ -9871,7 +9871,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9879,7 +9879,8 @@
       "joinDate": "2025-02-21T03:17:27.530Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ]
     }
   ],
