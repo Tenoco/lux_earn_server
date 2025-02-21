@@ -10509,7 +10509,7 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 191,
+      "balance": 261,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10523,7 +10523,10 @@
         2,
         3,
         4,
-        5
+        5,
+        7,
+        9,
+        6
       ],
       "lastSpin": "2025-02-21T05:59:05.622Z"
     },
@@ -32750,7 +32753,8 @@
         4,
         4,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "SomtyCee",
