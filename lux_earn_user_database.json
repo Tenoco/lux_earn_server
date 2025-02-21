@@ -14024,16 +14024,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Shakou ",
@@ -14099,7 +14099,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:26:27.813Z"
+      "joinDate": "2025-02-21T06:26:27.813Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
