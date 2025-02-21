@@ -24141,7 +24141,7 @@
       "inviter_referral_code": "Raczk",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24152,7 +24152,8 @@
         2,
         9,
         8,
-        6
+        6,
+        3
       ],
       "lastSpin": null
     },
@@ -25972,7 +25973,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:37:34.018Z"
+      "joinDate": "2025-02-21T10:37:34.018Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
