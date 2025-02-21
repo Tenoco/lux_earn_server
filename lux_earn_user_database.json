@@ -24416,11 +24416,12 @@
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
       "invited_users": [
-        "Hon980"
+        "Hon980",
+        "Shady766"
       ],
       "balance": 288,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
@@ -25325,6 +25326,21 @@
       "joinDate": "2025-02-21T10:24:52.241Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shady766",
+      "email": "saturnelson258@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "SHH2R",
+      "inviter_referral_code": "MAB3U",
+      "inviter_username": "Marv766",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:25:23.596Z"
     }
   ],
   "withdrawals": [
