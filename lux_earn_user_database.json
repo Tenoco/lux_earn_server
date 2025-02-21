@@ -29526,14 +29526,24 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:08:57.455Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "godsave",
@@ -29631,7 +29641,8 @@
         4,
         5,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Issabella",
