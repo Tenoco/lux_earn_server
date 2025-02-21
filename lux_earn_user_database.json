@@ -32279,7 +32279,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:34:17.248Z"
+      "joinDate": "2025-02-21T13:34:17.248Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mc_Tony",
+      "email": "chibuzoranthony09@gmail.com",
+      "encrypted_password": "15c2afeddf513dfc24c1ed8cd59ea437",
+      "referral_code": "MC632",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:35:08.827Z"
     }
   ],
   "withdrawals": [
