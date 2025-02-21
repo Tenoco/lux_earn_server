@@ -13241,11 +13241,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Davidjames "
+        "Davidjames ",
+        "Bolaahmed"
       ],
       "balance": 40,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -13960,6 +13961,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:24:40.802Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:25:25.515Z"
     },
     {
@@ -14046,6 +14048,21 @@
       "joinDate": "2025-02-21T06:25:23.855Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bolaahmed",
+      "email": "bola211@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "BOICF",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:25:46.252Z"
     }
   ],
   "withdrawals": [
