@@ -1738,11 +1738,12 @@
         "Felixmba",
         "Segzypark",
         "Amatusafy",
-        "Samino"
+        "Samino",
+        "Haggaijacob0912172"
       ],
       "balance": 275,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9706,6 +9707,21 @@
       "joinDate": "2025-02-21T03:02:26.351Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Haggaijacob0912172",
+      "email": "haggaijacob3@gmail.com",
+      "encrypted_password": "f0590917a2b98c429143f9c09ae9e01c",
+      "referral_code": "HAZJI",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:05:17.390Z"
     }
   ],
   "withdrawals": [
