@@ -12234,7 +12234,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 155,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12251,7 +12251,7 @@
         5,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:26:44.835Z"
     },
     {
       "username": "Dhhecv1",
@@ -17968,6 +17968,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:27.168Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:26:32.416Z"
     }
   ],
