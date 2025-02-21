@@ -1281,7 +1281,7 @@
         "Emmaunel",
         "Faith"
       ],
-      "balance": 190,
+      "balance": 220,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -1291,7 +1291,8 @@
         2,
         1,
         3,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -28594,7 +28595,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:46:03.387Z"
+      "joinDate": "2025-02-21T11:46:03.387Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
