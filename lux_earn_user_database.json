@@ -881,11 +881,12 @@
         "Psblo",
         "Marvi",
         "daniel2027_Â£$",
-        "daniel2027_£$"
+        "daniel2027_£$",
+        "Chris Richalbert "
       ],
       "balance": 163,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -12812,7 +12813,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:58:59.778Z"
+      "joinDate": "2025-02-21T05:58:59.778Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chris Richalbert ",
+      "email": "richalbertchris9@gmail.com",
+      "encrypted_password": "acbd9ab2f68bea3f5291f825416546a1",
+      "referral_code": "CHAGQ",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:59:07.481Z"
     }
   ],
   "withdrawals": [
