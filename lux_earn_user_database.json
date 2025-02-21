@@ -10741,11 +10741,12 @@
         "Treasure Joshua ",
         "Ajibola",
         "Chulnafi2",
-        "Wisco124"
+        "Wisco124",
+        "SomtyCee"
       ],
       "balance": 50,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -32719,6 +32720,21 @@
       "joinDate": "2025-02-21T13:46:23.825Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SomtyCee",
+      "email": "smythjosh1320@gmail.com",
+      "encrypted_password": "26ddce8bf3fba53d8dea305a062f1167",
+      "referral_code": "SOT8E",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:47:24.996Z"
     }
   ],
   "withdrawals": [
