@@ -10234,7 +10234,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "coddy boy",
@@ -10534,6 +10535,21 @@
       "joinDate": "2025-02-21T04:24:09.245Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "specialmoney",
+      "email": "alayegold6@gmail.com",
+      "encrypted_password": "e0afd01d101c4814a1389857f4af9994",
+      "referral_code": "SPJTN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:26:12.211Z"
     }
   ],
   "withdrawals": [
