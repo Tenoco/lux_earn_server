@@ -4962,11 +4962,12 @@
       "invited_users": [
         "big ben 031",
         "Jude 032",
-        "ruby alex3"
+        "ruby alex3",
+        "tob y 32"
       ],
       "balance": 255,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -6275,7 +6276,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dray",
@@ -6327,6 +6329,21 @@
       "joinDate": "2025-02-21T00:22:01.731Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "tob y 32",
+      "email": "alexrandy087@gmail.com",
+      "encrypted_password": "a81419ccbeb3596dc353e2731be08a5f",
+      "referral_code": "TO3ML",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:23:01.704Z"
     }
   ],
   "withdrawals": [
