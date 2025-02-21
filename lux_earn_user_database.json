@@ -25348,11 +25348,12 @@
       "invited_users": [
         "Guy",
         "Sweet",
-        "Brag"
+        "Brag",
+        "Mally"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -28486,7 +28487,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:42:58.137Z"
+      "joinDate": "2025-02-21T11:42:58.137Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mally",
+      "email": "tanitet747@yalcu.com",
+      "encrypted_password": "e8dc4081b13434b45189a720b77b6818",
+      "referral_code": "MAD2U",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:43:36.246Z"
     }
   ],
   "withdrawals": [
