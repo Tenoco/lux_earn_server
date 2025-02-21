@@ -16783,11 +16783,12 @@
       "invited_users": [
         "Doris",
         "Young",
-        "Daniel"
+        "Daniel",
+        "Abelgebriel"
       ],
       "balance": 280,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -35961,7 +35962,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:17:55.395Z"
+      "joinDate": "2025-02-21T15:17:55.395Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abelgebriel",
+      "email": "abelgebriel@gmail.com",
+      "encrypted_password": "80f3174e839951fd977d5bad67b69a16",
+      "referral_code": "ABIMI",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:18:02.527Z"
     }
   ],
   "withdrawals": [
