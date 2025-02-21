@@ -28348,21 +28348,22 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 202,
+      "balance": 232,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:39:43.950Z",
+      "lastSpin": "2025-02-21T11:40:34.475Z",
       "completedMissions": [
         1,
         2,
         3,
         5,
         4,
-        9
-      ],
-      "lastSpin": "2025-02-21T11:40:34.475Z"
+        9,
+        8
+      ]
     },
     {
       "username": "Amobi",
@@ -28574,7 +28575,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:45:46.727Z"
+      "joinDate": "2025-02-21T11:45:46.727Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
