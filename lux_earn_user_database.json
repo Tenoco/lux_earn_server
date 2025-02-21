@@ -307,11 +307,12 @@
         "silas olamide",
         "Mamabby",
         "Femi235",
-        "daniee250"
+        "daniee250",
+        "Graciousx"
       ],
       "balance": 235,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -23397,7 +23398,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:34:10.423Z"
+      "joinDate": "2025-02-21T09:34:10.423Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Graciousx",
+      "email": "graciousoghele15@gmail.com",
+      "encrypted_password": "a61b42cffcba38555a9a0425e0c84dc6",
+      "referral_code": "GR8PE",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:34:14.592Z"
     }
   ],
   "withdrawals": [
