@@ -19124,11 +19124,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Boss1 "
+        "Boss1 ",
+        "Nikki "
       ],
       "balance": 228,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -21585,6 +21586,21 @@
       "joinDate": "2025-02-21T08:45:22.933Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nikki ",
+      "email": "nikkibale0@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "NI2QN",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:45:38.393Z"
     }
   ],
   "withdrawals": [
