@@ -23144,7 +23144,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:27:14.333Z"
+      "joinDate": "2025-02-21T09:27:14.333Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyewusi ",
+      "email": "afolashade582@gmail.com",
+      "encrypted_password": "7c2ad8c21c785dbb245a1923f74c845c",
+      "referral_code": "OY3P4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:27:34.221Z"
     }
   ],
   "withdrawals": [
