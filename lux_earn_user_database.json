@@ -11383,11 +11383,12 @@
         "Inioluwa",
         "Favour",
         "Racheal ",
-        "Ifeoluwa"
+        "Ifeoluwa",
+        "Endure"
       ],
       "balance": 200,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -32446,6 +32447,21 @@
       "joinDate": "2025-02-21T13:38:07.610Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Endure",
+      "email": "exceptionaltechnics@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "ENDQZ",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:38:25.679Z"
     }
   ],
   "withdrawals": [
