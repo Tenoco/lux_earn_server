@@ -102,11 +102,12 @@
         "LAGACONCEPT ",
         "Cutevilex",
         "Limzy",
-        "chomsy84 "
+        "chomsy84 ",
+        "Adexkilling "
       ],
       "balance": 50,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -8170,7 +8171,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:11:14.323Z"
+      "joinDate": "2025-02-21T01:11:14.323Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adexkilling ",
+      "email": "adetuyij1@gmail.com",
+      "encrypted_password": "ebff6fee106b5807c60beea2cf83425f",
+      "referral_code": "ADTMC",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:11:44.958Z"
     }
   ],
   "withdrawals": [
