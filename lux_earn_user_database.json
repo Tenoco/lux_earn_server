@@ -14494,11 +14494,12 @@
         "Youiyou16 ",
         "sinkonice",
         "Konyi",
-        "Felix Chinonso"
+        "Felix Chinonso",
+        "Cashman"
       ],
       "balance": 20,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -33728,7 +33729,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:15:06.003Z"
+      "joinDate": "2025-02-21T14:15:06.003Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cashman",
+      "email": "dannyifediora10@gmail.com",
+      "encrypted_password": "34faa1a43694a4a4f3ebdb173dd0e065",
+      "referral_code": "CASQU",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:16:00.135Z"
     }
   ],
   "withdrawals": [
