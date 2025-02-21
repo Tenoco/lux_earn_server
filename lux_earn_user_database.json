@@ -37933,7 +37933,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:25:20.791Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T22:25:43.216Z"
+    },
+    {
+      "username": "Emmn",
+      "email": "same212007@gmail.com",
+      "encrypted_password": "d39d1a20b68c28656dfc2e22a0c3c68a",
+      "referral_code": "EMBZH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:26:03.382Z"
     }
   ],
   "withdrawals": [
