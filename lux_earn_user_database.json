@@ -36115,14 +36115,15 @@
       "inviter_referral_code": "Ajfym",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:02.697Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Mzee07",
@@ -36277,7 +36278,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:24:21.225Z"
+      "joinDate": "2025-02-21T15:24:21.225Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
