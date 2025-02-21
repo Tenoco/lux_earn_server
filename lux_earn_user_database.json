@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 1000,
+      "balance": 0,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -37807,6 +37807,17 @@
       "amount": 1000,
       "totalBalance": 2000,
       "timestamp": "2025-02-21T17:44:08.803Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Enoch",
+      "accountNumber": "8076556252",
+      "bank": "Palmpay",
+      "amount": 1000,
+      "totalBalance": 1000,
+      "timestamp": "2025-02-21T17:50:00.231Z",
       "status": "pending"
     }
   ],
