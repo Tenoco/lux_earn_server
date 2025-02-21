@@ -34961,10 +34961,12 @@
       "referral_code": "LA2FX",
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
-      "invited_users": [],
+      "invited_users": [
+        "Luiz emzy"
+      ],
       "balance": 340,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:16.048Z",
@@ -36371,6 +36373,21 @@
       "joinDate": "2025-02-21T15:27:58.958Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Luiz emzy",
+      "email": "bgideon037@gmail.com",
+      "encrypted_password": "9966cbd846ca3c2d69967671a1e7dad7",
+      "referral_code": "LUJ8T",
+      "inviter_referral_code": "LA2FX",
+      "inviter_username": "Laskid037 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:28:32.959Z"
     }
   ],
   "withdrawals": [
