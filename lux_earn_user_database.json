@@ -3285,10 +3285,12 @@
       "referral_code": "DEQQV",
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
-      "invited_users": [],
+      "invited_users": [
+        "Stephanie"
+      ],
       "balance": 245,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -5075,7 +5077,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:01:56.397Z"
+      "joinDate": "2025-02-21T00:01:56.397Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Stephanie",
+      "email": "ezestephanie2024@gmail.com",
+      "encrypted_password": "cc3adfe922f0e4d1ce7d4e153e0f2e46",
+      "referral_code": "ST22F",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:01:59.682Z"
     }
   ],
   "withdrawals": [
