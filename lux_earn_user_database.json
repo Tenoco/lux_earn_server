@@ -32532,16 +32532,16 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:42:02.652Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "Billy jos",
@@ -32590,7 +32590,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:43:56.510Z"
+      "joinDate": "2025-02-21T13:43:56.510Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
