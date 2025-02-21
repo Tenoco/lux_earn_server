@@ -34685,14 +34685,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:38:26.019Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Shedrack Jerry",
@@ -34741,7 +34742,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:40:29.605Z"
+      "joinDate": "2025-02-21T14:40:29.605Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
