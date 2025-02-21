@@ -11059,7 +11059,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:06:08.011Z"
+      "joinDate": "2025-02-21T05:06:08.011Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Livvey",
+      "email": "livveydics@gmail.com",
+      "encrypted_password": "11fe535f49eec456c11a7c2996532b8a",
+      "referral_code": "LI4O7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:06:20.435Z"
     }
   ],
   "withdrawals": [
