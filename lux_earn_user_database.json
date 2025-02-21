@@ -15057,10 +15057,12 @@
       "referral_code": "WINWC",
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
-      "invited_users": [],
+      "invited_users": [
+        "Bigboss234"
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:41:00.642Z",
@@ -16143,7 +16145,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:59:36.778Z"
+      "joinDate": "2025-02-21T06:59:36.778Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bigboss234",
+      "email": "yusuflukman249@gmail.com",
+      "encrypted_password": "c653c06d78c65ddaa9ecf62b638a6de1",
+      "referral_code": "BIR9W",
+      "inviter_referral_code": "WINWC",
+      "inviter_username": "willsmith234",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:59:39.378Z"
     }
   ],
   "withdrawals": [
