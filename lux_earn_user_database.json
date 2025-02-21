@@ -10998,7 +10998,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nurudeen75",
@@ -11059,7 +11060,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 125,
+      "balance": 145,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11067,9 +11068,10 @@
       "joinDate": "2025-02-21T05:06:08.011Z",
       "completedMissions": [
         8,
-        7
-      ],
-      "lastSpin": null
+        7,
+        1,
+        2
+      ]
     },
     {
       "username": "Livvey",
