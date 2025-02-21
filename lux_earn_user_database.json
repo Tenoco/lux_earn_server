@@ -1919,11 +1919,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious"
+        "Precious",
+        "Judabe"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -37903,7 +37904,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:20:32.514Z"
+      "joinDate": "2025-02-21T16:20:32.514Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Judabe",
+      "email": "judabegide@gmail.com",
+      "encrypted_password": "e3a3b9bfb2c350e2103a9f1c9b64d2c2",
+      "referral_code": "JUPLM",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:20:49.514Z"
     }
   ],
   "withdrawals": [
