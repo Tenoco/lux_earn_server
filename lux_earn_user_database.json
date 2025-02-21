@@ -35525,6 +35525,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:03:10.621Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:05:06.443Z"
     },
     {
@@ -35560,6 +35561,21 @@
       "joinDate": "2025-02-21T15:04:31.509Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mardis012",
+      "email": "mardiyaalhibrahim@gmail.com",
+      "encrypted_password": "b59c67bf196a4758191e42f76670ceba",
+      "referral_code": "MA7K1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:05:23.304Z"
     }
   ],
   "withdrawals": [
