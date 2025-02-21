@@ -4295,11 +4295,12 @@
         "Houstony",
         "valenty",
         "bryanny",
-        "rosey"
+        "rosey",
+        "jamsy"
       ],
       "balance": 295,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -24604,6 +24605,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T10:07:08.976Z"
     },
     {
@@ -24622,6 +24624,21 @@
       "joinDate": "2025-02-21T10:06:47.667Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "jamsy",
+      "email": "james727david@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "JABMC",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:07:16.815Z"
     }
   ],
   "withdrawals": [
