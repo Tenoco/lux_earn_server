@@ -23014,11 +23014,12 @@
         "Donprince141",
         "Favor",
         "Tyler33",
-        "Dims"
+        "Dims",
+        "Emmiedice jnr"
       ],
       "balance": 220,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -37365,6 +37366,21 @@
       "joinDate": "2025-02-21T16:08:35.945Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmiedice jnr",
+      "email": "emmiedicejnr@gmail.com",
+      "encrypted_password": "ec92dc0e304f5ce21d3c9d909f668985",
+      "referral_code": "EMUSH",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:10:08.329Z"
     }
   ],
   "withdrawals": [
