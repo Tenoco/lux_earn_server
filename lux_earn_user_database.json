@@ -5054,11 +5054,12 @@
       "inviter_username": null,
       "invited_users": [
         "ononoone",
-        "Soyet"
+        "Soyet",
+        "Justjohn"
       ],
       "balance": 261,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:44.265Z",
@@ -7047,6 +7048,21 @@
       "joinDate": "2025-02-21T00:38:14.957Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Justjohn",
+      "email": "faithemmy2023@gmail.com",
+      "encrypted_password": "685b0eada7a901b0e04a1cdf5c49def1",
+      "referral_code": "JUHVB",
+      "inviter_referral_code": "YARMK",
+      "inviter_username": "yakiniemmanuel",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:39:12.002Z"
     }
   ],
   "withdrawals": [
