@@ -37543,7 +37543,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37551,9 +37551,10 @@
       "joinDate": "2025-02-21T17:39:24.995Z",
       "completedMissions": [
         1,
-        11
-      ],
-      "lastSpin": null
+        11,
+        10,
+        2
+      ]
     },
     {
       "username": "kadok23",
@@ -37602,7 +37603,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:42:56.960Z"
+      "joinDate": "2025-02-21T17:42:56.960Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
