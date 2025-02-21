@@ -6655,11 +6655,12 @@
         "phoenix28",
         "phoeix2",
         "phoenix30",
-        "Samen"
+        "Samen",
+        "Flight "
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7193,7 +7194,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:41:50.179Z"
+      "joinDate": "2025-02-21T00:41:50.179Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Flight ",
+      "email": "phoenix29@gmail.com",
+      "encrypted_password": "aca9966873e21f972ce7b38526d2964b",
+      "referral_code": "FLEPX",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:41:53.149Z"
     }
   ],
   "withdrawals": [
