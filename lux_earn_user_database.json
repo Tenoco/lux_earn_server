@@ -34920,7 +34920,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kamsy",
@@ -35040,6 +35041,21 @@
       "joinDate": "2025-02-21T14:47:22.495Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lisa",
+      "email": "shefiutitilope13@gmail.com",
+      "encrypted_password": "1adc8afeb72789247c280fb0e46ca11e",
+      "referral_code": "LIN6S",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:48:38.353Z"
     }
   ],
   "withdrawals": [
