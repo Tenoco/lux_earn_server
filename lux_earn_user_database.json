@@ -111,11 +111,12 @@
         "Onaolapo",
         "Mjsilent ",
         "Titanic ",
-        "KingT"
+        "KingT",
+        "Amelia"
       ],
       "balance": 50,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -12869,7 +12870,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:00:39.563Z"
+      "joinDate": "2025-02-21T06:00:39.563Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amelia",
+      "email": "t2473451@gmail.com",
+      "encrypted_password": "73749b4dab89a8be50b21847bc03061c",
+      "referral_code": "AM9XK",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:00:41.541Z"
     }
   ],
   "withdrawals": [
