@@ -15449,11 +15449,12 @@
         "Canubj",
         "Olatimi",
         "Vjkbn",
-        "frankwestin33"
+        "frankwestin33",
+        "Rith"
       ],
       "balance": 270,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
@@ -18903,6 +18904,21 @@
       "joinDate": "2025-02-21T07:43:27.946Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rith",
+      "email": "Ruth5@gmail.com",
+      "encrypted_password": "08b4ba7c36ce7d647f7026b2955c52ac",
+      "referral_code": "RI44S",
+      "inviter_referral_code": "RUDYD",
+      "inviter_username": "Ruth641",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:44:10.377Z"
     }
   ],
   "withdrawals": [
