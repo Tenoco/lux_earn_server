@@ -14826,11 +14826,12 @@
         "Akin",
         "Quadri ",
         "Batere",
-        "Bro"
+        "Bro",
+        "Sir"
       ],
       "balance": 300,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -26253,6 +26254,21 @@
       "joinDate": "2025-02-21T10:42:20.597Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sir",
+      "email": "wobaw28360@dropfam.com",
+      "encrypted_password": "02c75fb22c75b23dc963c7eb91a062cc",
+      "referral_code": "SIMLL",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:42:59.416Z"
     }
   ],
   "withdrawals": [
