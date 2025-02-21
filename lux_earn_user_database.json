@@ -11587,10 +11587,12 @@
       "referral_code": "LA1RQ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Arinze Dominic "
+      ],
       "balance": 70,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:11:31.529Z",
@@ -34784,7 +34786,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:42:16.048Z"
+      "joinDate": "2025-02-21T14:42:16.048Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Arinze Dominic ",
+      "email": "arinzedom007@gmail.com",
+      "encrypted_password": "46b91d9671532891ce60dd62b7f69e1f",
+      "referral_code": "ARARM",
+      "inviter_referral_code": "LA1RQ",
+      "inviter_username": "Lavsjd",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:42:20.828Z"
     }
   ],
   "withdrawals": [
