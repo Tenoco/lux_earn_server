@@ -36779,16 +36779,18 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 52,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:40:38.333Z",
+      "lastSpin": "2025-02-21T15:40:48.586Z",
       "completedMissions": [
-        3
-      ],
-      "lastSpin": "2025-02-21T15:40:48.586Z"
+        3,
+        4,
+        5
+      ]
     },
     {
       "username": "Abdulhakim",
