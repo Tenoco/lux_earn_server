@@ -18163,14 +18163,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:29:10.599Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Wisdomchibuike ",
@@ -18254,6 +18255,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:30:33.677Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:31:30.594Z"
     },
     {
