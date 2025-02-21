@@ -4259,11 +4259,12 @@
         "Opemipoo",
         "smizy",
         "Matthew Frosh",
-        "Yemie990@gmail.com"
+        "Yemie990@gmail.com",
+        "Azuma "
       ],
       "balance": 295,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22803,7 +22804,8 @@
       "joinDate": "2025-02-21T09:20:54.305Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "smizy",
@@ -22872,6 +22874,21 @@
       "joinDate": "2025-02-21T09:22:08.413Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Azuma ",
+      "email": "chima601@gmail.com",
+      "encrypted_password": "282d04dcf57330ee9073f7209f2f0d85",
+      "referral_code": "AZPYX",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:21:52.017Z"
     }
   ],
   "withdrawals": [
