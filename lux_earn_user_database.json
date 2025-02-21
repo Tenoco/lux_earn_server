@@ -13910,11 +13910,12 @@
         "Kindness45",
         "Henry Joshua ",
         "blessing ",
-        "3456@roseberry-45"
+        "3456@roseberry-45",
+        "Great@"
       ],
       "balance": 220,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -30874,7 +30875,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:51:07.250Z"
+      "joinDate": "2025-02-21T12:51:07.250Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Great@",
+      "email": "great22@gmail.com",
+      "encrypted_password": "d619c0429d32612a5b0cee9de8cf2e98",
+      "referral_code": "GRFVM",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:51:41.535Z"
     }
   ],
   "withdrawals": [
