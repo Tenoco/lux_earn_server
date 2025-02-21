@@ -4711,11 +4711,12 @@
         "Frank",
         "Rain",
         "Roxy",
-        "Zick"
+        "Zick",
+        "Lucky"
       ],
       "balance": 25,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7798,7 +7799,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:59:00.880Z"
+      "joinDate": "2025-02-21T00:59:00.880Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lucky",
+      "email": "luckilyyy7@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "LU3WQ",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:59:27.535Z"
     }
   ],
   "withdrawals": [
