@@ -30141,11 +30141,12 @@
         "Poiyiu",
         "Peace87g",
         "Loloal",
-        "Loloala228"
+        "Loloala228",
+        "Loloala2200"
       ],
       "balance": 262,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:24:03.647Z",
@@ -33261,7 +33262,8 @@
         7,
         9,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "maxj5049",
@@ -33453,6 +33455,21 @@
       "joinDate": "2025-02-21T14:09:19.443Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Loloala2200",
+      "email": "peaoluwaloseyi@gmail.com",
+      "encrypted_password": "25b3ecc7853ad64eedc962a899ee2f01",
+      "referral_code": "LO08U",
+      "inviter_referral_code": "DA0VX",
+      "inviter_username": "Dannyung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:09:39.081Z"
     }
   ],
   "withdrawals": [
