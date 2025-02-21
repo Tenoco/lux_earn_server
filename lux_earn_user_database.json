@@ -3091,11 +3091,12 @@
         "Moses money ",
         "Daniels",
         "Lyan Mubby ",
-        "Arinze08"
+        "Arinze08",
+        "Quadriano "
       ],
       "balance": 337,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -38387,6 +38388,21 @@
       "joinDate": "2025-02-22T08:01:02.633Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Quadriano ",
+      "email": "quadrihano01@gmail.com",
+      "encrypted_password": "c06385cf7fd2b6952dc7679aad927093",
+      "referral_code": "QU9ST",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:02:49.325Z"
     }
   ],
   "withdrawals": [
