@@ -34,7 +34,7 @@
         "Munachi",
         "Drone"
       ],
-      "balance": 4503,
+      "balance": 3503,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -36967,6 +36967,17 @@
       "amount": 1000,
       "totalBalance": 5503,
       "timestamp": "2025-02-21T16:37:20.574Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "accountName": "8077666",
+      "accountNumber": "Hh",
+      "bank": "UBA",
+      "amount": 1000,
+      "totalBalance": 4503,
+      "timestamp": "2025-02-21T16:37:38.724Z",
       "status": "pending"
     }
   ],
