@@ -14471,12 +14471,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 290,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
+      "lastSpin": "2025-02-21T06:33:47.741Z",
       "completedMissions": [
         2,
         5,
@@ -14486,9 +14487,9 @@
         3,
         1,
         6,
-        8
-      ],
-      "lastSpin": "2025-02-21T06:33:47.741Z"
+        8,
+        7
+      ]
     },
     {
       "username": "Gaius velji ",
