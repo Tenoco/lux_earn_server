@@ -37765,14 +37765,17 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": "Rebecca",
       "invited_users": [],
-      "balance": 0,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:20:39.682Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T22:23:11.402Z"
     },
     {
       "username": "Xena",
@@ -37821,7 +37824,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:22:56.911Z"
+      "joinDate": "2025-02-21T22:22:56.911Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
