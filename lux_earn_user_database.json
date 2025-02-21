@@ -22665,6 +22665,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:17:19.799Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T09:17:45.831Z"
     },
     {
@@ -22683,6 +22684,21 @@
       "joinDate": "2025-02-21T09:17:43.361Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mr.cup",
+      "email": "acomat1st@gmail.com",
+      "encrypted_password": "b73b7bc351d2ae25f1e9bf537dc64d00",
+      "referral_code": "MRXKZ",
+      "inviter_referral_code": " KIUD0",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:18:07.483Z"
     }
   ],
   "withdrawals": [
