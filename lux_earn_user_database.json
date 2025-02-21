@@ -37674,14 +37674,15 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:18:50.538Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Henry5@6",
@@ -37781,7 +37782,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:21:40.179Z"
+      "joinDate": "2025-02-21T22:21:40.179Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
