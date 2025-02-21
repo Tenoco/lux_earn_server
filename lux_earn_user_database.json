@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 4000,
+      "balance": 3000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -37071,6 +37071,17 @@
       "amount": 1000,
       "totalBalance": 4000,
       "timestamp": "2025-02-21T18:47:52.371Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 4000,
+      "timestamp": "2025-02-21T18:48:16.088Z",
       "status": "pending"
     }
   ],
