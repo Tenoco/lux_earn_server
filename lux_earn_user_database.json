@@ -32888,7 +32888,8 @@
         6,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kwizdom",
@@ -33280,6 +33281,21 @@
       "joinDate": "2025-02-21T14:04:51.163Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T14:05:01.860Z"
+    },
+    {
+      "username": "Blessing11",
+      "email": "richardblessing616@gmail.com",
+      "encrypted_password": "b27e1350e64353e32f632e6e4a41218d",
+      "referral_code": "BLTK9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:05:32.547Z"
     }
   ],
   "withdrawals": [
