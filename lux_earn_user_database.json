@@ -27992,6 +27992,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:22:07.683Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:28:43.443Z"
     },
     {
@@ -28070,14 +28071,15 @@
       "inviter_referral_code": "JALJU ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:27:08.873Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
