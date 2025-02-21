@@ -904,11 +904,12 @@
         "daniel2027_Â£$",
         "daniel2027_£$",
         "Chris Richalbert ",
-        "Femzico "
+        "Femzico ",
+        "Doffy"
       ],
       "balance": 163,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -19724,7 +19725,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:00:16.709Z"
+      "joinDate": "2025-02-21T08:00:16.709Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Doffy",
+      "email": "Wchiemejonam@gmail.com",
+      "encrypted_password": "895a767ad85b9212c90de21e691f6dfa",
+      "referral_code": "DOTHD",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:00:28.222Z"
     }
   ],
   "withdrawals": [
