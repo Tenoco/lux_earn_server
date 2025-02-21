@@ -26909,14 +26909,15 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:13.572Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-21T10:55:16.068Z"
     },
@@ -26987,7 +26988,8 @@
       "joinDate": "2025-02-21T10:54:56.035Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chibuzor",
