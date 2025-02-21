@@ -29254,10 +29254,12 @@
       "referral_code": "PRFPU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Flexxdee"
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
@@ -30910,7 +30912,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:51:54.060Z"
+      "joinDate": "2025-02-21T12:51:54.060Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Flexxdee",
+      "email": "Danielfelix96871@gmail.com",
+      "encrypted_password": "7c3ad2835aa7d8a73ce7668b9d98aeef",
+      "referral_code": "FLZB9",
+      "inviter_referral_code": "PRFPU",
+      "inviter_username": "Princesspromise",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:52:30.680Z"
     }
   ],
   "withdrawals": [
