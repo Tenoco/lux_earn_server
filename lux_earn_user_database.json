@@ -35887,14 +35887,18 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:15:29.757Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:16:12.872Z",
+      "completedMissions": [
+        1,
+        2,
+        10
+      ]
     },
     {
       "username": "Sulaimanaminu12 ",
@@ -36084,7 +36088,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:21:02.697Z"
+      "joinDate": "2025-02-21T15:21:02.697Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
