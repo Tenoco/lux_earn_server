@@ -5422,11 +5422,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "LAGA ",
-        "Gbenga "
+        "Gbenga ",
+        "Eralimad"
       ],
       "balance": 295,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:05:56.670Z",
@@ -6465,7 +6466,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:26:18.154Z"
+      "joinDate": "2025-02-21T00:26:18.154Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Eralimad",
+      "email": "damilareeralimad@gmail.com",
+      "encrypted_password": "5fbeddf2a8ce11eb0ac77b521340eed3",
+      "referral_code": "ERXG7",
+      "inviter_referral_code": "LA7RS",
+      "inviter_username": "LAGACONCEPT ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:26:27.067Z"
     }
   ],
   "withdrawals": [
