@@ -4707,11 +4707,12 @@
         "Will",
         "Zain",
         "Bryan ",
-        "Cage"
+        "Cage",
+        "Frank"
       ],
       "balance": 25,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7443,7 +7444,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:47:35.209Z"
+      "joinDate": "2025-02-21T00:47:35.209Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Frank",
+      "email": "frankdrk@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "FRYJE",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:47:42.983Z"
     }
   ],
   "withdrawals": [
