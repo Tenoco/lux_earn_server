@@ -15276,11 +15276,12 @@
         "shoyomboizhaq5@gmail.com",
         "Sammycoded18",
         "Ibrahim",
-        "shoyomboizhaq188@gmail.com"
+        "shoyomboizhaq188@gmail.com",
+        "shoyomboizhaq05@gmail.com"
       ],
       "balance": 128,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:35.481Z",
@@ -34857,10 +34858,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:39.050Z",
-      "lastSpin": "2025-02-21T14:43:18.243Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:43:18.243Z"
     },
     {
       "username": "Oladaz",
@@ -34929,6 +34930,21 @@
       "joinDate": "2025-02-21T14:44:32.703Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "shoyomboizhaq05@gmail.com",
+      "email": "shoyomboizhaq05@gmail.com",
+      "encrypted_password": "7daddfb942ac2e58f65ac0ac5b068532",
+      "referral_code": "SHRZD",
+      "inviter_referral_code": "SHR06",
+      "inviter_username": "shoyomboizhaq1@gmail.com",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:44:48.802Z"
     }
   ],
   "withdrawals": [
