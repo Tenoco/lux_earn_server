@@ -31553,16 +31553,23 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 30,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:12:15.543Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4
+      ]
     },
     {
       "username": "ZOZO",
@@ -31662,7 +31669,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:16:41.030Z"
+      "joinDate": "2025-02-21T13:16:41.030Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
