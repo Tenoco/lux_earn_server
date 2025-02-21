@@ -11024,7 +11024,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:04:28.825Z"
+      "joinDate": "2025-02-21T05:04:28.825Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aramma001 ",
+      "email": "vovbh001@gmail.com",
+      "encrypted_password": "c1f04f4d6745ce1d3e17b8e7450127ec",
+      "referral_code": "ARXRZ",
+      "inviter_referral_code": "ABROC",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:05:26.105Z"
     }
   ],
   "withdrawals": [
