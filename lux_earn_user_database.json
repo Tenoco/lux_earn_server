@@ -37331,11 +37331,12 @@
         "Contact ",
         "Username ",
         "Gijg",
-        "Getting"
+        "Getting",
+        "golugo"
       ],
       "balance": 80,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -38047,7 +38048,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:35:46.687Z"
+      "joinDate": "2025-02-21T20:35:46.687Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "golugo",
+      "email": "gulugo@gmail.com",
+      "encrypted_password": "b7e6923f6de66497d51789db0ef3571d",
+      "referral_code": "GO3C0",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:36:43.298Z"
     }
   ],
   "withdrawals": [
