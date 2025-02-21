@@ -1125,11 +1125,12 @@
         "Krischer101",
         "Hannah",
         "Oladunni",
-        "Andrew "
+        "Andrew ",
+        "Joyce "
       ],
       "balance": 215,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -21054,7 +21055,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:31:53.943Z"
+      "joinDate": "2025-02-21T08:31:53.943Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joyce ",
+      "email": "hannahjoy@gmail.com",
+      "encrypted_password": "600e5deb15915889349558cda7636534",
+      "referral_code": "JOUHE",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:32:02.913Z"
     }
   ],
   "withdrawals": [
