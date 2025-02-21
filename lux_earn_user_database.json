@@ -14518,7 +14518,8 @@
       "joinDate": "2025-02-21T06:33:46.471Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aibeeyusufk",
@@ -14813,6 +14814,21 @@
       "joinDate": "2025-02-21T06:38:39.218Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dammil",
+      "email": "oluwa8070@gmail.com",
+      "encrypted_password": "e3c9f3c7319f15234a36fb3455267c4a",
+      "referral_code": "DAPBL",
+      "inviter_referral_code": "Comoa",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:39:33.560Z"
     }
   ],
   "withdrawals": [
