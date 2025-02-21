@@ -12243,11 +12243,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Ogrchukwu"
+        "Ogrchukwu",
+        "Okoro -Ephenus favour "
       ],
       "balance": 100,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:31:17.898Z",
@@ -23648,6 +23649,21 @@
       "joinDate": "2025-02-21T09:38:26.560Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Okoro -Ephenus favour ",
+      "email": "favourebibotel@gmail.com",
+      "encrypted_password": "a4278da8d50ad12fdcc61ead716229dd",
+      "referral_code": "OK52U",
+      "inviter_referral_code": "WIJNH",
+      "inviter_username": "Wisdom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:39:55.592Z"
     }
   ],
   "withdrawals": [
