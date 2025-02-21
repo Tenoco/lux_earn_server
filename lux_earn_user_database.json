@@ -18906,7 +18906,7 @@
       "invited_users": [
         "mrlee"
       ],
-      "balance": 90,
+      "balance": 120,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -18915,7 +18915,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": null
     },
@@ -19425,7 +19426,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abdulhameed ",
