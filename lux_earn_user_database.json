@@ -18350,13 +18350,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:30:33.677Z",
-      "lastSpin": "2025-02-21T07:31:30.594Z",
       "completedMissions": [
         1,
         2,
         5,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:31:30.594Z"
     },
     {
       "username": "Taiyyiba ",
@@ -18580,7 +18580,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": "Mideruqouya",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18588,7 +18588,8 @@
       "joinDate": "2025-02-21T07:35:51.001Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
