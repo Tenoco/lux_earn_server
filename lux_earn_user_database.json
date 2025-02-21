@@ -14630,11 +14630,12 @@
         "sinkonice",
         "Konyi",
         "Felix Chinonso",
-        "Cashman"
+        "Cashman",
+        "Khaleel"
       ],
       "balance": 20,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -37825,6 +37826,21 @@
       "joinDate": "2025-02-21T16:18:16.294Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Khaleel",
+      "email": "Karimatmuhammadawwal@gmail.com",
+      "encrypted_password": "bf565de100ca981adba46ae2fc5c50bc",
+      "referral_code": "KHRAT",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:18:57.122Z"
     }
   ],
   "withdrawals": [
