@@ -9919,16 +9919,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:25:40.462Z",
       "completedMissions": [
-        8
-      ],
-      "lastSpin": null
+        8,
+        3
+      ]
     },
     {
       "username": "Ajidex100 ",
@@ -9963,7 +9963,8 @@
       "joinDate": "2025-02-21T03:27:19.099Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
