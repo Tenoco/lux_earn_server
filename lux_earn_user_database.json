@@ -332,10 +332,12 @@
       "referral_code": "DANK3",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Akolade "
+      ],
       "balance": 310,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:02:02.070Z",
@@ -10842,6 +10844,21 @@
       "joinDate": "2025-02-21T04:49:20.557Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akolade ",
+      "email": "tawabakare39@gmail.com",
+      "encrypted_password": "d89c73ec908b3ba721b68f8727f9e857",
+      "referral_code": "AKILA",
+      "inviter_referral_code": "DANK3",
+      "inviter_username": "Dandee321",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:52:44.156Z"
     }
   ],
   "withdrawals": [
