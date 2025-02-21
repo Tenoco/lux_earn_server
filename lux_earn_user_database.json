@@ -25546,11 +25546,12 @@
         "Wasiu",
         "Latif",
         "Sulaimon",
-        "Sakiru"
+        "Sakiru",
+        "Fola"
       ],
       "balance": 0,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -36346,7 +36347,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:27:50.456Z"
+      "joinDate": "2025-02-21T15:27:50.456Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fola",
+      "email": "siyag22334@yalcu.com",
+      "encrypted_password": "a80c823e9c8ed0558bdc615cac2dc477",
+      "referral_code": "FOAOF",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:27:58.958Z"
     }
   ],
   "withdrawals": [
