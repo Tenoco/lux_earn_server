@@ -37151,7 +37151,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:04:07.953Z"
+      "joinDate": "2025-02-21T16:04:07.953Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samjaz",
+      "email": "oludeletobiloba523@gmail.com",
+      "encrypted_password": "e8c16e2862f692787d90c676097126a5",
+      "referral_code": "SAXCP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:04:42.192Z"
     }
   ],
   "withdrawals": [
