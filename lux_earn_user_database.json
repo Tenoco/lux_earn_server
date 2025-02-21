@@ -37230,11 +37230,12 @@
         "Adetutumi",
         "Adebola01",
         "Oluwatemilorun",
-        "Faramade90"
+        "Faramade90",
+        "Nkechi12"
       ],
       "balance": 32,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37949,7 +37950,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:26:03.382Z"
+      "joinDate": "2025-02-21T22:26:03.382Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nkechi12",
+      "email": "nkechisamuel@gmail.com",
+      "encrypted_password": "97465a4c5b3ab8bf841e323bf7372637",
+      "referral_code": "NKQ8O",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:26:14.153Z"
     }
   ],
   "withdrawals": [
