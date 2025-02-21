@@ -15005,14 +15005,18 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:41:00.642Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-21T06:47:01.315Z"
     },
     {
       "username": "Blessing",
@@ -15349,7 +15353,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:47:53.507Z"
+      "joinDate": "2025-02-21T06:47:53.507Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
