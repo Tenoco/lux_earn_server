@@ -9392,14 +9392,22 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 85,
+      "balance": 365,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:43:28.986Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
       ],
       "lastSpin": null
     },
@@ -9460,7 +9468,8 @@
         8,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chioma78",
