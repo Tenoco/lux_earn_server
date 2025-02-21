@@ -8819,10 +8819,12 @@
       "referral_code": "ROBJH",
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
-      "invited_users": [],
+      "invited_users": [
+        "Uriel"
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:32:59.507Z",
@@ -36005,6 +36007,21 @@
       "joinDate": "2025-02-21T15:18:02.527Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uriel",
+      "email": "uriel@gmail.com",
+      "encrypted_password": "44c29edb103a2872f519ad0c9a0fdaaa",
+      "referral_code": "URZ27",
+      "inviter_referral_code": "ROBJH",
+      "inviter_username": "Royaleprof",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:19:26.778Z"
     }
   ],
   "withdrawals": [
