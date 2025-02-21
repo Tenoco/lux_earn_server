@@ -18577,11 +18577,12 @@
       "inviter_username": "Peculiarity86 ",
       "invited_users": [
         "Frenx",
-        "Favvvy"
+        "Favvvy",
+        "VanDijk"
       ],
       "balance": 240,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:29:34.174Z",
@@ -23012,13 +23013,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:56.313Z",
-      "lastSpin": "2025-02-21T09:25:35.236Z",
       "completedMissions": [
         1,
         3,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:25:35.236Z"
     },
     {
       "username": "Set26",
@@ -23197,6 +23198,21 @@
       "joinDate": "2025-02-21T09:28:08.655Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "VanDijk",
+      "email": "bensonnwani80@gmail.com",
+      "encrypted_password": "0985877655c029c3508626b9912cb8a6",
+      "referral_code": "VAGJR",
+      "inviter_referral_code": "DA2CY",
+      "inviter_username": "Davolee001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:28:52.257Z"
     }
   ],
   "withdrawals": [
