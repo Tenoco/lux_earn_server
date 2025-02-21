@@ -11871,7 +11871,8 @@
         2,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mjsilent ",
@@ -12060,7 +12061,7 @@
       "inviter_referral_code": "MM6P4",
       "inviter_username": "mmmmdjk1",
       "invited_users": [],
-      "balance": 50,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12507,6 +12508,16 @@
       "phoneNumber": "07019413804",
       "amount": 100,
       "timestamp": "2025-02-21T05:35:40.629Z",
+      "status": "pending"
+    },
+    {
+      "username": "Dhhecv1",
+      "email": "shamsusalisu075@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "08128344136",
+      "amount": 50,
+      "timestamp": "2025-02-21T05:38:07.390Z",
       "status": "pending"
     }
   ]
