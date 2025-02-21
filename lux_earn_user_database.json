@@ -854,11 +854,12 @@
       "invited_users": [
         "Eddie Gregory ",
         "Moneyman",
-        "Psblo"
+        "Psblo",
+        "Marvi"
       ],
       "balance": 163,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -8853,6 +8854,21 @@
       "joinDate": "2025-02-21T01:55:49.237Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Marvi",
+      "email": "amahebube52@gmail.com",
+      "encrypted_password": "15e904f34479245f17b4553e9110fabf",
+      "referral_code": "MAZBI",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:59:36.520Z"
     }
   ],
   "withdrawals": [
