@@ -257,7 +257,7 @@
         "Whiteinnocentcrypto",
         "Chibuzor"
       ],
-      "balance": 165,
+      "balance": 195,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -267,7 +267,8 @@
         4,
         3,
         2,
-        1
+        1,
+        8
       ],
       "lastSpin": null
     },
@@ -27737,7 +27738,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:17:03.593Z"
+      "joinDate": "2025-02-21T11:17:03.593Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
