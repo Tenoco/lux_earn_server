@@ -30383,7 +30383,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:28:03.429Z"
+      "joinDate": "2025-02-21T12:28:03.429Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "U",
+      "email": "da8773873@gmail.com",
+      "encrypted_password": "e8dc4081b13434b45189a720b77b6818",
+      "referral_code": "UW87",
+      "inviter_referral_code": "SUB60",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:28:20.346Z"
     }
   ],
   "withdrawals": [
