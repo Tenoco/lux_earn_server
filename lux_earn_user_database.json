@@ -4696,7 +4696,7 @@
         "Roy",
         "Zoro"
       ],
-      "balance": 325,
+      "balance": 25,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -7062,7 +7062,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:39:12.002Z"
+      "joinDate": "2025-02-21T00:39:12.002Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -7290,6 +7292,16 @@
       "phoneNumber": "08129421431",
       "amount": 250,
       "timestamp": "2025-02-21T00:34:18.752Z",
+      "status": "pending"
+    },
+    {
+      "username": "Emin",
+      "email": "drksoul37@gmail.com",
+      "type": "data",
+      "network": "mtn",
+      "phoneNumber": "09135996660",
+      "amount": 300,
+      "timestamp": "2025-02-21T00:39:16.084Z",
       "status": "pending"
     }
   ]
