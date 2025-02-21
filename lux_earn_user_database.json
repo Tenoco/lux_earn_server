@@ -6724,7 +6724,7 @@
         "Hamin",
         "Nice29"
       ],
-      "balance": 80,
+      "balance": 110,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -6734,7 +6734,8 @@
         1,
         2,
         9,
-        8
+        8,
+        5
       ],
       "lastSpin": null
     },
@@ -21634,7 +21635,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:46:52.785Z"
+      "joinDate": "2025-02-21T08:46:52.785Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
