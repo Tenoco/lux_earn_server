@@ -37731,14 +37731,16 @@
       "inviter_referral_code": "IBX2K",
       "inviter_username": "ib123",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:20:21.251Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T22:22:34.128Z"
     },
     {
       "username": "Horlai56",
@@ -37841,7 +37843,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:17:20.157Z"
+      "joinDate": "2025-02-21T22:17:20.157Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
