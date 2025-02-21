@@ -8897,11 +8897,12 @@
         "Malclm",
         "Jennifer akuwe",
         "Solomonokun",
-        "Ezeboy"
+        "Ezeboy",
+        "Joyasakp"
       ],
       "balance": 330,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -13939,7 +13940,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:24:36.384Z"
+      "joinDate": "2025-02-21T06:24:36.384Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joyasakp",
+      "email": "joysakpaide6@gmail.com",
+      "encrypted_password": "03b6a0cab6a965c49c9f1ec807262920",
+      "referral_code": "JOYOF",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:24:40.802Z"
     }
   ],
   "withdrawals": [
