@@ -13749,16 +13749,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:19:06.762Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Riter",
@@ -13858,7 +13858,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:22:01.611Z"
+      "joinDate": "2025-02-21T06:22:01.611Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
