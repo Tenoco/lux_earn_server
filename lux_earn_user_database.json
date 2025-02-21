@@ -22379,14 +22379,13 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:08:58.094Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:09:45.215Z"
     },
     {
       "username": "Dorcas11",
@@ -22435,7 +22434,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:09:46.824Z"
+      "joinDate": "2025-02-21T09:09:46.824Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
