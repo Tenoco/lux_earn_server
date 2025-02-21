@@ -18597,7 +18597,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 130,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18608,9 +18608,9 @@
         2,
         6,
         7,
-        8
-      ],
-      "lastSpin": null
+        8,
+        9
+      ]
     },
     {
       "username": "Zealkreation",
@@ -18803,7 +18803,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:41:06.812Z"
+      "joinDate": "2025-02-21T07:41:06.812Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
