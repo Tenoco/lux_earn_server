@@ -29115,14 +29115,19 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": "Rebecca",
       "invited_users": [],
-      "balance": 0,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:58:51.965Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "username": "Muhammad003",
