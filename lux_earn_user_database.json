@@ -37357,14 +37357,15 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:08:30.761Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11
+      ]
     },
     {
       "username": "Manassa",
@@ -37481,7 +37482,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:12:04.405Z"
+      "joinDate": "2025-02-21T16:12:04.405Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
