@@ -9871,12 +9871,15 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:17:27.530Z"
+      "joinDate": "2025-02-21T03:17:27.530Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
