@@ -5629,14 +5629,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:23.925Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T00:13:52.105Z"
     },
     {
       "username": "Abdullahi3128",
@@ -5719,7 +5721,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:13:23.930Z"
+      "joinDate": "2025-02-21T00:13:23.930Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
