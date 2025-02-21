@@ -33,11 +33,12 @@
         "Toripee",
         "Munachi",
         "Drone",
-        "Momewing "
+        "Momewing ",
+        "Chidera10 "
       ],
       "balance": 5503,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37128,6 +37129,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:50:20.661Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:52:40.251Z"
     },
     {
@@ -37180,6 +37182,21 @@
       "joinDate": "2025-02-21T15:52:42.544Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chidera10 ",
+      "email": "cchukwuma517@gmail.com",
+      "encrypted_password": "350a6f6c8f83712d948ce7f6cc46f0b2",
+      "referral_code": "CHTVH",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:53:13.694Z"
     }
   ],
   "withdrawals": [
