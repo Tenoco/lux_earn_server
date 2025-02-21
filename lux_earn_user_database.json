@@ -27402,13 +27402,20 @@
       "inviter_referral_code": "NAEVI",
       "inviter_username": "Nath",
       "invited_users": [],
-      "balance": 0,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:04:14.590Z",
-      "completedMissions": [],
+      "completedMissions": [
+        3,
+        3,
+        3,
+        4,
+        6,
+        7
+      ],
       "lastSpin": null
     },
     {
