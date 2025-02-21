@@ -21896,7 +21896,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21904,9 +21904,9 @@
       "joinDate": "2025-02-21T08:54:04.219Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Chinenyefavour",
@@ -21996,7 +21996,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:58:17.371Z"
+      "joinDate": "2025-02-21T08:58:17.371Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
