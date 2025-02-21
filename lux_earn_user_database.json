@@ -20068,7 +20068,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ahmadkusa",
@@ -20209,14 +20210,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:10:49.612Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
