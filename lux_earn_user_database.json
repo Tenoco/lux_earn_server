@@ -12732,11 +12732,12 @@
         "Great",
         "Yetunde",
         "Hephzibah ",
-        "Richard "
+        "Richard ",
+        "Gold "
       ],
       "balance": 18,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -15701,7 +15702,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:52:59.707Z"
+      "joinDate": "2025-02-21T06:52:59.707Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gold ",
+      "email": "goldterry@gmail.com",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "GO9VY",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:53:14.231Z"
     }
   ],
   "withdrawals": [
