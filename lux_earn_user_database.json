@@ -14700,11 +14700,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Rokibat"
+        "Rokibat",
+        "Chizzy001xyz"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -15334,6 +15335,21 @@
       "joinDate": "2025-02-21T06:47:44.132Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chizzy001xyz",
+      "email": "chizzywizzy001@gmail.com",
+      "encrypted_password": "b8b391747281d21f7200b27fb4fe3687",
+      "referral_code": "CHVDI",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:47:53.507Z"
     }
   ],
   "withdrawals": [
