@@ -31530,7 +31530,8 @@
       "joinDate": "2025-02-21T13:09:19.725Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jaafar1004",
@@ -31557,7 +31558,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 270,
+      "balance": 360,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31572,9 +31573,11 @@
         3,
         3,
         4,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5,
+        5,
+        5
+      ]
     },
     {
       "username": "ZOZO",
