@@ -28316,7 +28316,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:39:27.914Z"
+      "joinDate": "2025-02-21T11:39:27.914Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bakoree",
+      "email": "ibrahimrabiu047@gmail.com",
+      "encrypted_password": "126fb64cb571a5e1d5f1868c2cdd9137",
+      "referral_code": "BATZD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:39:43.950Z"
     }
   ],
   "withdrawals": [
