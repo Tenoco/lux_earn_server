@@ -10269,11 +10269,12 @@
       "invited_users": [
         "Tamia",
         "Nasir",
-        "Katerina"
+        "Katerina",
+        "Ruth1"
       ],
       "balance": 305,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -11001,7 +11002,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nurudeen75",
@@ -11253,6 +11255,21 @@
       "joinDate": "2025-02-21T05:12:17.016Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ruth1",
+      "email": "ruthsandra1985@gmail.com",
+      "encrypted_password": "08ef3db6622a56d55496c95a1983af2f",
+      "referral_code": "RUMRO",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:12:54.093Z"
     }
   ],
   "withdrawals": [
