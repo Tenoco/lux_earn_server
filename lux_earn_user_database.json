@@ -33882,13 +33882,15 @@
       "inviter_referral_code": "FIDTX",
       "inviter_username": "Firstmanoneart",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:11:46.133Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -37327,7 +37329,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:44:18.929Z"
+      "joinDate": "2025-02-21T19:44:18.929Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
