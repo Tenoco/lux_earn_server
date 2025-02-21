@@ -14728,11 +14728,12 @@
       "invited_users": [
         "Rokibat",
         "Chizzy001xyz",
-        "Sam1204"
+        "Sam1204",
+        "pearlslim12"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -15989,7 +15990,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:03.077Z"
+      "joinDate": "2025-02-21T06:58:03.077Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "pearlslim12",
+      "email": "estheromoniyi7@gmail.com",
+      "encrypted_password": "408064f72d58472e89514634a163bbdd",
+      "referral_code": "PEZZQ",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:06.020Z"
     }
   ],
   "withdrawals": [
