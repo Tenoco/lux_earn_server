@@ -32602,14 +32602,17 @@
       "inviter_referral_code": "SA9B4",
       "inviter_username": "Samuel1 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 82,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:42:10.877Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T13:47:46.950Z"
     },
     {
       "username": "Alamin",
@@ -32878,7 +32881,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:50:59.991Z"
+      "joinDate": "2025-02-21T13:50:59.991Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
