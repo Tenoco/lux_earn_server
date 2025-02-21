@@ -38103,13 +38103,17 @@
       "inviter_referral_code": "INI0M",
       "inviter_username": "Inert ",
       "invited_users": [],
-      "balance": 12,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:13:05.877Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
       "lastSpin": "2025-02-21T18:23:57.710Z"
     },
     {
@@ -38250,7 +38254,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:25:08.314Z"
+      "joinDate": "2025-02-21T18:25:08.314Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
