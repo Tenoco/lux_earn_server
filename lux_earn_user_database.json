@@ -10696,10 +10696,12 @@
       "referral_code": "TOXNF",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Edwin levi "
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:22:34.771Z",
@@ -25429,6 +25431,21 @@
       "joinDate": "2025-02-21T10:26:54.865Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Edwin levi ",
+      "email": "leviedwin51@gmail.com",
+      "encrypted_password": "8e0d7a4cdbd0a6e626eb245d45259cd6",
+      "referral_code": "EDH4S",
+      "inviter_referral_code": "TOXNF",
+      "inviter_username": "Tochek",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:27:30.966Z"
     }
   ],
   "withdrawals": [
