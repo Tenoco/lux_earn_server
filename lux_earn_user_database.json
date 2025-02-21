@@ -14331,10 +14331,12 @@
       "referral_code": "JOX2B",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "THENAIJABOSS"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -22805,7 +22807,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "smizy",
@@ -22891,6 +22894,21 @@
       "joinDate": "2025-02-21T09:21:52.017Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "THENAIJABOSS",
+      "email": "keseneparadise7@gmail.com",
+      "encrypted_password": "17f82d92308e1fc626f7ab9b9a22c7f2",
+      "referral_code": "THBM6",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:23:23.369Z"
     }
   ],
   "withdrawals": [
