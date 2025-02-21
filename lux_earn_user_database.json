@@ -6590,13 +6590,15 @@
       "inviter_referral_code": "AYF10",
       "inviter_username": "Ayoola ",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:04.991Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -7118,7 +7120,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:40:22.800Z"
+      "joinDate": "2025-02-21T00:40:22.800Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
