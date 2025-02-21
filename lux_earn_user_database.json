@@ -10534,14 +10534,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:53.787Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Kingsley",
@@ -10589,7 +10590,8 @@
         1,
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "chiboy73",
