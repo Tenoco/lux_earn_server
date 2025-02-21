@@ -5448,11 +5448,12 @@
         "Johnnuy",
         "Canddley",
         "Honkong",
-        "Cannyson"
+        "Cannyson",
+        "Cannadah"
       ],
       "balance": 30,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8024,7 +8025,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:05:08.788Z"
+      "joinDate": "2025-02-21T01:05:08.788Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cannadah",
+      "email": "cannysantaply@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "CAI85",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:05:50.945Z"
     }
   ],
   "withdrawals": [
