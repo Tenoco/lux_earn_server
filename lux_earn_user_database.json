@@ -29535,7 +29535,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:09:09.415Z"
+      "joinDate": "2025-02-21T12:09:09.415Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Buikefx",
+      "email": "buikewestern@gmail.com",
+      "encrypted_password": "32a1dcddbcbf3b4102e39e8b913c6e55",
+      "referral_code": "BUKS6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:09:17.417Z"
     }
   ],
   "withdrawals": [
