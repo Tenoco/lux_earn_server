@@ -36989,7 +36989,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:52:29.979Z"
+      "joinDate": "2025-02-21T18:52:29.979Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Selflove",
+      "email": "adeyemimercy05@gmail.com",
+      "encrypted_password": "71fdb1b123b37d9612dd58ac3e3fa070",
+      "referral_code": "SEJNG",
+      "inviter_referral_code": "WI21P",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:52:43.258Z"
     }
   ],
   "withdrawals": [
