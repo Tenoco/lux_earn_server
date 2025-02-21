@@ -131,11 +131,12 @@
         "Dorcas11",
         "Zobakezie ",
         "Rogey Boss",
-        "Martha "
+        "Martha ",
+        "Mimi4success"
       ],
       "balance": 50,
-      "refers": 41,
-      "referralBalance": 4100,
+      "refers": 42,
+      "referralBalance": 4200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -25916,6 +25917,21 @@
       "joinDate": "2025-02-21T10:36:27.140Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mimi4success",
+      "email": "successehiorobo74@gmail.com",
+      "encrypted_password": "f92232056092c1fa14b21889e96806c7",
+      "referral_code": "MI44N",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:36:43.784Z"
     }
   ],
   "withdrawals": [
