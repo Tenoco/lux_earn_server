@@ -9103,7 +9103,7 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 165,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9113,7 +9113,9 @@
         1,
         2,
         3,
-        6
+        6,
+        5,
+        4
       ],
       "lastSpin": null
     }
