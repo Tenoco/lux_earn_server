@@ -11075,7 +11075,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Livvey",
@@ -11148,6 +11149,21 @@
       "joinDate": "2025-02-21T05:09:57.192Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Asad0766",
+      "email": "ahmadasad0766@gmail.com",
+      "encrypted_password": "2cdd5ad325f7d3aae64e6ceb415fd859",
+      "referral_code": "AS6BB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:10:34.174Z"
     }
   ],
   "withdrawals": [
