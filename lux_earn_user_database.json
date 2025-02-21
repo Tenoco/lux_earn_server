@@ -12988,11 +12988,12 @@
       "inviter_referral_code": "BAFPO",
       "inviter_username": "Babal112",
       "invited_users": [
-        "Feranmi "
+        "Feranmi ",
+        "Mazichief "
       ],
       "balance": 90,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -14033,7 +14034,8 @@
       "completedMissions": [
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shakou ",
@@ -14102,6 +14104,21 @@
       "joinDate": "2025-02-21T06:26:27.813Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mazichief ",
+      "email": "okaforemmanuelbenedictwalter@gmail.com",
+      "encrypted_password": "fdee0773feffed32329788e141be9ee8",
+      "referral_code": "MAZ01",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:26:56.432Z"
     }
   ],
   "withdrawals": [
