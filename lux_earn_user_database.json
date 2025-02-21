@@ -33421,16 +33421,18 @@
       "inviter_referral_code": "HAVDL",
       "inviter_username": "Hay_bee291",
       "invited_users": [],
-      "balance": 38,
+      "balance": 98,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:07:59.490Z",
+      "lastSpin": "2025-02-21T14:08:59.887Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": "2025-02-21T14:08:59.887Z"
+        2,
+        2,
+        4
+      ]
     },
     {
       "username": "Dghxs",
@@ -33598,7 +33600,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:12:40.224Z"
+      "joinDate": "2025-02-21T14:12:40.224Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
