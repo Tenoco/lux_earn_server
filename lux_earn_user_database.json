@@ -17902,11 +17902,12 @@
       "inviter_username": null,
       "invited_users": [
         "Awal001",
-        "Abdulqudus"
+        "Abdulqudus",
+        "Abdulrauf1"
       ],
       "balance": 292,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:48.588Z",
@@ -20023,7 +20024,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:07:00.539Z"
+      "joinDate": "2025-02-21T08:07:00.539Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdulrauf1",
+      "email": "abdulraufomotosho2@gmail.com",
+      "encrypted_password": "075d574afcc2d0a3943e55a518f660af",
+      "referral_code": "ABVR7",
+      "inviter_referral_code": "SH7CK",
+      "inviter_username": "sharz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:07:03.906Z"
     }
   ],
   "withdrawals": [
