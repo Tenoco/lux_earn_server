@@ -1709,11 +1709,12 @@
         "Olawale ",
         "jamiluamusbahu",
         "Sirblack1338",
-        "Kingaleey1"
+        "Kingaleey1",
+        "Elisha "
       ],
       "balance": 275,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -7005,7 +7006,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:37:57.072Z"
+      "joinDate": "2025-02-21T00:37:57.072Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elisha ",
+      "email": "princesselisha98@gmail.com",
+      "encrypted_password": "d23c4f66d52cbc44a236dd45159f3a0b",
+      "referral_code": "ELPJA",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:38:08.311Z"
     }
   ],
   "withdrawals": [
