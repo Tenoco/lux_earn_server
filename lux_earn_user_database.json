@@ -1211,11 +1211,12 @@
         "John",
         "Odia",
         "August",
-        "Danniella"
+        "Danniella",
+        "Happiness"
       ],
       "balance": 190,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -12904,7 +12905,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:01:08.260Z"
+      "joinDate": "2025-02-21T06:01:08.260Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Happiness",
+      "email": "happiness098@gmail.com",
+      "encrypted_password": "695e06655143c0d6c31e47e356558132",
+      "referral_code": "HALUS",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:01:13.476Z"
     }
   ],
   "withdrawals": [
