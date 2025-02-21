@@ -36975,7 +36975,7 @@
       "inviter_referral_code": "Y0COH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36984,7 +36984,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ]
     },
     {
