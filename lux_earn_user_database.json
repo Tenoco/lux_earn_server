@@ -37661,7 +37661,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:16:00.836Z"
+      "joinDate": "2025-02-21T16:16:00.836Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gabriel@sb",
+      "email": "henrysekyen@gmail.com",
+      "encrypted_password": "7225b15c66f7975956680cbd6c823223",
+      "referral_code": "GAY2U",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:16:01.421Z"
     }
   ],
   "withdrawals": [
