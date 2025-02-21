@@ -34949,14 +34949,21 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 192,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:40:09.656Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        11
+      ],
+      "lastSpin": "2025-02-21T15:45:09.624Z"
     },
     {
       "username": "Ijeomanwokocha",
@@ -36919,7 +36926,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:47:36.408Z"
+      "joinDate": "2025-02-21T15:47:36.408Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
