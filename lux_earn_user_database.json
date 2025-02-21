@@ -12109,7 +12109,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:36:57.872Z"
+      "joinDate": "2025-02-21T05:36:57.872Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Victorai ",
+      "email": "chinyerenneka79@gmail.com",
+      "encrypted_password": "ed52c2d217358e8ac465e41dbf9742eb",
+      "referral_code": "VIB8E",
+      "inviter_referral_code": "TR708",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:37:06.652Z"
     }
   ],
   "withdrawals": [
