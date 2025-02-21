@@ -19109,11 +19109,12 @@
       "inviter_referral_code": "ltsekl",
       "inviter_username": null,
       "invited_users": [
-        "Prosperity"
+        "Prosperity",
+        "Cyfer4pf"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:39:35.343Z",
@@ -24542,7 +24543,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:05:29.673Z"
+      "joinDate": "2025-02-21T10:05:29.673Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cyfer4pf",
+      "email": "onyekachigoziem445@gmail.com",
+      "encrypted_password": "69ea3564ebf79b06f370d8534daf6cc0",
+      "referral_code": "CYPEY",
+      "inviter_referral_code": "DA1ZN",
+      "inviter_username": "Darahnny",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:05:43.141Z"
     }
   ],
   "withdrawals": [
