@@ -12694,11 +12694,12 @@
       "invited_users": [
         "Ejenjj",
         "Suck12139",
-        "Riter"
+        "Riter",
+        "Theo"
       ],
       "balance": 18,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -13799,12 +13800,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:20:04.814Z",
-      "lastSpin": "2025-02-21T06:20:34.496Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:20:34.496Z"
     },
     {
       "username": "Peller",
@@ -13907,6 +13908,21 @@
       "joinDate": "2025-02-21T06:23:13.485Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Theo",
+      "email": "cqduock650@osxofulk.autos",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "TH5XB",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:24:27.534Z"
     }
   ],
   "withdrawals": [
