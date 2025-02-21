@@ -1294,14 +1294,15 @@
         "Estheriyanuoluwa",
         "Sara Phina"
       ],
-      "balance": 60,
+      "balance": 70,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
