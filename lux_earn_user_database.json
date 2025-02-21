@@ -2400,11 +2400,12 @@
         "Pamela210",
         "Bayole21",
         "Halohaloauah22",
-        "Ayelabowo"
+        "Ayelabowo",
+        "Bayo430"
       ],
       "balance": 280,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -26692,7 +26693,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:50:04.851Z"
+      "joinDate": "2025-02-21T10:50:04.851Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bayo430",
+      "email": "bamikolefatihu@gmail.com",
+      "encrypted_password": "a0a5132b874ca11db05ca120ea11c8d6",
+      "referral_code": "BA2GI",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:50:13.564Z"
     }
   ],
   "withdrawals": [
