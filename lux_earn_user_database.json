@@ -18020,7 +18020,7 @@
       "inviter_referral_code": "Cowoa",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18029,7 +18029,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": "2025-02-21T07:35:19.789Z"
     },
@@ -18610,7 +18611,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Zealkreation",
