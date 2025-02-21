@@ -11934,7 +11934,8 @@
         4,
         4,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdom",
@@ -12055,13 +12056,15 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:35:36.730Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
