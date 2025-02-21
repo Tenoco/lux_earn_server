@@ -28240,13 +28240,35 @@
       "inviter_referral_code": "ISTIL",
       "inviter_username": "Isaac David ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 610,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:32:30.072Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        7
+      ],
       "lastSpin": null
     },
     {
@@ -28687,7 +28709,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:48:00.525Z"
+      "joinDate": "2025-02-21T11:48:00.525Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
