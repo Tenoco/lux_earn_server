@@ -13035,11 +13035,12 @@
       "invited_users": [
         "Olakunlejnr",
         "Peller",
-        "Funmzy"
+        "Funmzy",
+        "Ericmore"
       ],
       "balance": 48,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -14099,7 +14100,8 @@
         8,
         4,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Zaddex17",
@@ -14297,6 +14299,21 @@
       "joinDate": "2025-02-21T06:30:59.526Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ericmore",
+      "email": "olakunlefunmilayo05@gmail.com",
+      "encrypted_password": "bf804698618b3117670d3d062b99b979",
+      "referral_code": "ERCYP",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:31:15.142Z"
     }
   ],
   "withdrawals": [
