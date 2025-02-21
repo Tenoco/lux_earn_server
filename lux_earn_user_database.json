@@ -9375,7 +9375,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:43:28.986Z"
+      "joinDate": "2025-02-21T02:43:28.986Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nimah",
+      "email": "nimatadewunmi418@gmail.com",
+      "encrypted_password": "d98ef6e4e0c481217670ed8a06cfa473",
+      "referral_code": "NI8MF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:43:39.223Z"
     }
   ],
   "withdrawals": [
