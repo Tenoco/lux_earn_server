@@ -1582,11 +1582,12 @@
       "invited_users": [
         "Hardek ",
         "Teejay",
-        "Solamighty "
+        "Solamighty ",
+        "09063846211"
       ],
       "balance": 195,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:35.894Z",
@@ -33237,7 +33238,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:04:01.461Z"
+      "joinDate": "2025-02-21T14:04:01.461Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "09063846211",
+      "email": "olaunjidaud32@gmail.com",
+      "encrypted_password": "abc0f26080f1a27b9aa91ce3ff171774",
+      "referral_code": "09YRZ",
+      "inviter_referral_code": "OL0RR",
+      "inviter_username": "Ola ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:04:16.951Z"
     }
   ],
   "withdrawals": [
