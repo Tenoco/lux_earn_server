@@ -5449,7 +5449,8 @@
         2,
         1,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oyin",
@@ -5605,6 +5606,21 @@
       "joinDate": "2025-02-21T00:11:44.361Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ibrahim22334",
+      "email": "gagarame1780@mail.com",
+      "encrypted_password": "9a7490184c3bbb793825e50a05644a30",
+      "referral_code": "IBGM0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:12:23.925Z"
     }
   ],
   "withdrawals": [
