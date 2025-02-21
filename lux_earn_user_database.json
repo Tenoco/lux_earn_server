@@ -23394,7 +23394,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 185,
+      "balance": 215,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23406,7 +23406,8 @@
         7,
         5,
         8,
-        9
+        9,
+        4
       ],
       "lastSpin": "2025-02-21T09:41:33.179Z"
     },
@@ -23970,7 +23971,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:50:43.292Z"
+      "joinDate": "2025-02-21T09:50:43.292Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
