@@ -36229,7 +36229,7 @@
       "inviter_referral_code": "ME3ZJ",
       "inviter_username": "Merrysmart",
       "invited_users": [],
-      "balance": 180,
+      "balance": 310,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36241,9 +36241,13 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        8,
+        7,
+        9,
+        10,
+        11
+      ]
     },
     {
       "username": "Illuminax ",
@@ -36475,7 +36479,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:31:19.246Z"
+      "joinDate": "2025-02-21T15:31:19.246Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
