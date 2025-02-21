@@ -14855,11 +14855,12 @@
         "Sung",
         "Mayowa",
         "Paul",
-        "Tobi"
+        "Tobi",
+        "Divine "
       ],
       "balance": 300,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -28451,6 +28452,21 @@
       "joinDate": "2025-02-21T11:41:32.474Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Divine ",
+      "email": "xajemo3799@yalcu.com",
+      "encrypted_password": "8ace72535e8ea08b22681721a437a6f5",
+      "referral_code": "DI96K",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:42:25.985Z"
     }
   ],
   "withdrawals": [
