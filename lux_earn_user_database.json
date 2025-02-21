@@ -21430,13 +21430,15 @@
       "inviter_referral_code": "ISIY2",
       "inviter_username": "Israelite ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:39:57.233Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -21760,7 +21762,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:49:30.615Z"
+      "joinDate": "2025-02-21T08:49:30.615Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
