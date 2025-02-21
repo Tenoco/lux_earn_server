@@ -22713,11 +22713,12 @@
         "samueljoeseph",
         "Smanazceo",
         "Jerry30",
-        "Lolashi"
+        "Lolashi",
+        "Latee"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -37919,14 +37920,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:02:41.641Z",
-      "lastSpin": "2025-02-21T18:03:05.370Z",
       "completedMissions": [
         1,
         3,
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T18:03:05.370Z"
     },
     {
       "username": "Royalty124",
@@ -37982,6 +37983,21 @@
       "joinDate": "2025-02-21T18:06:02.247Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Latee",
+      "email": "Latee@gmail.com",
+      "encrypted_password": "8a2bc6f29f421af1f4094296ae17f244",
+      "referral_code": "LAMQJ",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:07:57.613Z"
     }
   ],
   "withdrawals": [
