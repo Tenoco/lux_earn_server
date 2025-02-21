@@ -925,11 +925,12 @@
         "daniel2027_ÃÂ£$",
         "Chris Richalbert ",
         "Femzico ",
-        "Doffy"
+        "Doffy",
+        "Crystal "
       ],
       "balance": 163,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -26059,7 +26060,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:39:51.672Z"
+      "joinDate": "2025-02-21T10:39:51.672Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Crystal ",
+      "email": "herriettaonyinyechiegbuna@gmail.com",
+      "encrypted_password": "9a952cd91000872a8d7d1f5ee0c87317",
+      "referral_code": "CRZUP",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:40:08.006Z"
     }
   ],
   "withdrawals": [
