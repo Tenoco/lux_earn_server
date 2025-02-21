@@ -22698,14 +22698,21 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": "Jerry14",
       "invited_users": [],
-      "balance": 0,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:17:43.361Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        3,
+        2,
+        1,
+        4,
+        5,
+        6,
+        6
+      ]
     },
     {
       "username": "mr.cup",
@@ -22952,7 +22959,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:24:59.052Z"
+      "joinDate": "2025-02-21T09:24:59.052Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
