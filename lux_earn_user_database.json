@@ -13954,14 +13954,13 @@
       "inviter_referral_code": "MSNAH",
       "inviter_username": "Msfiris",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:24:40.802Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:25:25.515Z"
     },
     {
       "username": "Joker32",
@@ -14044,7 +14043,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:25:23.855Z"
+      "joinDate": "2025-02-21T06:25:23.855Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
