@@ -19326,7 +19326,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 115,
+      "balance": 145,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19335,7 +19335,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": "2025-02-21T07:53:39.735Z"
     },
@@ -19541,7 +19542,8 @@
       "joinDate": "2025-02-21T07:55:22.246Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Isahmarry",
