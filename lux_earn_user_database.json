@@ -2394,11 +2394,12 @@
         "Kayode26",
         "Lola32E",
         "Pamela210",
-        "Bayole21"
+        "Bayole21",
+        "Halohaloauah22"
       ],
       "balance": 280,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -26120,6 +26121,21 @@
       "joinDate": "2025-02-21T10:40:40.492Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Halohaloauah22",
+      "email": "harloharlo780@gmail.com",
+      "encrypted_password": "1059c5ae65326e7f02ba9a9552889c6a",
+      "referral_code": "HASUW",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:41:06.018Z"
     }
   ],
   "withdrawals": [
