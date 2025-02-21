@@ -280,11 +280,12 @@
         "Tetantes",
         "BOUCK",
         "silas olamide",
-        "Mamabby"
+        "Mamabby",
+        "Femi235"
       ],
       "balance": 235,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -11419,7 +11420,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:16:19.851Z"
+      "joinDate": "2025-02-21T05:16:19.851Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Femi235",
+      "email": "femid162@gmail.com",
+      "encrypted_password": "558a0b9fbcfd10c295c1859f0a77b13f",
+      "referral_code": "FEOEE",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:16:25.152Z"
     }
   ],
   "withdrawals": [
