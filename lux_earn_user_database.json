@@ -23002,11 +23002,12 @@
         "godsave",
         "zoeswanky ",
         "Donprince141",
-        "Favor"
+        "Favor",
+        "Adex"
       ],
       "balance": 220,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -37236,7 +37237,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:54:12.450Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:54:36.383Z"
+    },
+    {
+      "username": "Adex",
+      "email": "biancadahila56@gmail.com",
+      "encrypted_password": "ce27303b682ea6fb49274c793b7420b0",
+      "referral_code": "ADNEZ",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:54:50.360Z"
     }
   ],
   "withdrawals": [
