@@ -10337,13 +10337,15 @@
       "inviter_referral_code": "OL0RR",
       "inviter_username": "Ola ",
       "invited_users": [],
-      "balance": 50,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:08:05.424Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -34465,7 +34467,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:34:28.208Z"
+      "joinDate": "2025-02-21T14:34:28.208Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
