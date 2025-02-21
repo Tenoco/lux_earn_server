@@ -1736,11 +1736,12 @@
         "Habbeybam",
         "beautycrown",
         "Felixmba",
-        "Segzypark"
+        "Segzypark",
+        "Amatusafy"
       ],
       "balance": 275,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9589,7 +9590,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:01:16.685Z"
+      "joinDate": "2025-02-21T03:01:16.685Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amatusafy",
+      "email": "mariampeter0312@gmail.com",
+      "encrypted_password": "c75dcc21c9defc32c18edb3148b0d59d",
+      "referral_code": "AM4RI",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:02:12.773Z"
     }
   ],
   "withdrawals": [
