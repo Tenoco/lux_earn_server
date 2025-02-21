@@ -31218,7 +31218,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Peace87g",
@@ -31330,7 +31331,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31338,7 +31339,8 @@
       "joinDate": "2025-02-21T13:02:44.014Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
