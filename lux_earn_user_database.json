@@ -32093,7 +32093,7 @@
       "inviter_referral_code": "VAGJR",
       "inviter_username": "VanDijk",
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32102,7 +32102,9 @@
       "completedMissions": [
         3,
         1,
-        2
+        2,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -32449,7 +32451,8 @@
       "joinDate": "2025-02-21T13:37:02.439Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kaykaykay",
