@@ -113,11 +113,12 @@
         "Titanic ",
         "KingT",
         "Amelia",
-        "Adexan"
+        "Adexan",
+        "Christy"
       ],
       "balance": 50,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -14248,7 +14249,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:43:55.643Z"
+      "joinDate": "2025-02-21T06:43:55.643Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Christy",
+      "email": "baokuchristiana92@gmail.com",
+      "encrypted_password": "510c09e6483afbd7d36a8260b7d2bfaf",
+      "referral_code": "CHTAM",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:30:19.628Z"
     }
   ],
   "withdrawals": [
