@@ -18344,16 +18344,19 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [],
-      "balance": 60,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:30:33.677Z",
+      "lastSpin": "2025-02-21T07:31:30.594Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T07:31:30.594Z"
+        1,
+        2,
+        5,
+        4
+      ]
     },
     {
       "username": "Taiyyiba ",
@@ -18478,7 +18481,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kel225",
