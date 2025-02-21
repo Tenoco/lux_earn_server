@@ -37044,14 +37044,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:49:41.409Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Wisdom22",
@@ -37119,7 +37120,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:53:03.522Z"
+      "joinDate": "2025-02-21T16:53:03.522Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
