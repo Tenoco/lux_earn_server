@@ -2076,11 +2076,12 @@
         "Amaka5",
         "Amalaugo3",
         "Sylverfox ",
-        "Rosequeen"
+        "Rosequeen",
+        "Favour48"
       ],
       "balance": 285,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -33674,13 +33675,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:13:11.871Z",
-      "lastSpin": "2025-02-21T14:16:26.980Z",
       "completedMissions": [
         1,
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:16:26.980Z"
     },
     {
       "username": "Olamight ",
@@ -33989,6 +33990,21 @@
       "joinDate": "2025-02-21T14:21:28.717Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favour48",
+      "email": "favourokorie460@gmail.com",
+      "encrypted_password": "9da46d6229addedd8c957e3c3cce692b",
+      "referral_code": "FAH4X",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:21:52.481Z"
     }
   ],
   "withdrawals": [
