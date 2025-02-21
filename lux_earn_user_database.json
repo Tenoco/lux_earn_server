@@ -27331,13 +27331,16 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:01:25.096Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": "2025-02-21T11:15:48.987Z"
     },
     {
