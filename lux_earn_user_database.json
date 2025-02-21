@@ -30388,7 +30388,7 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 102,
+      "balance": 132,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30397,7 +30397,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        3
       ],
       "lastSpin": "2025-02-21T12:36:10.346Z"
     },
