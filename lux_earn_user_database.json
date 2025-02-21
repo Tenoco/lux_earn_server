@@ -11484,7 +11484,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "NUEL22 ",
@@ -11587,6 +11588,21 @@
       "joinDate": "2025-02-21T05:22:12.916Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alberthub",
+      "email": "keppygimotitus@yahoo.com",
+      "encrypted_password": "c4bc7871fdebd2ad48849de2021d0a6c",
+      "referral_code": "ALPLL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:19.708Z"
     }
   ],
   "withdrawals": [
