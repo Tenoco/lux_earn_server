@@ -16312,11 +16312,12 @@
         "Danieljoy",
         "Nuatin11",
         "Tanimowo2587",
-        "johnnysp2"
+        "johnnysp2",
+        "spomoj"
       ],
       "balance": 68,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -32981,7 +32982,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:54:31.286Z"
+      "joinDate": "2025-02-21T13:54:31.286Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "spomoj",
+      "email": "spomojeremiah@gmail.com",
+      "encrypted_password": "964e8dc8176338e811352afeb0afa83a",
+      "referral_code": "SPGDD",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:54:32.945Z"
     }
   ],
   "withdrawals": [
