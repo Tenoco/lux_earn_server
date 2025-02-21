@@ -19748,13 +19748,17 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:52:28.382Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -31023,7 +31027,8 @@
       "joinDate": "2025-02-21T12:54:09.486Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmabtc ",
