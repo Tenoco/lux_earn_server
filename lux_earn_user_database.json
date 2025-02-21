@@ -6472,13 +6472,24 @@
       "inviter_referral_code": "ABWC8",
       "inviter_username": "Abdullahi3128",
       "invited_users": [],
-      "balance": 50,
+      "balance": 310,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:20:27.894Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        6,
+        5,
+        1,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -37752,7 +37763,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:17:32.916Z"
+      "joinDate": "2025-02-21T16:17:32.916Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
