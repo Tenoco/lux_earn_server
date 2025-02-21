@@ -1137,11 +1137,12 @@
         "Wonderful ",
         "Noblegrafix",
         "Dolapo911",
-        "Olad "
+        "Olad ",
+        "Azzybae"
       ],
       "balance": 295,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -10258,7 +10259,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:10:54.626Z"
+      "joinDate": "2025-02-21T04:10:54.626Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Azzybae",
+      "email": "aliuazeezat22@gmail.com",
+      "encrypted_password": "fbc8a59d0ac1f8f3d0f7498b6fb570b7",
+      "referral_code": "AZCY8",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:10:57.596Z"
     }
   ],
   "withdrawals": [
