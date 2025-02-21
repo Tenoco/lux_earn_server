@@ -36123,7 +36123,8 @@
       "joinDate": "2025-02-21T15:21:02.697Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mzee07",
@@ -36239,14 +36240,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:23:54.861Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:24:39.147Z"
     },
     {
       "username": "Sakiru",
