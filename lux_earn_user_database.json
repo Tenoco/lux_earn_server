@@ -5471,11 +5471,12 @@
         "Honkangel",
         "Canolata",
         "Callmedad",
-        "Thesanny"
+        "Thesanny",
+        "Lonlonlee"
       ],
       "balance": 30,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8394,7 +8395,8 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Callmedad",
@@ -8480,6 +8482,21 @@
       "joinDate": "2025-02-21T01:17:52.105Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lonlonlee",
+      "email": "lonlonlee@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "LO1XL",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:18:38.410Z"
     }
   ],
   "withdrawals": [
