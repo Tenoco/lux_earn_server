@@ -20475,11 +20475,12 @@
         "Badoluck",
         "Danicoko",
         "Gkololo",
-        "Luckybad"
+        "Luckybad",
+        "Darakitbot "
       ],
       "balance": 250,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -22242,6 +22243,21 @@
       "joinDate": "2025-02-21T09:04:42.538Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Darakitbot ",
+      "email": "hobbylola@gmail.com",
+      "encrypted_password": "8b5eaaaa0e622d296733b41873757f5b",
+      "referral_code": "DA7XI",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:05:22.610Z"
     }
   ],
   "withdrawals": [
