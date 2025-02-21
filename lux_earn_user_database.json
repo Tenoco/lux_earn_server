@@ -37316,10 +37316,12 @@
       "referral_code": "DO2ZF",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "dolapo020l"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37456,7 +37458,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:59:45.990Z"
+      "joinDate": "2025-02-21T19:59:45.990Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "dolapo020l",
+      "email": "dolapo026@gmail.com",
+      "encrypted_password": "dd4b21e9ef71e1291183a46b913ae6f2",
+      "referral_code": "DOGQD",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:00:27.800Z"
     }
   ],
   "withdrawals": [
