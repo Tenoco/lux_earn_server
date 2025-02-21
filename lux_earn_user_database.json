@@ -11382,12 +11382,11 @@
         "Inioluwa",
         "Favour",
         "Racheal ",
-        "Ifeoluwa",
-        "Flavor"
+        "Ifeoluwa"
       ],
-      "balance": 185,
-      "refers": 5,
-      "referralBalance": 500,
+      "balance": 200,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -11401,7 +11400,7 @@
         5,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T13:31:10.594Z"
     },
     {
       "username": "Livvey",
@@ -32152,7 +32151,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:31:04.329Z"
+      "joinDate": "2025-02-21T13:31:04.329Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
