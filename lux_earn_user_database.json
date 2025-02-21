@@ -13021,14 +13021,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:02:04.959Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:02:15.290Z",
+      "completedMissions": [
+        2,
+        1
+      ]
     },
     {
       "username": "shadeajib ",
@@ -13094,7 +13097,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:03:40.637Z"
+      "joinDate": "2025-02-21T06:03:40.637Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
