@@ -4963,14 +4963,16 @@
       "inviter_referral_code": "ThE WEB3 BBLLA",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:59:06.068Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Chindimane",
@@ -5179,7 +5181,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:03:31.832Z"
+      "joinDate": "2025-02-21T00:03:31.832Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
