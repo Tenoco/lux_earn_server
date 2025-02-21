@@ -11404,11 +11404,12 @@
         "Racheal ",
         "Ifeoluwa",
         "Endure",
-        "maxj5049"
+        "maxj5049",
+        "Amaka"
       ],
       "balance": 200,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -33321,6 +33322,21 @@
       "joinDate": "2025-02-21T14:05:39.893Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amaka",
+      "email": "elizaconsult001@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "AMUB5",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:06:22.289Z"
     }
   ],
   "withdrawals": [
