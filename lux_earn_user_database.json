@@ -1420,11 +1420,12 @@
         "Teeprime",
         "Kulumfestus",
         "monday22",
-        "Laskid037 "
+        "Laskid037 ",
+        "Baddie"
       ],
       "balance": 88,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -37005,6 +37006,21 @@
       "joinDate": "2025-02-21T23:45:42.034Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Baddie",
+      "email": "debbiepaul468@gmail.com",
+      "encrypted_password": "ac7e48a29151726e778b4396a379ef0b",
+      "referral_code": "BAUX5",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:46:15.740Z"
     }
   ],
   "withdrawals": [
