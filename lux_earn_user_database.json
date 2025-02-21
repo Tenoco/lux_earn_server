@@ -37006,7 +37006,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:52:43.258Z"
+      "joinDate": "2025-02-21T18:52:43.258Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "semiuazeez131",
+      "email": "azeezsemiu131@gmail.com",
+      "encrypted_password": "65d8c32011bac9418dbe306ec493f4e3",
+      "referral_code": "SEIM3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:53:21.942Z"
     }
   ],
   "withdrawals": [
