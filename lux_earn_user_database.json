@@ -29880,7 +29880,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:18:16.395Z"
+      "joinDate": "2025-02-21T12:18:16.395Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Promzzy11 ",
+      "email": "alexogbemudia94@gmail.com",
+      "encrypted_password": "cae1a4d4b08aa174051997f32f9ab2f9",
+      "referral_code": "PRG6M",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:18:46.448Z"
     }
   ],
   "withdrawals": [
