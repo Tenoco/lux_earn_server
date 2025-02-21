@@ -34762,14 +34762,14 @@
       "inviter_referral_code": "DECIC",
       "inviter_username": "Debby030",
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:36:02.277Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T21:36:34.616Z"
     },
     {
       "username": "Hamsterkombat",
@@ -37102,7 +37102,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
