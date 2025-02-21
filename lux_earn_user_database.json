@@ -3546,10 +3546,12 @@
       "referral_code": "TA077",
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oyekunle "
+      ],
       "balance": 278,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -7987,7 +7989,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:04:55.463Z"
+      "joinDate": "2025-02-21T01:04:55.463Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyekunle ",
+      "email": "victoroyekunle77@gmail.com",
+      "encrypted_password": "e494daabdb0951d7247f23df5483766a",
+      "referral_code": "OYRHZ",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:05:03.404Z"
     }
   ],
   "withdrawals": [
