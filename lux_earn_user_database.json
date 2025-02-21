@@ -5873,14 +5873,19 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 50,
+      "balance": 208,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:15.128Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        3,
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-21T00:17:03.331Z"
     },
     {
       "username": "domdresin",
