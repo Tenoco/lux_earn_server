@@ -19586,14 +19586,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:55:43.839Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:57:28.463Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Pelumi123",
@@ -19609,10 +19611,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:56:13.957Z",
-      "lastSpin": "2025-02-21T07:58:15.212Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:58:15.212Z"
     },
     {
       "username": "Mike",
