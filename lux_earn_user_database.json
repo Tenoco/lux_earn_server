@@ -32074,14 +32074,15 @@
       "inviter_referral_code": "TO3W7",
       "inviter_username": "Tommy2773",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:28:33.907Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Hahi",
@@ -32113,7 +32114,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:29:51.391Z"
+      "joinDate": "2025-02-21T13:29:51.391Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
