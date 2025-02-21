@@ -11008,7 +11008,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nurudeen75",
@@ -11386,6 +11387,21 @@
       "joinDate": "2025-02-21T05:15:27.788Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Unknown",
+      "email": "favourboi160@gmail.com",
+      "encrypted_password": "b094916741860db912ddf8403ba870f1",
+      "referral_code": "UN6ID",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:15:55.793Z"
     }
   ],
   "withdrawals": [
