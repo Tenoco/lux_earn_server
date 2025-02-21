@@ -1500,7 +1500,7 @@
       "invited_users": [
         "Joe"
       ],
-      "balance": 180,
+      "balance": 220,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1511,7 +1511,8 @@
         2,
         1,
         4,
-        5
+        5,
+        8
       ],
       "lastSpin": "2025-02-20T23:13:48.206Z"
     },
