@@ -36900,13 +36900,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 5,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:47:04.824Z",
-      "completedMissions": [],
+      "completedMissions": [
+        3,
+        4,
+        5
+      ],
       "lastSpin": "2025-02-21T18:53:36.810Z"
     },
     {
