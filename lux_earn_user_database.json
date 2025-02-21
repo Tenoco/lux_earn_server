@@ -1171,7 +1171,7 @@
         "Orengo",
         "HUSTLER001"
       ],
-      "balance": 295,
+      "balance": 195,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -12474,7 +12474,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:49:52.682Z"
+      "joinDate": "2025-02-21T05:49:52.682Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -12842,6 +12844,16 @@
       "phoneNumber": "08084107782",
       "amount": 100,
       "timestamp": "2025-02-21T05:45:24.592Z",
+      "status": "pending"
+    },
+    {
+      "username": "Luxearner",
+      "email": "oluwakuadeemma0997@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "09137336333",
+      "amount": 100,
+      "timestamp": "2025-02-21T05:50:01.440Z",
       "status": "pending"
     }
   ]
