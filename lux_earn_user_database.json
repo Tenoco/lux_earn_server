@@ -26274,7 +26274,7 @@
       "inviter_referral_code": "BONOX",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26284,9 +26284,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Sir",
@@ -26587,7 +26587,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:49:13.576Z"
+      "joinDate": "2025-02-21T10:49:13.576Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
