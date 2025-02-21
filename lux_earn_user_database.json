@@ -10725,11 +10725,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Dollypee"
+        "Dollypee",
+        "Ifeoluwaoluwakemi "
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -30999,7 +31000,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:53:36.478Z"
+      "joinDate": "2025-02-21T12:53:36.478Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ifeoluwaoluwakemi ",
+      "email": "ifeoluwaayomide469@gmail.com",
+      "encrypted_password": "39d79b16d5fde253ca18127d13559853",
+      "referral_code": "IFQEF",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:54:09.486Z"
     }
   ],
   "withdrawals": [
