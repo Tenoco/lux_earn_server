@@ -3151,11 +3151,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Dreamerz "
+        "Dreamerz ",
+        "Emme"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:29:24.492Z",
@@ -11561,7 +11562,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Destiny56",
@@ -11681,6 +11683,21 @@
       "joinDate": "2025-02-21T05:22:59.974Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emme",
+      "email": "bolaemme@gmail.com",
+      "encrypted_password": "57c81135709955f0449ad8a9447b2ea0",
+      "referral_code": "EMTEE",
+      "inviter_referral_code": "BLZE2",
+      "inviter_username": "Blaze",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:23:19.910Z"
     }
   ],
   "withdrawals": [
