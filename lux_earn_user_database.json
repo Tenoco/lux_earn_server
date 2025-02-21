@@ -641,11 +641,12 @@
         "Ibrahim ",
         "Olaide ",
         "Starlet123",
-        "Kayode"
+        "Kayode",
+        "JuNifa"
       ],
       "balance": 112,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -5683,7 +5684,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:13:12.225Z"
+      "joinDate": "2025-02-21T00:13:12.225Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "JuNifa",
+      "email": "jenegwuonwu@gmail.com",
+      "encrypted_password": "ab5cfab3518250d376d25850997008fd",
+      "referral_code": "JUO9W",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:13:15.128Z"
     }
   ],
   "withdrawals": [
