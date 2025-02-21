@@ -25384,7 +25384,7 @@
       "inviter_referral_code": "@BD8K",
       "inviter_username": "@bubble",
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25393,7 +25393,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
