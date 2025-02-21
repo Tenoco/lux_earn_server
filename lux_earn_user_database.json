@@ -36952,7 +36952,7 @@
       "inviter_referral_code": "MAX5P",
       "inviter_username": "Mark777",
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36961,9 +36961,9 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Kceemoni ",
@@ -36996,6 +36996,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:17:59.611Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T21:18:32.062Z"
     }
   ],
