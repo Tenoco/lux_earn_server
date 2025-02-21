@@ -15476,11 +15476,12 @@
         "Olayinka65",
         "Lexy001",
         "Lucasmacas",
-        "Chinenyefavour"
+        "Chinenyefavour",
+        "Damite"
       ],
       "balance": 380,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -22313,7 +22314,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:06:51.387Z"
+      "joinDate": "2025-02-21T09:06:51.387Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Damite",
+      "email": "awolowodamilola8@gmail.com",
+      "encrypted_password": "feb5d34bec0bf119217d09035361e22d",
+      "referral_code": "DACWC",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:07:12.692Z"
     }
   ],
   "withdrawals": [
