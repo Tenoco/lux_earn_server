@@ -12819,7 +12819,8 @@
       "joinDate": "2025-02-21T05:58:59.778Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chris Richalbert ",
@@ -12854,6 +12855,21 @@
       "joinDate": "2025-02-21T05:59:22.367Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "hardayphemmy",
+      "email": "adebayoadefemi222@gmail.com",
+      "encrypted_password": "ec9e3c3c8434a7914b2b4d59b954dae2",
+      "referral_code": "HAMSQ",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:00:39.563Z"
     }
   ],
   "withdrawals": [
