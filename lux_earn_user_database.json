@@ -15424,11 +15424,12 @@
       "inviter_username": null,
       "invited_users": [
         "Musa sani",
-        "Marcusein "
+        "Marcusein ",
+        "Ajeboter"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -35246,7 +35247,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "AKA1 ",
@@ -35510,6 +35512,21 @@
       "joinDate": "2025-02-21T15:03:10.621Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ajeboter",
+      "email": "saniajebo26@gmail.com",
+      "encrypted_password": "a80364d53e86b8ab4c4f753381786634",
+      "referral_code": "AJUPS",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:03:42.808Z"
     }
   ],
   "withdrawals": [
