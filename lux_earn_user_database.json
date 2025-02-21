@@ -11930,14 +11930,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:22:04.162Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T13:12:37.752Z"
     },
     {
       "username": "Carocaro",
@@ -31555,7 +31557,8 @@
       "joinDate": "2025-02-21T13:12:15.543Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ZOZO",
