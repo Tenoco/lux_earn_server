@@ -7681,7 +7681,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:56:13.209Z"
+      "joinDate": "2025-02-21T00:56:13.209Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Clinton ",
+      "email": "clintonononauju@gmail.com",
+      "encrypted_password": "4164baf2dd7dfd3a3debe35714c0620e",
+      "referral_code": "CLL93",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:56:30.477Z"
     }
   ],
   "withdrawals": [
