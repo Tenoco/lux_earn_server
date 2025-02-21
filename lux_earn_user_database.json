@@ -27030,7 +27030,7 @@
       "inviter_referral_code": "Gdgfgdgugf",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 62,
+      "balance": 142,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27039,7 +27039,11 @@
       "completedMissions": [
         1,
         6,
-        4
+        4,
+        4,
+        4,
+        5,
+        5
       ],
       "lastSpin": "2025-02-21T23:46:46.299Z"
     },
@@ -37064,7 +37068,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:54:42.873Z"
+      "joinDate": "2025-02-21T23:54:42.873Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
