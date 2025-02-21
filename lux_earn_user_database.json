@@ -14843,11 +14843,12 @@
         "Daddy ",
         "Mummy ",
         "Sung",
-        "Mayowa"
+        "Mayowa",
+        "Paul"
       ],
       "balance": 300,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -27283,6 +27284,21 @@
       "joinDate": "2025-02-21T11:02:50.659Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T11:03:15.520Z"
+    },
+    {
+      "username": "Paul",
+      "email": "viyef55420@yalcu.com",
+      "encrypted_password": "74f844e09a5d6be132d3f462caf379b5",
+      "referral_code": "PAHG1",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:03:41.038Z"
     }
   ],
   "withdrawals": [
