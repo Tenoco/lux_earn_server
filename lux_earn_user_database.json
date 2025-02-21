@@ -30026,10 +30026,12 @@
       "referral_code": "CHMIG",
       "inviter_referral_code": "Ben3on",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ogbe"
+      ],
       "balance": 210,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:19:51.022Z",
@@ -33712,6 +33714,21 @@
       "joinDate": "2025-02-21T14:14:41.895Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ogbe",
+      "email": "ogbeu52@gmail.com",
+      "encrypted_password": "7618ac1204016a16ed90b90bf1a482b9",
+      "referral_code": "OGMC5",
+      "inviter_referral_code": "CHMIG",
+      "inviter_username": "Chidera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:15:06.003Z"
     }
   ],
   "withdrawals": [
