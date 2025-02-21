@@ -38181,7 +38181,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:44:23.489Z"
+      "joinDate": "2025-02-21T20:44:23.489Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "nawal",
+      "email": "adenijinawal@gmail.com",
+      "encrypted_password": "aba88ca31bbd1b3fcf58379a8f258b58",
+      "referral_code": "NA69J",
+      "inviter_referral_code": "AJC4H",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:44:26.450Z"
     }
   ],
   "withdrawals": [
