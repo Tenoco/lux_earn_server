@@ -9358,7 +9358,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:43:00.789Z"
+      "joinDate": "2025-02-21T02:43:00.789Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuel ",
+      "email": "emmanuelnwuba2010@gmail.com",
+      "encrypted_password": "62fb97c04c7061759f75b8031db07f2b",
+      "referral_code": "EMV0M",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:43:28.986Z"
     }
   ],
   "withdrawals": [
