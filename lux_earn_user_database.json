@@ -17715,14 +17715,17 @@
       "inviter_referral_code": "ADGJX",
       "inviter_username": "adexdave3 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:20:15.785Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "shoyombo02@gmail.com",
@@ -19050,7 +19053,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:46:55.486Z"
+      "joinDate": "2025-02-21T07:46:55.486Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
