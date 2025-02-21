@@ -19008,11 +19008,12 @@
       "inviter_username": "@bubble",
       "invited_users": [
         "mrlee",
-        "alanapromise117"
+        "alanapromise117",
+        "Ramadan"
       ],
       "balance": 220,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -20625,7 +20626,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:20:53.980Z"
+      "joinDate": "2025-02-21T08:20:53.980Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ramadan",
+      "email": "avacharlotte122@gmail.com",
+      "encrypted_password": "146299a75c71e34cb99c68c2f961068f",
+      "referral_code": "RAGGT",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:21:11.210Z"
     }
   ],
   "withdrawals": [
