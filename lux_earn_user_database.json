@@ -28664,7 +28664,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28672,7 +28672,8 @@
       "joinDate": "2025-02-21T11:46:27.581Z",
       "completedMissions": [
         3,
-        4
+        4,
+        2
       ],
       "lastSpin": null
     },
