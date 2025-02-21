@@ -3827,11 +3827,12 @@
         "Kaypomping ",
         "Olasunmbo",
         "Zeemah",
-        "Wilson wildcard "
+        "Wilson wildcard ",
+        "Adewale Kabirat "
       ],
       "balance": 50,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -34022,7 +34023,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:22:09.931Z"
+      "joinDate": "2025-02-21T14:22:09.931Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adewale Kabirat ",
+      "email": "adewalekabirat65@gmail.com",
+      "encrypted_password": "e62540454ade2865da1142766959d0f7",
+      "referral_code": "ADRB6",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:22:27.813Z"
     }
   ],
   "withdrawals": [
