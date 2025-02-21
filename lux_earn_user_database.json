@@ -28866,7 +28866,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:54:36.168Z"
+      "joinDate": "2025-02-21T11:54:36.168Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Coachhoneya01",
+      "email": "oluwatosinadebisi28@gmail.com",
+      "encrypted_password": "219ec13652a5f07911a0bca3a055218f",
+      "referral_code": "COMJ5",
+      "inviter_referral_code": "Referral code KU47J",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:54:57.471Z"
     }
   ],
   "withdrawals": [
