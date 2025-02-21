@@ -145,11 +145,12 @@
         "Habexpro",
         "preciousmak",
         "Illuminax ",
-        "kingbest001"
+        "kingbest001",
+        "Adamcy123"
       ],
       "balance": 50,
-      "refers": 48,
-      "referralBalance": 4800,
+      "refers": 49,
+      "referralBalance": 4900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -37651,7 +37652,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:18:32.128Z"
+      "joinDate": "2025-02-21T22:18:32.128Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adamcy123",
+      "email": "shuaibumusadabara@gmail.com",
+      "encrypted_password": "4dafe6fc30d96023c7e2851c343e1a8b",
+      "referral_code": "ADIHO",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:18:50.538Z"
     }
   ],
   "withdrawals": [
