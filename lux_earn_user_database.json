@@ -9456,7 +9456,8 @@
         4,
         5,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chioma78",
@@ -9517,16 +9518,18 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 85,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:51:43.505Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        3,
+        8
+      ]
     },
     {
       "username": "Felixmba",
