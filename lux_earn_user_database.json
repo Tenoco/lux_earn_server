@@ -4661,7 +4661,7 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 230,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4672,7 +4672,9 @@
         2,
         2,
         3,
-        4
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-20T23:52:23.925Z"
     },
@@ -4948,7 +4950,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Habibu1234",
