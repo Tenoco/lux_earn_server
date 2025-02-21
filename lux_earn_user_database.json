@@ -5341,11 +5341,12 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [
-        "Cannel"
+        "Cannel",
+        "domdresin"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5701,7 +5702,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:13:15.128Z"
+      "joinDate": "2025-02-21T00:13:15.128Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "domdresin",
+      "email": "donsresin765@gmail.com",
+      "encrypted_password": "6eafc033d84a21e480a0c1966123f8c2",
+      "referral_code": "DO73V",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:13:23.930Z"
     }
   ],
   "withdrawals": [
