@@ -24679,11 +24679,12 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [
-        "Vgfak"
+        "Vgfak",
+        "Yachqn"
       ],
       "balance": 350,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -25672,14 +25673,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:30:04.151Z",
-      "lastSpin": "2025-02-21T10:31:21.359Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:31:21.359Z"
     },
     {
       "username": "Ayo88",
@@ -26026,6 +26027,21 @@
       "joinDate": "2025-02-21T10:39:20.548Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yachqn",
+      "email": "uaftwv@gmail.com",
+      "encrypted_password": "c82c409966a7be8fa05e3319af48f171",
+      "referral_code": "YA0PV",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:39:40.043Z"
     }
   ],
   "withdrawals": [
