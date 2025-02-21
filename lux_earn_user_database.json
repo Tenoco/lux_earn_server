@@ -34805,7 +34805,7 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34814,7 +34814,8 @@
       "completedMissions": [
         2,
         1,
-        3
+        3,
+        4
       ],
       "lastSpin": null
     },
