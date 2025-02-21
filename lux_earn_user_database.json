@@ -29883,14 +29883,15 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:15:31.608Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Spotlessboo ",
@@ -30024,7 +30025,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:21:19.277Z"
+      "joinDate": "2025-02-21T12:21:19.277Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
