@@ -30005,11 +30005,12 @@
       "inviter_username": null,
       "invited_users": [
         "Danbyr",
-        "Poiyiu"
+        "Poiyiu",
+        "Peace87g"
       ],
       "balance": 262,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:24:03.647Z",
@@ -31158,7 +31159,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:57:55.957Z"
+      "joinDate": "2025-02-21T12:57:55.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peace87g",
+      "email": "odhvniel80@gmail.com",
+      "encrypted_password": "0b48df051c8248f1a8428f2d9613f836",
+      "referral_code": "PEE44",
+      "inviter_referral_code": "DA0VX",
+      "inviter_username": "Dannyung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:58:07.860Z"
     }
   ],
   "withdrawals": [
