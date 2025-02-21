@@ -24894,13 +24894,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:09:50.682Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        6
+      ],
       "lastSpin": "2025-02-21T10:11:51.803Z"
     },
     {
@@ -24972,7 +24976,8 @@
         1,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Temi29",
