@@ -13269,7 +13269,7 @@
         "Bolaahmed",
         "Jamestown "
       ],
-      "balance": 130,
+      "balance": 160,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -13279,7 +13279,8 @@
         1,
         2,
         2,
-        2
+        2,
+        6
       ],
       "lastSpin": "2025-02-21T06:07:57.807Z"
     },
@@ -14765,7 +14766,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:37:55.217Z"
+      "joinDate": "2025-02-21T06:37:55.217Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
