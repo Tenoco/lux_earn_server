@@ -11342,7 +11342,8 @@
         3,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Israelite ",
@@ -12072,7 +12073,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12080,7 +12081,8 @@
       "joinDate": "2025-02-21T05:35:36.730Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
