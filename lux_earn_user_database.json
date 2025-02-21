@@ -5261,13 +5261,20 @@
       "inviter_referral_code": "Ol6tf",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:13.290Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3,
+        8,
+        4,
+        7
+      ],
       "lastSpin": null
     },
     {
@@ -6377,7 +6384,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:23:57.456Z"
+      "joinDate": "2025-02-21T00:23:57.456Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
