@@ -14094,11 +14094,12 @@
         "Life",
         "Johnny40",
         "Peace ",
-        "dearie"
+        "dearie",
+        "Emmanueljustina"
       ],
       "balance": 220,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -36991,7 +36992,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Smanazceo",
@@ -37219,6 +37221,21 @@
       "joinDate": "2025-02-21T15:53:37.261Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmanueljustina",
+      "email": "emma167@gmail.com",
+      "encrypted_password": "d7e183aaae3db8007765a5e2fa3efd01",
+      "referral_code": "EMTTM",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:54:12.450Z"
     }
   ],
   "withdrawals": [
