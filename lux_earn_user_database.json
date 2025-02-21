@@ -17166,10 +17166,12 @@
       "referral_code": "@BD8K",
       "inviter_referral_code": "CHVDI",
       "inviter_username": "Chizzy001xyz",
-      "invited_users": [],
+      "invited_users": [
+        "Jesterdust12345"
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:11:25.656Z",
@@ -18784,7 +18786,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:40:10.588Z"
+      "joinDate": "2025-02-21T07:40:10.588Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jesterdust12345",
+      "email": "ayomideemmanuel518@gmail.com",
+      "encrypted_password": "d56434ce26b659cf32f4ca44e6c3bd63",
+      "referral_code": "JEE49",
+      "inviter_referral_code": "@BD8K",
+      "inviter_username": "@bubble",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:41:06.812Z"
     }
   ],
   "withdrawals": [
