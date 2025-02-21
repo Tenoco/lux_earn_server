@@ -25424,11 +25424,12 @@
         "Maga",
         "Koy",
         "Lizzy",
-        "Molly"
+        "Molly",
+        "Bilal"
       ],
       "balance": 0,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -30655,11 +30656,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:34:44.959Z",
-      "lastSpin": "2025-02-21T12:36:04.803Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T12:36:04.803Z"
     },
     {
       "username": "Moses money ",
@@ -30711,6 +30712,21 @@
       "joinDate": "2025-02-21T12:36:33.270Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bilal",
+      "email": "mibalaj973@yalcu.com",
+      "encrypted_password": "e4b48fd541b3dcb99cababc87c2ee88f",
+      "referral_code": "BIC4P",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:37:23.204Z"
     }
   ],
   "withdrawals": [
