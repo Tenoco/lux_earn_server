@@ -14491,14 +14491,15 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:36.629Z",
       "completedMissions": [
-        8
+        8,
+        3
       ],
       "lastSpin": null
     },
@@ -14795,7 +14796,8 @@
         3,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Monnyjay001",
