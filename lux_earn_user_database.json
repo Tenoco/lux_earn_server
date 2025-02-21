@@ -13495,7 +13495,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:11:57.417Z"
+      "joinDate": "2025-02-21T06:11:57.417Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zita555",
+      "email": "wchukwuebuka472@gmail.com",
+      "encrypted_password": "50ebc76d8f1f53f1249e2a35ed043574",
+      "referral_code": "ZIWZH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:12:21.528Z"
     }
   ],
   "withdrawals": [
