@@ -5371,11 +5371,12 @@
         "Wantala",
         "Fantana",
         "Karenn",
-        "Fantasee"
+        "Fantasee",
+        "Kafilat"
       ],
       "balance": 260,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -6197,7 +6198,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:20:45.413Z"
+      "joinDate": "2025-02-21T00:20:45.413Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kafilat",
+      "email": "kafilatbiola55@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "KAOPG",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:20:53.969Z"
     }
   ],
   "withdrawals": [
