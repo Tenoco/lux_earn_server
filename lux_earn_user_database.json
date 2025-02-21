@@ -4262,11 +4262,12 @@
         "Matthew Frosh",
         "Yemie990@gmail.com",
         "Azuma ",
-        "Wumzy"
+        "Wumzy",
+        "Sunnyjacs "
       ],
       "balance": 295,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -23052,7 +23053,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:25:45.163Z"
+      "joinDate": "2025-02-21T09:25:45.163Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sunnyjacs ",
+      "email": "sunnyjacs1986@gmail.com",
+      "encrypted_password": "a1cda7399555e8b71940067be5821844",
+      "referral_code": "SUNFV",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:25:54.294Z"
     }
   ],
   "withdrawals": [
