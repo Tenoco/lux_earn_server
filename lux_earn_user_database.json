@@ -8683,7 +8683,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 200,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8694,9 +8694,9 @@
         2,
         3,
         7,
-        4
-      ],
-      "lastSpin": null
+        4,
+        8
+      ]
     },
     {
       "username": "Vilder ",
@@ -8720,7 +8720,8 @@
         5,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
