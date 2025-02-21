@@ -36933,13 +36933,18 @@
       "inviter_referral_code": "SUMRO",
       "inviter_username": "Successv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:50:50.878Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        1,
+        3
+      ],
       "lastSpin": null
     },
     {
