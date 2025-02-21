@@ -16226,11 +16226,12 @@
       "invited_users": [
         "jaytee037",
         "Mark777",
-        "Victor1227"
+        "Victor1227",
+        "Abdul1752"
       ],
       "balance": 262,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -22417,7 +22418,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:09:26.254Z"
+      "joinDate": "2025-02-21T09:09:26.254Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdul1752",
+      "email": "mohammadabdul1752@gmail.com",
+      "encrypted_password": "5d9dbef2f5d7bc8f250a858d31eea530",
+      "referral_code": "ABJB2",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:09:46.824Z"
     }
   ],
   "withdrawals": [
