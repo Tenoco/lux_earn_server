@@ -14782,14 +14782,15 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:37:05.929Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Seyi",
@@ -15215,7 +15216,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:45:30.371Z"
+      "joinDate": "2025-02-21T06:45:30.371Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
