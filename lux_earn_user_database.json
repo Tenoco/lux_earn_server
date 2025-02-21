@@ -15847,11 +15847,12 @@
         "Folly",
         "Folaky22",
         "Mimielaly25",
-        "Danieljoy"
+        "Danieljoy",
+        "Nuatin11"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -16882,10 +16883,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
-      "lastSpin": "2025-02-21T07:09:26.650Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:09:26.650Z"
     },
     {
       "username": "Tong",
@@ -16954,6 +16955,21 @@
       "joinDate": "2025-02-21T07:09:36.285Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nuatin11",
+      "email": "nuatinabrahamsegun@gmail.com",
+      "encrypted_password": "b709f2ad79b516594f5de25256809aa4",
+      "referral_code": "NUAL4",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:10:31.410Z"
     }
   ],
   "withdrawals": [
