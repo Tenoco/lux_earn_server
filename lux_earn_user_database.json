@@ -5293,11 +5293,12 @@
         "Chase",
         "Kingibe025",
         "Billy jos",
-        "Giddy "
+        "Giddy ",
+        "Mark1"
       ],
       "balance": 425,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:31.535Z",
@@ -37273,6 +37274,21 @@
       "joinDate": "2025-02-21T17:03:19.683Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mark1",
+      "email": "markmary01159@gmail.com",
+      "encrypted_password": "3e4f43af8cddfa29677efa8fe76dbeed",
+      "referral_code": "MAM8E",
+      "inviter_referral_code": "SA9B4",
+      "inviter_username": "Samuel1 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:06:25.805Z"
     }
   ],
   "withdrawals": [
