@@ -22283,11 +22283,12 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [
-        "Austa"
+        "Austa",
+        "Mwawawa "
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -35156,7 +35157,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:51:57.672Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T14:52:19.467Z"
+    },
+    {
+      "username": "Mwawawa ",
+      "email": "mwachofimaganga@gmail.com",
+      "encrypted_password": "0d7e8e975c854dbe4af19468145ca7d0",
+      "referral_code": "MWI8U",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:52:25.526Z"
     }
   ],
   "withdrawals": [
