@@ -4346,11 +4346,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "Iyafogo1 ",
-        "Olamonet"
+        "Olamonet",
+        "Iyafogo"
       ],
       "balance": 555,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:08.439Z",
@@ -6519,7 +6520,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:26:46.454Z"
+      "joinDate": "2025-02-21T00:26:46.454Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iyafogo",
+      "email": "iyafogo@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "IY5DY",
+      "inviter_referral_code": "AYF10",
+      "inviter_username": "Ayoola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:27:04.991Z"
     }
   ],
   "withdrawals": [
