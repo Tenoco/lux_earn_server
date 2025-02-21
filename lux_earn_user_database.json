@@ -33746,7 +33746,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:16:00.135Z"
+      "joinDate": "2025-02-21T14:16:00.135Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Infinity07",
+      "email": "adeniyiezeikiel@gmail.com",
+      "encrypted_password": "5dd29fdd0ededdc620f69ba3c8383d5f",
+      "referral_code": "IN52A",
+      "inviter_referral_code": " BE3ON",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:16:07.466Z"
     }
   ],
   "withdrawals": [
