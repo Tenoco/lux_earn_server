@@ -16370,11 +16370,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Lavanilla"
+        "Lavanilla",
+        "dontizzy23 "
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:03.109Z",
@@ -30210,7 +30211,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:25:42.957Z"
+      "joinDate": "2025-02-21T12:25:42.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "dontizzy23 ",
+      "email": "janealenyi@gmail.com",
+      "encrypted_password": "4e6238fdde42033888f31a703c69abc9",
+      "referral_code": "DOV44",
+      "inviter_referral_code": "SNDIG",
+      "inviter_username": "snazzypaul ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:24:32.312Z"
     }
   ],
   "withdrawals": [
