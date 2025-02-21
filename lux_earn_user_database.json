@@ -16913,14 +16913,19 @@
       "inviter_referral_code": "WINWC",
       "inviter_username": "willsmith234",
       "invited_users": [],
-      "balance": 0,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:39.378Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lastSpin": "2025-02-21T20:33:09.300Z"
     },
     {
       "username": "Sholly",
@@ -38102,11 +38107,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:38:55.351Z",
-      "lastSpin": "2025-02-21T20:39:14.591Z",
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T20:39:14.591Z"
     }
   ],
   "withdrawals": [
