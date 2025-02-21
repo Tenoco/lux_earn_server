@@ -29898,7 +29898,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Spotlessboo ",
@@ -29993,13 +29994,15 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:20:19.829Z",
-      "completedMissions": [],
+      "completedMissions": [
+        9
+      ],
       "lastSpin": null
     },
     {
