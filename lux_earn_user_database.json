@@ -14837,11 +14837,12 @@
         "Bro",
         "Sir",
         "Daddy ",
-        "Mummy "
+        "Mummy ",
+        "Sung"
       ],
       "balance": 300,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -27071,6 +27072,21 @@
       "joinDate": "2025-02-21T10:56:08.322Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sung",
+      "email": "pivog46145@yalcu.com",
+      "encrypted_password": "1c63129ae9db9c60c3e8aa94d3e00495",
+      "referral_code": "SUJ6L",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:57:21.790Z"
     }
   ],
   "withdrawals": [
