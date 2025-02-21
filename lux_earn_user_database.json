@@ -2525,7 +2525,7 @@
         "Alaba",
         "Johnny09"
       ],
-      "balance": 320,
+      "balance": 330,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -2540,7 +2540,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-20T23:26:42.840Z"
     },
@@ -12205,7 +12206,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:39:37.713Z"
+      "joinDate": "2025-02-21T05:39:37.713Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
