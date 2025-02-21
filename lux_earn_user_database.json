@@ -26440,7 +26440,7 @@
         "Adebisi1",
         "Anonymous "
       ],
-      "balance": 170,
+      "balance": 190,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -26451,7 +26451,8 @@
         2,
         9,
         5,
-        4
+        4,
+        11
       ],
       "lastSpin": "2025-02-21T10:40:47.204Z"
     },
@@ -37531,7 +37532,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:13:17.993Z"
+      "joinDate": "2025-02-21T16:13:17.993Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
