@@ -25780,7 +25780,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:35:03.678Z"
+      "joinDate": "2025-02-21T10:35:03.678Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Éphy spare ",
+      "email": "longandrewephraim@gmail.com",
+      "encrypted_password": "946f31c34348d5bcc54fbfddeeefb8e3",
+      "referral_code": "ÉPJ71",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:12.375Z"
     }
   ],
   "withdrawals": [
