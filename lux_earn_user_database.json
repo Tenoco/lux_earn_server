@@ -20156,14 +20156,15 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:09:06.713Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Aliamdulillahi",
@@ -20195,7 +20196,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:11:09.637Z"
+      "joinDate": "2025-02-21T08:11:09.637Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
