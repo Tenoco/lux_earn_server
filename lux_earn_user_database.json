@@ -23393,7 +23393,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 125,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23403,7 +23403,8 @@
         6,
         3,
         7,
-        5
+        5,
+        8
       ],
       "lastSpin": "2025-02-21T09:41:33.179Z"
     },
@@ -23787,7 +23788,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:41:58.091Z",
-      "lastSpin": "2025-02-21T09:43:16.867Z",
       "completedMissions": [
         2,
         1,
@@ -23796,7 +23796,8 @@
         3,
         7,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:43:16.867Z"
     },
     {
       "username": "Vigilance ",
