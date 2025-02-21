@@ -10571,7 +10571,7 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 540,
+      "balance": 820,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10591,9 +10591,16 @@
         1,
         1,
         1,
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ]
     },
     {
       "username": "chiboy73",
@@ -10625,7 +10632,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:21:31.085Z"
+      "joinDate": "2025-02-21T04:21:31.085Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
