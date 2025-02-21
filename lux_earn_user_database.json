@@ -13456,11 +13456,12 @@
       "invited_users": [
         "Davidjames ",
         "Bolaahmed",
-        "Jamestown "
+        "Jamestown ",
+        "AyubaAdam"
       ],
       "balance": 160,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -22122,7 +22123,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:02:04.001Z"
+      "joinDate": "2025-02-21T09:02:04.001Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "AyubaAdam",
+      "email": "ayuba2r1@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "AYTB1",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:02:39.106Z"
     }
   ],
   "withdrawals": [
