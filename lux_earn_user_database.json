@@ -27837,11 +27837,12 @@
       "inviter_referral_code": "OL6DY",
       "inviter_username": "Oladelefrosh",
       "invited_users": [
-        "Odubiyi nofiu"
+        "Odubiyi nofiu",
+        "Alnasiry0"
       ],
       "balance": 550,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -30690,6 +30691,21 @@
       "joinDate": "2025-02-21T12:35:29.558Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alnasiry0",
+      "email": "olatundearemu63@gmail.com",
+      "encrypted_password": "c319abd159e869279256afe3567281cc",
+      "referral_code": "ALJYP",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": "Nabeelo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:36:33.270Z"
     }
   ],
   "withdrawals": [
