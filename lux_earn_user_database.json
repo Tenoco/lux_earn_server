@@ -4256,11 +4256,12 @@
       "invited_users": [
         "Amygrace",
         "Armsty2",
-        "Opemipoo"
+        "Opemipoo",
+        "smizy"
       ],
       "balance": 295,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22797,7 +22798,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:20:54.305Z"
+      "joinDate": "2025-02-21T09:20:54.305Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "smizy",
+      "email": "samuelodebunmi80@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "SMHJV",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:20:53.643Z"
     }
   ],
   "withdrawals": [
