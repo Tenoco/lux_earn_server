@@ -122,11 +122,12 @@
         "Wealth ",
         "Greziky ",
         "Mydey",
-        "Joyitunu"
+        "Joyitunu",
+        "Oyinlola"
       ],
       "balance": 50,
-      "refers": 35,
-      "referralBalance": 3500,
+      "refers": 36,
+      "referralBalance": 3600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -21884,6 +21885,21 @@
       "joinDate": "2025-02-21T08:54:11.294Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oyinlola",
+      "email": "oyinlolaafolabi10@gmail.com",
+      "encrypted_password": "bf40540c1ba4020eea3bc3027b361ebc",
+      "referral_code": "OY995",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:54:16.844Z"
     }
   ],
   "withdrawals": [
