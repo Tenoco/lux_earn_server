@@ -33561,7 +33561,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:11:46.133Z"
+      "joinDate": "2025-02-21T14:11:46.133Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mercy ",
+      "email": "semmylogo84@gmail.com",
+      "encrypted_password": "953e0adea3195c2a69761aa77ea9fbbc",
+      "referral_code": "MEPWS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:11:57.070Z"
     }
   ],
   "withdrawals": [
