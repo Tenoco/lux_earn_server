@@ -19431,7 +19431,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19440,9 +19440,10 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "Abdulhameed ",
@@ -19525,7 +19526,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:55:43.839Z"
+      "joinDate": "2025-02-21T07:55:43.839Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
