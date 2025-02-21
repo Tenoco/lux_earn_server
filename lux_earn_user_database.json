@@ -28499,13 +28499,15 @@
       "inviter_referral_code": "JO38K",
       "inviter_username": "Johnny ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:41:32.474Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -28732,7 +28734,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:49:26.612Z"
+      "joinDate": "2025-02-21T11:49:26.612Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
