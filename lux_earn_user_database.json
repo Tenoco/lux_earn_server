@@ -25448,7 +25448,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 108,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25459,7 +25459,7 @@
         9,
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T11:18:57.962Z"
     },
     {
       "username": "WilliamsSmith",
@@ -27819,7 +27819,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:18:53.386Z"
+      "joinDate": "2025-02-21T11:18:53.386Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
