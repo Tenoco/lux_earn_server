@@ -20470,7 +20470,7 @@
       "inviter_referral_code": "IJ105",
       "inviter_username": "Ijeslimz ",
       "invited_users": [],
-      "balance": 120,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20480,7 +20480,12 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        6,
+        8,
+        7
       ],
       "lastSpin": null
     },
@@ -20693,7 +20698,8 @@
       "joinDate": "2025-02-21T08:22:04.435Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marcusein ",
