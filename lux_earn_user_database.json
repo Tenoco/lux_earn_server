@@ -37707,11 +37707,12 @@
         "Kaoalsk",
         "Oslsmskso",
         "Kalpslflr",
-        "Nmslsole"
+        "Nmslsole",
+        "Nsksosls"
       ],
       "balance": 1,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -38270,7 +38271,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:47:46.863Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T20:48:05.769Z"
+    },
+    {
+      "username": "Nsksosls",
+      "email": "samueladeribigbe472@gmail.com",
+      "encrypted_password": "a15dd4ccc69acd7d49d79321bcfc49df",
+      "referral_code": "NSN9C",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:48:34.781Z"
     }
   ],
   "withdrawals": [
