@@ -24825,11 +24825,12 @@
         "Ayomide23",
         "Tomison23",
         "Morenikeji22",
-        "Enilex"
+        "Enilex",
+        "Joshprince "
       ],
       "balance": 270,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -27759,10 +27760,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:17:03.593Z",
-      "lastSpin": "2025-02-21T11:18:26.314Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T11:18:26.314Z"
     },
     {
       "username": "Clems",
@@ -27831,6 +27832,21 @@
       "joinDate": "2025-02-21T11:18:53.386Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joshprince ",
+      "email": "osifuyejoshua@gmail.com",
+      "encrypted_password": "00c0ae102c8df870797a56b3895e9f12",
+      "referral_code": "JO46J",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:19:44.769Z"
     }
   ],
   "withdrawals": [
