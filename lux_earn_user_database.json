@@ -21938,16 +21938,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:55:20.890Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Gbedijo",
@@ -21962,7 +21962,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:56:42.065Z"
+      "joinDate": "2025-02-21T08:56:42.065Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
