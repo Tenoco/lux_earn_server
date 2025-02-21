@@ -34256,10 +34256,12 @@
       "referral_code": "JO8YA",
       "inviter_referral_code": "CHMIG ",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ozioma"
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:26:24.410Z",
@@ -34606,6 +34608,21 @@
       "joinDate": "2025-02-21T14:37:25.440Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ozioma",
+      "email": "erukerierejoy98@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "OZ6BT",
+      "inviter_referral_code": "JO8YA",
+      "inviter_username": "Joybaby123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:37:45.589Z"
     }
   ],
   "withdrawals": [
