@@ -19761,14 +19761,17 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:00:28.222Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "Isahkudu",
