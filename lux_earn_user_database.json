@@ -817,11 +817,12 @@
         "Seyifunmi",
         "Benjaminprince",
         "Jago123",
-        "Jerry14"
+        "Jerry14",
+        "Olamokas"
       ],
       "balance": 295,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -26324,7 +26325,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:43:36.103Z"
+      "joinDate": "2025-02-21T10:43:36.103Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olamokas",
+      "email": "dkasali45@gmail.com",
+      "encrypted_password": "d856d47fb2b3e03d94677ff7f0d0c6fd",
+      "referral_code": "OLFCG",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:43:50.239Z"
     }
   ],
   "withdrawals": [
