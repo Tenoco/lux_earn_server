@@ -38259,11 +38259,12 @@
       "inviter_referral_code": "RAA8G",
       "inviter_username": "Rashmoney",
       "invited_users": [
-        "Pawalll"
+        "Pawalll",
+        "Yuygvv"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:50:31.334Z",
@@ -38348,7 +38349,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:59:27.171Z"
+      "joinDate": "2025-02-21T22:59:27.171Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yuygvv",
+      "email": "muhammedsanimusa02@gmail.com",
+      "encrypted_password": "d9882712366f37519b4a7eb0fe98c0e9",
+      "referral_code": "YUAI1",
+      "inviter_referral_code": "SI49M",
+      "inviter_username": "Sirneyy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:00:28.739Z"
     }
   ],
   "withdrawals": [
