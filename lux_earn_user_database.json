@@ -726,11 +726,12 @@
         "esty11",
         "Nosarex0",
         "danky",
-        "Horlex"
+        "Horlex",
+        "Micheal1#"
       ],
       "balance": 112,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -38083,7 +38084,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:37:43.382Z"
+      "joinDate": "2025-02-21T20:37:43.382Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Micheal1#",
+      "email": "georgehodges220@gmail.com",
+      "encrypted_password": "7adfa4d59f86098f2d8c4657a5d32483",
+      "referral_code": "MIF15",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:38:55.351Z"
     }
   ],
   "withdrawals": [
