@@ -18524,7 +18524,7 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18535,7 +18535,7 @@
         2,
         3
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:48:47.286Z"
     },
     {
       "username": "Usan4149",
@@ -19143,7 +19143,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:48:50.072Z"
+      "joinDate": "2025-02-21T07:48:50.072Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
