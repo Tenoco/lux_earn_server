@@ -30068,11 +30068,12 @@
       "inviter_referral_code": "Ben3on",
       "inviter_username": null,
       "invited_users": [
-        "Ogbe"
+        "Ogbe",
+        "Oladaz"
       ],
       "balance": 210,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:19:51.022Z",
@@ -34838,7 +34839,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:42:39.050Z"
+      "joinDate": "2025-02-21T14:42:39.050Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oladaz",
+      "email": "falomofolashade950@gmail.com",
+      "encrypted_password": "64edbbafb5c27efc39dbe418572208fb",
+      "referral_code": "OL22P",
+      "inviter_referral_code": "CHMIG",
+      "inviter_username": "Chidera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:42:31.213Z"
     }
   ],
   "withdrawals": [
