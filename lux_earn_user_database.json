@@ -32334,10 +32334,12 @@
       "referral_code": "LOSHT",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Emryss72"
+      ],
       "balance": 120,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:32:32.957Z",
@@ -34000,7 +34002,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Favour48",
@@ -34086,6 +34089,21 @@
       "joinDate": "2025-02-21T14:23:47.449Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emryss72",
+      "email": "pesman223344@gmail.com",
+      "encrypted_password": "8ce4b1cd09d67158340217bc0fa11c41",
+      "referral_code": "EMCA0",
+      "inviter_referral_code": "LOSHT",
+      "inviter_username": "LOVERBOY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:24:13.428Z"
     }
   ],
   "withdrawals": [
