@@ -19730,10 +19730,12 @@
       "referral_code": "HE5KL",
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
-      "invited_users": [],
+      "invited_users": [
+        "Joshua "
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:57:27.264Z",
@@ -20363,6 +20365,21 @@
       "joinDate": "2025-02-21T08:14:46.689Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joshua ",
+      "email": "markyourpapa124@gmail.com",
+      "encrypted_password": "581b9d2fd27f1eb330386a0027cebbc9",
+      "referral_code": "JOZQC",
+      "inviter_referral_code": "HE5KL",
+      "inviter_username": "Henry Joshua ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:15:10.496Z"
     }
   ],
   "withdrawals": [
