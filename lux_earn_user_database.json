@@ -29319,7 +29319,7 @@
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29327,9 +29327,10 @@
       "joinDate": "2025-02-21T12:03:39.962Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        2,
+        3
+      ]
     },
     {
       "username": "Princesspromise",
@@ -29515,7 +29516,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:08:57.455Z"
+      "joinDate": "2025-02-21T12:08:57.455Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
