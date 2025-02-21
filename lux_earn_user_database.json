@@ -36940,7 +36940,8 @@
         5,
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dora",
@@ -37119,6 +37120,21 @@
       "joinDate": "2025-02-21T16:02:41.644Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "abdulnaseerbal@gmail.com ",
+      "email": "abdulnaseerbal@gmail.com",
+      "encrypted_password": "fea7146c1643bc8490c932a892c9699a",
+      "referral_code": "ABZ88",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:03:25.271Z"
     }
   ],
   "withdrawals": [
