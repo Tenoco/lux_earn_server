@@ -36975,7 +36975,7 @@
       "inviter_referral_code": "Y0COH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36989,7 +36989,7 @@
         5,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T23:39:28.121Z"
     },
     {
       "username": "Haryormhide ",
@@ -37021,7 +37021,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:38:07.192Z"
+      "joinDate": "2025-02-21T23:38:07.192Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
