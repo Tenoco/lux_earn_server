@@ -15018,11 +15018,12 @@
         "Divine ",
         "Jibola",
         "Ashabi",
-        "Wiskid"
+        "Wiskid",
+        "Tawa"
       ],
       "balance": 300,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -36973,7 +36974,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:45:50.544Z"
+      "joinDate": "2025-02-21T16:45:50.544Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tawa",
+      "email": "hapevow652@yalcu.com",
+      "encrypted_password": "f6f7fec07f372b7bd5eb196bbca0f3f4",
+      "referral_code": "TA6EE",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:46:20.894Z"
     }
   ],
   "withdrawals": [
