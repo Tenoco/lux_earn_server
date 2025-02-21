@@ -5353,10 +5353,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:06:19.297Z",
-      "lastSpin": "2025-02-21T00:07:12.947Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T00:07:12.947Z"
     },
     {
       "username": "Mamabby",
@@ -5391,6 +5391,21 @@
       "joinDate": "2025-02-21T00:07:30.319Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T00:08:01.868Z"
+    },
+    {
+      "username": "Tinuade",
+      "email": "boboye.natureplus@gmail.com",
+      "encrypted_password": "8b524e9e56be744c16730aa6b6e2e663",
+      "referral_code": "TI0KG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:08:36.785Z"
     }
   ],
   "withdrawals": [
