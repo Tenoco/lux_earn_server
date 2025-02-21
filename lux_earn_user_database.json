@@ -22780,7 +22780,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:20:42.100Z"
+      "joinDate": "2025-02-21T09:20:42.100Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayijosh",
+      "email": "ayinlajoshua31@gmail.com",
+      "encrypted_password": "b056888d458c95359ab456c2233315a3",
+      "referral_code": "AYZ83",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:20:54.305Z"
     }
   ],
   "withdrawals": [
