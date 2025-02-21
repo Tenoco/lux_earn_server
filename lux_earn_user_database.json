@@ -24688,11 +24688,12 @@
       "invited_users": [
         "Vgfak",
         "Yachqn",
-        "Iwppw"
+        "Iwppw",
+        "Pqpu"
       ],
       "balance": 350,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -26207,7 +26208,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:41:53.062Z"
+      "joinDate": "2025-02-21T10:41:53.062Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Pqpu",
+      "email": "oqkqbk@gmail.com",
+      "encrypted_password": "353a73bc14a4ca0f37aac0f0822a39b3",
+      "referral_code": "PQFNK",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:42:07.730Z"
     }
   ],
   "withdrawals": [
