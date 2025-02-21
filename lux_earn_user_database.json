@@ -36943,7 +36943,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:58:26.491Z"
+      "joinDate": "2025-02-21T15:58:26.491Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Senior ",
+      "email": "mansenior240@gmail.com",
+      "encrypted_password": "d940042a4a3055a660bc2d2cbd508af4",
+      "referral_code": "SEKWK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:59:12.063Z"
     }
   ],
   "withdrawals": [
