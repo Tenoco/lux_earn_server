@@ -10242,7 +10242,23 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Demigod",
+      "email": "Para090645@gmail.com",
+      "encrypted_password": "56242942ebc3fc9f0bec91f1ce8ccc49",
+      "referral_code": "DER0Q",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:10:54.626Z"
     }
   ],
   "withdrawals": [
