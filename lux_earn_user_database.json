@@ -21473,7 +21473,7 @@
       "inviter_referral_code": "ISIY2",
       "inviter_username": "Israelite ",
       "invited_users": [],
-      "balance": 90,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21482,7 +21482,11 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        7,
+        9,
+        9,
+        5
       ],
       "lastSpin": null
     },
