@@ -38258,14 +38258,15 @@
       "inviter_referral_code": "SHJEM",
       "inviter_username": "Sharonk ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:24:59.111Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
