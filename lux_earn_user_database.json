@@ -5292,11 +5292,12 @@
         "phoenix29",
         "Chase",
         "Kingibe025",
-        "Billy jos"
+        "Billy jos",
+        "Giddy "
       ],
       "balance": 425,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:31.535Z",
@@ -37235,6 +37236,21 @@
       "joinDate": "2025-02-21T17:01:47.550Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Giddy ",
+      "email": "giddyb31@gmail.com",
+      "encrypted_password": "5c62c78d8fb1325512d9a2ae1f58509d",
+      "referral_code": "GIN2Q",
+      "inviter_referral_code": "SA9B4",
+      "inviter_username": "Samuel1 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:03:15.580Z"
     }
   ],
   "withdrawals": [
