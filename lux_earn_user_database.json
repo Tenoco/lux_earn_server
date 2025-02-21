@@ -16366,11 +16366,12 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [
-        "Zealkreation"
+        "Zealkreation",
+        "abbaadamulawal"
       ],
       "balance": 30,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -19971,6 +19972,21 @@
       "joinDate": "2025-02-21T08:05:54.199Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "abbaadamulawal",
+      "email": "abbaadamulawal@gmail.com",
+      "encrypted_password": "79333d2805e049cf0afce3da54990b30",
+      "referral_code": "AB3QL",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:06:19.659Z"
     }
   ],
   "withdrawals": [
