@@ -10940,7 +10940,7 @@
       "inviter_referral_code": "HA2YX",
       "inviter_username": "Haywhy",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10949,7 +10949,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5
       ]
     },
     {
