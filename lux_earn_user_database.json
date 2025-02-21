@@ -28370,7 +28370,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:40:22.826Z"
+      "joinDate": "2025-02-21T11:40:22.826Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ogechiihejirika",
+      "email": "ogechiokoroji9@gmail.com",
+      "encrypted_password": "7ecb42e9231035e8c58b823ae9f853f9",
+      "referral_code": "OGH3W",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:40:26.470Z"
     }
   ],
   "withdrawals": [
