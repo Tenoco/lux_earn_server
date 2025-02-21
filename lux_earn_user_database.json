@@ -5027,11 +5027,12 @@
       "inviter_username": "Jonahegbe",
       "invited_users": [
         "phoenix29",
-        "Chase"
+        "Chase",
+        "Kingibe025"
       ],
       "balance": 425,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:31.535Z",
@@ -7280,6 +7281,21 @@
       "joinDate": "2025-02-21T00:43:22.310Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kingibe025",
+      "email": "kingibe025@gmail.com",
+      "encrypted_password": "b1aa44d76cd51959b8df56b2a05d1172",
+      "referral_code": "KIFB7",
+      "inviter_referral_code": "SA9B4",
+      "inviter_username": "Samuel1 ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:43:39.096Z"
     }
   ],
   "withdrawals": [
