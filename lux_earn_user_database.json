@@ -3028,11 +3028,12 @@
         "Ziviabby",
         "Moses money ",
         "Daniels",
-        "Lyan Mubby "
+        "Lyan Mubby ",
+        "Arinze08"
       ],
       "balance": 337,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -35071,6 +35072,21 @@
       "joinDate": "2025-02-21T14:48:38.353Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Arinze08",
+      "email": "danielobaikor36@gmail.com",
+      "encrypted_password": "58788ea15a195a5a3964c4ea35018486",
+      "referral_code": "ARZMC",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:48:51.674Z"
     }
   ],
   "withdrawals": [
