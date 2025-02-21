@@ -26002,7 +26002,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 90,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26011,9 +26011,11 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4,
+        5,
+        6
+      ]
     },
     {
       "username": "Ch@rles",
@@ -26303,7 +26305,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:43:15.131Z"
+      "joinDate": "2025-02-21T10:43:15.131Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
