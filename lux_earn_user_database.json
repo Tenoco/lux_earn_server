@@ -24715,11 +24715,12 @@
         "Wrqgh",
         "Pqyshe ",
         "Pqywo",
-        "Qyec"
+        "Qyec",
+        "Owtv"
       ],
       "balance": 350,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -26657,7 +26658,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:49:47.894Z"
+      "joinDate": "2025-02-21T10:49:47.894Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Owtv",
+      "email": "iqkqna@gmail.com",
+      "encrypted_password": "926d8303ddd678bf56cb38b7d2d553f4",
+      "referral_code": "OWJBB",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:49:59.466Z"
     }
   ],
   "withdrawals": [
