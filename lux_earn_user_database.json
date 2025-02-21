@@ -31015,14 +31015,15 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:54:09.486Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Emmabtc ",
@@ -31088,7 +31089,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:55:12.476Z"
+      "joinDate": "2025-02-21T12:55:12.476Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
