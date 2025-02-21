@@ -14108,7 +14108,8 @@
       "joinDate": "2025-02-21T06:26:27.813Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mazichief ",
@@ -14214,6 +14215,21 @@
       "joinDate": "2025-02-21T06:28:48.901Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dammy btc",
+      "email": "dammywhite636@gmail.com",
+      "encrypted_password": "a50afb2883dc465411b2963b4bd3b052",
+      "referral_code": "DAUJM",
+      "inviter_referral_code": "KllO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:29:36.872Z"
     }
   ],
   "withdrawals": [
