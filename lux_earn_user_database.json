@@ -19870,11 +19870,12 @@
         "ayomide",
         "Oladipupo ",
         "Kaykay",
-        "Kaykaykay"
+        "Kaykaykay",
+        "Ola"
       ],
       "balance": 30,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -32496,6 +32497,21 @@
       "joinDate": "2025-02-21T13:40:28.103Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ola",
+      "email": "johndoriss234@gmail.com",
+      "encrypted_password": "7e3fa739a128b6add91c4712ab0ab2b9",
+      "referral_code": "OLSV7",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:41:17.232Z"
     }
   ],
   "withdrawals": [
