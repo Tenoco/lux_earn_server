@@ -2777,11 +2777,12 @@
         "Lickmy",
         "Lickmyhand",
         "Fingsty",
-        "Lollipop"
+        "Lollipop",
+        "Loppipol"
       ],
       "balance": 65,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:26.964Z",
@@ -4706,7 +4707,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmanuel24",
@@ -5059,6 +5061,21 @@
       "joinDate": "2025-02-21T00:01:41.104Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Loppipol",
+      "email": "qee@gmail.com",
+      "encrypted_password": "41e15155bbbfde658d406cd637d5b8a4",
+      "referral_code": "LOBOQ",
+      "inviter_referral_code": "LIN86",
+      "inviter_username": "Lickmy0042",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:01:56.397Z"
     }
   ],
   "withdrawals": [
