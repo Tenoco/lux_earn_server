@@ -7709,7 +7709,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 130,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7718,9 +7718,9 @@
       "completedMissions": [
         4,
         3,
-        2
-      ],
-      "lastSpin": null
+        2,
+        5
+      ]
     },
     {
       "username": "ashing",
@@ -7837,7 +7837,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:00:59.966Z"
+      "joinDate": "2025-02-21T01:00:59.966Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
