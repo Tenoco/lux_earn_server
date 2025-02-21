@@ -11860,7 +11860,7 @@
       "inviter_referral_code": "LI407",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11872,9 +11872,9 @@
         1,
         2,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Mjsilent ",
