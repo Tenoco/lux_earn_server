@@ -23813,11 +23813,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "PurityTope"
+        "PurityTope",
+        "Ch@rles"
       ],
       "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:38:26.560Z",
@@ -25719,6 +25720,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:32:36.861Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T10:37:55.050Z"
     },
     {
@@ -25975,6 +25977,21 @@
       "joinDate": "2025-02-21T10:37:34.018Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ch@rles",
+      "email": "charlesifenna4@gmail.com",
+      "encrypted_password": "c7edec78f920e7c3bfefafcce881d4b4",
+      "referral_code": "CH43H",
+      "inviter_referral_code": "BON0X",
+      "inviter_username": "Boss50",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:38:03.772Z"
     }
   ],
   "withdrawals": [
