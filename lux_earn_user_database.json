@@ -10472,7 +10472,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Demilogo",
@@ -10567,14 +10568,28 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 50,
+      "balance": 540,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:19:47.480Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
     },
     {
       "username": "chiboy73",
