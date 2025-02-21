@@ -19501,11 +19501,12 @@
       "inviter_referral_code": "SGhupUQK",
       "inviter_username": null,
       "invited_users": [
-        "Israeliot3 "
+        "Israeliot3 ",
+        "Sassy"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:47:06.023Z",
@@ -31881,6 +31882,21 @@
       "joinDate": "2025-02-21T13:23:37.190Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sassy",
+      "email": "kehindeogunnubi531@gmail.com",
+      "encrypted_password": "a205297c0fba8e9e1b7b5751f83e2c78",
+      "referral_code": "SA6JF",
+      "inviter_referral_code": "IRZJL",
+      "inviter_username": "Iremidemedia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:25:30.352Z"
     }
   ],
   "withdrawals": [
