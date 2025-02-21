@@ -13175,7 +13175,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:05:56.091Z"
+      "joinDate": "2025-02-21T06:05:56.091Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amopre1",
+      "email": "abdulmalikolayiwola828@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "AMFOO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:06:16.453Z"
     }
   ],
   "withdrawals": [
