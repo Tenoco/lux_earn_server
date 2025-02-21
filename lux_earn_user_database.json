@@ -37323,7 +37323,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:07:09.027Z"
+      "joinDate": "2025-02-21T17:07:09.027Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hydar02",
+      "email": "hydarharuna67@gmail.com",
+      "encrypted_password": "b38647d8fa9d89773702943890fbbd69",
+      "referral_code": "HYN0B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:07:35.447Z"
     }
   ],
   "withdrawals": [
