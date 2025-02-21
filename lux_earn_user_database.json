@@ -5751,11 +5751,12 @@
         "And ",
         "Hhvf",
         "Hbvnb",
-        "Jbvh"
+        "Jbvh",
+        "Dghhg"
       ],
       "balance": 360,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -17285,7 +17286,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:15:06.688Z",
-      "lastSpin": "2025-02-21T07:15:57.484Z",
       "completedMissions": [
         1,
         2,
@@ -17298,7 +17298,8 @@
         7,
         7,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:15:57.484Z"
     },
     {
       "username": "And ",
@@ -17663,6 +17664,21 @@
       "joinDate": "2025-02-21T07:21:00.509Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dghhg",
+      "email": "abdullahioladipo761@gmail.com",
+      "encrypted_password": "96e79218965eb72c92a549dd5a330112",
+      "referral_code": "DG78T",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:21:30.811Z"
     }
   ],
   "withdrawals": [
