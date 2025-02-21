@@ -15431,11 +15431,12 @@
         "Cjuj",
         "Hkhju",
         "Canubj",
-        "Olatimi"
+        "Olatimi",
+        "Vjkbn"
       ],
       "balance": 270,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
@@ -17946,7 +17947,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:26:23.181Z"
+      "joinDate": "2025-02-21T07:26:23.181Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vjkbn",
+      "email": "hotjh@gmail.com",
+      "encrypted_password": "08b4ba7c36ce7d647f7026b2955c52ac",
+      "referral_code": "VJ8B0",
+      "inviter_referral_code": "RUDYD",
+      "inviter_username": "Ruth641",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:26:27.168Z"
     }
   ],
   "withdrawals": [
