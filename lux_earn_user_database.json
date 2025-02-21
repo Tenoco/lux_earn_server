@@ -8793,7 +8793,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Active ",
@@ -8828,6 +8829,21 @@
       "joinDate": "2025-02-21T01:51:00.967Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adewumi212",
+      "email": "ayoadewumi65@gmail.com",
+      "encrypted_password": "d243cb9684020424eb2cea20f571cbf9",
+      "referral_code": "AD98M",
+      "inviter_referral_code": "Netflify",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:55:49.237Z"
     }
   ],
   "withdrawals": [
