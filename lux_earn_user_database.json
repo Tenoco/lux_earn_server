@@ -37951,7 +37951,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:22:00.546Z"
+      "joinDate": "2025-02-21T16:22:00.546Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "joshgod",
+      "email": "joshuapraise2025@gmail.com",
+      "encrypted_password": "b7a1d3ed81b7101e43464e76e45c79cf",
+      "referral_code": "JO4KZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:22:07.600Z"
     }
   ],
   "withdrawals": [
