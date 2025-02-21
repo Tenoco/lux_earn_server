@@ -29069,7 +29069,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29081,9 +29081,11 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "username": "Nicefaith",
@@ -29320,7 +29322,8 @@
       "joinDate": "2025-02-21T12:03:39.962Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Princesspromise",
