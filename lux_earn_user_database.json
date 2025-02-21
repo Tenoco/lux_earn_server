@@ -20660,14 +20660,19 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": "Cash101",
       "invited_users": [],
-      "balance": 20,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:20:12.857Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T08:29:51.582Z"
+      "lastSpin": "2025-02-21T08:29:51.582Z",
+      "completedMissions": [
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "username": "Rachael",
@@ -21134,7 +21139,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:34:06.891Z"
+      "joinDate": "2025-02-21T08:34:06.891Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
