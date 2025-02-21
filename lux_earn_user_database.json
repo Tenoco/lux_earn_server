@@ -3614,11 +3614,12 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [
-        "Oluwavictor"
+        "Oluwavictor",
+        "VIctor"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -10267,7 +10268,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:00:34.330Z"
+      "joinDate": "2025-02-21T04:00:34.330Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "VIctor",
+      "email": "oliviamary2208@gmail.com",
+      "encrypted_password": "e3d6f062e76c0fd93c8fbf7e358bb051",
+      "referral_code": "VIQE6",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:01:21.154Z"
     }
   ],
   "withdrawals": [
