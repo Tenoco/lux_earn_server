@@ -36556,10 +36556,12 @@
       "referral_code": "BR9VQ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Molla"
+      ],
       "balance": -450,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:40.842Z",
@@ -38246,7 +38248,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:34:26.414Z"
+      "joinDate": "2025-02-21T16:34:26.414Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Molla",
+      "email": "akanjimusab@gmail.com",
+      "encrypted_password": "b4be228cfaab078906e7a1abc9b63f19",
+      "referral_code": "MORZH",
+      "inviter_referral_code": "BR9VQ",
+      "inviter_username": "Brave290",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:35:03.919Z"
     }
   ],
   "withdrawals": [
