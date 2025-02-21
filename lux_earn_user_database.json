@@ -15393,11 +15393,12 @@
       "invited_users": [
         "dsnny",
         "Cjuj",
-        "Hkhju"
+        "Hkhju",
+        "Canubj"
       ],
       "balance": 270,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
@@ -17268,7 +17269,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:15:31.585Z"
+      "joinDate": "2025-02-21T07:15:31.585Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Canubj",
+      "email": "gmail@gmail.com",
+      "encrypted_password": "08b4ba7c36ce7d647f7026b2955c52ac",
+      "referral_code": "CA6ZW",
+      "inviter_referral_code": "RUDYD",
+      "inviter_username": "Ruth641",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:16:00.352Z"
     }
   ],
   "withdrawals": [
