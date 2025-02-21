@@ -8756,13 +8756,16 @@
         "ayo515",
         "Gft2221"
       ],
-      "balance": 72,
+      "balance": 132,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:55:49.237Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": "2025-02-21T06:34:37.400Z"
     },
     {
