@@ -31683,13 +31683,15 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:16:41.030Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
