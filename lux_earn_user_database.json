@@ -30125,7 +30125,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:23:53.546Z"
+      "joinDate": "2025-02-21T12:23:53.546Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dannyung",
+      "email": "omotoshodaniel80@gmail.com",
+      "encrypted_password": "12c438e0fe0e0e7811ccd0b6d50ad17a",
+      "referral_code": "DA0VX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:24:03.647Z"
     }
   ],
   "withdrawals": [
