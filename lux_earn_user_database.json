@@ -29044,11 +29044,12 @@
         "Josephine",
         "Yohanna",
         "Princess",
-        "Meshack"
+        "Meshack",
+        "Lucyivy"
       ],
       "balance": 210,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30981,7 +30982,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:53:27.639Z"
+      "joinDate": "2025-02-21T12:53:27.639Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lucyivy",
+      "email": "lucyihouma5@gmail.com",
+      "encrypted_password": "922c48230cb2b05cf99b14c32a8f0a94",
+      "referral_code": "LUBKN",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:53:36.478Z"
     }
   ],
   "withdrawals": [
