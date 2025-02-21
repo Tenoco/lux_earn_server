@@ -36647,7 +36647,7 @@
       "inviter_referral_code": "SHR06",
       "inviter_username": "shoyomboizhaq1@gmail.com",
       "invited_users": [],
-      "balance": 160,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36658,7 +36658,12 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        5,
+        6,
+        7,
+        7
       ],
       "lastSpin": "2025-02-21T15:40:54.578Z"
     },
@@ -36968,7 +36973,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:48:24.199Z"
+      "joinDate": "2025-02-21T15:48:24.199Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
