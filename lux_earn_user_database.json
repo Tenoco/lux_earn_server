@@ -3567,11 +3567,12 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [
-        "Oyekunle "
+        "Oyekunle ",
+        "Oyinkansola "
       ],
       "balance": 278,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -12001,6 +12002,21 @@
       "joinDate": "2025-02-21T05:34:07.741Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oyinkansola ",
+      "email": "lateefattijani2024@gmail.com",
+      "encrypted_password": "9d964934fb6fc7bb26e20c3368ef6713",
+      "referral_code": "OY4PA",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:35:33.782Z"
     }
   ],
   "withdrawals": [
