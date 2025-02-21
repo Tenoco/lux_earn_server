@@ -4940,11 +4940,12 @@
       "inviter_username": "Shegzzy Media",
       "invited_users": [
         "big ben 031",
-        "Jude 032"
+        "Jude 032",
+        "ruby alex3"
       ],
       "balance": 255,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -6081,6 +6082,21 @@
       "joinDate": "2025-02-21T00:19:00.411Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ruby alex3",
+      "email": "nataliemason402@gmail.com",
+      "encrypted_password": "9bccece738229093b6c0cfbc641b5233",
+      "referral_code": "RUKUE",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:19:21.898Z"
     }
   ],
   "withdrawals": [
