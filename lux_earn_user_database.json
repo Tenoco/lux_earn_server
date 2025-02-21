@@ -24238,14 +24238,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1,
+      "balance": 61,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:58:31.649Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T10:00:13.601Z"
+      "lastSpin": "2025-02-21T10:00:13.601Z",
+      "completedMissions": [
+        5,
+        4
+      ]
     },
     {
       "username": "Kayode26",
