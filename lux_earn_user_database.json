@@ -9761,7 +9761,7 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 160,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9770,9 +9770,9 @@
       "completedMissions": [
         1,
         7,
-        8
-      ],
-      "lastSpin": null
+        8,
+        3
+      ]
     },
     {
       "username": "Risky01",
@@ -9787,7 +9787,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:10:58.489Z"
+      "joinDate": "2025-02-21T03:10:58.489Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
