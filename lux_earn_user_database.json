@@ -10587,11 +10587,12 @@
         "Katerina",
         "Ruth1",
         "Popoola",
-        "Azeez muj"
+        "Azeez muj",
+        "Adeniji"
       ],
       "balance": 320,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -33995,7 +33996,8 @@
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Favour48",
@@ -34047,6 +34049,21 @@
       "joinDate": "2025-02-21T14:22:27.813Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adeniji",
+      "email": "adenijigoodluck6@gmail.com",
+      "encrypted_password": "c3d77cb890c550de4fc57c6b0484c258",
+      "referral_code": "ADFAW",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:23:27.401Z"
     }
   ],
   "withdrawals": [
