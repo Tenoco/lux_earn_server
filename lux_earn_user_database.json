@@ -5794,7 +5794,7 @@
         "Danmadam11",
         "Lakaka"
       ],
-      "balance": 310,
+      "balance": 358,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -5810,9 +5810,10 @@
         4,
         5,
         6,
-        7
+        7,
+        9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:02:25.156Z"
     },
     {
       "username": "JuNifa",
@@ -15967,6 +15968,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:04.771Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:03:57.746Z"
     },
     {
