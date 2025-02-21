@@ -1732,11 +1732,12 @@
         "SIRBLACKJR ",
         "Babal112",
         "Scopegee86 ",
-        "Bona123"
+        "Bona123",
+        "Habbeybam"
       ],
       "balance": 275,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9290,6 +9291,21 @@
       "joinDate": "2025-02-21T02:38:41.372Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Habbeybam",
+      "email": "yomioyebola11@gmail.com",
+      "encrypted_password": "1a5ffdd5f4c1e89fee2a42e8386dabc6",
+      "referral_code": "HAND2",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:40:45.022Z"
     }
   ],
   "withdrawals": [
