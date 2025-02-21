@@ -15792,11 +15792,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Adam usman "
+        "Adam usman ",
+        "Michael04"
       ],
       "balance": 275,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:48:21.445Z",
@@ -22714,7 +22715,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "mr.cup",
@@ -22964,6 +22966,21 @@
       "joinDate": "2025-02-21T09:24:59.052Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Michael04",
+      "email": "olaleyemicheal2426@gmail.com",
+      "encrypted_password": "d8ae5776067290c4712fa454006c8ec6",
+      "referral_code": "MIS6H",
+      "inviter_referral_code": "MIFNY",
+      "inviter_username": "Mick2324",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:24:46.612Z"
     }
   ],
   "withdrawals": [
