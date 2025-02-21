@@ -36955,7 +36955,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:51:54.302Z"
+      "joinDate": "2025-02-21T18:51:54.302Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Davidsalawu",
+      "email": "adavizedavid21@gmail.com",
+      "encrypted_password": "ff93378f1ecc67b777b70326a2b6b8e1",
+      "referral_code": "DAH59",
+      "inviter_referral_code": " OFP5T",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:52:02.241Z"
     }
   ],
   "withdrawals": [
