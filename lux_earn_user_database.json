@@ -5755,11 +5755,12 @@
         "Hbvnb",
         "Jbvh",
         "Dghhg",
-        "Dhhh"
+        "Dhhh",
+        "Bhgh"
       ],
       "balance": 360,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -18002,7 +18003,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:27:00.415Z"
+      "joinDate": "2025-02-21T07:27:00.415Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bhgh",
+      "email": "abdullahioladipo100@gmail.com",
+      "encrypted_password": "96e79218965eb72c92a549dd5a330112",
+      "referral_code": "BHY3J",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:27:05.580Z"
     }
   ],
   "withdrawals": [
