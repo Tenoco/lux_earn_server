@@ -6682,11 +6682,12 @@
         "Samen",
         "Flight ",
         "Song",
-        "phoenix59"
+        "phoenix59",
+        "Yhaam"
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7595,6 +7596,21 @@
       "joinDate": "2025-02-21T00:53:24.728Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yhaam",
+      "email": "ayhan@gmail.com",
+      "encrypted_password": "aca9966873e21f972ce7b38526d2964b",
+      "referral_code": "YHE27",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:55:00.377Z"
     }
   ],
   "withdrawals": [
