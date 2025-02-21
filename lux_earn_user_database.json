@@ -24619,7 +24619,7 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [],
-      "balance": 260,
+      "balance": 350,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24635,7 +24635,10 @@
         5,
         6,
         7,
-        7
+        7,
+        8,
+        9,
+        9
       ],
       "lastSpin": null
     },
@@ -25156,7 +25159,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:19:50.321Z"
+      "joinDate": "2025-02-21T10:19:50.321Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
