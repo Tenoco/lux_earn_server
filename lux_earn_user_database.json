@@ -14059,11 +14059,12 @@
         "Great@",
         "Euphemia",
         "Life",
-        "Johnny40"
+        "Johnny40",
+        "Peace "
       ],
       "balance": 220,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -36501,7 +36502,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:31:44.143Z"
+      "joinDate": "2025-02-21T15:31:44.143Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peace ",
+      "email": "peace55@gmail.com",
+      "encrypted_password": "5323368f98eebc29776543bb19920b71",
+      "referral_code": "PE2VL",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:31:46.341Z"
     }
   ],
   "withdrawals": [
