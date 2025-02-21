@@ -38171,14 +38171,16 @@
       "inviter_referral_code": "BON0X",
       "inviter_username": "Boss50",
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:40:37.574Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        3,
+        4
+      ]
     }
   ],
   "withdrawals": [
