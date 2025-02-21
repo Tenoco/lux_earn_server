@@ -16290,14 +16290,13 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:02.038Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:01:15.230Z"
     },
     {
       "username": "Ogc12 ",
@@ -16312,7 +16311,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:01:02.685Z"
+      "joinDate": "2025-02-21T07:01:02.685Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
