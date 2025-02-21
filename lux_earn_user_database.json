@@ -8655,7 +8655,8 @@
         3,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Okezies",
@@ -8705,7 +8706,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 175,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8716,9 +8717,10 @@
         3,
         1,
         4,
-        5
-      ],
-      "lastSpin": null
+        5,
+        7,
+        8
+      ]
     }
   ],
   "withdrawals": [
