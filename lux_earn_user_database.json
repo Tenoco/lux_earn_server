@@ -15812,11 +15812,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Sholly"
+        "Sholly",
+        "Folly"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -16437,7 +16438,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:02:32.861Z"
+      "joinDate": "2025-02-21T07:02:32.861Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Folly",
+      "email": "follyosadare55@gmail.com",
+      "encrypted_password": "d7a3f5704a2b81748082628c7ae45c54",
+      "referral_code": "FOZCE",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:02:32.945Z"
     }
   ],
   "withdrawals": [
