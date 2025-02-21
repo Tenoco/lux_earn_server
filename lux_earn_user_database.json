@@ -16232,14 +16232,17 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 0,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:57.708Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T07:03:28.045Z"
     },
     {
       "username": "AyoRichee ",
@@ -16526,7 +16529,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:03:26.874Z"
+      "joinDate": "2025-02-21T07:03:26.874Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
