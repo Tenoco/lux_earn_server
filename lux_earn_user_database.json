@@ -558,11 +558,12 @@
         "Magic",
         "Mamman11",
         "Temu",
-        "Adamu"
+        "Adamu",
+        "Lami"
       ],
       "balance": 220,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -5914,7 +5915,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:15:19.178Z"
+      "joinDate": "2025-02-21T00:15:19.178Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lami",
+      "email": "Ahmadyau77@gmail.com",
+      "encrypted_password": "ff958cd4953c863e0dd02583f55e9341",
+      "referral_code": "LA89E",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:15:23.648Z"
     }
   ],
   "withdrawals": [
