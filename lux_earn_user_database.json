@@ -38293,7 +38293,7 @@
       "inviter_referral_code": "2244",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38303,9 +38303,10 @@
         5,
         4,
         3,
-        2
-      ],
-      "lastSpin": null
+        2,
+        2,
+        1
+      ]
     },
     {
       "username": "pibiya",
