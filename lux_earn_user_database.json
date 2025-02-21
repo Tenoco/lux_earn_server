@@ -1747,11 +1747,12 @@
         "Laytua1",
         "Wade25",
         "Ajidex100 ",
-        "Ani2005"
+        "Ani2005",
+        "Moshob"
       ],
       "balance": 275,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10150,6 +10151,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Moshob",
+      "email": "mlifemoshob9@gmail.com",
+      "encrypted_password": "b8f567c6e9827b8a14f5bfeefd70db58",
+      "referral_code": "MOIDV",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:47:44.314Z"
     }
   ],
   "withdrawals": [
