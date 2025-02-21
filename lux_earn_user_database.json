@@ -37397,14 +37397,15 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:55:50.995Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Henry12",
@@ -37436,7 +37437,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:56:19.201Z"
+      "joinDate": "2025-02-21T19:56:19.201Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
