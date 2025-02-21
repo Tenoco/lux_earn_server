@@ -1910,11 +1910,12 @@
       "invited_users": [
         "Ugo23",
         "creativeeaglesgrafix",
-        "Amaka5"
+        "Amaka5",
+        "Amalaugo3"
       ],
       "balance": 165,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -6021,6 +6022,21 @@
       "joinDate": "2025-02-21T00:18:16.824Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amalaugo3",
+      "email": "Amalaugo08@gmail.com",
+      "encrypted_password": "f6a6263167c92de8644ac998b3c4e4d1",
+      "referral_code": "AMBP3",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:18:37.798Z"
     }
   ],
   "withdrawals": [
