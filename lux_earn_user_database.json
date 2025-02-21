@@ -33018,7 +33018,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:55:10.693Z"
+      "joinDate": "2025-02-21T13:55:10.693Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Umar73",
+      "email": "umarkafinta73@gmail.com",
+      "encrypted_password": "a6785b3cc0807ea317a96540f0471e56",
+      "referral_code": "UMSLX",
+      "inviter_referral_code": "ODwxp",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:55:46.725Z"
     }
   ],
   "withdrawals": [
