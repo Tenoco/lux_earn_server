@@ -13562,11 +13562,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Rose55"
+        "Rose55",
+        "Johnson26"
       ],
       "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -14443,7 +14444,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:33:36.629Z"
+      "joinDate": "2025-02-21T06:33:36.629Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Johnson26",
+      "email": "ordu546@gmail.com",
+      "encrypted_password": "51b5dec306e53beeacac20bc1846d78f",
+      "referral_code": "JOVCT",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:33:43.224Z"
     }
   ],
   "withdrawals": [
