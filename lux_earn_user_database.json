@@ -2509,7 +2509,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 300,
+      "balance": 301,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2526,7 +2526,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:39:15.654Z"
     },
     {
       "username": "TMTV",
@@ -23598,6 +23598,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:36:13.618Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T09:36:43.853Z"
     }
   ],
