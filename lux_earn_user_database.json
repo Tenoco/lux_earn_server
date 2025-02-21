@@ -13715,11 +13715,12 @@
         "Newworlde",
         "Jamesq",
         "Habibu",
-        "Sandra"
+        "Sandra",
+        "Hannah "
       ],
       "balance": 160,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -36533,6 +36534,21 @@
       "joinDate": "2025-02-21T15:31:46.341Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T15:31:56.884Z"
+    },
+    {
+      "username": "Hannah ",
+      "email": "hanney@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "HAXLV",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:33:41.068Z"
     }
   ],
   "withdrawals": [
