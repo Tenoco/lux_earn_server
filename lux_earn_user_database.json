@@ -891,11 +891,12 @@
         "Paradise ",
         "Olami ",
         "Olamight ",
-        "Ifygold"
+        "Ifygold",
+        "Abanise"
       ],
       "balance": 185,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:05:06.761Z",
@@ -33849,6 +33850,21 @@
       "joinDate": "2025-02-21T14:17:56.698Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abanise",
+      "email": "oluwaferanmi8@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "AB1ZV",
+      "inviter_referral_code": "RAJDK",
+      "inviter_username": "Raphealperry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:18:25.435Z"
     }
   ],
   "withdrawals": [
