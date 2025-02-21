@@ -12973,11 +12973,12 @@
       "inviter_referral_code": "WOJE5",
       "inviter_username": "Wonderful ",
       "invited_users": [
-        "Aaronoladepo"
+        "Aaronoladepo",
+        "Mike"
       ],
       "balance": 40,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -19451,7 +19452,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abdulhameed ",
@@ -19554,6 +19556,21 @@
       "joinDate": "2025-02-21T07:56:13.957Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mike",
+      "email": "adewumimicheal2006@gmail.com",
+      "encrypted_password": "ee0c248d5e51c0033e19a4605c252928",
+      "referral_code": "MIJKI",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:56:27.684Z"
     }
   ],
   "withdrawals": [
