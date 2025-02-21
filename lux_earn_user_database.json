@@ -5616,7 +5616,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 185,
+      "balance": 205,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5625,7 +5625,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5
       ],
       "lastSpin": "2025-02-21T00:16:30.489Z"
     },
@@ -6270,7 +6272,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dray",
