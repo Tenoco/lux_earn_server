@@ -6497,13 +6497,17 @@
       "inviter_referral_code": "LA7RS",
       "inviter_username": "LAGACONCEPT ",
       "invited_users": [],
-      "balance": 50,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:26:27.067Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1,
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -6709,7 +6713,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:29:19.129Z"
+      "joinDate": "2025-02-21T00:29:19.129Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
