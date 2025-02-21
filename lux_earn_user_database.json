@@ -13608,11 +13608,12 @@
       "inviter_username": null,
       "invited_users": [
         "Rose55",
-        "Johnson26"
+        "Johnson26",
+        "krrishna"
       ],
       "balance": 20,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -15221,6 +15222,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:30.371Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:45:56.264Z"
     },
     {
@@ -15239,6 +15241,21 @@
       "joinDate": "2025-02-21T06:45:48.549Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "krrishna",
+      "email": "krrishnamandy@gmail.com",
+      "encrypted_password": "ece31aff11af3eb05ae16bb20b1df5d8",
+      "referral_code": "KRJ56",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:46:04.809Z"
     }
   ],
   "withdrawals": [
