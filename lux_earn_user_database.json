@@ -32541,7 +32541,7 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32550,9 +32550,9 @@
       "completedMissions": [
         2,
         1,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Billy jos",
