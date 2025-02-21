@@ -14155,7 +14155,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 40,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14165,9 +14165,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Rose55",
@@ -14593,7 +14593,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:35:30.775Z"
+      "joinDate": "2025-02-21T06:35:30.775Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
