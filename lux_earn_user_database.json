@@ -25378,7 +25378,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:25:56.895Z"
+      "joinDate": "2025-02-21T10:25:56.895Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Imamshafi",
+      "email": "donpablo541@gmail.com",
+      "encrypted_password": "604ee2252d2b6ff1738b3f705f3d7e88",
+      "referral_code": "IMX2I",
+      "inviter_referral_code": "Sh7ck",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:26:00.104Z"
     }
   ],
   "withdrawals": [
