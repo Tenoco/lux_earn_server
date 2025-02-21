@@ -5306,7 +5306,7 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 105,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5315,7 +5315,9 @@
       "completedMissions": [
         5,
         4,
-        3
+        3,
+        2,
+        1
       ]
     },
     {
