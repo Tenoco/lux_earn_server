@@ -2390,11 +2390,12 @@
       "invited_users": [
         "OmokolRe",
         "Kayode26",
-        "Lola32E"
+        "Lola32E",
+        "Pamela210"
       ],
       "balance": 280,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -25645,10 +25646,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:30:04.151Z",
-      "lastSpin": "2025-02-21T10:31:21.359Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:31:21.359Z"
     },
     {
       "username": "Ayo88",
@@ -25802,6 +25803,21 @@
       "joinDate": "2025-02-21T10:35:12.375Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pamela210",
+      "email": "pamelagomez6063@gmail.com",
+      "encrypted_password": "9c580d765fd037c384f2fcd1e53e7fa9",
+      "referral_code": "PAX6N",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:20.749Z"
     }
   ],
   "withdrawals": [
