@@ -11495,14 +11495,16 @@
         "Goohdyy",
         "Fanjansoy"
       ],
-      "balance": 50,
+      "balance": 68,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:16:19.851Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T05:56:06.640Z"
     },
     {
       "username": "Femi235",
