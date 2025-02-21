@@ -15911,11 +15911,12 @@
         "@bubble",
         "Unshakable era",
         "Amaka11237",
-        "Spotlessboo "
+        "Spotlessboo ",
+        "Emmanuel2024"
       ],
       "balance": 250,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
@@ -29862,7 +29863,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:17:55.890Z"
+      "joinDate": "2025-02-21T12:17:55.890Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuel2024",
+      "email": "emma125t4@gmail.com",
+      "encrypted_password": "b8b391747281d21f7200b27fb4fe3687",
+      "referral_code": "EMBRH",
+      "inviter_referral_code": "CHVDI",
+      "inviter_username": "Chizzy001xyz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:18:16.395Z"
     }
   ],
   "withdrawals": [
