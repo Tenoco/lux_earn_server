@@ -14725,11 +14725,12 @@
         "Baduku",
         "Tobiloba",
         "Happiness009",
-        "Loveth"
+        "Loveth",
+        "Chunsoo"
       ],
       "balance": 100,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -16753,7 +16754,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:06:33.920Z"
+      "joinDate": "2025-02-21T07:06:33.920Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chunsoo",
+      "email": "chunsoo@gmail.com",
+      "encrypted_password": "763a1c958a152a0a19c1b740e7bf80a1",
+      "referral_code": "CHONV",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:06:38.803Z"
     }
   ],
   "withdrawals": [
