@@ -7264,7 +7264,7 @@
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
       "invited_users": [],
-      "balance": 165,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7274,9 +7274,9 @@
         1,
         3,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        6
+      ]
     },
     {
       "username": "B.Crown",
@@ -7461,7 +7461,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:47:42.983Z"
+      "joinDate": "2025-02-21T00:47:42.983Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
