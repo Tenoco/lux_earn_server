@@ -1973,11 +1973,12 @@
         "Noblerebel ",
         "cassidy",
         "Maranatha ",
-        "Victorstones"
+        "Victorstones",
+        "Kelechi chuks"
       ],
       "balance": 10,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:00.752Z",
@@ -32643,6 +32644,21 @@
       "joinDate": "2025-02-21T13:45:14.499Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kelechi chuks",
+      "email": "kelechukwu11@gmail.com",
+      "encrypted_password": "2100e380b18b621ee09e6ce4b3d49d1b",
+      "referral_code": "KEELC",
+      "inviter_referral_code": "EBX6A",
+      "inviter_username": "Ebenezerochi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:45:59.995Z"
     }
   ],
   "withdrawals": [
