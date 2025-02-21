@@ -5392,7 +5392,7 @@
         "Kafilat",
         "Johnnuy"
       ],
-      "balance": 80,
+      "balance": 30,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -6623,6 +6623,16 @@
       "phoneNumber": "08057243779",
       "amount": 50,
       "timestamp": "2025-02-21T00:25:17.711Z",
+      "status": "pending"
+    },
+    {
+      "username": "IamIsaacc",
+      "email": "Alexisjohn752@gmail.com",
+      "type": "airtime",
+      "network": "glo",
+      "phoneNumber": "08057243779",
+      "amount": 50,
+      "timestamp": "2025-02-21T00:25:20.653Z",
       "status": "pending"
     }
   ]
