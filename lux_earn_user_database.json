@@ -4718,11 +4718,12 @@
         "Miles",
         "Vick",
         "Willy",
-        "Storm"
+        "Storm",
+        "Quam"
       ],
       "balance": 25,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -8082,6 +8083,21 @@
       "joinDate": "2025-02-21T01:07:45.966Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Quam",
+      "email": "quamy07@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "QURCF",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:08:47.270Z"
     }
   ],
   "withdrawals": [
