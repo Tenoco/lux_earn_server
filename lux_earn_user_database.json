@@ -36899,14 +36899,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:47:04.824Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T18:53:36.810Z"
     },
     {
       "username": "Smanazceo",
@@ -37023,7 +37023,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:53:21.942Z"
+      "joinDate": "2025-02-21T18:53:21.942Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
