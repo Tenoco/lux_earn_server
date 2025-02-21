@@ -31644,7 +31644,7 @@
       "inviter_referral_code": "TE6SX",
       "inviter_username": "Temmy",
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31653,7 +31653,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5
       ]
     },
     {
