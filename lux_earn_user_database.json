@@ -30007,14 +30007,15 @@
       "inviter_referral_code": "Ben3on",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:19:51.022Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Micheally1234",
@@ -30046,7 +30047,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:21:43.077Z"
+      "joinDate": "2025-02-21T12:21:43.077Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
