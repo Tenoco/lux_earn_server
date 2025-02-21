@@ -18053,12 +18053,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:52.869Z",
-      "lastSpin": "2025-02-21T07:32:37.176Z",
       "completedMissions": [
         8,
         3,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:32:37.176Z"
     },
     {
       "username": "Greziky ",
@@ -18217,7 +18217,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18230,9 +18230,9 @@
         4,
         5,
         6,
-        7
-      ],
-      "lastSpin": null
+        7,
+        8
+      ]
     },
     {
       "username": "Wisdomchibuike ",
