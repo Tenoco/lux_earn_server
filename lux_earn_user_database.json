@@ -680,11 +680,12 @@
         "Royaleprof",
         "Sirdadaa",
         "Harfizino ",
-        "Cleyboy001"
+        "Cleyboy001",
+        "Sheujnr"
       ],
       "balance": 112,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -18093,6 +18094,21 @@
       "joinDate": "2025-02-21T07:27:48.872Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sheujnr",
+      "email": "sheushuaib22@gmail.com",
+      "encrypted_password": "534c31a3554bc5e67966c2059808913b",
+      "referral_code": "SHK4Z",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:28:28.194Z"
     }
   ],
   "withdrawals": [
