@@ -186,11 +186,12 @@
         "Olumide ",
         "Ogunyoka12",
         "Uno13",
-        "samuel"
+        "samuel",
+        "Olumide"
       ],
       "balance": 303,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -5222,6 +5223,21 @@
       "joinDate": "2025-02-21T00:04:04.133Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olumide",
+      "email": "benson1234@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "OL6I5",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:04:10.084Z"
     }
   ],
   "withdrawals": [
