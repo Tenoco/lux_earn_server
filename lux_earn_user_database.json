@@ -35694,7 +35694,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:07:23.911Z",
-      "lastSpin": "2025-02-21T15:08:02.471Z",
       "completedMissions": [
         1,
         2,
@@ -35702,7 +35701,8 @@
         4,
         3,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:08:02.471Z"
     },
     {
       "username": "sallee",
@@ -35746,14 +35746,13 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:10:50.879Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:11:36.028Z"
     }
   ],
   "withdrawals": [
