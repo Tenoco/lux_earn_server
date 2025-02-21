@@ -2117,7 +2117,7 @@
       "inviter_referral_code": "SAHU4",
       "inviter_username": "Saint ",
       "invited_users": [],
-      "balance": 155,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2126,7 +2126,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        8
       ],
       "lastSpin": null
     },
@@ -7027,7 +7028,8 @@
       "completedMissions": [
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Elisha ",
