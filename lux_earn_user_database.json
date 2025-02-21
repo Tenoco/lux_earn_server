@@ -4114,14 +4114,15 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:19.336Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -9929,7 +9930,8 @@
         8,
         3,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ajidex100 ",
