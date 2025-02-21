@@ -9725,7 +9725,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 135,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9734,9 +9734,13 @@
       "completedMissions": [
         7,
         8,
-        6
-      ],
-      "lastSpin": null
+        6,
+        2,
+        1,
+        5,
+        3,
+        4
+      ]
     },
     {
       "username": "Kashops14",
@@ -9812,7 +9816,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:12:43.939Z"
+      "joinDate": "2025-02-21T03:12:43.939Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
