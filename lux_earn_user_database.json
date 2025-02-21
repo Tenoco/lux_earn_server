@@ -24405,10 +24405,12 @@
       "referral_code": "MAB3U",
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
-      "invited_users": [],
+      "invited_users": [
+        "Hon980"
+      ],
       "balance": 288,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
@@ -24892,7 +24894,8 @@
         9,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VaLi ",
@@ -25195,6 +25198,21 @@
       "joinDate": "2025-02-21T10:20:57.368Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hon980",
+      "email": "saturvxg675@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "HO8T9",
+      "inviter_referral_code": "MAB3U",
+      "inviter_username": "Marv766",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:21:26.220Z"
     }
   ],
   "withdrawals": [
