@@ -22296,11 +22296,12 @@
       "invited_users": [
         "Austa",
         "Mwawawa ",
-        "edukeitemjames"
+        "edukeitemjames",
+        "sallee"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -35659,7 +35660,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:07:23.911Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:08:02.471Z"
+    },
+    {
+      "username": "sallee",
+      "email": "gabie201@gmail.com",
+      "encrypted_password": "fde3af804125381e85bec420d3e265fe",
+      "referral_code": "SATY4",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:08:20.127Z"
     }
   ],
   "withdrawals": [
