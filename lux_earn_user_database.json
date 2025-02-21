@@ -13769,7 +13769,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:19:50.499Z"
+      "joinDate": "2025-02-21T06:19:50.499Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Moneymizzy ",
+      "email": "abdulmuizayokunnu001@gmail.com",
+      "encrypted_password": "dfcb066ece8e4b86012737dd0144cbaf",
+      "referral_code": "MODAS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:20:04.814Z"
     }
   ],
   "withdrawals": [
