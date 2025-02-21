@@ -14869,11 +14869,12 @@
         "Tobi",
         "Divine ",
         "Jibola",
-        "Ashabi"
+        "Ashabi",
+        "Wiskid"
       ],
       "balance": 300,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -29215,6 +29216,21 @@
       "joinDate": "2025-02-21T12:01:39.139Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wiskid",
+      "email": "cidaloc482@yalcu.com",
+      "encrypted_password": "a14b1bbaad4c127657d9c8d907fc6a75",
+      "referral_code": "WIBB7",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:02:19.176Z"
     }
   ],
   "withdrawals": [
