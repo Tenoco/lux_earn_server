@@ -5317,10 +5317,12 @@
       "referral_code": "IA6V8",
       "inviter_referral_code": "KII01",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Cannel"
+      ],
       "balance": 185,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5488,6 +5490,21 @@
       "joinDate": "2025-02-21T00:09:30.320Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cannel",
+      "email": "cannelmater@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "CAHTH",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:09:43.308Z"
     }
   ],
   "withdrawals": [
