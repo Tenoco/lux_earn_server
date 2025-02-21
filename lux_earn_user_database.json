@@ -37191,7 +37191,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:57:27.469Z"
+      "joinDate": "2025-02-21T16:57:27.469Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Salees044",
+      "email": "salisahmadkhamis@gmail.com",
+      "encrypted_password": "3bad20863a45163f2366135e326c47bf",
+      "referral_code": "SAAI9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:57:39.781Z"
     }
   ],
   "withdrawals": [
