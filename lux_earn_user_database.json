@@ -1748,11 +1748,12 @@
         "Wade25",
         "Ajidex100 ",
         "Ani2005",
-        "Moshob"
+        "Moshob",
+        "khenney"
       ],
       "balance": 275,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10193,6 +10194,21 @@
       "joinDate": "2025-02-21T03:47:44.314Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "khenney",
+      "email": "akomolafekehinde1999@gmail.com",
+      "encrypted_password": "394b732ee9d0eb7d93040c2fffa0b054",
+      "referral_code": "KHVCY",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:54:08.375Z"
     }
   ],
   "withdrawals": [
