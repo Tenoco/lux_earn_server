@@ -30060,7 +30060,7 @@
       "inviter_referral_code": "Ben3on",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30068,7 +30068,11 @@
       "joinDate": "2025-02-21T12:19:51.022Z",
       "completedMissions": [
         1,
-        2
+        2,
+        2,
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -30591,7 +30595,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:33:22.816Z"
+      "joinDate": "2025-02-21T12:33:22.816Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
