@@ -31594,11 +31594,12 @@
       "invited_users": [
         "Bjsnsn",
         "Jbmnbw",
-        "Baknssn"
+        "Baknssn",
+        "Chhbbb"
       ],
       "balance": 30,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:03:49.290Z",
@@ -34581,7 +34582,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:37:07.226Z"
+      "joinDate": "2025-02-21T14:37:07.226Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chhbbb",
+      "email": "faithhendricks54@gmail.com",
+      "encrypted_password": "f3394e49bfd26732cfa9662854c5038f",
+      "referral_code": "CHDZE",
+      "inviter_referral_code": "INAJD",
+      "inviter_username": "increasehendricks",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:37:25.440Z"
     }
   ],
   "withdrawals": [
