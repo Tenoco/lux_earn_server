@@ -24385,7 +24385,8 @@
         1,
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hovaflow",
@@ -24488,6 +24489,21 @@
       "joinDate": "2025-02-21T10:04:26.584Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "humbletreasure",
+      "email": "mathiasnkereuwemandrew@gmail.com",
+      "encrypted_password": "5b3a3152bc39edb7289f5b96480feb8d",
+      "referral_code": "HU32R",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:04:55.423Z"
     }
   ],
   "withdrawals": [
