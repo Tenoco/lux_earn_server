@@ -8739,10 +8739,12 @@
       "referral_code": "AD98M",
       "inviter_referral_code": "Netflify",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "ayo515"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:55:49.237Z",
@@ -13492,7 +13494,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Funtechit9",
@@ -13614,6 +13617,21 @@
       "joinDate": "2025-02-21T06:14:18.548Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ayo515",
+      "email": "ayoamos11@gmail.com",
+      "encrypted_password": "af2f5c6bfd18922bb77c07b3d8b0bc60",
+      "referral_code": "AYAFH",
+      "inviter_referral_code": "AD98M",
+      "inviter_username": "Adewumi212",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:14:48.142Z"
     }
   ],
   "withdrawals": [
