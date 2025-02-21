@@ -4294,11 +4294,12 @@
         "gidoun",
         "Houstony",
         "valenty",
-        "bryanny"
+        "bryanny",
+        "rosey"
       ],
       "balance": 295,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -24524,7 +24525,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:05:24.696Z"
+      "joinDate": "2025-02-21T10:05:24.696Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "rosey",
+      "email": "rose699kelvin@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "ROHF2",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:05:29.673Z"
     }
   ],
   "withdrawals": [
