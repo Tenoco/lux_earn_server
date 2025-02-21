@@ -14841,11 +14841,12 @@
         "Sir",
         "Daddy ",
         "Mummy ",
-        "Sung"
+        "Sung",
+        "Mayowa"
       ],
       "balance": 300,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -27200,6 +27201,21 @@
       "joinDate": "2025-02-21T11:00:06.974Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mayowa",
+      "email": "noloy28548@dropfam.com",
+      "encrypted_password": "77ad11c39c03d210099a562e9e54008a",
+      "referral_code": "MA6JW",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:01:10.816Z"
     }
   ],
   "withdrawals": [
