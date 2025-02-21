@@ -15823,11 +15823,12 @@
         "H7890",
         "Rockzymalone",
         "Shedrack Jerry",
-        "Ojoare Rasheed Olaniyi "
+        "Ojoare Rasheed Olaniyi ",
+        "faith"
       ],
       "balance": 380,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -36980,7 +36981,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:00:01.138Z"
+      "joinDate": "2025-02-21T16:00:01.138Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "faith",
+      "email": "faithsaturday02@gmail.com",
+      "encrypted_password": "85377c154fbe450b9806ac6c5d11064f",
+      "referral_code": "FA1M7",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:00:12.777Z"
     }
   ],
   "withdrawals": [
