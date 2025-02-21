@@ -1117,11 +1117,12 @@
       "invited_users": [
         "Fearless77",
         "Alex ",
-        "Abdullahi3128"
+        "Abdullahi3128",
+        "Wonderful "
       ],
       "balance": 295,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -6298,6 +6299,21 @@
       "joinDate": "2025-02-21T00:21:56.285Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wonderful ",
+      "email": "edogal161@gmail.com",
+      "encrypted_password": "8603a275bd9ce37ef189b62e92c42bee",
+      "referral_code": "WOJE5",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:22:01.731Z"
     }
   ],
   "withdrawals": [
