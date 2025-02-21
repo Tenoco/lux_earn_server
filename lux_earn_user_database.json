@@ -30053,14 +30053,15 @@
       "inviter_referral_code": "Ben3on",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:19:51.022Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
