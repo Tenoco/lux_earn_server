@@ -2041,7 +2041,7 @@
         "Amalaugo3",
         "Sylverfox "
       ],
-      "balance": 225,
+      "balance": 255,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -2053,7 +2053,8 @@
         3,
         4,
         5,
-        6
+        6,
+        8
       ],
       "lastSpin": null
     },
