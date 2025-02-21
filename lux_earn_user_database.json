@@ -8607,7 +8607,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8617,9 +8617,9 @@
         1,
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Mrbest",
@@ -8657,7 +8657,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:29:05.789Z"
+      "joinDate": "2025-02-21T01:29:05.789Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
