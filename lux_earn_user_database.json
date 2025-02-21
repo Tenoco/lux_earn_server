@@ -34591,10 +34591,12 @@
       "referral_code": "LYMNG",
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
-      "invited_users": [],
+      "invited_users": [
+        "Olawale12"
+      ],
       "balance": 325,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:27:31.447Z",
@@ -38097,6 +38099,21 @@
       "joinDate": "2025-02-21T18:13:05.877Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olawale12",
+      "email": "afolayansherifatbolanle@gmail.com",
+      "encrypted_password": "0fe2cffe1090326088b45045decb1e57",
+      "referral_code": "OL1NF",
+      "inviter_referral_code": "LYMNG",
+      "inviter_username": "Lyan Mubby ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:14:59.914Z"
     }
   ],
   "withdrawals": [
