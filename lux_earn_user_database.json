@@ -1288,11 +1288,12 @@
         "Abdul230",
         "Victordominic ",
         "Esther",
-        "Estheriyanuoluwa"
+        "Estheriyanuoluwa",
+        "Sara Phina"
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -12319,7 +12320,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:43:53.690Z"
+      "joinDate": "2025-02-21T05:43:53.690Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sara Phina",
+      "email": "sarahchidinmma99@gmail.com",
+      "encrypted_password": "237dfdf5e3f5263af2399b91bd1c4d76",
+      "referral_code": "SAR8B",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:44:21.508Z"
     }
   ],
   "withdrawals": [
