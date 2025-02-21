@@ -36964,7 +36964,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36976,9 +36976,12 @@
         4,
         5,
         2,
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        11,
+        10,
+        9
+      ]
     },
     {
       "username": "Dora",
