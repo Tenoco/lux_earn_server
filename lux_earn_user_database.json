@@ -37046,16 +37046,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:49:41.409Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Wisdom22",
@@ -37175,6 +37176,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:57:05.844Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T16:57:52.432Z"
     },
     {
