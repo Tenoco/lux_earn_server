@@ -19873,11 +19873,12 @@
       "inviter_username": "Zita555",
       "invited_users": [
         "Joshua ",
-        "frank6i"
+        "frank6i",
+        "wonderful23"
       ],
       "balance": 100,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:57:27.264Z",
@@ -22334,6 +22335,21 @@
       "joinDate": "2025-02-21T09:07:12.692Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "wonderful23",
+      "email": "wonderfuladebayo142@gmail.com",
+      "encrypted_password": "80e85aaeb0e7ef407aecb59d88ab8a61",
+      "referral_code": "WOL2R",
+      "inviter_referral_code": "HE5KL",
+      "inviter_username": "Henry Joshua ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:07:44.028Z"
     }
   ],
   "withdrawals": [
