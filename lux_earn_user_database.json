@@ -37027,13 +37027,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:46:15.740Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": "2025-02-21T23:53:39.429Z"
     },
     {
