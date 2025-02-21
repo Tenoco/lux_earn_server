@@ -37340,10 +37340,12 @@
       "referral_code": "VIXLF",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Please111"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:44:18.929Z",
@@ -37417,7 +37419,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:56:03.240Z"
+      "joinDate": "2025-02-21T19:56:03.240Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Please111",
+      "email": "please@gmail.com",
+      "encrypted_password": "6050ce63e4bce6764cb34cac51fb44d1",
+      "referral_code": "PLRHP",
+      "inviter_referral_code": "VIXLF",
+      "inviter_username": "Vic2332",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:56:19.201Z"
     }
   ],
   "withdrawals": [
