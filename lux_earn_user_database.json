@@ -31205,16 +31205,20 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:57:55.957Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     {
       "username": "Peace87g",
@@ -31472,7 +31476,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:08:32.079Z"
+      "joinDate": "2025-02-21T13:08:32.079Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
