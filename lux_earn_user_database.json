@@ -20694,16 +20694,16 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:04.435Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Marcusein ",
@@ -20803,7 +20803,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:25:45.353Z"
+      "joinDate": "2025-02-21T08:25:45.353Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
