@@ -4293,11 +4293,12 @@
         "thompy",
         "gidoun",
         "Houstony",
-        "valenty"
+        "valenty",
+        "bryanny"
       ],
       "balance": 295,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -24464,7 +24465,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:04:15.112Z"
+      "joinDate": "2025-02-21T10:04:15.112Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "bryanny",
+      "email": "bryan87james@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "BRMV5",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:04:26.584Z"
     }
   ],
   "withdrawals": [
