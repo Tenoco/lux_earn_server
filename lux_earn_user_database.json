@@ -25981,11 +25981,12 @@
       "invited_users": [
         "SammieJay",
         "Okokoumaxxi",
-        "Lobayementuna"
+        "Lobayementuna",
+        "Rayman"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27129,7 +27130,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:59:03.010Z"
+      "joinDate": "2025-02-21T10:59:03.010Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rayman",
+      "email": "rayrayman@gmail.com",
+      "encrypted_password": "75a27a0a45ded3f526bfadf4d5f1249a",
+      "referral_code": "RA3RE",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:59:12.800Z"
     }
   ],
   "withdrawals": [
