@@ -1697,11 +1697,12 @@
       "invited_users": [
         "Olawale ",
         "jamiluamusbahu",
-        "Sirblack1338"
+        "Sirblack1338",
+        "Kingaleey1"
       ],
       "balance": 275,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -5668,6 +5669,21 @@
       "joinDate": "2025-02-21T00:12:23.579Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kingaleey1",
+      "email": "aliyusmanbarasa@gmail.com",
+      "encrypted_password": "fb876d521757eb956bc0b028266b7c51",
+      "referral_code": "KIUD0",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:13:12.225Z"
     }
   ],
   "withdrawals": [
