@@ -16805,11 +16805,12 @@
         "Doris",
         "Young",
         "Daniel",
-        "Abelgebriel"
+        "Abelgebriel",
+        "Chiamakachi"
       ],
       "balance": 280,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36110,6 +36111,21 @@
       "joinDate": "2025-02-21T15:21:28.157Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chiamakachi",
+      "email": "chiamaka50@gmail.com",
+      "encrypted_password": "48006c311f6cad23b5dfc30d2e5d872f",
+      "referral_code": "CHRLL",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:21:47.851Z"
     }
   ],
   "withdrawals": [
