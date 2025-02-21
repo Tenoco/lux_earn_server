@@ -15956,14 +15956,13 @@
       "inviter_referral_code": "RUDYD",
       "inviter_username": "Ruth641",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:35.485Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:58:46.768Z"
     },
     {
       "username": "Louis chukwue",
@@ -16114,7 +16113,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:41.804Z"
+      "joinDate": "2025-02-21T06:58:41.804Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
