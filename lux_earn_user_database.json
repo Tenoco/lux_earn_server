@@ -36134,16 +36134,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
+      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T15:21:53.509Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Chiamakachi",
@@ -36246,6 +36247,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:23:54.861Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:24:39.147Z"
     },
     {
