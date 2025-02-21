@@ -20471,7 +20471,7 @@
       "inviter_referral_code": "IJ105",
       "inviter_username": "Ijeslimz ",
       "invited_users": [],
-      "balance": 250,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20486,7 +20486,8 @@
         6,
         6,
         8,
-        7
+        7,
+        9
       ],
       "lastSpin": null
     },
@@ -20783,7 +20784,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:25:17.802Z"
+      "joinDate": "2025-02-21T08:25:17.802Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
