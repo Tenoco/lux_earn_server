@@ -19376,11 +19376,12 @@
         "God33",
         "Hod001",
         "God0003",
-        "You223344"
+        "You223344",
+        "Tod"
       ],
       "balance": 232,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -30234,6 +30235,21 @@
       "joinDate": "2025-02-21T12:24:32.312Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tod",
+      "email": "samuelgbolahan326@gmail.com",
+      "encrypted_password": "19c6c4332dd04bf19cbae31593a523d1",
+      "referral_code": "TOVBA",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:26:34.928Z"
     }
   ],
   "withdrawals": [
