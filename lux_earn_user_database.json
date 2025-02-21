@@ -11954,7 +11954,8 @@
       "completedMissions": [
         1,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Taofiq123",
@@ -12057,6 +12058,21 @@
       "joinDate": "2025-02-21T05:35:51.153Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Enoch",
+      "email": "procode645@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "ENPCU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:30:15.033Z"
     }
   ],
   "withdrawals": [
