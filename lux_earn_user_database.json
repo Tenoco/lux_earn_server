@@ -32179,14 +32179,21 @@
       "inviter_referral_code": "DECIC",
       "inviter_username": "Debby030",
       "invited_users": [],
-      "balance": 0,
+      "balance": 202,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:31:04.329Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        5
+      ],
+      "lastSpin": "2025-02-21T13:37:18.699Z"
     },
     {
       "username": "Lewis",
@@ -32410,7 +32417,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:37:02.439Z"
+      "joinDate": "2025-02-21T13:37:02.439Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
