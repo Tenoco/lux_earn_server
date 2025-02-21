@@ -16836,11 +16836,12 @@
         "Henryjohn",
         "Emmanuel okpe",
         "Abigail Innocent",
-        "Adorable"
+        "Adorable",
+        "Abdulhakim"
       ],
       "balance": 280,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36783,6 +36784,21 @@
       "joinDate": "2025-02-21T15:40:38.333Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T15:40:48.586Z"
+    },
+    {
+      "username": "Abdulhakim",
+      "email": "abdulhakimxx@gmail.com",
+      "encrypted_password": "a7681e01f0854044aa8f99689767be6b",
+      "referral_code": "ABPGW",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:41:20.829Z"
     }
   ],
   "withdrawals": [
