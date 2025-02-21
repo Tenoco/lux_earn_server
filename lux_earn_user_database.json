@@ -16455,7 +16455,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:02:32.945Z"
+      "joinDate": "2025-02-21T07:02:32.945Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdulbasit abdullateef ",
+      "email": "abdullateefabdulbasit51@gmail.com",
+      "encrypted_password": "27c55f39d6d4d05d484fbe4d1d5dfd15",
+      "referral_code": "AB7CF",
+      "inviter_referral_code": "ADFJR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:02:41.820Z"
     }
   ],
   "withdrawals": [
