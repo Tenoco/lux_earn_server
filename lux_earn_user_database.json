@@ -13945,11 +13945,12 @@
       "inviter_username": null,
       "invited_users": [
         "Aibeeyusufk",
-        "Avwero"
+        "Avwero",
+        "Bigmide1912"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -20116,6 +20117,21 @@
       "joinDate": "2025-02-21T08:09:27.011Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bigmide1912",
+      "email": "ayomidemojirola1912@gmail.com",
+      "encrypted_password": "d7829a63305cf0c6a0372ccd6fcb31cc",
+      "referral_code": "BIYUY",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:09:41.201Z"
     }
   ],
   "withdrawals": [
