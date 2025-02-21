@@ -16627,7 +16627,8 @@
       "completedMissions": [
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Lily",
@@ -16859,6 +16860,21 @@
       "joinDate": "2025-02-21T07:08:25.742Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tong",
+      "email": "tongshinanjulius@gmail.com",
+      "encrypted_password": "7c04cac87083d4263942f9b10927bad7",
+      "referral_code": "TO8QD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:08:40.842Z"
     }
   ],
   "withdrawals": [
