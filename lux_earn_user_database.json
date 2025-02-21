@@ -23049,7 +23049,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ayenieliezer@gmil.com",
@@ -23190,16 +23191,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:27:34.221Z",
       "completedMissions": [
-        2
+        2,
+        3
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:30:04.142Z"
     },
     {
       "username": "Mojiroye ",
