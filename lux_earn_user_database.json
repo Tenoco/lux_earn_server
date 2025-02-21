@@ -13306,14 +13306,19 @@
       "inviter_referral_code": "MM6P4",
       "inviter_username": "mmmmdjk1",
       "invited_users": [],
-      "balance": 22,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:07:24.773Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T06:07:48.155Z"
+      "lastSpin": "2025-02-21T06:07:48.155Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        3
+      ]
     },
     {
       "username": "Abdul roqeeb ",
