@@ -1473,7 +1473,7 @@
         "Ayomide",
         "Tohrah"
       ],
-      "balance": 260,
+      "balance": 280,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -1489,7 +1489,7 @@
         7,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:00:15.184Z"
     },
     {
       "username": "Jomilee",
@@ -22037,7 +22037,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:59:49.068Z"
+      "joinDate": "2025-02-21T08:59:49.068Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
