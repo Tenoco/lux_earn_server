@@ -1313,11 +1313,12 @@
         "Esther",
         "Estheriyanuoluwa",
         "Sara Phina",
-        "Salifusa"
+        "Salifusa",
+        "Olofin78"
       ],
       "balance": 88,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -15436,6 +15437,21 @@
       "joinDate": "2025-02-21T06:48:55.136Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olofin78",
+      "email": "alagbeade080@gmail.com",
+      "encrypted_password": "906664cf9ac45a69d1d465a8ea7d4f0a",
+      "referral_code": "OLOGF",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:49:51.180Z"
     }
   ],
   "withdrawals": [
