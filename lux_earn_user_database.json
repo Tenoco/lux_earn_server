@@ -16432,11 +16432,12 @@
       "inviter_username": "JamesCharles",
       "invited_users": [
         "Zealkreation",
-        "abbaadamulawal"
+        "abbaadamulawal",
+        "Kokos8"
       ],
       "balance": 30,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -21461,7 +21462,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:42:33.285Z"
+      "joinDate": "2025-02-21T08:42:33.285Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kokos8",
+      "email": "kokoenterprise6@gmail.com",
+      "encrypted_password": "7d21eb2f9ab92c0c94fc9e4c076af93a",
+      "referral_code": "KOPW2",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:42:40.761Z"
     }
   ],
   "withdrawals": [
