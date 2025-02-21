@@ -1215,11 +1215,12 @@
         "Happiness",
         "David",
         "Usuman",
-        "Emmaunel"
+        "Emmaunel",
+        "Faith"
       ],
       "balance": 190,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -13405,6 +13406,21 @@
       "joinDate": "2025-02-21T06:09:37.994Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Faith",
+      "email": "faith457689@gmail.com",
+      "encrypted_password": "22b28e1856c5f1caa2c682cc6afdedea",
+      "referral_code": "FAHEB",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:10:13.183Z"
     }
   ],
   "withdrawals": [
