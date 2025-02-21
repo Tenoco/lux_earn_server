@@ -7970,7 +7970,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:04:50.763Z"
+      "joinDate": "2025-02-21T01:04:50.763Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yusking",
+      "email": "yuskingayomide@gmail.com",
+      "encrypted_password": "8e0ed9926a0ef7e105f839330662bf1e",
+      "referral_code": "YUNQL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:04:55.463Z"
     }
   ],
   "withdrawals": [
