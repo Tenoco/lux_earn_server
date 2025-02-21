@@ -22950,14 +22950,15 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:23:38.402Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Wumzy",
@@ -23161,7 +23162,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:27:34.221Z"
+      "joinDate": "2025-02-21T09:27:34.221Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
