@@ -13356,7 +13356,7 @@
         "Thiago",
         "Mercy"
       ],
-      "balance": 108,
+      "balance": 148,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -13369,7 +13369,9 @@
         3,
         4,
         9,
-        8
+        8,
+        8,
+        7
       ],
       "lastSpin": "2025-02-21T06:08:48.108Z"
     },
@@ -31993,7 +31995,8 @@
         5,
         4,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hamzzy",
