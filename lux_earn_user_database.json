@@ -15089,6 +15089,21 @@
       "joinDate": "2025-02-21T06:43:50.035Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samuel",
+      "email": "adesam336@gmail.com",
+      "encrypted_password": "81cffea95698a183d7c586ada4ce17f0",
+      "referral_code": "SAUZ2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:44:12.455Z"
     }
   ],
   "withdrawals": [
