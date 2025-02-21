@@ -4637,11 +4637,12 @@
       "inviter_username": null,
       "invited_users": [
         "Nuel",
-        "Oyin"
+        "Oyin",
+        "Zord"
       ],
       "balance": 325,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -5745,7 +5746,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:13:55.517Z"
+      "joinDate": "2025-02-21T00:13:55.517Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zord",
+      "email": "Eminzord@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "ZO0K1",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:13:59.180Z"
     }
   ],
   "withdrawals": [
