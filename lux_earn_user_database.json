@@ -9005,7 +9005,7 @@
       "invited_users": [
         "Sameft"
       ],
-      "balance": 275,
+      "balance": 310,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -9018,7 +9018,8 @@
         4,
         3,
         3,
-        8
+        8,
+        7
       ],
       "lastSpin": null
     },
@@ -9099,7 +9100,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:22:32.637Z"
+      "joinDate": "2025-02-21T02:22:32.637Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
