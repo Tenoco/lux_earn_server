@@ -37357,14 +37357,16 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 20,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:08:30.761Z",
       "completedMissions": [
-        11
+        11,
+        10,
+        9
       ]
     },
     {
