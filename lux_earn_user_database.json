@@ -17043,7 +17043,8 @@
         1,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@bubble",
@@ -17053,7 +17054,7 @@
       "inviter_referral_code": "CHVDI",
       "inviter_username": "Chizzy001xyz",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17061,9 +17062,9 @@
       "joinDate": "2025-02-21T07:11:25.656Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Merrysmart",
