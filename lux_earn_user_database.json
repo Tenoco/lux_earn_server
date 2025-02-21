@@ -37016,7 +37016,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:00:29.184Z"
+      "joinDate": "2025-02-21T16:00:29.184Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "junior",
+      "email": "sakamutiu21@gmail.com",
+      "encrypted_password": "9f97efc8396a4f2ae6d643363c87a50e",
+      "referral_code": "JUCFB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:00:41.255Z"
     }
   ],
   "withdrawals": [
