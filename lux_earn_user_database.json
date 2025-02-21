@@ -18551,14 +18551,18 @@
       "inviter_referral_code": "VIRFJ",
       "inviter_username": "Vickiejone",
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:34:31.028Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Ifeoluwa",
@@ -18740,7 +18744,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:40:34.275Z"
+      "joinDate": "2025-02-21T07:40:34.275Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
