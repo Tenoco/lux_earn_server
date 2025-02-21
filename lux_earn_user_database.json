@@ -16897,13 +16897,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
-      "lastSpin": "2025-02-21T07:09:26.650Z",
       "completedMissions": [
         1,
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:09:26.650Z"
     },
     {
       "username": "Tong",
@@ -16913,7 +16913,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16923,7 +16923,9 @@
         1,
         1,
         4,
-        3
+        3,
+        2,
+        5
       ],
       "lastSpin": null
     },
