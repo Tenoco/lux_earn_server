@@ -10504,7 +10504,7 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 101,
+      "balance": 131,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10515,7 +10515,8 @@
         1,
         1,
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T05:59:05.622Z"
     },
@@ -32327,7 +32328,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Markito",
