@@ -16395,7 +16395,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16406,9 +16406,13 @@
         1,
         2,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4,
+        9,
+        9,
+        9,
+        5
+      ]
     },
     {
       "username": "Musa sani",
@@ -16883,12 +16887,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
-      "lastSpin": "2025-02-21T07:09:26.650Z",
       "completedMissions": [
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:09:26.650Z"
     },
     {
       "username": "Tong",
