@@ -24465,11 +24465,12 @@
         "Alive090",
         "Ayo88",
         "Mofe99",
-        "Matu99"
+        "Matu99",
+        "Marv766985"
       ],
       "balance": 288,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
@@ -26172,7 +26173,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:41:30.311Z"
+      "joinDate": "2025-02-21T10:41:30.311Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marv766985",
+      "email": "marvynanny@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "MANDT",
+      "inviter_referral_code": "MAB3U",
+      "inviter_username": "Marv766",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:41:48.490Z"
     }
   ],
   "withdrawals": [
