@@ -37227,11 +37227,12 @@
         "Emmanuelsho",
         "Adetutumi",
         "Adebola01",
-        "Oluwatemilorun"
+        "Oluwatemilorun",
+        "Faramade90"
       ],
       "balance": 32,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37847,6 +37848,21 @@
       "joinDate": "2025-02-21T22:17:20.157Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Faramade90",
+      "email": "Faramade90@gmail.com",
+      "encrypted_password": "bbd5c94b898a83ffb23885dc3b214283",
+      "referral_code": "FAG60",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:23:53.001Z"
     }
   ],
   "withdrawals": [
