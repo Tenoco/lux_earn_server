@@ -5447,11 +5447,12 @@
         "Kafilat",
         "Johnnuy",
         "Canddley",
-        "Honkong"
+        "Honkong",
+        "Cannyson"
       ],
       "balance": 30,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8006,7 +8007,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:05:03.404Z"
+      "joinDate": "2025-02-21T01:05:03.404Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cannyson",
+      "email": "Somneytan@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "CATZ4",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:05:08.788Z"
     }
   ],
   "withdrawals": [
