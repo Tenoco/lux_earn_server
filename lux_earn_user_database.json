@@ -10865,11 +10865,12 @@
         "Ajibola",
         "Chulnafi2",
         "Wisco124",
-        "SomtyCee"
+        "SomtyCee",
+        "Aluko"
       ],
       "balance": 50,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -38054,7 +38055,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:12:15.892Z"
+      "joinDate": "2025-02-21T18:12:15.892Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aluko",
+      "email": "alukopeace2009@gmail.com",
+      "encrypted_password": "fe8d1ad9bde94506df6cec3fbf3a13cd",
+      "referral_code": "AL0M0",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:12:28.700Z"
     }
   ],
   "withdrawals": [
