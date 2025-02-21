@@ -21050,7 +21050,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Smartdara",
@@ -21256,6 +21257,21 @@
       "joinDate": "2025-02-21T08:36:19.863Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdomact",
+      "email": "akwisdomict@gmail.com",
+      "encrypted_password": "a7ddd1b5153477b5ea47f45a814ea489",
+      "referral_code": "WIRXE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:37:11.081Z"
     }
   ],
   "withdrawals": [
