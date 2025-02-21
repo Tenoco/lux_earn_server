@@ -29363,10 +29363,12 @@
       "referral_code": "NIS14",
       "inviter_referral_code": "OLDAF",
       "inviter_username": "Oluwajoy",
-      "invited_users": [],
+      "invited_users": [
+        "Lilfranklin"
+      ],
       "balance": 335,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
@@ -37210,7 +37212,23 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Lilfranklin",
+      "email": "franklinokoraofor@gmail.com",
+      "encrypted_password": "7369b15aaacd6de3acc7038a44702e08",
+      "referral_code": "LI3X9",
+      "inviter_referral_code": "NIS14",
+      "inviter_username": "Nicefaith",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:54:20.913Z"
     }
   ],
   "withdrawals": [
