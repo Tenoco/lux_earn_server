@@ -15839,11 +15839,12 @@
         "H7890",
         "Rockzymalone",
         "Shedrack Jerry",
-        "Ojoare Rasheed Olaniyi "
+        "Ojoare Rasheed Olaniyi ",
+        "Samuelsmog"
       ],
       "balance": 380,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -37615,10 +37616,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:42:48.557Z",
-      "lastSpin": "2025-02-21T17:44:02.728Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T17:44:02.728Z"
     },
     {
       "username": "Princy",
@@ -37636,6 +37637,21 @@
       "joinDate": "2025-02-21T17:42:56.960Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samuelsmog",
+      "email": "samuelsmog57@gmail.com",
+      "encrypted_password": "550b9feb3d06a00cbec74046109b56dd",
+      "referral_code": "SAGJY",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:45:54.528Z"
     }
   ],
   "withdrawals": [
