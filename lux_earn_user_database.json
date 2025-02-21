@@ -98,11 +98,12 @@
         "hassan11",
         "Goodnewseff",
         "DAHIRU",
-        "Giftedbest"
+        "Giftedbest",
+        "LAGACONCEPT "
       ],
       "balance": 50,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -5296,6 +5297,21 @@
       "joinDate": "2025-02-21T00:04:55.599Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "LAGACONCEPT ",
+      "email": "lagaconcept2020@gmail.com",
+      "encrypted_password": "6229223c3ba50927283ca9b83d72965a",
+      "referral_code": "LA7RS",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:05:56.670Z"
     }
   ],
   "withdrawals": [
