@@ -25451,14 +25451,15 @@
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:26:54.865Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Edwin levi ",
@@ -25633,7 +25634,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:31:18.368Z"
+      "joinDate": "2025-02-21T10:31:18.368Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
