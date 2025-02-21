@@ -37201,7 +37201,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Anonymous12",
@@ -37466,6 +37467,21 @@
       "joinDate": "2025-02-21T16:11:38.534Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Enejoy",
+      "email": "enejoy62@gmail.com",
+      "encrypted_password": "10e7ab9cd29a3e55f29f7f434d859af0",
+      "referral_code": "ENJRE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:12:04.405Z"
     }
   ],
   "withdrawals": [
