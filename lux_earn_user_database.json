@@ -829,11 +829,12 @@
         "Jerry14",
         "Olamokas",
         "Coachwisdom ",
-        "Loverboy"
+        "Loverboy",
+        "Micheally1234"
       ],
       "balance": 295,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -28800,7 +28801,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hojolo",
@@ -30008,6 +30010,21 @@
       "joinDate": "2025-02-21T12:19:51.022Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Micheally1234",
+      "email": "ereromichael@gmail.com",
+      "encrypted_password": "47cd62a7bdd0536366ded885235e6429",
+      "referral_code": "MIQSC",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:21:19.277Z"
     }
   ],
   "withdrawals": [
