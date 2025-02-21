@@ -10596,11 +10596,12 @@
         "Adeniji",
         "Aadeleke",
         "OLOPA",
-        "Ode"
+        "Ode",
+        "Lol"
       ],
       "balance": 320,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -34510,6 +34511,21 @@
       "joinDate": "2025-02-21T14:35:23.042Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lol",
+      "email": "lol1@gmail.com",
+      "encrypted_password": "9e93051ec1d6046b7cf734148e07e699",
+      "referral_code": "LOW0T",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:35:51.175Z"
     }
   ],
   "withdrawals": [
