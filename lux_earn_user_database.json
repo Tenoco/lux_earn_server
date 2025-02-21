@@ -9545,12 +9545,11 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Beautykween",
-        "Jomides"
+        "Beautykween"
       ],
-      "balance": 230,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 258,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:43:39.223Z",
@@ -9560,9 +9559,10 @@
         3,
         4,
         9,
-        8
+        8,
+        5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T21:16:23.393Z"
     },
     {
       "username": "Cash101",
@@ -36960,7 +36960,8 @@
       "joinDate": "2025-02-21T21:14:16.922Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kceemoni ",
