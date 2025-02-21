@@ -146,11 +146,12 @@
         "preciousmak",
         "Illuminax ",
         "kingbest001",
-        "Adamcy123"
+        "Adamcy123",
+        "Real zafeer"
       ],
       "balance": 50,
-      "refers": 49,
-      "referralBalance": 4900,
+      "refers": 50,
+      "referralBalance": 5000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -38410,6 +38411,21 @@
         4
       ],
       "lastSpin": "2025-02-21T23:03:18.957Z"
+    },
+    {
+      "username": "Real zafeer",
+      "email": "Suleimanibrahim6063@gmail.com",
+      "encrypted_password": "0b5c340a5e8fd1a5c6577d3c7c70ba0a",
+      "referral_code": "REWSM",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:06:33.242Z"
     }
   ],
   "withdrawals": [
