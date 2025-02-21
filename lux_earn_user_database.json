@@ -27846,7 +27846,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:19:44.769Z"
+      "joinDate": "2025-02-21T11:19:44.769Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abbatiy",
+      "email": "realinuwajunior10@gmail.com",
+      "encrypted_password": "8147a9c1d3074100582fd4eacd3d7d63",
+      "referral_code": "ABJ8I",
+      "inviter_referral_code": "Abbatiy ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:19:53.950Z"
     }
   ],
   "withdrawals": [
