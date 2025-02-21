@@ -37949,16 +37949,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:04:09.063Z",
       "completedMissions": [
-        5
-      ],
-      "lastSpin": null
+        5,
+        4
+      ]
     },
     {
       "username": "maina2024",
@@ -37973,7 +37973,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:06:02.247Z"
+      "joinDate": "2025-02-21T18:06:02.247Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
