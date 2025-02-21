@@ -14066,14 +14066,15 @@
       "inviter_referral_code": "AMFOO",
       "inviter_username": "Amopre1",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:46.252Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Adexan",
@@ -14229,7 +14230,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:29:36.872Z"
+      "joinDate": "2025-02-21T06:29:36.872Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
