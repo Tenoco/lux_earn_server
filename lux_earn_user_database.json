@@ -14032,7 +14032,8 @@
       "joinDate": "2025-02-21T06:25:18.817Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shakou ",
@@ -14084,6 +14085,21 @@
       "joinDate": "2025-02-21T06:26:21.116Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zaddex17",
+      "email": "grayscotppayne35@gmail.com",
+      "encrypted_password": "359a41c9e2f2919936277a49bbd60813",
+      "referral_code": "ZAP7P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:26:27.813Z"
     }
   ],
   "withdrawals": [
