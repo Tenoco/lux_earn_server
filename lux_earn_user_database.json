@@ -33946,7 +33946,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:20:49.566Z"
+      "joinDate": "2025-02-21T14:20:49.566Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jstixxs",
+      "email": "onieri1807@gmail.com",
+      "encrypted_password": "ac99f9e7388858f0cca4eaf5741dd835",
+      "referral_code": "JSTGE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:21:05.806Z"
     }
   ],
   "withdrawals": [
