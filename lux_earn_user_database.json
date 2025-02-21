@@ -9757,16 +9757,16 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:07:42.870Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        7
+      ]
     }
   ],
   "withdrawals": [
