@@ -38095,7 +38095,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:27:54.420Z"
+      "joinDate": "2025-02-21T16:27:54.420Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dominion947",
+      "email": "dominiongodwill87@gmail.com",
+      "encrypted_password": "e38d3a3dd11233d5e61bd7f2e0288aa2",
+      "referral_code": "DOKDB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:27:58.816Z"
     }
   ],
   "withdrawals": [
