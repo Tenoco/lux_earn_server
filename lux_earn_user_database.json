@@ -11953,7 +11953,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:33:54.881Z"
+      "joinDate": "2025-02-21T05:33:54.881Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zackssun",
+      "email": "zakariyyaabdullahi511@gmail.com",
+      "encrypted_password": "30028b28dc3aea0d11456f30385718e2",
+      "referral_code": "ZAU1I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:34:01.677Z"
     }
   ],
   "withdrawals": [
