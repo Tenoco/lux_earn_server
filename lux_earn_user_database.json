@@ -4603,7 +4603,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 295,
+      "balance": 325,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4620,7 +4620,7 @@
         6,
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T00:00:04.533Z"
     },
     {
       "username": "Lilmighty ",
@@ -4981,7 +4981,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-20T23:59:58.534Z"
+      "joinDate": "2025-02-20T23:59:58.534Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
