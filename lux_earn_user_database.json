@@ -21364,7 +21364,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:39:57.233Z"
+      "joinDate": "2025-02-21T08:39:57.233Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ukpong",
+      "email": "emmanuelanthony9922@gmail.com",
+      "encrypted_password": "82ddf6836151199853c3a24eb862fef3",
+      "referral_code": "UKLIP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:40:18.619Z"
     }
   ],
   "withdrawals": [
