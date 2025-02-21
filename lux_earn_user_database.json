@@ -16118,11 +16118,12 @@
         "Wisdomchibuike ",
         "Akano",
         "Absolute ",
-        "Victor oluwafemi "
+        "Victor oluwafemi ",
+        "Idowu"
       ],
       "balance": 60,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:10.486Z",
@@ -28923,6 +28924,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:55:20.453Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:55:39.705Z"
     },
     {
@@ -28941,6 +28943,21 @@
       "joinDate": "2025-02-21T11:55:23.272Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Idowu",
+      "email": "idowusamuelsalako@gmail.com",
+      "encrypted_password": "eb2624a4e790d184f3f01e750b3aa135",
+      "referral_code": "IDGJ4",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:56:21.579Z"
     }
   ],
   "withdrawals": [
