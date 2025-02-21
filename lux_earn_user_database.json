@@ -26675,7 +26675,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:49:59.466Z"
+      "joinDate": "2025-02-21T10:49:59.466Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Afindudu",
+      "email": "mosesproch@gmail.com",
+      "encrypted_password": "a015c1f40df74b5133e2fa929d42eb3c",
+      "referral_code": "AFJ8W",
+      "inviter_referral_code": "Gdgfgdgugf",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:50:04.851Z"
     }
   ],
   "withdrawals": [
