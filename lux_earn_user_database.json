@@ -36430,14 +36430,17 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:29:42.120Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        1,
+        11
+      ]
     },
     {
       "username": "Ahmed sodiq",
@@ -36455,7 +36458,8 @@
       "joinDate": "2025-02-21T15:30:00.015Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Brave290",
