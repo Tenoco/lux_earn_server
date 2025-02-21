@@ -27802,7 +27802,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:18:44.151Z"
+      "joinDate": "2025-02-21T11:18:44.151Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayo65",
+      "email": "victorayomide590@gmail.com",
+      "encrypted_password": "fe61a6ccec7cf05909becd31e00f510d",
+      "referral_code": "AY4GS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:18:53.386Z"
     }
   ],
   "withdrawals": [
