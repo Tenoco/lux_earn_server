@@ -34100,7 +34100,7 @@
       "invited_users": [
         "Emma003"
       ],
-      "balance": 601,
+      "balance": 711,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -34114,7 +34114,12 @@
         4,
         3,
         5,
-        5
+        5,
+        6,
+        6,
+        7,
+        7,
+        8
       ],
       "lastSpin": "2025-02-21T16:07:57.262Z"
     },
@@ -37928,7 +37933,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Judabe",
