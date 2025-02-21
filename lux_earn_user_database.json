@@ -37613,11 +37613,12 @@
         "Zubby",
         "Ahmad",
         "Bilikis",
-        "Akunba"
+        "Akunba",
+        "Larry "
       ],
       "balance": 0,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38471,6 +38472,21 @@
       "joinDate": "2025-02-21T21:00:05.306Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Larry ",
+      "email": "larah11@gmail.com",
+      "encrypted_password": "d44db7bf972ce52bbd1cde261a88fd6d",
+      "referral_code": "LAWXF",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:03:52.443Z"
     }
   ],
   "withdrawals": [
