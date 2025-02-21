@@ -30625,7 +30625,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:34:44.959Z",
-      "lastSpin": "2025-02-21T12:36:04.803Z",
       "completedMissions": [
         1,
         2,
@@ -30636,7 +30635,8 @@
         3,
         9,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T12:36:04.803Z"
     },
     {
       "username": "Moses money ",
@@ -30756,6 +30756,21 @@
       "joinDate": "2025-02-21T12:38:56.165Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joy purity ",
+      "email": "Joypurity457@gmail.com",
+      "encrypted_password": "cecbb818b99d401ec77ef21172418227",
+      "referral_code": "JOUPE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:41:55.821Z"
     }
   ],
   "withdrawals": [
