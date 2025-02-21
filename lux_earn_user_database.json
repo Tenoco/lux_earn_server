@@ -37204,7 +37204,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:06:01.929Z"
+      "joinDate": "2025-02-21T16:06:01.929Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "mrak",
+      "email": "abubakaryahaya2109@gmail.com",
+      "encrypted_password": "de2faf7928dd8a3abe67a08154752319",
+      "referral_code": "MR0XO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:06:02.016Z"
     }
   ],
   "withdrawals": [
