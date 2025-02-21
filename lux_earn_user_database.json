@@ -801,11 +801,12 @@
         "Ayo00A11",
         "Candy",
         "Fatty",
-        "Fashady"
+        "Fashady",
+        "Harjorky "
       ],
       "balance": 165,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:32.949Z",
@@ -36991,7 +36992,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:46:20.894Z"
+      "joinDate": "2025-02-21T16:46:20.894Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Harjorky ",
+      "email": "harjorky04@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "HA147",
+      "inviter_referral_code": "JEYIW",
+      "inviter_username": "Jennie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:46:47.110Z"
     }
   ],
   "withdrawals": [
