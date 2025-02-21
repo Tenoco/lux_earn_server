@@ -14111,7 +14111,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14123,9 +14123,9 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "Mazichief ",
@@ -14313,7 +14313,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:31:15.142Z"
+      "joinDate": "2025-02-21T06:31:15.142Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
