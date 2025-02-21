@@ -13799,11 +13799,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:20:04.814Z",
-      "lastSpin": "2025-02-21T06:20:34.496Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:20:34.496Z"
     },
     {
       "username": "Peller",
@@ -13889,6 +13889,21 @@
       "joinDate": "2025-02-21T06:22:35.017Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Temitee",
+      "email": "anthonytemitope755@gmail.com",
+      "encrypted_password": "4775f37a6c1ef5976ecdfc3068d982cd",
+      "referral_code": "TEMYW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:23:13.485Z"
     }
   ],
   "withdrawals": [
