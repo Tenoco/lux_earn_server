@@ -15966,14 +15966,19 @@
       "inviter_referral_code": "MIFNY",
       "inviter_username": "Mick2324",
       "invited_users": [],
-      "balance": 10,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T06:57:47.494Z"
+      "lastSpin": "2025-02-21T06:57:47.494Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        3
+      ]
     },
     {
       "username": "dsnny",
@@ -16402,7 +16407,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:01:50.238Z"
+      "joinDate": "2025-02-21T07:01:50.238Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
