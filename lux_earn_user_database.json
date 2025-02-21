@@ -15581,7 +15581,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:51:10.486Z"
+      "joinDate": "2025-02-21T06:51:10.486Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "KingMartins30",
+      "email": "kingmarty30@gmail.com",
+      "encrypted_password": "b7d4ba15b892c8a12abc3fd7752d2d50",
+      "referral_code": "KIKCL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:51:15.611Z"
     }
   ],
   "withdrawals": [
