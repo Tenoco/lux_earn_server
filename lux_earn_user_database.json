@@ -17920,10 +17920,12 @@
       "referral_code": "MILGM",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Burberry"
+      ],
       "balance": 168,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:19:22.983Z",
@@ -23983,6 +23985,21 @@
       "joinDate": "2025-02-21T09:50:43.292Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Burberry",
+      "email": "karolafua3@gmail.com",
+      "encrypted_password": "73d5de016d6f267466e40a137cf3013b",
+      "referral_code": "BULJA",
+      "inviter_referral_code": "MILGM",
+      "inviter_username": "Miracle 123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:52:12.930Z"
     }
   ],
   "withdrawals": [
