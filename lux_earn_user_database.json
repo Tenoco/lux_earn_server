@@ -37803,14 +37803,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:24:33.935Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Stanel",
@@ -37842,7 +37843,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:27:25.254Z"
+      "joinDate": "2025-02-21T20:27:25.254Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
