@@ -10544,6 +10544,21 @@
       "joinDate": "2025-02-21T04:30:54.156Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "LumenFlow",
+      "email": "safehouse0100@gmail.com",
+      "encrypted_password": "a7bee23acc6ae11cbb0a09d0ba66ef5c",
+      "referral_code": "LUHBC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:31:40.362Z"
     }
   ],
   "withdrawals": [
