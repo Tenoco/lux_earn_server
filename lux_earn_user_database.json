@@ -27754,13 +27754,17 @@
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
       "invited_users": [],
-      "balance": 30,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:57.299Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
       "lastSpin": "2025-02-21T11:17:32.559Z"
     },
     {
@@ -28014,7 +28018,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:24:32.033Z"
+      "joinDate": "2025-02-21T11:24:32.033Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
