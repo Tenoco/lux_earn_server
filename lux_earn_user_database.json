@@ -22679,11 +22679,12 @@
         "moloreofe",
         "Arausi",
         "Amobi",
-        "samueljoeseph"
+        "samueljoeseph",
+        "Smanazceo"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -36904,6 +36905,21 @@
       "joinDate": "2025-02-21T15:47:04.824Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smanazceo",
+      "email": "suleimansanihassan1000000@gmail.com",
+      "encrypted_password": "b215ef9cca4f67ea48c36f544381b48a",
+      "referral_code": "SMT5Y",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:47:36.408Z"
     }
   ],
   "withdrawals": [
