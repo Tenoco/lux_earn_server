@@ -4258,11 +4258,12 @@
         "Armsty2",
         "Opemipoo",
         "smizy",
-        "Matthew Frosh"
+        "Matthew Frosh",
+        "Yemie990@gmail.com"
       ],
       "balance": 295,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22850,7 +22851,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:21:39.298Z"
+      "joinDate": "2025-02-21T09:21:39.298Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yemie990@gmail.com",
+      "email": "Yemie990@gmail.com",
+      "encrypted_password": "b081a1d6470400b9856371b952c2a7a3",
+      "referral_code": "YEYB0",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:22:08.413Z"
     }
   ],
   "withdrawals": [
