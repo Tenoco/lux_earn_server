@@ -21299,7 +21299,7 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
       "invited_users": [],
-      "balance": 180,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21311,7 +21311,8 @@
         3,
         4,
         5,
-        6
+        6,
+        7
       ],
       "lastSpin": null
     },
@@ -37836,7 +37837,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:58:39.917Z"
+      "joinDate": "2025-02-21T17:58:39.917Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
