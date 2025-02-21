@@ -16388,7 +16388,8 @@
         2,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Musa sani",
@@ -16685,7 +16686,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16695,9 +16696,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Folaky22",
