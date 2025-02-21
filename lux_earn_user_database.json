@@ -17774,7 +17774,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:22:42.356Z"
+      "joinDate": "2025-02-21T07:22:42.356Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "King3765",
+      "email": "usmanbello3765@gmail.com",
+      "encrypted_password": "76d4ce39c33dcce66562b37680a3cd86",
+      "referral_code": "KI5RW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:22:45.735Z"
     }
   ],
   "withdrawals": [
