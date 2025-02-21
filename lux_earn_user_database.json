@@ -38131,7 +38131,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:15:16.298Z"
+      "joinDate": "2025-02-21T18:15:16.298Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Div707",
+      "email": "erondudivine40@gmail.com",
+      "encrypted_password": "5263a27330cf29df1307ec85f7e8e36c",
+      "referral_code": "DIV8K",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:15:44.391Z"
     }
   ],
   "withdrawals": [
