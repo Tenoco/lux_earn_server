@@ -15518,11 +15518,12 @@
         "Ajeboter",
         "SherwinKura",
         "Kausar",
-        "dayanthe "
+        "dayanthe ",
+        "Umar Muhammad "
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37711,7 +37712,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:53:51.797Z"
+      "joinDate": "2025-02-21T17:53:51.797Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Umar Muhammad ",
+      "email": "farooqgonimuhammadkyari@gmail.com",
+      "encrypted_password": "5511a133cbf7ba5e368e02500e7ea4b1",
+      "referral_code": "UMT08",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:54:36.139Z"
     }
   ],
   "withdrawals": [
