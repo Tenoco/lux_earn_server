@@ -18535,7 +18535,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:35:51.001Z"
+      "joinDate": "2025-02-21T07:35:51.001Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "okoyec1389459 ",
+      "email": "okoyec1389459@gmail.com",
+      "encrypted_password": "2a9196d1e947ee902ab4450b62d96d57",
+      "referral_code": "OKWUE",
+      "inviter_referral_code": "Kll01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:35:59.586Z"
     }
   ],
   "withdrawals": [
