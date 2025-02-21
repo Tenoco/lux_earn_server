@@ -5423,11 +5423,12 @@
       "invited_users": [
         "LAGA ",
         "Gbenga ",
-        "Eralimad"
+        "Eralimad",
+        "Smiths "
       ],
       "balance": 295,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:05:56.670Z",
@@ -6483,7 +6484,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:26:27.067Z"
+      "joinDate": "2025-02-21T00:26:27.067Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Smiths ",
+      "email": "reachwalsmihe12@gmail.com",
+      "encrypted_password": "8c646307dd281184428390d06499a3b8",
+      "referral_code": "SMTA9",
+      "inviter_referral_code": "LA7RS",
+      "inviter_username": "LAGACONCEPT ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:26:41.621Z"
     }
   ],
   "withdrawals": [
