@@ -13301,14 +13301,13 @@
       "inviter_referral_code": "MM6P4",
       "inviter_username": "mmmmdjk1",
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:07:24.773Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:07:48.155Z"
     },
     {
       "username": "Abdul roqeeb ",
@@ -13340,7 +13339,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:07:44.028Z"
+      "joinDate": "2025-02-21T06:07:44.028Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
