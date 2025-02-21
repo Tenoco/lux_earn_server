@@ -38431,7 +38431,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Lekkierose",
@@ -38466,6 +38467,21 @@
       "joinDate": "2025-02-21T23:07:23.384Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dara's Blog ",
+      "email": "ceo.skyhost@gmail.com",
+      "encrypted_password": "beca9969ab25a6aa83dfe55724c954ab",
+      "referral_code": "DAJDX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:08:21.870Z"
     }
   ],
   "withdrawals": [
