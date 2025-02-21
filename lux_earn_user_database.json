@@ -12845,10 +12845,12 @@
       "referral_code": "KIHF9",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Tmedia "
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:28.611Z",
@@ -14336,6 +14338,21 @@
       "joinDate": "2025-02-21T06:32:01.632Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tmedia ",
+      "email": "titoluwanijohn2@gmail.com",
+      "encrypted_password": "3fc0a7acf087f549ac2b266baf94b8b1",
+      "referral_code": "TMYIJ",
+      "inviter_referral_code": "KIHF9",
+      "inviter_username": "KingT",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:32:15.085Z"
     }
   ],
   "withdrawals": [
