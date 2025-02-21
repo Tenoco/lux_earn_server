@@ -15717,11 +15717,12 @@
         "Dominic001",
         "mikeystar009",
         "Nmahope",
-        "H7890"
+        "H7890",
+        "Rockzymalone"
       ],
       "balance": 380,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -34368,6 +34369,21 @@
       "joinDate": "2025-02-21T14:29:28.869Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rockzymalone",
+      "email": "mic777300@gmail.com",
+      "encrypted_password": "487670911c55dd7f8d8386e3f0de4348",
+      "referral_code": "RONL0",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:31:56.159Z"
     }
   ],
   "withdrawals": [
