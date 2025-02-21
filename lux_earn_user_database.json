@@ -29078,10 +29078,12 @@
       "referral_code": "BLNJL",
       "inviter_referral_code": "REKOU",
       "inviter_username": "Rebecca",
-      "invited_users": [],
+      "invited_users": [
+        "Favourivy"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -29155,6 +29157,21 @@
       "joinDate": "2025-02-21T11:59:16.955Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favourivy",
+      "email": "favee360@gmail.com",
+      "encrypted_password": "dbb6d48bd66bc1c51b31a6b0c5c1f2cf",
+      "referral_code": "FAFRH",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:00:28.683Z"
     }
   ],
   "withdrawals": [
