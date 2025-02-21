@@ -3566,11 +3566,12 @@
       "invited_users": [
         "Labyber",
         "Olamide Gold",
-        "Bellaxdre "
+        "Bellaxdre ",
+        "Usman maryam"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -5465,7 +5466,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:09:14.734Z"
+      "joinDate": "2025-02-21T00:09:14.734Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Usman maryam",
+      "email": "nazifakasim81@gmail.com",
+      "encrypted_password": "6197bd21f1a127997c2634aa08723015",
+      "referral_code": "USGAC",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:09:30.320Z"
     }
   ],
   "withdrawals": [
