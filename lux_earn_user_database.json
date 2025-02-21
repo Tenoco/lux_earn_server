@@ -38241,14 +38241,14 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:21:38.825Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T18:30:58.323Z"
     },
     {
       "username": "nay",
@@ -38333,7 +38333,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:30:46.231Z"
+      "joinDate": "2025-02-21T18:30:46.231Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
