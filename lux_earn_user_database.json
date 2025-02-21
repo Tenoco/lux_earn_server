@@ -32711,10 +32711,12 @@
       "referral_code": "HAVDL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Miposi"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:45:14.499Z",
@@ -33382,6 +33384,21 @@
       "joinDate": "2025-02-21T14:06:54.287Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Miposi",
+      "email": "akhimienbolu60@gmail.com",
+      "encrypted_password": "7effbfaef37fd7b16a871efabf3e4e49",
+      "referral_code": "MIJDH",
+      "inviter_referral_code": "HAVDL",
+      "inviter_username": "Hay_bee291",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:07:59.490Z"
     }
   ],
   "withdrawals": [
