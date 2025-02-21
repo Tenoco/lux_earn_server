@@ -6263,7 +6263,7 @@
         "Kevin ",
         "abdul"
       ],
-      "balance": 290,
+      "balance": 190,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -8116,7 +8116,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:08:48.590Z"
+      "joinDate": "2025-02-21T01:08:48.590Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -8374,6 +8376,16 @@
       "phoneNumber": "07048740977",
       "amount": 100,
       "timestamp": "2025-02-21T01:02:55.588Z",
+      "status": "pending"
+    },
+    {
+      "username": "abdulrahman ",
+      "email": "abdulrahmanhabeeb814@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07033678785",
+      "amount": 100,
+      "timestamp": "2025-02-21T01:09:47.800Z",
       "status": "pending"
     }
   ]
