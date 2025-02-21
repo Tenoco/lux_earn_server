@@ -1046,13 +1046,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:04.737Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -10674,7 +10676,8 @@
         4,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pricelesstemi",
