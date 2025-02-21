@@ -13234,7 +13234,7 @@
         "Chief shakou ",
         "Gohan "
       ],
-      "balance": 100,
+      "balance": 230,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -13244,7 +13244,12 @@
         1,
         2,
         3,
-        5
+        5,
+        4,
+        6,
+        7,
+        8,
+        9
       ],
       "lastSpin": "2025-02-21T06:04:02.281Z"
     },
@@ -21012,7 +21017,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:31:21.756Z"
+      "joinDate": "2025-02-21T08:31:21.756Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
