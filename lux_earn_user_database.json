@@ -5319,7 +5319,8 @@
         2,
         1,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "LAGACONCEPT ",
@@ -5346,14 +5347,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 58,
+      "balance": 93,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:06:19.297Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T00:07:12.947Z"
+      "lastSpin": "2025-02-21T00:07:12.947Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Mamabby",
