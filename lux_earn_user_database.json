@@ -25323,11 +25323,12 @@
         "Peter",
         "Semia",
         "Wasilat",
-        "Bola"
+        "Bola",
+        "Malik"
       ],
       "balance": 0,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -31656,7 +31657,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Vardi",
@@ -31778,6 +31780,21 @@
       "joinDate": "2025-02-21T13:19:22.534Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Malik",
+      "email": "tovasef966@dropfam.com",
+      "encrypted_password": "daa36b1022bd29b7aa1b5e30ef1c99e9",
+      "referral_code": "MAER2",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:21:39.389Z"
     }
   ],
   "withdrawals": [
