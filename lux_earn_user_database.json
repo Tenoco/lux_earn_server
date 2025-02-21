@@ -11958,7 +11958,8 @@
         2,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Taofiq123",
@@ -12129,6 +12130,21 @@
       "joinDate": "2025-02-21T05:37:06.652Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Praise12",
+      "email": "amospraise19@gmail.com",
+      "encrypted_password": "9bb418834e31d581e4b8d95dc2d1190b",
+      "referral_code": "PRAC8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:37:20.422Z"
     }
   ],
   "withdrawals": [
