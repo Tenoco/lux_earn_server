@@ -10578,7 +10578,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:33:18.010Z"
+      "joinDate": "2025-02-21T04:33:18.010Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Patrick1010",
+      "email": "patrickemma285@gmail.com",
+      "encrypted_password": "7fe845f6fa089aaf847b0c763b286b76",
+      "referral_code": "PAZ9W",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:34:21.616Z"
     }
   ],
   "withdrawals": [
