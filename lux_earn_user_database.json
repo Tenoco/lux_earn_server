@@ -14161,7 +14161,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Rose55",
@@ -14522,6 +14523,21 @@
       "joinDate": "2025-02-21T06:34:05.700Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abraham66 ",
+      "email": "agabaabraham7@gmail.com",
+      "encrypted_password": "91293c463e6888fef4bf696ab522ffbc",
+      "referral_code": "ABCSC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:34:15.395Z"
     }
   ],
   "withdrawals": [
