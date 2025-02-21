@@ -12453,10 +12453,12 @@
       "referral_code": "TILGT",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Antee"
+      ],
       "balance": 48,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:49:00.314Z",
@@ -12601,7 +12603,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:54:20.708Z"
+      "joinDate": "2025-02-21T05:54:20.708Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Antee",
+      "email": "anthoniailevbare704@gmail.com",
+      "encrypted_password": "6de54cc8c5070245d1003e136f311159",
+      "referral_code": "ANAI7",
+      "inviter_referral_code": "TILGT",
+      "inviter_username": "Titanic ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:54:27.633Z"
     }
   ],
   "withdrawals": [
