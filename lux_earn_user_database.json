@@ -25024,16 +25024,18 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 30,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:14:33.808Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Kingiong",
@@ -25080,7 +25082,8 @@
         6,
         5,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "billionsbillions0",
