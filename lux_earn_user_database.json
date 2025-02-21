@@ -9646,7 +9646,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 165,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9656,7 +9656,9 @@
         1,
         2,
         3,
-        4
+        4,
+        4,
+        6
       ],
       "lastSpin": null
     },
@@ -9772,7 +9774,8 @@
         7,
         8,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Risky01",
