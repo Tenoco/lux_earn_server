@@ -4344,11 +4344,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Iyafogo1 "
+        "Iyafogo1 ",
+        "Olamonet"
       ],
       "balance": 555,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:08.439Z",
@@ -6406,6 +6407,21 @@
       "joinDate": "2025-02-21T00:24:20.675Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olamonet",
+      "email": "fogofoluwa81@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "OLLLW",
+      "inviter_referral_code": "AYF10",
+      "inviter_username": "Ayoola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:24:49.291Z"
     }
   ],
   "withdrawals": [
