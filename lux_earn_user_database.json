@@ -14619,11 +14619,12 @@
         "sinkonice",
         "Konyi",
         "Felix Chinonso",
-        "Cashman"
+        "Cashman",
+        "Salis"
       ],
       "balance": 20,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -36988,7 +36989,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Smanazceo",
@@ -37199,6 +37201,21 @@
       "joinDate": "2025-02-21T15:53:13.694Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Salis",
+      "email": "rahinatuaminu777@gmail.com",
+      "encrypted_password": "96779b5494ce3e35a580094dfd799c4d",
+      "referral_code": "SAILE",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:53:37.261Z"
     }
   ],
   "withdrawals": [
