@@ -12703,11 +12703,12 @@
         "Theo",
         "Ruka",
         "Great",
-        "Yetunde"
+        "Yetunde",
+        "Hephzibah "
       ],
       "balance": 18,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -14649,7 +14650,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:36:21.383Z"
+      "joinDate": "2025-02-21T06:36:21.383Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hephzibah ",
+      "email": "hephzibah23@gmail.com",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "HEAWY",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:36:22.607Z"
     }
   ],
   "withdrawals": [
