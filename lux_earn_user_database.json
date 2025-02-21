@@ -33704,7 +33704,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33712,7 +33712,8 @@
       "joinDate": "2025-02-21T14:11:57.070Z",
       "completedMissions": [
         1,
-        9
+        9,
+        8
       ],
       "lastSpin": null
     },
@@ -34417,10 +34418,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:32:11.803Z",
-      "lastSpin": "2025-02-21T14:33:39.024Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:33:39.024Z"
     },
     {
       "username": "Zachariah ",
