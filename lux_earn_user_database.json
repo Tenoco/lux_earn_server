@@ -19128,12 +19128,13 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": "Pearl",
       "invited_users": [],
-      "balance": 215,
+      "balance": 275,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:46:47.635Z",
+      "lastSpin": "2025-02-21T07:47:11.253Z",
       "completedMissions": [
         1,
         2,
@@ -19141,9 +19142,10 @@
         3,
         5,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-21T07:47:11.253Z"
+        7,
+        8,
+        9
+      ]
     },
     {
       "username": "Tolase ",
