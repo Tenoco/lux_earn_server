@@ -15318,11 +15318,12 @@
       "invited_users": [
         "Quintemmy",
         "Joshua okala",
-        "Vickzy"
+        "Vickzy",
+        "Davolee001"
       ],
       "balance": 380,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -18169,7 +18170,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:29:28.923Z"
+      "joinDate": "2025-02-21T07:29:28.923Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Davolee001",
+      "email": "ayod99539@gmail.com",
+      "encrypted_password": "fa4f057359a34691f78d769ab01b9863",
+      "referral_code": "DA2CY",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:29:34.174Z"
     }
   ],
   "withdrawals": [
