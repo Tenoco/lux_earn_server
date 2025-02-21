@@ -5018,7 +5018,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Temu",
@@ -5164,14 +5165,15 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Nuel",
