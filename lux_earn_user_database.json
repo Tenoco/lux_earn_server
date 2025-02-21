@@ -8690,7 +8690,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Vilder ",
@@ -8700,7 +8701,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8709,9 +8710,9 @@
       "completedMissions": [
         2,
         3,
-        1
-      ],
-      "lastSpin": null
+        1,
+        4
+      ]
     }
   ],
   "withdrawals": [
