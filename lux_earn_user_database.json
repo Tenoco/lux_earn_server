@@ -15722,10 +15722,12 @@
       "referral_code": "KIKCL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "IwuMartins12"
+      ],
       "balance": 370,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:15.611Z",
@@ -17214,7 +17216,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:14:58.812Z"
+      "joinDate": "2025-02-21T07:14:58.812Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "IwuMartins12",
+      "email": "iwumartins30@gmail.com",
+      "encrypted_password": "cc8c9194e3ceedf71061163be434cb12",
+      "referral_code": "IWUXZ",
+      "inviter_referral_code": "KIKCL",
+      "inviter_username": "KingMartins30",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:15:06.688Z"
     }
   ],
   "withdrawals": [
