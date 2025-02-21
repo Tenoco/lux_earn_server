@@ -14723,7 +14723,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1,
         2,
@@ -14734,7 +14733,8 @@
         6,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:39:15.564Z"
     },
     {
       "username": "Hephzibah ",
@@ -15278,6 +15278,21 @@
       "joinDate": "2025-02-21T06:46:04.809Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Investor ",
+      "email": "kayodeayo21@gmail.com",
+      "encrypted_password": "3c6d64a129a3e12d44e440e354c45487",
+      "referral_code": "IN8K2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:47:14.239Z"
     }
   ],
   "withdrawals": [
