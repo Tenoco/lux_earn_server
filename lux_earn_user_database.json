@@ -15341,11 +15341,12 @@
         "Joshua okala",
         "Vickzy",
         "Davolee001",
-        "Olayinka65"
+        "Olayinka65",
+        "Lexy001"
       ],
       "balance": 380,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -19225,7 +19226,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:50:25.443Z"
+      "joinDate": "2025-02-21T07:50:25.443Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lexy001",
+      "email": "gabrielcommander17@gmail.com",
+      "encrypted_password": "e5c54e1bdff4835f166db52271c5949e",
+      "referral_code": "LEFNR",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:50:33.496Z"
     }
   ],
   "withdrawals": [
