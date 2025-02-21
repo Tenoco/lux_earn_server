@@ -25999,11 +25999,12 @@
         "Lobayementuna",
         "Rayman",
         "Ruthie",
-        "Yusuf Ali"
+        "Yusuf Ali",
+        "Bossbabyni"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27401,6 +27402,21 @@
       "joinDate": "2025-02-21T11:06:15.248Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bossbabyni",
+      "email": "babyforlife@gmail.com",
+      "encrypted_password": "6a527c0f9828be3484754d96c607f5e9",
+      "referral_code": "BOXXI",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:06:40.877Z"
     }
   ],
   "withdrawals": [
