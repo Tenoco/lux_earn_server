@@ -17885,7 +17885,7 @@
       "inviter_referral_code": "CR114",
       "inviter_username": "Cresterfied",
       "invited_users": [],
-      "balance": 75,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17893,7 +17893,9 @@
       "joinDate": "2025-02-21T07:23:54.753Z",
       "completedMissions": [
         6,
-        6
+        6,
+        1,
+        1
       ],
       "lastSpin": "2025-02-21T07:25:23.761Z"
     },
@@ -18148,7 +18150,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:29:10.599Z"
+      "joinDate": "2025-02-21T07:29:10.599Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
