@@ -25,11 +25,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Lindley"
+        "Lindley",
+        "Israelite "
       ],
       "balance": 5463,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -11286,7 +11287,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:12:55.118Z"
+      "joinDate": "2025-02-21T05:12:55.118Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Israelite ",
+      "email": "israellistic@gmail.com",
+      "encrypted_password": "514e4fc11a364fe6362d6b856920b186",
+      "referral_code": "ISIY2",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:13:00.527Z"
     }
   ],
   "withdrawals": [
