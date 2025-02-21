@@ -18546,7 +18546,7 @@
       "inviter_referral_code": "878102",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18556,7 +18556,8 @@
         1,
         2,
         9,
-        8
+        8,
+        3
       ],
       "lastSpin": null
     },
@@ -19133,7 +19134,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kyle",
