@@ -37309,7 +37309,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:02:51.028Z"
+      "joinDate": "2025-02-21T22:02:51.028Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "EmmyNike",
+      "email": "emmanuelnnaji641@gmail.com",
+      "encrypted_password": "cbf76ee0acf23157a419ccfdefedf574",
+      "referral_code": "EMSVN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:03:11.551Z"
     }
   ],
   "withdrawals": [
