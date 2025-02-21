@@ -25273,11 +25273,12 @@
         "Koy",
         "Lizzy",
         "Molly",
-        "Bilal"
+        "Bilal",
+        "Peter"
       ],
       "balance": 0,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -30630,6 +30631,21 @@
       "joinDate": "2025-02-21T12:42:32.678Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peter",
+      "email": "wiseran640@dropfam.com",
+      "encrypted_password": "99c483e1d11b1a279a2a1a3960528487",
+      "referral_code": "PE57B",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:43:44.538Z"
     }
   ],
   "withdrawals": [
