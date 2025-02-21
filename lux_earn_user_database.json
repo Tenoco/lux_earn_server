@@ -3715,11 +3715,12 @@
       "invited_users": [
         "Oyekunle ",
         "Oyinkansola ",
-        "Tolase "
+        "Tolase ",
+        "Saheed "
       ],
       "balance": 278,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -26988,7 +26989,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:55:18.879Z"
+      "joinDate": "2025-02-21T10:55:18.879Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Saheed ",
+      "email": "saheedolaniyi3200@gmail.com",
+      "encrypted_password": "4d2726f623c300781801cd5a7f41d7dc",
+      "referral_code": "SALP8",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:55:30.429Z"
     }
   ],
   "withdrawals": [
