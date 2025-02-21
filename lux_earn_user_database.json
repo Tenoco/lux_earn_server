@@ -2279,11 +2279,12 @@
         "Ugomma samuel",
         "Godwillbenson",
         "Goodnessogachi",
-        "Louis chukwue"
+        "Louis chukwue",
+        "Oyineyechisamson"
       ],
       "balance": 230,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -17527,7 +17528,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:19:27.875Z"
+      "joinDate": "2025-02-21T07:19:27.875Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyineyechisamson",
+      "email": "oyineyechigod@gmail.com",
+      "encrypted_password": "4dc44c595626e02e784d6efef2c188bc",
+      "referral_code": "OYSPW",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:19:45.394Z"
     }
   ],
   "withdrawals": [
