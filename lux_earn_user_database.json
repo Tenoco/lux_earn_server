@@ -16532,11 +16532,12 @@
         "Mark777",
         "Victor1227",
         "Abdul1752",
-        "Akugbe "
+        "Akugbe ",
+        "Leotop"
       ],
       "balance": 262,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -35863,7 +35864,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:15:37.732Z"
+      "joinDate": "2025-02-21T15:15:37.732Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Leotop",
+      "email": "leokayahope@gmail.com",
+      "encrypted_password": "758b50d54d8ee565591c49a616bcc641",
+      "referral_code": "LEFTX",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:15:55.346Z"
     }
   ],
   "withdrawals": [
