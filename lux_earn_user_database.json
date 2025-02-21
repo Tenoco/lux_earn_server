@@ -8308,10 +8308,12 @@
       "referral_code": "BAFPO",
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
-      "invited_users": [],
+      "invited_users": [
+        "SIRBLACKMEDIA"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:17:09.606Z",
@@ -12922,7 +12924,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:01:13.476Z"
+      "joinDate": "2025-02-21T06:01:13.476Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SIRBLACKMEDIA",
+      "email": "jaspermichael299@gmail.com",
+      "encrypted_password": "8e4cebd3a3ca1e57495f47d88f348388",
+      "referral_code": "SI2MH",
+      "inviter_referral_code": "BAFPO",
+      "inviter_username": "Babal112",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:01:16.593Z"
     }
   ],
   "withdrawals": [
