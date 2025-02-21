@@ -32887,7 +32887,8 @@
         5,
         6,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kwizdom",
@@ -32989,14 +32990,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 42,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:54:08.135Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-21T14:01:14.175Z"
     },
