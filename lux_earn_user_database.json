@@ -19211,11 +19211,12 @@
         "Ramadan",
         "Ajuo",
         "Ggg",
-        "Jog"
+        "Jog",
+        "God33"
       ],
       "balance": 232,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -24036,7 +24037,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:53:41.074Z"
+      "joinDate": "2025-02-21T09:53:41.074Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "God33",
+      "email": "ayomimmanuel518@gmail.com",
+      "encrypted_password": "e4a1565d6aca3eb9003e5219cae6cf27",
+      "referral_code": "GOSTQ",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:53:44.792Z"
     }
   ],
   "withdrawals": [
