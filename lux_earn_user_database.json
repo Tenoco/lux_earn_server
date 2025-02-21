@@ -1133,11 +1133,12 @@
         "Sergeant",
         "KaydeeX",
         "Kingsiology ",
-        "Tabzzy"
+        "Tabzzy",
+        "cryptomannia"
       ],
       "balance": 315,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -12620,7 +12621,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:54:27.633Z"
+      "joinDate": "2025-02-21T05:54:27.633Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "cryptomannia",
+      "email": "jackgriffo0647@gmail.com",
+      "encrypted_password": "fb35170be6843f834c58d7c2433a1fa3",
+      "referral_code": "CRIVJ",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:54:38.644Z"
     }
   ],
   "withdrawals": [
