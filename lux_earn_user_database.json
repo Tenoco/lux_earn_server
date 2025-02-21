@@ -3084,11 +3084,12 @@
         "Daniels",
         "Lyan Mubby ",
         "Arinze08",
-        "Bonney"
+        "Bonney",
+        "Amara"
       ],
       "balance": 337,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -37380,7 +37381,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:10:08.329Z"
+      "joinDate": "2025-02-21T16:10:08.329Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amara",
+      "email": "mitchellleeroberts807@gmail.com",
+      "encrypted_password": "fed350d5a7ba5176a682c5a4a089c591",
+      "referral_code": "AMNFK",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:10:10.906Z"
     }
   ],
   "withdrawals": [
