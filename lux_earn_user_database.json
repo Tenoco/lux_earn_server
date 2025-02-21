@@ -37604,11 +37604,12 @@
         "Lamide",
         "Ayomi",
         "Alade",
-        "Nifemi"
+        "Nifemi",
+        "Sodiq"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38130,6 +38131,21 @@
       "joinDate": "2025-02-21T20:40:32.737Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sodiq",
+      "email": "sodiq22@gmail.com",
+      "encrypted_password": "103d4b411061829089346ec5f64f8791",
+      "referral_code": "SOKIB",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:42:18.812Z"
     }
   ],
   "withdrawals": [
