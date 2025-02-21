@@ -3627,11 +3627,12 @@
         "Olamide Gold",
         "Bellaxdre ",
         "Usman maryam",
-        "JokehBliss"
+        "JokehBliss",
+        "Olaadura12 "
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -9498,7 +9499,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:51:19.799Z"
+      "joinDate": "2025-02-21T02:51:19.799Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olaadura12 ",
+      "email": "hammedayomide806@gmail.com",
+      "encrypted_password": "4d6dba367763e8bb05ced3516b501e93",
+      "referral_code": "OL4P9",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:51:43.505Z"
     }
   ],
   "withdrawals": [
