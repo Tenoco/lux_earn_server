@@ -36349,7 +36349,8 @@
         2,
         5,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ojoare Rasheed Olaniyi ",
@@ -36418,6 +36419,21 @@
       "joinDate": "2025-02-21T15:29:42.120Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ahmed sodiq",
+      "email": "ahmedsodiq261@gmail.com",
+      "encrypted_password": "ce083d71e4dc46a612e7e72e125c5627",
+      "referral_code": "AH53J",
+      "inviter_referral_code": "Futtizu",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:30:00.015Z"
     }
   ],
   "withdrawals": [
