@@ -8740,7 +8740,7 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 175,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8751,7 +8751,8 @@
         2,
         3,
         4,
-        5
+        5,
+        6
       ],
       "lastSpin": null
     },
@@ -8914,7 +8915,8 @@
       "joinDate": "2025-02-21T02:00:18.006Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sammy4022",
