@@ -80,7 +80,7 @@
         "Tech",
         "App"
       ],
-      "balance": 4000,
+      "balance": -200,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -38360,7 +38360,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:52:14.482Z"
+      "joinDate": "2025-02-21T20:52:14.482Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -38406,6 +38408,17 @@
       "amount": 1000,
       "totalBalance": 4000,
       "timestamp": "2025-02-21T19:15:04.229Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "162662",
+      "accountNumber": "2627622",
+      "bank": "Opay",
+      "amount": 4200,
+      "totalBalance": 4000,
+      "timestamp": "2025-02-21T20:46:38.440Z",
       "status": "pending"
     }
   ],
