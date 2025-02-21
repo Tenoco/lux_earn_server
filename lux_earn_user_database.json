@@ -14720,11 +14720,12 @@
         "Jiggy",
         "Baduku",
         "Tobiloba",
-        "Happiness009"
+        "Happiness009",
+        "Loveth"
       ],
       "balance": 100,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -16434,7 +16435,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmanuelemmzy",
@@ -16622,6 +16624,21 @@
       "joinDate": "2025-02-21T07:04:35.768Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Loveth",
+      "email": "loveth@gmail.com",
+      "encrypted_password": "18c83a6303bafa19fce6129444e5b950",
+      "referral_code": "LO97T",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:05:04.625Z"
     }
   ],
   "withdrawals": [
