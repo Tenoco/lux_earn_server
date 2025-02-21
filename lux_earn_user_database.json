@@ -4876,14 +4876,15 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": "Shegzzy Media",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Samuel1 ",
@@ -5006,7 +5007,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:00:50.932Z"
+      "joinDate": "2025-02-21T00:00:50.932Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
