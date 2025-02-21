@@ -27022,12 +27022,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 181,
+      "balance": 241,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:47.590Z",
+      "lastSpin": "2025-02-21T10:56:16.714Z",
       "completedMissions": [
         1,
         9,
@@ -27036,9 +27037,10 @@
         7,
         7,
         7,
-        6
-      ],
-      "lastSpin": "2025-02-21T10:56:16.714Z"
+        6,
+        6,
+        5
+      ]
     },
     {
       "username": "Aycash",
