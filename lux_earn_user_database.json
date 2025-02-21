@@ -33525,7 +33525,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:11:17.767Z"
+      "joinDate": "2025-02-21T14:11:17.767Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Osaboa",
+      "email": "abubakarosaboari@gmail.com",
+      "encrypted_password": "09d0714edbfe6a5be5f51a8d706cefb6",
+      "referral_code": "OSFI1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:11:29.678Z"
     }
   ],
   "withdrawals": [
