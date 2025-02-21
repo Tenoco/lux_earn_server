@@ -72,16 +72,15 @@
     {
       "username": "Tenoco",
       "email": "tenocostudio0@gmail.com",
-      "encrypted_password": "",
-      "referral_code": "",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "TEQZ9",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech",
-        "Noel Nelson "
+        "Tech"
       ],
-      "balance": 3000,
-      "refers": 2,
+      "balance": 5000,
+      "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
@@ -3815,12 +3814,11 @@
       "invited_users": [
         "Oyekunle ",
         "Oyinkansola ",
-        "Tolase ",
-        "Ade34k4u9i5g"
+        "Tolase "
       ],
       "balance": 338,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -4071,7 +4069,7 @@
         "Donpor",
         "Chris120"
       ],
-      "balance": 130,
+      "balance": 70,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -4080,10 +4078,7 @@
       "completedMissions": [
         1,
         2,
-        3,
-        4,
-        5,
-        5
+        3
       ],
       "lastSpin": "2025-02-20T23:55:31.038Z"
     },
@@ -35218,14 +35213,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:46:40.621Z",
       "completedMissions": [],
-      "lastSpin": "2025-02-21T19:06:08.741Z"
+      "lastSpin": null
     },
     {
       "username": "Roxanne",
@@ -36924,41 +36919,7 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:47:36.408Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Noel Nelson ",
-      "email": "noelnelsonmessi10@gmail.com",
-      "encrypted_password": "cbe53069341c303f04a9daa77abac325",
-      "referral_code": "NOGPU",
-      "inviter_referral_code": null,
-      "inviter_username": "Tenoco",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-21T19:08:32.324Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Ade34k4u9i5g",
-      "email": "olamilekanadeokun248@gmail.com",
-      "encrypted_password": "b532952ae815753ae9bd6adaee9932b2",
-      "referral_code": "ADWZG",
-      "inviter_referral_code": "TA077",
-      "inviter_username": "Taiwo star",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-21T19:09:16.744Z"
+      "joinDate": "2025-02-21T15:47:36.408Z"
     }
   ],
   "withdrawals": [
