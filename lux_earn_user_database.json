@@ -12438,14 +12438,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:49:00.314Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T05:50:18.830Z"
+      "lastSpin": "2025-02-21T05:50:18.830Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Khadija23",
