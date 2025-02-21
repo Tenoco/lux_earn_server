@@ -19392,7 +19392,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:53:25.765Z"
+      "joinDate": "2025-02-21T07:53:25.765Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hardesola ",
+      "email": "muizadesola070@gmail.com",
+      "encrypted_password": "5fdefc24a551b95811f8c6ed965a1a5b",
+      "referral_code": "HAQ1F",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:53:27.982Z"
     }
   ],
   "withdrawals": [
