@@ -1158,11 +1158,12 @@
         "Dolapo911",
         "Olad ",
         "Azzybae",
-        "Orengo"
+        "Orengo",
+        "HUSTLER001"
       ],
       "balance": 295,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -11006,7 +11007,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nurudeen75",
@@ -11365,6 +11367,21 @@
       "joinDate": "2025-02-21T05:14:59.470Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "HUSTLER001",
+      "email": "danmallammaino247@gmail.com",
+      "encrypted_password": "56e3192417610c1342614d9244d371da",
+      "referral_code": "HUPQQ",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:15:27.788Z"
     }
   ],
   "withdrawals": [
