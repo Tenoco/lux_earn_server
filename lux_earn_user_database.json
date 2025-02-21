@@ -1717,11 +1717,12 @@
         "jamiluamusbahu",
         "Sirblack1338",
         "Kingaleey1",
-        "Elisha "
+        "Elisha ",
+        "SIRBLACKJR "
       ],
       "balance": 275,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -8295,7 +8296,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:13:58.154Z"
+      "joinDate": "2025-02-21T01:13:58.154Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SIRBLACKJR ",
+      "email": "benedictsaviour37@gmail.com",
+      "encrypted_password": "7beb364513e6b4328c35e6fb4e7b0a2a",
+      "referral_code": "SIVT0",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:14:02.988Z"
     }
   ],
   "withdrawals": [
