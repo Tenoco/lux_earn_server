@@ -15117,10 +15117,12 @@
       "referral_code": "AUX3X",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "James "
+      ],
       "balance": 190,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:42:46.708Z",
@@ -15507,7 +15509,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:50:12.650Z"
+      "joinDate": "2025-02-21T06:50:12.650Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "James ",
+      "email": "jamestiktok128@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "JALGX",
+      "inviter_referral_code": "AUX3X",
+      "inviter_username": "Automatic_man",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:50:17.109Z"
     }
   ],
   "withdrawals": [
