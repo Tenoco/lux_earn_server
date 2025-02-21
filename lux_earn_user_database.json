@@ -5476,11 +5476,12 @@
         "Honestly",
         "Kannyson",
         "Sunsetta",
-        "Calababa"
+        "Calababa",
+        "Tivanni"
       ],
       "balance": 30,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8406,7 +8407,8 @@
         4,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Callmedad",
@@ -8577,6 +8579,21 @@
       "joinDate": "2025-02-21T01:22:59.115Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tivanni",
+      "email": "Cavaniclappa@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "TIJDI",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:24:19.502Z"
     }
   ],
   "withdrawals": [
