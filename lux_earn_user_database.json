@@ -11199,14 +11199,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:11:31.529Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        4
+      ]
     },
     {
       "username": "Estheriyanuoluwa",
