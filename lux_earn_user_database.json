@@ -13349,11 +13349,12 @@
         "Levisonet",
         "Alamin",
         "Regina ",
-        "Zachariah "
+        "Zachariah ",
+        "Abdulgaffar"
       ],
       "balance": 251,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -34866,6 +34867,21 @@
       "joinDate": "2025-02-21T14:42:31.213Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdulgaffar",
+      "email": "abdoulgaffarai@gmail.com",
+      "encrypted_password": "a77ad5280214293f036d64a20c9ebad9",
+      "referral_code": "ABHGS",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:43:35.437Z"
     }
   ],
   "withdrawals": [
