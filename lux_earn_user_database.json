@@ -4712,11 +4712,12 @@
         "Rain",
         "Roxy",
         "Zick",
-        "Lucky"
+        "Lucky",
+        "Miles"
       ],
       "balance": 25,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7844,6 +7845,21 @@
       "joinDate": "2025-02-21T01:00:59.966Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Miles",
+      "email": "milesmorals@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "MI0H1",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:02:02.716Z"
     }
   ],
   "withdrawals": [
