@@ -1982,11 +1982,12 @@
         "Ugo23",
         "creativeeaglesgrafix",
         "Amaka5",
-        "Amalaugo3"
+        "Amalaugo3",
+        "Sylverfox "
       ],
       "balance": 165,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -16789,7 +16790,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:07:15.313Z"
+      "joinDate": "2025-02-21T07:07:15.313Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sylverfox ",
+      "email": "akinjoposylvester@gmail.com",
+      "encrypted_password": "f0cb3adda735e424544e23c185567c4b",
+      "referral_code": "SY62C",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:07:19.099Z"
     }
   ],
   "withdrawals": [
