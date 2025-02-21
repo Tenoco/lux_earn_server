@@ -10138,11 +10138,12 @@
         "Steve312",
         "Kamo23",
         "Youngk",
-        "Beast_exe"
+        "Beast_exe",
+        "Rashmoney1"
       ],
       "balance": 165,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:42:35.322Z",
@@ -38032,6 +38033,21 @@
       "joinDate": "2025-02-21T22:29:57.533Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rashmoney1",
+      "email": "rashmoney933@gmail.com",
+      "encrypted_password": "a73b60fed1d84bf065658701aff031a0",
+      "referral_code": "RAMKD",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": "Rashmoney",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:31:19.218Z"
     }
   ],
   "withdrawals": [
