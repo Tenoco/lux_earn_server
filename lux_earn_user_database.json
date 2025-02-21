@@ -2398,11 +2398,12 @@
         "Lola32E",
         "Pamela210",
         "Bayole21",
-        "Halohaloauah22"
+        "Halohaloauah22",
+        "Ayelabowo"
       ],
       "balance": 280,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -26323,7 +26324,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Afuwh",
@@ -26460,6 +26462,21 @@
       "joinDate": "2025-02-21T10:45:31.555Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayelabowo",
+      "email": "ayelabowosakiru230@gmail.com",
+      "encrypted_password": "fb3797c72534cc3113eb0790f60c261f",
+      "referral_code": "AY6IR",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:46:05.880Z"
     }
   ],
   "withdrawals": [
