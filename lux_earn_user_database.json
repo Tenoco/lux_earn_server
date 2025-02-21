@@ -15760,11 +15760,12 @@
       "inviter_referral_code": "Sc4h4",
       "inviter_username": null,
       "invited_users": [
-        "Wisdomchibuike "
+        "Wisdomchibuike ",
+        "Akano"
       ],
       "balance": 60,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:10.486Z",
@@ -18769,6 +18770,21 @@
       "joinDate": "2025-02-21T07:40:48.494Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akano",
+      "email": "241davidfelix@gmail.com",
+      "encrypted_password": "b81bf3541b6229c8c50edd2c2fc71f64",
+      "referral_code": "AKVRR",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:40:10.588Z"
     }
   ],
   "withdrawals": [
