@@ -10245,7 +10245,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 165,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10255,9 +10255,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Demilogo",
@@ -10549,7 +10549,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:26:12.211Z"
+      "joinDate": "2025-02-21T04:26:12.211Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
