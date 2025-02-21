@@ -3003,7 +3003,7 @@
         "Rokkygold",
         "Ziviabby"
       ],
-      "balance": 325,
+      "balance": 337,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -3021,7 +3021,7 @@
         6,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T12:02:08.105Z"
     },
     {
       "username": "John",
@@ -29212,7 +29212,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:01:39.139Z"
+      "joinDate": "2025-02-21T12:01:39.139Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
