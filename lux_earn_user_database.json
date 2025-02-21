@@ -28531,7 +28531,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:44:33.656Z"
+      "joinDate": "2025-02-21T11:44:33.656Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nwanneka ",
+      "email": "Obianomarynwanneka24@gmail.com",
+      "encrypted_password": "9335c8bccf9d0f85f47b0a3adebaf8e1",
+      "referral_code": "NWBKG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:45:10.569Z"
     }
   ],
   "withdrawals": [
