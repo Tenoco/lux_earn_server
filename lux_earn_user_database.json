@@ -13062,16 +13062,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:03:06.776Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "lupeace",
@@ -13154,7 +13154,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:05:29.156Z"
+      "joinDate": "2025-02-21T06:05:29.156Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
