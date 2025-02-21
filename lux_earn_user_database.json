@@ -38064,11 +38064,12 @@
       "inviter_username": "championTheGreat",
       "invited_users": [
         "Neta",
-        "Reta"
+        "Reta",
+        "Chinedu"
       ],
       "balance": 115,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:23:59.924Z",
@@ -38228,7 +38229,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:32:56.262Z"
+      "joinDate": "2025-02-21T16:32:56.262Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chinedu",
+      "email": "chineduokoroukwu@gmail.com",
+      "encrypted_password": "e9f5713dec55d727bb35392cec6190ce",
+      "referral_code": "CH21D",
+      "inviter_referral_code": "ISOM7",
+      "inviter_username": "Isaac ilechie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:34:26.414Z"
     }
   ],
   "withdrawals": [
