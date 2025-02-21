@@ -1768,7 +1768,7 @@
       "invited_users": [
         "Cosmos "
       ],
-      "balance": 800,
+      "balance": 980,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1802,7 +1802,13 @@
         5,
         5,
         5,
-        5
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
       ],
       "lastSpin": "2025-02-21T06:15:41.072Z"
     },
@@ -36452,7 +36458,8 @@
         1,
         11,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ahmed sodiq",
