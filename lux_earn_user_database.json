@@ -13020,11 +13020,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Olakunlejnr"
+        "Olakunlejnr",
+        "Peller"
       ],
       "balance": 48,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -13787,7 +13788,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:20:04.814Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:20:34.496Z"
+    },
+    {
+      "username": "Peller",
+      "email": "olakunletitilayo1972@gmail.com",
+      "encrypted_password": "c88e123e452a7d2abf8bd7d5c10fa6e6",
+      "referral_code": "PEUVT",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:20:49.629Z"
     }
   ],
   "withdrawals": [
