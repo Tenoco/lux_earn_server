@@ -20016,10 +20016,12 @@
       "referral_code": "NAEVI",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayandeji David ayomide"
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:55:43.839Z",
@@ -27317,7 +27319,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:03:58.482Z"
+      "joinDate": "2025-02-21T11:03:58.482Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayandeji David ayomide",
+      "email": "ayandejiayomide11@gmail.com",
+      "encrypted_password": "9d43605d09ea3b913bf1e768f44ff8fe",
+      "referral_code": "AYO9Q",
+      "inviter_referral_code": "NAEVI",
+      "inviter_username": "Nath",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:04:14.590Z"
     }
   ],
   "withdrawals": [
