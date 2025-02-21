@@ -11471,11 +11471,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Dhhecv1"
+        "Dhhecv1",
+        "Goohdyy"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:16:19.851Z",
@@ -12268,6 +12269,21 @@
       "joinDate": "2025-02-21T05:40:56.128Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goohdyy",
+      "email": "ansaruidris48@gmail.com",
+      "encrypted_password": "1dd05e3e8c1fbf82f904440c10338f1e",
+      "referral_code": "GOEDM",
+      "inviter_referral_code": "MM6P4",
+      "inviter_username": "mmmmdjk1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:42:35.429Z"
     }
   ],
   "withdrawals": [
