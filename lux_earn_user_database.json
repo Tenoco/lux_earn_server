@@ -19232,11 +19232,12 @@
         "Hod001",
         "God0003",
         "You223344",
-        "Tod"
+        "Tod",
+        "Loveth332"
       ],
       "balance": 232,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -30745,6 +30746,21 @@
       "joinDate": "2025-02-21T12:46:21.237Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T12:46:32.758Z"
+    },
+    {
+      "username": "Loveth332",
+      "email": "happyboi3324@gmail.com",
+      "encrypted_password": "63d9d7b9202679a4adef678a128c88af",
+      "referral_code": "LOCYU",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:47:57.696Z"
     }
   ],
   "withdrawals": [
