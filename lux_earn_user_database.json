@@ -37318,11 +37318,12 @@
       "inviter_username": null,
       "invited_users": [
         "dolapo020l",
-        "Fikate6jj"
+        "Fikate6jj",
+        "Glory6"
       ],
       "balance": 80,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37511,7 +37512,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:02:42.005Z"
+      "joinDate": "2025-02-21T20:02:42.005Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Glory6",
+      "email": "ibkanu8@gmail.com",
+      "encrypted_password": "3028879ab8d5c87dc023049fa5bb5c1a",
+      "referral_code": "GLOJU",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:04:10.158Z"
     }
   ],
   "withdrawals": [
