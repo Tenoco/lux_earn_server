@@ -35087,14 +35087,17 @@
       "inviter_referral_code": "CHDBE",
       "inviter_username": "Chinenyefavour",
       "invited_users": [],
-      "balance": 0,
+      "balance": 78,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:46:30.601Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T15:12:47.249Z"
     },
     {
       "username": "noelnelson ",
