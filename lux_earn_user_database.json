@@ -12469,14 +12469,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:49:52.682Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Peller uc ",
@@ -12508,7 +12509,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:50:58.016Z"
+      "joinDate": "2025-02-21T05:50:58.016Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
