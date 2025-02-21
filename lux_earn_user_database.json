@@ -31609,10 +31609,12 @@
       "referral_code": "CJ6IL",
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Vilexy"
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:09:19.725Z",
@@ -32351,7 +32353,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:36:00.798Z"
+      "joinDate": "2025-02-21T13:36:00.798Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vilexy",
+      "email": "azubikevictory72@gmail.com",
+      "encrypted_password": "146ee1b9f4961a3098020a79200d87f2",
+      "referral_code": "VI3M1",
+      "inviter_referral_code": "CJ6IL",
+      "inviter_username": "Cjbliss ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:36:14.451Z"
     }
   ],
   "withdrawals": [
