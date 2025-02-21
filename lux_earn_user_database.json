@@ -9016,11 +9016,12 @@
         "Sameft",
         "Joysak ",
         "Vice-chairman ",
-        "Malclm"
+        "Malclm",
+        "Jennifer akuwe"
       ],
       "balance": 330,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9305,7 +9306,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:40:45.022Z"
+      "joinDate": "2025-02-21T02:40:45.022Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jennifer akuwe",
+      "email": "jennyaku@gmail.com",
+      "encrypted_password": "6bdf4cfc375b58b9f86210a9efb4049b",
+      "referral_code": "JE88D",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:41:07.598Z"
     }
   ],
   "withdrawals": [
