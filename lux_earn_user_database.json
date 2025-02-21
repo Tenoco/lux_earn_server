@@ -6216,7 +6216,7 @@
         "Kevin ",
         "abdul"
       ],
-      "balance": 90,
+      "balance": 91,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -6233,7 +6233,7 @@
         6,
         7
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:17:31.178Z"
     },
     {
       "username": "Fantasee",
@@ -17390,7 +17390,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:17:31.782Z"
+      "joinDate": "2025-02-21T07:17:31.782Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
