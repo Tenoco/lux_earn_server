@@ -25420,11 +25420,12 @@
         "Zaddy",
         "Maga",
         "Koy",
-        "Lizzy"
+        "Lizzy",
+        "Molly"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -30573,7 +30574,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:33:18.291Z"
+      "joinDate": "2025-02-21T12:33:18.291Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Molly",
+      "email": "yerib86581@dropfam.com",
+      "encrypted_password": "72225dfc0ffc1c4e8471c5824c2c63c2",
+      "referral_code": "MOJWU",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:33:22.816Z"
     }
   ],
   "withdrawals": [
