@@ -29814,13 +29814,15 @@
       "inviter_referral_code": "CH43H",
       "inviter_username": "Ch@rles",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:14:43.971Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": "2025-02-21T12:35:37.794Z"
     },
     {
@@ -30807,7 +30809,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:42:16.897Z"
+      "joinDate": "2025-02-21T12:42:16.897Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
