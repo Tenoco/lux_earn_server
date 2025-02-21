@@ -9729,7 +9729,8 @@
         7,
         8,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kashops14",
@@ -9760,7 +9761,7 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 120,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9768,9 +9769,9 @@
       "joinDate": "2025-02-21T03:07:42.870Z",
       "completedMissions": [
         1,
-        7
-      ],
-      "lastSpin": null
+        7,
+        8
+      ]
     }
   ],
   "withdrawals": [
