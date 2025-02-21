@@ -18449,10 +18449,12 @@
       "referral_code": "OLHMH",
       "inviter_referral_code": "RUDYD",
       "inviter_username": "Ruth641",
-      "invited_users": [],
+      "invited_users": [
+        "Morenikeji "
+      ],
       "balance": 61,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:59.608Z",
@@ -37401,6 +37403,21 @@
       "joinDate": "2025-02-21T22:09:15.741Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Morenikeji ",
+      "email": "morenikejiajisafe4@gmail.com",
+      "encrypted_password": "eaf4297e8363e77ca709635826d920b5",
+      "referral_code": "MOCWU",
+      "inviter_referral_code": "OLHMH",
+      "inviter_username": "Olatimi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:10:17.396Z"
     }
   ],
   "withdrawals": [
