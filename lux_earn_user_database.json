@@ -18826,10 +18826,12 @@
       "referral_code": "MIR7J",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Minnah24"
+      ],
       "balance": 190,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:40:48.494Z",
@@ -19127,6 +19129,21 @@
       "joinDate": "2025-02-21T07:48:28.124Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Minnah24",
+      "email": "aminatayomideagbabiaka@gmail.com",
+      "encrypted_password": "6a60bc759aef07203a9ad03225a06eeb",
+      "referral_code": "MIL7L",
+      "inviter_referral_code": "MIR7J",
+      "inviter_username": "Minnah12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:48:50.072Z"
     }
   ],
   "withdrawals": [
