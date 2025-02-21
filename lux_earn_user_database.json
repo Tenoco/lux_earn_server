@@ -16932,10 +16932,12 @@
       "referral_code": "EMG01",
       "inviter_referral_code": "SAHU4",
       "inviter_username": "Saint ",
-      "invited_users": [],
+      "invited_users": [
+        "Osamudaimeh"
+      ],
       "balance": 190,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:50.238Z",
@@ -30838,7 +30840,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:50:39.936Z"
+      "joinDate": "2025-02-21T12:50:39.936Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Osamudaimeh",
+      "email": "osamudaimehose@gamil.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "OSQ7K",
+      "inviter_referral_code": "EMG01",
+      "inviter_username": "Emmanuelemmzy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:50:42.942Z"
     }
   ],
   "withdrawals": [
