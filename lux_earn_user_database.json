@@ -20388,13 +20388,15 @@
         "daralola",
         "Smartdara"
       ],
-      "balance": 0,
+      "balance": 30,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -21192,7 +21194,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:35:14.764Z"
+      "joinDate": "2025-02-21T08:35:14.764Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
