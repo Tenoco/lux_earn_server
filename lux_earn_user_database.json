@@ -10150,14 +10150,18 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [],
-      "balance": 50,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:10:57.596Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Mide",
@@ -10477,7 +10481,8 @@
         5,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Only1Jare",
