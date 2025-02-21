@@ -16657,7 +16657,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:05:19.539Z"
+      "joinDate": "2025-02-21T07:05:19.539Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Michael maxwell",
+      "email": "michaelmaxwell174@gmail.com",
+      "encrypted_password": "1dff6ee8aca76bbaa1344693c8bfb012",
+      "referral_code": "MI2GJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:05:25.309Z"
     }
   ],
   "withdrawals": [
