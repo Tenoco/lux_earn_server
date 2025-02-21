@@ -37211,11 +37211,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Adeolu"
+        "Adeolu",
+        "Zuliybaby"
       ],
       "balance": 32,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37346,6 +37347,21 @@
       "joinDate": "2025-02-21T22:05:35.175Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zuliybaby",
+      "email": "shotinrinsuliyat@gmail.com",
+      "encrypted_password": "991a7482aa8d24785c5a806394bc351a",
+      "referral_code": "ZUTE3",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:06:36.577Z"
     }
   ],
   "withdrawals": [
