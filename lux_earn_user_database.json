@@ -19631,11 +19631,12 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [
-        "Kingsleyff "
+        "Kingsleyff ",
+        "09162129166"
       ],
       "balance": 560,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:50:04.582Z",
@@ -24873,7 +24874,8 @@
         1,
         9,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VaLi ",
@@ -25118,6 +25120,21 @@
       "joinDate": "2025-02-21T10:16:32.820Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "09162129166",
+      "email": "ramadanomotosho008@gmail.com",
+      "encrypted_password": "c372a15d35fbf0133cd45297957c6a67",
+      "referral_code": "09DUR",
+      "inviter_referral_code": "KA4B6",
+      "inviter_username": "Kashey",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:19:29.358Z"
     }
   ],
   "withdrawals": [
