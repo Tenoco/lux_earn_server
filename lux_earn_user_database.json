@@ -18693,14 +18693,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:38:38.802Z",
-      "lastSpin": "2025-02-21T07:39:32.737Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:39:32.737Z"
     },
     {
       "username": "Flavor",
@@ -18783,7 +18783,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18791,7 +18791,8 @@
       "joinDate": "2025-02-21T07:40:48.494Z",
       "completedMissions": [
         3,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
