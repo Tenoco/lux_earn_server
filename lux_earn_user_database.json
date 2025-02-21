@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 5000,
+      "balance": 4000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -36955,7 +36955,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:44:45.971Z"
+      "joinDate": "2025-02-21T16:44:45.971Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -36991,6 +36993,17 @@
       "totalBalance": 8030,
       "timestamp": "2025-02-18T22:47:13.036Z",
       "status": "completed"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Tenoco",
+      "accountNumber": "8076556252",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 5000,
+      "timestamp": "2025-02-21T16:45:26.784Z",
+      "status": "pending"
     }
   ],
   "missions": [],
