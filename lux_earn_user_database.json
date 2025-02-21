@@ -37065,7 +37065,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nadeeyah",
@@ -37083,6 +37084,21 @@
       "joinDate": "2025-02-21T18:57:25.844Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dolapo0207",
+      "email": "ibkanu800@gmail.com",
+      "encrypted_password": "98564816a2c5d05c32d0ab39e0a375ca",
+      "referral_code": "DOKFG",
+      "inviter_referral_code": "DO2Z4",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:58:52.789Z"
     }
   ],
   "withdrawals": [
