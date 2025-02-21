@@ -15780,7 +15780,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:54:34.614Z"
+      "joinDate": "2025-02-21T06:54:34.614Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Khadija",
+      "email": "mamanshukurah610@gmai.com",
+      "encrypted_password": "d3e297163a5c730f272d367166488c10",
+      "referral_code": "KHIRB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:54:39.743Z"
     }
   ],
   "withdrawals": [
