@@ -1199,11 +1199,12 @@
         "Kingsiology ",
         "Tabzzy",
         "cryptomannia",
-        "Blacklord55"
+        "Blacklord55",
+        "The jester002"
       ],
       "balance": 315,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -27114,6 +27115,21 @@
       "joinDate": "2025-02-21T10:57:58.541Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "The jester002",
+      "email": "aotvhenom@gmail.com",
+      "encrypted_password": "b6bd8255b980d63192b3fdd7a68c094c",
+      "referral_code": "THR9F",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:59:03.010Z"
     }
   ],
   "withdrawals": [
