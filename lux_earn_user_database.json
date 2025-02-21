@@ -14590,7 +14590,8 @@
         4,
         4,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aibeeyusufk",
@@ -14742,11 +14743,12 @@
         "Rokibat",
         "Chizzy001xyz",
         "Sam1204",
-        "pearlslim12"
+        "pearlslim12",
+        "Mideruqouya"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -16127,6 +16129,21 @@
       "joinDate": "2025-02-21T06:58:41.804Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mideruqouya",
+      "email": "ayomideruqouya2@gmail.com",
+      "encrypted_password": "f8c7243835626b833254abfe7c53f6eb",
+      "referral_code": "MIQP1",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:59:36.778Z"
     }
   ],
   "withdrawals": [
