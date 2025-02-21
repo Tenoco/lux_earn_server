@@ -24721,10 +24721,12 @@
       "referral_code": "JALJU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Joshua"
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -25931,7 +25933,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:36:43.784Z"
+      "joinDate": "2025-02-21T10:36:43.784Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joshua",
+      "email": "oyinkansolaoshundiya@gmail.com",
+      "encrypted_password": "6ee9d1869d52df2d29898a2b7536260c",
+      "referral_code": "JOYE5",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:37:17.670Z"
     }
   ],
   "withdrawals": [
