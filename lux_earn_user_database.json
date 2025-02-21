@@ -38018,7 +38018,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:09:50.597Z"
+      "joinDate": "2025-02-21T18:09:50.597Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Maina2024",
+      "email": "mainaover2025@gmail.com",
+      "encrypted_password": "0a1d021dd083f0f9789029a0063cbc9f",
+      "referral_code": "MA9PW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:10:45.725Z"
     }
   ],
   "withdrawals": [
