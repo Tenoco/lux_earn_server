@@ -28377,7 +28377,7 @@
         "GTNice ",
         "Sofia"
       ],
-      "balance": 88,
+      "balance": 108,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -28386,7 +28386,8 @@
       "completedMissions": [
         1,
         5,
-        4
+        4,
+        3
       ],
       "lastSpin": "2025-02-21T11:30:44.458Z"
     },
@@ -38470,7 +38471,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:38:07.366Z"
+      "joinDate": "2025-02-21T18:38:07.366Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
