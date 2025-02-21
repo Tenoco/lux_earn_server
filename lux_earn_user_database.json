@@ -4290,11 +4290,12 @@
         "Jerryjj",
         "Ebuka12",
         "thompy",
-        "gidoun"
+        "gidoun",
+        "Houstony"
       ],
       "balance": 295,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -24310,6 +24311,21 @@
       "joinDate": "2025-02-21T09:59:28.578Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Houstony",
+      "email": "houston43james@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "HOPV8",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:00:42.777Z"
     }
   ],
   "withdrawals": [
