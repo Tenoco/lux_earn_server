@@ -11945,16 +11945,16 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:33:11.531Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        4
+      ]
     },
     {
       "username": "Taofiq123",
@@ -12054,7 +12054,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:35:51.153Z"
+      "joinDate": "2025-02-21T05:35:51.153Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
