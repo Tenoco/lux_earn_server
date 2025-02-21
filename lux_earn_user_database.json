@@ -32082,7 +32082,8 @@
       "joinDate": "2025-02-21T13:28:33.907Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hahi",
@@ -32117,6 +32118,21 @@
       "joinDate": "2025-02-21T13:29:51.391Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Musaddeeq",
+      "email": "abubakar08145206849@gmail.com",
+      "encrypted_password": "fb356aef906cdda2cbe645d1193b9b94",
+      "referral_code": "MUMXI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:30:45.525Z"
     }
   ],
   "withdrawals": [
