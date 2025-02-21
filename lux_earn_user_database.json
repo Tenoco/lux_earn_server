@@ -3083,11 +3083,12 @@
         "Moses money ",
         "Daniels",
         "Lyan Mubby ",
-        "Arinze08"
+        "Arinze08",
+        "Bonney"
       ],
       "balance": 337,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -37170,6 +37171,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:04:42.192Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T16:05:26.927Z"
     },
     {
@@ -37188,6 +37190,21 @@
       "joinDate": "2025-02-21T16:05:29.705Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bonney",
+      "email": "emmanuelBonney2612@gmail.com",
+      "encrypted_password": "594a9401ef3d2c2ac4030e3a36a62f87",
+      "referral_code": "BO81V",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:06:01.929Z"
     }
   ],
   "withdrawals": [
