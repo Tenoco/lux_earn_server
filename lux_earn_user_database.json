@@ -20412,7 +20412,7 @@
         "Lolado123",
         "Godisgreat"
       ],
-      "balance": 60,
+      "balance": 90,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -20420,7 +20420,8 @@
       "joinDate": "2025-02-21T08:11:59.512Z",
       "completedMissions": [
         2,
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
@@ -21581,7 +21582,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:45:22.933Z"
+      "joinDate": "2025-02-21T08:45:22.933Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
