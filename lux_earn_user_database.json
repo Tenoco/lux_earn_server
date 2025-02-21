@@ -1974,11 +1974,12 @@
         "cassidy",
         "Maranatha ",
         "Victorstones",
-        "Kelechi chuks"
+        "Kelechi chuks",
+        "Syrestones"
       ],
       "balance": 10,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:00.752Z",
@@ -32742,6 +32743,21 @@
       "joinDate": "2025-02-21T13:47:24.996Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Syrestones",
+      "email": "syrestones88@gmail.com",
+      "encrypted_password": "9c6d909e39fadfa77ae0d9a612ecbbad",
+      "referral_code": "SYKWB",
+      "inviter_referral_code": "EBX6A",
+      "inviter_username": "Ebenezerochi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:47:54.331Z"
     }
   ],
   "withdrawals": [
