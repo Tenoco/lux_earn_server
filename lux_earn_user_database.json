@@ -22449,7 +22449,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:09:26.254Z",
-      "lastSpin": "2025-02-21T09:11:38.226Z",
       "completedMissions": [
         9,
         8,
@@ -22461,7 +22460,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:11:38.226Z"
     },
     {
       "username": "Abdul1752",
@@ -22505,14 +22505,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        4
+      ]
     },
     {
       "username": "Victory",
