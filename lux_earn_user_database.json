@@ -9453,11 +9453,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Beautykween"
+        "Beautykween",
+        "Jomides"
       ],
       "balance": 230,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:43:39.223Z",
@@ -25363,6 +25364,21 @@
       "joinDate": "2025-02-21T10:25:37.522Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jomides",
+      "email": "jom133844@gmail.com",
+      "encrypted_password": "2d2fbe28a5cb289efa22867dca8b43f3",
+      "referral_code": "JOG4C",
+      "inviter_referral_code": "NI8MF",
+      "inviter_username": "Nimah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:25:56.895Z"
     }
   ],
   "withdrawals": [
