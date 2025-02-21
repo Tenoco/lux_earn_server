@@ -28385,7 +28385,7 @@
       "inviter_referral_code": "Chuqv",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 115,
+      "balance": 235,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28394,7 +28394,11 @@
       "completedMissions": [
         1,
         2,
-        9
+        9,
+        6,
+        6,
+        6,
+        8
       ],
       "lastSpin": "2025-02-21T11:55:44.931Z"
     },
@@ -29034,6 +29038,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:58:01.116Z"
     },
     {
