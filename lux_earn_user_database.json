@@ -14784,7 +14784,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:38:29.705Z"
+      "joinDate": "2025-02-21T06:38:29.705Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadiqmkyari",
+      "email": "Sadiqmuhammadkyari43@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SAWY4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:38:39.218Z"
     }
   ],
   "withdrawals": [
