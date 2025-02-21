@@ -30193,14 +30193,15 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:27:31.711Z",
       "completedMissions": [
-        1
+        1,
+        8
       ],
       "lastSpin": null
     },
