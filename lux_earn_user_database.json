@@ -20451,7 +20451,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:17:01.893Z"
+      "joinDate": "2025-02-21T08:17:01.893Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Leonard Joseph ",
+      "email": "Leonardabj123@gmail.com",
+      "encrypted_password": "8e3eb1a631228c83931864cc5929c25a",
+      "referral_code": "LE25J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:17:03.078Z"
     }
   ],
   "withdrawals": [
