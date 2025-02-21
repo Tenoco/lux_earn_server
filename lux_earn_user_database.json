@@ -37076,7 +37076,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:01:53.633Z"
+      "joinDate": "2025-02-21T16:01:53.633Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomi200",
+      "email": "adeolaonipede2020@gmail.com",
+      "encrypted_password": "71c1c4f59c3db079a4aa157f74091b8d",
+      "referral_code": "AYFAE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:02:06.445Z"
     }
   ],
   "withdrawals": [
