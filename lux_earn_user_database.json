@@ -6619,7 +6619,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 205,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6630,7 +6630,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "lastSpin": "2025-02-21T00:37:16.052Z"
     },
@@ -7107,7 +7108,8 @@
       "joinDate": "2025-02-21T00:39:45.852Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samen",
