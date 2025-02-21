@@ -6694,13 +6694,15 @@
         "Hamin",
         "Nice29"
       ],
-      "balance": 50,
+      "balance": 85,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -7721,7 +7723,8 @@
         2,
         5,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ashing",
