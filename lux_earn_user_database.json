@@ -24446,11 +24446,12 @@
         "Hon980",
         "Shady766",
         "Alive090",
-        "Ayo88"
+        "Ayo88",
+        "Mofe99"
       ],
       "balance": 288,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
@@ -25852,7 +25853,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:35:31.802Z"
+      "joinDate": "2025-02-21T10:35:31.802Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mofe99",
+      "email": "mofegh@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "MON2O",
+      "inviter_referral_code": "MAB3U",
+      "inviter_username": "Marv766",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:42.490Z"
     }
   ],
   "withdrawals": [
