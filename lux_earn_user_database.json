@@ -19180,11 +19180,12 @@
       "invited_users": [
         "Boss1 ",
         "Nikki ",
-        "Francis "
+        "Francis ",
+        "Godson"
       ],
       "balance": 228,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -22159,7 +22160,8 @@
         5,
         9,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "LEOMEGAPLEX ",
@@ -22262,6 +22264,21 @@
       "joinDate": "2025-02-21T09:05:22.610Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godson",
+      "email": "gordonmalachi65@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "GOHS0",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:06:19.686Z"
     }
   ],
   "withdrawals": [
