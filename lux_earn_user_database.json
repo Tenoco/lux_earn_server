@@ -17876,11 +17876,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Awal001"
+        "Awal001",
+        "Abdulqudus"
       ],
       "balance": 292,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:48.588Z",
@@ -19841,7 +19842,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:02:20.005Z"
+      "joinDate": "2025-02-21T08:02:20.005Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdulqudus",
+      "email": "zakariyauabdulqudus136@gmail.com",
+      "encrypted_password": "cd935e8f4432ea0d9e219627c4efdbe6",
+      "referral_code": "ABJEO",
+      "inviter_referral_code": "SH7CK",
+      "inviter_username": "sharz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:02:26.940Z"
     }
   ],
   "withdrawals": [
