@@ -13435,11 +13435,12 @@
         "Regina ",
         "Zachariah ",
         "Abdulgaffar",
-        "Shadrach Nyigba "
+        "Shadrach Nyigba ",
+        "Chukle001 "
       ],
       "balance": 251,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -37431,6 +37432,21 @@
       "joinDate": "2025-02-21T17:21:37.962Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chukle001 ",
+      "email": "omegachukle@gmail.com",
+      "encrypted_password": "84879c7e62d13f113e630a1bd9f2d54d",
+      "referral_code": "CH0BX",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:26:44.514Z"
     }
   ],
   "withdrawals": [
