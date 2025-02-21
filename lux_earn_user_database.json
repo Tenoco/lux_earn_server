@@ -22028,14 +22028,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:58:58.867Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
