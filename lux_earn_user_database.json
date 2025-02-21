@@ -18245,7 +18245,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:30:33.677Z"
+      "joinDate": "2025-02-21T07:30:33.677Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Taiyyiba ",
+      "email": "abdullahthayyiba@gmail.com",
+      "encrypted_password": "1e99a24df4edf90e11db28abe315b1a6",
+      "referral_code": "TA8S3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:30:40.020Z"
     }
   ],
   "withdrawals": [
