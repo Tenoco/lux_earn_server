@@ -14891,7 +14891,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:40:46.544Z"
+      "joinDate": "2025-02-21T06:40:46.544Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "igwemoses147",
+      "email": "igwemoses147@gmail.com",
+      "encrypted_password": "dfdd67e0c52e45e1e3bcd66ff30fd512",
+      "referral_code": "IGGDH",
+      "inviter_referral_code": "2000",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:40:57.990Z"
     }
   ],
   "withdrawals": [
