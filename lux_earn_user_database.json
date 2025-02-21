@@ -23054,7 +23054,7 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 180,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23066,7 +23066,8 @@
         3,
         3,
         4,
-        9
+        9,
+        8
       ],
       "lastSpin": null
     },
@@ -24344,7 +24345,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:01:00.427Z"
+      "joinDate": "2025-02-21T10:01:00.427Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
