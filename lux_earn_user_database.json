@@ -34678,14 +34678,15 @@
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:38:58.299Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
