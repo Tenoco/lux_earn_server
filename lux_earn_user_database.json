@@ -846,11 +846,12 @@
       "inviter_username": null,
       "invited_users": [
         "Eddie Gregory ",
-        "Moneyman"
+        "Moneyman",
+        "Psblo"
       ],
       "balance": 163,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -6754,7 +6755,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:31:24.071Z"
+      "joinDate": "2025-02-21T00:31:24.071Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Psblo",
+      "email": "preciousadeniran21@gmail.com",
+      "encrypted_password": "64487392d4cae36d6f793e66e8e2fb76",
+      "referral_code": "PS4GD",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:31:31.076Z"
     }
   ],
   "withdrawals": [
