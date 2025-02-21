@@ -15109,11 +15109,12 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [
-        "shoyombo02@gmail.com"
+        "shoyombo02@gmail.com",
+        "shoyomboizhaq5@gmail.com"
       ],
       "balance": 128,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:35.481Z",
@@ -24054,7 +24055,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:53:44.792Z"
+      "joinDate": "2025-02-21T09:53:44.792Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "shoyomboizhaq5@gmail.com",
+      "email": "shoyomboizhaq5@gmail.com",
+      "encrypted_password": "7daddfb942ac2e58f65ac0ac5b068532",
+      "referral_code": "SHILF",
+      "inviter_referral_code": "SHR06",
+      "inviter_username": "shoyomboizhaq1@gmail.com",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:54:00.954Z"
     }
   ],
   "withdrawals": [
