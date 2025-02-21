@@ -14133,14 +14133,15 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:27:08.337Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
