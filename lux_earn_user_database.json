@@ -33912,10 +33912,12 @@
       "referral_code": "KEKSN",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Emma003"
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:17:32.872Z",
@@ -34510,7 +34512,8 @@
       "joinDate": "2025-02-21T14:35:08.365Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mr_Nobody",
@@ -34649,6 +34652,21 @@
       "joinDate": "2025-02-21T14:38:36.616Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emma003",
+      "email": "bennethemmanuel604@gmail.com",
+      "encrypted_password": "1eb04c2106d38b1f340e93e92f9470cc",
+      "referral_code": "EM3XN",
+      "inviter_referral_code": "KEKSN",
+      "inviter_username": "Kezie313",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:38:58.299Z"
     }
   ],
   "withdrawals": [
