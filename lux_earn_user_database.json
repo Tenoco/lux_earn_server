@@ -10779,7 +10779,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:46:37.552Z"
+      "joinDate": "2025-02-21T04:46:37.552Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Captainale ",
+      "email": "hussainabkd001@gmail.com",
+      "encrypted_password": "79fe82a26c3ac92b6b24b9ae09d63328",
+      "referral_code": "CAFM6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:46:51.087Z"
     }
   ],
   "withdrawals": [
