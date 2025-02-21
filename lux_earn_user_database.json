@@ -19749,10 +19749,12 @@
       "referral_code": "PRZDR",
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
-      "invited_users": [],
+      "invited_users": [
+        "Pelumi23"
+      ],
       "balance": 465,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:52:28.382Z",
@@ -31215,6 +31217,21 @@
       "joinDate": "2025-02-21T12:58:50.949Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pelumi23",
+      "email": "olarewajuprosperity3@gmail.com",
+      "encrypted_password": "e01623a4f9daf185b186f495ee163bb6",
+      "referral_code": "PEL4O",
+      "inviter_referral_code": "PRZDR",
+      "inviter_username": "Prosperity",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:59:58.971Z"
     }
   ],
   "withdrawals": [
