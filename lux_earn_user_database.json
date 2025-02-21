@@ -3738,11 +3738,12 @@
         "Olaadura12 ",
         "Sammyjwest ",
         "Berry",
-        "Kaypomping "
+        "Kaypomping ",
+        "Olasunmbo"
       ],
       "balance": 50,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -22404,11 +22405,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:08:58.094Z",
-      "lastSpin": "2025-02-21T09:09:45.215Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:09:45.215Z"
     },
     {
       "username": "Dorcas11",
@@ -22511,6 +22512,21 @@
       "joinDate": "2025-02-21T09:13:18.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olasunmbo",
+      "email": "iphonexr608@gmail.com",
+      "encrypted_password": "afee5cda7e1778e6cc6d31458efd8063",
+      "referral_code": "OLN7A",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:13:28.898Z"
     }
   ],
   "withdrawals": [
