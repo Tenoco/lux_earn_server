@@ -5538,11 +5538,12 @@
         "Gbenga ",
         "Eralimad",
         "Smiths ",
-        "Segun"
+        "Segun",
+        "Ajani123"
       ],
       "balance": 295,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:05:56.670Z",
@@ -9886,7 +9887,23 @@
         7,
         8,
         6
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajani123",
+      "email": "aiyelabowowasiu@gmail.com",
+      "encrypted_password": "7ffe3c32c7f6a7a769254dc5ce2911d8",
+      "referral_code": "AJJ2S",
+      "inviter_referral_code": "LA7RS",
+      "inviter_username": "LAGACONCEPT ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:22:12.721Z"
     }
   ],
   "withdrawals": [
