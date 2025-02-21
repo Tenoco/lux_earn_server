@@ -18547,10 +18547,12 @@
       "referral_code": "JAAOG",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Isahkudu"
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:32:58.768Z",
@@ -19742,7 +19744,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:00:28.222Z"
+      "joinDate": "2025-02-21T08:00:28.222Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Isahkudu",
+      "email": "isahkudu1999@gmail.com",
+      "encrypted_password": "3971802af126abfd41c1b47541102a28",
+      "referral_code": "ISVGE",
+      "inviter_referral_code": "JAAOG",
+      "inviter_username": "Jago123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:00:43.164Z"
     }
   ],
   "withdrawals": [
