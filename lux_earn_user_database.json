@@ -22125,16 +22125,16 @@
       "inviter_referral_code": "RACZK",
       "inviter_username": "Racheal ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:01:34.081Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "LEOMEGAPLEX ",
