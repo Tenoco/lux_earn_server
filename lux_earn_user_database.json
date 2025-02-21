@@ -3816,7 +3816,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 255,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11208,6 +11208,16 @@
       "phoneNumber": "07062172089",
       "amount": 100,
       "timestamp": "2025-02-21T04:52:39.509Z",
+      "status": "pending"
+    },
+    {
+      "username": "Lord Vader",
+      "email": "quyyumadebayo12345@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07062172089",
+      "amount": 100,
+      "timestamp": "2025-02-21T04:54:27.951Z",
       "status": "pending"
     }
   ]
