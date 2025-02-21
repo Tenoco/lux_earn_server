@@ -28301,10 +28301,12 @@
       "referral_code": "OLDAF",
       "inviter_referral_code": "FAUOQ",
       "inviter_username": "Fatty",
-      "invited_users": [],
+      "invited_users": [
+        "Nicefaith"
+      ],
       "balance": 300,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:35:29.738Z",
@@ -29011,7 +29013,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:57:09.026Z"
+      "joinDate": "2025-02-21T11:57:09.026Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nicefaith",
+      "email": "Nwaogudivine34@gmail.com",
+      "encrypted_password": "224ffab451387a4bcb1bf270fec54e30",
+      "referral_code": "NIS14",
+      "inviter_referral_code": "OLDAF",
+      "inviter_username": "Oluwajoy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:57:30.456Z"
     }
   ],
   "withdrawals": [
