@@ -1733,11 +1733,12 @@
         "Babal112",
         "Scopegee86 ",
         "Bona123",
-        "Habbeybam"
+        "Habbeybam",
+        "beautycrown"
       ],
       "balance": 275,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9447,7 +9448,8 @@
       "joinDate": "2025-02-21T02:48:23.042Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chioma78",
@@ -9482,6 +9484,21 @@
       "joinDate": "2025-02-21T02:50:40.109Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "beautycrown",
+      "email": "mhizkhabirat@gmail.com",
+      "encrypted_password": "908c442dabd4bd1fb2f68cdba82b3977",
+      "referral_code": "BEW64",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:51:19.799Z"
     }
   ],
   "withdrawals": [
