@@ -15021,11 +15021,12 @@
         "Jibola",
         "Ashabi",
         "Wiskid",
-        "Tawa"
+        "Tawa",
+        "Mami"
       ],
       "balance": 300,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -37124,6 +37125,21 @@
       "joinDate": "2025-02-21T16:53:03.522Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mami",
+      "email": "sicam80554@yalcu.com",
+      "encrypted_password": "3ff20c6aa576156a1a1ffe295fb122ee",
+      "referral_code": "MA4F9",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:55:55.057Z"
     }
   ],
   "withdrawals": [
