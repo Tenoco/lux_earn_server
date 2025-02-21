@@ -31794,7 +31794,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:21:39.389Z"
+      "joinDate": "2025-02-21T13:21:39.389Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mercyluv",
+      "email": "agreamercy4@gmail.com",
+      "encrypted_password": "030003c704779e4021f14c2929038615",
+      "referral_code": "ME3X3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:21:55.811Z"
     }
   ],
   "withdrawals": [
