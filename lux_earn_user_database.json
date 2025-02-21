@@ -38325,7 +38325,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:50:37.511Z"
+      "joinDate": "2025-02-21T20:50:37.511Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Money mayor",
+      "email": "attahemmanuel2009@gmail.com",
+      "encrypted_password": "b56e0b4ea4962283bee762525c2d490f",
+      "referral_code": "MO2GM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:50:59.462Z"
     }
   ],
   "withdrawals": [
