@@ -9268,7 +9268,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:38:26.625Z"
+      "joinDate": "2025-02-21T02:38:26.625Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aliyu Mustapha ",
+      "email": "aliyum82499@gmail.com",
+      "encrypted_password": "1b54e7c0de2cc237e1146fb083426cc6",
+      "referral_code": "ALIGR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:38:41.372Z"
     }
   ],
   "withdrawals": [
