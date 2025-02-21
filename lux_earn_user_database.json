@@ -16817,11 +16817,12 @@
         "Daniel",
         "Abelgebriel",
         "Chiamakachi",
-        "Henryjohn"
+        "Henryjohn",
+        "Emmanuel okpe"
       ],
       "balance": 280,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36548,7 +36549,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:33:41.068Z"
+      "joinDate": "2025-02-21T15:33:41.068Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuel okpe",
+      "email": "emmanuelios@gmail.com",
+      "encrypted_password": "e2b5d5fb1e371547268191fc8dafa1c8",
+      "referral_code": "EM1HP",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:34:04.155Z"
     }
   ],
   "withdrawals": [
