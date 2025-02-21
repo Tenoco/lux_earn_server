@@ -15990,10 +15990,12 @@
       "referral_code": "SNDIG",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Lavanilla"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:03.109Z",
@@ -18172,7 +18174,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Daves",
@@ -18592,6 +18595,21 @@
       "joinDate": "2025-02-21T07:35:59.586Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lavanilla",
+      "email": "clinben13@gmail.com",
+      "encrypted_password": "12fd8f11ae4f5ae92a16754c44b2bf08",
+      "referral_code": "LA5EJ",
+      "inviter_referral_code": "SNDIG",
+      "inviter_username": "snazzypaul ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:37:03.373Z"
     }
   ],
   "withdrawals": [
