@@ -10730,11 +10730,12 @@
         "Ifeoluwaoluwakemi ",
         "Peterson",
         "Phetah12",
-        "Hamzzy"
+        "Hamzzy",
+        "Treasure Joshua "
       ],
       "balance": 50,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -32189,7 +32190,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:32:32.957Z"
+      "joinDate": "2025-02-21T13:32:32.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Treasure Joshua ",
+      "email": "Goldwisdom62@gmail.com",
+      "encrypted_password": "348e87168195c43ef50da1d3fd066be2",
+      "referral_code": "TRFPT",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:32:39.139Z"
     }
   ],
   "withdrawals": [
