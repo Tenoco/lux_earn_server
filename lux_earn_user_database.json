@@ -9648,7 +9648,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 270,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9790,7 +9790,8 @@
         5,
         4,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Risky01",
@@ -10119,6 +10120,16 @@
       "phoneNumber": "07033678785",
       "amount": 100,
       "timestamp": "2025-02-21T01:09:51.151Z",
+      "status": "pending"
+    },
+    {
+      "username": "Segzypark",
+      "email": "segun.arowo@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "09169371531",
+      "amount": 100,
+      "timestamp": "2025-02-21T03:16:05.303Z",
       "status": "pending"
     }
   ]
