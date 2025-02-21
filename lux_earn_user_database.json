@@ -37156,7 +37156,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:56:05.828Z"
+      "joinDate": "2025-02-21T16:56:05.828Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "nuramuhammad5588@gmail.com",
+      "email": "nuramuhammad5588@gmail.com",
+      "encrypted_password": "7899769481c4cfa6e5a74b0b2dd77b7e",
+      "referral_code": "NUBM0",
+      "inviter_referral_code": "COWOa",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:57:05.844Z"
     }
   ],
   "withdrawals": [
