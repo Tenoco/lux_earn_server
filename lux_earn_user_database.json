@@ -19213,16 +19213,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:49:48.393Z",
+      "lastSpin": "2025-02-21T07:51:13.992Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T07:51:13.992Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Kashey",
@@ -19373,7 +19374,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:53:18.443Z"
+      "joinDate": "2025-02-21T07:53:18.443Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
