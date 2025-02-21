@@ -26118,13 +26118,19 @@
         "Peace out",
         "Jimmy"
       ],
-      "balance": 0,
+      "balance": 150,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
