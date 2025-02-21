@@ -3763,11 +3763,12 @@
         "Berry",
         "Kaypomping ",
         "Olasunmbo",
-        "Zeemah"
+        "Zeemah",
+        "Wilson wildcard "
       ],
       "balance": 50,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -24021,6 +24022,21 @@
       "joinDate": "2025-02-21T09:52:49.893Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wilson wildcard ",
+      "email": "erenwildcard@gmail.com",
+      "encrypted_password": "8f1e64eb83faaf38c66d2140cd4058c9",
+      "referral_code": "WIHLR",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:53:41.074Z"
     }
   ],
   "withdrawals": [
