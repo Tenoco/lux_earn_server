@@ -5190,7 +5190,7 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5199,7 +5199,8 @@
       "completedMissions": [
         1,
         2,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -5373,7 +5374,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:07:30.319Z"
+      "joinDate": "2025-02-21T00:07:30.319Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
