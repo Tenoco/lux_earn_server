@@ -24042,14 +24042,15 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:53:41.074Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "God33",
