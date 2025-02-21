@@ -10407,7 +10407,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:14:10.573Z"
+      "joinDate": "2025-02-21T04:14:10.573Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Falajiki",
+      "email": "falajikigbolahankingsley@gmail.com",
+      "encrypted_password": "745d43a59bd0130b9d38609380b6bb07",
+      "referral_code": "FADNU",
+      "inviter_referral_code": "KII01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:14:18.578Z"
     }
   ],
   "withdrawals": [
