@@ -27040,10 +27040,12 @@
       "referral_code": "OL6DY",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Nabeelo"
+      ],
       "balance": 361,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:47.590Z",
@@ -27665,6 +27667,21 @@
       "joinDate": "2025-02-21T11:15:25.020Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nabeelo",
+      "email": "cindy488867@gmail.com",
+      "encrypted_password": "8835fa54b0aa8a9c6621230e8f794a5f",
+      "referral_code": "NAN3U",
+      "inviter_referral_code": "OL6DY",
+      "inviter_username": "Oladelefrosh",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:16:20.071Z"
     }
   ],
   "withdrawals": [
