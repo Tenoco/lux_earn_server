@@ -27712,10 +27712,12 @@
       "referral_code": "CHUQV",
       "inviter_referral_code": "0rxq6",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kamanda"
+      ],
       "balance": 150,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:12:48.960Z",
@@ -30015,7 +30017,8 @@
       "joinDate": "2025-02-21T12:19:51.022Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Micheally1234",
@@ -30050,6 +30053,21 @@
       "joinDate": "2025-02-21T12:21:43.077Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kamanda",
+      "email": "Kamandafabian1@gmail.com",
+      "encrypted_password": "011018b6d15d195b1eb27c063aa2ff38",
+      "referral_code": "KAWE8",
+      "inviter_referral_code": "CHUQV",
+      "inviter_username": "Chiboy9",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:22:19.635Z"
     }
   ],
   "withdrawals": [
