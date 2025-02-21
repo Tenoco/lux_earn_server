@@ -16664,6 +16664,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:05:19.539Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:06:06.029Z"
     },
     {
@@ -16716,6 +16717,21 @@
       "joinDate": "2025-02-21T07:06:06.980Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shuaibu ",
+      "email": "Shuaibujshuaibu3@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "SHD7U",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:06:17.253Z"
     }
   ],
   "withdrawals": [
