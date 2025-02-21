@@ -13004,14 +13004,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T06:04:02.281Z"
+      "lastSpin": "2025-02-21T06:04:02.281Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "adelekeezekiel47@gmail.com",
@@ -13114,7 +13116,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:04:09.879Z"
+      "joinDate": "2025-02-21T06:04:09.879Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
