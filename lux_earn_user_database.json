@@ -4695,11 +4695,12 @@
         "Dray",
         "Rex",
         "Roy",
-        "Zoro"
+        "Zoro",
+        "Will"
       ],
       "balance": 25,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7123,6 +7124,21 @@
       "joinDate": "2025-02-21T00:40:22.800Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Will",
+      "email": "emimray@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "WI7V0",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:41:25.102Z"
     }
   ],
   "withdrawals": [
