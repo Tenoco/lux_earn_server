@@ -3016,11 +3016,12 @@
         "Habaku",
         "Rokkygold",
         "Ziviabby",
-        "Moses money "
+        "Moses money ",
+        "Daniels"
       ],
       "balance": 337,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -33427,12 +33428,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:07:59.490Z",
-      "lastSpin": "2025-02-21T14:08:59.887Z",
       "completedMissions": [
         2,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:08:59.887Z"
     },
     {
       "username": "Dghxs",
@@ -33603,6 +33604,21 @@
       "joinDate": "2025-02-21T14:12:40.224Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daniels",
+      "email": "danielsike940@gmail.com",
+      "encrypted_password": "aa436d53cf153b9e36fa0e937872e1e5",
+      "referral_code": "DAOHC",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:13:11.871Z"
     }
   ],
   "withdrawals": [
