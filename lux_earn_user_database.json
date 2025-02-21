@@ -22388,14 +22388,16 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 5,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:08:58.094Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T09:09:45.215Z"
+      "lastSpin": "2025-02-21T09:09:45.215Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Dorcas11",
