@@ -24862,7 +24862,7 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24871,9 +24871,9 @@
       "completedMissions": [
         2,
         1,
-        9
-      ],
-      "lastSpin": null
+        9,
+        3
+      ]
     },
     {
       "username": "VaLi ",
@@ -25035,14 +25035,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:14:38.521Z",
-      "lastSpin": "2025-02-21T10:15:01.189Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:15:01.189Z"
     },
     {
       "username": "Fhavour ",
