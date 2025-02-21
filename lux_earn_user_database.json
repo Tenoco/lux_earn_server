@@ -33249,7 +33249,7 @@
       "inviter_referral_code": "PRFPU",
       "inviter_username": "Princesspromise",
       "invited_users": [],
-      "balance": 250,
+      "balance": 275,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33266,7 +33266,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T14:10:49.693Z"
     },
     {
       "username": "maxj5049",
@@ -33507,7 +33507,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:10:38.445Z"
+      "joinDate": "2025-02-21T14:10:38.445Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
