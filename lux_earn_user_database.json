@@ -22290,11 +22290,12 @@
       "inviter_username": "Peculiarity86 ",
       "invited_users": [
         "Austa",
-        "Mwawawa "
+        "Mwawawa ",
+        "edukeitemjames"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -35423,6 +35424,21 @@
       "joinDate": "2025-02-21T14:59:43.176Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "edukeitemjames",
+      "email": "edukeitemjames@gmail.com",
+      "encrypted_password": "9924717b14576c6ac9411673df5df433",
+      "referral_code": "ED01J",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:00:59.771Z"
     }
   ],
   "withdrawals": [
