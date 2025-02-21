@@ -8899,10 +8899,12 @@
       "referral_code": "RAH53",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Jagoceleb43"
+      ],
       "balance": 305,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:00:01.286Z",
@@ -8998,7 +9000,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:09:39.771Z"
+      "joinDate": "2025-02-21T02:09:39.771Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jagoceleb43",
+      "email": "charlottec1960@gmail.com",
+      "encrypted_password": "dbb3b3c83d6034d54840dbb558c4527c",
+      "referral_code": "JAUFJ",
+      "inviter_referral_code": "RAH53",
+      "inviter_username": "Ramadan432",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:09:52.073Z"
     }
   ],
   "withdrawals": [
