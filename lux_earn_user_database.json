@@ -37513,13 +37513,17 @@
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:11:38.534Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1,
+        3
+      ],
       "lastSpin": null
     },
     {
