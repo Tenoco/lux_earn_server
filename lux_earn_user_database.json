@@ -37765,7 +37765,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:56:18.603Z"
+      "joinDate": "2025-02-21T17:56:18.603Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "dolapo0206",
+      "email": "dolapo0206@gmail.com",
+      "encrypted_password": "98564816a2c5d05c32d0ab39e0a375ca",
+      "referral_code": "DO2Z4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:56:58.126Z"
     }
   ],
   "withdrawals": [
