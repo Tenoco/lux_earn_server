@@ -23090,10 +23090,12 @@
       "referral_code": "DAZJF",
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
-      "invited_users": [],
+      "invited_users": [
+        "billionsbillions0"
+      ],
       "balance": 210,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:23:38.402Z",
@@ -24818,7 +24820,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Akin",
@@ -25028,6 +25031,21 @@
       "joinDate": "2025-02-21T10:15:02.908Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "billionsbillions0",
+      "email": "akhabuedaniel45@gmail.com",
+      "encrypted_password": "2ba68e35d59a7cc5fcac5d137411c28b",
+      "referral_code": "BICNA",
+      "inviter_referral_code": "DAZJF",
+      "inviter_username": "danieldy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:15:59.006Z"
     }
   ],
   "withdrawals": [
