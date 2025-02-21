@@ -11079,7 +11079,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aramma001 ",
@@ -12360,14 +12361,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:44:21.508Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
