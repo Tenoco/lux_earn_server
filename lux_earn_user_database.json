@@ -38196,7 +38196,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:44:11.199Z"
+      "joinDate": "2025-02-21T22:44:11.199Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blessingj",
+      "email": "blessinglizbethjames@gmail.com",
+      "encrypted_password": "2ccd89b67324dd915dd2d286f613332e",
+      "referral_code": "BL0D7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:44:37.549Z"
     }
   ],
   "withdrawals": [
