@@ -28721,7 +28721,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 175,
+      "balance": 205,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28732,7 +28732,8 @@
         4,
         5,
         2,
-        8
+        8,
+        1
       ],
       "lastSpin": "2025-02-21T11:54:08.980Z"
     },
@@ -30580,7 +30581,8 @@
       "joinDate": "2025-02-21T12:41:55.821Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danbyr",
