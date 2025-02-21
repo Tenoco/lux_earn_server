@@ -14718,11 +14718,12 @@
         "Vicky",
         "Jiggy",
         "Baduku",
-        "Tobiloba"
+        "Tobiloba",
+        "Happiness009"
       ],
       "balance": 100,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -16543,6 +16544,21 @@
       "joinDate": "2025-02-21T07:03:26.874Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Happiness009",
+      "email": "happy444@gmail.com",
+      "encrypted_password": "76024f1cd81488f3e94e386322c59aa3",
+      "referral_code": "HA07U",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:04:09.604Z"
     }
   ],
   "withdrawals": [
