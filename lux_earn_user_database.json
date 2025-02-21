@@ -25473,12 +25473,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:27:30.966Z",
-      "lastSpin": "2025-02-21T10:27:52.953Z",
       "completedMissions": [
         1,
         2,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:27:52.953Z"
     },
     {
       "username": "Fave",
@@ -25488,14 +25488,14 @@
       "inviter_referral_code": "DAC2N",
       "inviter_username": "Daves",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:28:26.238Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T10:31:36.769Z"
     },
     {
       "username": "Kingsco89927",
