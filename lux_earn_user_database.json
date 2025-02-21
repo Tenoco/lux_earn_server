@@ -24999,7 +24999,7 @@
       "inviter_referral_code": "I1BQ6",
       "inviter_username": "I12Livebig",
       "invited_users": [],
-      "balance": 90,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25008,9 +25008,12 @@
       "completedMissions": [
         1,
         5,
-        4
-      ],
-      "lastSpin": null
+        4,
+        2,
+        8,
+        9,
+        3
+      ]
     },
     {
       "username": "Temi29",
@@ -25050,7 +25053,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingiong",
