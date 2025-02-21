@@ -12233,7 +12233,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 95,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12246,7 +12246,9 @@
         6,
         7,
         8,
-        4
+        4,
+        5,
+        9
       ],
       "lastSpin": null
     },
