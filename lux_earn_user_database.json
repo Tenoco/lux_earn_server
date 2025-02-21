@@ -5132,7 +5132,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:02:13.290Z"
+      "joinDate": "2025-02-21T00:02:13.290Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hoyadeji",
+      "email": "hoyadeji@gmail.com",
+      "encrypted_password": "075ed5789abd0dc5784d92b435356419",
+      "referral_code": "HOEJH",
+      "inviter_referral_code": "Kll01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:02:21.760Z"
     }
   ],
   "withdrawals": [
