@@ -37210,10 +37210,12 @@
       "referral_code": "SHTVH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Adeolu"
+      ],
       "balance": 32,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37273,6 +37275,21 @@
       "joinDate": "2025-02-21T21:58:28.142Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adeolu",
+      "email": "Adeolusaheed@gmail.com",
+      "encrypted_password": "29e02c048d6c2b0314674f1d8c504cbe",
+      "referral_code": "AD55Q",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:00:02.886Z"
     }
   ],
   "withdrawals": [
