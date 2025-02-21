@@ -20477,11 +20477,12 @@
         "Danicoko",
         "Gkololo",
         "Luckybad",
-        "Darakitbot "
+        "Darakitbot ",
+        "Danielbadoa"
       ],
       "balance": 250,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -22278,7 +22279,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:06:19.686Z"
+      "joinDate": "2025-02-21T09:06:19.686Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danielbadoa",
+      "email": "badtlo@gmail.com",
+      "encrypted_password": "3469c467a1664b5778aa0fec7e84e3f0",
+      "referral_code": "DAGO5",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:06:39.188Z"
     }
   ],
   "withdrawals": [
