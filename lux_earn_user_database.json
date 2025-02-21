@@ -8868,7 +8868,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:59:36.520Z"
+      "joinDate": "2025-02-21T01:59:36.520Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ramadan432",
+      "email": "elonmuskparody61@gmail.com",
+      "encrypted_password": "dbb3b3c83d6034d54840dbb558c4527c",
+      "referral_code": "RAH53",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:00:01.286Z"
     }
   ],
   "withdrawals": [
