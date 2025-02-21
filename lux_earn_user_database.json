@@ -36067,7 +36067,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:20:41.540Z"
+      "joinDate": "2025-02-21T15:20:41.540Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adam Aremu",
+      "email": "Adamaremu@gmail.com",
+      "encrypted_password": "f8b6177570d93089db13dbcb8909c8fb",
+      "referral_code": "ADIVY",
+      "inviter_referral_code": "Ajfym",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:21:02.697Z"
     }
   ],
   "withdrawals": [
