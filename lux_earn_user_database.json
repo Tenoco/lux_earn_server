@@ -811,7 +811,7 @@
         "Jago123",
         "Jerry14"
       ],
-      "balance": 265,
+      "balance": 295,
       "refers": 20,
       "referralBalance": 2000,
       "withdrawalBalance": 0,
@@ -825,7 +825,8 @@
         3,
         4,
         5,
-        6
+        6,
+        2
       ],
       "lastSpin": null
     },
@@ -22743,7 +22744,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:19:57.217Z"
+      "joinDate": "2025-02-21T09:19:57.217Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
