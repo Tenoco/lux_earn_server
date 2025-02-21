@@ -10330,7 +10330,7 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10338,9 +10338,9 @@
       "joinDate": "2025-02-21T04:15:50.675Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "coddy boy",
@@ -10588,7 +10588,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:22:34.771Z"
+      "joinDate": "2025-02-21T04:22:34.771Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
