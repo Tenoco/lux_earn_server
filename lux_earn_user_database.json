@@ -27026,13 +27026,15 @@
       "inviter_referral_code": "Gdgfgdgugf",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:50:04.851Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-21T23:46:46.299Z"
     },
     {
