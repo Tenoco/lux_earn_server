@@ -12830,7 +12830,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:59:07.481Z"
+      "joinDate": "2025-02-21T05:59:07.481Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Diamondremi98 ",
+      "email": "remidiamond98@gmail.com",
+      "encrypted_password": "e70166ab68a5e6cb64c10534287d16d2",
+      "referral_code": "DI6HM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:59:22.367Z"
     }
   ],
   "withdrawals": [
