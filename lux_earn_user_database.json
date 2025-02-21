@@ -4977,7 +4977,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chindimane",
@@ -5245,6 +5246,21 @@
       "joinDate": "2025-02-21T00:04:10.084Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "PaulPablo ",
+      "email": "alabipaul786@gmail.com",
+      "encrypted_password": "e3075413b168072ffd2d0bd733265dc1",
+      "referral_code": "PA88N",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:04:49.303Z"
     }
   ],
   "withdrawals": [
