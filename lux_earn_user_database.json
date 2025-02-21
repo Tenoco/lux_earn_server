@@ -15507,11 +15507,12 @@
       "invited_users": [
         "Musa sani",
         "Marcusein ",
-        "Ajeboter"
+        "Ajeboter",
+        "SherwinKura"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37217,6 +37218,21 @@
         1
       ],
       "lastSpin": "2025-02-21T17:01:12.882Z"
+    },
+    {
+      "username": "SherwinKura",
+      "email": "SMuhammadkyari@gmail.co",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SHGRI",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:01:47.550Z"
     }
   ],
   "withdrawals": [
