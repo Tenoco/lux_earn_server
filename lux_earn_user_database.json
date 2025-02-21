@@ -24695,10 +24695,12 @@
       "referral_code": "JALJU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Destiny 12"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -25403,6 +25405,21 @@
       "joinDate": "2025-02-21T10:26:00.104Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Destiny 12",
+      "email": "destinyodus22@gmail.com",
+      "encrypted_password": "f1ce3f1c05f5d27fad7aa7379db752a4",
+      "referral_code": "DEH41",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:26:54.865Z"
     }
   ],
   "withdrawals": [
