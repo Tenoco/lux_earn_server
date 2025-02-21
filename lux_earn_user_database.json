@@ -9572,11 +9572,12 @@
       "invited_users": [
         "Adefaz11 ",
         "Esylove ",
-        "Mojiroye "
+        "Mojiroye ",
+        "Tomi123"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -36922,6 +36923,21 @@
       "joinDate": "2025-02-21T15:47:36.408Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tomi123",
+      "email": "mayowatanmiwa@gmail.com",
+      "encrypted_password": "38ad33e2fc083c2843f12f8c6bb6b092",
+      "referral_code": "TO7ZF",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:27:50.097Z"
     }
   ],
   "withdrawals": [
