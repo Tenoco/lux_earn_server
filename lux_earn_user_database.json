@@ -1749,11 +1749,12 @@
         "Ajidex100 ",
         "Ani2005",
         "Moshob",
-        "khenney"
+        "khenney",
+        "Goldenstar "
       ],
       "balance": 275,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10127,7 +10128,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ani2005",
@@ -10217,6 +10219,21 @@
       "joinDate": "2025-02-21T03:54:08.375Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goldenstar ",
+      "email": "ogwaris15@gmail.com",
+      "encrypted_password": "b0721122052af74c7d9289071d315ee0",
+      "referral_code": "GO0MS",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:59:17.324Z"
     }
   ],
   "withdrawals": [
