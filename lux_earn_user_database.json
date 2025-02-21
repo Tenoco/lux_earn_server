@@ -20778,11 +20778,12 @@
         "Danielbadoa",
         "Gokibsvbs",
         "Gojokol",
-        "Holojuk"
+        "Holojuk",
+        "Smartdove23"
       ],
       "balance": 250,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -30504,7 +30505,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sofia",
@@ -30607,6 +30609,21 @@
       "joinDate": "2025-02-21T12:33:22.816Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smartdove23",
+      "email": "bolplooo23@fmail.com",
+      "encrypted_password": "0d02ad8a47fcff976a3d0b4a84e2f678",
+      "referral_code": "SM175",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:34:12.811Z"
     }
   ],
   "withdrawals": [
