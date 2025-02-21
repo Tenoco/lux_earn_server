@@ -1134,11 +1134,12 @@
         "Abdullahi3128",
         "Wonderful ",
         "Noblegrafix",
-        "Dolapo911"
+        "Dolapo911",
+        "Olad "
       ],
       "balance": 295,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:32.858Z",
@@ -9250,7 +9251,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:37:32.880Z"
+      "joinDate": "2025-02-21T02:37:32.880Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olad ",
+      "email": "oladejomartinskoleayo@gmail.com",
+      "encrypted_password": "dc6f86356512deab28c50d0c35a1155f",
+      "referral_code": "OLNTN",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:38:26.625Z"
     }
   ],
   "withdrawals": [
