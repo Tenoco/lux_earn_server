@@ -37246,13 +37246,17 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:06:01.929Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
       "lastSpin": null
     },
     {
