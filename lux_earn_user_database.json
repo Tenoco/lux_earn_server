@@ -15330,11 +15330,12 @@
         "Quintemmy",
         "Joshua okala",
         "Vickzy",
-        "Davolee001"
+        "Davolee001",
+        "Olayinka65"
       ],
       "balance": 380,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -18918,7 +18919,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:44:10.377Z"
+      "joinDate": "2025-02-21T07:44:10.377Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olayinka65",
+      "email": "olayinkahephziba@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "OLSI5",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:44:14.271Z"
     }
   ],
   "withdrawals": [
