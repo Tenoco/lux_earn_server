@@ -16308,14 +16308,16 @@
         "Nuatin11",
         "Tanimowo2587"
       ],
-      "balance": 0,
+      "balance": 38,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T13:47:18.874Z"
     },
     {
       "username": "Singer",
@@ -32732,7 +32734,8 @@
         1,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "SomtyCee",
