@@ -1744,11 +1744,12 @@
         "Steohex ",
         "chukwuma7",
         "Laytua1",
-        "Wade25"
+        "Wade25",
+        "Ajidex100 "
       ],
       "balance": 275,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9920,7 +9921,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:25:40.462Z"
+      "joinDate": "2025-02-21T03:25:40.462Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajidex100 ",
+      "email": "muhammedajibola84@gmail.com",
+      "encrypted_password": "72f6608c220b7d0f283048bc8617d673",
+      "referral_code": "AJJXK",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:26:32.725Z"
     }
   ],
   "withdrawals": [
