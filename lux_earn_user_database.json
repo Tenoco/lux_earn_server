@@ -36939,10 +36939,12 @@
       "referral_code": "VIIZT",
       "inviter_referral_code": "SUMRO",
       "inviter_username": "Successv",
-      "invited_users": [],
+      "invited_users": [
+        "Femzyy"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:50:50.878Z",
@@ -37103,6 +37105,21 @@
       "joinDate": "2025-02-21T18:58:52.789Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Femzyy",
+      "email": "femzzy@gmail.com",
+      "encrypted_password": "e6ffa3aba76fba2df22446a02e16233c",
+      "referral_code": "FEK5P",
+      "inviter_referral_code": "VIIZT",
+      "inviter_username": "Vickyc ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:59:34.735Z"
     }
   ],
   "withdrawals": [
