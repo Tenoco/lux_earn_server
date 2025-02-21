@@ -5472,11 +5472,12 @@
         "Canolata",
         "Callmedad",
         "Thesanny",
-        "Lonlonlee"
+        "Lonlonlee",
+        "Honestly"
       ],
       "balance": 30,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8501,6 +8502,21 @@
       "joinDate": "2025-02-21T01:18:38.410Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Honestly",
+      "email": "konnneysat@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "HOT0H",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:19:41.160Z"
     }
   ],
   "withdrawals": [
