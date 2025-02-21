@@ -20726,20 +20726,21 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": "Sadiqmkyari",
       "invited_users": [],
-      "balance": 155,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
+      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
-        5
-      ],
-      "lastSpin": "2025-02-21T08:22:56.088Z"
+        5,
+        6
+      ]
     },
     {
       "username": "Michael",
