@@ -37363,7 +37363,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:54:11.616Z"
+      "joinDate": "2025-02-21T19:54:11.616Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kimbella",
+      "email": "collinsifeanyi382@gmail.com",
+      "encrypted_password": "85af89ea580fd814078bd0881f276b0b",
+      "referral_code": "KIKUN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:55:00.930Z"
     }
   ],
   "withdrawals": [
