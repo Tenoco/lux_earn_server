@@ -24820,11 +24820,12 @@
         "Joshua",
         "Ayomide23",
         "Tomison23",
-        "Morenikeji22"
+        "Morenikeji22",
+        "Enilex"
       ],
       "balance": 270,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -27704,6 +27705,21 @@
       "joinDate": "2025-02-21T11:16:25.204Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Enilex",
+      "email": "praiseeniolanimi@gmail.com",
+      "encrypted_password": "8adb7dd6ff4ba419a3bc4aa7f52009c4",
+      "referral_code": "ENCOO",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:16:57.299Z"
     }
   ],
   "withdrawals": [
