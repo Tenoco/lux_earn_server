@@ -21638,11 +21638,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [
-        "Princy"
+        "Princy",
+        "nay"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:31:53.943Z",
@@ -38217,6 +38218,21 @@
       "joinDate": "2025-02-21T18:21:38.825Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "nay",
+      "email": "abumornaomi@gmail.com",
+      "encrypted_password": "011b29b6559ed318c57be29dd9bf7a08",
+      "referral_code": "NATRR",
+      "inviter_referral_code": "SHJEM",
+      "inviter_username": "Sharonk ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:24:59.111Z"
     }
   ],
   "withdrawals": [
