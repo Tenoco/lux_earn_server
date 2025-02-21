@@ -37920,7 +37920,8 @@
       "joinDate": "2025-02-21T16:20:32.514Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Judabe",
@@ -37972,6 +37973,21 @@
       "joinDate": "2025-02-21T16:22:07.600Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jamesx",
+      "email": "james635@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "JA3I8",
+      "inviter_referral_code": "AMFOO ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:22:26.768Z"
     }
   ],
   "withdrawals": [
