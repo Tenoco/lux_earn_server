@@ -15511,11 +15511,12 @@
         "Marcusein ",
         "Ajeboter",
         "Manassa",
-        "Sherwin "
+        "Sherwin ",
+        "Saturda"
       ],
       "balance": 328,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37556,6 +37557,21 @@
       "joinDate": "2025-02-21T16:14:01.443Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Saturda",
+      "email": "umarmuhammad12@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SAEW4",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:14:17.831Z"
     }
   ],
   "withdrawals": [
