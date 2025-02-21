@@ -12824,7 +12824,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chris Richalbert ",
@@ -12944,6 +12945,21 @@
       "joinDate": "2025-02-21T06:01:16.593Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Richie bella",
+      "email": "bellarichie955@gmail.com",
+      "encrypted_password": "fd04791012b234e48d348cebb5e18790",
+      "referral_code": "RIWCH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:01:41.870Z"
     }
   ],
   "withdrawals": [
