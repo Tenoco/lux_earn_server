@@ -20376,11 +20376,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "daralola"
+        "daralola",
+        "Smartdara"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21021,6 +21022,21 @@
       "joinDate": "2025-02-21T08:31:21.756Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smartdara",
+      "email": "wumzyforchrist@yahoo.com",
+      "encrypted_password": "71f7dff9a6de41488439d2a45cc5b327",
+      "referral_code": "SMIEF",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:31:49.158Z"
     }
   ],
   "withdrawals": [
