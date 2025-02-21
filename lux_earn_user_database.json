@@ -37481,10 +37481,12 @@
       "referral_code": "VIAWW",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Xena"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:12:03.374Z",
@@ -37593,7 +37595,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jojoera",
@@ -37764,6 +37767,21 @@
       "joinDate": "2025-02-21T22:20:39.682Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Xena",
+      "email": "xena@gmail.com",
+      "encrypted_password": "0beab81acd82ffd1214036318975443d",
+      "referral_code": "XEKJU",
+      "inviter_referral_code": "VIAWW",
+      "inviter_username": "Vickye",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:21:40.179Z"
     }
   ],
   "withdrawals": [
