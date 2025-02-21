@@ -25279,14 +25279,15 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:22:31.794Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Beautykween",
@@ -25318,7 +25319,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:24:52.241Z"
+      "joinDate": "2025-02-21T10:24:52.241Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
