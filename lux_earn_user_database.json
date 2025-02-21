@@ -21418,7 +21418,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 240,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21432,9 +21432,9 @@
         5,
         6,
         8,
-        9
-      ],
-      "lastSpin": null
+        9,
+        7
+      ]
     },
     {
       "username": "Mary.Moses",
