@@ -23291,13 +23291,18 @@
       "inviter_referral_code": "DA2CY",
       "inviter_username": "Davolee001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:28:52.257Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        9,
+        9
+      ],
       "lastSpin": null
     },
     {
@@ -23615,7 +23620,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:38:13.869Z"
+      "joinDate": "2025-02-21T09:38:13.869Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
