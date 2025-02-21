@@ -24817,7 +24817,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Akin",
@@ -25008,6 +25009,21 @@
       "joinDate": "2025-02-21T10:14:38.521Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fhavour ",
+      "email": "mosesfavour487@gmail.com",
+      "encrypted_password": "1e285b3ddd8eff1609c5df0122befb9a",
+      "referral_code": "FHVHX",
+      "inviter_referral_code": "Magob",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:15:02.908Z"
     }
   ],
   "withdrawals": [
