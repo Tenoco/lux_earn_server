@@ -12440,12 +12440,11 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Ogrchukwu",
-        "Okoro -Ephenus favour "
+        "Ogrchukwu"
       ],
-      "balance": 100,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 120,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:31:17.898Z",
@@ -12454,7 +12453,7 @@
         7,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T17:17:33.391Z"
     },
     {
       "username": "Aliyos",
