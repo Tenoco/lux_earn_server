@@ -30719,11 +30719,12 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [
-        "Funmi"
+        "Funmi",
+        "Iremide"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:44:28.975Z",
@@ -31192,7 +31193,8 @@
       "joinDate": "2025-02-21T12:57:55.957Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Peace87g",
@@ -31278,6 +31280,21 @@
       "joinDate": "2025-02-21T13:02:00.729Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iremide",
+      "email": "iremidekush@gmail.com",
+      "encrypted_password": "b8762782a4b301bdfd98370442921b4d",
+      "referral_code": "IRBEW",
+      "inviter_referral_code": "DO3E9",
+      "inviter_username": "Dollypee",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:02:28.223Z"
     }
   ],
   "withdrawals": [
