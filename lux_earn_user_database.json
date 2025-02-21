@@ -18306,7 +18306,8 @@
         4,
         4,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Beryl ",
@@ -18442,14 +18443,20 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:32:58.768Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        4,
+        3,
+        6
+      ],
+      "lastSpin": "2025-02-21T07:36:47.678Z"
     },
     {
       "username": "Niffyy ",
