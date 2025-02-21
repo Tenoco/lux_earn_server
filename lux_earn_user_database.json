@@ -37735,7 +37735,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:17:19.614Z"
+      "joinDate": "2025-02-21T16:17:19.614Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Asiyamhussai",
+      "email": "mhussainasiya@gmail.com",
+      "encrypted_password": "fd52d5f651dbabb90d884b9e4b03789f",
+      "referral_code": "AS80J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:17:32.916Z"
     }
   ],
   "withdrawals": [
