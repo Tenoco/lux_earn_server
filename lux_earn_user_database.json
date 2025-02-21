@@ -792,11 +792,12 @@
         "Firstmanoneart",
         "Vickiejone",
         "Adewoye Fikayomi ",
-        "Seyifunmi"
+        "Seyifunmi",
+        "Benjaminprince"
       ],
       "balance": 265,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -17375,6 +17376,21 @@
       "joinDate": "2025-02-21T07:17:07.518Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Benjaminprince",
+      "email": "Ugwu2893@gmail.com",
+      "encrypted_password": "a629ce6cee060db46900967cb2ed9427",
+      "referral_code": "BEJNX",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:17:31.782Z"
     }
   ],
   "withdrawals": [
