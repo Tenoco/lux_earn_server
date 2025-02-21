@@ -10041,7 +10041,7 @@
       "inviter_referral_code": " OL6TF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10052,7 +10052,8 @@
         2,
         3,
         8,
-        7
+        7,
+        6
       ],
       "lastSpin": null
     },
@@ -10142,7 +10143,8 @@
       "joinDate": "2025-02-21T03:45:17.275Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
