@@ -16493,7 +16493,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tobiloba",
@@ -16875,14 +16876,16 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T07:09:26.650Z"
+      "lastSpin": "2025-02-21T07:09:26.650Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Tong",
