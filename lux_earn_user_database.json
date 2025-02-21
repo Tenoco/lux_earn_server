@@ -4929,7 +4929,8 @@
         4,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samuel1 ",
@@ -5305,14 +5306,16 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        5,
+        4
+      ]
     },
     {
       "username": "LAGACONCEPT ",
