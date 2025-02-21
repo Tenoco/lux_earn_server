@@ -21108,7 +21108,8 @@
       "joinDate": "2025-02-21T08:33:22.920Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Laminboi",
@@ -21177,6 +21178,21 @@
       "joinDate": "2025-02-21T08:34:29.862Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Stella Chigozie ",
+      "email": "ebukaogadi452@gmail.com",
+      "encrypted_password": "70387d300ee9e057674f95e17c9a509c",
+      "referral_code": "ST7K7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:35:14.764Z"
     }
   ],
   "withdrawals": [
