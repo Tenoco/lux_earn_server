@@ -12072,7 +12072,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:30:15.033Z"
+      "joinDate": "2025-02-21T05:30:15.033Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Basheet",
+      "email": "basheetadebayo201@gmail.com",
+      "encrypted_password": "1de9fef61a88097488f409d26490073f",
+      "referral_code": "BAKRH",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:36:35.372Z"
     }
   ],
   "withdrawals": [
