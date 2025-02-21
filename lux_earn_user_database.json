@@ -5797,13 +5797,16 @@
       "inviter_referral_code": "ANJQD ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:23.579Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -5955,7 +5958,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:15:48.906Z"
+      "joinDate": "2025-02-21T00:15:48.906Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
