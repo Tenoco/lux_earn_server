@@ -35241,7 +35241,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "AKA1 ",
@@ -35436,14 +35437,14 @@
       "inviter_referral_code": "CHDBE",
       "inviter_username": "Chinenyefavour",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:00:59.771Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:01:54.150Z"
     }
   ],
   "withdrawals": [
