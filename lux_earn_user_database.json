@@ -11345,7 +11345,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:14:33.041Z"
+      "joinDate": "2025-02-21T05:14:33.041Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kazeem1212",
+      "email": "segunkazeem111@gmail.com",
+      "encrypted_password": "874b570fec0cd4b100f15db025342b3b",
+      "referral_code": "KAGK9",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:14:59.470Z"
     }
   ],
   "withdrawals": [
