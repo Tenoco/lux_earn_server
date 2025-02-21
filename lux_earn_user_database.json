@@ -11949,10 +11949,12 @@
       "referral_code": "WIJNH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ogrchukwu"
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:31:17.898Z",
@@ -12224,7 +12226,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:40:28.305Z"
+      "joinDate": "2025-02-21T05:40:28.305Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ogrchukwu",
+      "email": "now997088@gmail.com",
+      "encrypted_password": "8c5a8c919565b3b6d721794e184b1290",
+      "referral_code": "OG8IT",
+      "inviter_referral_code": "WIJNH",
+      "inviter_username": "Wisdom",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:40:56.128Z"
     }
   ],
   "withdrawals": [
