@@ -33094,7 +33094,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:57:39.389Z"
+      "joinDate": "2025-02-21T13:57:39.389Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fakamni Benjamin",
+      "email": "benjaminfakanbi22@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "FAUMW",
+      "inviter_referral_code": "Benjamin",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:58:09.745Z"
     }
   ],
   "withdrawals": [
