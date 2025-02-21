@@ -6218,11 +6218,12 @@
       "invited_users": [
         "habeeb ",
         "Washington ",
-        "please "
+        "please ",
+        "important"
       ],
       "balance": 290,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -7175,7 +7176,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:41:47.457Z"
+      "joinDate": "2025-02-21T00:41:47.457Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "important",
+      "email": "abdulrahmanhabeeb514@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "IMZ0G",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:41:50.179Z"
     }
   ],
   "withdrawals": [
