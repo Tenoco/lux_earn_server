@@ -8659,7 +8659,8 @@
         7,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Okezies",
@@ -8726,6 +8727,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Justin ",
+      "email": "justicewilliam959@gmail.com",
+      "encrypted_password": "2e496a54d139a2cf3f0a2d4f871c63e3",
+      "referral_code": "JUE0E",
+      "inviter_referral_code": "https://luxearn0.netlify.app",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:47:34.852Z"
     }
   ],
   "withdrawals": [
