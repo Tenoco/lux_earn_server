@@ -28783,7 +28783,7 @@
       "inviter_referral_code": "Chjwk",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28791,9 +28791,9 @@
       "joinDate": "2025-02-21T11:47:47.842Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Hojolo",
@@ -29665,7 +29665,8 @@
         6,
         6,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Issabella",
