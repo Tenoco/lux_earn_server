@@ -17642,14 +17642,15 @@
       "inviter_referral_code": "SHR06",
       "inviter_username": "shoyomboizhaq1@gmail.com",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:20:48.936Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        3
+      ]
     },
     {
       "username": "Osungade praise ",
@@ -17749,7 +17750,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:21:59.608Z"
+      "joinDate": "2025-02-21T07:21:59.608Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
