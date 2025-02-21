@@ -27754,7 +27754,7 @@
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27763,7 +27763,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": "2025-02-21T11:17:32.559Z"
     },
