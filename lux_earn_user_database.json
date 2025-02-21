@@ -1757,11 +1757,12 @@
         "Olazzy01",
         "Shinningglory",
         "coddy boy",
-        "Clintonosas"
+        "Clintonosas",
+        "Only1Jare"
       ],
       "balance": 275,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10613,7 +10614,8 @@
         2,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "chiboy73",
@@ -10648,6 +10650,21 @@
       "joinDate": "2025-02-21T04:21:31.085Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Only1Jare",
+      "email": "adedotunoguns45@gmail.com",
+      "encrypted_password": "02b96948119aafe8f71b47e11c52e93e",
+      "referral_code": "ONZ6R",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:21:46.991Z"
     }
   ],
   "withdrawals": [
