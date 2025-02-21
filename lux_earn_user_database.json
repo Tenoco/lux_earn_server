@@ -14910,7 +14910,7 @@
         "Mustyzai",
         "folorunshosg"
       ],
-      "balance": 151,
+      "balance": 181,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -14921,7 +14921,8 @@
         2,
         3,
         4,
-        5
+        5,
+        6
       ],
       "lastSpin": "2025-02-21T08:18:02.837Z"
     },
@@ -20735,7 +20736,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:23:31.004Z"
+      "joinDate": "2025-02-21T08:23:31.004Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
