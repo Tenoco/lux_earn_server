@@ -1398,11 +1398,12 @@
         "Izzymoney ",
         "Teeprime",
         "Kulumfestus",
-        "monday22"
+        "monday22",
+        "Laskid037 "
       ],
       "balance": 88,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -34699,7 +34700,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shedrack Jerry",
@@ -34768,6 +34770,21 @@
       "joinDate": "2025-02-21T14:41:21.774Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Laskid037 ",
+      "email": "okopidesting037@gmail.com",
+      "encrypted_password": "688c09d6d6c9feea402850f52e86fb0c",
+      "referral_code": "LA2FX",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:42:16.048Z"
     }
   ],
   "withdrawals": [
