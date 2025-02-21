@@ -865,11 +865,12 @@
         "Moneyman",
         "Psblo",
         "Marvi",
-        "daniel2027_Â£$"
+        "daniel2027_Â£$",
+        "daniel2027_£$"
       ],
       "balance": 163,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -11076,7 +11077,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:06:20.435Z"
+      "joinDate": "2025-02-21T05:06:20.435Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "daniel2027_£$",
+      "email": "danielclarke123567@gmail.com",
+      "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
+      "referral_code": "DAH4W",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:07:04.033Z"
     }
   ],
   "withdrawals": [
