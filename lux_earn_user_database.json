@@ -26105,11 +26105,12 @@
         "Yusuf Ali",
         "Bossbabyni",
         "Adeolusarah",
-        "Peace out"
+        "Peace out",
+        "Jimmy"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -33510,6 +33511,21 @@
       "joinDate": "2025-02-21T14:10:38.445Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jimmy",
+      "email": "jimhotboy@gmail.com",
+      "encrypted_password": "34d80211e6226b2b0e2703b42b1a74d7",
+      "referral_code": "JIWYQ",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:11:17.767Z"
     }
   ],
   "withdrawals": [
