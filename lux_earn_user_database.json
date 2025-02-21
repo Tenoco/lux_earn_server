@@ -11242,7 +11242,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 130,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13212,10 +13212,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
-      "lastSpin": "2025-02-21T06:07:57.807Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:07:57.807Z"
     },
     {
       "username": "Rossy ",
@@ -13822,6 +13822,16 @@
       "phoneNumber": "08055738339",
       "amount": 30,
       "timestamp": "2025-02-21T06:09:50.065Z",
+      "status": "pending"
+    },
+    {
+      "username": "Asad0766",
+      "email": "ahmadasad0766@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "08061713231",
+      "amount": 130,
+      "timestamp": "2025-02-21T06:10:46.233Z",
       "status": "pending"
     }
   ]
