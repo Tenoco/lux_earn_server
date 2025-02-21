@@ -32311,16 +32311,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:35:08.827Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Markito",
@@ -32437,7 +32437,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:38:07.610Z"
+      "joinDate": "2025-02-21T13:38:07.610Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
