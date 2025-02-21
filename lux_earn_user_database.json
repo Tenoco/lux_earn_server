@@ -34313,7 +34313,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:28:13.178Z"
+      "joinDate": "2025-02-21T14:28:13.178Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Horlamilekam",
+      "email": "abdullahihorlamilekan1@gmail.com",
+      "encrypted_password": "83c4338f98a15da0452c77a4542f37c7",
+      "referral_code": "HOR9O",
+      "inviter_referral_code": "Imx21",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:28:49.868Z"
     }
   ],
   "withdrawals": [
