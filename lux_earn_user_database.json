@@ -6240,11 +6240,12 @@
         "important",
         "coin ",
         "games",
-        "abdulrahma"
+        "abdulrahma",
+        "ashing"
       ],
       "balance": 290,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -7698,7 +7699,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:56:30.477Z"
+      "joinDate": "2025-02-21T00:56:30.477Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ashing",
+      "email": "abdulrahmanhabeeb914@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "ASF27",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:56:48.680Z"
     }
   ],
   "withdrawals": [
