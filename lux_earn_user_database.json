@@ -16658,14 +16658,13 @@
       "inviter_referral_code": "MAQEG ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:05:19.539Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:06:06.029Z"
     },
     {
       "username": "Michael maxwell",
@@ -16714,7 +16713,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:06:06.980Z"
+      "joinDate": "2025-02-21T07:06:06.980Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
