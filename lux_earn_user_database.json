@@ -4257,11 +4257,12 @@
         "Amygrace",
         "Armsty2",
         "Opemipoo",
-        "smizy"
+        "smizy",
+        "Matthew Frosh"
       ],
       "balance": 295,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22815,7 +22816,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:20:53.643Z"
+      "joinDate": "2025-02-21T09:20:53.643Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Matthew Frosh",
+      "email": "taiwomathew474@gmail.com",
+      "encrypted_password": "8689ecd2b911ee36a7a0af116de89542",
+      "referral_code": "MAYFF",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:21:26.279Z"
     }
   ],
   "withdrawals": [
