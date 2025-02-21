@@ -18562,7 +18562,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ifeoluwa",
@@ -18747,6 +18748,21 @@
       "joinDate": "2025-02-21T07:40:34.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Minnah12",
+      "email": "aminatayomide647@gmail.com",
+      "encrypted_password": "6a60bc759aef07203a9ad03225a06eeb",
+      "referral_code": "MIR7J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:40:48.494Z"
     }
   ],
   "withdrawals": [
