@@ -17542,19 +17542,21 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 150,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:19:19.853Z",
+      "lastSpin": "2025-02-21T07:23:19.414Z",
       "completedMissions": [
         1,
         1,
         1,
-        2
-      ],
-      "lastSpin": "2025-02-21T07:23:19.414Z"
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Miracle 123",
@@ -17920,7 +17922,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:25:47.730Z"
+      "joinDate": "2025-02-21T07:25:47.730Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
