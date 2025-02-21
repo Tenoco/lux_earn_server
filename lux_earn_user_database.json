@@ -15851,11 +15851,12 @@
         "Rockzymalone",
         "Shedrack Jerry",
         "Ojoare Rasheed Olaniyi ",
-        "faith"
+        "faith",
+        "bamisebi"
       ],
       "balance": 380,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -37696,7 +37697,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:16:09.306Z"
+      "joinDate": "2025-02-21T16:16:09.306Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "bamisebi",
+      "email": "rahmonbamisebi116@gmail.com",
+      "encrypted_password": "230f0811bf795a8e804fb47beddefb81",
+      "referral_code": "BAV6D",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:16:31.587Z"
     }
   ],
   "withdrawals": [
