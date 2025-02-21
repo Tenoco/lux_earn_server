@@ -77,11 +77,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech"
+        "Tech",
+        "App"
       ],
       "balance": 4000,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -37222,6 +37223,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:37:36.029Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T19:40:09.942Z"
     },
     {
@@ -37240,6 +37242,21 @@
       "joinDate": "2025-02-21T19:39:52.061Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "App",
+      "email": "apple@apple.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "APBLN",
+      "inviter_referral_code": "TEQZ9",
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:34:55.559Z"
     }
   ],
   "withdrawals": [
