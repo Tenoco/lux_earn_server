@@ -37216,14 +37216,13 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:37:36.029Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T19:40:09.942Z"
     },
     {
       "username": "Cedan",
@@ -37238,7 +37237,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:39:52.061Z"
+      "joinDate": "2025-02-21T19:39:52.061Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
