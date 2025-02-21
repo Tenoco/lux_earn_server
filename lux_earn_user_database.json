@@ -20083,16 +20083,17 @@
       "inviter_referral_code": "OFP5T",
       "inviter_username": "officialrollex",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:07:36.282Z",
+      "lastSpin": "2025-02-21T08:08:33.572Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T08:08:33.572Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Haidar007",
