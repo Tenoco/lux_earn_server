@@ -289,11 +289,12 @@
         "BOUCK",
         "silas olamide",
         "Mamabby",
-        "Femi235"
+        "Femi235",
+        "daniee250"
       ],
       "balance": 235,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -13442,6 +13443,21 @@
       "joinDate": "2025-02-21T06:10:51.903Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "daniee250",
+      "email": "oluwatobilobaayomide975@gmail.com",
+      "encrypted_password": "e8ffe08265cb5cddd590b34bc634c397",
+      "referral_code": "DAY2X",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:11:09.959Z"
     }
   ],
   "withdrawals": [
