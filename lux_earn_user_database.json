@@ -16477,11 +16477,12 @@
       "invited_users": [
         "Zealkreation",
         "abbaadamulawal",
-        "Kokos8"
+        "Kokos8",
+        "Adeeye Esther Omolayo "
       ],
       "balance": 30,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -22134,7 +22135,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "LEOMEGAPLEX ",
@@ -22186,6 +22188,21 @@
       "joinDate": "2025-02-21T09:03:12.980Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adeeye Esther Omolayo ",
+      "email": "adeeyeesther45@gmail.com",
+      "encrypted_password": "0ff74f0d050b3b8cfe653a1fc80fba4d",
+      "referral_code": "ADG2B",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:04:15.657Z"
     }
   ],
   "withdrawals": [
