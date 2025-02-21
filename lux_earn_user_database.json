@@ -10284,7 +10284,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "coddy boy",
@@ -10542,6 +10543,21 @@
       "joinDate": "2025-02-21T04:22:34.771Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Odera",
+      "email": "divayagold@gmail.com",
+      "encrypted_password": "9aaae82d4b32dcfcc3928d9b52084e8c",
+      "referral_code": "ODWXP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:23:53.013Z"
     }
   ],
   "withdrawals": [
