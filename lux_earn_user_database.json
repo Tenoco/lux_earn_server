@@ -5352,11 +5352,12 @@
         "Ismail",
         "Camela",
         "Wantala",
-        "Fantana"
+        "Fantana",
+        "Karenn"
       ],
       "balance": 260,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5799,13 +5800,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:55.517Z",
-      "lastSpin": "2025-02-21T00:14:32.302Z",
       "completedMissions": [
         5,
         4,
         3,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T00:14:32.302Z"
     },
     {
       "username": "Zord",
@@ -6061,6 +6062,21 @@
       "joinDate": "2025-02-21T00:18:42.885Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Karenn",
+      "email": "kamenridersin@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "KAW1M",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:19:00.411Z"
     }
   ],
   "withdrawals": [
