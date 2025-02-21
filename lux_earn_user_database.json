@@ -25368,11 +25368,12 @@
       "invited_users": [
         "Becky ",
         "Aisha",
-        "Oluwajoy"
+        "Oluwajoy",
+        "Dammy "
       ],
       "balance": 420,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -31457,6 +31458,21 @@
       "joinDate": "2025-02-21T13:06:54.965Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dammy ",
+      "email": "aishabdulhakeem200q@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "DAVYM",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:08:32.079Z"
     }
   ],
   "withdrawals": [
