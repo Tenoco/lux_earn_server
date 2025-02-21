@@ -3901,11 +3901,12 @@
         "Olasunmbo",
         "Zeemah",
         "Wilson wildcard ",
-        "Adewale Kabirat "
+        "Adewale Kabirat ",
+        "Ellachidalu"
       ],
       "balance": 50,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -38190,7 +38191,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:19:37.463Z"
+      "joinDate": "2025-02-21T18:19:37.463Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ellachidalu",
+      "email": "Chidaluella01@gmail.com",
+      "encrypted_password": "114e0ad06eb5b2f43824be34d2d980fc",
+      "referral_code": "ELI28",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:21:38.825Z"
     }
   ],
   "withdrawals": [
