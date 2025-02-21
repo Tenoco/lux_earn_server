@@ -4917,10 +4917,12 @@
       "referral_code": "TH1KK",
       "inviter_referral_code": "SHNDD",
       "inviter_username": "Shegzzy Media",
-      "invited_users": [],
+      "invited_users": [
+        "big ben 031"
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -5446,7 +5448,8 @@
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oyin",
@@ -5585,6 +5588,21 @@
       "joinDate": "2025-02-21T00:11:31.578Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "big ben 031",
+      "email": "aud031fjkly@gmail.com",
+      "encrypted_password": "16a184900e65893e7454404138e61b25",
+      "referral_code": "BI8SZ",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:11:44.361Z"
     }
   ],
   "withdrawals": [
