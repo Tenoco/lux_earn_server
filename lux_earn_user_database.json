@@ -10740,11 +10740,12 @@
         "Hamzzy",
         "Treasure Joshua ",
         "Ajibola",
-        "Chulnafi2"
+        "Chulnafi2",
+        "Wisco124"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -32675,7 +32676,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:46:11.738Z"
+      "joinDate": "2025-02-21T13:46:11.738Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wisco124",
+      "email": "wisdomehimen@gmail.com",
+      "encrypted_password": "e6ce0babd7277a54e9239e35a3b313c7",
+      "referral_code": "WI6DW",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:46:15.040Z"
     }
   ],
   "withdrawals": [
