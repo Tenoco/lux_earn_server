@@ -22326,11 +22326,12 @@
         "Austa",
         "Mwawawa ",
         "edukeitemjames",
-        "sallee"
+        "sallee",
+        "Amarachi "
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -35697,7 +35698,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:07:23.911Z",
-      "lastSpin": "2025-02-21T15:08:02.471Z",
       "completedMissions": [
         1,
         2,
@@ -35710,7 +35710,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:08:02.471Z"
     },
     {
       "username": "sallee",
@@ -35762,6 +35763,21 @@
       "joinDate": "2025-02-21T15:10:50.879Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T15:11:36.028Z"
+    },
+    {
+      "username": "Amarachi ",
+      "email": "amarachionyedumezie@gmail.com",
+      "encrypted_password": "c6445caea7b97ab2fa0df4d53468401a",
+      "referral_code": "AM0PL",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:12:52.478Z"
     }
   ],
   "withdrawals": [
