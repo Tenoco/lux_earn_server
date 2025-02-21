@@ -852,11 +852,12 @@
         "Loverboy",
         "Micheally1234",
         "Sasana",
-        "Elizamio "
+        "Elizamio ",
+        "issyemmie"
       ],
       "balance": 295,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -37788,7 +37789,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:23:39.833Z"
+      "joinDate": "2025-02-21T20:23:39.833Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "issyemmie",
+      "email": "i41972090@gmail.com",
+      "encrypted_password": "235a17dc6ed9d1aa28639c033b1b324a",
+      "referral_code": "ISTUE",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:24:33.935Z"
     }
   ],
   "withdrawals": [
