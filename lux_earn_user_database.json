@@ -19344,14 +19344,16 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:50:04.582Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2
       ],
       "lastSpin": null
     },
@@ -20087,10 +20089,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:07:36.282Z",
-      "lastSpin": "2025-02-21T08:08:33.572Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:08:33.572Z"
     },
     {
       "username": "Haidar007",
