@@ -18874,7 +18874,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:43:23.233Z"
+      "joinDate": "2025-02-21T07:43:23.233Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gboymartins",
+      "email": "gboymartins90@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "GBAFX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:43:27.946Z"
     }
   ],
   "withdrawals": [
