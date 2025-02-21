@@ -14728,7 +14728,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:37:28.730Z"
+      "joinDate": "2025-02-21T06:37:28.730Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "gabsondigit1",
+      "email": "gabsvenom4@gmail.com",
+      "encrypted_password": "a66a0bb8c60a53dfbe41233eade13e76",
+      "referral_code": "GAN12",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:37:42.592Z"
     }
   ],
   "withdrawals": [
