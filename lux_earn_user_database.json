@@ -14663,17 +14663,17 @@
       "inviter_referral_code": "DAY2X",
       "inviter_username": "daniee250",
       "invited_users": [
-        "Folake",
-        "Edehsamuel132",
-        "Shade"
+        "Folake"
       ],
-      "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "balance": 10,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
-      "completedMissions": [],
+      "completedMissions": [
+        7
+      ],
       "lastSpin": null
     },
     {
