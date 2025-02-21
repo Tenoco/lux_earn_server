@@ -37199,14 +37199,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:37:01.130Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T19:38:25.254Z"
     },
     {
       "username": "Elizamio ",
@@ -37221,7 +37220,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:37:36.029Z"
+      "joinDate": "2025-02-21T19:37:36.029Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
