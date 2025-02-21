@@ -14127,11 +14127,12 @@
         "Bigmide1912",
         "Omomide1",
         "wisdom",
-        "Natsume "
+        "Natsume ",
+        "Brainiac"
       ],
       "balance": 25,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -27147,7 +27148,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:59:12.800Z"
+      "joinDate": "2025-02-21T10:59:12.800Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Brainiac",
+      "email": "oluwanifemimodupeoluwa317@gmail.com",
+      "encrypted_password": "9756ab6eea2c6c300aeb5c312858a44c",
+      "referral_code": "BREHI",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:59:21.235Z"
     }
   ],
   "withdrawals": [
