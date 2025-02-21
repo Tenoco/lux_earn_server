@@ -37478,14 +37478,15 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:29:51.734Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "P777",
@@ -37500,7 +37501,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:30:43.196Z"
+      "joinDate": "2025-02-21T17:30:43.196Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
