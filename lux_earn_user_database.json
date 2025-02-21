@@ -37045,7 +37045,8 @@
         2,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oluwadamilola25 ",
@@ -37063,6 +37064,21 @@
       "joinDate": "2025-02-21T21:24:54.579Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "honey",
+      "email": "ayomideoxy@gmail.com",
+      "encrypted_password": "e231a571c085aab2e949ac7589e2331a",
+      "referral_code": "HOW5P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:29:06.600Z"
     }
   ],
   "withdrawals": [
