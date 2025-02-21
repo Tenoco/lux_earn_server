@@ -23255,7 +23255,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 270,
+      "balance": 340,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23270,9 +23270,11 @@
         3,
         3,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5,
+        6,
+        7
+      ]
     },
     {
       "username": "Abbatioo1",
