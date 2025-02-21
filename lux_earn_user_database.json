@@ -24696,16 +24696,17 @@
       "referral_code": "JALJU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [
-        "Destiny 12"
-      ],
-      "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 80,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": "2025-02-21T10:07:08.976Z"
     },
     {
