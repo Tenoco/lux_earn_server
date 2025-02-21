@@ -2492,7 +2492,7 @@
         "Ayelabowo",
         "Bayo430"
       ],
-      "balance": 280,
+      "balance": -720,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -37373,6 +37373,17 @@
       "amount": 1000,
       "totalBalance": 220,
       "timestamp": "2025-02-21T21:50:41.547Z",
+      "status": "pending"
+    },
+    {
+      "username": "Abdul230",
+      "email": "abdulakeemsulyman55@gmail.com",
+      "accountName": "Abdulakeem Aibinu sulyman ",
+      "accountNumber": "8086960767",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 280,
+      "timestamp": "2025-02-21T22:01:40.775Z",
       "status": "pending"
     }
   ],
