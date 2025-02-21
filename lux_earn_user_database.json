@@ -271,11 +271,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Patience "
+        "Patience ",
+        "Victory"
       ],
       "balance": 270,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:51.502Z",
@@ -22492,6 +22493,21 @@
       "joinDate": "2025-02-21T09:12:26.809Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victory",
+      "email": "simonvictory272@gmail.com",
+      "encrypted_password": "4eddc2b1487a15c3feb61e8702568d2c",
+      "referral_code": "VIIAL",
+      "inviter_referral_code": "RET0G",
+      "inviter_username": "Revival",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:13:18.297Z"
     }
   ],
   "withdrawals": [
