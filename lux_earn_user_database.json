@@ -28670,7 +28670,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:47:47.842Z"
+      "joinDate": "2025-02-21T11:47:47.842Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hojolo",
+      "email": "volamjio@gmail.com",
+      "encrypted_password": "a7b64d35d0904fa0f5530152fe1a0fa8",
+      "referral_code": "HOEMR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:48:00.525Z"
     }
   ],
   "withdrawals": [
