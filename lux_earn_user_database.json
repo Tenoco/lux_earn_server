@@ -13685,11 +13685,12 @@
         "krrishna",
         "Esther56 ",
         "WizzyMikeAel ",
-        "Glory55"
+        "Glory55",
+        "Kel225"
       ],
       "balance": 220,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -18160,7 +18161,8 @@
         8,
         9,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Femzico ",
@@ -18405,6 +18407,21 @@
       "joinDate": "2025-02-21T07:33:35.998Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kel225",
+      "email": "kellyandrew619@icloud.com",
+      "encrypted_password": "dee7a88a1c75725c63f3731bc63d544f",
+      "referral_code": "KEJGU",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:34:15.490Z"
     }
   ],
   "withdrawals": [
