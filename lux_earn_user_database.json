@@ -11907,14 +11907,18 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:30:29.624Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Ramseey",
@@ -12391,7 +12395,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:47:13.130Z"
+      "joinDate": "2025-02-21T05:47:13.130Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
