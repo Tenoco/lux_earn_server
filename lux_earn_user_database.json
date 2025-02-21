@@ -19118,10 +19118,12 @@
       "referral_code": "GBAFX",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Boss1 "
+      ],
       "balance": 228,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -21402,6 +21404,21 @@
       "joinDate": "2025-02-21T08:40:53.074Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Boss1 ",
+      "email": "gboymartins95@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "BOP8I",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:41:16.920Z"
     }
   ],
   "withdrawals": [
