@@ -19861,11 +19861,12 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [
-        "ayomide"
+        "ayomide",
+        "Oladipupo "
       ],
       "balance": 30,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -32207,7 +32208,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:32:39.139Z"
+      "joinDate": "2025-02-21T13:32:39.139Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oladipupo ",
+      "email": "kaypomping2@gmail.com",
+      "encrypted_password": "f115e9a94d98b11bb5580875264154e3",
+      "referral_code": "OLY8Y",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:32:53.755Z"
     }
   ],
   "withdrawals": [
