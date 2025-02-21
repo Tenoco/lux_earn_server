@@ -4725,11 +4725,12 @@
         "Storm",
         "Quam",
         "Tunde",
-        "Nick"
+        "Nick",
+        "Mikky"
       ],
       "balance": 25,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -8331,7 +8332,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:14:18.665Z"
+      "joinDate": "2025-02-21T01:14:18.665Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mikky",
+      "email": "Michael07@gmail.com",
+      "encrypted_password": "eac520f811867428de8c12c879a44c50",
+      "referral_code": "MIPDA",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:14:33.591Z"
     }
   ],
   "withdrawals": [
