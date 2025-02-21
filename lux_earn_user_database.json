@@ -14908,11 +14908,12 @@
         "Pearl",
         "Tommy",
         "Mustyzai",
-        "folorunshosg"
+        "folorunshosg",
+        "Michael"
       ],
       "balance": 91,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -20694,7 +20695,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:22:25.626Z"
+      "joinDate": "2025-02-21T08:22:25.626Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Michael",
+      "email": "michaelterungwa35@gmail.com",
+      "encrypted_password": "339fbb2efdbd5e3b0b18e934bb5e984b",
+      "referral_code": "MIF46",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:22:40.263Z"
     }
   ],
   "withdrawals": [
