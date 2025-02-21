@@ -14584,7 +14584,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aibeeyusufk",
@@ -16026,14 +16027,15 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:42.182Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "WizzyMikeAel ",
