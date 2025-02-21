@@ -38300,7 +38300,7 @@
       "inviter_referral_code": "2244",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 115,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38902,6 +38902,16 @@
       "phoneNumber": "08160186949",
       "amount": 200,
       "timestamp": "2025-02-21T22:30:19.653Z",
+      "status": "pending"
+    },
+    {
+      "username": "Talented22",
+      "email": "sthankgod860@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "08086509312",
+      "amount": 100,
+      "timestamp": "2025-02-21T23:06:06.212Z",
       "status": "pending"
     }
   ]
