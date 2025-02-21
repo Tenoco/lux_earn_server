@@ -4624,11 +4624,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Nuel"
+        "Nuel",
+        "Oyin"
       ],
       "balance": 325,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -5405,7 +5406,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:08:36.785Z"
+      "joinDate": "2025-02-21T00:08:36.785Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyin",
+      "email": "oyinlolapelumi93@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "OY80O",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:08:39.126Z"
     }
   ],
   "withdrawals": [
