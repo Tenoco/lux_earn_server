@@ -3500,11 +3500,12 @@
       "invited_users": [
         "Stephanie",
         "Kelvin ",
-        "Dë Dë Õffíçïãl "
+        "Dë Dë Õffíçïãl ",
+        "Eze Kenneth "
       ],
       "balance": 265,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -28387,7 +28388,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:40:26.470Z"
+      "joinDate": "2025-02-21T11:40:26.470Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Eze Kenneth ",
+      "email": "ezekenneth@gmail.com",
+      "encrypted_password": "3474923c75e7a99389488de66109f367",
+      "referral_code": "EZCUB",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:40:33.093Z"
     }
   ],
   "withdrawals": [
