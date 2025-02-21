@@ -34970,7 +34970,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:46:30.601Z"
+      "joinDate": "2025-02-21T14:46:30.601Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "noelnelson ",
+      "email": "noelnelsonwole10@gmail.com",
+      "encrypted_password": "cbe53069341c303f04a9daa77abac325",
+      "referral_code": "NO3YV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:46:40.621Z"
     }
   ],
   "withdrawals": [
