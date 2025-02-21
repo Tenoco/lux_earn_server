@@ -13659,11 +13659,12 @@
         "Johnson26",
         "krrishna",
         "Esther56 ",
-        "WizzyMikeAel "
+        "WizzyMikeAel ",
+        "Glory55"
       ],
       "balance": 220,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -17434,7 +17435,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:18:31.426Z"
+      "joinDate": "2025-02-21T07:18:31.426Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Glory55",
+      "email": "glo44@gmail.com",
+      "encrypted_password": "6cd5f3e6d5f285f82ec3c351faa42294",
+      "referral_code": "GLFCH",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:18:40.100Z"
     }
   ],
   "withdrawals": [
