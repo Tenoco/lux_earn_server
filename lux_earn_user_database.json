@@ -36934,14 +36934,15 @@
       "inviter_referral_code": "QRXQ6",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:38:23.206Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Cuttly",
@@ -37007,7 +37008,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:39:56.126Z"
+      "joinDate": "2025-02-21T16:39:56.126Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
