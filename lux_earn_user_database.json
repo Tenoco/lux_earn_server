@@ -34696,10 +34696,12 @@
       "referral_code": "JOM7Z",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Inert "
+      ],
       "balance": 125,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:32:11.803Z",
@@ -37892,7 +37894,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:02:23.060Z"
+      "joinDate": "2025-02-21T18:02:23.060Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Inert ",
+      "email": "daluchibueze7@gmail.com",
+      "encrypted_password": "073f01a69cb2c7440dc776bedf67f234",
+      "referral_code": "INI0M",
+      "inviter_referral_code": "JOM7Z",
+      "inviter_username": "Jokybill",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:02:41.641Z"
     }
   ],
   "withdrawals": [
