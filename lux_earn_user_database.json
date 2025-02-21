@@ -27834,11 +27834,12 @@
       "inviter_username": "Oladelefrosh",
       "invited_users": [
         "Odubiyi nofiu",
-        "Alnasiry0"
+        "Alnasiry0",
+        "Abdul ganiu"
       ],
       "balance": 550,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -33648,6 +33649,21 @@
       "joinDate": "2025-02-21T14:13:22.083Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdul ganiu",
+      "email": "abdulganiujimoh903@gmail.com",
+      "encrypted_password": "bac36ebba22ecf5227fdf5eb95e7524c",
+      "referral_code": "ABQM3",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": "Nabeelo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:13:56.553Z"
     }
   ],
   "withdrawals": [
