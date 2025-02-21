@@ -29395,11 +29395,12 @@
       "inviter_username": null,
       "invited_users": [
         "Flexxdee",
-        "Emmabtc "
+        "Emmabtc ",
+        "YoungLite"
       ],
       "balance": 280,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
@@ -32694,7 +32695,8 @@
         5,
         6,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hay_bee291",
@@ -33203,6 +33205,21 @@
       "joinDate": "2025-02-21T14:01:31.525Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "YoungLite",
+      "email": "tomosoribukola@gmail.com",
+      "encrypted_password": "be1767212ea4a8525b4cc543e3189973",
+      "referral_code": "YOCOH",
+      "inviter_referral_code": "PRFPU",
+      "inviter_username": "Princesspromise",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:03:00.698Z"
     }
   ],
   "withdrawals": [
