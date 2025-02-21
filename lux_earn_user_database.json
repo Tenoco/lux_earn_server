@@ -4717,7 +4717,7 @@
       "inviter_referral_code": "OL6TF ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4729,9 +4729,10 @@
         3,
         4,
         5,
-        7
-      ],
-      "lastSpin": null
+        7,
+        6,
+        8
+      ]
     },
     {
       "username": "Emmanuel24",
