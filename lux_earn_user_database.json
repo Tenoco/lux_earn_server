@@ -13058,7 +13058,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:03:06.776Z"
+      "joinDate": "2025-02-21T06:03:06.776Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "lupeace",
+      "email": "lupeace4real@gmail.com",
+      "encrypted_password": "56941209e60401301ec9724dd4bc0479",
+      "referral_code": "LUNKM",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:03:13.823Z"
     }
   ],
   "withdrawals": [
