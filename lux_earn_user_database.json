@@ -2113,14 +2113,15 @@
       "inviter_referral_code": "SAHU4",
       "inviter_username": "Saint ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:18:46.079Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
