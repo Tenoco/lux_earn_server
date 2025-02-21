@@ -15612,10 +15612,12 @@
       "referral_code": "KRJ56",
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
-      "invited_users": [],
+      "invited_users": [
+        "Olasmatt"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:46:04.809Z",
@@ -21659,6 +21661,21 @@
       "joinDate": "2025-02-21T08:47:06.641Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olasmatt",
+      "email": "olaoluwolemathew@gmail.com",
+      "encrypted_password": "270fd03366dd1a3fa97df736e8bb4982",
+      "referral_code": "OLM5Q",
+      "inviter_referral_code": "KRJ56",
+      "inviter_username": "krrishna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:47:56.156Z"
     }
   ],
   "withdrawals": [
