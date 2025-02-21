@@ -37001,14 +37001,18 @@
       "inviter_referral_code": "WI21P",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:52:43.258Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "semiuazeez131",
@@ -37040,7 +37044,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:54:37.308Z"
+      "joinDate": "2025-02-21T18:54:37.308Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
