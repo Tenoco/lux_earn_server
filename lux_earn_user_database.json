@@ -9379,11 +9379,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Adefaz11 "
+        "Adefaz11 ",
+        "Esylove "
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -20575,6 +20576,21 @@
       "joinDate": "2025-02-21T08:19:21.587Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esylove ",
+      "email": "igangaesther613@gmail.com",
+      "encrypted_password": "0bb8ca15c2fb29108f3a22e5737a65cb",
+      "referral_code": "ES9UK",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:20:12.857Z"
     }
   ],
   "withdrawals": [
