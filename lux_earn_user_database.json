@@ -22515,10 +22515,12 @@
       "referral_code": "IZU1Y",
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
-      "invited_users": [],
+      "invited_users": [
+        "Benny"
+      ],
       "balance": 430,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:58:58.867Z",
@@ -37256,7 +37258,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:34:55.559Z"
+      "joinDate": "2025-02-21T19:34:55.559Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Benny",
+      "email": "oyinda010@gmail.com",
+      "encrypted_password": "818dee044ed81b82ecc34bab1057baba",
+      "referral_code": "BE5OI",
+      "inviter_referral_code": "IZU1Y",
+      "inviter_username": "Izzymoney ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:42:06.192Z"
     }
   ],
   "withdrawals": [
