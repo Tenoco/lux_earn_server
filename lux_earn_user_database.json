@@ -24565,14 +24565,15 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:54:35.264Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
