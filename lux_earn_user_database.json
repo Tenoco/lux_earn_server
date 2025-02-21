@@ -13060,11 +13060,12 @@
       "invited_users": [
         "Chief ",
         "Goku",
-        "Shakou "
+        "Shakou ",
+        "Chief shakou "
       ],
       "balance": 40,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -14142,7 +14143,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ruka",
@@ -14177,6 +14179,21 @@
       "joinDate": "2025-02-21T06:28:04.686Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T06:28:42.948Z"
+    },
+    {
+      "username": "Chief shakou ",
+      "email": "gokug6198@gmail.com",
+      "encrypted_password": "2e38a94567548f49481db1a557fa8d18",
+      "referral_code": "CHYN9",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:28:28.673Z"
     }
   ],
   "withdrawals": [
