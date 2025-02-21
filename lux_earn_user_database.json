@@ -13626,11 +13626,12 @@
       "invited_users": [
         "Rose55",
         "Johnson26",
-        "krrishna"
+        "krrishna",
+        "Esther56 "
       ],
       "balance": 20,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -15938,6 +15939,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:57:47.494Z"
     },
     {
@@ -15973,6 +15975,21 @@
       "joinDate": "2025-02-21T06:56:47.918Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esther56 ",
+      "email": "estie56@gmail.com",
+      "encrypted_password": "f83f51f0588aba0132c48e4a336b1701",
+      "referral_code": "ESW93",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:03.077Z"
     }
   ],
   "withdrawals": [
