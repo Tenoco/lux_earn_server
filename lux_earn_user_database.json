@@ -3822,11 +3822,12 @@
       "invited_users": [
         "Oyekunle ",
         "Oyinkansola ",
-        "Tolase "
+        "Tolase ",
+        "Abiona123@"
       ],
       "balance": 338,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -38318,6 +38319,21 @@
       "joinDate": "2025-02-21T18:29:43.936Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abiona123@",
+      "email": "israelabiona44@gmail.com",
+      "encrypted_password": "7f18dea896eac82521cecbdcb1783f2e",
+      "referral_code": "AB9WW",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:30:46.231Z"
     }
   ],
   "withdrawals": [
