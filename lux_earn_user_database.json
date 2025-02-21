@@ -24725,11 +24725,12 @@
         "Pqywo",
         "Qyec",
         "Owtv",
-        "Bmai "
+        "Bmai ",
+        "Bmak"
       ],
       "balance": 350,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -26789,7 +26790,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:51:33.754Z"
+      "joinDate": "2025-02-21T10:51:33.754Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bmak",
+      "email": "iqoqp@gmail.com",
+      "encrypted_password": "915cec276b3b56ff044bac2408488a73",
+      "referral_code": "BMOCB",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:51:46.570Z"
     }
   ],
   "withdrawals": [
