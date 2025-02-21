@@ -37494,11 +37494,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Xena"
+        "Xena",
+        "Ononye1"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:12:03.374Z",
@@ -38065,7 +38066,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:32:16.359Z"
+      "joinDate": "2025-02-21T22:32:16.359Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ononye1",
+      "email": "ononye12@gmail.com",
+      "encrypted_password": "43364bba83a7c9fb7e57e3a767632287",
+      "referral_code": "ON6EI",
+      "inviter_referral_code": "VIAWW",
+      "inviter_username": "Vickye",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:32:55.526Z"
     }
   ],
   "withdrawals": [
