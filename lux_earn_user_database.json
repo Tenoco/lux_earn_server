@@ -15851,11 +15851,12 @@
         "Shedrack Jerry",
         "Ojoare Rasheed Olaniyi ",
         "Samuelsmog",
-        "Ini350"
+        "Ini350",
+        "semiuazeez131"
       ],
       "balance": 380,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -38452,7 +38453,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:37:56.101Z"
+      "joinDate": "2025-02-21T18:37:56.101Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "semiuazeez131",
+      "email": "azeezrukayatruth@gmail.com",
+      "encrypted_password": "65d8c32011bac9418dbe306ec493f4e3",
+      "referral_code": "SESF0",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:38:07.366Z"
     }
   ],
   "withdrawals": [
