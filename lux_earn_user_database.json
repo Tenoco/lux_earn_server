@@ -11786,16 +11786,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:26:15.332Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Abraham6693",
@@ -11827,7 +11827,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:29:24.395Z"
+      "joinDate": "2025-02-21T05:29:24.395Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
