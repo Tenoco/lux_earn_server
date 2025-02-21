@@ -25303,10 +25303,12 @@
       "referral_code": "QUD46",
       "inviter_referral_code": "SUB6O",
       "inviter_username": "Sungjinwoo123 ",
-      "invited_users": [],
+      "invited_users": [
+        "Guy"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -27398,7 +27400,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ojiabor",
@@ -27506,6 +27509,21 @@
       "joinDate": "2025-02-21T11:08:59.165Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Guy",
+      "email": "yeheho6452@yalcu.com",
+      "encrypted_password": "5fa0e4382a6eab339c4dae9616d4fb31",
+      "referral_code": "GUUEG",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:10:00.131Z"
     }
   ],
   "withdrawals": [
