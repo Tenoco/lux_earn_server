@@ -13069,7 +13069,8 @@
       "joinDate": "2025-02-21T06:03:06.776Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "lupeace",
@@ -13121,6 +13122,21 @@
       "joinDate": "2025-02-21T06:04:09.879Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kingsley odigbo ",
+      "email": "kingsleyodigbo50@gmail.com",
+      "encrypted_password": "675f5edf12879559414cfb14f424f3d4",
+      "referral_code": "KIV5K",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:05:40.273Z"
     }
   ],
   "withdrawals": [
