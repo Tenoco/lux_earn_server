@@ -37549,10 +37549,12 @@
       "referral_code": "NA8GH",
       "inviter_referral_code": "SHJEM",
       "inviter_username": "Sharonk ",
-      "invited_users": [],
+      "invited_users": [
+        "clet"
+      ],
       "balance": 40,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:04:34.197Z",
@@ -37732,7 +37734,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:20:49.520Z"
+      "joinDate": "2025-02-21T20:20:49.520Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "clet",
+      "email": "abumorcletus@gmail.com",
+      "encrypted_password": "d7ba9b1973832e3c4e36762646699ee6",
+      "referral_code": "CL0LE",
+      "inviter_referral_code": "NA8GH",
+      "inviter_username": "naomi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:22:18.885Z"
     }
   ],
   "withdrawals": [
