@@ -24820,7 +24820,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:09:36.279Z"
+      "joinDate": "2025-02-21T10:09:36.279Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blessing ",
+      "email": "blessingchinemerem921@gmail.com",
+      "encrypted_password": "c01d173eedf04d956d587945cbb7cf35",
+      "referral_code": "BLOWW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:09:50.682Z"
     }
   ],
   "withdrawals": [
