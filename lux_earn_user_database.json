@@ -18687,14 +18687,16 @@
       "inviter_referral_code": "Sawy4",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 31,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:38:38.802Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:39:32.737Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Flavor",
