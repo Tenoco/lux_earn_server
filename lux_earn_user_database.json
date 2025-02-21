@@ -9426,11 +9426,12 @@
       "inviter_username": null,
       "invited_users": [
         "Adefaz11 ",
-        "Esylove "
+        "Esylove ",
+        "Mojiroye "
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -23067,7 +23068,8 @@
       "joinDate": "2025-02-21T09:25:45.163Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sunnyjacs ",
@@ -23170,6 +23172,21 @@
       "joinDate": "2025-02-21T09:27:34.221Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mojiroye ",
+      "email": "mojiroye16@gmail.com",
+      "encrypted_password": "cf72ebd51d59645ef47253115fce20a8",
+      "referral_code": "MOKPR",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:28:08.655Z"
     }
   ],
   "withdrawals": [
