@@ -28353,7 +28353,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:40:18.499Z"
+      "joinDate": "2025-02-21T11:40:18.499Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iwalewa Quadri ",
+      "email": "iwalewaquadri31@gmail.com",
+      "encrypted_password": "371d865fc1278fceb5dbc1924d720418",
+      "referral_code": "IWXMP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:40:22.826Z"
     }
   ],
   "withdrawals": [
