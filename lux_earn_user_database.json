@@ -21302,11 +21302,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Wisdom024"
+        "Wisdom024",
+        "Mr_Nobody"
       ],
       "balance": 18,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:27:18.893Z",
@@ -34488,7 +34489,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:35:08.365Z"
+      "joinDate": "2025-02-21T14:35:08.365Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mr_Nobody",
+      "email": "plsdonthackme596@gmail.com",
+      "encrypted_password": "0f639047a0f2f848113cea28da535706",
+      "referral_code": "MROKL",
+      "inviter_referral_code": "DECIC",
+      "inviter_username": "Debby030",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:35:23.042Z"
     }
   ],
   "withdrawals": [
