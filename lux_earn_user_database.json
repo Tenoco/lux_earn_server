@@ -13002,7 +13002,7 @@
         "Feranmi ",
         "Mazichief "
       ],
-      "balance": 120,
+      "balance": 150,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -13013,7 +13013,8 @@
         2,
         2,
         3,
-        4
+        4,
+        6
       ],
       "lastSpin": null
     },
@@ -14568,7 +14569,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmanuel",
