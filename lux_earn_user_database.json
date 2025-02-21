@@ -14951,14 +14951,16 @@
       "inviter_referral_code": "Form",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:40:46.544Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T06:44:46.747Z"
     },
@@ -15094,7 +15096,8 @@
         5,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Harfizino ",
