@@ -15291,11 +15291,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Quintemmy"
+        "Quintemmy",
+        "Joshua okala"
       ],
       "balance": 380,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -17545,7 +17546,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:19:45.394Z"
+      "joinDate": "2025-02-21T07:19:45.394Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joshua okala",
+      "email": "okalajoshua2019@gmail.com",
+      "encrypted_password": "f48438876307b1eb19d0b21f59437dcf",
+      "referral_code": "JOIIB",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:19:55.849Z"
     }
   ],
   "withdrawals": [
