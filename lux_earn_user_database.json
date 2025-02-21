@@ -14003,14 +14003,16 @@
         "Bigmide1912",
         "Omomide1"
       ],
-      "balance": 0,
+      "balance": 25,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T08:54:51.492Z"
     },
     {
       "username": "Itoro ",
@@ -21918,7 +21920,8 @@
       "completedMissions": [
         9,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Inioluwa ",
