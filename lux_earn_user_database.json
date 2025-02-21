@@ -9582,11 +9582,12 @@
       "invited_users": [
         "Adefaz11 ",
         "Esylove ",
-        "Mojiroye "
+        "Mojiroye ",
+        "Ugochukwu1"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -37782,7 +37783,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:56:58.126Z"
+      "joinDate": "2025-02-21T17:56:58.126Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ugochukwu1",
+      "email": "Ugochukwuanyaegbunam012@gmail.com",
+      "encrypted_password": "322e251ea4967c2489341522fcadba11",
+      "referral_code": "UG2ZD",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:57:27.318Z"
     }
   ],
   "withdrawals": [
