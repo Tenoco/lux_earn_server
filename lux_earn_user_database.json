@@ -22704,11 +22704,12 @@
         "Arausi",
         "Amobi",
         "samueljoeseph",
-        "Smanazceo"
+        "Smanazceo",
+        "Jerry30"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -37747,7 +37748,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:55:18.927Z"
+      "joinDate": "2025-02-21T17:55:18.927Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jerry30",
+      "email": "omobolaji9gh@gmail.com",
+      "encrypted_password": "dbaf60f3a397e1d27630a459c1700ea7",
+      "referral_code": "JETDV",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:56:18.603Z"
     }
   ],
   "withdrawals": [
