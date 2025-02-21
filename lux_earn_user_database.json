@@ -37310,7 +37310,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:43:45.724Z"
+      "joinDate": "2025-02-21T19:43:45.724Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vic2332",
+      "email": "kasefi2119@winsita.com",
+      "encrypted_password": "7b712bedb4891c2fc9db472b973c539f",
+      "referral_code": "VIXLF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:44:18.929Z"
     }
   ],
   "withdrawals": [
