@@ -17124,7 +17124,7 @@
       "inviter_referral_code": "CHVDI",
       "inviter_username": "Chizzy001xyz",
       "invited_users": [],
-      "balance": 250,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17141,7 +17141,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:21:07.537Z"
     },
     {
       "username": "Merrysmart",
@@ -17285,7 +17285,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:15:06.688Z",
-      "lastSpin": "2025-02-21T07:15:57.484Z",
       "completedMissions": [
         1,
         2,
@@ -17296,7 +17295,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:15:57.484Z"
     },
     {
       "username": "And ",
