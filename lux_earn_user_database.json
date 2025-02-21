@@ -20608,7 +20608,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:20:20.464Z"
+      "joinDate": "2025-02-21T08:20:20.464Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ntonold",
+      "email": "ntombiqcinile@gmail.com",
+      "encrypted_password": "3864bd2df05ce48df9890c381d93998a",
+      "referral_code": "NT16P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:20:53.980Z"
     }
   ],
   "withdrawals": [
