@@ -16194,11 +16194,12 @@
       "inviter_username": "JamesCharles",
       "invited_users": [
         "jaytee037",
-        "Mark777"
+        "Mark777",
+        "Victor1227"
       ],
       "balance": 262,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -21727,6 +21728,21 @@
       "joinDate": "2025-02-21T08:48:11.837Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victor1227",
+      "email": "olarindevictor1@gmail.com",
+      "encrypted_password": "f8365e60c09cb72ff566abbc48b42f93",
+      "referral_code": "VIG6S",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:49:11.229Z"
     }
   ],
   "withdrawals": [
