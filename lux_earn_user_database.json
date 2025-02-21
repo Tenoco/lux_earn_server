@@ -12337,7 +12337,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:44:21.508Z"
+      "joinDate": "2025-02-21T05:44:21.508Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iblegend ",
+      "email": "ahmeddanlami2024@gmail.com",
+      "encrypted_password": "55ec829aa204d0b630964d3cc54f4f46",
+      "referral_code": "IB2BN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:44:59.492Z"
     }
   ],
   "withdrawals": [
