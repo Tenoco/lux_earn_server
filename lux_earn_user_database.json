@@ -569,11 +569,12 @@
         "Temu",
         "Adamu",
         "Lami",
-        "Ameenn"
+        "Ameenn",
+        "Yar Hajiya "
       ],
       "balance": 220,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -10837,7 +10838,8 @@
       "completedMissions": [
         2,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yshuaibu",
@@ -10872,6 +10874,21 @@
       "joinDate": "2025-02-21T04:53:27.353Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yar Hajiya ",
+      "email": "kharimatuahmad2003@gmail.com",
+      "encrypted_password": "250df92bdbd1f873de71bd4039227d0a",
+      "referral_code": "YATIV",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:55:47.876Z"
     }
   ],
   "withdrawals": [
