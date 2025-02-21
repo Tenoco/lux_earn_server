@@ -5534,11 +5534,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ogebabe",
-        "Cynbabe"
+        "Cynbabe",
+        "Micheal"
       ],
       "balance": 58,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
@@ -7062,7 +7063,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Elisha ",
@@ -7492,6 +7494,21 @@
       "joinDate": "2025-02-21T00:48:54.613Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Micheal",
+      "email": "michealcynthia010@gmail.com",
+      "encrypted_password": "342b3dda4a73ba2b6db56a3a2e0f73b5",
+      "referral_code": "MIFEX",
+      "inviter_referral_code": "RE2O0",
+      "inviter_username": "realchimzy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:49:35.693Z"
     }
   ],
   "withdrawals": [
