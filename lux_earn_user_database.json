@@ -20211,10 +20211,12 @@
       "referral_code": "PENX7",
       "inviter_referral_code": "WEXRG",
       "inviter_username": "Wealth ",
-      "invited_users": [],
+      "invited_users": [
+        "Samad"
+      ],
       "balance": 390,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:56:13.957Z",
@@ -36919,7 +36921,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:47:36.408Z"
+      "joinDate": "2025-02-21T15:47:36.408Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samad",
+      "email": "samadyusuf79@gmail.com",
+      "encrypted_password": "9aa69cc5175b7240901c05486bd463c1",
+      "referral_code": "SAAU5",
+      "inviter_referral_code": "PENX7",
+      "inviter_username": "Pelumi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:02:02.585Z"
     }
   ],
   "withdrawals": [
