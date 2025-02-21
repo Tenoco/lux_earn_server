@@ -25466,11 +25466,12 @@
         "Wasilat",
         "Bola",
         "Malik",
-        "Wasiu"
+        "Wasiu",
+        "Latif"
       ],
       "balance": 0,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -35414,7 +35415,8 @@
         11,
         11,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny40",
@@ -35534,6 +35536,21 @@
       "joinDate": "2025-02-21T15:03:42.808Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Latif",
+      "email": "rikop19746@dropfam.com",
+      "encrypted_password": "ffe4505e77b0133bb040eb5c2c3db8b8",
+      "referral_code": "LAO3K",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:04:31.509Z"
     }
   ],
   "withdrawals": [
