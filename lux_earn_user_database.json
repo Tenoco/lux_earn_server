@@ -37139,7 +37139,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:55:55.057Z"
+      "joinDate": "2025-02-21T16:55:55.057Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Matthewlee",
+      "email": "adegoketa02@gmail.com",
+      "encrypted_password": "958d680cc6e622673f93987d1b212a64",
+      "referral_code": "MAEJ1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:56:05.828Z"
     }
   ],
   "withdrawals": [
