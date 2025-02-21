@@ -27,11 +27,12 @@
       "invited_users": [
         "Lindley",
         "Israelite ",
-        "shoyomboizhaq1@gmail.com"
+        "shoyomboizhaq1@gmail.com",
+        "Perfectpe"
       ],
       "balance": 5493,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -29610,7 +29611,8 @@
       "joinDate": "2025-02-21T12:09:52.687Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Issabella",
@@ -29628,6 +29630,21 @@
       "joinDate": "2025-02-21T12:10:20.188Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T12:10:25.535Z"
+    },
+    {
+      "username": "Perfectpe",
+      "email": "adeyemoperfect@gmail.com",
+      "encrypted_password": "7adfca2f2aba4cd301a02b9f33ca9037",
+      "referral_code": "PE0WU",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:11:07.983Z"
     }
   ],
   "withdrawals": [
