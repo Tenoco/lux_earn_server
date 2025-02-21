@@ -16808,11 +16808,12 @@
         "Young",
         "Daniel",
         "Abelgebriel",
-        "Chiamakachi"
+        "Chiamakachi",
+        "Henryjohn"
       ],
       "balance": 280,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36259,7 +36260,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:24:22.899Z"
+      "joinDate": "2025-02-21T15:24:22.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Henryjohn",
+      "email": "henryjohn@gmail.com",
+      "encrypted_password": "06b7e464ca0b0dc3049a26c422e0fa8b",
+      "referral_code": "HEZQT",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:24:21.225Z"
     }
   ],
   "withdrawals": [
