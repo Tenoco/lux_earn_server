@@ -19727,10 +19727,12 @@
       "referral_code": "BIAWR",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Eze Ebuka"
+      ],
       "balance": 45,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:18.443Z",
@@ -23487,6 +23489,21 @@
       "joinDate": "2025-02-21T09:34:54.013Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eze Ebuka",
+      "email": "ezeebuka089@gmail.com",
+      "encrypted_password": "adbd2d6984ac18cc10bbea92aa86fdb3",
+      "referral_code": "EZ9R9",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": "BigNachi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:35:43.069Z"
     }
   ],
   "withdrawals": [
