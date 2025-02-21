@@ -1141,11 +1141,12 @@
         "KaydeeX",
         "Kingsiology ",
         "Tabzzy",
-        "cryptomannia"
+        "cryptomannia",
+        "Blacklord55"
       ],
       "balance": 315,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -13457,7 +13458,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:11:09.959Z"
+      "joinDate": "2025-02-21T06:11:09.959Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blacklord55",
+      "email": "ayotomiwav02@gmail.com",
+      "encrypted_password": "7d354edb7425a2e051652efe5d7d0b7f",
+      "referral_code": "BLVAP",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:11:24.102Z"
     }
   ],
   "withdrawals": [
