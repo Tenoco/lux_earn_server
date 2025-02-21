@@ -37220,11 +37220,12 @@
       "invited_users": [
         "Adeolu",
         "Zuliybaby",
-        "Emmanuelsho"
+        "Emmanuelsho",
+        "Adetutumi"
       ],
       "balance": 32,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37598,7 +37599,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:17:12.053Z"
+      "joinDate": "2025-02-21T22:17:12.053Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adetutumi",
+      "email": "adetutufo@gmail.com",
+      "encrypted_password": "fd8d27efadff1565101530e0c0370fb5",
+      "referral_code": "ADKBT",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:17:38.020Z"
     }
   ],
   "withdrawals": [
