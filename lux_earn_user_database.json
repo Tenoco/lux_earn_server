@@ -34223,13 +34223,15 @@
       "inviter_referral_code": "CHMIG ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:26:24.410Z",
-      "completedMissions": [],
+      "completedMissions": [
+        9
+      ],
       "lastSpin": null
     },
     {
@@ -34330,7 +34332,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:28:49.868Z"
+      "joinDate": "2025-02-21T14:28:49.868Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
