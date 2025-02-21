@@ -6654,7 +6654,8 @@
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Segun",
@@ -6672,6 +6673,21 @@
       "joinDate": "2025-02-21T00:28:54.719Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "virgils60",
+      "email": "abuolotuemmanuel@gmail.com",
+      "encrypted_password": "e536b086e389b53fa2819f4cf2ccd91a",
+      "referral_code": "VI3MW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:29:49.835Z"
     }
   ],
   "withdrawals": [
