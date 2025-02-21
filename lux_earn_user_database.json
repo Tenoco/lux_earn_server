@@ -255,11 +255,12 @@
         "Annabel",
         "Whiteinnocent",
         "Whiteinnocentcrypto",
-        "Chibuzor"
+        "Chibuzor",
+        "demmy"
       ],
       "balance": 195,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -29267,6 +29268,21 @@
       "joinDate": "2025-02-21T12:02:32.496Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "demmy",
+      "email": "demiladedurowoju63@gmail.com",
+      "encrypted_password": "a64c9e98476ec57c83b6edcdc6f76f74",
+      "referral_code": "DEXPJ",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:03:39.962Z"
     }
   ],
   "withdrawals": [
