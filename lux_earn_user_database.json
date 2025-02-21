@@ -31322,7 +31322,7 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 70,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31331,7 +31331,8 @@
       "completedMissions": [
         5,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": null
     },
