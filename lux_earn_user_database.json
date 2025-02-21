@@ -24683,11 +24683,12 @@
       "inviter_username": "Darahnny",
       "invited_users": [
         "Vgfak",
-        "Yachqn"
+        "Yachqn",
+        "Iwppw"
       ],
       "balance": 350,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -26098,7 +26099,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:40:28.387Z"
+      "joinDate": "2025-02-21T10:40:28.387Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iwppw",
+      "email": "uwoqp@gmail.com",
+      "encrypted_password": "b4b9ce1e99590e1a9667274be0ba0a28",
+      "referral_code": "IWXKH",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:40:40.492Z"
     }
   ],
   "withdrawals": [
