@@ -36981,7 +36981,8 @@
         11,
         10,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dora",
@@ -37262,6 +37263,21 @@
       "joinDate": "2025-02-21T16:06:02.016Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vaskid",
+      "email": "omololu367@gmail.com",
+      "encrypted_password": "caa63c7c084b5ae954d5645cf622944a",
+      "referral_code": "VAU0W",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:07:50.297Z"
     }
   ],
   "withdrawals": [
