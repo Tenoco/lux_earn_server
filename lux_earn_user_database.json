@@ -26844,7 +26844,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:53:08.876Z"
+      "joinDate": "2025-02-21T10:53:08.876Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aleresegun",
+      "email": "sundayalere@gmail.com",
+      "encrypted_password": "d6b5cf0cd2bddadd204670e0dc602e88",
+      "referral_code": "ALHQA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:53:17.716Z"
     }
   ],
   "withdrawals": [
