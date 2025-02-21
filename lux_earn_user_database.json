@@ -22775,11 +22775,12 @@
         "nariamatt60",
         "favour01234",
         "godsave",
-        "zoeswanky "
+        "zoeswanky ",
+        "Donprince141"
       ],
       "balance": 190,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -32693,7 +32694,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:46:15.040Z"
+      "joinDate": "2025-02-21T13:46:15.040Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Donprince141",
+      "email": "muhammadgaming814@gmail.com",
+      "encrypted_password": "275df2439667a2b014f62d48d6841a29",
+      "referral_code": "DOR4T",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:46:23.825Z"
     }
   ],
   "withdrawals": [
