@@ -24964,14 +24964,16 @@
       "inviter_referral_code": "CYPEY",
       "inviter_username": "Cyfer4pf",
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:09:36.279Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -25911,7 +25913,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:36:27.140Z"
+      "joinDate": "2025-02-21T10:36:27.140Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
