@@ -14667,11 +14667,12 @@
       "inviter_referral_code": "DAY2X",
       "inviter_username": "daniee250",
       "invited_users": [
-        "Folake"
+        "Folake",
+        "Hannahbella"
       ],
       "balance": 10,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -15451,7 +15452,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:49:51.180Z"
+      "joinDate": "2025-02-21T06:49:51.180Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hannahbella",
+      "email": "bellahannah55@gmail.con",
+      "encrypted_password": "a790b75b933e70ff7c35624a09e34f92",
+      "referral_code": "HAZA3",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:50:02.814Z"
     }
   ],
   "withdrawals": [
