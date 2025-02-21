@@ -6778,14 +6778,16 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 50,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:29:19.129Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        4,
+        6
+      ]
     },
     {
       "username": "phoenix28",
@@ -7251,7 +7253,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:42:52.300Z"
+      "joinDate": "2025-02-21T00:42:52.300Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
