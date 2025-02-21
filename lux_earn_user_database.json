@@ -3608,10 +3608,12 @@
       "referral_code": "SEIKW",
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
-      "invited_users": [],
+      "invited_users": [
+        "Oluwavictor"
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -9936,7 +9938,8 @@
         1,
         2,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ajidex100 ",
@@ -9993,6 +9996,21 @@
       "joinDate": "2025-02-21T03:32:04.684Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oluwavictor",
+      "email": "vog070548@gmail.com",
+      "encrypted_password": "f60c2038df2e3e686415f8b709f41b0a",
+      "referral_code": "OLSE2",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:34:02.792Z"
     }
   ],
   "withdrawals": [
