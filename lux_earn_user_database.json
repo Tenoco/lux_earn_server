@@ -13216,11 +13216,12 @@
         "willsmith234",
         "Adamsa1",
         "AyoRichee ",
-        "Haidar007"
+        "Haidar007",
+        "Bright002"
       ],
       "balance": 251,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -23527,6 +23528,21 @@
       "joinDate": "2025-02-21T09:35:52.224Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bright002",
+      "email": "finecountrybright2@gmail.com",
+      "encrypted_password": "965f6561cd6ba49de11b18e5be322718",
+      "referral_code": "BRRID",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:36:42.617Z"
     }
   ],
   "withdrawals": [
