@@ -12995,11 +12995,12 @@
       "inviter_username": "Babal112",
       "invited_users": [
         "Feranmi ",
-        "Mazichief "
+        "Mazichief ",
+        "Gaius velji "
       ],
       "balance": 90,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -14425,7 +14426,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:33:05.527Z"
+      "joinDate": "2025-02-21T06:33:05.527Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gaius velji ",
+      "email": "veljigaius@gmail.com",
+      "encrypted_password": "ae27bd8d5b0dac8820c33d1e5f019081",
+      "referral_code": "GAFCU",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:33:36.629Z"
     }
   ],
   "withdrawals": [
