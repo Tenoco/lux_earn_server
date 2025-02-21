@@ -13793,14 +13793,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:20:04.814Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T06:20:34.496Z"
+      "lastSpin": "2025-02-21T06:20:34.496Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Peller",
@@ -13883,7 +13885,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:22:35.017Z"
+      "joinDate": "2025-02-21T06:22:35.017Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
