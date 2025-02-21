@@ -13285,11 +13285,12 @@
         "AyoRichee ",
         "Haidar007",
         "Bright002",
-        "Mansur2994"
+        "Mansur2994",
+        "Charmor"
       ],
       "balance": 251,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -31956,6 +31957,21 @@
       "joinDate": "2025-02-21T13:26:17.653Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Charmor",
+      "email": "esunshi@gmail.com",
+      "encrypted_password": "1721ea3c93259c8a07b2de1ce59add37",
+      "referral_code": "CHDLD",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:26:43.438Z"
     }
   ],
   "withdrawals": [
