@@ -4721,11 +4721,12 @@
         "Vick",
         "Willy",
         "Storm",
-        "Quam"
+        "Quam",
+        "Tunde"
       ],
       "balance": 25,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -8134,7 +8135,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:10:27.849Z"
+      "joinDate": "2025-02-21T01:10:27.849Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tunde",
+      "email": "teunday07@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "TUVRD",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:11:00.273Z"
     }
   ],
   "withdrawals": [
