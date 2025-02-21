@@ -4266,11 +4266,12 @@
         "Yemie990@gmail.com",
         "Azuma ",
         "Wumzy",
-        "Sunnyjacs "
+        "Sunnyjacs ",
+        "Jerryjj"
       ],
       "balance": 295,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -23073,7 +23074,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ayenieliezer@gmil.com",
@@ -23381,6 +23383,21 @@
       "joinDate": "2025-02-21T09:33:02.835Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jerryjj",
+      "email": "jeremiahattah46@gmail.com",
+      "encrypted_password": "e8dbc2e71ae3ac39dbbeeab88c634631",
+      "referral_code": "JEUK4",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:34:10.423Z"
     }
   ],
   "withdrawals": [
