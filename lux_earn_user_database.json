@@ -6685,11 +6685,12 @@
         "Flight ",
         "Song",
         "phoenix59",
-        "Yhaam"
+        "Yhaam",
+        "Hamin"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7649,6 +7650,21 @@
       "joinDate": "2025-02-21T00:55:17.888Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hamin",
+      "email": "chigm@gmail.com",
+      "encrypted_password": "aca9966873e21f972ce7b38526d2964b",
+      "referral_code": "HA9K4",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:56:07.320Z"
     }
   ],
   "withdrawals": [
