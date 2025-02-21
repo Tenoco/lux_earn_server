@@ -22818,11 +22818,12 @@
       "inviter_username": null,
       "invited_users": [
         "nariamatt60",
-        "favour01234"
+        "favour01234",
+        "godsave"
       ],
       "balance": 190,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -29330,7 +29331,8 @@
         2,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Princesspromise",
@@ -29519,6 +29521,21 @@
       "joinDate": "2025-02-21T12:08:57.455Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "godsave",
+      "email": "godsaveifeanyi234@gmail.com",
+      "encrypted_password": "568604296cdb40c3eff501ccaea3bb41",
+      "referral_code": "GON4Q",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:09:09.415Z"
     }
   ],
   "withdrawals": [
