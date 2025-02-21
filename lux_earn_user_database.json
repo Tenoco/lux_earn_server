@@ -16593,7 +16593,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:04:29.452Z"
+      "joinDate": "2025-02-21T07:04:29.452Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lily",
+      "email": "elizabethesibia042@gmail.com",
+      "encrypted_password": "21f279021611db88989ace22b163a67f",
+      "referral_code": "LIP8Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:04:35.768Z"
     }
   ],
   "withdrawals": [
