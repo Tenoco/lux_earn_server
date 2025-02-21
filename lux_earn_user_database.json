@@ -18429,10 +18429,12 @@
       "referral_code": "MUHMN",
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
-      "invited_users": [],
+      "invited_users": [
+        "Manhattanzai"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:31:52.303Z",
@@ -18503,7 +18505,8 @@
         2,
         9,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kel225",
@@ -18705,6 +18708,21 @@
       "joinDate": "2025-02-21T07:39:35.343Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Manhattanzai",
+      "email": "Manhatttan90@gmail.com",
+      "encrypted_password": "5d0383707976680f2859ac85cd907814",
+      "referral_code": "MA09H",
+      "inviter_referral_code": "MUHMN",
+      "inviter_username": "Mustyzai",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:39:57.283Z"
     }
   ],
   "withdrawals": [
