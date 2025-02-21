@@ -13764,11 +13764,12 @@
         "Sandra",
         "Hannah ",
         "Hannahp",
-        "Cherrixy"
+        "Cherrixy",
+        "Folake "
       ],
       "balance": 160,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -38210,7 +38211,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:32:34.235Z"
+      "joinDate": "2025-02-21T16:32:34.235Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Folake ",
+      "email": "folake3246@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "FOIG4",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:32:56.262Z"
     }
   ],
   "withdrawals": [
