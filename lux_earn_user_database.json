@@ -11407,11 +11407,12 @@
         "Ifeoluwa",
         "Endure",
         "maxj5049",
-        "Amaka"
+        "Amaka",
+        "Valva"
       ],
       "balance": 200,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -33492,6 +33493,21 @@
       "joinDate": "2025-02-21T14:09:52.607Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Valva",
+      "email": "coachvictor421@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "VAOGD",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:10:38.445Z"
     }
   ],
   "withdrawals": [
