@@ -824,11 +824,12 @@
         "Jago123",
         "Jerry14",
         "Olamokas",
-        "Coachwisdom "
+        "Coachwisdom ",
+        "Loverboy"
       ],
       "balance": 295,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -28740,6 +28741,21 @@
       "joinDate": "2025-02-21T11:49:26.612Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Loverboy",
+      "email": "blackburz2010@gmail.com",
+      "encrypted_password": "55ee7d085b9d66c25bbd67d512e16bf1",
+      "referral_code": "LO3N5",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:50:42.086Z"
     }
   ],
   "withdrawals": [
