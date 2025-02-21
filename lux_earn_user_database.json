@@ -17725,7 +17725,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "shoyombo02@gmail.com",
@@ -19056,6 +19057,21 @@
       "joinDate": "2025-02-21T07:46:55.486Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iremidemedia",
+      "email": "yahyaazeezat9@gmail.com",
+      "encrypted_password": "f17289e4ab8803fd535b93c36fa2a9ba",
+      "referral_code": "IRZJL",
+      "inviter_referral_code": "SGhupUQK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:47:06.023Z"
     }
   ],
   "withdrawals": [
