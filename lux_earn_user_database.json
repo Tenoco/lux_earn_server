@@ -4972,11 +4972,12 @@
         "Jude 032",
         "ruby alex3",
         "tob y 32",
-        "mich 5 di"
+        "mich 5 di",
+        "nyat t5"
       ],
       "balance": 255,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -6610,7 +6611,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:27:50.403Z"
+      "joinDate": "2025-02-21T00:27:50.403Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "nyat t5",
+      "email": "gilberthartford121@gmail.com",
+      "encrypted_password": "c6711c24c913bbdfec54db8f4f92b863",
+      "referral_code": "NYWH3",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:28:11.848Z"
     }
   ],
   "withdrawals": [
