@@ -11748,13 +11748,16 @@
       "invited_users": [
         "Ohldsoja"
       ],
-      "balance": 50,
+      "balance": 110,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:15:55.793Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -31330,7 +31333,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:02:49.073Z"
+      "joinDate": "2025-02-21T13:02:49.073Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
