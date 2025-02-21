@@ -22275,10 +22275,12 @@
       "referral_code": "CHDBE",
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
-      "invited_users": [],
+      "invited_users": [
+        "Austa"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -34954,6 +34956,21 @@
       "joinDate": "2025-02-21T14:44:48.802Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Austa",
+      "email": "obi871154@gmail.com",
+      "encrypted_password": "3e578fa5d872adc340f2b2e0aad1e8fe",
+      "referral_code": "AUOTO",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:46:30.601Z"
     }
   ],
   "withdrawals": [
