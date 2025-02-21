@@ -28824,14 +28824,16 @@
       "inviter_referral_code": "Day2x",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:51:43.209Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T11:52:38.845Z"
     },
