@@ -38396,7 +38396,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:57:42.679Z"
+      "joinDate": "2025-02-21T20:57:42.679Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danoye ",
+      "email": "danieloyejobi@gmail.com",
+      "encrypted_password": "882ecf659728a611c33d9f052ce0d2f6",
+      "referral_code": "DA10B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:58:12.654Z"
     }
   ],
   "withdrawals": [
