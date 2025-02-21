@@ -31910,13 +31910,22 @@
       "inviter_referral_code": "IRZJL",
       "inviter_username": "Iremidemedia",
       "invited_users": [],
-      "balance": 0,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:25:30.352Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
