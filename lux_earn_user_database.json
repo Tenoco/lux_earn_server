@@ -32602,11 +32602,12 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [
-        "Opemiposi045"
+        "Opemiposi045",
+        "Akorede"
       ],
       "balance": 180,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:42:02.652Z",
@@ -33299,6 +33300,21 @@
       "joinDate": "2025-02-21T14:05:32.547Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akorede",
+      "email": "akoredemi007@gmail.com",
+      "encrypted_password": "eb9fe2e33e9b05c15768cbd04e388292",
+      "referral_code": "AKXGR",
+      "inviter_referral_code": "AJFYM",
+      "inviter_username": "Ajibola",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:05:39.893Z"
     }
   ],
   "withdrawals": [
