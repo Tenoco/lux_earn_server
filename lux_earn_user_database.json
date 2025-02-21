@@ -19360,11 +19360,12 @@
         "Jog",
         "God33",
         "Hod001",
-        "God0003"
+        "God0003",
+        "You223344"
       ],
       "balance": 232,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:41:06.812Z",
@@ -29462,7 +29463,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:08:16.738Z"
+      "joinDate": "2025-02-21T12:08:16.738Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "You223344",
+      "email": "kehindeanjor613@gmail.com",
+      "encrypted_password": "46a9373047b005717a6d3c894a1faa01",
+      "referral_code": "YO4ZN",
+      "inviter_referral_code": "JEE49",
+      "inviter_username": "Jesterdust12345",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:08:47.422Z"
     }
   ],
   "withdrawals": [
