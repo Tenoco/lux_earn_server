@@ -19132,11 +19132,12 @@
       "inviter_referral_code": "VIRFJ",
       "inviter_username": "Vickiejone",
       "invited_users": [
-        "Pelumi"
+        "Pelumi",
+        "Ble3766"
       ],
       "balance": 242,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:34:31.028Z",
@@ -37276,7 +37277,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:42:06.192Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T19:42:48.858Z"
+    },
+    {
+      "username": "Ble3766",
+      "email": "ble3766@gmail.com",
+      "encrypted_password": "04e2442c5b46b6bf929a132d26dde56c",
+      "referral_code": "BL29V",
+      "inviter_referral_code": "RACZK",
+      "inviter_username": "Racheal ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:43:00.171Z"
     }
   ],
   "withdrawals": [
