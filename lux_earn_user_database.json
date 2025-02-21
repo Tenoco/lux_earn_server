@@ -10228,10 +10228,12 @@
       "referral_code": "ORMB3",
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
-      "invited_users": [],
+      "invited_users": [
+        "orengo 7"
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:15:50.675Z",
@@ -10270,7 +10272,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Demilogo",
@@ -10591,6 +10594,21 @@
       "joinDate": "2025-02-21T04:27:00.619Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "orengo 7",
+      "email": "lewietruman@mail.com",
+      "encrypted_password": "5c04e5292bb5bbeaa45bdff8a35de73b",
+      "referral_code": "ORR5F",
+      "inviter_referral_code": "ORMB3",
+      "inviter_username": "Orengo",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:30:54.156Z"
     }
   ],
   "withdrawals": [
