@@ -26225,7 +26225,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:42:07.730Z"
+      "joinDate": "2025-02-21T10:42:07.730Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "donatussaawuan@gmail.com",
+      "email": "donatussaawuan@gmail.com",
+      "encrypted_password": "6a09f8e4876c44e1037e2b5169e7f632",
+      "referral_code": "DOOBZ",
+      "inviter_referral_code": "BONOX",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:42:20.597Z"
     }
   ],
   "withdrawals": [
