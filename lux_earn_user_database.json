@@ -5473,11 +5473,12 @@
       "invited_users": [
         "Cannel",
         "domdresin",
-        "Ismail"
+        "Ismail",
+        "Camela"
       ],
       "balance": 260,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -5875,10 +5876,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:55.517Z",
-      "lastSpin": "2025-02-21T00:14:32.302Z",
       "completedMissions": [
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T00:14:32.302Z"
     },
     {
       "username": "Zord",
@@ -5981,6 +5982,21 @@
       "joinDate": "2025-02-21T00:16:08.900Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Camela",
+      "email": "Camelaiscanne@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "CAWTE",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:16:22.701Z"
     }
   ],
   "withdrawals": [
