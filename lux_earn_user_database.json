@@ -9019,11 +9019,12 @@
       "inviter_username": null,
       "invited_users": [
         "ayo515",
-        "Gft2221"
+        "Gft2221",
+        "Alfa Mihatu "
       ],
       "balance": 192,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:55:49.237Z",
@@ -37104,6 +37105,21 @@
       "joinDate": "2025-02-21T16:52:33.914Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alfa Mihatu ",
+      "email": "h8721555@gmail.com",
+      "encrypted_password": "6a1b9d03d3c1d145f39d3e6463a82297",
+      "referral_code": "AL5OS",
+      "inviter_referral_code": "AD98M",
+      "inviter_username": "Adewumi212",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:53:03.522Z"
     }
   ],
   "withdrawals": [
