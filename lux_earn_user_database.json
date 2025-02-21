@@ -15017,11 +15017,12 @@
         "Divine ",
         "Jibola",
         "Ashabi",
-        "Wiskid"
+        "Wiskid",
+        "Sunho"
       ],
       "balance": 300,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -37049,6 +37050,21 @@
       "joinDate": "2025-02-21T16:42:05.869Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sunho",
+      "email": "feteti5424@yalcu.com",
+      "encrypted_password": "90afe12799ad85c16f5e6acb5029af3a",
+      "referral_code": "SUPSN",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:43:29.781Z"
     }
   ],
   "withdrawals": [
