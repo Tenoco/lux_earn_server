@@ -15511,11 +15511,12 @@
         "Marcusein ",
         "Ajeboter",
         "SherwinKura",
-        "Kausar"
+        "Kausar",
+        "dayanthe "
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37288,7 +37289,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:06:25.805Z"
+      "joinDate": "2025-02-21T17:06:25.805Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "dayanthe ",
+      "email": "taslan@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "DAV10",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:06:49.126Z"
     }
   ],
   "withdrawals": [
