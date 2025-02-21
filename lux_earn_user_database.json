@@ -11560,7 +11560,8 @@
       "joinDate": "2025-02-21T05:20:52.035Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Destiny56",
@@ -11663,6 +11664,21 @@
       "joinDate": "2025-02-21T05:22:53.995Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Immaculate70",
+      "email": "Immaculateumeh70@gmail.com",
+      "encrypted_password": "e492fd3540c80074f07423df5ac175cd",
+      "referral_code": "IMF51",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:59.974Z"
     }
   ],
   "withdrawals": [
