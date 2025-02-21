@@ -14777,11 +14777,12 @@
         "Sam1204",
         "pearlslim12",
         "Mideruqouya",
-        "Pearl"
+        "Pearl",
+        "Tommy"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -17179,6 +17180,21 @@
       "joinDate": "2025-02-21T07:13:16.992Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tommy",
+      "email": "temilorunolaniyi@gmail.com",
+      "encrypted_password": "b93d8ea74f0f2360bad8ac321e1b4c84",
+      "referral_code": "TOJ73",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:14:44.552Z"
     }
   ],
   "withdrawals": [
