@@ -12721,16 +12721,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:56:00.322Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Oumhanan09",
@@ -12847,7 +12847,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:59:22.367Z"
+      "joinDate": "2025-02-21T05:59:22.367Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
