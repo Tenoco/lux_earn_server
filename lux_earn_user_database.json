@@ -5737,11 +5737,12 @@
         "Abdullahi3127",
         "Abdullahi3126",
         "Abdullahi3125",
-        "Abdullahi3124"
+        "Abdullahi3124",
+        "Abdullahi3123"
       ],
       "balance": 360,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -16699,6 +16700,21 @@
       "joinDate": "2025-02-21T07:05:59.168Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdullahi3123",
+      "email": "abdullahioladipo24@gmail.com",
+      "encrypted_password": "4582049405a2c9dd88ff1de19a566f31",
+      "referral_code": "ABYHW",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:06:06.980Z"
     }
   ],
   "withdrawals": [
