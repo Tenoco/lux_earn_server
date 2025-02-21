@@ -34852,16 +34852,17 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 42,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:39.050Z",
+      "lastSpin": "2025-02-21T14:43:18.243Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-21T14:43:18.243Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Oladaz",
@@ -34944,7 +34945,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:44:48.802Z"
+      "joinDate": "2025-02-21T14:44:48.802Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
