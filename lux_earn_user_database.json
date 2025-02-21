@@ -21615,10 +21615,12 @@
       "referral_code": "SHJEM",
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
-      "invited_users": [],
+      "invited_users": [
+        "Princy"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:31:53.943Z",
@@ -37583,7 +37585,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:42:48.557Z"
+      "joinDate": "2025-02-21T17:42:48.557Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Princy",
+      "email": "iyiprince2@gmail.com",
+      "encrypted_password": "48ffc9a7cb308ed57251c33821574c8e",
+      "referral_code": "PRABC",
+      "inviter_referral_code": "SHJEM",
+      "inviter_username": "Sharonk ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:42:56.960Z"
     }
   ],
   "withdrawals": [
