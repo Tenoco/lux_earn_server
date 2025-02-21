@@ -5779,10 +5779,12 @@
       "referral_code": "KIUD0",
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
-      "invited_users": [],
+      "invited_users": [
+        "danmadam1"
+      ],
       "balance": 310,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -15469,7 +15471,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:50:02.814Z"
+      "joinDate": "2025-02-21T06:50:02.814Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "danmadam1",
+      "email": "aliyuusmanbarasa@gmail.com",
+      "encrypted_password": "fb876d521757eb956bc0b028266b7c51",
+      "referral_code": "DASFN",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:50:03.329Z"
     }
   ],
   "withdrawals": [
