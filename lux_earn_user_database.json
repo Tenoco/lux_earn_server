@@ -27,7 +27,7 @@
       "invited_users": [
         "Lindley"
       ],
-      "balance": 6463,
+      "balance": 5463,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10451,7 +10451,8 @@
       "joinDate": "2025-02-21T04:15:50.675Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "coddy boy",
@@ -10858,6 +10859,16 @@
       "phoneNumber": "09169371531",
       "amount": 100,
       "timestamp": "2025-02-21T03:16:05.303Z",
+      "status": "pending"
+    },
+    {
+      "username": "Bella",
+      "email": "lindleyokpeterhe@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "08053265325",
+      "amount": 1000,
+      "timestamp": "2025-02-21T04:20:13.896Z",
       "status": "pending"
     }
   ]
