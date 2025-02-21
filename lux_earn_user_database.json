@@ -37568,7 +37568,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:06:10.053Z"
+      "joinDate": "2025-02-21T20:06:10.053Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyenikky",
+      "email": "alexandersophia568@gmail.com",
+      "encrypted_password": "8e68310f65bf07f5fb5a797e2f8b5c29",
+      "referral_code": "OY1XO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:07:15.960Z"
     }
   ],
   "withdrawals": [
