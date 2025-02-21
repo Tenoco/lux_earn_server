@@ -35528,10 +35528,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:03:10.621Z",
-      "lastSpin": "2025-02-21T15:05:06.443Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:05:06.443Z"
     },
     {
       "username": "Ajeboter",
@@ -35600,6 +35600,21 @@
       "joinDate": "2025-02-21T15:05:36.435Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kayana",
+      "email": "ktrotman98@gmail.com",
+      "encrypted_password": "9b658b5d5f38148fb376d2605ab9e751",
+      "referral_code": "KAEI0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:06:33.393Z"
     }
   ],
   "withdrawals": [
