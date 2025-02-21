@@ -21592,13 +21592,16 @@
       "inviter_referral_code": "FABG1",
       "inviter_username": "Fatima",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:44:36.878Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     },
     {
