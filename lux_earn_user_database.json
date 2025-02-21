@@ -1212,11 +1212,12 @@
         "Tabzzy",
         "cryptomannia",
         "Blacklord55",
-        "The jester002"
+        "The jester002",
+        "Ayo2006"
       ],
       "balance": 315,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -30623,7 +30624,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:34:12.811Z"
+      "joinDate": "2025-02-21T12:34:12.811Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayo2006",
+      "email": "taiwoayodejifaith@gmail.com",
+      "encrypted_password": "cb7e8df9af672e4350eb057f5bca222a",
+      "referral_code": "AYXUK",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:34:44.959Z"
     }
   ],
   "withdrawals": [
