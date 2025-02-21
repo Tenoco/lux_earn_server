@@ -11466,7 +11466,7 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 90,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11476,9 +11476,9 @@
         1,
         3,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        7
+      ]
     },
     {
       "username": "Chiboy",
@@ -11755,7 +11755,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:25:55.070Z"
+      "joinDate": "2025-02-21T05:25:55.070Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
