@@ -15284,7 +15284,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15293,9 +15293,12 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        3,
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "krrishna",
@@ -15353,7 +15356,8 @@
         5,
         6,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Bliss ",
