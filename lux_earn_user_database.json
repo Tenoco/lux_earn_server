@@ -37931,7 +37931,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:04:04.807Z"
+      "joinDate": "2025-02-21T18:04:04.807Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chizzy003",
+      "email": "prosper4566@gmail.com",
+      "encrypted_password": "e4d17fac5480b754cddde782ce3c462a",
+      "referral_code": "CH629",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:04:09.063Z"
     }
   ],
   "withdrawals": [
