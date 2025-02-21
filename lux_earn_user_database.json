@@ -37957,7 +37957,23 @@
       "joinDate": "2025-02-21T18:04:09.063Z",
       "completedMissions": [
         5
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "maina2024",
+      "email": "abdullahimohammed7515@gmail.com",
+      "encrypted_password": "0a1d021dd083f0f9789029a0063cbc9f",
+      "referral_code": "MA4KL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:06:02.247Z"
     }
   ],
   "withdrawals": [
