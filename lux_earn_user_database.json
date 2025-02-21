@@ -10728,11 +10728,12 @@
         "Dollypee",
         "Ifeoluwaoluwakemi ",
         "Peterson",
-        "Phetah12"
+        "Phetah12",
+        "Hamzzy"
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -31934,7 +31935,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:25:53.419Z"
+      "joinDate": "2025-02-21T13:25:53.419Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hamzzy",
+      "email": "slimzysaliu@gmail.com",
+      "encrypted_password": "94f33ce9cee695b005aa87795d88d3da",
+      "referral_code": "HABXB",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:26:17.653Z"
     }
   ],
   "withdrawals": [
