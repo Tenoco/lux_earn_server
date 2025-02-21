@@ -14664,11 +14664,12 @@
       "inviter_username": "daniee250",
       "invited_users": [
         "Folake",
-        "Edehsamuel132"
+        "Edehsamuel132",
+        "Shade"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -15356,6 +15357,21 @@
       "joinDate": "2025-02-21T06:47:53.507Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shade",
+      "email": "shadex123@gmail.com",
+      "encrypted_password": "a732d8dac816a932b0b72810645d266e",
+      "referral_code": "SHTMY",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:48:16.934Z"
     }
   ],
   "withdrawals": [
