@@ -25066,13 +25066,17 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:11:13.530Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -26182,7 +26186,8 @@
       "completedMissions": [
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mubarak ",
