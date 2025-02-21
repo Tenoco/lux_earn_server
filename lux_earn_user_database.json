@@ -14094,11 +14094,12 @@
         "Aibeeyusufk",
         "Avwero",
         "Bigmide1912",
-        "Omomide1"
+        "Omomide1",
+        "wisdom"
       ],
       "balance": 25,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -24641,6 +24642,21 @@
       "joinDate": "2025-02-21T10:07:16.815Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "wisdom",
+      "email": "ewurumleo@gmail.com",
+      "encrypted_password": "f1e5dcb51b87a7cb2b3b57ee1d79d697",
+      "referral_code": "WIIDK",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:07:39.120Z"
     }
   ],
   "withdrawals": [
