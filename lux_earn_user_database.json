@@ -24950,14 +24950,15 @@
       "inviter_referral_code": "I1BQ6",
       "inviter_username": "I12Livebig",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:12:49.649Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Temi29",
@@ -25023,7 +25024,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:15:02.908Z"
+      "joinDate": "2025-02-21T10:15:02.908Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
