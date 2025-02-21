@@ -15829,11 +15829,12 @@
         "H7890",
         "Rockzymalone",
         "Shedrack Jerry",
-        "Ojoare Rasheed Olaniyi "
+        "Ojoare Rasheed Olaniyi ",
+        "SamEmman"
       ],
       "balance": 380,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -37633,7 +37634,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:18:11.583Z"
+      "joinDate": "2025-02-21T22:18:11.583Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SamEmman",
+      "email": "samemman96@gmail.com",
+      "encrypted_password": "3510572b75968aa4b66bf33fdbed8142",
+      "referral_code": "SA028",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:18:32.128Z"
     }
   ],
   "withdrawals": [
