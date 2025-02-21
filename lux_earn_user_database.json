@@ -6736,7 +6736,7 @@
         "Mohmoh olotu",
         "Philip bulus "
       ],
-      "balance": 95,
+      "balance": 165,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -6744,7 +6744,9 @@
       "joinDate": "2025-02-21T00:29:49.835Z",
       "completedMissions": [
         4,
-        2
+        2,
+        3,
+        3
       ],
       "lastSpin": null
     },
@@ -15103,7 +15105,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:44:12.455Z"
+      "joinDate": "2025-02-21T06:44:12.455Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
