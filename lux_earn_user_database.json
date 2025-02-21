@@ -4535,7 +4535,7 @@
       "inviter_referral_code": "Kiil",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4543,7 +4543,8 @@
       "joinDate": "2025-02-20T23:48:04.731Z",
       "completedMissions": [
         1,
-        2
+        2,
+        8
       ],
       "lastSpin": null
     },
