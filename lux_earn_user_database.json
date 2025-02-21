@@ -21946,7 +21946,23 @@
       "joinDate": "2025-02-21T08:55:20.890Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Gbedijo",
+      "email": "kennyjohnny594@gmail.com",
+      "encrypted_password": "aaf37fd27e2838393f8ccbb907f92ba3",
+      "referral_code": "GB5C7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:56:42.065Z"
     }
   ],
   "withdrawals": [
