@@ -22542,14 +22542,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:13:37.692Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:14:03.711Z"
     },
     {
       "username": "Davookon",
@@ -22564,7 +22563,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:13:59.297Z"
+      "joinDate": "2025-02-21T09:13:59.297Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
