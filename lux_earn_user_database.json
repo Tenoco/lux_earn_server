@@ -14374,11 +14374,12 @@
       "invited_users": [
         "THENAIJABOSS",
         "danieldy",
-        "ImperialBro"
+        "ImperialBro",
+        "Vigilance "
       ],
       "balance": 20,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -23741,7 +23742,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:41:58.091Z"
+      "joinDate": "2025-02-21T09:41:58.091Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vigilance ",
+      "email": "nuhumurtala112@gmail.com",
+      "encrypted_password": "a5c4941133962e453f37d636d764f8bc",
+      "referral_code": "VIS6Q",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:42:03.821Z"
     }
   ],
   "withdrawals": [
