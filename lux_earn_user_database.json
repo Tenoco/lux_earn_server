@@ -24707,11 +24707,12 @@
         "Pqpu",
         "Afuwh",
         "Tqiqi",
-        "Wrqgh"
+        "Wrqgh",
+        "Pqyshe "
       ],
       "balance": 350,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
@@ -26484,6 +26485,21 @@
       "joinDate": "2025-02-21T10:46:05.880Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pqyshe ",
+      "email": "wghajj@gmail.com",
+      "encrypted_password": "db119300afcd674f69047878e0c94d3b",
+      "referral_code": "PQYYZ",
+      "inviter_referral_code": "CYPEY",
+      "inviter_username": "Cyfer4pf",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:46:33.278Z"
     }
   ],
   "withdrawals": [
