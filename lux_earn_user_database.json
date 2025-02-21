@@ -21771,7 +21771,7 @@
       "inviter_referral_code": "T7RO8",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21784,7 +21784,9 @@
         8,
         1,
         1,
-        2
+        2,
+        3,
+        4
       ],
       "lastSpin": null
     },
@@ -23721,7 +23723,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:41:10.812Z"
+      "joinDate": "2025-02-21T09:41:10.812Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
