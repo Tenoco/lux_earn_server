@@ -11125,19 +11125,18 @@
       "referral_code": "LI4O7",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [
-        "Daniel "
-      ],
-      "balance": 155,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 165,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:20.435Z",
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": null
     },
