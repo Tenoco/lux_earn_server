@@ -20225,7 +20225,8 @@
         4,
         6,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aliamdulillahi",
@@ -20465,14 +20466,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:17:03.078Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T08:17:36.202Z"
     },
     {
       "username": "Krischer101",
