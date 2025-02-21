@@ -5115,7 +5115,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:02:14.106Z"
+      "joinDate": "2025-02-21T00:02:14.106Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "08052892212",
+      "email": "iniobongmfon293@gmail.com",
+      "encrypted_password": "8d768d72a707b7bbc037853e577098c4",
+      "referral_code": "08F78",
+      "inviter_referral_code": "Ol6tf",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:02:13.290Z"
     }
   ],
   "withdrawals": [
