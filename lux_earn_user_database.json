@@ -32997,7 +32997,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 202,
+      "balance": 232,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33010,7 +33010,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": "2025-02-21T14:01:14.175Z"
     },
@@ -33334,7 +33335,8 @@
       "joinDate": "2025-02-21T14:05:39.893Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Amaka",
