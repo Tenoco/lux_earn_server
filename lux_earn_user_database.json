@@ -15585,11 +15585,12 @@
         "Lucasmacas",
         "Chinenyefavour",
         "Damite",
-        "Mhizteekay"
+        "Mhizteekay",
+        "Val998"
       ],
       "balance": 380,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -24876,6 +24877,21 @@
       "joinDate": "2025-02-21T10:10:21.239Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Val998",
+      "email": "valentinaifeoluwa95@gmail.com",
+      "encrypted_password": "dab380436b50325b22550fa196ae45fb",
+      "referral_code": "VA7ZP",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:11:13.530Z"
     }
   ],
   "withdrawals": [
