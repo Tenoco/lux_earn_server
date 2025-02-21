@@ -37330,11 +37330,12 @@
         "Gyakie",
         "Contact ",
         "Username ",
-        "Gijg"
+        "Gijg",
+        "Getting"
       ],
       "balance": 80,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37955,7 +37956,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:33:24.435Z"
+      "joinDate": "2025-02-21T20:33:24.435Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Getting",
+      "email": "qgfz7@gmail10p.com",
+      "encrypted_password": "648ceaa6447a6a2004ec51b797c78247",
+      "referral_code": "GEK96",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:33:57.748Z"
     }
   ],
   "withdrawals": [
