@@ -35231,14 +35231,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:53:47.951Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "AKA1 ",
@@ -35438,7 +35440,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:00:59.771Z"
+      "joinDate": "2025-02-21T15:00:59.771Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
