@@ -31024,17 +31024,15 @@
       "referral_code": "TE6SX",
       "inviter_referral_code": "Luxearn0.netlify",
       "inviter_username": null,
-      "invited_users": [
-        "Opeyemi "
-      ],
-      "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 12,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:53:27.639Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T13:05:11.475Z"
     },
     {
       "username": "Lucyivy",
@@ -31430,7 +31428,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:05:09.225Z"
+      "joinDate": "2025-02-21T13:05:09.225Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
