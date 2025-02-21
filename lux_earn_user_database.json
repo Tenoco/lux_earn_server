@@ -15292,7 +15292,8 @@
       "joinDate": "2025-02-21T06:45:48.549Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "krrishna",
@@ -15523,14 +15524,13 @@
       "inviter_referral_code": "AUX3X",
       "inviter_username": "Automatic_man",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:50:17.109Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:50:39.450Z"
     },
     {
       "username": "123Jafaru@",
