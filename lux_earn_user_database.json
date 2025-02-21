@@ -38264,13 +38264,15 @@
         "Pawalll",
         "Yuygvv"
       ],
-      "balance": 0,
+      "balance": 10,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:50:31.334Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -38403,6 +38405,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:02:49.325Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T23:03:18.957Z"
     }
   ],
