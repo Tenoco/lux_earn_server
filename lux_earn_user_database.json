@@ -22833,7 +22833,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:21:26.279Z"
+      "joinDate": "2025-02-21T09:21:26.279Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingsamy",
+      "email": "sidowu2005@gmail.com",
+      "encrypted_password": "a6b18ea870c14c2c84bc8b5636068e28",
+      "referral_code": "KIF6P",
+      "inviter_referral_code": "J0X2B",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:21:39.298Z"
     }
   ],
   "withdrawals": [
