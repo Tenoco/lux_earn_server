@@ -29498,7 +29498,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:08:52.757Z"
+      "joinDate": "2025-02-21T12:08:52.757Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kabeeer",
+      "email": "kabeertijjanialiyu376@gmail.com",
+      "encrypted_password": "839ba007d281e01620f9a62d0e13b0a9",
+      "referral_code": "KAAFX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:08:57.455Z"
     }
   ],
   "withdrawals": [
