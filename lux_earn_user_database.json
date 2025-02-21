@@ -25984,11 +25984,12 @@
         "SammieJay",
         "Okokoumaxxi",
         "Lobayementuna",
-        "Rayman"
+        "Rayman",
+        "Ruthie"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27178,6 +27179,21 @@
       "joinDate": "2025-02-21T10:59:21.235Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ruthie",
+      "email": "ruthdefinebabe@gmail.com",
+      "encrypted_password": "0c69e76f647f37e590127bcbdcf21853",
+      "referral_code": "RUUNX",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:00:06.974Z"
     }
   ],
   "withdrawals": [
