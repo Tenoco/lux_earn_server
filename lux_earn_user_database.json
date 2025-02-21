@@ -15631,7 +15631,8 @@
         4,
         4,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Vicky",
@@ -15802,6 +15803,21 @@
       "joinDate": "2025-02-21T06:54:39.743Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "snazzypaul ",
+      "email": "paulanthony2054@gmail.com",
+      "encrypted_password": "3c462234bbc7128acbf276e250cbd890",
+      "referral_code": "SNDIG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:55:03.109Z"
     }
   ],
   "withdrawals": [
