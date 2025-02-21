@@ -9719,14 +9719,16 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 50,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:05:17.390Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        7,
+        8
+      ]
     },
     {
       "username": "Kashops14",
@@ -9766,7 +9768,8 @@
       "completedMissions": [
         1,
         7
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
