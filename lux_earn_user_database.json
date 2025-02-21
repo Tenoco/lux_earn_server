@@ -25763,7 +25763,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:34:45.633Z"
+      "joinDate": "2025-02-21T10:34:45.633Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faisal",
+      "email": "faisalrabiuibrahim@gmail.com",
+      "encrypted_password": "8b753204c9fef1d73dcfac12f8ce0765",
+      "referral_code": "FAMO1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:35:03.678Z"
     }
   ],
   "withdrawals": [
