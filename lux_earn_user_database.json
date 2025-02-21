@@ -19984,7 +19984,7 @@
       "inviter_referral_code": "Vieap",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 130,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19995,7 +19995,8 @@
         2,
         9,
         8,
-        7
+        7,
+        3
       ],
       "lastSpin": null
     },
@@ -21072,7 +21073,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:32:02.913Z"
+      "joinDate": "2025-02-21T08:32:02.913Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
