@@ -25582,11 +25582,12 @@
         "Sulaimon",
         "Sakiru",
         "Fola",
-        "Muniru"
+        "Muniru",
+        "Martins"
       ],
       "balance": 0,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -36937,7 +36938,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:55:26.282Z"
+      "joinDate": "2025-02-21T15:55:26.282Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Martins",
+      "email": "tehir76969@yalcu.com",
+      "encrypted_password": "eaa0ecb0c212011f003f39711e93347a",
+      "referral_code": "MAMOY",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:55:41.794Z"
     }
   ],
   "withdrawals": [
