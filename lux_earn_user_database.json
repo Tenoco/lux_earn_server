@@ -2137,11 +2137,12 @@
         "Rosequeen",
         "Favour48",
         "Hamsterkombat",
-        "Amaka567"
+        "Amaka567",
+        "Amara679"
       ],
       "balance": 285,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -38174,7 +38175,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:30:06.975Z"
+      "joinDate": "2025-02-21T16:30:06.975Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amara679",
+      "email": "Amararaja2009@gmail.com",
+      "encrypted_password": "eab602e975fa6c98e3367e56e7bfc45b",
+      "referral_code": "AMYEH",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:30:31.143Z"
     }
   ],
   "withdrawals": [
