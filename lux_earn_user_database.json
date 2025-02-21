@@ -15284,16 +15284,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "krrishna",
@@ -15530,6 +15531,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:50:17.109Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:50:39.450Z"
     },
     {
