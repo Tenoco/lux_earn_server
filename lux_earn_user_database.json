@@ -31571,11 +31571,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Bjsnsn"
+        "Bjsnsn",
+        "Jbmnbw"
       ],
       "balance": 30,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:03:49.290Z",
@@ -34004,7 +34005,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:21:52.481Z"
+      "joinDate": "2025-02-21T14:21:52.481Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jbmnbw",
+      "email": "ogorgodwinede@gmail.com",
+      "encrypted_password": "f3394e49bfd26732cfa9662854c5038f",
+      "referral_code": "JB28B",
+      "inviter_referral_code": "INAJD",
+      "inviter_username": "increasehendricks",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:22:09.931Z"
     }
   ],
   "withdrawals": [
