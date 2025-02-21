@@ -6640,14 +6640,15 @@
       "inviter_referral_code": "OL6TF",
       "inviter_username": "OLIVIALOVE ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:50.403Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
