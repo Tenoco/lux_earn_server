@@ -13998,11 +13998,12 @@
       "inviter_referral_code": "Sl2MH",
       "inviter_username": null,
       "invited_users": [
-        "Danielkafillu"
+        "Danielkafillu",
+        "Samify "
       ],
       "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:13:06.448Z",
@@ -30323,7 +30324,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:27:31.711Z"
+      "joinDate": "2025-02-21T12:27:31.711Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samify ",
+      "email": "nkemjikasamuel284@gmail.com",
+      "encrypted_password": "1f6660aa434a91f8105f04bbbee0345f",
+      "referral_code": "SAP0O",
+      "inviter_referral_code": "ELE2L",
+      "inviter_username": "Elijah1234",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:27:35.655Z"
     }
   ],
   "withdrawals": [
