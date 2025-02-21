@@ -25049,7 +25049,7 @@
       "inviter_referral_code": "Magob",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25059,9 +25059,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        6
+      ]
     },
     {
       "username": "billionsbillions0",
