@@ -19359,7 +19359,7 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 360,
+      "balance": 520,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19377,7 +19377,13 @@
         4,
         4,
         4,
-        5
+        5,
+        5,
+        6,
+        7,
+        8,
+        8,
+        9
       ],
       "lastSpin": null
     },
@@ -20399,7 +20405,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:15:34.711Z"
+      "joinDate": "2025-02-21T08:15:34.711Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
