@@ -37311,7 +37311,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37322,9 +37322,10 @@
         1,
         1,
         1,
+        2,
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T19:50:06.314Z"
     },
     {
       "username": "Vic2332",
@@ -37343,7 +37344,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
