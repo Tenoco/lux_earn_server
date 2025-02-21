@@ -4695,14 +4695,18 @@
       "inviter_referral_code": "OL6TF ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:52:10.688Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Emmanuel24",
@@ -5052,7 +5056,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:01:41.104Z"
+      "joinDate": "2025-02-21T00:01:41.104Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
