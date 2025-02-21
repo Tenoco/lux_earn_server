@@ -11192,7 +11192,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11202,7 +11202,8 @@
         1,
         2,
         3,
-        8
+        8,
+        4
       ],
       "lastSpin": null
     },
@@ -11564,7 +11565,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Destiny56",
