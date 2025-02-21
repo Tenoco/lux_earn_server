@@ -1438,11 +1438,12 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [
-        "Hardek "
+        "Hardek ",
+        "Teejay"
       ],
       "balance": 195,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:35.894Z",
@@ -10273,7 +10274,8 @@
       "joinDate": "2025-02-21T04:00:34.330Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VIctor",
@@ -10359,6 +10361,21 @@
       "joinDate": "2025-02-21T04:07:28.418Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Teejay",
+      "email": "tijaniabdulganiy4@gmail.com",
+      "encrypted_password": "11bea58a23a938a0ce1174bcb1292ff5",
+      "referral_code": "TEUUI",
+      "inviter_referral_code": "OL0RR",
+      "inviter_username": "Ola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:08:05.424Z"
     }
   ],
   "withdrawals": [
