@@ -37377,7 +37377,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:12:02.950Z"
+      "joinDate": "2025-02-21T17:12:02.950Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Pro30",
+      "email": "prosperiikechukwu443@gmail.com",
+      "encrypted_password": "f1b708bba17f1ce948dc979f4d7092bc",
+      "referral_code": "PRNGW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:13:12.127Z"
     }
   ],
   "withdrawals": [
