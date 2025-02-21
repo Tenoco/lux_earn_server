@@ -5440,13 +5440,15 @@
       "inviter_referral_code": "EMEQL",
       "inviter_username": "Emin",
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:08:39.126Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
