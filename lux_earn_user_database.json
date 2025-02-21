@@ -5260,7 +5260,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:04:49.303Z"
+      "joinDate": "2025-02-21T00:04:49.303Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "IamIsaacc",
+      "email": "Alexisjohn752@gmail.com",
+      "encrypted_password": "a3df39d47da6c18b8adbf18521f825b3",
+      "referral_code": "IA6V8",
+      "inviter_referral_code": "KII01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:04:55.599Z"
     }
   ],
   "withdrawals": [
