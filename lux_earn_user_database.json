@@ -4672,11 +4672,12 @@
         "Zord",
         "Lynx",
         "Akay",
-        "Dray"
+        "Dray",
+        "Rex"
       ],
       "balance": 325,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -6388,6 +6389,21 @@
       "joinDate": "2025-02-21T00:23:57.456Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rex",
+      "email": "zillarage76@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "REXTO",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:24:20.675Z"
     }
   ],
   "withdrawals": [
