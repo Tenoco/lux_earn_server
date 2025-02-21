@@ -26583,7 +26583,7 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": "Jerry14",
       "invited_users": [],
-      "balance": 250,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26598,7 +26598,8 @@
         5,
         9,
         7,
-        8
+        8,
+        6
       ],
       "lastSpin": null
     },
@@ -27441,7 +27442,8 @@
       "joinDate": "2025-02-21T11:07:11.816Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
