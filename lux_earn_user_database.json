@@ -37271,7 +37271,7 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": -20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37395,7 +37395,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:09:15.741Z"
+      "joinDate": "2025-02-21T22:09:15.741Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -37868,6 +37870,16 @@
       "phoneNumber": "08107021004",
       "amount": 100,
       "timestamp": "2025-02-21T13:45:04.697Z",
+      "status": "pending"
+    },
+    {
+      "username": "ib123",
+      "email": "Ibrhimback@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07040828131",
+      "amount": 20,
+      "timestamp": "2025-02-21T22:09:37.069Z",
       "status": "pending"
     }
   ]
