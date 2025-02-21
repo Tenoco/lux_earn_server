@@ -27730,14 +27730,25 @@
       "inviter_referral_code": "OL6DY",
       "inviter_username": "Oladelefrosh",
       "invited_users": [],
-      "balance": 0,
+      "balance": 330,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        5
+      ]
     },
     {
       "username": "Oluwasimi1234",
@@ -28177,7 +28188,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:32:30.072Z"
+      "joinDate": "2025-02-21T11:32:30.072Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
