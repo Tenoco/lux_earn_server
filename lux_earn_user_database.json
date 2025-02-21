@@ -37317,11 +37317,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "dolapo020l"
+        "dolapo020l",
+        "Fikate6jj"
       ],
       "balance": 80,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37475,7 +37476,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:00:27.800Z"
+      "joinDate": "2025-02-21T20:00:27.800Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fikate6jj",
+      "email": "odqgfy9s3qi7yz7@gmail.com",
+      "encrypted_password": "331b184847bb1808123473d76c45540b",
+      "referral_code": "FIK5N",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:01:26.406Z"
     }
   ],
   "withdrawals": [
