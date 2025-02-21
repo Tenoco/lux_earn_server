@@ -137,11 +137,12 @@
         "Rogey Boss",
         "Martha ",
         "Mimi4success",
-        "Adekunlejh"
+        "Adekunlejh",
+        "sulaimanaminu12@"
       ],
       "balance": 50,
-      "refers": 43,
-      "referralBalance": 4300,
+      "refers": 44,
+      "referralBalance": 4400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -35131,12 +35132,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:48:51.674Z",
-      "lastSpin": "2025-02-21T14:51:12.994Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:51:12.994Z"
     },
     {
       "username": "Jumbotonyeyetunde",
@@ -35205,6 +35206,21 @@
       "joinDate": "2025-02-21T14:52:36.986Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "sulaimanaminu12@",
+      "email": "sulaimanaminugra1@gmail.com",
+      "encrypted_password": "974a624104d58557894f9902ac592e41",
+      "referral_code": "SUJSW",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:53:47.951Z"
     }
   ],
   "withdrawals": [
