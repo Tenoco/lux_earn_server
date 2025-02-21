@@ -30,11 +30,12 @@
         "shoyomboizhaq1@gmail.com",
         "Perfectpe",
         "Blaze08",
-        "Toripee"
+        "Toripee",
+        "Munachi"
       ],
       "balance": 5493,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -30074,6 +30075,21 @@
       "joinDate": "2025-02-21T12:22:19.635Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Munachi",
+      "email": "obunikemunachi@gmail.com",
+      "encrypted_password": "9726255eec083aa56dc0449a21b33190",
+      "referral_code": "MU4M2",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:23:15.464Z"
     }
   ],
   "withdrawals": [
