@@ -13308,11 +13308,12 @@
         "Mansur2994",
         "Charmor",
         "Levisonet",
-        "Alamin"
+        "Alamin",
+        "Regina "
       ],
       "balance": 251,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -33176,6 +33177,21 @@
       "joinDate": "2025-02-21T14:00:35.751Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Regina ",
+      "email": "achohoregina3@gmail.com",
+      "encrypted_password": "0fbc936a39ebc86dff7ff2db93ae2c55",
+      "referral_code": "REFAJ",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:01:31.525Z"
     }
   ],
   "withdrawals": [
