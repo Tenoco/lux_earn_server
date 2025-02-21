@@ -24617,10 +24617,12 @@
       "referral_code": "I1BQ6",
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
-      "invited_users": [],
+      "invited_users": [
+        "IamRock"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:52.243Z",
@@ -24799,7 +24801,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Akin",
@@ -24921,6 +24924,21 @@
       "joinDate": "2025-02-21T10:12:27.723Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "IamRock",
+      "email": "atandateslim123@gmail.com",
+      "encrypted_password": "7ece54bfeb1f6746580e1fbd1d8b79d0",
+      "referral_code": "IAAJS",
+      "inviter_referral_code": "I1BQ6",
+      "inviter_username": "I12Livebig",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:12:49.649Z"
     }
   ],
   "withdrawals": [
