@@ -37329,11 +37329,12 @@
         "Friday40",
         "Gyakie",
         "Contact ",
-        "Username "
+        "Username ",
+        "Gijg"
       ],
       "balance": 80,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37834,7 +37835,8 @@
       "joinDate": "2025-02-21T20:25:34.934Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Joml",
@@ -37886,6 +37888,21 @@
       "joinDate": "2025-02-21T20:29:17.908Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gijg",
+      "email": "odqgfy9s3qiz7@gmail10p.com",
+      "encrypted_password": "6277e2a7446059985dc9bcf0a4ac1a8f",
+      "referral_code": "GIH6L",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:30:40.820Z"
     }
   ],
   "withdrawals": [
