@@ -29258,11 +29258,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Flexxdee"
+        "Flexxdee",
+        "Emmabtc "
       ],
       "balance": 280,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
@@ -31017,7 +31018,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:54:09.486Z"
+      "joinDate": "2025-02-21T12:54:09.486Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmabtc ",
+      "email": "emmanueledward988@gmail.com",
+      "encrypted_password": "b8775b376358384bbd9b828a3497981f",
+      "referral_code": "EMU8E",
+      "inviter_referral_code": "PRFPU",
+      "inviter_username": "Princesspromise",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:54:21.065Z"
     }
   ],
   "withdrawals": [
