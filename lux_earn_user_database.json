@@ -36121,7 +36121,7 @@
       "inviter_referral_code": "Ajfym",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36134,9 +36134,10 @@
         3,
         5,
         4,
-        6
+        6,
+        9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:27:19.776Z"
     },
     {
       "username": "Mzee07",
@@ -36325,7 +36326,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:27:18.377Z"
+      "joinDate": "2025-02-21T15:27:18.377Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
