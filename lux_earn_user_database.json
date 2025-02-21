@@ -19123,7 +19123,7 @@
         "Prosperity",
         "Cyfer4pf"
       ],
-      "balance": 150,
+      "balance": 240,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -19134,7 +19134,10 @@
         1,
         2,
         2,
-        3
+        3,
+        4,
+        5,
+        6
       ],
       "lastSpin": null
     },
@@ -24860,7 +24863,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:10:21.239Z"
+      "joinDate": "2025-02-21T10:10:21.239Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
