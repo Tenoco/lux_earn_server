@@ -13067,11 +13067,12 @@
         "Chief ",
         "Goku",
         "Shakou ",
-        "Chief shakou "
+        "Chief shakou ",
+        "Gohan "
       ],
       "balance": 40,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -14390,7 +14391,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:32:42.602Z"
+      "joinDate": "2025-02-21T06:32:42.602Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gohan ",
+      "email": "gokugokael@gmail.com",
+      "encrypted_password": "11b07ba3fd4e12da6b8ff87888b7f385",
+      "referral_code": "GOBRW",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:32:46.260Z"
     }
   ],
   "withdrawals": [
