@@ -35404,7 +35404,8 @@
         4,
         5,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Johnny40",
@@ -35490,6 +35491,21 @@
       "joinDate": "2025-02-21T15:02:29.741Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Damilola ",
+      "email": "kazeemdamilola35@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "DAJ6N",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:03:10.621Z"
     }
   ],
   "withdrawals": [
