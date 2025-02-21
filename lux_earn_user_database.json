@@ -15273,13 +15273,22 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3,
+        3,
+        5,
+        4,
+        4,
+        6
+      ],
       "lastSpin": null
     },
     {
@@ -16683,11 +16692,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:05:19.539Z",
-      "lastSpin": "2025-02-21T07:06:06.029Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:06:06.029Z"
     },
     {
       "username": "Michael maxwell",
