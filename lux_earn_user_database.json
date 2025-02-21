@@ -13007,11 +13007,12 @@
       "inviter_username": "Babal112",
       "invited_users": [
         "Feranmi ",
-        "Mazichief "
+        "Mazichief ",
+        "willsmith234"
       ],
       "balance": 251,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -14908,7 +14909,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:40:57.990Z"
+      "joinDate": "2025-02-21T06:40:57.990Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "willsmith234",
+      "email": "shaibufatimat2021@gmail.com",
+      "encrypted_password": "0445ee9f36e2f1bb51b8225fa782a444",
+      "referral_code": "WINWC",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:41:00.642Z"
     }
   ],
   "withdrawals": [
