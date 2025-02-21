@@ -10090,14 +10090,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 85,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:42:55.267Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -10172,7 +10174,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Moshob",
