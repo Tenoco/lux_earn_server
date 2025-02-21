@@ -270,11 +270,12 @@
       "invited_users": [
         "Tetantes",
         "BOUCK",
-        "silas olamide"
+        "silas olamide",
+        "Mamabby"
       ],
       "balance": 235,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:53.822Z",
@@ -4992,7 +4993,8 @@
         8,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chindimane",
@@ -5337,6 +5339,21 @@
       "joinDate": "2025-02-21T00:06:19.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mamabby",
+      "email": "roshidatajao@gmail.com",
+      "encrypted_password": "79cee261102f7e08d9f5d079c420b2ef",
+      "referral_code": "MAN6F",
+      "inviter_referral_code": "CR45T",
+      "inviter_username": "Crypto",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:06:46.869Z"
     }
   ],
   "withdrawals": [
