@@ -6689,11 +6689,12 @@
         "Song",
         "phoenix59",
         "Yhaam",
-        "Hamin"
+        "Hamin",
+        "Nice29"
       ],
       "balance": 50,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7695,7 +7696,8 @@
         7,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Clinton ",
@@ -7764,6 +7766,21 @@
       "joinDate": "2025-02-21T00:57:52.715Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nice29",
+      "email": "fire@gmail.com",
+      "encrypted_password": "c4f4fd237f18e60ba3b06607e5524f5a",
+      "referral_code": "NIWMR",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:58:58.576Z"
     }
   ],
   "withdrawals": [
