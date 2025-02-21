@@ -11471,7 +11471,7 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 115,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12035,7 +12035,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:35:36.730Z"
+      "joinDate": "2025-02-21T05:35:36.730Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -12363,6 +12365,16 @@
       "phoneNumber": "07019413804",
       "amount": 100,
       "timestamp": "2025-02-21T05:28:41.266Z",
+      "status": "pending"
+    },
+    {
+      "username": "Femi235",
+      "email": "femid162@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "07019413804",
+      "amount": 100,
+      "timestamp": "2025-02-21T05:35:40.629Z",
       "status": "pending"
     }
   ]
