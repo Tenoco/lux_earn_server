@@ -14683,10 +14683,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:39:15.564Z"
     },
     {
       "username": "Hephzibah ",
@@ -14840,6 +14840,21 @@
       "joinDate": "2025-02-21T06:39:33.560Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Balkiattah",
+      "email": "balkisuattahiruwalaa@gmail.com",
+      "encrypted_password": "9e52cff8c7e88df82b119d2f98ebb224",
+      "referral_code": "BASUA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:39:46.275Z"
     }
   ],
   "withdrawals": [
