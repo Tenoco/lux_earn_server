@@ -29439,13 +29439,15 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": "Nabeelo",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:06:50.687Z",
-      "completedMissions": [],
+      "completedMissions": [
+        3
+      ],
       "lastSpin": null
     },
     {
@@ -29554,7 +29556,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Buikefx",
