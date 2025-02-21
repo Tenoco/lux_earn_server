@@ -21275,10 +21275,12 @@
       "referral_code": "MAX5P",
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
-      "invited_users": [],
+      "invited_users": [
+        "Mark77"
+      ],
       "balance": 180,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:04.435Z",
@@ -36940,6 +36942,21 @@
       "joinDate": "2025-02-21T21:06:36.244Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mark77",
+      "email": "okurimesamuel@gmail.com",
+      "encrypted_password": "f0ac67a933d70e759de03f76b7f9d99a",
+      "referral_code": "MAX5C",
+      "inviter_referral_code": "MAX5P",
+      "inviter_username": "Mark777",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:14:16.922Z"
     }
   ],
   "withdrawals": [
