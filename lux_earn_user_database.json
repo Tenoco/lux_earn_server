@@ -6604,7 +6604,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6612,9 +6612,11 @@
       "joinDate": "2025-02-21T00:27:33.556Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3,
+        4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T00:37:16.052Z"
     },
     {
       "username": "Soyet",
@@ -7041,7 +7043,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:38:14.957Z"
+      "joinDate": "2025-02-21T00:38:14.957Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
