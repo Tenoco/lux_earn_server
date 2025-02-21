@@ -1750,11 +1750,12 @@
         "Ani2005",
         "Moshob",
         "khenney",
-        "Goldenstar "
+        "Goldenstar ",
+        "Olazzy01"
       ],
       "balance": 275,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10319,7 +10320,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:05:09.167Z"
+      "joinDate": "2025-02-21T04:05:09.167Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olazzy01",
+      "email": "olazzlekan9@gmail.com",
+      "encrypted_password": "4ac1c99cc565c6e25643473f3552abdb",
+      "referral_code": "OLE2N",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:06:21.429Z"
     }
   ],
   "withdrawals": [
