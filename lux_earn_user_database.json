@@ -37197,14 +37197,15 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:53:13.694Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Salis",
@@ -37253,7 +37254,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:54:50.360Z"
+      "joinDate": "2025-02-21T15:54:50.360Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
