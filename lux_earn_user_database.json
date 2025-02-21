@@ -15512,11 +15512,12 @@
         "Ajeboter",
         "Manassa",
         "Sherwin ",
-        "Saturda"
+        "Saturda",
+        "yallas"
       ],
       "balance": 328,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37626,7 +37627,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:15:29.749Z"
+      "joinDate": "2025-02-21T16:15:29.749Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "yallas",
+      "email": "Nunumudu@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "YA2ZY",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:15:48.536Z"
     }
   ],
   "withdrawals": [
