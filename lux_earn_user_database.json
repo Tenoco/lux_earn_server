@@ -3008,11 +3008,12 @@
         "hope",
         "Habaku",
         "Rokkygold",
-        "Ziviabby"
+        "Ziviabby",
+        "Moses money "
       ],
       "balance": 337,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -30645,6 +30646,21 @@
       "joinDate": "2025-02-21T12:34:44.959Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Moses money ",
+      "email": "juniormoses255@gmail.com",
+      "encrypted_password": "809d7aea9eacf339b2e35e3c8ae0a57c",
+      "referral_code": "MOG30",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:35:05.002Z"
     }
   ],
   "withdrawals": [
