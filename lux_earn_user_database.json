@@ -16146,11 +16146,12 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [
-        "jaytee037"
+        "jaytee037",
+        "Mark777"
       ],
       "balance": 12,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -20661,6 +20662,21 @@
       "joinDate": "2025-02-21T08:21:11.210Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mark777",
+      "email": "okurimesamuel5476@gmail.com",
+      "encrypted_password": "f0ac67a933d70e759de03f76b7f9d99a",
+      "referral_code": "MAX5P",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:22:04.435Z"
     }
   ],
   "withdrawals": [
