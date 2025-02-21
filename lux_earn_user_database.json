@@ -4702,11 +4702,12 @@
         "Zoro",
         "Will",
         "Zain",
-        "Bryan "
+        "Bryan ",
+        "Cage"
       ],
       "balance": 25,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7264,7 +7265,8 @@
         3,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "B.Crown",
@@ -7384,6 +7386,21 @@
       "joinDate": "2025-02-21T00:45:31.488Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cage",
+      "email": "cageryan@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "CASA7",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:45:58.652Z"
     }
   ],
   "withdrawals": [
