@@ -15797,11 +15797,12 @@
         "Nmahope",
         "H7890",
         "Rockzymalone",
-        "Shedrack Jerry"
+        "Shedrack Jerry",
+        "Ojoare Rasheed Olaniyi "
       ],
       "balance": 380,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -36331,6 +36332,21 @@
       "joinDate": "2025-02-21T15:27:18.377Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ojoare Rasheed Olaniyi ",
+      "email": "Shollaolaniy@gmail.com",
+      "encrypted_password": "c0a065d521b711018c64a46a2eed908f",
+      "referral_code": "OJNP3",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:27:50.456Z"
     }
   ],
   "withdrawals": [
