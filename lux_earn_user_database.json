@@ -19844,7 +19844,7 @@
       "inviter_referral_code": "HAZJI",
       "inviter_username": "Haggaijacob0912172",
       "invited_users": [],
-      "balance": 140,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19854,7 +19854,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "lastSpin": "2025-02-21T07:59:34.267Z"
     },
@@ -21188,7 +21190,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mark",
