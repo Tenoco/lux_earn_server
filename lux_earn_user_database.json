@@ -5830,11 +5830,12 @@
       "invited_users": [
         "keeyman",
         "Khan",
-        "Ukhashatu"
+        "Ukhashatu",
+        "ibrahimizzuddeen"
       ],
       "balance": 215,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:10:10.673Z",
@@ -35943,7 +35944,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:17:49.395Z"
+      "joinDate": "2025-02-21T15:17:49.395Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ibrahimizzuddeen",
+      "email": "ibrahimizzuddeen965@gmail.com",
+      "encrypted_password": "8ddcff3a80f4189ca1c9d4d902c3c909",
+      "referral_code": "IBC2X",
+      "inviter_referral_code": "HAGNN",
+      "inviter_username": "haseer",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:17:55.395Z"
     }
   ],
   "withdrawals": [
