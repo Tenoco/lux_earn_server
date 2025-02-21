@@ -21708,14 +21708,15 @@
       "inviter_referral_code": "HE5KL",
       "inviter_username": "Henry Joshua ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:45:00.016Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -22431,6 +22432,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:09:26.254Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T09:11:38.226Z"
     },
     {
