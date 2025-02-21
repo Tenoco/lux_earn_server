@@ -5726,11 +5726,12 @@
       "inviter_username": null,
       "invited_users": [
         "keeyman",
-        "Khan"
+        "Khan",
+        "Ukhashatu"
       ],
       "balance": 215,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:10:10.673Z",
@@ -23726,6 +23727,21 @@
       "joinDate": "2025-02-21T09:41:10.812Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ukhashatu",
+      "email": "ukashaisahabdullahi@gmail.com",
+      "encrypted_password": "dd82d35612b67fbccaa5e1409b05a687",
+      "referral_code": "UKKMS",
+      "inviter_referral_code": "HAGNN",
+      "inviter_username": "haseer",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:41:58.091Z"
     }
   ],
   "withdrawals": [
