@@ -5211,11 +5211,12 @@
       "invited_users": [
         "phoenix29",
         "Chase",
-        "Kingibe025"
+        "Kingibe025",
+        "Billy jos"
       ],
       "balance": 425,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:31.535Z",
@@ -32530,7 +32531,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:42:02.652Z"
+      "joinDate": "2025-02-21T13:42:02.652Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Billy jos",
+      "email": "Bu484269@gmail.com",
+      "encrypted_password": "d24464394eeeefa297dab465b33c7c24",
+      "referral_code": "BIZFS",
+      "inviter_referral_code": "SA9B4",
+      "inviter_username": "Samuel1 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:42:10.877Z"
     }
   ],
   "withdrawals": [
