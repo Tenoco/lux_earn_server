@@ -31184,14 +31184,15 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:57:55.957Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Peace87g",
