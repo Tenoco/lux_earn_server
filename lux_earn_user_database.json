@@ -11233,7 +11233,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:12:05.432Z"
+      "joinDate": "2025-02-21T05:12:05.432Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Alawo123",
+      "email": "yunusabdulwaris820@gmail.com",
+      "encrypted_password": "4d5761075ae7d66ee073366603a158ca",
+      "referral_code": "ALZAZ",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:12:17.016Z"
     }
   ],
   "withdrawals": [
