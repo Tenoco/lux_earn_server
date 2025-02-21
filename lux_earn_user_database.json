@@ -24674,7 +24674,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:07:58.742Z"
+      "joinDate": "2025-02-21T10:07:58.742Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Maggielove",
+      "email": "crystalkun077@gmail.com",
+      "encrypted_password": "071552131fd7d750eb54faeebf561219",
+      "referral_code": "MABTR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:08:07.574Z"
     }
   ],
   "withdrawals": [
