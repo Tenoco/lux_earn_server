@@ -4616,10 +4616,12 @@
       "referral_code": "EMEQL",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Nuel"
+      ],
       "balance": 325,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -5008,7 +5010,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Temu",
@@ -5162,6 +5165,21 @@
       "joinDate": "2025-02-21T00:02:21.760Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nuel",
+      "email": "yhungnuel54@gmail.com",
+      "encrypted_password": "8f966987866c38b09fe7bec92b151e91",
+      "referral_code": "NULQI",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:03:31.832Z"
     }
   ],
   "withdrawals": [
