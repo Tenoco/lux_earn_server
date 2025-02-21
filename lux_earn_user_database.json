@@ -3780,11 +3780,12 @@
         "VIctor",
         "Gentle",
         "Mide",
-        "Laide"
+        "Laide",
+        "Princess ifeoluwa "
       ],
       "balance": 260,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -32690,7 +32691,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hay_bee291",
@@ -33118,6 +33120,21 @@
       "joinDate": "2025-02-21T13:58:09.745Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Princess ifeoluwa ",
+      "email": "odigrijoy@gmail.com",
+      "encrypted_password": "41bae1e79794537312b4de1767d751b5",
+      "referral_code": "PR2W5",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:59:22.434Z"
     }
   ],
   "withdrawals": [
