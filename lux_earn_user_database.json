@@ -20034,7 +20034,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": "Mideruqouya",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20042,7 +20042,8 @@
       "joinDate": "2025-02-21T08:06:19.659Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -20311,7 +20312,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:13:06.718Z"
+      "joinDate": "2025-02-21T08:13:06.718Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
