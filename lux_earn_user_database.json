@@ -4876,14 +4876,16 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": "Shegzzy Media",
       "invited_users": [],
-      "balance": 85,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
       "completedMissions": [
-        2
+        2,
+        2,
+        1
       ]
     },
     {
