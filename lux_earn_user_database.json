@@ -36135,7 +36135,8 @@
         5,
         4,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mzee07",
@@ -36145,12 +36146,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 260,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
+      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
         1,
         2,
@@ -36160,9 +36162,10 @@
         5,
         6,
         7,
-        8
-      ],
-      "lastSpin": "2025-02-21T15:21:53.509Z"
+        8,
+        9,
+        10
+      ]
     },
     {
       "username": "Chiamakachi",
