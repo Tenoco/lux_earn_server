@@ -18854,7 +18854,7 @@
       "inviter_referral_code": "OFP5T",
       "inviter_username": "officialrollex",
       "invited_users": [],
-      "balance": 120,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18864,7 +18864,12 @@
         1,
         2,
         3,
-        4
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
       ],
       "lastSpin": null
     },
@@ -19182,7 +19187,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:49:48.393Z"
+      "joinDate": "2025-02-21T07:49:48.393Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
