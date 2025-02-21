@@ -11474,11 +11474,12 @@
       "inviter_username": null,
       "invited_users": [
         "Dhhecv1",
-        "Goohdyy"
+        "Goohdyy",
+        "Fanjansoy"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:16:19.851Z",
@@ -12373,7 +12374,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:45:06.366Z"
+      "joinDate": "2025-02-21T05:45:06.366Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fanjansoy",
+      "email": "khadijaaminu5656@gmail.com",
+      "encrypted_password": "627c99e0aa3b5d20766de6689ae093f8",
+      "referral_code": "FAWUB",
+      "inviter_referral_code": "MM6P4",
+      "inviter_username": "mmmmdjk1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:47:13.130Z"
     }
   ],
   "withdrawals": [
