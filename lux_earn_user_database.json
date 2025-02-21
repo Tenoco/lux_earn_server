@@ -37345,11 +37345,12 @@
       "inviter_username": null,
       "invited_users": [
         "Please111",
-        "Sophie8"
+        "Sophie8",
+        "John67"
       ],
       "balance": 20,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:44:18.929Z",
@@ -37493,7 +37494,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:01:26.406Z"
+      "joinDate": "2025-02-21T20:01:26.406Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "John67",
+      "email": "jonathanemma555@gmail.com",
+      "encrypted_password": "17f1df9f24dcdbbad02ae0f620e4ca53",
+      "referral_code": "JOSFP",
+      "inviter_referral_code": "VIXLF",
+      "inviter_username": "Vic2332",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:02:42.005Z"
     }
   ],
   "withdrawals": [
