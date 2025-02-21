@@ -22240,10 +22240,12 @@
       "referral_code": "JE7LQ",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Davidyouhave1"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -22665,6 +22667,21 @@
       "joinDate": "2025-02-21T09:17:19.799Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davidyouhave1",
+      "email": "egwujuliana500@gmail.com",
+      "encrypted_password": "84c53e2000dbf94db38707de168912f6",
+      "referral_code": "DACQX",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:17:43.361Z"
     }
   ],
   "withdrawals": [
