@@ -30515,7 +30515,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30526,7 +30526,7 @@
         2,
         4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T12:38:27.325Z"
     },
     {
       "username": "Sofia",
@@ -30765,7 +30765,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:38:18.313Z"
+      "joinDate": "2025-02-21T12:38:18.313Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
