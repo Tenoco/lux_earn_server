@@ -14461,7 +14461,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:33:43.224Z"
+      "joinDate": "2025-02-21T06:33:43.224Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kaytech",
+      "email": "Adeyeyekhalid5@gmail.com",
+      "encrypted_password": "97e2ce44f1b7b89273eeaa5c2c64f277",
+      "referral_code": "KART9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:33:46.471Z"
     }
   ],
   "withdrawals": [
