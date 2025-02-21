@@ -4356,11 +4356,12 @@
         "Iyafogo1 ",
         "Olamonet",
         "Iyafogo",
-        "Hhbet"
+        "Hhbet",
+        "Bbbbet"
       ],
       "balance": 555,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:08.439Z",
@@ -6792,7 +6793,23 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Bbbbet",
+      "email": "olamonet@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "BB3VJ",
+      "inviter_referral_code": "AYF10",
+      "inviter_username": "Ayoola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:33:08.020Z"
     }
   ],
   "withdrawals": [
