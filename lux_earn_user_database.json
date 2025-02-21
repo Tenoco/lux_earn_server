@@ -5707,10 +5707,12 @@
       "referral_code": "ABWC8",
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
-      "invited_users": [],
+      "invited_users": [
+        "Abdullahi3127"
+      ],
       "balance": 360,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -6153,6 +6155,21 @@
       "joinDate": "2025-02-21T00:20:00.713Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdullahi3127",
+      "email": "abdullahioladipo23@gmail.com",
+      "encrypted_password": "4582049405a2c9dd88ff1de19a566f31",
+      "referral_code": "ABLZ2",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:20:27.894Z"
     }
   ],
   "withdrawals": [
