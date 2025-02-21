@@ -29321,7 +29321,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:04:31.552Z"
+      "joinDate": "2025-02-21T12:04:31.552Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Diamond",
+      "email": "Blessingukachukwu@56",
+      "encrypted_password": "58b7419db78f11b7c070ca421f512e29",
+      "referral_code": "DIVY3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:04:36.319Z"
     }
   ],
   "withdrawals": [
