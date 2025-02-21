@@ -16843,11 +16843,12 @@
         "Emmanuel okpe",
         "Abigail Innocent",
         "Adorable",
-        "Abdulhakim"
+        "Abdulhakim",
+        "Bulus"
       ],
       "balance": 280,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -36584,7 +36585,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Peace ",
@@ -36952,6 +36954,21 @@
       "joinDate": "2025-02-21T15:48:02.394Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bulus",
+      "email": "bulusAKA@gmail.com",
+      "encrypted_password": "526870eec33783f37386cb3cf7e665b7",
+      "referral_code": "BUQ5R",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:48:24.199Z"
     }
   ],
   "withdrawals": [
