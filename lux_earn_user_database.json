@@ -18286,7 +18286,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:31:11.690Z"
+      "joinDate": "2025-02-21T07:31:11.690Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Edoboi",
+      "email": "sadovictor48@gmail.com",
+      "encrypted_password": "e61537f5342b930507f3bdcdcd71aebf",
+      "referral_code": "ED8F8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:31:26.894Z"
     }
   ],
   "withdrawals": [
