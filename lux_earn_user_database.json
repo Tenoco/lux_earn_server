@@ -33827,7 +33827,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:17:40.398Z"
+      "joinDate": "2025-02-21T14:17:40.398Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ramat",
+      "email": "abiodunsaheed886@gmail.com",
+      "encrypted_password": "2a6aabeaf66db923087a1fd913a60638",
+      "referral_code": "RAQX7",
+      "inviter_referral_code": "Saheed ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:17:56.698Z"
     }
   ],
   "withdrawals": [
