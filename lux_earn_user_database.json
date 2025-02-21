@@ -22516,7 +22516,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victory",
@@ -22585,6 +22586,21 @@
       "joinDate": "2025-02-21T09:13:59.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "atlandr",
+      "email": "sandymittens951@gmail.com",
+      "encrypted_password": "9e0d0cdbc02200f09c18ef075e7ed6aa",
+      "referral_code": "ATUBF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:15:32.817Z"
     }
   ],
   "withdrawals": [
