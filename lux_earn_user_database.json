@@ -13706,11 +13706,12 @@
         "Glory55",
         "Kel225",
         "Faithful09",
-        "Kindness45"
+        "Kindness45",
+        "Henry Joshua "
       ],
       "balance": 220,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -19602,6 +19603,21 @@
       "joinDate": "2025-02-21T07:56:27.684Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Henry Joshua ",
+      "email": "bruceallofu@gmail.com",
+      "encrypted_password": "d3f4dc4c0747ebf9f3659e36ccf52547",
+      "referral_code": "HE5KL",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:57:27.264Z"
     }
   ],
   "withdrawals": [
