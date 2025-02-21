@@ -20435,11 +20435,12 @@
         "daralola",
         "Smartdara",
         "Lolado123",
-        "Godisgreat"
+        "Godisgreat",
+        "Badoluck"
       ],
       "balance": 90,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21675,7 +21676,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:47:56.156Z"
+      "joinDate": "2025-02-21T08:47:56.156Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Badoluck",
+      "email": "davidosungba@gmail.com",
+      "encrypted_password": "97f8096f97a697c0b39217b44c4b503e",
+      "referral_code": "BAIVJ",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:48:00.103Z"
     }
   ],
   "withdrawals": [
