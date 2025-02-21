@@ -17456,14 +17456,17 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 0,
+      "balance": 78,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:18:40.100Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:18:51.781Z",
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Hbvnb",
@@ -17563,7 +17566,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:19:55.849Z"
+      "joinDate": "2025-02-21T07:19:55.849Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
