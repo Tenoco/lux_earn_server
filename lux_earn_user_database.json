@@ -37616,11 +37616,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:42:48.557Z",
-      "lastSpin": "2025-02-21T17:44:02.728Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T17:44:02.728Z"
     },
     {
       "username": "Princy",
@@ -37647,14 +37647,15 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:45:54.528Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
