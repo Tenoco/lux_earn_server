@@ -19434,7 +19434,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:54:05.166Z"
+      "joinDate": "2025-02-21T07:54:05.166Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tanoli98",
+      "email": "gallian68@gmail.com",
+      "encrypted_password": "7099928d92239e0d5961b6e31f63d6ce",
+      "referral_code": "TAWDG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:54:31.204Z"
     }
   ],
   "withdrawals": [
