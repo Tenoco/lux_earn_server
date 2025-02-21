@@ -37229,10 +37229,12 @@
       "referral_code": "SAXCP",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oludele"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:04:42.192Z",
@@ -37515,6 +37517,21 @@
       "joinDate": "2025-02-21T16:12:30.519Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oludele",
+      "email": "oludelesamuel62@gmail.com",
+      "encrypted_password": "db18adf6597aede6768a9c540d500709",
+      "referral_code": "OLAVP",
+      "inviter_referral_code": "SAXCP",
+      "inviter_username": "Samjaz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:13:17.993Z"
     }
   ],
   "withdrawals": [
