@@ -13717,7 +13717,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:18:28.795Z"
+      "joinDate": "2025-02-21T06:18:28.795Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SuccessfulEhdee ",
+      "email": "successfulehdee234@gmail.com",
+      "encrypted_password": "97a442bac82eab1ac565114ac8223d7a",
+      "referral_code": "SU4B5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:18:55.507Z"
     }
   ],
   "withdrawals": [
