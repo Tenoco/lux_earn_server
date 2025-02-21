@@ -10253,10 +10253,12 @@
       "referral_code": "HA2YX",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Tamia"
+      ],
       "balance": 305,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -10865,6 +10867,21 @@
       "joinDate": "2025-02-21T04:57:25.498Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tamia",
+      "email": "tamiafreya440@gmail.com",
+      "encrypted_password": "6aa60ec42d6d7eb001f8aa838c770794",
+      "referral_code": "TAA0F",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:58:25.245Z"
     }
   ],
   "withdrawals": [
