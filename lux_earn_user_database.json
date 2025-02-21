@@ -21794,7 +21794,7 @@
       "inviter_referral_code": "PEPVX",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21802,7 +21802,8 @@
       "joinDate": "2025-02-21T08:47:06.641Z",
       "completedMissions": [
         2,
-        1
+        1,
+        9
       ],
       "lastSpin": null
     },
@@ -22623,7 +22624,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Henry",
