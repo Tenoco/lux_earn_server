@@ -4343,10 +4343,12 @@
       "referral_code": "AYF10",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Iyafogo1 "
+      ],
       "balance": 555,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:08.439Z",
@@ -6361,6 +6363,21 @@
       "joinDate": "2025-02-21T00:23:01.704Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iyafogo1 ",
+      "email": "fenziemonet@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "IYHHH",
+      "inviter_referral_code": "AYF10",
+      "inviter_username": "Ayoola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:23:57.456Z"
     }
   ],
   "withdrawals": [
