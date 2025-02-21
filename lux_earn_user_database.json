@@ -30342,14 +30342,17 @@
       "inviter_referral_code": "PRFPU",
       "inviter_username": "Princesspromise",
       "invited_users": [],
-      "balance": 50,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:28:03.429Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T12:29:45.276Z"
     },
@@ -32629,7 +32632,8 @@
       "joinDate": "2025-02-21T13:44:02.564Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hay_bee291",
