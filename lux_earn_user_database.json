@@ -549,11 +549,12 @@
       "invited_users": [
         "Ameen001",
         "Magic",
-        "Mamman11"
+        "Mamman11",
+        "Temu"
       ],
       "balance": 220,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -4966,6 +4967,21 @@
       "joinDate": "2025-02-21T00:59:11.613Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Temu",
+      "email": "Ahmadyau170@gmail.com",
+      "encrypted_password": "abf156f3cf64496f9da2cabca68d95fe",
+      "referral_code": "TEYFD",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:59:58.534Z"
     }
   ],
   "withdrawals": [
