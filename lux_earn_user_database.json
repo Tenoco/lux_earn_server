@@ -8661,11 +8661,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Sammy4022"
+        "Sammy4022",
+        "Deraboy22 "
       ],
       "balance": 315,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:49:04.359Z",
@@ -13370,6 +13371,21 @@
       "joinDate": "2025-02-21T06:08:13.197Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Deraboy22 ",
+      "email": "chiderajustine22@gmail.com",
+      "encrypted_password": "dde01cedc829101077d6ab12f4c91ee2",
+      "referral_code": "DEWPV",
+      "inviter_referral_code": "SA6WT",
+      "inviter_username": "Sammy4021",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:09:10.506Z"
     }
   ],
   "withdrawals": [
