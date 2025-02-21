@@ -34265,14 +34265,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:26:58.540Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Hannah27 ",
@@ -34423,7 +34424,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:32:24.122Z"
+      "joinDate": "2025-02-21T14:32:24.122Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
