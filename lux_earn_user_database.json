@@ -37605,11 +37605,12 @@
         "Ayomi",
         "Alade",
         "Nifemi",
-        "Sodiq"
+        "Sodiq",
+        "Afees"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38216,7 +38217,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:45:55.216Z"
+      "joinDate": "2025-02-21T20:45:55.216Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Afees",
+      "email": "ibroibrahim11@gmail.com",
+      "encrypted_password": "f1c083e61b32d3a9be76bc21266b0648",
+      "referral_code": "AFLCP",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:46:08.612Z"
     }
   ],
   "withdrawals": [
