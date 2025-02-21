@@ -890,11 +890,12 @@
         "Oluwaferanmi",
         "Paradise ",
         "Olami ",
-        "Olamight "
+        "Olamight ",
+        "Ifygold"
       ],
       "balance": 185,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:05:06.761Z",
@@ -33680,7 +33681,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:14:27.409Z"
+      "joinDate": "2025-02-21T14:14:27.409Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ifygold",
+      "email": "oluwa6324@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "IFHQ0",
+      "inviter_referral_code": "RAJDK",
+      "inviter_username": "Raphealperry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:14:41.895Z"
     }
   ],
   "withdrawals": [
