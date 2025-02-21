@@ -34055,7 +34055,7 @@
       "invited_users": [
         "Emma003"
       ],
-      "balance": 150,
+      "balance": 511,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -34068,7 +34068,7 @@
         4,
         4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T16:07:57.262Z"
     },
     {
       "username": "Abudu joy ",
@@ -37294,7 +37294,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:07:54.403Z"
+      "joinDate": "2025-02-21T16:07:54.403Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
