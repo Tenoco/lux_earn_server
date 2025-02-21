@@ -38186,14 +38186,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Tenoco",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:19:37.463Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        1
+      ]
     },
     {
       "username": "Ellachidalu",
@@ -38208,7 +38210,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:21:38.825Z"
+      "joinDate": "2025-02-21T18:21:38.825Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
