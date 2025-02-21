@@ -31522,14 +31522,15 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:09:19.725Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Jaafar1004",
@@ -31724,7 +31725,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:17:33.865Z"
+      "joinDate": "2025-02-21T13:17:33.865Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
