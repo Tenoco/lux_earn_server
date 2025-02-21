@@ -2492,11 +2492,12 @@
         "Bayole21",
         "Halohaloauah22",
         "Ayelabowo",
-        "Bayo430"
+        "Bayo430",
+        "Horlai56"
       ],
       "balance": -720,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -37723,7 +37724,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:20:21.251Z"
+      "joinDate": "2025-02-21T22:20:21.251Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Horlai56",
+      "email": "GBaneey67@gmwil.com",
+      "encrypted_password": "4b467e15868f2369c177af03c73f2863",
+      "referral_code": "HOZFC",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:20:29.463Z"
     }
   ],
   "withdrawals": [
