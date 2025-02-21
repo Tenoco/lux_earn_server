@@ -6787,7 +6787,7 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 195,
+      "balance": -55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6851,7 +6851,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:34:14.074Z"
+      "joinDate": "2025-02-21T00:34:14.074Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -7069,6 +7071,16 @@
       "phoneNumber": "09065446569",
       "amount": 300,
       "timestamp": "2025-02-21T00:25:27.535Z",
+      "status": "pending"
+    },
+    {
+      "username": "Psblo",
+      "email": "preciousadeniran21@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "08129421431",
+      "amount": 250,
+      "timestamp": "2025-02-21T00:34:18.752Z",
       "status": "pending"
     }
   ]
