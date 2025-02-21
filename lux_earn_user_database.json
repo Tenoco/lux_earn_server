@@ -6749,10 +6749,12 @@
       "referral_code": "VI3MW",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Mohmoh olotu"
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:29:49.835Z",
@@ -7138,7 +7140,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:41:25.102Z"
+      "joinDate": "2025-02-21T00:41:25.102Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mohmoh olotu",
+      "email": "mohmoholotu@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "MO7LY",
+      "inviter_referral_code": "VI3MW",
+      "inviter_username": "virgils60",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:41:34.150Z"
     }
   ],
   "withdrawals": [
