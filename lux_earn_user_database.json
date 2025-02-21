@@ -11230,11 +11230,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "Inioluwa",
-        "Favour"
+        "Favour",
+        "Racheal "
       ],
       "balance": 185,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -18439,7 +18440,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:34:19.895Z"
+      "joinDate": "2025-02-21T07:34:19.895Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Racheal ",
+      "email": "animashaunrachel@gmail.com",
+      "encrypted_password": "cefc83be6aa785a7a14a3060cba1b6d6",
+      "referral_code": "RACZK",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:34:31.028Z"
     }
   ],
   "withdrawals": [
