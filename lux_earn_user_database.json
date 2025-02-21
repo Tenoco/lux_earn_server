@@ -23239,7 +23239,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:29:42.094Z"
+      "joinDate": "2025-02-21T09:29:42.094Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abbatioo1",
+      "email": "suleimanabbatiyahaya1696@gmail.com",
+      "encrypted_password": "315302f565b1bd31220787c13bfb7fe2",
+      "referral_code": "ABT6I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:29:52.000Z"
     }
   ],
   "withdrawals": [
