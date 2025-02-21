@@ -25473,10 +25473,12 @@
       "referral_code": "JO38K",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Tope"
+      ],
       "balance": 168,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:22:04.593Z",
@@ -28423,7 +28425,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:41:11.215Z"
+      "joinDate": "2025-02-21T11:41:11.215Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tope",
+      "email": "tope@gmail.com",
+      "encrypted_password": "ec1ee5f7dd814c47b8b32b42b1e18d8f",
+      "referral_code": "TOLXQ",
+      "inviter_referral_code": "JO38K",
+      "inviter_username": "Johnny ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:41:32.474Z"
     }
   ],
   "withdrawals": [
