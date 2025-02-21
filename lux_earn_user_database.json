@@ -1380,11 +1380,12 @@
         "Olofin78",
         "Izzymoney ",
         "Teeprime",
-        "Kulumfestus"
+        "Kulumfestus",
+        "monday22"
       ],
       "balance": 88,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -27787,6 +27788,21 @@
       "joinDate": "2025-02-21T11:18:26.854Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "monday22",
+      "email": "mondayakor54@gmail.com",
+      "encrypted_password": "6d35f3ecf7731379bc9f9a80e5417c48",
+      "referral_code": "MO3NN",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:18:44.151Z"
     }
   ],
   "withdrawals": [
