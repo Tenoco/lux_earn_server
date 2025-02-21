@@ -37915,7 +37915,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:25:06.456Z"
+      "joinDate": "2025-02-21T22:25:06.456Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Prosper caleb",
+      "email": "cp2843638@gmail.com",
+      "encrypted_password": "906c38d68112e6d0b3a7353f2461b995",
+      "referral_code": "PRJYQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:25:20.791Z"
     }
   ],
   "withdrawals": [
