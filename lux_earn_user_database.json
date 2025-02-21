@@ -10962,7 +10962,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:02:47.349Z"
+      "joinDate": "2025-02-21T05:02:47.349Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Godstime47",
+      "email": "omwanghegodstime826@gmail.com",
+      "encrypted_password": "2919a4f206ffe18e904b627e43169852",
+      "referral_code": "GOO5U",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:03:04.656Z"
     }
   ],
   "withdrawals": [
