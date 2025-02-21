@@ -26604,10 +26604,12 @@
       "referral_code": "MOTO9",
       "inviter_referral_code": "JE7LQ",
       "inviter_username": "Jerry14",
-      "invited_users": [],
+      "invited_users": [
+        "Smith "
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:47:27.566Z",
@@ -27628,6 +27630,21 @@
       "joinDate": "2025-02-21T11:14:03.039Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T11:14:51.063Z"
+    },
+    {
+      "username": "Smith ",
+      "email": "rsmithjames145@gmail.com",
+      "encrypted_password": "ac0a4eb3516ee6ce2d365db9ab6f94f3",
+      "referral_code": "SMVUK",
+      "inviter_referral_code": "MOTO9",
+      "inviter_username": "moloreofe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:15:12.225Z"
     }
   ],
   "withdrawals": [
