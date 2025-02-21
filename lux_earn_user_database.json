@@ -19662,11 +19662,12 @@
       "inviter_username": null,
       "invited_users": [
         "Kingsleyff ",
-        "09162129166"
+        "09162129166",
+        "Omotoke"
       ],
       "balance": 560,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:50:04.582Z",
@@ -26439,7 +26440,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:45:25.023Z"
+      "joinDate": "2025-02-21T10:45:25.023Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omotoke",
+      "email": "bilikijimoh38@gmail.com",
+      "encrypted_password": "2b2727f665cd4825fb71159bfbd759d7",
+      "referral_code": "OMSS4",
+      "inviter_referral_code": "KA4B6",
+      "inviter_username": "Kashey",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:45:31.555Z"
     }
   ],
   "withdrawals": [
