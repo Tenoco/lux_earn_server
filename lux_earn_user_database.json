@@ -15763,7 +15763,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:54:20.115Z"
+      "joinDate": "2025-02-21T06:54:20.115Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Henro947",
+      "email": "henryfelix947@gmail.com",
+      "encrypted_password": "c8b5328cbd9a3fac1c642d938b1efe2e",
+      "referral_code": "HEVV3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:54:34.614Z"
     }
   ],
   "withdrawals": [
