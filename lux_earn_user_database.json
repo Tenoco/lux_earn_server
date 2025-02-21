@@ -2392,11 +2392,12 @@
         "OmokolRe",
         "Kayode26",
         "Lola32E",
-        "Pamela210"
+        "Pamela210",
+        "Bayole21"
       ],
       "balance": 280,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -26007,6 +26008,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Bayole21",
+      "email": "sulymanzainab21@gmail.com",
+      "encrypted_password": "332488f015df64bf779ef212d373a0bb",
+      "referral_code": "BAWQY",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:39:20.548Z"
     }
   ],
   "withdrawals": [
