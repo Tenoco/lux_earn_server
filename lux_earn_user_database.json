@@ -19680,14 +19680,17 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 30,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:57:27.264Z",
       "completedMissions": [
-        2
+        2,
+        6,
+        7,
+        8
       ],
       "lastSpin": null
     },
