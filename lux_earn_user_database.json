@@ -19100,7 +19100,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:48:22.721Z"
+      "joinDate": "2025-02-21T07:48:22.721Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kyle",
+      "email": "ebube6141@gmail.com",
+      "encrypted_password": "645414f132edcd61343092f2920c1cba",
+      "referral_code": "KYE0R",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:48:28.124Z"
     }
   ],
   "withdrawals": [
