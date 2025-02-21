@@ -8749,11 +8749,12 @@
       "inviter_referral_code": "Netflify",
       "inviter_username": null,
       "invited_users": [
-        "ayo515"
+        "ayo515",
+        "Gft2221"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:55:49.237Z",
@@ -13823,7 +13824,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:21:26.124Z"
+      "joinDate": "2025-02-21T06:21:26.124Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gft2221",
+      "email": "godgifthauwamamud@gmail.com",
+      "encrypted_password": "596dfeec5a3be705c703a1e6925c15b0",
+      "referral_code": "GFRUB",
+      "inviter_referral_code": "AD98M",
+      "inviter_username": "Adewumi212",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:21:49.195Z"
     }
   ],
   "withdrawals": [
