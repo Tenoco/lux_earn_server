@@ -3088,11 +3088,12 @@
         "Moses money ",
         "Daniels",
         "Lyan Mubby ",
-        "Arinze08"
+        "Arinze08",
+        "cimekgadis"
       ],
       "balance": 337,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -37696,6 +37697,21 @@
       "joinDate": "2025-02-21T17:47:53.063Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "cimekgadis",
+      "email": "cimekgadis@gmail.com",
+      "encrypted_password": "dee74fe49109665e9dd4d5471d0b4b4f",
+      "referral_code": "CIE73",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:53:51.797Z"
     }
   ],
   "withdrawals": [
