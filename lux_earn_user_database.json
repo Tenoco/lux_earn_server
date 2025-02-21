@@ -14686,14 +14686,17 @@
         "Hannahbella",
         "Vicky"
       ],
-      "balance": 10,
+      "balance": 100,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
       "completedMissions": [
-        7
+        7,
+        1,
+        1,
+        1
       ],
       "lastSpin": null
     },
