@@ -141,11 +141,12 @@
         "sulaimanaminu12@",
         "Habexpro",
         "preciousmak",
-        "Illuminax "
+        "Illuminax ",
+        "kingbest001"
       ],
       "balance": 50,
-      "refers": 47,
-      "referralBalance": 4700,
+      "refers": 48,
+      "referralBalance": 4800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -36033,7 +36034,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ibrahimizzuddeen",
@@ -36398,6 +36400,21 @@
       "joinDate": "2025-02-21T15:28:32.959Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "kingbest001",
+      "email": "kingbestarts44@gmail.com",
+      "encrypted_password": "f8a17a6587ff21b548339b74d86044b1",
+      "referral_code": "KIYQ3",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:29:42.120Z"
     }
   ],
   "withdrawals": [
