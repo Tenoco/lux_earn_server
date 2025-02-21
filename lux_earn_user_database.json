@@ -116,11 +116,12 @@
         "Amelia",
         "Adexan",
         "Christy",
-        "Automatic_man"
+        "Automatic_man",
+        "Peculiarity86 "
       ],
       "balance": 50,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -14825,7 +14826,8 @@
         5,
         9,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Monnyjay001",
@@ -15126,6 +15128,21 @@
       "joinDate": "2025-02-21T06:44:12.455Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peculiarity86 ",
+      "email": "osasumwenpeculiar67@gmail.com",
+      "encrypted_password": "56e59e572d7cbbb0d10a453011ce98fc",
+      "referral_code": "PEPVK",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:44:45.134Z"
     }
   ],
   "withdrawals": [
