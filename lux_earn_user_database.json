@@ -24975,7 +24975,7 @@
       "inviter_referral_code": "CYPEY",
       "inviter_username": "Cyfer4pf",
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24984,7 +24984,8 @@
       "completedMissions": [
         1,
         1,
-        2
+        2,
+        8
       ],
       "lastSpin": null
     },
@@ -25877,12 +25878,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:31.802Z",
-      "lastSpin": "2025-02-21T10:35:52.467Z",
       "completedMissions": [
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:35:52.467Z"
     },
     {
       "username": "Mofe99",
