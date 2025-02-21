@@ -11163,7 +11163,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:10:34.174Z"
+      "joinDate": "2025-02-21T05:10:34.174Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olascoarts",
+      "email": "adedokunmujeeb97@gmail.com",
+      "encrypted_password": "18150d34fd784078d86d56ddb68bfd14",
+      "referral_code": "OLG4L",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:10:37.036Z"
     }
   ],
   "withdrawals": [
