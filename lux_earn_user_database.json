@@ -23274,10 +23274,12 @@
       "referral_code": "OY3P4",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayomikun "
+      ],
       "balance": 312,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:27:34.221Z",
@@ -23892,6 +23894,21 @@
       "joinDate": "2025-02-21T09:45:39.664Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomikun ",
+      "email": "anuoluwaoyewusi55@gmail.com",
+      "encrypted_password": "5d210305a44e672a8b02465d0eb704ff",
+      "referral_code": "AYG8F",
+      "inviter_referral_code": "OY3P4",
+      "inviter_username": "Oyewusi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:48:00.998Z"
     }
   ],
   "withdrawals": [
