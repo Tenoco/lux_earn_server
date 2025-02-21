@@ -15909,11 +15909,12 @@
         "Kelvin",
         "@bubble",
         "Unshakable era",
-        "Amaka11237"
+        "Amaka11237",
+        "Spotlessboo "
       ],
       "balance": 250,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
@@ -29551,7 +29552,8 @@
         8,
         9,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "godsave",
@@ -29801,6 +29803,21 @@
       "joinDate": "2025-02-21T12:15:31.608Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Spotlessboo ",
+      "email": "chijibig2006@gmail.com",
+      "encrypted_password": "ff9ac2662535ad67d2c4414a83d4f852",
+      "referral_code": "SPIZE",
+      "inviter_referral_code": "CHVDI",
+      "inviter_username": "Chizzy001xyz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:16:00.968Z"
     }
   ],
   "withdrawals": [
