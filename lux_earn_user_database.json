@@ -5375,11 +5375,12 @@
         "Fantana",
         "Karenn",
         "Fantasee",
-        "Kafilat"
+        "Kafilat",
+        "Johnnuy"
       ],
       "balance": 260,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -6278,6 +6279,21 @@
       "joinDate": "2025-02-21T00:21:37.670Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnnuy",
+      "email": "sundayclap@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "JOLB6",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:21:56.285Z"
     }
   ],
   "withdrawals": [
