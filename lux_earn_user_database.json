@@ -18653,11 +18653,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ridwanyusha",
-        "Qwertyui"
+        "Qwertyui",
+        "Fhhvuib"
       ],
       "balance": 250,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:23.181Z",
@@ -38232,7 +38233,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:24:59.111Z"
+      "joinDate": "2025-02-21T18:24:59.111Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fhhvuib",
+      "email": "yrrguhh467@gmail.com",
+      "encrypted_password": "a152e841783914146e4bcd4f39100686",
+      "referral_code": "FHJLF",
+      "inviter_referral_code": "RDVCZ",
+      "inviter_username": "Rdwanyus ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:25:08.314Z"
     }
   ],
   "withdrawals": [
