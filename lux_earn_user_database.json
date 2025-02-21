@@ -20291,7 +20291,7 @@
         "Joshua ",
         "frank6i"
       ],
-      "balance": 101,
+      "balance": 131,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -20301,7 +20301,8 @@
         2,
         6,
         7,
-        8
+        8,
+        1
       ],
       "lastSpin": "2025-02-21T09:08:05.448Z"
     },
@@ -37997,7 +37998,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:07:57.613Z"
+      "joinDate": "2025-02-21T18:07:57.613Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
