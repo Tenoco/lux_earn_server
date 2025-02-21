@@ -21271,7 +21271,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:37:11.081Z"
+      "joinDate": "2025-02-21T08:37:11.081Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Coachay",
+      "email": "hameerahayomide85@gmail.com",
+      "encrypted_password": "2588dfd44618f1e45df447620f2c707e",
+      "referral_code": "COL5E",
+      "inviter_referral_code": "DAIZN",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:37:13.725Z"
     }
   ],
   "withdrawals": [
