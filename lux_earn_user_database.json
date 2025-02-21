@@ -1755,11 +1755,12 @@
         "khenney",
         "Goldenstar ",
         "Olazzy01",
-        "Shinningglory"
+        "Shinningglory",
+        "coddy boy"
       ],
       "balance": 275,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10442,7 +10443,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:15:50.675Z"
+      "joinDate": "2025-02-21T04:15:50.675Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "coddy boy",
+      "email": "samuelamehogah@gmail.com",
+      "encrypted_password": "3f1dc77e99d561641afe56cfa2ad7073",
+      "referral_code": "COOKR",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:18:14.899Z"
     }
   ],
   "withdrawals": [
