@@ -32013,10 +32013,12 @@
       "referral_code": "HABXB",
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
-      "invited_users": [],
+      "invited_users": [
+        "Markito"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:26:17.653Z",
@@ -32162,7 +32164,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdom024",
@@ -32299,6 +32302,21 @@
       "joinDate": "2025-02-21T13:35:08.827Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Markito",
+      "email": "aremusegun615@gmail.com",
+      "encrypted_password": "c74f86f208c466b66e5057a3c347cf78",
+      "referral_code": "MA0WU",
+      "inviter_referral_code": "HABXB",
+      "inviter_username": "Hamzzy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:35:34.724Z"
     }
   ],
   "withdrawals": [
