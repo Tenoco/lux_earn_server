@@ -25372,11 +25372,12 @@
         "Guy",
         "Sweet",
         "Brag",
-        "Mally"
+        "Mally",
+        "Debi"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -28883,7 +28884,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:54:57.471Z"
+      "joinDate": "2025-02-21T11:54:57.471Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Debi",
+      "email": "fiyawe1485@yalcu.com",
+      "encrypted_password": "28f366382e7ad28e6fbcb64d2eede660",
+      "referral_code": "DEIMB",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:55:15.251Z"
     }
   ],
   "withdrawals": [
