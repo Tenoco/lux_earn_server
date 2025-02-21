@@ -5751,7 +5751,8 @@
         3,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Adamu",
@@ -6071,6 +6072,21 @@
       "joinDate": "2025-02-21T00:17:15.805Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "AMBASSADOR",
+      "email": "muttakaharuna23@gmail.com",
+      "encrypted_password": "a89e4161035139f30ea03ff7fd72230c",
+      "referral_code": "AMRUU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:17:39.527Z"
     }
   ],
   "withdrawals": [
