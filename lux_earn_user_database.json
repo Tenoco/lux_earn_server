@@ -20264,10 +20264,12 @@
       "referral_code": "BIW4P",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Hhh"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:09.637Z",
@@ -20518,6 +20520,21 @@
       "joinDate": "2025-02-21T08:17:54.184Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hhh",
+      "email": "destinybenjamin839@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "HH4GZ",
+      "inviter_referral_code": "BIW4P",
+      "inviter_username": "Big Dee",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:18:29.516Z"
     }
   ],
   "withdrawals": [
