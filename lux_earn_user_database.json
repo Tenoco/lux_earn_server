@@ -11544,10 +11544,12 @@
       "referral_code": "ISIY2",
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
-      "invited_users": [],
+      "invited_users": [
+        "Mary.Moses"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:13:00.527Z",
@@ -21348,6 +21350,21 @@
       "joinDate": "2025-02-21T08:38:37.571Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mary.Moses",
+      "email": "maryydaniel234@gmail.com",
+      "encrypted_password": "9546368a81dea9bfda8218b5873c4a7d",
+      "referral_code": "MAGOB",
+      "inviter_referral_code": "ISIY2",
+      "inviter_username": "Israelite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:39:57.233Z"
     }
   ],
   "withdrawals": [
