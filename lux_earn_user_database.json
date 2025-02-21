@@ -11662,7 +11662,7 @@
       "inviter_referral_code": "LI4O7",
       "inviter_username": "Livvey",
       "invited_users": [],
-      "balance": 80,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11671,9 +11671,9 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Tabzzy",
@@ -11885,7 +11885,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:30:45.064Z"
+      "joinDate": "2025-02-21T05:30:45.064Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
