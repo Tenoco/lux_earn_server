@@ -110,11 +110,12 @@
         "Mrbest",
         "Onaolapo",
         "Mjsilent ",
-        "Titanic "
+        "Titanic ",
+        "KingT"
       ],
       "balance": 50,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -12776,6 +12777,21 @@
       "joinDate": "2025-02-21T05:57:49.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "KingT",
+      "email": "titoluwanijohn499@gmail.com",
+      "encrypted_password": "3fc0a7acf087f549ac2b266baf94b8b1",
+      "referral_code": "KIHF9",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:58:28.611Z"
     }
   ],
   "withdrawals": [
