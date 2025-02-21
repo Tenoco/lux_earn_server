@@ -11957,7 +11957,8 @@
         3,
         2,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Taofiq123",
@@ -12094,6 +12095,21 @@
       "joinDate": "2025-02-21T05:36:35.372Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Elle",
+      "email": "igwenellyc@gmail.com",
+      "encrypted_password": "29b1699b33150674d48fbcd8cf3c057a",
+      "referral_code": "EL6MH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:36:57.872Z"
     }
   ],
   "withdrawals": [
