@@ -35288,10 +35288,12 @@
       "referral_code": "SUJSW",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Sulaimanaminu12 "
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:53:47.951Z",
@@ -35844,7 +35846,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:15:29.757Z"
+      "joinDate": "2025-02-21T15:15:29.757Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sulaimanaminu12 ",
+      "email": "sulaimanaminugra@gmail.com",
+      "encrypted_password": "974a624104d58557894f9902ac592e41",
+      "referral_code": "SUJDP",
+      "inviter_referral_code": "SUJSW",
+      "inviter_username": "sulaimanaminu12@",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:15:37.732Z"
     }
   ],
   "withdrawals": [
