@@ -13841,7 +13841,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:21:49.195Z"
+      "joinDate": "2025-02-21T06:21:49.195Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lawrenzo",
+      "email": "lawrenayo@gmail.com",
+      "encrypted_password": "a4764466ee7d9ab603bedcdc40738f69",
+      "referral_code": "LAXRK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:22:01.611Z"
     }
   ],
   "withdrawals": [
