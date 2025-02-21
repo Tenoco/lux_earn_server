@@ -26313,7 +26313,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26321,9 +26321,9 @@
       "joinDate": "2025-02-21T10:43:15.131Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3
+      ]
     },
     {
       "username": "Afuwh",
@@ -26457,7 +26457,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:45:31.555Z"
+      "joinDate": "2025-02-21T10:45:31.555Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
