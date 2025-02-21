@@ -3778,11 +3778,12 @@
       "inviter_username": "CoachNick",
       "invited_users": [
         "Ideh",
-        "Donpor"
+        "Donpor",
+        "Chris120"
       ],
       "balance": 70,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:36:27.148Z",
@@ -10340,7 +10341,8 @@
         1,
         4,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsley",
@@ -10555,6 +10557,21 @@
       "joinDate": "2025-02-21T04:26:12.211Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chris120",
+      "email": "christianwisdom30@gmail.com",
+      "encrypted_password": "d8f05c0610d1677e2b9b2c38ec335999",
+      "referral_code": "CH8TM",
+      "inviter_referral_code": "OL6TF",
+      "inviter_username": "OLIVIALOVE ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:27:00.619Z"
     }
   ],
   "withdrawals": [
