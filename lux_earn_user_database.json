@@ -19594,11 +19594,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:55:43.839Z",
-      "lastSpin": "2025-02-21T07:57:28.463Z",
       "completedMissions": [
         2,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:57:28.463Z"
     },
     {
       "username": "Pelumi123",
@@ -19827,6 +19827,21 @@
       "joinDate": "2025-02-21T08:01:44.761Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hartokeh ",
+      "email": "alabitawakalit2008@gmail.com",
+      "encrypted_password": "adfc3d7939972cb777faa91530c5d86f",
+      "referral_code": "HAP0J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:02:20.005Z"
     }
   ],
   "withdrawals": [
