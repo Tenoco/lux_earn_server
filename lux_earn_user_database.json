@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 4000,
+      "balance": 3000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -37232,7 +37232,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:01:47.550Z"
+      "joinDate": "2025-02-21T17:01:47.550Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -37300,6 +37302,17 @@
       "amount": 1000,
       "totalBalance": 3503,
       "timestamp": "2025-02-21T16:55:27.458Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "Ywyggw",
+      "accountNumber": "Gwhygww",
+      "bank": "GT Bank",
+      "amount": 1000,
+      "totalBalance": 3000,
+      "timestamp": "2025-02-21T17:02:05.483Z",
       "status": "pending"
     }
   ],
