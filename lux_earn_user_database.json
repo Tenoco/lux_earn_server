@@ -18648,10 +18648,12 @@
       "referral_code": "RDVCZ",
       "inviter_referral_code": "Cowoa",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ridwanyusha"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:23.181Z",
@@ -38035,7 +38037,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:10:45.725Z"
+      "joinDate": "2025-02-21T18:10:45.725Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ridwanyusha",
+      "email": "ridwanyushau15@gmail.com",
+      "encrypted_password": "301b40a1bbde4054572a63fc51272e21",
+      "referral_code": "RIBK6",
+      "inviter_referral_code": "RDVCZ",
+      "inviter_username": "Rdwanyus ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:12:15.892Z"
     }
   ],
   "withdrawals": [
