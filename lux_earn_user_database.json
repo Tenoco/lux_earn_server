@@ -687,11 +687,12 @@
         "Harfizino ",
         "Cleyboy001",
         "Sheujnr",
-        "Sharonk "
+        "Sharonk ",
+        "esty11"
       ],
       "balance": 112,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -22366,6 +22367,21 @@
       "joinDate": "2025-02-21T09:07:44.028Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "esty11",
+      "email": "ep702356@gmail.com",
+      "encrypted_password": "8e924cb1003b20ed356c3e575f1b5304",
+      "referral_code": "ESMDZ",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:08:58.094Z"
     }
   ],
   "withdrawals": [
