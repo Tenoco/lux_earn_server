@@ -24881,11 +24881,12 @@
         "Morenikeji22",
         "Enilex",
         "Joshprince ",
-        "Adedolapo33"
+        "Adedolapo33",
+        "Kriti22"
       ],
       "balance": 270,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -29480,7 +29481,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:08:47.422Z"
+      "joinDate": "2025-02-21T12:08:47.422Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kriti22",
+      "email": "cedotatic44@gmail.com",
+      "encrypted_password": "391c2ec47ca81c49bac28e86ec23b35b",
+      "referral_code": "KRDFZ",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:08:52.757Z"
     }
   ],
   "withdrawals": [
