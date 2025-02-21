@@ -27028,7 +27028,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:47.590Z",
-      "lastSpin": "2025-02-21T10:56:16.714Z",
       "completedMissions": [
         1,
         9,
@@ -27044,7 +27043,8 @@
         3,
         2,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:56:16.714Z"
     },
     {
       "username": "Aycash",
@@ -27554,6 +27554,21 @@
       "joinDate": "2025-02-21T11:10:00.131Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chiboy9",
+      "email": "chibuikeibeka20@gmail.com",
+      "encrypted_password": "ea2a4cf1f457f84340776b12f5c41480",
+      "referral_code": "CHUQV",
+      "inviter_referral_code": "0rxq6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:12:48.960Z"
     }
   ],
   "withdrawals": [
