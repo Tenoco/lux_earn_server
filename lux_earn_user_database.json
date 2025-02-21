@@ -17793,7 +17793,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Vickzy",
@@ -17819,16 +17820,16 @@
       "referral_code": "OLHMH",
       "inviter_referral_code": "RUDYD",
       "inviter_username": "Ruth641",
-      "invited_users": [
-        "Daves"
-      ],
-      "balance": 1,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 31,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:59.608Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-21T07:24:08.893Z"
     },
     {
