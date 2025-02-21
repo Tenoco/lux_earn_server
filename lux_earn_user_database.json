@@ -7719,7 +7719,8 @@
         4,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ashing",
@@ -7822,6 +7823,21 @@
       "joinDate": "2025-02-21T00:59:27.535Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Innova",
+      "email": "akintunderasheedatlove@gmail.com",
+      "encrypted_password": "bd201b931a7e0b6ded32ec393088da38",
+      "referral_code": "INBIF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:00:59.966Z"
     }
   ],
   "withdrawals": [
