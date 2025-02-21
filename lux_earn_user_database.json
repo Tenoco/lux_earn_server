@@ -13915,11 +13915,12 @@
         "Henry Joshua ",
         "blessing ",
         "3456@roseberry-45",
-        "Great@"
+        "Great@",
+        "Euphemia"
       ],
       "balance": 220,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -31109,6 +31110,21 @@
       "joinDate": "2025-02-21T12:55:12.476Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Euphemia",
+      "email": "euphemia89@gmail.com",
+      "encrypted_password": "ab9b563fa98607c25e3344e66095ff5d",
+      "referral_code": "EU1GM",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:57:06.366Z"
     }
   ],
   "withdrawals": [
