@@ -12904,7 +12904,8 @@
       "joinDate": "2025-02-21T06:00:41.541Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ademart",
@@ -13024,6 +13025,21 @@
       "joinDate": "2025-02-21T06:02:04.959Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "shadeajib ",
+      "email": "shadeajib@gmail.com",
+      "encrypted_password": "611078fa0950c9cf51d1ee907d34e8d2",
+      "referral_code": "SHP6S",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:02:42.079Z"
     }
   ],
   "withdrawals": [
