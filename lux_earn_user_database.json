@@ -556,11 +556,12 @@
         "Ameen001",
         "Magic",
         "Mamman11",
-        "Temu"
+        "Temu",
+        "Adamu"
       ],
       "balance": 220,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:41.669Z",
@@ -5564,6 +5565,21 @@
       "joinDate": "2025-02-21T00:10:30.708Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adamu",
+      "email": "Ahmadyau772@gmail.com",
+      "encrypted_password": "7f7d5f9f3a660f2b09e3aae62a15e29b",
+      "referral_code": "AD066",
+      "inviter_referral_code": "ABR0C",
+      "inviter_username": "AbdulAj",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:11:31.578Z"
     }
   ],
   "withdrawals": [
