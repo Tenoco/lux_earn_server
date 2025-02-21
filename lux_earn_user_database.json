@@ -11877,7 +11877,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mjsilent ",
@@ -12190,6 +12191,21 @@
       "joinDate": "2025-02-21T05:31:38.313Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smartpro",
+      "email": "azeezfaruq035@gmail.com",
+      "encrypted_password": "90a4da430e7b578ffdf0ebbaa21a80f3",
+      "referral_code": "SMTWO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:39:37.713Z"
     }
   ],
   "withdrawals": [
