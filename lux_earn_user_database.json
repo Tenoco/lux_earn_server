@@ -36142,12 +36142,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
+      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
         1,
         2,
@@ -36156,9 +36157,9 @@
         4,
         5,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-21T15:21:53.509Z"
+        7,
+        8
+      ]
     },
     {
       "username": "Chiamakachi",
@@ -36215,7 +36216,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Illuminax ",
