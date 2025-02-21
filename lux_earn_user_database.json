@@ -33882,14 +33882,15 @@
       "inviter_referral_code": "FIDTX",
       "inviter_username": "Firstmanoneart",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:11:46.133Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
