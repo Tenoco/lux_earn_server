@@ -18210,7 +18210,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:30:17.199Z"
+      "joinDate": "2025-02-21T07:30:17.199Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tawa davies",
+      "email": "dixingDavies@gmail.com",
+      "encrypted_password": "706e82e6d880724875bc5b7d419c1701",
+      "referral_code": "TAO4J",
+      "inviter_referral_code": "Kllo1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:30:22.227Z"
     }
   ],
   "withdrawals": [
