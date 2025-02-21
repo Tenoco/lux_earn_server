@@ -15287,11 +15287,12 @@
         "Monday11",
         "Syren ",
         "PeterPan",
-        "Ijeomanwokocha"
+        "Ijeomanwokocha",
+        "Smallie"
       ],
       "balance": 251,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -37380,7 +37381,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:55:00.930Z"
+      "joinDate": "2025-02-21T19:55:00.930Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Smallie",
+      "email": "smallimportant245@gmail.com",
+      "encrypted_password": "aebdb3c5ac75bc87f1287aa54a831ef0",
+      "referral_code": "SMDHH",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:55:50.995Z"
     }
   ],
   "withdrawals": [
