@@ -37614,10 +37614,12 @@
       "referral_code": "LIETS",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Blesslaitan"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:09:29.818Z",
@@ -37973,7 +37975,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:33:57.748Z"
+      "joinDate": "2025-02-21T20:33:57.748Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blesslaitan",
+      "email": "blesslaitan@gmail.com",
+      "encrypted_password": "97cd385802b04516e8bb932cf38415e6",
+      "referral_code": "BLGPQ",
+      "inviter_referral_code": "LIETS",
+      "inviter_username": "Lilafavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:34:08.725Z"
     }
   ],
   "withdrawals": [
