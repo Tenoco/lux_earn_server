@@ -15837,11 +15837,12 @@
         "Sholly",
         "Folly",
         "Folaky22",
-        "Mimielaly25"
+        "Mimielaly25",
+        "Danieljoy"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -16893,7 +16894,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:07:52.486Z"
+      "joinDate": "2025-02-21T16:07:52.486Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danieljoy",
+      "email": "danieljoy66@gmail.com",
+      "encrypted_password": "fb1a7a3ecec738fd6c7834671eb1935d",
+      "referral_code": "DA0TH",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:08:58.039Z"
     }
   ],
   "withdrawals": [
