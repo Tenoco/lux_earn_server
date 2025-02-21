@@ -20398,10 +20398,12 @@
       "referral_code": "DOTHD",
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
-      "invited_users": [],
+      "invited_users": [
+        "Azeem"
+      ],
       "balance": 175,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:00:28.222Z",
@@ -37031,7 +37033,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:49:52.513Z"
+      "joinDate": "2025-02-21T15:49:52.513Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Azeem",
+      "email": "Yusuf@gmail.com",
+      "encrypted_password": "038472d6bed074557b9fa0ac705506f6",
+      "referral_code": "AZZJO",
+      "inviter_referral_code": "DOTHD",
+      "inviter_username": "Doffy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:50:01.265Z"
     }
   ],
   "withdrawals": [
