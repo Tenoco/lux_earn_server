@@ -4288,11 +4288,12 @@
         "Sunnyjacs ",
         "Jerryjj",
         "Ebuka12",
-        "thompy"
+        "thompy",
+        "gidoun"
       ],
       "balance": 295,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -24267,7 +24268,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:59:07.378Z"
+      "joinDate": "2025-02-21T09:59:07.378Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "gidoun",
+      "email": "gideonsimon505@gmail.com",
+      "encrypted_password": "f5bb98a6bd1194ca06c73533a0e10a62",
+      "referral_code": "GIV4I",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:59:16.937Z"
     }
   ],
   "withdrawals": [
