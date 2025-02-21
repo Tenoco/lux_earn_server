@@ -4491,10 +4491,12 @@
       "referral_code": "ADHGB",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Midelove09153212011"
+      ],
       "balance": 240,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:09.658Z",
@@ -14957,6 +14959,21 @@
       "joinDate": "2025-02-21T06:41:14.997Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Midelove09153212011",
+      "email": "midelove2024@gmail.com",
+      "encrypted_password": "c442200e1346e7aafb04f4aeecfe3a2c",
+      "referral_code": "MINPC",
+      "inviter_referral_code": "ADHGB",
+      "inviter_username": "Adeex101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:41:27.784Z"
     }
   ],
   "withdrawals": [
