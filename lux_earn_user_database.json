@@ -38051,14 +38051,17 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:23:59.924Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T16:24:32.467Z",
+      "completedMissions": [
+        6,
+        6
+      ]
     },
     {
       "username": "Amaka567",
@@ -38073,7 +38076,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:27:15.638Z"
+      "joinDate": "2025-02-21T16:27:15.638Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
