@@ -27075,13 +27075,16 @@
       "inviter_referral_code": "IAKAO",
       "inviter_username": "iamdriller23",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:56:05.781Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     },
     {
