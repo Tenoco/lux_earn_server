@@ -25384,11 +25384,12 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [
-        "Becky "
+        "Becky ",
+        "Aisha"
       ],
       "balance": 420,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:20:57.368Z",
@@ -28022,6 +28023,21 @@
       "joinDate": "2025-02-21T11:24:32.033Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aisha",
+      "email": "abdulhakeemaisha321@gmail.com",
+      "encrypted_password": "72972b69942c42b59bc76bec59436f7c",
+      "referral_code": "AIXP9",
+      "inviter_referral_code": "FAUOQ",
+      "inviter_username": "Fatty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:25:08.074Z"
     }
   ],
   "withdrawals": [
