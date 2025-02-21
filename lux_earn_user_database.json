@@ -31562,13 +31562,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:58:50.949Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        2,
+        2,
+        4
+      ],
       "lastSpin": "2025-02-21T13:18:09.292Z"
     },
     {
@@ -35938,13 +35944,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:16:51.693Z",
-      "lastSpin": "2025-02-21T15:17:29.911Z",
       "completedMissions": [
         1,
         2,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:17:29.911Z"
     },
     {
       "username": "Boner",
