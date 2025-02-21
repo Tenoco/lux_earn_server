@@ -12692,11 +12692,12 @@
       "inviter_username": "ZYY",
       "invited_users": [
         "Ejenjj",
-        "Suck12139"
+        "Suck12139",
+        "Riter"
       ],
       "balance": 18,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -13751,7 +13752,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:19:06.762Z"
+      "joinDate": "2025-02-21T06:19:06.762Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Riter",
+      "email": "hhyqhxt375@smsop.cyou",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "RIJT4",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:19:50.499Z"
     }
   ],
   "withdrawals": [
