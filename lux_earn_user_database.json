@@ -10422,10 +10422,12 @@
       "referral_code": "FADNU",
       "inviter_referral_code": "KII01",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kingsley"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:14:18.578Z",
@@ -10530,7 +10532,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:18:53.787Z"
+      "joinDate": "2025-02-21T04:18:53.787Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingsley",
+      "email": "alexashenka716@gmail.com",
+      "encrypted_password": "b65ac1467d0be7cdf010baf68837a472",
+      "referral_code": "KI4UN",
+      "inviter_referral_code": "FADNU",
+      "inviter_username": "Falajiki",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:19:06.028Z"
     }
   ],
   "withdrawals": [
