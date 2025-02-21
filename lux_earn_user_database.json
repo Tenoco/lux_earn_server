@@ -31440,14 +31440,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:53:09.994Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        7
+      ],
+      "lastSpin": "2025-02-21T16:15:51.909Z"
     },
     {
       "username": "Temmy",
@@ -37857,7 +37859,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:19:04.619Z"
+      "joinDate": "2025-02-21T16:19:04.619Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
