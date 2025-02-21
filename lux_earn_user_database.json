@@ -18272,6 +18272,21 @@
       "joinDate": "2025-02-21T07:30:40.020Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victor",
+      "email": "remiadebanji@gmail.com",
+      "encrypted_password": "9278d2a709d718985592c25966202981",
+      "referral_code": "VIMG7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:31:11.690Z"
     }
   ],
   "withdrawals": [
