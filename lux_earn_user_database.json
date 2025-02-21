@@ -26977,14 +26977,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1,
+      "balance": 61,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:54:47.590Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T10:56:16.714Z"
+      "lastSpin": "2025-02-21T10:56:16.714Z",
+      "completedMissions": [
+        1,
+        9
+      ]
     },
     {
       "username": "Aycash",
