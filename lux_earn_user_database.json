@@ -19533,14 +19533,15 @@
       "inviter_referral_code": "DA2CY",
       "inviter_username": "Davolee001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:55:22.246Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Isahmarry",
@@ -19590,6 +19591,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:56:13.957Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:58:15.212Z"
     },
     {
