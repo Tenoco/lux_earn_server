@@ -12670,10 +12670,12 @@
       "referral_code": "CRIVJ",
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
-      "invited_users": [],
+      "invited_users": [
+        "Ejenjj"
+      ],
       "balance": 18,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -13209,7 +13211,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:06:20.386Z"
+      "joinDate": "2025-02-21T06:06:20.386Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ejenjj",
+      "email": "ibabalola003@gmail.com",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "EJ4UP",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:06:30.532Z"
     }
   ],
   "withdrawals": [
