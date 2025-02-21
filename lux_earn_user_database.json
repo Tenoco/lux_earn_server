@@ -24709,7 +24709,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:08:12.518Z"
+      "joinDate": "2025-02-21T10:08:12.518Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Finbarr ",
+      "email": "finbarr2403@gmail.com",
+      "encrypted_password": "bd7db7397f7d83052f829816ecc7f004",
+      "referral_code": "FIL2F",
+      "inviter_referral_code": "CUOJC ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:08:29.507Z"
     }
   ],
   "withdrawals": [
