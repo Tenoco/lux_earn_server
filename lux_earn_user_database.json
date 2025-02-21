@@ -1262,7 +1262,7 @@
         "HUSTLER001",
         "Legend Issy "
       ],
-      "balance": 195,
+      "balance": 315,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -1277,7 +1277,11 @@
         5,
         6,
         7,
-        8
+        8,
+        11,
+        11,
+        10,
+        10
       ],
       "lastSpin": "2025-02-20T23:16:26.595Z"
     },
@@ -35676,7 +35680,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:08:20.127Z"
+      "joinDate": "2025-02-21T15:08:20.127Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
