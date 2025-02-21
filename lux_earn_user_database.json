@@ -15623,11 +15623,12 @@
         "Chinenyefavour",
         "Damite",
         "Mhizteekay",
-        "Val998"
+        "Val998",
+        "GILBERTOSANTA"
       ],
       "balance": 380,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -27006,7 +27007,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:55:30.429Z"
+      "joinDate": "2025-02-21T10:55:30.429Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "GILBERTOSANTA",
+      "email": "monlebarisele@gmail.com",
+      "encrypted_password": "1138d0a4830230f5e14919a3d53a6e9f",
+      "referral_code": "GIEI8",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:55:53.585Z"
     }
   ],
   "withdrawals": [
