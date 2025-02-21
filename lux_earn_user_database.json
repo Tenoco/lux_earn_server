@@ -28038,11 +28038,12 @@
       "inviter_referral_code": "QRXQ6",
       "inviter_username": null,
       "invited_users": [
-        "Blessingivy"
+        "Blessingivy",
+        "GTNice "
       ],
       "balance": 48,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -29059,6 +29060,21 @@
       "joinDate": "2025-02-21T11:57:57.433Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "GTNice ",
+      "email": "godstimeobazuaye527@gmail.com",
+      "encrypted_password": "ac40b09d8766ee6c2ea0e65dfb14cea4",
+      "referral_code": "GTZGF",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:58:51.965Z"
     }
   ],
   "withdrawals": [
