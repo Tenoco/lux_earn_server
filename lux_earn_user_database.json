@@ -17878,7 +17878,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17890,7 +17890,8 @@
         3,
         4,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -18145,7 +18146,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Femzico ",
