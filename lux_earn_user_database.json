@@ -13191,14 +13191,14 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:05:56.091Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:12:23.903Z"
     },
     {
       "username": "Amopre1",
@@ -13512,7 +13512,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:12:21.528Z"
+      "joinDate": "2025-02-21T06:12:21.528Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
