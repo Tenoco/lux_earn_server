@@ -37702,11 +37702,12 @@
         "Doomsda",
         "Jallk",
         "Kalaoeo",
-        "Kaoalsk"
+        "Kaoalsk",
+        "Oslsmskso"
       ],
       "balance": 1,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -38145,7 +38146,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:42:18.812Z"
+      "joinDate": "2025-02-21T20:42:18.812Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oslsmskso",
+      "email": "anekaligwe@gmail.com",
+      "encrypted_password": "b8813667ed98769f7ff30fc0e8e1a997",
+      "referral_code": "OSLDT",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:43:19.246Z"
     }
   ],
   "withdrawals": [
