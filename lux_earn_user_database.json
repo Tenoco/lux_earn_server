@@ -31575,11 +31575,12 @@
       "inviter_username": null,
       "invited_users": [
         "Bjsnsn",
-        "Jbmnbw"
+        "Jbmnbw",
+        "Baknssn"
       ],
       "balance": 30,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:03:49.290Z",
@@ -34127,6 +34128,21 @@
       "joinDate": "2025-02-21T14:24:13.428Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Baknssn",
+      "email": "busydollar54321@gmail.com",
+      "encrypted_password": "f3394e49bfd26732cfa9662854c5038f",
+      "referral_code": "BAI2I",
+      "inviter_referral_code": "INAJD",
+      "inviter_username": "increasehendricks",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:25:30.736Z"
     }
   ],
   "withdrawals": [
