@@ -14724,7 +14724,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:21.383Z",
-      "lastSpin": "2025-02-21T06:39:15.564Z",
       "completedMissions": [
         1,
         2,
@@ -14738,7 +14737,8 @@
         8,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:39:15.564Z"
     },
     {
       "username": "Hephzibah ",
@@ -15316,6 +15316,21 @@
       "joinDate": "2025-02-21T06:47:29.021Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bliss ",
+      "email": "glorybliss953@gmail.com",
+      "encrypted_password": "7930c951e609e461e8226004ed91a985",
+      "referral_code": "BLUD7",
+      "inviter_referral_code": "  ANJQD  Ma the referral  code ooo Don't say I did not tell you",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:47:44.132Z"
     }
   ],
   "withdrawals": [
