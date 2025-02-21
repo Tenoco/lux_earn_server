@@ -31609,7 +31609,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:15:29.965Z"
+      "joinDate": "2025-02-21T13:15:29.965Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vardi",
+      "email": "vardi734@gmail.com",
+      "encrypted_password": "b959859c11b30a75b7cf5cd0e4698230",
+      "referral_code": "VA7JC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:15:47.109Z"
     }
   ],
   "withdrawals": [
