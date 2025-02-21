@@ -14703,11 +14703,12 @@
         "Folake",
         "Hannahbella",
         "Vicky",
-        "Jiggy"
+        "Jiggy",
+        "Baduku"
       ],
       "balance": 100,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -16222,7 +16223,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:00:36.358Z"
+      "joinDate": "2025-02-21T07:00:36.358Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Baduku",
+      "email": "baduku545@gmail.com",
+      "encrypted_password": "7b139cb9da85338779292945c2edca19",
+      "referral_code": "BAMVB",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:00:41.711Z"
     }
   ],
   "withdrawals": [
