@@ -17740,6 +17740,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:45.684Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:26:15.682Z"
     },
     {
@@ -17931,6 +17932,21 @@
       "joinDate": "2025-02-21T07:25:47.730Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rdwanyus ",
+      "email": "ryushau74@gmail.com",
+      "encrypted_password": "301b40a1bbde4054572a63fc51272e21",
+      "referral_code": "RDVCZ",
+      "inviter_referral_code": "Cowoa",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:26:23.181Z"
     }
   ],
   "withdrawals": [
