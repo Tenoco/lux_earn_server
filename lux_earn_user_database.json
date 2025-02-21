@@ -26902,7 +26902,7 @@
       "inviter_referral_code": "MI44N",
       "inviter_username": "Mimi4success",
       "invited_users": [],
-      "balance": 150,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26913,7 +26913,9 @@
         3,
         4,
         5,
-        6
+        6,
+        6,
+        9
       ],
       "lastSpin": null
     },
@@ -27193,7 +27195,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:00:06.974Z"
+      "joinDate": "2025-02-21T11:00:06.974Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
