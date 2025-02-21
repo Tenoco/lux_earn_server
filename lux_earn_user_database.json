@@ -37608,11 +37608,12 @@
         "Sodiq",
         "Afees",
         "Sulyat",
-        "Badiru "
+        "Badiru ",
+        "Zubby"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38272,10 +38273,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:47:46.863Z",
-      "lastSpin": "2025-02-21T20:48:05.769Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T20:48:05.769Z"
     },
     {
       "username": "Nsksosls",
@@ -38310,6 +38311,21 @@
       "joinDate": "2025-02-21T20:48:57.128Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zubby",
+      "email": "zubby66@gmail.com",
+      "encrypted_password": "744d2755d218205edaf8778e58bbc1ab",
+      "referral_code": "ZUY6L",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:50:37.511Z"
     }
   ],
   "withdrawals": [
