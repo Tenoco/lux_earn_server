@@ -34064,11 +34064,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Emma003"
+        "Emma003",
+        "greatking"
       ],
       "balance": 511,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:17:32.872Z",
@@ -37197,7 +37198,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Anonymous12",
@@ -37445,6 +37447,21 @@
       "joinDate": "2025-02-21T16:10:25.246Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "greatking",
+      "email": "greatgodswill46@gmail.com",
+      "encrypted_password": "ef8b4e9c170a958a52f8023826c9a2e4",
+      "referral_code": "GRSAJ",
+      "inviter_referral_code": "KEKSN",
+      "inviter_username": "Kezie313",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:11:38.534Z"
     }
   ],
   "withdrawals": [
