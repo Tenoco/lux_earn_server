@@ -35685,17 +35685,18 @@
       "inviter_referral_code": "AD5OT",
       "inviter_username": "Adedoyin1999",
       "invited_users": [],
-      "balance": 82,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:07:23.911Z",
+      "lastSpin": "2025-02-21T15:08:02.471Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": "2025-02-21T15:08:02.471Z"
+        2,
+        5
+      ]
     },
     {
       "username": "sallee",
@@ -35744,7 +35745,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:10:50.879Z"
+      "joinDate": "2025-02-21T15:10:50.879Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
