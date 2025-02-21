@@ -1753,11 +1753,12 @@
         "Moshob",
         "khenney",
         "Goldenstar ",
-        "Olazzy01"
+        "Olazzy01",
+        "Shinningglory"
       ],
       "balance": 275,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -10389,7 +10390,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:13:07.215Z"
+      "joinDate": "2025-02-21T04:13:07.215Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shinningglory",
+      "email": "alaotobi2019@gmail.com",
+      "encrypted_password": "b0721122052af74c7d9289071d315ee0",
+      "referral_code": "SHRAS",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:14:10.573Z"
     }
   ],
   "withdrawals": [
