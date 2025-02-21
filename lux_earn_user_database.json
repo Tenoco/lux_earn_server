@@ -22707,11 +22707,12 @@
         "Amobi",
         "samueljoeseph",
         "Smanazceo",
-        "Jerry30"
+        "Jerry30",
+        "Lolashi"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -37818,7 +37819,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:58:19.464Z"
+      "joinDate": "2025-02-21T17:58:19.464Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lolashi",
+      "email": "kolade@gmail.com",
+      "encrypted_password": "251ef0fec54bbc5f2c75d728ff8148b4",
+      "referral_code": "LOV6D",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:58:39.917Z"
     }
   ],
   "withdrawals": [
