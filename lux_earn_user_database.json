@@ -16296,6 +16296,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:02.038Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:01:15.230Z"
     },
     {
@@ -16314,6 +16315,21 @@
       "joinDate": "2025-02-21T07:01:02.685Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sanitydora",
+      "email": "akumbursaaondo@gmail.com",
+      "encrypted_password": "9b16a5b15f144c66dfc4e89ed6b28ce7",
+      "referral_code": "SAXZB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:01:28.554Z"
     }
   ],
   "withdrawals": [
