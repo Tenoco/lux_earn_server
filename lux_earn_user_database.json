@@ -2079,11 +2079,12 @@
         "Amalaugo3",
         "Sylverfox ",
         "Rosequeen",
-        "Favour48"
+        "Favour48",
+        "Hamsterkombat"
       ],
       "balance": 285,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -34423,13 +34424,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:32:11.803Z",
-      "lastSpin": "2025-02-21T14:33:39.024Z",
       "completedMissions": [
         1,
         2,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:33:39.024Z"
     },
     {
       "username": "Zachariah ",
@@ -34549,6 +34550,21 @@
       "joinDate": "2025-02-21T14:36:02.277Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hamsterkombat",
+      "email": "chiboybethel5@gmail.com",
+      "encrypted_password": "9da46d6229addedd8c957e3c3cce692b",
+      "referral_code": "HAUW1",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:36:54.257Z"
     }
   ],
   "withdrawals": [
