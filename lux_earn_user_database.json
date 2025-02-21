@@ -23113,14 +23113,15 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:26:43.154Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Boluwatife02",
@@ -23186,7 +23187,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:28:08.655Z"
+      "joinDate": "2025-02-21T09:28:08.655Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
