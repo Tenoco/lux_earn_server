@@ -16299,11 +16299,12 @@
         "Akano",
         "Absolute ",
         "Victor oluwafemi ",
-        "Idowu"
+        "Idowu",
+        "Raphino123"
       ],
       "balance": 60,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:10.486Z",
@@ -37880,7 +37881,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:24:01.406Z"
+      "joinDate": "2025-02-21T22:24:01.406Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Raphino123",
+      "email": "charlotebeckerz23@gmail.com",
+      "encrypted_password": "a09b8041622ac6d88a6003ab16da48a6",
+      "referral_code": "RAA6F",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:24:24.714Z"
     }
   ],
   "withdrawals": [
