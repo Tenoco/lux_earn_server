@@ -24899,7 +24899,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VaLi ",
@@ -25253,6 +25254,21 @@
       "joinDate": "2025-02-21T10:22:04.593Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "WilliamsSmith",
+      "email": "enockstephen3446@gmail.com",
+      "encrypted_password": "132f85f9594d54c8ebe75a52ed465cd0",
+      "referral_code": "WIUEP",
+      "inviter_referral_code": "KII01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:22:31.794Z"
     }
   ],
   "withdrawals": [
