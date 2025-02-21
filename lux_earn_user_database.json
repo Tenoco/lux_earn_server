@@ -38439,14 +38439,13 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:06:59.868Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T23:07:31.148Z"
     },
     {
       "username": "Olarss12 ",
@@ -38461,7 +38460,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:07:23.384Z"
+      "joinDate": "2025-02-21T23:07:23.384Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
