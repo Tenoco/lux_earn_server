@@ -17277,18 +17277,20 @@
       "inviter_referral_code": "KIKCL",
       "inviter_username": "KingMartins30",
       "invited_users": [],
-      "balance": 91,
+      "balance": 151,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:15:06.688Z",
+      "lastSpin": "2025-02-21T07:15:57.484Z",
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": "2025-02-21T07:15:57.484Z"
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "And ",
@@ -17457,11 +17459,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:18:31.426Z",
-      "lastSpin": "2025-02-21T07:18:53.036Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:18:53.036Z"
     },
     {
       "username": "Glory55",
