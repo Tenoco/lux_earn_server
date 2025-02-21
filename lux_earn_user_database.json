@@ -11794,7 +11794,8 @@
       "joinDate": "2025-02-21T05:26:15.332Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abraham6693",
@@ -11812,6 +11813,21 @@
       "joinDate": "2025-02-21T05:28:54.585Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kolawole ",
+      "email": "abdulmujeebkolawole00@gmail.com",
+      "encrypted_password": "75d9636ef5b3916aae4dd6e3aa719ef7",
+      "referral_code": "KO70L",
+      "inviter_referral_code": "LI407",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:29:24.395Z"
     }
   ],
   "withdrawals": [
