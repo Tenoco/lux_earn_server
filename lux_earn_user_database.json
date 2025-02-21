@@ -12815,16 +12815,16 @@
       "inviter_referral_code": "WOJE5",
       "inviter_username": "Wonderful ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "Chris Richalbert ",
@@ -12941,7 +12941,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:01:16.593Z"
+      "joinDate": "2025-02-21T06:01:16.593Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
