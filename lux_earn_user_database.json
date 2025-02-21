@@ -12699,11 +12699,12 @@
         "Suck12139",
         "Riter",
         "Theo",
-        "Ruka"
+        "Ruka",
+        "Great"
       ],
       "balance": 18,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -14096,7 +14097,8 @@
         1,
         1,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Zaddex17",
@@ -14277,6 +14279,21 @@
       "joinDate": "2025-02-21T06:30:19.628Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Great",
+      "email": "greatprince@gmail.com",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "GRXRL",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:30:59.526Z"
     }
   ],
   "withdrawals": [
