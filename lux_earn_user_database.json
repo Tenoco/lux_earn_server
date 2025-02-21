@@ -20443,11 +20443,12 @@
         "Lolado123",
         "Godisgreat",
         "Badoluck",
-        "Danicoko"
+        "Danicoko",
+        "Gkololo"
       ],
       "balance": 90,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21527,13 +21528,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:42:33.285Z",
-      "lastSpin": "2025-02-21T08:43:59.399Z",
       "completedMissions": [
         1,
         2,
         2,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:43:59.399Z"
     },
     {
       "username": "Kokos8",
@@ -21791,6 +21792,21 @@
       "joinDate": "2025-02-21T08:50:23.668Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gkololo",
+      "email": "darasi@gmail.com",
+      "encrypted_password": "2c9779803d4e3888ab827d48bb7ac13a",
+      "referral_code": "GKIRH",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:50:56.302Z"
     }
   ],
   "withdrawals": [
