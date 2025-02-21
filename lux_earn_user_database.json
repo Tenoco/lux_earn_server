@@ -226,11 +226,12 @@
         "Specboi55 ",
         "Zikkil97",
         "Annabel",
-        "Whiteinnocent"
+        "Whiteinnocent",
+        "Whiteinnocentcrypto"
       ],
       "balance": 165,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -11530,6 +11531,21 @@
       "joinDate": "2025-02-21T05:19:40.059Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Whiteinnocentcrypto",
+      "email": "omicbusinessng@gmail.com",
+      "encrypted_password": "e0f22765c94e2371635a2f0cab5e169f",
+      "referral_code": "WHOTF",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:20:52.035Z"
     }
   ],
   "withdrawals": [
