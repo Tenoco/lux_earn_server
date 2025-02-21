@@ -16787,11 +16787,12 @@
         "abbaadamulawal",
         "Kokos8",
         "Adeeye Esther Omolayo ",
-        "Roseyjoy"
+        "Roseyjoy",
+        "Nikkypeller"
       ],
       "balance": 30,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -35180,6 +35181,21 @@
       "joinDate": "2025-02-21T14:52:25.526Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nikkypeller",
+      "email": "adediranadenike08@gmail.com",
+      "encrypted_password": "0752e87703da15503cd3407535cc8de7",
+      "referral_code": "NIHS1",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:52:36.986Z"
     }
   ],
   "withdrawals": [
