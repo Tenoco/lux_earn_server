@@ -5729,11 +5729,12 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [
-        "Abdullahi3127"
+        "Abdullahi3127",
+        "Abdullahi3126"
       ],
       "balance": 360,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -16079,7 +16080,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:40.064Z"
+      "joinDate": "2025-02-21T06:58:40.064Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdullahi3126",
+      "email": "abdullahioladipo0@gmail.com",
+      "encrypted_password": "4582049405a2c9dd88ff1de19a566f31",
+      "referral_code": "ABJAT",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:44.281Z"
     }
   ],
   "withdrawals": [
