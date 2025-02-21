@@ -9817,10 +9817,12 @@
       "referral_code": "RAA8G",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Monnyjay001"
+      ],
       "balance": 165,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:42:35.322Z",
@@ -14749,6 +14751,21 @@
       "joinDate": "2025-02-21T06:37:42.592Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Monnyjay001",
+      "email": "mondaymichael220@gmail.com",
+      "encrypted_password": "038f6ef19167fa7f7531a2eab56622db",
+      "referral_code": "MOG2Q",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": "Rashmoney",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:37:55.217Z"
     }
   ],
   "withdrawals": [
