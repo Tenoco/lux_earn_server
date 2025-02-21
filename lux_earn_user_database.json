@@ -3510,11 +3510,12 @@
         "Ferdinand stephen",
         "Onyedikachi Ikube",
         "Ikube ikem",
-        "Ikem chibuike "
+        "Ikem chibuike ",
+        "Ike judit"
       ],
       "balance": 265,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -29113,6 +29114,21 @@
       "joinDate": "2025-02-21T11:59:06.651Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ike judit",
+      "email": "ikejudit01@gmail.com",
+      "encrypted_password": "b7491384b7f752f819768391c057a630",
+      "referral_code": "IKDPN",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:59:16.955Z"
     }
   ],
   "withdrawals": [
