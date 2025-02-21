@@ -2048,11 +2048,12 @@
         "creativeeaglesgrafix",
         "Amaka5",
         "Amalaugo3",
-        "Sylverfox "
+        "Sylverfox ",
+        "Rosequeen"
       ],
       "balance": 285,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -27024,7 +27025,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:55:53.585Z"
+      "joinDate": "2025-02-21T10:55:53.585Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rosequeen",
+      "email": "rosequeenokwajie@gmail.com",
+      "encrypted_password": "abd129434710d9a861d4228390dc37dc",
+      "referral_code": "ROYUV",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:56:05.781Z"
     }
   ],
   "withdrawals": [
