@@ -15114,11 +15114,12 @@
         "TeeVibez",
         "Christian1m0",
         "Sugar96",
-        "Isreal "
+        "Isreal ",
+        "Monday11"
       ],
       "balance": 251,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -31626,7 +31627,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:15:47.109Z"
+      "joinDate": "2025-02-21T13:15:47.109Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Monday11",
+      "email": "jamesjerry4949153@gmail.com",
+      "encrypted_password": "7ce29050f2b5df40578be5fbfb533f38",
+      "referral_code": "MOORS",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:16:32.818Z"
     }
   ],
   "withdrawals": [
