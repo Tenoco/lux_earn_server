@@ -2493,11 +2493,12 @@
         "Halohaloauah22",
         "Ayelabowo",
         "Bayo430",
-        "Horlai56"
+        "Horlai56",
+        "Bail279"
       ],
       "balance": -720,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -37862,7 +37863,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:23:53.001Z"
+      "joinDate": "2025-02-21T22:23:53.001Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bail279",
+      "email": "ailerey67@gmail.com",
+      "encrypted_password": "9935b6b90fba0fdb972a3d03bcc73eb6",
+      "referral_code": "BA750",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:24:01.406Z"
     }
   ],
   "withdrawals": [
