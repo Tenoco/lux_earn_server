@@ -13283,11 +13283,12 @@
         "Adamsa1",
         "AyoRichee ",
         "Haidar007",
-        "Bright002"
+        "Bright002",
+        "Mansur2994"
       ],
       "balance": 251,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -31644,7 +31645,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:16:32.818Z"
+      "joinDate": "2025-02-21T13:16:32.818Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mansur2994",
+      "email": "iyimogamansur@gmail.com",
+      "encrypted_password": "a1cc1ead35aaed034c0d10336322b3e7",
+      "referral_code": "MAFVN",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:16:41.030Z"
     }
   ],
   "withdrawals": [
