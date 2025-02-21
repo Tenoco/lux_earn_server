@@ -848,11 +848,12 @@
         "Olamokas",
         "Coachwisdom ",
         "Loverboy",
-        "Micheally1234"
+        "Micheally1234",
+        "Sasana"
       ],
       "balance": 295,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -37025,6 +37026,21 @@
       "joinDate": "2025-02-21T19:21:07.000Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sasana",
+      "email": "atubaba15@gmail.com",
+      "encrypted_password": "4dae5edbe8a6a657d701b771ee07e6f1",
+      "referral_code": "SA5J5",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:22:36.963Z"
     }
   ],
   "withdrawals": [
