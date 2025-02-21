@@ -19165,7 +19165,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:49:43.409Z"
+      "joinDate": "2025-02-21T07:49:43.409Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Atn",
+      "email": "autanmaulaya@gmai.com",
+      "encrypted_password": "b6e5ad8f7c33020edbcebe51dd39230c",
+      "referral_code": "ATL02",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:49:48.393Z"
     }
   ],
   "withdrawals": [
