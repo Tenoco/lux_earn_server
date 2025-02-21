@@ -38317,14 +38317,16 @@
       "inviter_referral_code": "JA47F",
       "inviter_username": "jaytee037",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:55:18.616Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3
       ]
     }
   ],
