@@ -4354,11 +4354,12 @@
       "invited_users": [
         "Iyafogo1 ",
         "Olamonet",
-        "Iyafogo"
+        "Iyafogo",
+        "Hhbet"
       ],
       "balance": 555,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:45:08.439Z",
@@ -6739,6 +6740,21 @@
       "joinDate": "2025-02-21T00:31:05.093Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hhbet",
+      "email": "ola78733@gmail.com",
+      "encrypted_password": "1537ed3fd64122bff37cf50cd0aa2713",
+      "referral_code": "HHTFV",
+      "inviter_referral_code": "AYF10",
+      "inviter_username": "Ayoola ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:31:24.071Z"
     }
   ],
   "withdrawals": [
