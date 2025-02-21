@@ -28026,11 +28026,12 @@
       "invited_users": [
         "Odubiyi nofiu",
         "Alnasiry0",
-        "Abdul ganiu"
+        "Abdul ganiu",
+        "ajibola"
       ],
       "balance": 550,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -37092,6 +37093,21 @@
       "joinDate": "2025-02-21T16:43:32.492Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ajibola",
+      "email": "ajibolaquadri@gmail.com",
+      "encrypted_password": "caaf64811caaafc35e574db217588981",
+      "referral_code": "AJC4H",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": "Nabeelo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:43:55.738Z"
     }
   ],
   "withdrawals": [
