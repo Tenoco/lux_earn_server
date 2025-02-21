@@ -37039,15 +37039,32 @@
       "referral_code": "JAY3A",
       "inviter_referral_code": "ANF7U",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Fred"
+      ],
       "balance": 10,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:50:53.687Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T23:51:48.540Z"
+    },
+    {
+      "username": "Fred",
+      "email": "fredsautos2007@gmail.com",
+      "encrypted_password": "9b3703fc9dc6728f061b78092a9eb2b2",
+      "referral_code": "FREN7",
+      "inviter_referral_code": "JAY3A",
+      "inviter_username": "Jasper ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:54:42.873Z"
     }
   ],
   "withdrawals": [
