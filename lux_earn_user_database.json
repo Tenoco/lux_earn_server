@@ -37164,7 +37164,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T21:45:25.450Z"
+      "joinDate": "2025-02-21T21:45:25.450Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
