@@ -9331,10 +9331,12 @@
       "referral_code": "CAKGY",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Adefaz11 "
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -17396,6 +17398,21 @@
       "joinDate": "2025-02-21T07:17:31.782Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adefaz11 ",
+      "email": "haryomide4479@gmail.com",
+      "encrypted_password": "fc7fc678608590b123692867f176fe63",
+      "referral_code": "AD1PD",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:18:03.626Z"
     }
   ],
   "withdrawals": [
