@@ -26102,11 +26102,12 @@
         "Ruthie",
         "Yusuf Ali",
         "Bossbabyni",
-        "Adeolusarah"
+        "Adeolusarah",
+        "Peace out"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -33352,7 +33353,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Amaka",
@@ -33472,6 +33474,21 @@
       "joinDate": "2025-02-21T14:09:39.081Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peace out",
+      "email": "peacefulg@gmail.com",
+      "encrypted_password": "9d9c3dcef1aeff1fe30a553c624eb4ea",
+      "referral_code": "PET7Y",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:09:52.607Z"
     }
   ],
   "withdrawals": [
