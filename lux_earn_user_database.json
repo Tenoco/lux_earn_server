@@ -28300,11 +28300,12 @@
       "invited_users": [
         "Blessingivy",
         "GTNice ",
-        "Sofia"
+        "Sofia",
+        "Princepromzie"
       ],
       "balance": 48,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -37741,7 +37742,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:20:29.463Z"
+      "joinDate": "2025-02-21T22:20:29.463Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Princepromzie",
+      "email": "princepromzie@gmail.com",
+      "encrypted_password": "55a995c43c6422d062d5d3e7777e1495",
+      "referral_code": "PRFA7",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:20:39.682Z"
     }
   ],
   "withdrawals": [
