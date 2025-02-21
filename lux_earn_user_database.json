@@ -13511,10 +13511,12 @@
       "referral_code": "DAY2X",
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
-      "invited_users": [],
+      "invited_users": [
+        "Temmie336"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:11:09.959Z",
@@ -14574,7 +14576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:34:56.300Z"
+      "joinDate": "2025-02-21T06:34:56.300Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Temmie336",
+      "email": "sammypablo336@gmail.com",
+      "encrypted_password": "182ef00d08630b5d60af12a75ea806c6",
+      "referral_code": "TERYC",
+      "inviter_referral_code": "DAY2X",
+      "inviter_username": "daniee250",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:35:30.775Z"
     }
   ],
   "withdrawals": [
