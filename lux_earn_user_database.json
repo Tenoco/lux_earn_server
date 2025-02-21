@@ -16470,11 +16470,12 @@
         "jaytee037",
         "Mark777",
         "Victor1227",
-        "Abdul1752"
+        "Abdul1752",
+        "Akugbe "
       ],
       "balance": 262,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -33963,7 +33964,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:21:05.806Z"
+      "joinDate": "2025-02-21T14:21:05.806Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akugbe ",
+      "email": "ikponmwonbacisqo@gmail.com",
+      "encrypted_password": "14a39bf9e815c4a01a9022d527420fcb",
+      "referral_code": "AK8FK",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:21:28.717Z"
     }
   ],
   "withdrawals": [
