@@ -21596,7 +21596,7 @@
       "inviter_referral_code": "FABG1",
       "inviter_username": "Fatima",
       "invited_users": [],
-      "balance": 60,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21604,7 +21604,10 @@
       "joinDate": "2025-02-21T08:44:36.878Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -21878,7 +21881,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:54:11.294Z"
+      "joinDate": "2025-02-21T08:54:11.294Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
