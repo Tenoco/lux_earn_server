@@ -13153,11 +13153,12 @@
         "Aaronoladepo",
         "Mike",
         "Princess hope ",
-        "Quincy "
+        "Quincy ",
+        "Oluwasimi1234"
       ],
       "balance": 40,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -27681,7 +27682,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:16:20.071Z"
+      "joinDate": "2025-02-21T11:16:20.071Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oluwasimi1234",
+      "email": "promisesuccess83@gmail.com",
+      "encrypted_password": "1da29e9b6052f66143133a40f4b90cae",
+      "referral_code": "OLEPV",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:16:25.204Z"
     }
   ],
   "withdrawals": [
