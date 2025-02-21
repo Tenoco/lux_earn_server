@@ -13307,7 +13307,7 @@
       "inviter_referral_code": "MM6P4",
       "inviter_username": "mmmmdjk1",
       "invited_users": [],
-      "balance": 62,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13402,7 +13402,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:09:37.994Z"
+      "joinDate": "2025-02-21T06:09:37.994Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -13790,6 +13792,16 @@
       "phoneNumber": "08055738339",
       "amount": 30,
       "timestamp": "2025-02-21T05:50:44.207Z",
+      "status": "pending"
+    },
+    {
+      "username": "Komolofy",
+      "email": "buharisani3422@gmail.com",
+      "type": "airtime",
+      "network": "glo",
+      "phoneNumber": "08055738339",
+      "amount": 30,
+      "timestamp": "2025-02-21T06:09:50.065Z",
       "status": "pending"
     }
   ]
