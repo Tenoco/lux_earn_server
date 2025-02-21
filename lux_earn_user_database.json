@@ -4708,11 +4708,12 @@
         "Zain",
         "Bryan ",
         "Cage",
-        "Frank"
+        "Frank",
+        "Rain"
       ],
       "balance": 25,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7516,6 +7517,21 @@
       "joinDate": "2025-02-21T00:49:35.693Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rain",
+      "email": "rainsoul@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "RA7P5",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:50:31.385Z"
     }
   ],
   "withdrawals": [
