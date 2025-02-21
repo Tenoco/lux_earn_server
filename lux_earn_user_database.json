@@ -13252,11 +13252,12 @@
       "inviter_username": null,
       "invited_users": [
         "Davidjames ",
-        "Bolaahmed"
+        "Bolaahmed",
+        "Jamestown "
       ],
       "balance": 40,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -14106,7 +14107,8 @@
         3,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Zaddex17",
@@ -14374,6 +14376,21 @@
       "joinDate": "2025-02-21T06:32:24.253Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jamestown ",
+      "email": "jamestown1@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "JAAFM",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:32:42.602Z"
     }
   ],
   "withdrawals": [
