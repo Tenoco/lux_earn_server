@@ -37546,7 +37546,23 @@
       "joinDate": "2025-02-21T17:39:24.995Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "kadok23",
+      "email": "praisendukuba@gmail.com",
+      "encrypted_password": "463145bd8eb8c2b45f9c427e9f47b9d5",
+      "referral_code": "KA0UM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:40:33.288Z"
     }
   ],
   "withdrawals": [
