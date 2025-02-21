@@ -37915,10 +37915,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:02:41.641Z",
-      "lastSpin": "2025-02-21T18:03:05.370Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T18:03:05.370Z"
     },
     {
       "username": "Royalty124",
@@ -37928,14 +37928,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:04:04.807Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T18:04:33.075Z"
     },
     {
       "username": "Chizzy003",
