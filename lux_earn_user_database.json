@@ -1586,11 +1586,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [
-        "Joe"
+        "Joe",
+        "sammie2"
       ],
       "balance": 220,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:13.451Z",
@@ -16007,7 +16008,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:06.020Z"
+      "joinDate": "2025-02-21T06:58:06.020Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "sammie2",
+      "email": "olajidesamuel394@gmail.com",
+      "encrypted_password": "c640e9653d06f30eb1a7bd79b3b78a7d",
+      "referral_code": "SA94T",
+      "inviter_referral_code": "EMJHD",
+      "inviter_username": "Emerald",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:42.182Z"
     }
   ],
   "withdrawals": [
