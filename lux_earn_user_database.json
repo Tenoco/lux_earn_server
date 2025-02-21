@@ -13517,11 +13517,12 @@
         "Davidjames ",
         "Bolaahmed",
         "Jamestown ",
-        "AyubaAdam"
+        "AyubaAdam",
+        "Newworlde"
       ],
       "balance": 160,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -23666,6 +23667,21 @@
       "joinDate": "2025-02-21T09:39:55.592Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Newworlde",
+      "email": "newworld@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "NE3MY",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:40:29.735Z"
     }
   ],
   "withdrawals": [
