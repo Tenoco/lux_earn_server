@@ -24250,7 +24250,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:58:51.943Z"
+      "joinDate": "2025-02-21T09:58:51.943Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "yaualiyu",
+      "email": "Yaualiyu12133@gmail.com",
+      "encrypted_password": "b936b96aed8667fe1969ee1144ec92b7",
+      "referral_code": "YAXY9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:59:07.378Z"
     }
   ],
   "withdrawals": [
