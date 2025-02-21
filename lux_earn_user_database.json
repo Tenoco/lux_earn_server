@@ -24476,7 +24476,7 @@
       "inviter_referral_code": "ISTIL",
       "inviter_username": "Isaac David ",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24486,9 +24486,9 @@
         1,
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "bryanny",
@@ -24656,7 +24656,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:07:39.120Z"
+      "joinDate": "2025-02-21T10:07:39.120Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
