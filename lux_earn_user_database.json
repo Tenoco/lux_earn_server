@@ -20399,11 +20399,12 @@
       "inviter_username": null,
       "invited_users": [
         "daralola",
-        "Smartdara"
+        "Smartdara",
+        "Lolado123"
       ],
       "balance": 30,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21381,7 +21382,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:40:18.619Z"
+      "joinDate": "2025-02-21T08:40:18.619Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lolado123",
+      "email": "rachealijaola@gmail.com",
+      "encrypted_password": "9eda0ac267e7cbc8506b9c4ee6a80f06",
+      "referral_code": "LOUNN",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:40:53.074Z"
     }
   ],
   "withdrawals": [
