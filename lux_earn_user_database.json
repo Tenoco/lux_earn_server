@@ -13056,11 +13056,12 @@
       "inviter_username": null,
       "invited_users": [
         "Chief ",
-        "Goku"
+        "Goku",
+        "Shakou "
       ],
       "balance": 40,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -14026,7 +14027,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:25:18.817Z"
+      "joinDate": "2025-02-21T06:25:18.817Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shakou ",
+      "email": "chieshakou2013@gmail.com",
+      "encrypted_password": "e14cdc35dedef87db6486ee10d09e5f1",
+      "referral_code": "SHP19",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:25:23.855Z"
     }
   ],
   "withdrawals": [
