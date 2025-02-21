@@ -15506,7 +15506,7 @@
         "Marcusein ",
         "Ajeboter"
       ],
-      "balance": 60,
+      "balance": 150,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -15514,7 +15514,10 @@
       "joinDate": "2025-02-21T06:38:39.218Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "lastSpin": null
     },
