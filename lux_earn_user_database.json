@@ -12592,7 +12592,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Adewoye Fikayomi ",
@@ -12661,6 +12662,21 @@
       "joinDate": "2025-02-21T05:55:01.229Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Layor123",
+      "email": "hannnahthomas124@gmail.com",
+      "encrypted_password": "606816b47984033c3f9b535e94a65431",
+      "referral_code": "LATE5",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:55:50.791Z"
     }
   ],
   "withdrawals": [
