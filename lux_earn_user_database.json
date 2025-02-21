@@ -6210,11 +6210,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "habeeb "
+        "habeeb ",
+        "Washington "
       ],
       "balance": 290,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -6936,7 +6937,8 @@
         2,
         1,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "La Quinta ",
@@ -6971,6 +6973,21 @@
       "joinDate": "2025-02-21T00:37:27.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Washington ",
+      "email": "abdulrahmanhabeeb714@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "WA2NG",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:37:40.642Z"
     }
   ],
   "withdrawals": [
