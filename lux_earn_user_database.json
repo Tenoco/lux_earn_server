@@ -22463,11 +22463,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "Davidyouhave1",
-        "moloreofe"
+        "moloreofe",
+        "Arausi"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -27480,7 +27481,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:08:50.578Z"
+      "joinDate": "2025-02-21T11:08:50.578Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Arausi",
+      "email": "arausiwisdom@gmail.com",
+      "encrypted_password": "32527b02c0652d0f324777221b4bfc15",
+      "referral_code": "ARXTF",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:08:59.165Z"
     }
   ],
   "withdrawals": [
