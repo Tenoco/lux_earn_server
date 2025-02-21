@@ -30663,12 +30663,13 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 210,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:34:44.959Z",
+      "lastSpin": "2025-02-21T12:36:04.803Z",
       "completedMissions": [
         1,
         2,
@@ -30676,9 +30677,9 @@
         6,
         8,
         4,
-        3
-      ],
-      "lastSpin": "2025-02-21T12:36:04.803Z"
+        3,
+        9
+      ]
     },
     {
       "username": "Moses money ",
