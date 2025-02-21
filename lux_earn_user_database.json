@@ -15294,7 +15294,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "krrishna",
@@ -15338,14 +15339,21 @@
       "inviter_referral_code": "TERYC",
       "inviter_username": "Temmie336",
       "invited_users": [],
-      "balance": 0,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:29.021Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ]
     },
     {
       "username": "Bliss ",
