@@ -29036,11 +29036,12 @@
         "Gabriel",
         "Davidson",
         "Josephine",
-        "Yohanna"
+        "Yohanna",
+        "Princess"
       ],
       "balance": 210,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30760,7 +30761,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:47:57.696Z"
+      "joinDate": "2025-02-21T12:47:57.696Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Princess",
+      "email": "amayahosea3@gmail.com",
+      "encrypted_password": "b5b1c9ba6926eb1d971b22a54458f322",
+      "referral_code": "PR0TV",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:48:43.392Z"
     }
   ],
   "withdrawals": [
