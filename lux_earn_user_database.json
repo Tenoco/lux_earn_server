@@ -1237,11 +1237,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abdul230",
-        "Victordominic "
+        "Victordominic ",
+        "Esther"
       ],
       "balance": 50,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -6694,6 +6695,21 @@
       "joinDate": "2025-02-21T00:29:49.835Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esther",
+      "email": "estherowuru4@gmail.com",
+      "encrypted_password": "908ae04a5287b7f2bb49bc439ce4e6a8",
+      "referral_code": "ESXR4",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:29:19.129Z"
     }
   ],
   "withdrawals": [
