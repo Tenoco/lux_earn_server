@@ -13438,11 +13438,12 @@
         "Regina ",
         "Zachariah ",
         "Abdulgaffar",
-        "Shadrach Nyigba "
+        "Shadrach Nyigba ",
+        "Mavis"
       ],
       "balance": 251,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -37639,7 +37640,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:13:50.668Z"
+      "joinDate": "2025-02-21T20:13:50.668Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mavis",
+      "email": "aransiolamarvellous1@gmail.com",
+      "encrypted_password": "9b983ed234865cc0b43324ef0122bbdc",
+      "referral_code": "MARPB",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:14:32.727Z"
     }
   ],
   "withdrawals": [
