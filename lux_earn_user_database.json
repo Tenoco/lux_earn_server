@@ -15510,11 +15510,12 @@
         "Musa sani",
         "Marcusein ",
         "Ajeboter",
-        "Manassa"
+        "Manassa",
+        "Sherwin "
       ],
       "balance": 328,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -37368,7 +37369,8 @@
         10,
         9,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Manassa",
@@ -37488,6 +37490,21 @@
       "joinDate": "2025-02-21T16:12:04.405Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sherwin ",
+      "email": "Zaraumar0588@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SH9OX",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:12:30.519Z"
     }
   ],
   "withdrawals": [
