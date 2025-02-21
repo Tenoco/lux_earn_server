@@ -38258,10 +38258,12 @@
       "referral_code": "SI49M",
       "inviter_referral_code": "RAA8G",
       "inviter_username": "Rashmoney",
-      "invited_users": [],
+      "invited_users": [
+        "Pawalll"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:50:31.334Z",
@@ -38330,7 +38332,23 @@
         4,
         6,
         5
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Pawalll",
+      "email": "saleee@gmail.com",
+      "encrypted_password": "d9882712366f37519b4a7eb0fe98c0e9",
+      "referral_code": "PAEM9",
+      "inviter_referral_code": "SI49M",
+      "inviter_username": "Sirneyy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:59:27.171Z"
     }
   ],
   "withdrawals": [
