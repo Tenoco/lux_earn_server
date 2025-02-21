@@ -16490,7 +16490,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:03:06.257Z"
+      "joinDate": "2025-02-21T07:03:06.257Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kenny1",
+      "email": "temitopeb786@gmail.com",
+      "encrypted_password": "aad9e7b6af4821070166415b0e2a9952",
+      "referral_code": "KE3JA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:03:13.123Z"
     }
   ],
   "withdrawals": [
