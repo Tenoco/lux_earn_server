@@ -1740,11 +1740,12 @@
         "Segzypark",
         "Amatusafy",
         "Samino",
-        "Haggaijacob0912172"
+        "Haggaijacob0912172",
+        "Steohex "
       ],
       "balance": 275,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9778,7 +9779,8 @@
         8,
         3,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Risky01",
@@ -9796,6 +9798,21 @@
       "joinDate": "2025-02-21T03:10:58.489Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Steohex ",
+      "email": "seze1009@gmail.com",
+      "encrypted_password": "7ff36797539130f77445f48da5d4a126",
+      "referral_code": "STK6Z",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:12:43.939Z"
     }
   ],
   "withdrawals": [
