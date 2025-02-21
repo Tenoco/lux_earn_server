@@ -118,11 +118,12 @@
         "Christy",
         "Automatic_man",
         "Peculiarity86 ",
-        "Merrysmart"
+        "Merrysmart",
+        "Wealth "
       ],
       "balance": 50,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -17062,7 +17063,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:12:08.507Z"
+      "joinDate": "2025-02-21T07:12:08.507Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wealth ",
+      "email": "afolabid439@gmail.com",
+      "encrypted_password": "d4e063ac0b6511bafc2a36ad7ffb89f6",
+      "referral_code": "WEXRG",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:12:32.751Z"
     }
   ],
   "withdrawals": [
