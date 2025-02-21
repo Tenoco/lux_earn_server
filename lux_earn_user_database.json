@@ -782,11 +782,12 @@
         "Ayoola ",
         "Firstmanoneart",
         "Vickiejone",
-        "Adewoye Fikayomi "
+        "Adewoye Fikayomi ",
+        "Seyifunmi"
       ],
       "balance": 265,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -14540,6 +14541,21 @@
       "joinDate": "2025-02-21T06:34:15.395Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Seyifunmi",
+      "email": "oluwaseyifunmiadebayo60@gmail.com",
+      "encrypted_password": "2ec18a244619ede6a8e514add0f55b1a",
+      "referral_code": "SEFZE",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:34:41.960Z"
     }
   ],
   "withdrawals": [
