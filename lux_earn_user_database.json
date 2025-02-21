@@ -17447,14 +17447,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:18:31.426Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T07:18:53.036Z"
+      "lastSpin": "2025-02-21T07:18:53.036Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Glory55",
@@ -17609,7 +17611,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:20:15.785Z"
+      "joinDate": "2025-02-21T07:20:15.785Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
