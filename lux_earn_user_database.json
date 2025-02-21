@@ -36964,7 +36964,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 280,
+      "balance": 310,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36980,9 +36980,9 @@
         1,
         11,
         10,
-        9
-      ],
-      "lastSpin": null
+        9,
+        8
+      ]
     },
     {
       "username": "Dora",
@@ -37311,7 +37311,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:08:15.411Z"
+      "joinDate": "2025-02-21T16:08:15.411Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
