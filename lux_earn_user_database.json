@@ -16127,11 +16127,12 @@
       "invited_users": [
         "MusaAdam",
         "Kalamuisah",
-        "Isahmarry"
+        "Isahmarry",
+        "Musakalam"
       ],
       "balance": 440,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
@@ -19685,7 +19686,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:59:19.639Z"
+      "joinDate": "2025-02-21T07:59:19.639Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Musakalam",
+      "email": "gh2736@gmail.com",
+      "encrypted_password": "df195e9d477804a66318cc86abdabb92",
+      "referral_code": "MU71H",
+      "inviter_referral_code": "ADVEN",
+      "inviter_username": "Adam usman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:59:27.277Z"
     }
   ],
   "withdrawals": [
