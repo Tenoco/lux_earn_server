@@ -5536,11 +5536,12 @@
       "invited_users": [
         "Ogebabe",
         "Cynbabe",
-        "Micheal"
+        "Micheal",
+        "Bitcoin "
       ],
       "balance": 58,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
@@ -7573,6 +7574,21 @@
       "joinDate": "2025-02-21T00:53:02.132Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bitcoin ",
+      "email": "juddy86@gmail.com",
+      "encrypted_password": "f56873deb00c322a3aad448f495e6831",
+      "referral_code": "BI4RB",
+      "inviter_referral_code": "RE2O0",
+      "inviter_username": "realchimzy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:53:24.728Z"
     }
   ],
   "withdrawals": [
