@@ -13337,11 +13337,12 @@
         "Charmor",
         "Levisonet",
         "Alamin",
-        "Regina "
+        "Regina ",
+        "Zachariah "
       ],
       "balance": 251,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -34408,6 +34409,21 @@
       "joinDate": "2025-02-21T14:32:11.803Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zachariah ",
+      "email": "zachariahmatawal15@gmail.com",
+      "encrypted_password": "39dc263609a7ba0c3c0cf37aaf71eaaf",
+      "referral_code": "ZABP7",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:32:24.122Z"
     }
   ],
   "withdrawals": [
