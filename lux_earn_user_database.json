@@ -37607,11 +37607,12 @@
         "Nifemi",
         "Sodiq",
         "Afees",
-        "Sulyat"
+        "Sulyat",
+        "Badiru "
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38287,7 +38288,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:48:34.781Z"
+      "joinDate": "2025-02-21T20:48:34.781Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Badiru ",
+      "email": "badiru11@gmail.com",
+      "encrypted_password": "f2cd7bdd9e7ac13d53d3493d41472b92",
+      "referral_code": "BACFO",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:48:57.128Z"
     }
   ],
   "withdrawals": [
