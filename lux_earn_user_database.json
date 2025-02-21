@@ -23008,11 +23008,12 @@
         "zoeswanky ",
         "Donprince141",
         "Favor",
-        "Tyler33"
+        "Tyler33",
+        "Dims"
       ],
       "balance": 220,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -37316,6 +37317,21 @@
       "joinDate": "2025-02-21T16:08:15.411Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dims",
+      "email": "dimsosibs@gmail.com",
+      "encrypted_password": "011f7fbabf6314307df88fdf4e28cd28",
+      "referral_code": "DIRK6",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:08:30.761Z"
     }
   ],
   "withdrawals": [
