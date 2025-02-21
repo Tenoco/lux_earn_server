@@ -15771,11 +15771,12 @@
       "inviter_username": null,
       "invited_users": [
         "Wisdomchibuike ",
-        "Akano"
+        "Akano",
+        "Absolute "
       ],
       "balance": 60,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:51:10.486Z",
@@ -17729,7 +17730,8 @@
         5,
         6,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "shoyombo02@gmail.com",
@@ -19084,6 +19086,21 @@
       "joinDate": "2025-02-21T07:47:06.023Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Absolute ",
+      "email": "adeseyeoluwasune@gmail.com",
+      "encrypted_password": "a620c7010c9645c2d8c7c4250ed0a577",
+      "referral_code": "AB4B3",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:48:22.721Z"
     }
   ],
   "withdrawals": [
