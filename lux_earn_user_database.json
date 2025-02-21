@@ -1122,11 +1122,12 @@
       "invited_users": [
         "Seungold123",
         "Krischer101",
-        "Hannah"
+        "Hannah",
+        "Oladunni"
       ],
       "balance": 215,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -20768,6 +20769,21 @@
       "joinDate": "2025-02-21T08:24:50.969Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oladunni",
+      "email": "eyitayodiamond468@gmail.com",
+      "encrypted_password": "4cd5f4187ba1445f3bcf7d0f9a9d8816",
+      "referral_code": "OLKCW",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:25:17.802Z"
     }
   ],
   "withdrawals": [
