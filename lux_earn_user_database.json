@@ -25979,11 +25979,12 @@
       "inviter_username": "Boss50",
       "invited_users": [
         "SammieJay",
-        "Okokoumaxxi"
+        "Okokoumaxxi",
+        "Lobayementuna"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27092,6 +27093,21 @@
       "joinDate": "2025-02-21T10:57:21.790Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lobayementuna",
+      "email": "lobatanadeymadaoo@gmail.com",
+      "encrypted_password": "d68587921688289ad70b63642ea3d22d",
+      "referral_code": "LOS5W",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:57:58.541Z"
     }
   ],
   "withdrawals": [
