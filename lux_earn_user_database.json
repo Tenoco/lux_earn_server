@@ -10330,16 +10330,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 85,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:53.787Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        4
+      ]
     },
     {
       "username": "Kingsley",
@@ -10467,7 +10467,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Only1Jare",
