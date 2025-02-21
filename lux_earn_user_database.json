@@ -19134,7 +19134,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:46:47.635Z",
-      "lastSpin": "2025-02-21T07:47:11.253Z",
       "completedMissions": [
         1,
         2,
@@ -19145,7 +19144,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:47:11.253Z"
     },
     {
       "username": "Tolase ",
@@ -19324,7 +19324,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19332,7 +19332,8 @@
       "joinDate": "2025-02-21T07:50:33.496Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T07:53:39.735Z"
     },
