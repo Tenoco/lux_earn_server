@@ -16986,7 +16986,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:10:37.050Z"
+      "joinDate": "2025-02-21T07:10:37.050Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Osamudiameh ",
+      "email": "favourmohammedmuideen@gmail.com",
+      "encrypted_password": "45fd78f10b7a8943f0b66486394fd4df",
+      "referral_code": "OS7NH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:10:52.935Z"
     }
   ],
   "withdrawals": [
