@@ -26332,7 +26332,8 @@
         3,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Afuwh",
@@ -26359,14 +26360,17 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:43:50.239Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        4,
+        3
+      ]
     },
     {
       "username": "Successfuldrillion",
