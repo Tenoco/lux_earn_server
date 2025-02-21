@@ -21172,14 +21172,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:34:18.580Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1,
+        2,
+        3
+      ]
     },
     {
       "username": "Mark",
@@ -21245,7 +21250,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:36:19.863Z"
+      "joinDate": "2025-02-21T08:36:19.863Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
