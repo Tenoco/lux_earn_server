@@ -106,11 +106,12 @@
         "chomsy84 ",
         "Adexkilling ",
         "Mrbest",
-        "Onaolapo"
+        "Onaolapo",
+        "Mjsilent "
       ],
       "balance": 50,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -11800,7 +11801,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abraham6693",
@@ -11835,6 +11837,21 @@
       "joinDate": "2025-02-21T05:29:24.395Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mjsilent ",
+      "email": "abdulmajeedjamiu8@gmail.com",
+      "encrypted_password": "11bccf5992c2d1b786b07822eb3b786d",
+      "referral_code": "MJWJ9",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:30:29.624Z"
     }
   ],
   "withdrawals": [
