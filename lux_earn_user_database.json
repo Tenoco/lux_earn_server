@@ -11467,7 +11467,7 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 165,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11741,7 +11741,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "07071223939",
@@ -12110,6 +12111,16 @@
       "phoneNumber": "07062172089",
       "amount": 100,
       "timestamp": "2025-02-21T04:54:27.951Z",
+      "status": "pending"
+    },
+    {
+      "username": "Femi235",
+      "email": "femid162@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "07019413804",
+      "amount": 100,
+      "timestamp": "2025-02-21T05:28:41.266Z",
       "status": "pending"
     }
   ]
