@@ -2383,10 +2383,12 @@
       "referral_code": "ABG1F",
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
-      "invited_users": [],
+      "invited_users": [
+        "OmokolRe"
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:20:17.895Z",
@@ -23763,6 +23765,21 @@
       "joinDate": "2025-02-21T09:42:03.821Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "OmokolRe",
+      "email": "johnsonbright943@gmail.com",
+      "encrypted_password": "113239c60493d3b88eb1fc73122ecb76",
+      "referral_code": "OMKW9",
+      "inviter_referral_code": "ABG1F",
+      "inviter_username": "Abdul230",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:42:33.960Z"
     }
   ],
   "withdrawals": [
