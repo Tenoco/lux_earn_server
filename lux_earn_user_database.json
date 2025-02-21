@@ -13287,11 +13287,12 @@
         "Haidar007",
         "Bright002",
         "Mansur2994",
-        "Charmor"
+        "Charmor",
+        "Levisonet"
       ],
       "balance": 251,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -32099,7 +32100,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hahi",
@@ -32236,6 +32238,21 @@
       "joinDate": "2025-02-21T13:32:53.755Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Levisonet",
+      "email": "levisonet@gmail.com",
+      "encrypted_password": "8e37ba163ded1d329f3821d8b3a10dae",
+      "referral_code": "LEYB6",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:33:56.506Z"
     }
   ],
   "withdrawals": [
