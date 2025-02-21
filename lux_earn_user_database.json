@@ -16702,7 +16702,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 220,
+      "balance": 251,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16716,9 +16716,10 @@
         5,
         6,
         7,
+        9,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:18:39.858Z"
     },
     {
       "username": "Lily",
@@ -17452,7 +17453,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:18:40.100Z"
+      "joinDate": "2025-02-21T07:18:40.100Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
