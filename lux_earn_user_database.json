@@ -15843,11 +15843,12 @@
         "Rockzymalone",
         "Shedrack Jerry",
         "Ojoare Rasheed Olaniyi ",
-        "Samuelsmog"
+        "Samuelsmog",
+        "Ini350"
       ],
       "balance": 380,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -37729,7 +37730,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:54:36.139Z"
+      "joinDate": "2025-02-21T17:54:36.139Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ini350",
+      "email": "iniabasiobassey@gmail.com",
+      "encrypted_password": "be4218bc1be1da068e7a6a408994b643",
+      "referral_code": "IN3RJ",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:55:18.927Z"
     }
   ],
   "withdrawals": [
