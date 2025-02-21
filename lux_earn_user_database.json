@@ -36038,7 +36038,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ibrahimizzuddeen",
@@ -36446,14 +36447,15 @@
       "inviter_referral_code": "Futtizu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:00.015Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Brave290",
