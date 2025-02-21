@@ -27758,7 +27758,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oluwasimi1234",
@@ -28142,14 +28143,18 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:31:24.580Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Mercy83 ",
