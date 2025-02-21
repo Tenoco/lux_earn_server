@@ -17532,7 +17532,7 @@
       "inviter_referral_code": "ZIWZH  ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 212,
+      "balance": 242,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17545,7 +17545,8 @@
         1,
         9,
         8,
-        7
+        7,
+        6
       ],
       "lastSpin": "2025-02-21T08:07:03.273Z"
     },
@@ -20111,7 +20112,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:09:27.011Z"
+      "joinDate": "2025-02-21T08:09:27.011Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
