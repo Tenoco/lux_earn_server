@@ -5030,11 +5030,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "ononoone"
+        "ononoone",
+        "Soyet"
       ],
       "balance": 261,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:44.265Z",
@@ -6554,7 +6555,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:27:33.556Z"
+      "joinDate": "2025-02-21T00:27:33.556Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Soyet",
+      "email": "emmanuelsiyere@gmail.com",
+      "encrypted_password": "685b0eada7a901b0e04a1cdf5c49def1",
+      "referral_code": "SOQOW",
+      "inviter_referral_code": "YARMK",
+      "inviter_username": "yakiniemmanuel",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:27:40.254Z"
     }
   ],
   "withdrawals": [
