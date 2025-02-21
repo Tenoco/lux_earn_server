@@ -1735,11 +1735,12 @@
         "Bona123",
         "Habbeybam",
         "beautycrown",
-        "Felixmba"
+        "Felixmba",
+        "Segzypark"
       ],
       "balance": 275,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9574,6 +9575,21 @@
       "joinDate": "2025-02-21T02:54:54.001Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Segzypark",
+      "email": "segun.arowo@gmail.com",
+      "encrypted_password": "ca155e86191fd555a70e647580e7d732",
+      "referral_code": "SEB7A",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:01:16.685Z"
     }
   ],
   "withdrawals": [
