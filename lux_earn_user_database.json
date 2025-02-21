@@ -1743,11 +1743,12 @@
         "Haggaijacob0912172",
         "Steohex ",
         "chukwuma7",
-        "Laytua1"
+        "Laytua1",
+        "Wade25"
       ],
       "balance": 275,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9858,7 +9859,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:16:48.929Z"
+      "joinDate": "2025-02-21T03:16:48.929Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wade25",
+      "email": "Wilsonfaithful25@gmail.com",
+      "encrypted_password": "e53b62747f6841c420efc09119acf6a9",
+      "referral_code": "WAZ09",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:17:27.530Z"
     }
   ],
   "withdrawals": [
