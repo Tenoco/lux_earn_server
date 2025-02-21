@@ -16311,11 +16311,12 @@
         "Mimielaly25",
         "Danieljoy",
         "Nuatin11",
-        "Tanimowo2587"
+        "Tanimowo2587",
+        "johnnysp2"
       ],
       "balance": 68,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -32922,6 +32923,21 @@
       "joinDate": "2025-02-21T13:51:46.285Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "johnnysp2",
+      "email": "johnsunnyboi@gmail.com",
+      "encrypted_password": "73bceae665b5122eb1eb358efbc44ac9",
+      "referral_code": "JOBC0",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:52:32.008Z"
     }
   ],
   "withdrawals": [
