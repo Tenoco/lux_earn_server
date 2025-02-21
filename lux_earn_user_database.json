@@ -20777,11 +20777,12 @@
         "Darakitbot ",
         "Danielbadoa",
         "Gokibsvbs",
-        "Gojokol"
+        "Gojokol",
+        "Holojuk"
       ],
       "balance": 250,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -30486,7 +30487,8 @@
       "joinDate": "2025-02-21T12:30:10.157Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sofia",
@@ -30504,6 +30506,21 @@
       "joinDate": "2025-02-21T12:30:48.306Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Holojuk",
+      "email": "bodegold33@gmail.com",
+      "encrypted_password": "1ae6e87e448bb8af553fc4bbe54eceaf",
+      "referral_code": "HOCA3",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:32:47.351Z"
     }
   ],
   "withdrawals": [
