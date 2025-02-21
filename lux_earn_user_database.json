@@ -14462,10 +14462,12 @@
       "referral_code": "AD7WX",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Som"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:26:21.116Z",
@@ -24844,6 +24846,21 @@
       "joinDate": "2025-02-21T10:09:50.682Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Som",
+      "email": "taiwosulaimon725@gmail.com",
+      "encrypted_password": "1b9c247d83979cf3429c7a47cd2b8043",
+      "referral_code": "SO12L",
+      "inviter_referral_code": "AD7WX",
+      "inviter_username": "Adexan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:10:21.239Z"
     }
   ],
   "withdrawals": [
