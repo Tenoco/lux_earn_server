@@ -8990,7 +8990,7 @@
       "inviter_referral_code": "OL6TF",
       "inviter_username": "OLIVIALOVE ",
       "invited_users": [],
-      "balance": 120,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8998,7 +8998,8 @@
       "joinDate": "2025-02-21T02:06:53.645Z",
       "completedMissions": [
         1,
-        2
+        2,
+        8
       ],
       "lastSpin": null
     },
@@ -9285,7 +9286,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:38:41.372Z"
+      "joinDate": "2025-02-21T02:38:41.372Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
