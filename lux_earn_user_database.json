@@ -17663,10 +17663,12 @@
       "referral_code": "JA47F",
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
-      "invited_users": [],
+      "invited_users": [
+        "pibiya"
+      ],
       "balance": 268,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:09:36.285Z",
@@ -38298,6 +38300,21 @@
       "joinDate": "2025-02-21T22:52:19.560Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "pibiya",
+      "email": "pibiyapoly103@gmail.com",
+      "encrypted_password": "a0fcccce878fb305cfb295386ee855c5",
+      "referral_code": "PIKQR",
+      "inviter_referral_code": "JA47F",
+      "inviter_username": "jaytee037",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:55:18.616Z"
     }
   ],
   "withdrawals": [
