@@ -32743,7 +32743,7 @@
       "invited_users": [
         "Miposi"
       ],
-      "balance": 100,
+      "balance": 280,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -32753,7 +32753,13 @@
         9,
         8,
         7,
-        6
+        6,
+        5,
+        5,
+        5,
+        5,
+        4,
+        3
       ],
       "lastSpin": null
     },
@@ -33864,7 +33870,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:18:25.435Z"
+      "joinDate": "2025-02-21T14:18:25.435Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
