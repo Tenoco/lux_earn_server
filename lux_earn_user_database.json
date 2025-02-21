@@ -29988,7 +29988,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:20:19.829Z"
+      "joinDate": "2025-02-21T12:20:19.829Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chidera",
+      "email": "lauraefeseme@gmail.com",
+      "encrypted_password": "76c4a7a668b0756f08776977ef9f6dc4",
+      "referral_code": "CHMIG",
+      "inviter_referral_code": "Ben3on",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:19:51.022Z"
     }
   ],
   "withdrawals": [
