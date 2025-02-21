@@ -3842,11 +3842,12 @@
         "Gentle",
         "Mide",
         "Laide",
-        "Princess ifeoluwa "
+        "Princess ifeoluwa ",
+        "Josie567"
       ],
       "balance": 260,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -36617,7 +36618,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:35:49.737Z"
+      "joinDate": "2025-02-21T15:35:49.737Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Josie567",
+      "email": "jbsamueljudah@gmail.com",
+      "encrypted_password": "8388824cf2c796bbe0c1d2b9f12ad095",
+      "referral_code": "JOXT9",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:35:57.233Z"
     }
   ],
   "withdrawals": [
