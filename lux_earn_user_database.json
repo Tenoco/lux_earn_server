@@ -25666,19 +25666,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 121,
+      "balance": 151,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:30:04.151Z",
+      "lastSpin": "2025-02-21T10:31:21.359Z",
       "completedMissions": [
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": "2025-02-21T10:31:21.359Z"
+        4,
+        5
+      ]
     },
     {
       "username": "Ayo88",
@@ -26022,7 +26023,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:39:20.548Z"
+      "joinDate": "2025-02-21T10:39:20.548Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
