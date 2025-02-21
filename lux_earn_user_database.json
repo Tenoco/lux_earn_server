@@ -20738,11 +20738,12 @@
         "Luckybad",
         "Darakitbot ",
         "Danielbadoa",
-        "Gokibsvbs"
+        "Gokibsvbs",
+        "Gojokol"
       ],
       "balance": 250,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -28773,7 +28774,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:51:43.209Z"
+      "joinDate": "2025-02-21T11:51:43.209Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gojokol",
+      "email": "lalajgo123@gmail.com",
+      "encrypted_password": "6a5640e7fb7535178e7873dc3d166e10",
+      "referral_code": "GO9NB",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:51:57.703Z"
     }
   ],
   "withdrawals": [
