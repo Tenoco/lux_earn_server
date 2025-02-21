@@ -10341,11 +10341,12 @@
         "orengo 7",
         "Kenny202",
         "Oregon",
-        "Oreoluwa"
+        "Oreoluwa",
+        "Ibk840"
       ],
       "balance": 260,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:15:50.675Z",
@@ -20436,6 +20437,21 @@
       "joinDate": "2025-02-21T08:16:04.859Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ibk840",
+      "email": "akinolaibukun21@gmail.com",
+      "encrypted_password": "b009be8c54106a8fb9ed399ab8844c72",
+      "referral_code": "IBJ98",
+      "inviter_referral_code": "ORMB3",
+      "inviter_username": "Orengo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:17:01.893Z"
     }
   ],
   "withdrawals": [
