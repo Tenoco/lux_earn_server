@@ -36530,10 +36530,12 @@
       "referral_code": "BR9VQ",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Bushlens"
+      ],
       "balance": 30,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:40.842Z",
@@ -37063,7 +37065,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:49:59.369Z"
+      "joinDate": "2025-02-21T16:49:59.369Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bushlens",
+      "email": "george1@gmail.com",
+      "encrypted_password": "9b306ab04ef5e25f9fb89c998a6aedab",
+      "referral_code": "BUNFS",
+      "inviter_referral_code": "BR9VQ",
+      "inviter_username": "Brave290",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:50:17.695Z"
     }
   ],
   "withdrawals": [
