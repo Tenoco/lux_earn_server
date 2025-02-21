@@ -13028,11 +13028,12 @@
       "invited_users": [
         "Aaronoladepo",
         "Mike",
-        "Princess hope "
+        "Princess hope ",
+        "Quincy "
       ],
       "balance": 40,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -21446,6 +21447,21 @@
       "joinDate": "2025-02-21T08:42:11.566Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Quincy ",
+      "email": "jeh478774@gmail.com",
+      "encrypted_password": "6bc6c3ab139f94cab9b8457fcecc0e3a",
+      "referral_code": "QUHV7",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:42:33.285Z"
     }
   ],
   "withdrawals": [
