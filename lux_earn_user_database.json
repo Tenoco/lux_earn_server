@@ -24055,10 +24055,12 @@
       "referral_code": "OK52U",
       "inviter_referral_code": "WIJNH",
       "inviter_username": "Wisdom",
-      "invited_users": [],
+      "invited_users": [
+        "Sharex"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:39:55.592Z",
@@ -35810,6 +35812,21 @@
       "joinDate": "2025-02-21T15:14:34.467Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sharex",
+      "email": "akingbadesharon@gmail.com",
+      "encrypted_password": "7d387f7e8ef7e46619aeea2146110967",
+      "referral_code": "SHVVP",
+      "inviter_referral_code": "OK52U",
+      "inviter_username": "Okoro -Ephenus favour ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:15:09.680Z"
     }
   ],
   "withdrawals": [
