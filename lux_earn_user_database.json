@@ -15152,11 +15152,12 @@
         "Sugar96",
         "Isreal ",
         "Monday11",
-        "Syren "
+        "Syren ",
+        "PeterPan"
       ],
       "balance": 251,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -33430,6 +33431,21 @@
       "joinDate": "2025-02-21T14:08:53.241Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "PeterPan",
+      "email": "igodstime565@gmail.com",
+      "encrypted_password": "2b40aaa979727c43411c305540bbed50",
+      "referral_code": "PEOKA",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:09:19.443Z"
     }
   ],
   "withdrawals": [
