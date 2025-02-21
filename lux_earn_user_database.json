@@ -877,11 +877,12 @@
       "inviter_username": null,
       "invited_users": [
         "Oluwaferanmi",
-        "Paradise "
+        "Paradise ",
+        "Olami "
       ],
       "balance": 185,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:05:06.761Z",
@@ -28353,7 +28354,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:39:43.950Z",
-      "lastSpin": "2025-02-21T11:40:34.475Z",
       "completedMissions": [
         1,
         2,
@@ -28361,7 +28361,8 @@
         5,
         4,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T11:40:34.475Z"
     },
     {
       "username": "Amobi",
@@ -28559,6 +28560,21 @@
       "joinDate": "2025-02-21T11:45:10.569Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olami ",
+      "email": "oluwaferanmi857@yahoo.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "OL1QY",
+      "inviter_referral_code": "RAJDK",
+      "inviter_username": "Raphealperry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:45:46.727Z"
     }
   ],
   "withdrawals": [
