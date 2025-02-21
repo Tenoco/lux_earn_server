@@ -6648,11 +6648,12 @@
       "invited_users": [
         "phoenix28",
         "phoeix2",
-        "phoenix30"
+        "phoenix30",
+        "Samen"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -7082,7 +7083,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:39:45.852Z"
+      "joinDate": "2025-02-21T00:39:45.852Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samen",
+      "email": "chigekwuchibueze@gmail.com",
+      "encrypted_password": "66e4c67a6e4a251a67bed34a4d128219",
+      "referral_code": "SAMMX",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:40:06.748Z"
     }
   ],
   "withdrawals": [
