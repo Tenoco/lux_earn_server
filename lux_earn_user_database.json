@@ -10584,11 +10584,12 @@
         "Nasir",
         "Katerina",
         "Ruth1",
-        "Popoola"
+        "Popoola",
+        "Azeez muj"
       ],
       "balance": 320,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -33929,7 +33930,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:20:21.653Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T14:20:37.979Z"
+    },
+    {
+      "username": "Azeez muj",
+      "email": "azeezmuj12@gmail.com",
+      "encrypted_password": "a68dde6744ae844481b640d7eba007e4",
+      "referral_code": "AZRA1",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:20:49.566Z"
     }
   ],
   "withdrawals": [
