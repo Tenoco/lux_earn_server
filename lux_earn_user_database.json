@@ -25977,11 +25977,12 @@
       "inviter_referral_code": "BON0X",
       "inviter_username": "Boss50",
       "invited_users": [
-        "SammieJay"
+        "SammieJay",
+        "Okokoumaxxi"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27042,7 +27043,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:56:05.781Z"
+      "joinDate": "2025-02-21T10:56:05.781Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Okokoumaxxi",
+      "email": "okoromumaxxi445@gmail.com",
+      "encrypted_password": "7fd8bf0cb1028438b239b3f04974c1a9",
+      "referral_code": "OK1JW",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:56:08.322Z"
     }
   ],
   "withdrawals": [
