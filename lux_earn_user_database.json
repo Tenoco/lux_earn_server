@@ -15836,11 +15836,12 @@
       "invited_users": [
         "Sholly",
         "Folly",
-        "Folaky22"
+        "Folaky22",
+        "Mimielaly25"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -16807,7 +16808,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:07:19.099Z"
+      "joinDate": "2025-02-21T07:07:19.099Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mimielaly25",
+      "email": "mimielalyesther@gmail.com",
+      "encrypted_password": "d108b23e541c5eb7168ec51329e48638",
+      "referral_code": "MIZF0",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:07:28.734Z"
     }
   ],
   "withdrawals": [
