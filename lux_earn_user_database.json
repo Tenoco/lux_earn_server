@@ -15209,11 +15209,12 @@
       "inviter_username": "Bella",
       "invited_users": [
         "shoyombo02@gmail.com",
-        "shoyomboizhaq5@gmail.com"
+        "shoyomboizhaq5@gmail.com",
+        "Sammycoded18"
       ],
       "balance": 128,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:35.481Z",
@@ -29588,7 +29589,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:09:42.860Z"
+      "joinDate": "2025-02-21T12:09:42.860Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sammycoded18",
+      "email": "noahferanmi3@gmail.com",
+      "encrypted_password": "c367a734f2930e21ed45ac9503fbed37",
+      "referral_code": "SAIOY",
+      "inviter_referral_code": "SHR06",
+      "inviter_username": "shoyomboizhaq1@gmail.com",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:09:52.687Z"
     }
   ],
   "withdrawals": [
