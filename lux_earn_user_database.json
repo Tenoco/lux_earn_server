@@ -30457,7 +30457,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:29:43.125Z"
+      "joinDate": "2025-02-21T12:29:43.125Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "beejaydaniel",
+      "email": "benjamindaniel938@gmail.com",
+      "encrypted_password": "a1a8bbe35109cccb3e89c7a6cbea9769",
+      "referral_code": "BEH4S",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:30:10.157Z"
     }
   ],
   "withdrawals": [
