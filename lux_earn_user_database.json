@@ -9754,10 +9754,12 @@
       "referral_code": "KA3LY",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abdul"
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:06:00.638Z",
@@ -34747,7 +34749,8 @@
         3,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shedrack Jerry",
@@ -35132,6 +35135,21 @@
       "joinDate": "2025-02-21T14:50:11.108Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdul",
+      "email": "abdulquadirkamiludeen122@gmail.com",
+      "encrypted_password": "88b073923004bf7a1838325edc1ff0ef",
+      "referral_code": "AB78X",
+      "inviter_referral_code": "KA3LY",
+      "inviter_username": "Kashops14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:51:57.672Z"
     }
   ],
   "withdrawals": [
