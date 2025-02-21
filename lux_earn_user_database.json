@@ -15967,10 +15967,12 @@
       "referral_code": "SAX07",
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
-      "invited_users": [],
+      "invited_users": [
+        "jaytee037"
+      ],
       "balance": 12,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:55:55.488Z",
@@ -16871,6 +16873,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:09:26.650Z"
     },
     {
@@ -16923,6 +16926,21 @@
       "joinDate": "2025-02-21T07:08:58.039Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "jaytee037",
+      "email": "kjdtorty@gmail.com",
+      "encrypted_password": "74bd8f0d9e2a23cd3b517f2ef87ab409",
+      "referral_code": "JA47F",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:09:36.285Z"
     }
   ],
   "withdrawals": [
