@@ -1212,11 +1212,12 @@
         "Odia",
         "August",
         "Danniella",
-        "Happiness"
+        "Happiness",
+        "David"
       ],
       "balance": 190,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:46.353Z",
@@ -12907,7 +12908,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ademart",
@@ -13078,6 +13080,21 @@
       "joinDate": "2025-02-21T06:03:13.823Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "David",
+      "email": "bigdavid4@gmail.com",
+      "encrypted_password": "9f05f12a144f8c08189dc15c3b2fdbd9",
+      "referral_code": "DA6A1",
+      "inviter_referral_code": "ED25O",
+      "inviter_username": "Edna40",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:03:40.637Z"
     }
   ],
   "withdrawals": [
