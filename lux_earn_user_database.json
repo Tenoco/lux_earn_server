@@ -5461,11 +5461,12 @@
         "Camellaty",
         "Panddada",
         "Kennysanta",
-        "Karem"
+        "Karem",
+        "Darkoer"
       ],
       "balance": 30,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8260,7 +8261,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:12:54.092Z"
+      "joinDate": "2025-02-21T01:12:54.092Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Darkoer",
+      "email": "darkoreaola@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "DABCT",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:13:21.295Z"
     }
   ],
   "withdrawals": [
