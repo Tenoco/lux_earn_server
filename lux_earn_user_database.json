@@ -19383,14 +19383,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:18.443Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T07:53:51.178Z"
+      "lastSpin": "2025-02-21T07:53:51.178Z",
+      "completedMissions": [
+        8
+      ]
     },
     {
       "username": "Kaypomping ",
@@ -19427,7 +19429,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abdulhameed ",
