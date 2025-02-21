@@ -124,11 +124,12 @@
         "Greziky ",
         "Mydey",
         "Joyitunu",
-        "Oyinlola"
+        "Oyinlola",
+        "Comfortchris"
       ],
       "balance": 50,
-      "refers": 36,
-      "referralBalance": 3600,
+      "refers": 37,
+      "referralBalance": 3700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -22213,6 +22214,21 @@
       "joinDate": "2025-02-21T09:04:15.657Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Comfortchris",
+      "email": "princessichado@gmail.com",
+      "encrypted_password": "7626204a4c652bf8667aec3637b2d350",
+      "referral_code": "COUJC",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:04:42.538Z"
     }
   ],
   "withdrawals": [
