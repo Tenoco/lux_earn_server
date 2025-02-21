@@ -27794,10 +27794,12 @@
       "referral_code": "NAN3U",
       "inviter_referral_code": "OL6DY",
       "inviter_username": "Oladelefrosh",
-      "invited_users": [],
+      "invited_users": [
+        "Odubiyi nofiu"
+      ],
       "balance": 550,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -29400,6 +29402,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Odubiyi nofiu",
+      "email": "odubiyinofiu79@gmail.com",
+      "encrypted_password": "eee58a014368bbc06e898ab25e8bddba",
+      "referral_code": "OD7RC",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": "Nabeelo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:06:50.687Z"
     }
   ],
   "withdrawals": [
