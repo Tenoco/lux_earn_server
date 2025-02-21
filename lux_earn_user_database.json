@@ -23523,11 +23523,12 @@
       "inviter_referral_code": "DA2CY",
       "inviter_username": "Davolee001",
       "invited_users": [
-        "Jessiewest"
+        "Jessiewest",
+        "AZAMAN "
       ],
       "balance": 160,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:28:52.257Z",
@@ -32757,7 +32758,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:47:54.331Z"
+      "joinDate": "2025-02-21T13:47:54.331Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "AZAMAN ",
+      "email": "francisjesus585813@gmail.com",
+      "encrypted_password": "88a737da64b3697b696bfaee45e22ba0",
+      "referral_code": "AZW8V",
+      "inviter_referral_code": "VAGJR",
+      "inviter_username": "VanDijk",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:48:13.185Z"
     }
   ],
   "withdrawals": [
