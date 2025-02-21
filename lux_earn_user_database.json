@@ -13957,7 +13957,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:24:40.802Z"
+      "joinDate": "2025-02-21T06:24:40.802Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joker32",
+      "email": "emmanuelgreat2244@gmail.com",
+      "encrypted_password": "07947cbbb921d4e1a175257f7fc622f1",
+      "referral_code": "JOR1K",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:24:43.738Z"
     }
   ],
   "withdrawals": [
