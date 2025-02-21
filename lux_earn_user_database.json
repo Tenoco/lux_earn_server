@@ -11927,7 +11927,8 @@
         8,
         9,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ramseey",
@@ -12407,6 +12408,21 @@
       "joinDate": "2025-02-21T05:47:13.130Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T05:48:11.221Z"
+    },
+    {
+      "username": "Hahhwyw",
+      "email": "tayywy@hamil.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "HA35Y",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:42:51.334Z"
     }
   ],
   "withdrawals": [
