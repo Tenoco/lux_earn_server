@@ -7679,7 +7679,7 @@
       "inviter_referral_code": "Daniel",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 175,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7688,7 +7688,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5
       ]
     },
     {
