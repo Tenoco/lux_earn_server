@@ -31066,13 +31066,15 @@
       "inviter_referral_code": "PRFPU",
       "inviter_username": "Princesspromise",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:54:21.065Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -31144,7 +31146,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:57:06.366Z",
-      "lastSpin": "2025-02-21T12:57:16.061Z",
       "completedMissions": [
         1,
         2,
@@ -31156,7 +31157,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T12:57:16.061Z"
     },
     {
       "username": "Nmahope",
