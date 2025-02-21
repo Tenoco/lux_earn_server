@@ -2268,11 +2268,12 @@
         "PaulSamuel2",
         "Charityprincewill2",
         "Ugomma samuel",
-        "Godwillbenson"
+        "Godwillbenson",
+        "Goodnessogachi"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:19:44.437Z",
@@ -15683,7 +15684,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:52:54.942Z"
+      "joinDate": "2025-02-21T06:52:54.942Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goodnessogachi",
+      "email": "baneityhouse@gmail.com",
+      "encrypted_password": "369955019aed34247840c82529f44b34",
+      "referral_code": "GO03Q",
+      "inviter_referral_code": "PRCEH",
+      "inviter_username": "Princezazu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:52:59.707Z"
     }
   ],
   "withdrawals": [
