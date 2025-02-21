@@ -13013,11 +13013,12 @@
       "inviter_username": "Wonderful ",
       "invited_users": [
         "Aaronoladepo",
-        "Mike"
+        "Mike",
+        "Princess hope "
       ],
       "balance": 40,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -20730,14 +20731,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:25.626Z",
-      "lastSpin": "2025-02-21T08:22:56.088Z",
       "completedMissions": [
         1,
         2,
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     },
     {
       "username": "Michael",
@@ -20861,6 +20862,21 @@
       "joinDate": "2025-02-21T08:27:18.893Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Princess hope ",
+      "email": "debbyolas27@gmail.com",
+      "encrypted_password": "23f474aef895fa9f10b9e5bb5ab804d5",
+      "referral_code": "PRJ6T",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:27:36.645Z"
     }
   ],
   "withdrawals": [
