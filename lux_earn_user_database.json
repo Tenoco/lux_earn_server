@@ -36933,14 +36933,16 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": "Cash101",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:27:50.097Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1
+      ]
     },
     {
       "username": "SUNUSI  MUHISIAQ ",
@@ -36955,7 +36957,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T23:29:27.916Z"
+      "joinDate": "2025-02-21T23:29:27.916Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
