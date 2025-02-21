@@ -16904,7 +16904,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
-      "lastSpin": "2025-02-21T07:09:26.650Z",
       "completedMissions": [
         1,
         1,
@@ -16914,7 +16913,8 @@
         4,
         4,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:09:26.650Z"
     },
     {
       "username": "Tong",
@@ -17050,14 +17050,16 @@
       "inviter_referral_code": "CHVDI",
       "inviter_username": "Chizzy001xyz",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:11:25.656Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Merrysmart",
