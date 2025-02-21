@@ -37232,11 +37232,12 @@
         "Oluwatemilorun",
         "Faramade90",
         "Nkechi12",
-        "Ezekiel88"
+        "Ezekiel88",
+        "Queennme"
       ],
       "balance": 32,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -38008,6 +38009,21 @@
       "joinDate": "2025-02-21T22:28:20.564Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Queennme",
+      "email": "queenracheal@gmail.com",
+      "encrypted_password": "67836648b7269604ef51649455685a2c",
+      "referral_code": "QU5TO",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:29:57.533Z"
     }
   ],
   "withdrawals": [
