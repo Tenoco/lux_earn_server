@@ -37544,16 +37544,17 @@
       "inviter_referral_code": "SHJEM",
       "inviter_username": "Sharonk ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:04:34.197Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T20:08:09.911Z"
     },
     {
       "username": "Friday40",
@@ -37585,7 +37586,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:07:15.960Z"
+      "joinDate": "2025-02-21T20:07:15.960Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
