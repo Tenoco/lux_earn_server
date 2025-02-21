@@ -22732,11 +22732,12 @@
       "invited_users": [
         "nariamatt60",
         "favour01234",
-        "godsave"
+        "godsave",
+        "zoeswanky "
       ],
       "balance": 190,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -31529,6 +31530,21 @@
       "joinDate": "2025-02-21T13:10:45.976Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "zoeswanky ",
+      "email": "zoeaisha2255@gmail.com",
+      "encrypted_password": "de8870b4dab0c978c0821181dbb5fe22",
+      "referral_code": "ZO9ZA",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:12:15.543Z"
     }
   ],
   "withdrawals": [
