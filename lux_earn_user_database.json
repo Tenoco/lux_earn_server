@@ -17545,13 +17545,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:19:19.853Z",
-      "lastSpin": "2025-02-21T07:23:19.414Z",
       "completedMissions": [
         1,
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:23:19.414Z"
     },
     {
       "username": "Miracle 123",
@@ -17837,16 +17837,17 @@
       "inviter_referral_code": "CR114",
       "inviter_username": "Cresterfied",
       "invited_users": [],
-      "balance": 30,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:23:54.753Z",
       "completedMissions": [
+        6,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:25:23.761Z"
     },
     {
       "username": "Musazogi001",
