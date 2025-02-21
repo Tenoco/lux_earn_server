@@ -22422,11 +22422,12 @@
         "Mwawawa ",
         "edukeitemjames",
         "sallee",
-        "Amarachi "
+        "Amarachi ",
+        "Evergreen"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:54:11.294Z",
@@ -38363,6 +38364,21 @@
       "joinDate": "2025-02-21T20:52:14.482Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Evergreen",
+      "email": "nkiruamara90@gmail.com",
+      "encrypted_password": "fd1c4e8eff8919a05d7c7358097cff51",
+      "referral_code": "EV5DW",
+      "inviter_referral_code": "CHDBE",
+      "inviter_username": "Chinenyefavour",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:53:43.559Z"
     }
   ],
   "withdrawals": [
