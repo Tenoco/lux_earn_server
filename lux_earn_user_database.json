@@ -14581,7 +14581,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmanuel",
@@ -14769,6 +14770,21 @@
       "joinDate": "2025-02-21T06:37:55.217Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mahmud",
+      "email": "mahammad63@gmail.com",
+      "encrypted_password": "0b58722bb56a1649f31f1820f4d5c0ce",
+      "referral_code": "MAEV0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:38:29.705Z"
     }
   ],
   "withdrawals": [
