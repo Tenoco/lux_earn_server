@@ -37823,11 +37823,12 @@
       "inviter_username": null,
       "invited_users": [
         "Dikao",
-        "dolapo0206h"
+        "dolapo0206h",
+        "Kunle70"
       ],
       "balance": 350,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:56:58.126Z",
@@ -38414,7 +38415,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:35:33.890Z"
+      "joinDate": "2025-02-21T18:35:33.890Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kunle70",
+      "email": "ibkanu800@gmail.com",
+      "encrypted_password": "4693fbb215b8ca15a6900f0cfa164cdc",
+      "referral_code": "KUSJJ",
+      "inviter_referral_code": "DO2Z4",
+      "inviter_username": "dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:36:29.759Z"
     }
   ],
   "withdrawals": [
