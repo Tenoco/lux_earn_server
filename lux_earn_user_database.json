@@ -24885,11 +24885,12 @@
         "Joshprince ",
         "Adedolapo33",
         "Kriti22",
-        "oyeniyiv949@gmail.com"
+        "oyeniyiv949@gmail.com",
+        "Issabella"
       ],
       "balance": 270,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -29556,6 +29557,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:17.417Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T12:09:57.965Z"
     },
     {
@@ -29608,6 +29610,21 @@
       "joinDate": "2025-02-21T12:09:52.687Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Issabella",
+      "email": "Isszy91@gmail.com",
+      "encrypted_password": "87ddaea84838c80a9a542213635f8dc2",
+      "referral_code": "ISGAM",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:10:20.188Z"
     }
   ],
   "withdrawals": [
