@@ -5541,11 +5541,12 @@
         "Ogebabe",
         "Cynbabe",
         "Micheal",
-        "Bitcoin "
+        "Bitcoin ",
+        "akachis"
       ],
       "balance": 58,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
@@ -7859,7 +7860,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:02:02.716Z"
+      "joinDate": "2025-02-21T01:02:02.716Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "akachis",
+      "email": "akachigift34@gmail.com",
+      "encrypted_password": "d7ffe0c4f4a41cde117cfcbe18363bf3",
+      "referral_code": "AKSXE",
+      "inviter_referral_code": "RE2O0",
+      "inviter_username": "realchimzy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:02:08.407Z"
     }
   ],
   "withdrawals": [
