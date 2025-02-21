@@ -2136,11 +2136,12 @@
         "Sylverfox ",
         "Rosequeen",
         "Favour48",
-        "Hamsterkombat"
+        "Hamsterkombat",
+        "Amaka567"
       ],
       "balance": 285,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:16:08.255Z",
@@ -38058,6 +38059,21 @@
       "joinDate": "2025-02-21T16:23:59.924Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amaka567",
+      "email": "mathewman4005@gmail.com",
+      "encrypted_password": "7e05503855ee54eb9459723557506561",
+      "referral_code": "AMMHW",
+      "inviter_referral_code": "IAKAO",
+      "inviter_username": "iamdriller23",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:27:15.638Z"
     }
   ],
   "withdrawals": [
