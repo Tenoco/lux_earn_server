@@ -860,7 +860,7 @@
         "Moneyman",
         "Psblo",
         "Marvi",
-        "daniel2027_£$"
+        "daniel2027_Â£$"
       ],
       "balance": 163,
       "refers": 5,
@@ -10602,7 +10602,7 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 185,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10616,9 +10616,9 @@
         4,
         1,
         8,
-        7
-      ],
-      "lastSpin": null
+        7,
+        6
+      ]
     },
     {
       "username": "Oregon",
@@ -10723,7 +10723,7 @@
       "lastSpin": null
     },
     {
-      "username": "daniel2027_£$",
+      "username": "daniel2027_Â£$",
       "email": "danielclarke9037@gmail.com",
       "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
       "referral_code": "DAZ6L",
@@ -10735,7 +10735,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:43:38.378Z"
+      "joinDate": "2025-02-21T04:43:38.378Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
