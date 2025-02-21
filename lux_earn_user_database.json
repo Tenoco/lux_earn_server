@@ -20036,11 +20036,12 @@
       "inviter_username": null,
       "invited_users": [
         "Eze Ebuka",
-        "Majestic"
+        "Majestic",
+        "SUNUSI  MUHISIAQ "
       ],
       "balance": 45,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:18.443Z",
@@ -36940,6 +36941,21 @@
       "joinDate": "2025-02-21T23:27:50.097Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SUNUSI  MUHISIAQ ",
+      "email": "panicz716@gmail.com",
+      "encrypted_password": "4576fab1c9fda15dfdf185f52a9e99c1",
+      "referral_code": "SUOF9",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": "BigNachi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:29:27.916Z"
     }
   ],
   "withdrawals": [
