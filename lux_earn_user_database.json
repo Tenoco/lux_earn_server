@@ -32028,14 +32028,17 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 10,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:26:43.438Z",
       "completedMissions": [
-        7
+        7,
+        6,
+        5,
+        4
       ],
       "lastSpin": null
     },
