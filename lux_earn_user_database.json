@@ -8776,7 +8776,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:49:04.359Z"
+      "joinDate": "2025-02-21T01:49:04.359Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Active ",
+      "email": "emma67840092@gmail.com",
+      "encrypted_password": "be8f31d5c3e133001c08fc15eaac789a",
+      "referral_code": "ACEKN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:49:59.577Z"
     }
   ],
   "withdrawals": [
