@@ -14950,14 +14950,16 @@
       "inviter_referral_code": "Form",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:40:46.544Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T06:44:46.747Z"
     },
     {
       "username": "igwemoses147",
@@ -15235,7 +15237,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:45:48.549Z"
+      "joinDate": "2025-02-21T06:45:48.549Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
