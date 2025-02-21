@@ -15415,7 +15415,7 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [],
-      "balance": 130,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15426,9 +15426,12 @@
         9,
         9,
         9,
-        7
-      ],
-      "lastSpin": null
+        7,
+        2,
+        8,
+        3,
+        4
+      ]
     },
     {
       "username": "Shade",
