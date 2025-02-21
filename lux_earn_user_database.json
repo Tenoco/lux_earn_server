@@ -6185,7 +6185,8 @@
       "joinDate": "2025-02-21T00:19:47.092Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Fantasee",
@@ -6229,7 +6230,7 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 367,
+      "balance": 67,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6634,6 +6635,16 @@
       "phoneNumber": "08057243779",
       "amount": 50,
       "timestamp": "2025-02-21T00:25:20.653Z",
+      "status": "pending"
+    },
+    {
+      "username": "Moneyman",
+      "email": "preciousadeniran22@gmail.com",
+      "type": "data",
+      "network": "mtn",
+      "phoneNumber": "09065446569",
+      "amount": 300,
+      "timestamp": "2025-02-21T00:25:27.535Z",
       "status": "pending"
     }
   ]
