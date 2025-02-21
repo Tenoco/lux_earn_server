@@ -22992,11 +22992,12 @@
         "godsave",
         "zoeswanky ",
         "Donprince141",
-        "Favor"
+        "Favor",
+        "Tyler33"
       ],
       "balance": 220,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -36938,7 +36939,8 @@
         4,
         5,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dora",
@@ -37100,6 +37102,21 @@
       "joinDate": "2025-02-21T16:02:06.445Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tyler33",
+      "email": "xupsimeon@gmail.com",
+      "encrypted_password": "23f7fbf551806fe5f3e10e9c8c252752",
+      "referral_code": "TY9S0",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:02:41.644Z"
     }
   ],
   "withdrawals": [
