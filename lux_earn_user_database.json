@@ -503,11 +503,12 @@
       "inviter_username": null,
       "invited_users": [
         "Flower",
-        "Emmanuelemmzy"
+        "Emmanuelemmzy",
+        "Marc"
       ],
       "balance": 270,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -35445,6 +35446,21 @@
       "joinDate": "2025-02-21T15:00:59.771Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T15:01:54.150Z"
+    },
+    {
+      "username": "Marc",
+      "email": "esiagavivian965@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "MA751",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:02:18.872Z"
     }
   ],
   "withdrawals": [
