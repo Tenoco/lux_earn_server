@@ -36972,7 +36972,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:38:47.227Z"
+      "joinDate": "2025-02-21T16:38:47.227Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sandra9",
+      "email": "sandracherrtixhh@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "SA5BV",
+      "inviter_referral_code": "AMFOO ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:39:16.307Z"
     }
   ],
   "withdrawals": [
