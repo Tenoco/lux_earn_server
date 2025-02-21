@@ -20825,10 +20825,12 @@
       "referral_code": "AYLQW",
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
-      "invited_users": [],
+      "invited_users": [
+        "legegeneral"
+      ],
       "balance": 130,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:14:24.038Z",
@@ -28957,7 +28959,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:56:21.579Z"
+      "joinDate": "2025-02-21T11:56:21.579Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "legegeneral",
+      "email": "legegeneral0@gmail.com",
+      "encrypted_password": "0564142f5739a306784c4cb01af1dea2",
+      "referral_code": "LELY2",
+      "inviter_referral_code": "AYLQW",
+      "inviter_username": "Ayo00A11",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:56:38.327Z"
     }
   ],
   "withdrawals": [
