@@ -6537,7 +6537,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:27:04.991Z"
+      "joinDate": "2025-02-21T00:27:04.991Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elisha03",
+      "email": "Ogunmorotielisha@gmail.com",
+      "encrypted_password": "fe00968a88950e6850f8f1c10101e0f3",
+      "referral_code": "EL7JP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:27:33.556Z"
     }
   ],
   "withdrawals": [
