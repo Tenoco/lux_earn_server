@@ -1353,11 +1353,12 @@
         "Estheriyanuoluwa",
         "Sara Phina",
         "Salifusa",
-        "Olofin78"
+        "Olofin78",
+        "Izzymoney "
       ],
       "balance": 88,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -21907,7 +21908,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chinenyefavour",
@@ -22000,6 +22002,21 @@
       "joinDate": "2025-02-21T08:58:17.371Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Izzymoney ",
+      "email": "olanrewajuizzy2007@gmail.com",
+      "encrypted_password": "2c8246381f49cc1f0222d12f4780cf5a",
+      "referral_code": "IZU1Y",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:58:58.867Z"
     }
   ],
   "withdrawals": [
