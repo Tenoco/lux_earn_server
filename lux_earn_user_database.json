@@ -37801,7 +37801,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:18:11.697Z"
+      "joinDate": "2025-02-21T16:18:11.697Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omolarah ",
+      "email": "hormolarah985@gmail.com",
+      "encrypted_password": "8e68310f65bf07f5fb5a797e2f8b5c29",
+      "referral_code": "OMI25",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:18:16.294Z"
     }
   ],
   "withdrawals": [
