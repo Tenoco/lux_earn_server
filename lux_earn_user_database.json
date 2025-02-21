@@ -36934,14 +36934,15 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:10:26.417Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
