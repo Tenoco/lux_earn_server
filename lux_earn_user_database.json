@@ -13483,16 +13483,16 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:11:24.102Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Funtechit9",
@@ -13611,7 +13611,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:14:18.548Z"
+      "joinDate": "2025-02-21T06:14:18.548Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
