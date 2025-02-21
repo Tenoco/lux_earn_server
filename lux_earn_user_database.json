@@ -9118,6 +9118,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Kelly1",
+      "email": "kellwise508@gmail.com",
+      "encrypted_password": "904f509a6f7160de67e51dff4e3c7339",
+      "referral_code": "KEXCS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:28:00.242Z"
     }
   ],
   "withdrawals": [
