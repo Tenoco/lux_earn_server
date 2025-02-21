@@ -359,7 +359,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 290,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38508,6 +38508,16 @@
       "phoneNumber": "07040828131",
       "amount": 20,
       "timestamp": "2025-02-21T22:09:37.069Z",
+      "status": "pending"
+    },
+    {
+      "username": "Kaluv203",
+      "email": "kaluvictor833@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "08160186949",
+      "amount": 200,
+      "timestamp": "2025-02-21T22:30:19.653Z",
       "status": "pending"
     }
   ]
