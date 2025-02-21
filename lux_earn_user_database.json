@@ -15072,11 +15072,12 @@
         "Mustyzai",
         "folorunshosg",
         "TeeVibez",
-        "Christian1m0"
+        "Christian1m0",
+        "Sugar96"
       ],
       "balance": 251,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -25573,7 +25574,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:29:58.822Z"
+      "joinDate": "2025-02-21T10:29:58.822Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sugar96",
+      "email": "loxefor@gmail.com",
+      "encrypted_password": "1062f9b51ab0de9216b32de98b10bc27",
+      "referral_code": "SUS7K",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:30:01.164Z"
     }
   ],
   "withdrawals": [
