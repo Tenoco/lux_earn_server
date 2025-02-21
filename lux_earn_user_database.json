@@ -37035,14 +37035,14 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:22:36.963Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T19:24:15.463Z"
     },
     {
       "username": "Kaja",
@@ -37057,7 +37057,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:16:58.332Z"
+      "joinDate": "2025-02-21T19:16:58.332Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
