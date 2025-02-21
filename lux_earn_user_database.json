@@ -12087,7 +12087,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 165,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12716,6 +12716,16 @@
       "phoneNumber": "09023550495",
       "amount": 50,
       "timestamp": "2025-02-21T05:38:32.470Z",
+      "status": "pending"
+    },
+    {
+      "username": "Ohldsoja",
+      "email": "adedokunadebayo56@gmail.com",
+      "type": "airtime",
+      "network": "airtel",
+      "phoneNumber": "08084107782",
+      "amount": 100,
+      "timestamp": "2025-02-21T05:45:24.592Z",
       "status": "pending"
     }
   ]
