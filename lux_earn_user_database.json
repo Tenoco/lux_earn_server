@@ -34670,7 +34670,7 @@
       "inviter_referral_code": "Imx21",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 52,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34679,7 +34679,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "lastSpin": "2025-02-21T18:30:24.473Z"
     },
@@ -38393,7 +38394,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:35:02.064Z"
+      "joinDate": "2025-02-21T18:35:02.064Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
