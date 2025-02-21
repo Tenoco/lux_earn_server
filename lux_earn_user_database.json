@@ -11506,11 +11506,12 @@
       "invited_users": [
         "Dhhecv1",
         "Goohdyy",
-        "Fanjansoy"
+        "Fanjansoy",
+        "Komolofy"
       ],
       "balance": 68,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:16:19.851Z",
@@ -13290,6 +13291,21 @@
       "joinDate": "2025-02-21T06:07:12.154Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Komolofy",
+      "email": "buharisani3422@gmail.com",
+      "encrypted_password": "5aeb56e30e3651f1d947f03da58111f4",
+      "referral_code": "KOMU5",
+      "inviter_referral_code": "MM6P4",
+      "inviter_username": "mmmmdjk1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:07:24.773Z"
     }
   ],
   "withdrawals": [
