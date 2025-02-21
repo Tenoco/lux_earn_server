@@ -31601,11 +31601,12 @@
         "Bjsnsn",
         "Jbmnbw",
         "Baknssn",
-        "Chhbbb"
+        "Chhbbb",
+        "Gnnjbb"
       ],
       "balance": 30,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:03:49.290Z",
@@ -34693,7 +34694,8 @@
       "joinDate": "2025-02-21T14:38:26.019Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shedrack Jerry",
@@ -34745,6 +34747,21 @@
       "joinDate": "2025-02-21T14:40:29.605Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gnnjbb",
+      "email": "iyanyahendricks@gmail.com",
+      "encrypted_password": "f3394e49bfd26732cfa9662854c5038f",
+      "referral_code": "GNP2I",
+      "inviter_referral_code": "INAJD",
+      "inviter_username": "increasehendricks",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:41:21.774Z"
     }
   ],
   "withdrawals": [
