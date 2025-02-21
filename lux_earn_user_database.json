@@ -32454,10 +32454,12 @@
       "referral_code": "MIMQ9",
       "inviter_referral_code": "JEWIY",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kingbest"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:36:00.798Z",
@@ -33075,7 +33077,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:57:22.787Z"
+      "joinDate": "2025-02-21T13:57:22.787Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingbest",
+      "email": "mikejasonn5@gmail.com",
+      "encrypted_password": "544172e394928d6e391d3d5ef2716ea2",
+      "referral_code": "KILTI",
+      "inviter_referral_code": "MIMQ9",
+      "inviter_username": "Michaelkeyz ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:57:39.389Z"
     }
   ],
   "withdrawals": [
