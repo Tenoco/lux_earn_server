@@ -27940,7 +27940,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:22:07.683Z"
+      "joinDate": "2025-02-21T11:22:07.683Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "KosnikaSammy",
+      "email": "sammykosnika@gmail.com",
+      "encrypted_password": "4942608fa05dba1992f491abb5397e3b",
+      "referral_code": "KOCX4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:22:32.240Z"
     }
   ],
   "withdrawals": [
