@@ -5456,11 +5456,12 @@
         "Cannyson",
         "Cannadah",
         "Theyreelme",
-        "Camellaty"
+        "Camellaty",
+        "Panddada"
       ],
       "balance": 30,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8152,7 +8153,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:11:00.273Z"
+      "joinDate": "2025-02-21T01:11:00.273Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Panddada",
+      "email": "panddaddaylan@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "PA3EZ",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:11:14.323Z"
     }
   ],
   "withdrawals": [
