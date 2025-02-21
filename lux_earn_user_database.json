@@ -33838,14 +33838,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:14:27.409Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T14:52:21.286Z"
     },
     {
       "username": "Ifygold",
