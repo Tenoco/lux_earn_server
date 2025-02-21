@@ -20339,7 +20339,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:14:24.038Z"
+      "joinDate": "2025-02-21T08:14:24.038Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Khalipha",
+      "email": "plee04185@gmail.com",
+      "encrypted_password": "2077e4a6bafa9b4e7b55e1fff16818af",
+      "referral_code": "KHS7V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:14:46.689Z"
     }
   ],
   "withdrawals": [
