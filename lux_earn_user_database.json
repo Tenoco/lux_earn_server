@@ -8943,14 +8943,15 @@
       "inviter_referral_code": "SA6WT",
       "inviter_username": "Sammy4021",
       "invited_users": [],
-      "balance": 85,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:02:16.649Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     }
