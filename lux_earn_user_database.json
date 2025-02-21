@@ -37306,7 +37306,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:06:49.126Z"
+      "joinDate": "2025-02-21T17:06:49.126Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Favour001",
+      "email": "barthlomewfavour064@gmail.com",
+      "encrypted_password": "f739a1ef6b012e5c920dcc8c3bb51da0",
+      "referral_code": "FAX0Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:07:09.027Z"
     }
   ],
   "withdrawals": [
