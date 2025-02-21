@@ -17285,7 +17285,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:15:06.688Z",
-      "lastSpin": "2025-02-21T07:15:57.484Z",
       "completedMissions": [
         1,
         2,
@@ -17295,7 +17294,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:15:57.484Z"
     },
     {
       "username": "And ",
@@ -17643,6 +17643,21 @@
       "joinDate": "2025-02-21T07:20:48.936Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Osungade praise ",
+      "email": "osungadevictoria@gmail.com",
+      "encrypted_password": "30cb2cb17c27334d25879ee6bec22c4f",
+      "referral_code": "OSMYY",
+      "inviter_referral_code": "  MIQP1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:21:00.509Z"
     }
   ],
   "withdrawals": [
