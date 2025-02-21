@@ -9565,10 +9565,12 @@
       "referral_code": "HAZJI",
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
-      "invited_users": [],
+      "invited_users": [
+        "Isaac David "
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:05:17.390Z",
@@ -19650,6 +19652,21 @@
       "joinDate": "2025-02-21T07:58:10.107Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Isaac David ",
+      "email": "id799190@gmail.com",
+      "encrypted_password": "475f711abc14b191879a164013302681",
+      "referral_code": "ISTIL",
+      "inviter_referral_code": "HAZJI",
+      "inviter_username": "Haggaijacob0912172",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:59:02.489Z"
     }
   ],
   "withdrawals": [
