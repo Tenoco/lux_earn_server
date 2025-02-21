@@ -10264,7 +10264,7 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 91,
+      "balance": 101,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10274,7 +10274,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-21T05:59:05.622Z"
     },
@@ -13015,7 +13016,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:02:04.959Z"
+      "joinDate": "2025-02-21T06:02:04.959Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
