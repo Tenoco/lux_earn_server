@@ -17537,6 +17537,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:19:19.853Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:23:19.414Z"
     },
     {
@@ -17795,6 +17796,21 @@
       "joinDate": "2025-02-21T07:22:45.735Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fauzi222",
+      "email": "fauziyyamahammad583@gmail.com",
+      "encrypted_password": "ba48f0e6151b867eca583a699bc75276",
+      "referral_code": "FAGAS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:23:28.974Z"
     }
   ],
   "withdrawals": [
