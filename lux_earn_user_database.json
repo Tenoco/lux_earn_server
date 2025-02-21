@@ -6696,7 +6696,7 @@
         "Hamin",
         "Nice29"
       ],
-      "balance": 120,
+      "balance": 20,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -8130,6 +8130,16 @@
       "phoneNumber": "09063344356",
       "amount": 295,
       "timestamp": "2025-02-21T01:01:44.327Z",
+      "status": "pending"
+    },
+    {
+      "username": "phoenix29",
+      "email": "chigekwuothniel@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07048740977",
+      "amount": 100,
+      "timestamp": "2025-02-21T01:02:55.588Z",
       "status": "pending"
     }
   ]
