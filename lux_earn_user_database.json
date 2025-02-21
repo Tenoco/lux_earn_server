@@ -10406,14 +10406,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:20:43.851Z",
       "completedMissions": [
-        8
+        8,
+        7,
+        7,
+        6,
+        5
       ],
       "lastSpin": null
     },
@@ -10867,7 +10871,8 @@
       "joinDate": "2025-02-21T04:52:44.156Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yshuaibu",
