@@ -16019,7 +16019,7 @@
       "inviter_referral_code": "TERYC",
       "inviter_username": "Temmie336",
       "invited_users": [],
-      "balance": 210,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16032,7 +16032,8 @@
         4,
         5,
         6,
-        9
+        9,
+        11
       ],
       "lastSpin": null
     },
@@ -36955,7 +36956,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:55:41.794Z"
+      "joinDate": "2025-02-21T15:55:41.794Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
