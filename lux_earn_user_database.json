@@ -17328,10 +17328,12 @@
       "referral_code": "TO8QD",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Satshak "
+      ],
       "balance": 180,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:40.842Z",
@@ -24092,7 +24094,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:54:35.264Z"
+      "joinDate": "2025-02-21T09:54:35.264Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Satshak ",
+      "email": "dalongsatnshak@gmail.com",
+      "encrypted_password": "36ecbb811cb26f39119c60e75a7ca1f2",
+      "referral_code": "SA16F",
+      "inviter_referral_code": "TO8QD",
+      "inviter_username": "Tong",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:54:45.108Z"
     }
   ],
   "withdrawals": [
