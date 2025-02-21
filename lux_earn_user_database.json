@@ -9021,11 +9021,12 @@
         "Vice-chairman ",
         "Malclm",
         "Jennifer akuwe",
-        "Solomonokun"
+        "Solomonokun",
+        "Ezeboy"
       ],
       "balance": 330,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9460,7 +9461,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:50:01.314Z"
+      "joinDate": "2025-02-21T02:50:01.314Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ezeboy",
+      "email": "chichieze@gmail.com",
+      "encrypted_password": "1bbd886460827015e5d605ed44252251",
+      "referral_code": "EZRRB",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:50:40.109Z"
     }
   ],
   "withdrawals": [
