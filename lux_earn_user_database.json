@@ -26467,14 +26467,15 @@
       "inviter_referral_code": "KA4B6",
       "inviter_username": "Kashey",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:45:31.555Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Ayelabowo",
@@ -26523,7 +26524,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:47:27.566Z"
+      "joinDate": "2025-02-21T10:47:27.566Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
