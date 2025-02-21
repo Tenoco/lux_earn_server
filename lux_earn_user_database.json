@@ -13512,7 +13512,7 @@
         "Thiago",
         "Mercy"
       ],
-      "balance": 1178,
+      "balance": -822,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -38525,7 +38525,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T21:06:06.085Z"
+      "joinDate": "2025-02-21T21:06:06.085Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -38582,6 +38584,17 @@
       "amount": 4200,
       "totalBalance": 4000,
       "timestamp": "2025-02-21T20:46:38.440Z",
+      "status": "pending"
+    },
+    {
+      "username": "Milkmentjnr3",
+      "email": "olakunledaniel2010@gmail.com",
+      "accountName": "Olakunle Helen titilayo",
+      "accountNumber": "9031185847",
+      "bank": "Opay",
+      "amount": 2000,
+      "totalBalance": 1178,
+      "timestamp": "2025-02-21T21:06:27.371Z",
       "status": "pending"
     }
   ],
