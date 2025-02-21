@@ -22980,7 +22980,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:24:46.612Z"
+      "joinDate": "2025-02-21T09:24:46.612Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "succyjune",
+      "email": "debbiesuccesso46@gmail.com",
+      "encrypted_password": "10bf28542c841a5012364b9e4fd61f83",
+      "referral_code": "SU3OW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:24:56.313Z"
     }
   ],
   "withdrawals": [
