@@ -13618,10 +13618,12 @@
       "referral_code": "ELE2L",
       "inviter_referral_code": "Sl2MH",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Danielkafillu"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:13:06.448Z",
@@ -14694,6 +14696,21 @@
       "joinDate": "2025-02-21T06:36:35.481Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danielkafillu",
+      "email": "danielkafillu@gmail.com",
+      "encrypted_password": "d0b2d990abecf762cd056e2ec3cb41a0",
+      "referral_code": "DANWC",
+      "inviter_referral_code": "ELE2L",
+      "inviter_username": "Elijah1234",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:37:05.929Z"
     }
   ],
   "withdrawals": [
