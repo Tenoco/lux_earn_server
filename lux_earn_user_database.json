@@ -9771,7 +9771,23 @@
         1,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Risky01",
+      "email": "darasimiibrahim918@gmail.com",
+      "encrypted_password": "5179c2cfa34ba8f90e0bf74c5676cd1d",
+      "referral_code": "RI5J1",
+      "inviter_referral_code": "COSCL",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:10:58.489Z"
     }
   ],
   "withdrawals": [
