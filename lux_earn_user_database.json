@@ -13550,10 +13550,12 @@
       "referral_code": "ZIWZH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Rose55"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -14118,7 +14120,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:26:56.432Z"
+      "joinDate": "2025-02-21T06:26:56.432Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rose55",
+      "email": "rosettajnr1@gmail.com",
+      "encrypted_password": "77bd28d982d82cdb12476b9c1e0abf1c",
+      "referral_code": "RO8DL",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:27:08.337Z"
     }
   ],
   "withdrawals": [
