@@ -3754,10 +3754,12 @@
       "referral_code": "OL6TF",
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
-      "invited_users": [],
+      "invited_users": [
+        "Ideh"
+      ],
       "balance": 70,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:36:27.148Z",
@@ -6591,7 +6593,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:27:48.266Z"
+      "joinDate": "2025-02-21T00:27:48.266Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ideh",
+      "email": "isrealalex66@gmail",
+      "encrypted_password": "ce4c5959f2075d7ba362cbeb0fe3792b",
+      "referral_code": "IDM78",
+      "inviter_referral_code": "OL6TF",
+      "inviter_username": "OLIVIALOVE ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:27:50.403Z"
     }
   ],
   "withdrawals": [
