@@ -11469,11 +11469,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Hellah"
+        "Hellah",
+        "Diamond703"
       ],
       "balance": 130,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:04:28.825Z",
@@ -36937,7 +36938,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:10:26.417Z"
+      "joinDate": "2025-02-21T19:10:26.417Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Diamond703",
+      "email": "ikponmwonbaosamudiamen@gmail.com",
+      "encrypted_password": "0080596116a1d2907de9a449572830c5",
+      "referral_code": "DIY34",
+      "inviter_referral_code": "FIDTX",
+      "inviter_username": "Firstmanoneart",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:11:31.725Z"
     }
   ],
   "withdrawals": [
