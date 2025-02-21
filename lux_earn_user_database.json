@@ -29964,11 +29964,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Danbyr"
+        "Danbyr",
+        "Poiyiu"
       ],
       "balance": 262,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:24:03.647Z",
@@ -30720,7 +30721,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:45:36.900Z"
+      "joinDate": "2025-02-21T12:45:36.900Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Poiyiu",
+      "email": "omaniel80@gmail.com",
+      "encrypted_password": "0b48df051c8248f1a8428f2d9613f836",
+      "referral_code": "POW5B",
+      "inviter_referral_code": "DA0VX",
+      "inviter_username": "Dannyung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:46:21.237Z"
     }
   ],
   "withdrawals": [
