@@ -13995,11 +13995,12 @@
         "blessing ",
         "3456@roseberry-45",
         "Great@",
-        "Euphemia"
+        "Euphemia",
+        "Life"
       ],
       "balance": 220,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -34820,7 +34821,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:42:32.313Z"
+      "joinDate": "2025-02-21T14:42:32.313Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Life",
+      "email": "life54@gmail.com",
+      "encrypted_password": "a1a609f1ac109d0be28d8ae112db1bbb",
+      "referral_code": "LIMA2",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:42:39.050Z"
     }
   ],
   "withdrawals": [
