@@ -4934,11 +4934,12 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": "Shegzzy Media",
       "invited_users": [
-        "big ben 031"
+        "big ben 031",
+        "Jude 032"
       ],
       "balance": 255,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:58:14.859Z",
@@ -5940,6 +5941,21 @@
       "joinDate": "2025-02-21T00:15:23.648Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jude 032",
+      "email": "waynejnr.031@gmail.com",
+      "encrypted_password": "16a184900e65893e7454404138e61b25",
+      "referral_code": "JU258",
+      "inviter_referral_code": "TH1KK",
+      "inviter_username": "Thim cd5",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:15:48.906Z"
     }
   ],
   "withdrawals": [
