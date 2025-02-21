@@ -32127,10 +32127,12 @@
       "referral_code": "JE6AM",
       "inviter_referral_code": "VAGJR",
       "inviter_username": "VanDijk",
-      "invited_users": [],
+      "invited_users": [
+        "Barnabasboy"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:27:50.700Z",
@@ -32962,7 +32964,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:54:08.135Z"
+      "joinDate": "2025-02-21T13:54:08.135Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Barnabasboy",
+      "email": "jessicabarker2689@gmail.com",
+      "encrypted_password": "4a19d837d711b75fdbd8db66abfb328c",
+      "referral_code": "BA5WN",
+      "inviter_referral_code": "JE6AM",
+      "inviter_username": "Jessiewest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:54:31.286Z"
     }
   ],
   "withdrawals": [
