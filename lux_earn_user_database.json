@@ -4700,11 +4700,12 @@
         "Rex",
         "Roy",
         "Zoro",
-        "Will"
+        "Will",
+        "Zain"
       ],
       "balance": 25,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7259,6 +7260,21 @@
       "joinDate": "2025-02-21T00:42:52.300Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zain",
+      "email": "zaunroy@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "ZAQC2",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:43:22.310Z"
     }
   ],
   "withdrawals": [
