@@ -10360,7 +10360,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Demilogo",
@@ -10573,6 +10574,21 @@
       "joinDate": "2025-02-21T04:21:46.991Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tochek",
+      "email": "tochekokereke@gmail.com",
+      "encrypted_password": "f6ff319b2c047cf017fbfcc298ce3d21",
+      "referral_code": "TOXNF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:22:34.771Z"
     }
   ],
   "withdrawals": [
