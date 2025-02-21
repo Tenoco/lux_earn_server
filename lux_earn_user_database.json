@@ -17740,13 +17740,18 @@
       "inviter_referral_code": "  MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:00.509Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ],
       "lastSpin": null
     },
     {
