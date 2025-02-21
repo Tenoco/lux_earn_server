@@ -36019,7 +36019,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 220,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36033,9 +36033,9 @@
         5,
         6,
         7,
-        8
-      ],
-      "lastSpin": null
+        8,
+        9
+      ]
     },
     {
       "username": "ibrahimizzuddeen",
@@ -36433,7 +36433,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:30:00.015Z"
+      "joinDate": "2025-02-21T15:30:00.015Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
