@@ -37875,7 +37875,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:02:13.521Z"
+      "joinDate": "2025-02-21T18:02:13.521Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Agina",
+      "email": "aginafaith6@gmail.com",
+      "encrypted_password": "14ed1a22176d3805f01deeab4c7aae03",
+      "referral_code": "AGXSZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:02:23.060Z"
     }
   ],
   "withdrawals": [
