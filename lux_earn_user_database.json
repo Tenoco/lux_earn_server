@@ -5782,11 +5782,12 @@
       "inviter_username": "Sirblack",
       "invited_users": [
         "danmadam1",
-        "kingaleey11"
+        "kingaleey11",
+        "Danmadam11"
       ],
       "balance": 310,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -15641,7 +15642,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Vicky",
@@ -15846,6 +15848,21 @@
       "joinDate": "2025-02-21T06:55:17.108Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danmadam11",
+      "email": "aliyuabdullahidass1@gmail.com",
+      "encrypted_password": "f04a2a7098098718781e5189c649da7c",
+      "referral_code": "DA7F4",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:55:33.103Z"
     }
   ],
   "withdrawals": [
