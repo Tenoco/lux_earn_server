@@ -10588,11 +10588,12 @@
         "Ruth1",
         "Popoola",
         "Azeez muj",
-        "Adeniji"
+        "Adeniji",
+        "Aadeleke"
       ],
       "balance": 320,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -34142,7 +34143,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:25:30.736Z"
+      "joinDate": "2025-02-21T14:25:30.736Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aadeleke",
+      "email": "aadeleke647@gmail.com",
+      "encrypted_password": "768a05e674346de72970c4d45a2f8003",
+      "referral_code": "AA5JY",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:25:43.553Z"
     }
   ],
   "withdrawals": [
