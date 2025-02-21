@@ -17492,7 +17492,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:19:19.853Z"
+      "joinDate": "2025-02-21T07:19:19.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Miracle 123",
+      "email": "mirasmith1977@gmail.com",
+      "encrypted_password": "188d6d881e2eaa4bc4df0362cb8a6e79",
+      "referral_code": "MILGM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:19:22.983Z"
     }
   ],
   "withdrawals": [
