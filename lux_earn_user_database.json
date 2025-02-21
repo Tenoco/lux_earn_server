@@ -26632,7 +26632,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26641,7 +26641,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T10:52:30.252Z"
     },
     {
       "username": "Mummy ",
@@ -26826,7 +26826,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:52:27.852Z"
+      "joinDate": "2025-02-21T10:52:27.852Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
