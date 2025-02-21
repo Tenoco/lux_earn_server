@@ -11970,7 +11970,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:34:01.677Z"
+      "joinDate": "2025-02-21T05:34:01.677Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Metrosoft",
+      "email": "samuelearnest402@gmail.com",
+      "encrypted_password": "97a53cf95447795bf9db1cb953f5e688",
+      "referral_code": "ME1ZR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:34:07.741Z"
     }
   ],
   "withdrawals": [
