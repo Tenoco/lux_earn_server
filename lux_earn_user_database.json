@@ -11453,10 +11453,12 @@
       "referral_code": "MM6P4",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Dhhecv1"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:16:19.851Z",
@@ -12038,6 +12040,21 @@
       "joinDate": "2025-02-21T05:35:36.730Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dhhecv1",
+      "email": "shamsusalisu075@gmail.com",
+      "encrypted_password": "1dd05e3e8c1fbf82f904440c10338f1e",
+      "referral_code": "DHBQS",
+      "inviter_referral_code": "MM6P4",
+      "inviter_username": "mmmmdjk1",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:35:51.153Z"
     }
   ],
   "withdrawals": [
