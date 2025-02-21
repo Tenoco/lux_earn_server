@@ -26935,7 +26935,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:54:41.632Z"
+      "joinDate": "2025-02-21T10:54:41.632Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oladelefrosh",
+      "email": "nabeeladeniji@gmail.com",
+      "encrypted_password": "8835fa54b0aa8a9c6621230e8f794a5f",
+      "referral_code": "OL6DY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:54:47.590Z"
     }
   ],
   "withdrawals": [
