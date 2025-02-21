@@ -17835,10 +17835,12 @@
       "referral_code": "SH7CK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Awal001"
+      ],
       "balance": 292,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:21:48.588Z",
@@ -19335,7 +19337,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:52:43.633Z"
+      "joinDate": "2025-02-21T07:52:43.633Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Awal001",
+      "email": "abdulwarizhorlaywolar@gmail.com",
+      "encrypted_password": "0d9ed0843acc08f1d90f6661692e3779",
+      "referral_code": "AWDQJ",
+      "inviter_referral_code": "SH7CK",
+      "inviter_username": "sharz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:52:54.685Z"
     }
   ],
   "withdrawals": [
