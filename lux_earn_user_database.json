@@ -37029,7 +37029,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:49:29.700Z"
+      "joinDate": "2025-02-21T16:49:29.700Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tushe",
+      "email": "two38186@gmail.com",
+      "encrypted_password": "912b3254041753a58eaa185914ab5c9a",
+      "referral_code": "TUTXQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:49:41.409Z"
     }
   ],
   "withdrawals": [
