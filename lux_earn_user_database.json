@@ -15636,11 +15636,12 @@
         "Damite",
         "Mhizteekay",
         "Val998",
-        "GILBERTOSANTA"
+        "GILBERTOSANTA",
+        "Ojiabor"
       ],
       "balance": 380,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -27382,6 +27383,21 @@
       "joinDate": "2025-02-21T11:05:51.409Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ojiabor",
+      "email": "henryinnocent338@gmail.com",
+      "encrypted_password": "1bbf7d10c7561a658255c5f3610cfbf5",
+      "referral_code": "OJLDV",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:06:15.248Z"
     }
   ],
   "withdrawals": [
