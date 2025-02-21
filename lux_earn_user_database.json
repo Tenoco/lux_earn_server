@@ -29633,7 +29633,7 @@
       "inviter_referral_code": "SHR06",
       "inviter_username": "shoyomboizhaq1@gmail.com",
       "invited_users": [],
-      "balance": 180,
+      "balance": 480,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29645,9 +29645,18 @@
         3,
         4,
         5,
-        2
-      ],
-      "lastSpin": null
+        2,
+        2,
+        2,
+        2,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ]
     },
     {
       "username": "Issabella",
@@ -29751,7 +29760,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:15:11.478Z"
+      "joinDate": "2025-02-21T12:15:11.478Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
