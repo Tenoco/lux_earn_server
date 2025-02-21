@@ -4276,11 +4276,12 @@
         "Azuma ",
         "Wumzy",
         "Sunnyjacs ",
-        "Jerryjj"
+        "Jerryjj",
+        "Ebuka12"
       ],
       "balance": 295,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -23563,6 +23564,21 @@
       "joinDate": "2025-02-21T09:36:47.179Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ebuka12",
+      "email": "onyinyeokeke4c@gmail.com",
+      "encrypted_password": "cd5d294255ffb9202ae048b6b41fb31c",
+      "referral_code": "EB98V",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:37:11.693Z"
     }
   ],
   "withdrawals": [
