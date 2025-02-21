@@ -32017,11 +32017,12 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [
-        "Markito"
+        "Markito",
+        "Ebiojo10"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:26:17.653Z",
@@ -32395,6 +32396,21 @@
       "joinDate": "2025-02-21T13:36:25.500Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ebiojo10",
+      "email": "sarahadama134@gmail.com",
+      "encrypted_password": "0bbb1d1fd8fb6469d575c67ee55a5a7e",
+      "referral_code": "EB4UI",
+      "inviter_referral_code": "HABXB",
+      "inviter_username": "Hamzzy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:37:02.439Z"
     }
   ],
   "withdrawals": [
