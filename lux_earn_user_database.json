@@ -77,11 +77,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech"
+        "Tech",
+        "Noel Nelson "
       ],
       "balance": 3000,
-      "refers": 1,
-      "referralBalance": 0,
+      "refers": 2,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -36925,6 +36926,21 @@
       "joinDate": "2025-02-21T15:47:36.408Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Noel Nelson ",
+      "email": "noelnelsonmessi10@gmail.com",
+      "encrypted_password": "cbe53069341c303f04a9daa77abac325",
+      "referral_code": "NOGPU",
+      "inviter_referral_code": null,
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:08:32.324Z"
     }
   ],
   "withdrawals": [
