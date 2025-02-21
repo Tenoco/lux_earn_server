@@ -15367,11 +15367,12 @@
       "inviter_username": null,
       "invited_users": [
         "dsnny",
-        "Cjuj"
+        "Cjuj",
+        "Hkhju"
       ],
       "balance": 270,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
@@ -16685,7 +16686,8 @@
       "joinDate": "2025-02-21T07:05:25.309Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Folaky22",
@@ -16737,6 +16739,21 @@
       "joinDate": "2025-02-21T07:06:17.253Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hkhju",
+      "email": "miraclewaw641@gmail.com",
+      "encrypted_password": "08b4ba7c36ce7d647f7026b2955c52ac",
+      "referral_code": "HKLWO",
+      "inviter_referral_code": "RUDYD",
+      "inviter_username": "Ruth641",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:06:33.920Z"
     }
   ],
   "withdrawals": [
