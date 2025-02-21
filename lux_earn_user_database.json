@@ -29097,14 +29097,15 @@
       "invited_users": [
         "Favourivy"
       ],
-      "balance": 30,
+      "balance": 60,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
