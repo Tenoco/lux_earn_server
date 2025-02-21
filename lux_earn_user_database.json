@@ -11819,10 +11819,12 @@
       "referral_code": "TR7O8",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Day_veed123"
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:23:47.951Z",
@@ -13595,6 +13597,21 @@
       "joinDate": "2025-02-21T06:13:35.266Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Day_veed123",
+      "email": "ndukwedavid085@gmail.com",
+      "encrypted_password": "c96c4a1f6a0ba567c10357513ac18482",
+      "referral_code": "DAOS0",
+      "inviter_referral_code": "TR7O8",
+      "inviter_username": "Tramomd",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:14:18.548Z"
     }
   ],
   "withdrawals": [
