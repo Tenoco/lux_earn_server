@@ -5752,11 +5752,12 @@
         "Hhvf",
         "Hbvnb",
         "Jbvh",
-        "Dghhg"
+        "Dghhg",
+        "Dhhh"
       ],
       "balance": 360,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -17759,6 +17760,21 @@
       "joinDate": "2025-02-21T07:21:59.608Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dhhh",
+      "email": "abdullahioladipo7@gmail.com",
+      "encrypted_password": "96e79218965eb72c92a549dd5a330112",
+      "referral_code": "DHH6V",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:22:42.356Z"
     }
   ],
   "withdrawals": [
