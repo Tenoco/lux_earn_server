@@ -14072,11 +14072,12 @@
         "Euphemia",
         "Life",
         "Johnny40",
-        "Peace "
+        "Peace ",
+        "dearie"
       ],
       "balance": 220,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -36689,6 +36690,21 @@
       "joinDate": "2025-02-21T15:37:39.083Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "dearie",
+      "email": "dear45@gmail.com",
+      "encrypted_password": "d0c34fc09bc0400f683bfd0b063b06f4",
+      "referral_code": "DE3EX",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:38:44.058Z"
     }
   ],
   "withdrawals": [
