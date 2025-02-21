@@ -10271,11 +10271,12 @@
         "Tamia",
         "Nasir",
         "Katerina",
-        "Ruth1"
+        "Ruth1",
+        "Popoola"
       ],
       "balance": 305,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -11209,7 +11210,8 @@
       "completedMissions": [
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Estheriyanuoluwa",
@@ -11329,6 +11331,21 @@
       "joinDate": "2025-02-21T05:13:34.047Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Popoola",
+      "email": "popoolathomas49@gmail.com",
+      "encrypted_password": "52c7e5f49ac5d28b10a4c21e84e2f95e",
+      "referral_code": "PODZ8",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:14:33.041Z"
     }
   ],
   "withdrawals": [
