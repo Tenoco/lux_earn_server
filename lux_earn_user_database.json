@@ -14398,11 +14398,12 @@
         "danieldy",
         "ImperialBro",
         "Vigilance ",
-        "FMUSK"
+        "FMUSK",
+        "I12Livebig"
       ],
       "balance": 20,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -24560,7 +24561,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:05:43.141Z"
+      "joinDate": "2025-02-21T10:05:43.141Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "I12Livebig",
+      "email": "adepreemma@gmail.com",
+      "encrypted_password": "c948063021d7dd1d9e53fb182c4dd478",
+      "referral_code": "I1BQ6",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:05:52.243Z"
     }
   ],
   "withdrawals": [
