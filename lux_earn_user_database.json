@@ -22386,7 +22386,7 @@
       "inviter_referral_code": "HE5KL",
       "inviter_username": "Henry Joshua ",
       "invited_users": [],
-      "balance": 85,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22394,7 +22394,8 @@
       "joinDate": "2025-02-21T09:07:44.028Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T09:12:33.623Z"
     },
@@ -22514,7 +22515,8 @@
       "completedMissions": [
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victory",
