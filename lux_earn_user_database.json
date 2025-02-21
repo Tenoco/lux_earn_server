@@ -16969,7 +16969,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:10:31.410Z"
+      "joinDate": "2025-02-21T07:10:31.410Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "musawadaaminu2021@gmail.com",
+      "email": "musawadaaminu2021@gmail.com",
+      "encrypted_password": "4ca7065842fccd4de02bac906e3675ad",
+      "referral_code": "MUSXG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:10:37.050Z"
     }
   ],
   "withdrawals": [
