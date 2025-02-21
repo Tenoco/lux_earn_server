@@ -3774,11 +3774,12 @@
         "Oluwavictor",
         "VIctor",
         "Gentle",
-        "Mide"
+        "Mide",
+        "Laide"
       ],
       "balance": 260,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -30892,7 +30893,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:51:41.535Z"
+      "joinDate": "2025-02-21T12:51:41.535Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Laide",
+      "email": "olaideayuba6@gmail.com",
+      "encrypted_password": "a36bc6d39d60a0bf1f2a7f791a08bba1",
+      "referral_code": "LAURS",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:51:54.060Z"
     }
   ],
   "withdrawals": [
