@@ -217,11 +217,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Specboi55 "
+        "Specboi55 ",
+        "Zikkil97"
       ],
       "balance": 165,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -6501,7 +6502,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:26:41.621Z"
+      "joinDate": "2025-02-21T00:26:41.621Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zikkil97",
+      "email": "zik35466@gmail.com",
+      "encrypted_password": "e73a436894ac07a4c0fcf992b8685141",
+      "referral_code": "ZIH77",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:26:46.454Z"
     }
   ],
   "withdrawals": [
