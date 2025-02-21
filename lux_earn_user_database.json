@@ -31440,14 +31440,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 32,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:53:09.994Z",
       "completedMissions": [
-        7
+        7,
+        6
       ],
       "lastSpin": "2025-02-21T16:15:51.909Z"
     },
