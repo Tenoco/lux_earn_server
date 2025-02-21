@@ -25035,7 +25035,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingiong",
@@ -25068,7 +25069,7 @@
       "inviter_referral_code": "Magob",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25081,9 +25082,10 @@
         4,
         6,
         5,
-        7
-      ],
-      "lastSpin": null
+        7,
+        8,
+        9
+      ]
     },
     {
       "username": "billionsbillions0",
