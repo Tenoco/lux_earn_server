@@ -32077,7 +32077,7 @@
       "inviter_referral_code": "TO3W7",
       "inviter_username": "Tommy2773",
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32085,7 +32085,9 @@
       "joinDate": "2025-02-21T13:28:33.907Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3,
+        4
       ]
     },
     {
