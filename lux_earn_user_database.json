@@ -233,11 +233,12 @@
         "Uno13",
         "samuel",
         "Olumide",
-        "funmilola"
+        "funmilola",
+        "nifemi ,"
       ],
       "balance": 103,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:19.233Z",
@@ -36837,6 +36838,21 @@
       "joinDate": "2025-02-21T15:43:36.396Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "nifemi ,",
+      "email": "nifemiajadi123@gmail.com",
+      "encrypted_password": "f9a5f7358362c043b7332b4bff4a5668",
+      "referral_code": "NIZWM",
+      "inviter_referral_code": "ST2EB",
+      "inviter_username": "STG",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:43:59.385Z"
     }
   ],
   "withdrawals": [
