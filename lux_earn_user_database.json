@@ -14816,11 +14816,12 @@
         "Mideruqouya",
         "Pearl",
         "Tommy",
-        "Mustyzai"
+        "Mustyzai",
+        "folorunshosg"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -18421,7 +18422,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:34:15.490Z"
+      "joinDate": "2025-02-21T07:34:15.490Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "folorunshosg",
+      "email": "ayabafolorunsho12@gmail.com",
+      "encrypted_password": "565f42482f4ebb611b8818469dab3460",
+      "referral_code": "FO5BD",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:34:19.895Z"
     }
   ],
   "withdrawals": [
