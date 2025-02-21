@@ -22490,10 +22490,12 @@
       "referral_code": "COUJC",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Official Maurice "
+      ],
       "balance": 330,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:04:42.538Z",
@@ -27239,6 +27241,21 @@
       "joinDate": "2025-02-21T11:01:25.096Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Official Maurice ",
+      "email": "mauricefearless9@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "OFQBW",
+      "inviter_referral_code": "COUJC",
+      "inviter_username": "Comfortchris",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:02:22.385Z"
     }
   ],
   "withdrawals": [
