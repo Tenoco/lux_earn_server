@@ -10727,11 +10727,12 @@
       "invited_users": [
         "Dollypee",
         "Ifeoluwaoluwakemi ",
-        "Peterson"
+        "Peterson",
+        "Phetah12"
       ],
       "balance": 50,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -31255,7 +31256,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:01:45.072Z"
+      "joinDate": "2025-02-21T13:01:45.072Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Phetah12",
+      "email": "profpeteradeleke@gmail.com",
+      "encrypted_password": "71b9ff20327b5017a6eea8d5d02a9e71",
+      "referral_code": "PH6J5",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:02:00.729Z"
     }
   ],
   "withdrawals": [
