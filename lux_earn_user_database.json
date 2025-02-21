@@ -34411,14 +34411,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 25,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:32:11.803Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T14:33:39.024Z"
+      "lastSpin": "2025-02-21T14:33:39.024Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Zachariah ",
