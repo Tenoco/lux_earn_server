@@ -13709,11 +13709,12 @@
         "AyubaAdam",
         "Newworlde",
         "Jamesq",
-        "Habibu"
+        "Habibu",
+        "Sandra"
       ],
       "balance": 160,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -36187,7 +36188,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:22:58.114Z"
+      "joinDate": "2025-02-21T15:22:58.114Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sandra",
+      "email": "brandlog@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "SARFS",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:23:04.850Z"
     }
   ],
   "withdrawals": [
