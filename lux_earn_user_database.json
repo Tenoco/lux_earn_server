@@ -36152,7 +36152,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
-      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
         1,
         2,
@@ -36165,7 +36164,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:21:53.509Z"
     },
     {
       "username": "Chiamakachi",
@@ -36211,7 +36211,7 @@
       "inviter_referral_code": "ME3ZJ",
       "inviter_username": "Merrysmart",
       "invited_users": [],
-      "balance": 120,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36221,9 +36221,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Illuminax ",
