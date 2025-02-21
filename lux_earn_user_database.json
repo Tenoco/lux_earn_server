@@ -10815,7 +10815,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:48:30.345Z"
+      "joinDate": "2025-02-21T04:48:30.345Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kcsolo1",
+      "email": "solomonkene609@gmail.com",
+      "encrypted_password": "aa6a3a930a85e2ade700e23c5820cdba",
+      "referral_code": "KCXNB",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:49:20.557Z"
     }
   ],
   "withdrawals": [
