@@ -31138,14 +31138,19 @@
       "inviter_referral_code": "ZIWZH",
       "inviter_username": "Zita555",
       "invited_users": [],
-      "balance": 0,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:57:06.366Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T12:57:16.061Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Nmahope",
