@@ -37704,11 +37704,12 @@
         "Kalaoeo",
         "Kaoalsk",
         "Oslsmskso",
-        "Kalpslflr"
+        "Kalpslflr",
+        "Nmslsole"
       ],
       "balance": 1,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -38198,7 +38199,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:44:26.450Z"
+      "joinDate": "2025-02-21T20:44:26.450Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nmslsole",
+      "email": "kayfasae@yahoo.com",
+      "encrypted_password": "bbc67d74a36bc0c051e3bd5cd6448f74",
+      "referral_code": "NMQRX",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:45:55.216Z"
     }
   ],
   "withdrawals": [
