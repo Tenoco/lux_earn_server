@@ -37809,7 +37809,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 238,
+      "balance": 258,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37823,7 +37823,8 @@
         3,
         4,
         5,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-21T16:20:21.213Z"
     },
@@ -38002,7 +38003,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jamesx",
