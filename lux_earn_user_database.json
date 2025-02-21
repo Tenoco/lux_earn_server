@@ -11567,7 +11567,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:22:04.162Z"
+      "joinDate": "2025-02-21T05:22:04.162Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Carocaro",
+      "email": "umaruolawumi@gmail.com",
+      "encrypted_password": "4709f0ba46052b611711d0f24387f1af",
+      "referral_code": "CARSR",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:12.916Z"
     }
   ],
   "withdrawals": [
