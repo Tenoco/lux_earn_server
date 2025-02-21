@@ -22026,10 +22026,12 @@
       "referral_code": "DABAC",
       "inviter_referral_code": "PEPVX",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Victor "
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:47:06.641Z",
@@ -32859,7 +32861,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:50:51.198Z"
+      "joinDate": "2025-02-21T13:50:51.198Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Victor ",
+      "email": "kamny706@gmail.com",
+      "encrypted_password": "929be9d826fa63bffe0f225055b208dc",
+      "referral_code": "VIQJC",
+      "inviter_referral_code": "DABAC",
+      "inviter_username": "Davidgee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:50:59.991Z"
     }
   ],
   "withdrawals": [
