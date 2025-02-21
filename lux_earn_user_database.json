@@ -37253,7 +37253,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T21:58:02.890Z"
+      "joinDate": "2025-02-21T21:58:02.890Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ib123",
+      "email": "Ibrhimback@gmail.com",
+      "encrypted_password": "e3ee3d3cd13e0cfa05dd9da049fb72f3",
+      "referral_code": "IBX2K",
+      "inviter_referral_code": "Ja9wu",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:58:28.142Z"
     }
   ],
   "withdrawals": [
