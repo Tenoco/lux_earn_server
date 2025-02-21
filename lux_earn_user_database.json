@@ -27261,10 +27261,12 @@
       "referral_code": "THR9F",
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
-      "invited_users": [],
+      "invited_users": [
+        "Bloody freezing "
+      ],
       "balance": 25,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:59:03.010Z",
@@ -31918,6 +31920,21 @@
       "joinDate": "2025-02-21T13:25:32.879Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bloody freezing ",
+      "email": "habibullahaudu@gmail.com",
+      "encrypted_password": "53f4c610b5ff96a5078ad862490b4fb3",
+      "referral_code": "BLJN5",
+      "inviter_referral_code": "THR9F",
+      "inviter_username": "The jester002",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:25:53.419Z"
     }
   ],
   "withdrawals": [
