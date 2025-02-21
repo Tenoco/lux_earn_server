@@ -27887,7 +27887,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:20:41.112Z"
+      "joinDate": "2025-02-21T11:20:41.112Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rebecca",
+      "email": "progressblessing78@gmail.com",
+      "encrypted_password": "544ebc02171e880c050df2743824707e",
+      "referral_code": "REKOU",
+      "inviter_referral_code": "QRXQ6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:21:20.233Z"
     }
   ],
   "withdrawals": [
