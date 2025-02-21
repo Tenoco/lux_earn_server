@@ -36504,7 +36504,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 720,
+      "balance": -480,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37714,7 +37714,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:16:31.587Z"
+      "joinDate": "2025-02-21T16:16:31.587Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
@@ -37750,6 +37752,17 @@
       "totalBalance": 8030,
       "timestamp": "2025-02-18T22:47:13.036Z",
       "status": "completed"
+    },
+    {
+      "username": "Brave290",
+      "email": "legateakanjimusab@gmail.com",
+      "accountName": "Jamiu Akorede Mubashiru ",
+      "accountNumber": "9162570520",
+      "bank": "Opay",
+      "amount": 1200,
+      "totalBalance": 1270,
+      "timestamp": "2025-02-21T16:16:46.742Z",
+      "status": "pending"
     }
   ],
   "missions": [],
