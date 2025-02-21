@@ -37277,7 +37277,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:07:50.297Z"
+      "joinDate": "2025-02-21T16:07:50.297Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shafiiu",
+      "email": "shafiu.s.muhammad63@gmail.com",
+      "encrypted_password": "d8d765bc535ded9a61e55fc3d1e9524b",
+      "referral_code": "SHIJB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:07:54.403Z"
     }
   ],
   "withdrawals": [
