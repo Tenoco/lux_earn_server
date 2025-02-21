@@ -10168,11 +10168,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Demilogo"
+        "Demilogo",
+        "Temitope"
       ],
       "balance": 2265,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:05:09.167Z",
@@ -10549,7 +10550,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:19:06.028Z"
+      "joinDate": "2025-02-21T04:19:06.028Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Temitope",
+      "email": "olamide1259i@gmail.com",
+      "encrypted_password": "90c06848671a19f8f5217b6dfa6a4282",
+      "referral_code": "TEV1U",
+      "inviter_referral_code": "IFI2Q",
+      "inviter_username": "ifelayomi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:19:47.480Z"
     }
   ],
   "withdrawals": [
