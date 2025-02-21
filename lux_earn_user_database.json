@@ -26308,11 +26308,12 @@
         "Bossbabyni",
         "Adeolusarah",
         "Peace out",
-        "Jimmy"
+        "Jimmy",
+        "Leanora"
       ],
       "balance": 150,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -37546,7 +37547,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:15:37.853Z"
+      "joinDate": "2025-02-21T22:15:37.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Leanora",
+      "email": "leanoragal@gmail.com",
+      "encrypted_password": "1dd673f9ab239fb182563e7df43a02b3",
+      "referral_code": "LELY1",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:15:51.042Z"
     }
   ],
   "withdrawals": [
