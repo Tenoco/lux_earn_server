@@ -11207,10 +11207,12 @@
       "referral_code": "VIRFJ",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Inioluwa"
+      ],
       "balance": 185,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
@@ -17072,7 +17074,8 @@
         2,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@bubble",
@@ -17197,6 +17200,21 @@
       "joinDate": "2025-02-21T07:14:44.552Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Inioluwa",
+      "email": "boyindevictor@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "IN5UM",
+      "inviter_referral_code": "VIRFJ",
+      "inviter_username": "Vickiejone",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:14:58.812Z"
     }
   ],
   "withdrawals": [
