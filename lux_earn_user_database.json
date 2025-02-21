@@ -24781,11 +24781,12 @@
       "invited_users": [
         "Joshua",
         "Ayomide23",
-        "Tomison23"
+        "Tomison23",
+        "Morenikeji22"
       ],
       "balance": 270,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -26899,7 +26900,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:54:13.572Z"
+      "joinDate": "2025-02-21T10:54:13.572Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Morenikeji22",
+      "email": "oloriretoafikat@gmail.com",
+      "encrypted_password": "84a89e710b9491bfa61d080f3b060b66",
+      "referral_code": "MOT8U",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:54:21.497Z"
     }
   ],
   "withdrawals": [
