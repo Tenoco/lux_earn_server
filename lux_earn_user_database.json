@@ -14721,11 +14721,12 @@
       "inviter_username": null,
       "invited_users": [
         "Rokibat",
-        "Chizzy001xyz"
+        "Chizzy001xyz",
+        "Sam1204"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -15431,7 +15432,8 @@
         8,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shade",
@@ -15871,6 +15873,21 @@
       "joinDate": "2025-02-21T06:55:33.103Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sam1204",
+      "email": "olaleyesamuel153@gmail.com",
+      "encrypted_password": "1fc3e12324e65a65e9988abf2c3b195c",
+      "referral_code": "SAX07",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:55:55.488Z"
     }
   ],
   "withdrawals": [
