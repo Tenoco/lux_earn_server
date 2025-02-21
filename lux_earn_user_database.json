@@ -9006,11 +9006,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Sameft"
+        "Sameft",
+        "Joysak "
       ],
       "balance": 310,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9138,6 +9139,21 @@
       "joinDate": "2025-02-21T02:28:00.242Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joysak ",
+      "email": "joysakpaide@gmail.com",
+      "encrypted_password": "304b4b03a51e6eb9355cfdb8be7185c8",
+      "referral_code": "JOOTK",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:28:12.359Z"
     }
   ],
   "withdrawals": [
