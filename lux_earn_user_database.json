@@ -10598,11 +10598,12 @@
         "Aadeleke",
         "OLOPA",
         "Ode",
-        "Lol"
+        "Lol",
+        "Idan"
       ],
       "balance": 320,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -34630,6 +34631,21 @@
       "joinDate": "2025-02-21T14:37:45.589Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Idan",
+      "email": "idan@gmail.com",
+      "encrypted_password": "0a419b55494a8797206e77f8fca821a7",
+      "referral_code": "IDQGT",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:38:36.616Z"
     }
   ],
   "withdrawals": [
