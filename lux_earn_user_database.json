@@ -795,11 +795,12 @@
         "Vickiejone",
         "Adewoye Fikayomi ",
         "Seyifunmi",
-        "Benjaminprince"
+        "Benjaminprince",
+        "Jago123"
       ],
       "balance": 265,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -18038,6 +18039,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:52.869Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:32:37.176Z"
     },
     {
@@ -18342,6 +18344,21 @@
       "joinDate": "2025-02-21T07:31:52.303Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jago123",
+      "email": "Amkudu43@gmail.com",
+      "encrypted_password": "4473dfcbc3b94f164a8f15b441a752f5",
+      "referral_code": "JAAOG",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:32:58.768Z"
     }
   ],
   "withdrawals": [
