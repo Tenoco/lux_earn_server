@@ -35917,7 +35917,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 95,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35926,7 +35926,8 @@
       "completedMissions": [
         1,
         2,
-        10
+        10,
+        7
       ],
       "lastSpin": "2025-02-21T15:16:12.872Z"
     },
@@ -36147,7 +36148,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
-      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
         1,
         2,
@@ -36157,7 +36157,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:21:53.509Z"
     },
     {
       "username": "Chiamakachi",
