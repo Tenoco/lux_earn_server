@@ -30242,14 +30242,14 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:23:15.464Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:21:27.709Z"
     },
     {
       "username": "Felix Chinonso",
@@ -36105,7 +36105,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:21:28.157Z"
+      "joinDate": "2025-02-21T15:21:28.157Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
