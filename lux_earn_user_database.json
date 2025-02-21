@@ -28796,14 +28796,16 @@
       "inviter_referral_code": "Day2x",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:51:43.209Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T11:52:38.845Z"
     },
     {
       "username": "Gojokol",
@@ -28937,7 +28939,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:55:23.272Z"
+      "joinDate": "2025-02-21T11:55:23.272Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
