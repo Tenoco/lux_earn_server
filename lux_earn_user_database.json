@@ -1492,11 +1492,12 @@
       "inviter_username": "Jennie ",
       "invited_users": [
         "Hardek ",
-        "Teejay"
+        "Teejay",
+        "Solamighty "
       ],
       "balance": 195,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:12:35.894Z",
@@ -13643,6 +13644,21 @@
       "joinDate": "2025-02-21T06:14:48.142Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Solamighty ",
+      "email": "ibrahimmuhammed3651@gmail.com",
+      "encrypted_password": "3dcfc0f3ade866f8092e9e48ef4a3ee2",
+      "referral_code": "SO5NL",
+      "inviter_referral_code": "OL0RR",
+      "inviter_username": "Ola ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:16:37.593Z"
     }
   ],
   "withdrawals": [
