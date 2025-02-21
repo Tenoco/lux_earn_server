@@ -11064,7 +11064,8 @@
       "completedMissions": [
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Livvey",
@@ -11102,6 +11103,21 @@
       "joinDate": "2025-02-21T05:07:04.033Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "08153021516",
+      "email": "habibbaffacny@gmail.com",
+      "encrypted_password": "86d7ddabc7a84a20d75fff95f4a87549",
+      "referral_code": "085ZQ",
+      "inviter_referral_code": "lsmail baffa",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:08:51.270Z"
     }
   ],
   "withdrawals": [
