@@ -37538,12 +37538,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:39:24.995Z"
+      "joinDate": "2025-02-21T17:39:24.995Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
