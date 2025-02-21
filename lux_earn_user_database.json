@@ -11738,7 +11738,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:25:24.405Z"
+      "joinDate": "2025-02-21T05:25:24.405Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Naziruktech",
+      "email": "naziruktech@gmail.com",
+      "encrypted_password": "ca96db484f85029fcdb33ba90e911def",
+      "referral_code": "NAR82",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:25:55.070Z"
     }
   ],
   "withdrawals": [
