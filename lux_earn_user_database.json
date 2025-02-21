@@ -23382,14 +23382,16 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 0,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:30:17.939Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        6
+      ],
+      "lastSpin": "2025-02-21T09:41:33.179Z"
     },
     {
       "username": "Yinshine",
@@ -23814,7 +23816,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:42:48.191Z"
+      "joinDate": "2025-02-21T09:42:48.191Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
