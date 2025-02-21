@@ -14752,11 +14752,12 @@
         "Chizzy001xyz",
         "Sam1204",
         "pearlslim12",
-        "Mideruqouya"
+        "Mideruqouya",
+        "Pearl"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -16366,7 +16367,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:01:36.361Z"
+      "joinDate": "2025-02-21T07:01:36.361Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Pearl",
+      "email": "omoniyiestherpearl11@gmail.com",
+      "encrypted_password": "d63ab5be2d3f047ad3bbd62197c6ea12",
+      "referral_code": "PEHXW",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:01:44.687Z"
     }
   ],
   "withdrawals": [
