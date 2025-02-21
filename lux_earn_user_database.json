@@ -20643,13 +20643,21 @@
       "inviter_referral_code": "DAY2X",
       "inviter_username": "daniee250",
       "invited_users": [],
-      "balance": 0,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:20:20.464Z",
-      "completedMissions": [],
+      "completedMissions": [
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -20703,7 +20711,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marcusein ",
