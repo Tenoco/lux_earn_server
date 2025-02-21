@@ -12134,14 +12134,15 @@
       "invited_users": [
         "Ogrchukwu"
       ],
-      "balance": 60,
+      "balance": 70,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:31:17.898Z",
       "completedMissions": [
-        1
+        1,
+        7
       ],
       "lastSpin": null
     },
@@ -19666,7 +19667,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:59:02.489Z"
+      "joinDate": "2025-02-21T07:59:02.489Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
