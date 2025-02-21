@@ -19349,7 +19349,7 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 360,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19358,7 +19358,16 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -20179,7 +20188,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Aliamdulillahi",
