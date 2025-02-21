@@ -36529,11 +36529,12 @@
       "inviter_username": null,
       "invited_users": [
         "Cuttly",
-        "Toddler"
+        "Toddler",
+        "Zakaria0"
       ],
       "balance": 30,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:40.842Z",
@@ -37064,7 +37065,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:43:29.781Z"
+      "joinDate": "2025-02-21T16:43:29.781Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zakaria0",
+      "email": "guns@gmail.com",
+      "encrypted_password": "e3182d8ca390df0a400f7584f1e8b797",
+      "referral_code": "ZAG3F",
+      "inviter_referral_code": "BR9VQ",
+      "inviter_username": "Brave290",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:43:32.492Z"
     }
   ],
   "withdrawals": [
