@@ -4717,11 +4717,12 @@
         "Lucky",
         "Miles",
         "Vick",
-        "Willy"
+        "Willy",
+        "Storm"
       ],
       "balance": 25,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -8060,7 +8061,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:06:44.437Z"
+      "joinDate": "2025-02-21T01:06:44.437Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Storm",
+      "email": "stormy007@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "STSOI",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:07:45.966Z"
     }
   ],
   "withdrawals": [
