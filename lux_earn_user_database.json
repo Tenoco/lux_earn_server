@@ -34067,12 +34067,11 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Emma003",
-        "greatking"
+        "Emma003"
       ],
-      "balance": 511,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 541,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:17:32.872Z",
@@ -34081,7 +34080,8 @@
         2,
         2,
         4,
-        4
+        4,
+        3
       ],
       "lastSpin": "2025-02-21T16:07:57.262Z"
     },
