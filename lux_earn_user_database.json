@@ -37920,7 +37920,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:31:48.139Z"
+      "joinDate": "2025-02-21T20:31:48.139Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Formation ",
+      "email": "anebisimeon37@gmail.com",
+      "encrypted_password": "961320578e56a8f8a00cf4d3e11d491d",
+      "referral_code": "FO9Q4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:33:07.699Z"
     }
   ],
   "withdrawals": [
