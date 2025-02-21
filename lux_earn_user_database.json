@@ -26566,13 +26566,15 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": "Jerry14",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:47:27.566Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
