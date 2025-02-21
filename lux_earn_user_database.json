@@ -6623,11 +6623,12 @@
       "inviter_referral_code": "SA9B4",
       "inviter_username": "Samuel1 ",
       "invited_users": [
-        "phoenix28"
+        "phoenix28",
+        "phoeix2"
       ],
       "balance": 50,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:27:48.266Z",
@@ -6818,6 +6819,21 @@
       "joinDate": "2025-02-21T00:33:08.020Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "phoeix2",
+      "email": "quyh@gmail.com",
+      "encrypted_password": "aca9966873e21f972ce7b38526d2964b",
+      "referral_code": "PHRTH",
+      "inviter_referral_code": "PHXFR",
+      "inviter_username": "phoenix29",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:34:09.299Z"
     }
   ],
   "withdrawals": [
