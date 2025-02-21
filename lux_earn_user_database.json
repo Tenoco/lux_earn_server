@@ -15560,11 +15560,12 @@
         "Lexy001",
         "Lucasmacas",
         "Chinenyefavour",
-        "Damite"
+        "Damite",
+        "Mhizteekay"
       ],
       "balance": 380,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -24077,6 +24078,21 @@
       "joinDate": "2025-02-21T09:54:00.954Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mhizteekay",
+      "email": "mhizteekay39@gmail.com",
+      "encrypted_password": "c89f248253eda009407bba545f8464b7",
+      "referral_code": "MH4JV",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:54:35.264Z"
     }
   ],
   "withdrawals": [
