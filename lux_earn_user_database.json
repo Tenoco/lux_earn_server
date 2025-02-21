@@ -10167,10 +10167,12 @@
       "referral_code": "IFI2Q",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Demilogo"
+      ],
       "balance": 2265,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:05:09.167Z",
@@ -10460,7 +10462,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:18:14.899Z"
+      "joinDate": "2025-02-21T04:18:14.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Demilogo",
+      "email": "dadadada125900@gmail.com",
+      "encrypted_password": "90c06848671a19f8f5217b6dfa6a4282",
+      "referral_code": "DEPR9",
+      "inviter_referral_code": "IFI2Q",
+      "inviter_username": "ifelayomi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:17:05.946Z"
     }
   ],
   "withdrawals": [
