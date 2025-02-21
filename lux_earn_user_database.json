@@ -15393,11 +15393,12 @@
         "Vickzy",
         "Davolee001",
         "Olayinka65",
-        "Lexy001"
+        "Lexy001",
+        "Lucasmacas"
       ],
       "balance": 380,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -19986,7 +19987,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:06:19.659Z"
+      "joinDate": "2025-02-21T08:06:19.659Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lucasmacas",
+      "email": "lucasotieno072@gmail.com",
+      "encrypted_password": "11e22e782ae89fa04511f10a932e88f5",
+      "referral_code": "LU6LU",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:06:29.360Z"
     }
   ],
   "withdrawals": [
