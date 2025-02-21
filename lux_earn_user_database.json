@@ -21156,7 +21156,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:34:18.580Z"
+      "joinDate": "2025-02-21T08:34:18.580Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mark",
+      "email": "bwehmasijoshua@gmail.com",
+      "encrypted_password": "f02e27c59b70dab302d78772f1c6dd98",
+      "referral_code": "MAAFX",
+      "inviter_referral_code": "HE5KL ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:34:29.862Z"
     }
   ],
   "withdrawals": [
