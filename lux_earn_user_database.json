@@ -38030,7 +38030,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:35:26.796Z"
+      "joinDate": "2025-02-21T20:35:26.796Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "peterchidumebi65",
+      "email": "peterchidumebi65@gmail.com",
+      "encrypted_password": "c19c37c9cb41e7675f2f236d1858e251",
+      "referral_code": "PEWYU",
+      "inviter_referral_code": "ORxQ6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:35:46.687Z"
     }
   ],
   "withdrawals": [
