@@ -23016,11 +23016,12 @@
         "Favor",
         "Tyler33",
         "Dims",
-        "Emmiedice jnr"
+        "Emmiedice jnr",
+        "Rema223"
       ],
       "balance": 220,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -37398,7 +37399,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:10:10.906Z"
+      "joinDate": "2025-02-21T16:10:10.906Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rema223",
+      "email": "danielwest419@gmail.com",
+      "encrypted_password": "093ec71f562ba6cbf5825b7c9a48f19e",
+      "referral_code": "REV9O",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:10:24.809Z"
     }
   ],
   "withdrawals": [
