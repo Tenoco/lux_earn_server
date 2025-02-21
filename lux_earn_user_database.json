@@ -12831,14 +12831,13 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:59:07.481Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T06:00:52.300Z"
     },
     {
       "username": "Diamondremi98 ",
@@ -12887,7 +12886,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:00:41.541Z"
+      "joinDate": "2025-02-21T06:00:41.541Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
