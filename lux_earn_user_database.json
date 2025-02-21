@@ -17406,11 +17406,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Satshak "
+        "Satshak ",
+        "Long"
       ],
       "balance": 180,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:40.842Z",
@@ -27568,7 +27569,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:12:48.960Z"
+      "joinDate": "2025-02-21T11:12:48.960Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Long",
+      "email": "longnanjames56@gmail.com",
+      "encrypted_password": "b4cc344d25a2efe540adbf2678e2304c",
+      "referral_code": "LOKDO",
+      "inviter_referral_code": "TO8QD",
+      "inviter_username": "Tong",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:12:58.690Z"
     }
   ],
   "withdrawals": [
