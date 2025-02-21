@@ -23578,7 +23578,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:37:11.693Z"
+      "joinDate": "2025-02-21T09:37:11.693Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "MGimba",
+      "email": "umargimbaumar@gmail.com",
+      "encrypted_password": "a370df44dd81ff23b9c5831a8cd2c34e",
+      "referral_code": "MG3W2",
+      "inviter_referral_code": "QRXQ6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:36:13.618Z"
     }
   ],
   "withdrawals": [
