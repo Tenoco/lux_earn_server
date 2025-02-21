@@ -35122,14 +35122,16 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:48:51.674Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T14:51:12.994Z"
+      "lastSpin": "2025-02-21T14:51:12.994Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Jumbotonyeyetunde",
@@ -35195,7 +35197,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:52:36.986Z"
+      "joinDate": "2025-02-21T14:52:36.986Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
