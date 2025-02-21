@@ -34748,7 +34748,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 250,
+      "balance": 305,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34763,9 +34763,10 @@
         3,
         3,
         8,
-        7
+        7,
+        6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T14:53:39.767Z"
     },
     {
       "username": "Shedrack Jerry",
