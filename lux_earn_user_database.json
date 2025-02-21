@@ -561,11 +561,12 @@
       "invited_users": [
         "Nora",
         "Oweilaaa",
-        "Yungicon "
+        "Yungicon ",
+        "Dghxs"
       ],
       "balance": 270,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:26.986Z",
@@ -33408,6 +33409,21 @@
       "joinDate": "2025-02-21T14:07:59.490Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dghxs",
+      "email": "Egxxhhdd@gmail.com",
+      "encrypted_password": "acbd9ab2f68bea3f5291f825416546a1",
+      "referral_code": "DG6Y4",
+      "inviter_referral_code": "TRDT4",
+      "inviter_username": "Triumph ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:08:53.241Z"
     }
   ],
   "withdrawals": [
