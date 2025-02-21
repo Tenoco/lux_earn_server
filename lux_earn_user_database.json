@@ -1354,11 +1354,12 @@
         "Sara Phina",
         "Salifusa",
         "Olofin78",
-        "Izzymoney "
+        "Izzymoney ",
+        "Teeprime"
       ],
       "balance": 88,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:11:14.125Z",
@@ -21914,7 +21915,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chinenyefavour",
@@ -22048,6 +22050,21 @@
       "joinDate": "2025-02-21T08:59:49.068Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Teeprime",
+      "email": "Torresmanchan@gmail.com",
+      "encrypted_password": "749796e9407afa9faf2decf6c2b2903d",
+      "referral_code": "TEI1M",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": "Anna10",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:00:50.744Z"
     }
   ],
   "withdrawals": [
