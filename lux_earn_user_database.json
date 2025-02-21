@@ -27078,7 +27078,7 @@
       "inviter_referral_code": "IAKAO",
       "inviter_username": "iamdriller23",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27086,7 +27086,8 @@
       "joinDate": "2025-02-21T10:56:05.781Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -27273,7 +27274,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:02:50.659Z"
+      "joinDate": "2025-02-21T11:02:50.659Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
