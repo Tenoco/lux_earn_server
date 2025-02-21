@@ -3287,11 +3287,12 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [
-        "Stephanie"
+        "Stephanie",
+        "Kelvin "
       ],
       "balance": 245,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -4973,7 +4974,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chindimane",
@@ -5185,6 +5187,21 @@
       "joinDate": "2025-02-21T00:03:31.832Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kelvin ",
+      "email": "ezekelvin2011@gmail.com",
+      "encrypted_password": "40115732ebcada58331662b08a24927f",
+      "referral_code": "KETW1",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:03:53.833Z"
     }
   ],
   "withdrawals": [
