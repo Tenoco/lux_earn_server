@@ -5201,7 +5201,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:03:53.833Z"
+      "joinDate": "2025-02-21T00:03:53.833Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joseph Abdul",
+      "email": "josephabdul2221@gmail.com",
+      "encrypted_password": "d5e73ab2e3dd134ee2c8f808aab474a0",
+      "referral_code": "JORQ6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:04:04.133Z"
     }
   ],
   "withdrawals": [
