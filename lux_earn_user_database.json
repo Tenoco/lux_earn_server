@@ -20411,14 +20411,15 @@
         "Lolado123",
         "Godisgreat"
       ],
-      "balance": 30,
+      "balance": 60,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
       "completedMissions": [
-        2
+        2,
+        1
       ],
       "lastSpin": null
     },
