@@ -24214,7 +24214,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:57:55.911Z"
+      "joinDate": "2025-02-21T09:57:55.911Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Primex999",
+      "email": "azamanjuniour@gmail.com",
+      "encrypted_password": "dcb08d5153606b8905f81a6d03d33b62",
+      "referral_code": "PRJHF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:58:31.649Z"
     }
   ],
   "withdrawals": [
