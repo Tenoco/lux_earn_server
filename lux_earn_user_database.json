@@ -20058,11 +20058,12 @@
       "inviter_username": null,
       "invited_users": [
         "Eze Ebuka",
-        "Majestic"
+        "Majestic",
+        "Vegas 80"
       ],
       "balance": 45,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:18.443Z",
@@ -37801,7 +37802,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T17:57:27.318Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T17:57:58.835Z"
+    },
+    {
+      "username": "Vegas 80",
+      "email": "okoyevic12@gmail.com",
+      "encrypted_password": "6598d687f744a13e8f03f9ffe704a42e",
+      "referral_code": "VECIC",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": "BigNachi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:58:19.464Z"
     }
   ],
   "withdrawals": [
