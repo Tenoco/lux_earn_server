@@ -12959,7 +12959,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:01:41.870Z"
+      "joinDate": "2025-02-21T06:01:41.870Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Milkmentjnr3",
+      "email": "olakunledaniel2010@gmail.com",
+      "encrypted_password": "899425d3ddecbe5879d4761ba16af9ea",
+      "referral_code": "MIVBP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:01:48.142Z"
     }
   ],
   "withdrawals": [
