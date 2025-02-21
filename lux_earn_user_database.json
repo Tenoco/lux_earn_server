@@ -765,11 +765,12 @@
         "Eric sinx",
         "Blaze",
         "Ayoola ",
-        "Firstmanoneart"
+        "Firstmanoneart",
+        "Vickiejone"
       ],
       "balance": 265,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -11041,7 +11042,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:05:26.105Z"
+      "joinDate": "2025-02-21T05:05:26.105Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vickiejone",
+      "email": "coachvictoria67@gmail.com",
+      "encrypted_password": "ae2e02217c543ddfb2322bf1012b69b2",
+      "referral_code": "VIRFJ",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:06:08.011Z"
     }
   ],
   "withdrawals": [
