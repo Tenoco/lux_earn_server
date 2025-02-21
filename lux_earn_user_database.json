@@ -115,11 +115,12 @@
         "KingT",
         "Amelia",
         "Adexan",
-        "Christy"
+        "Christy",
+        "Automatic_man"
       ],
       "balance": 50,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -15023,6 +15024,21 @@
       "joinDate": "2025-02-21T06:42:23.266Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Automatic_man",
+      "email": "olasunkanmidamilaredavid@gmail.com",
+      "encrypted_password": "1580e5e74e5be14c627888ceacc46b1a",
+      "referral_code": "AUX3X",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:42:46.708Z"
     }
   ],
   "withdrawals": [
