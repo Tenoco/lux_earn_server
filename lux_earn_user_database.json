@@ -5633,11 +5633,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "keeyman"
+        "keeyman",
+        "Khan"
       ],
       "balance": 215,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:10:10.673Z",
@@ -17905,6 +17906,21 @@
       "joinDate": "2025-02-21T07:25:00.377Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Khan",
+      "email": "khadeejatumarishaq@gmail.com",
+      "encrypted_password": "6532dc2eaf81691db2f64145d1e081cf",
+      "referral_code": "KHJPZ",
+      "inviter_referral_code": "HAGNN",
+      "inviter_username": "haseer",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:25:47.730Z"
     }
   ],
   "withdrawals": [
