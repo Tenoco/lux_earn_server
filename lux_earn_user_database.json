@@ -23356,11 +23356,12 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": "Pearl",
       "invited_users": [
-        "Mak23"
+        "Mak23",
+        "Max81"
       ],
       "balance": 281,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:59.293Z",
@@ -30270,7 +30271,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:26:55.946Z"
+      "joinDate": "2025-02-21T12:26:55.946Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Max81",
+      "email": "princessset672@gmail.com",
+      "encrypted_password": "b3685a71fbea622025b544405996ecad",
+      "referral_code": "MARAC",
+      "inviter_referral_code": "SE0T6",
+      "inviter_username": "Set26",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:27:18.528Z"
     }
   ],
   "withdrawals": [
