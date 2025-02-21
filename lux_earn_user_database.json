@@ -21660,7 +21660,7 @@
       "inviter_referral_code": "ISIY2",
       "inviter_username": "Israelite ",
       "invited_users": [],
-      "balance": 190,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21673,7 +21673,8 @@
         7,
         9,
         9,
-        5
+        5,
+        4
       ],
       "lastSpin": null
     },
@@ -25299,7 +25300,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:24:19.194Z"
+      "joinDate": "2025-02-21T10:24:19.194Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
