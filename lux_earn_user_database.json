@@ -14910,14 +14910,17 @@
         "Mustyzai",
         "folorunshosg"
       ],
-      "balance": 0,
+      "balance": 61,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T08:18:02.837Z"
     },
     {
       "username": "Stephen",
