@@ -15897,11 +15897,12 @@
       "invited_users": [
         "Kelvin",
         "@bubble",
-        "Unshakable era"
+        "Unshakable era",
+        "Amaka11237"
       ],
       "balance": 250,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:47:53.507Z",
@@ -28901,7 +28902,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:55:15.251Z"
+      "joinDate": "2025-02-21T11:55:15.251Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amaka11237",
+      "email": "emakasunday2025@gmail.com",
+      "encrypted_password": "b8b391747281d21f7200b27fb4fe3687",
+      "referral_code": "AMONJ",
+      "inviter_referral_code": "CHVDI",
+      "inviter_username": "Chizzy001xyz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:55:20.453Z"
     }
   ],
   "withdrawals": [
