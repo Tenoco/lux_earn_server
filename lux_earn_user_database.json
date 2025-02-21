@@ -25749,6 +25749,21 @@
       "joinDate": "2025-02-21T10:34:23.766Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Barry",
+      "email": "barakatatairu4@gmail.com",
+      "encrypted_password": "08c39e9049321d20b594315dc5f19634",
+      "referral_code": "BACCD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:34:45.633Z"
     }
   ],
   "withdrawals": [
