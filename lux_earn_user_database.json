@@ -37341,11 +37341,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Please111"
+        "Please111",
+        "Sophie8"
       ],
       "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:44:18.929Z",
@@ -37441,6 +37442,21 @@
       "joinDate": "2025-02-21T19:56:19.201Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sophie8",
+      "email": "sophia4545@gmail.com",
+      "encrypted_password": "6988ec3aba1eaddf2435141bf10487ca",
+      "referral_code": "SO518",
+      "inviter_referral_code": "VIXLF",
+      "inviter_username": "Vic2332",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:59:45.990Z"
     }
   ],
   "withdrawals": [
