@@ -20178,7 +20178,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:10:49.612Z"
+      "joinDate": "2025-02-21T08:10:49.612Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Big Dee",
+      "email": "ukpakadestiny100@gmail.com",
+      "encrypted_password": "03b41576bac079c9e3ceedf20cf55a7a",
+      "referral_code": "BIW4P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:11:09.637Z"
     }
   ],
   "withdrawals": [
