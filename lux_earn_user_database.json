@@ -36972,7 +36972,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T18:52:02.241Z"
+      "joinDate": "2025-02-21T18:52:02.241Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "EKEMINI1234",
+      "email": "akpanini66@gmail.com",
+      "encrypted_password": "8781eba6b2631a210de5e363c2834d83",
+      "referral_code": "EKTI4",
+      "inviter_referral_code": "UMT08",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:52:29.979Z"
     }
   ],
   "withdrawals": [
