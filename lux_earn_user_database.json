@@ -844,11 +844,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Eddie Gregory "
+        "Eddie Gregory ",
+        "Moneyman"
       ],
       "balance": 163,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -5831,7 +5832,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:55.517Z",
-      "lastSpin": "2025-02-21T00:14:32.302Z",
       "completedMissions": [
         5,
         4,
@@ -5839,7 +5839,8 @@
         2,
         1,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-21T00:14:32.302Z"
     },
     {
       "username": "Zord",
@@ -6182,6 +6183,21 @@
       "joinDate": "2025-02-21T00:20:27.894Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Moneyman",
+      "email": "preciousadeniran22@gmail.com",
+      "encrypted_password": "64487392d4cae36d6f793e66e8e2fb76",
+      "referral_code": "MOWH6",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:20:45.413Z"
     }
   ],
   "withdrawals": [
