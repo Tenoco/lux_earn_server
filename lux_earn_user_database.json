@@ -25998,7 +25998,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ch@rles",
@@ -26138,6 +26139,21 @@
       "joinDate": "2025-02-21T10:41:06.018Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alex",
+      "email": "alexandersamson2006@gmail.com",
+      "encrypted_password": "dd22141acb5ea065acd5ed773729c98f",
+      "referral_code": "ALJ7N",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:41:26.024Z"
     }
   ],
   "withdrawals": [
