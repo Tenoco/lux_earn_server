@@ -15222,11 +15222,12 @@
         "Tobiloba",
         "Happiness009",
         "Loveth",
-        "Chunsoo"
+        "Chunsoo",
+        "Abiodun11"
       ],
       "balance": 100,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -36937,7 +36938,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:44:35.624Z"
+      "joinDate": "2025-02-21T16:44:35.624Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abiodun11",
+      "email": "biodun99@gmail.com",
+      "encrypted_password": "230ff219a79572cf589cf31ca832ffcb",
+      "referral_code": "ABQF4",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:44:45.971Z"
     }
   ],
   "withdrawals": [
