@@ -5447,10 +5447,12 @@
       "referral_code": "HOEJH",
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Nat"
+      ],
       "balance": 195,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -24178,7 +24180,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:57:10.062Z"
+      "joinDate": "2025-02-21T09:57:10.062Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nat",
+      "email": "Nathanieluhuanwangho@gmail.com",
+      "encrypted_password": "461d5dc1043d43cf3bc65aee1b7699c5",
+      "referral_code": "NANAT",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:57:53.749Z"
     }
   ],
   "withdrawals": [
