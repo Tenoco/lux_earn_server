@@ -21754,7 +21754,7 @@
       "inviter_referral_code": "T7RO8",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21764,7 +21764,9 @@
         9,
         9,
         9,
-        8
+        8,
+        1,
+        1
       ],
       "lastSpin": null
     },
