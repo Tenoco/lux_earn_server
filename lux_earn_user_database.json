@@ -31039,14 +31039,15 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:54:09.486Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
