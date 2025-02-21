@@ -2973,11 +2973,12 @@
         "OLIVIALOVE ",
         "hope",
         "Habaku",
-        "Rokkygold"
+        "Rokkygold",
+        "Ziviabby"
       ],
       "balance": 325,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -24971,6 +24972,21 @@
       "joinDate": "2025-02-21T10:13:46.397Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ziviabby",
+      "email": "mmesomaprecious2007@gmail.com",
+      "encrypted_password": "d4a6fa6ecf4ff760e4b008d924ed67ed",
+      "referral_code": "ZI2EZ",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:14:33.808Z"
     }
   ],
   "withdrawals": [
