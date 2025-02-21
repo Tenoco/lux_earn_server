@@ -26190,7 +26190,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:41:48.490Z"
+      "joinDate": "2025-02-21T10:41:48.490Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "chimegrace",
+      "email": "pc4647070@gmail.com",
+      "encrypted_password": "5416d7cd6ef195a0f7622a9c56b55e84",
+      "referral_code": "CHUXF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:41:53.062Z"
     }
   ],
   "withdrawals": [
