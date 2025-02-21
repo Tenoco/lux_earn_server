@@ -10248,7 +10248,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haywhy",
@@ -10789,10 +10790,12 @@
       "referral_code": "AKILA",
       "inviter_referral_code": "DANK3",
       "inviter_username": "Dandee321",
-      "invited_users": [],
+      "invited_users": [
+        "Basit"
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:52:44.156Z",
@@ -10888,6 +10891,21 @@
       "joinDate": "2025-02-21T04:58:25.245Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Basit",
+      "email": "toyibbakare69@gmail.com",
+      "encrypted_password": "37c7b649f9a3ead2e45551899be54cf2",
+      "referral_code": "BARVT",
+      "inviter_referral_code": "AKILA",
+      "inviter_username": "Akolade ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:59:15.686Z"
     }
   ],
   "withdrawals": [
