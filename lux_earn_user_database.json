@@ -4658,7 +4658,7 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 185,
+      "balance": 230,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4667,7 +4667,9 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        3,
+        4
       ],
       "lastSpin": "2025-02-20T23:52:23.925Z"
     },
@@ -4994,7 +4996,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Temu",
