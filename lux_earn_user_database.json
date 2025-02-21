@@ -9607,7 +9607,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:02:12.773Z"
+      "joinDate": "2025-02-21T03:02:12.773Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fortune",
+      "email": "fortuneakinyemi29@gmail.com",
+      "encrypted_password": "da0e59f6b80c67363b5a3cc5d1b3e8ad",
+      "referral_code": "FOJT3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:02:21.981Z"
     }
   ],
   "withdrawals": [
