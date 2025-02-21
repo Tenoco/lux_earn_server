@@ -25029,19 +25029,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 135,
+      "balance": 165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:14:38.521Z",
+      "lastSpin": "2025-02-21T10:15:01.189Z",
       "completedMissions": [
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": "2025-02-21T10:15:01.189Z"
+        4,
+        5
+      ]
     },
     {
       "username": "Fhavour ",
