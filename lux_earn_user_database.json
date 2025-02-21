@@ -29529,7 +29529,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 360,
+      "balance": 430,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29547,9 +29547,11 @@
         3,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        8,
+        9,
+        7
+      ]
     },
     {
       "username": "godsave",
@@ -29796,7 +29798,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:15:31.608Z"
+      "joinDate": "2025-02-21T12:15:31.608Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
