@@ -79,11 +79,12 @@
       "invited_users": [
         "Tech",
         "Presco",
-        "Jahhw"
+        "Jahhw",
+        "Ayomideh "
       ],
       "balance": 1000,
-      "refers": 3,
-      "referralBalance": 200,
+      "refers": 4,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -38475,6 +38476,21 @@
       "joinDate": "2025-02-21T18:38:07.366Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomideh ",
+      "email": "muideenmujeeb119@gmail.com",
+      "encrypted_password": "d97715a3314b97363d0a33d42864230e",
+      "referral_code": "AYBRP",
+      "inviter_referral_code": null,
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:39:30.268Z"
     }
   ],
   "withdrawals": [
