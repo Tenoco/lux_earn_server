@@ -9721,7 +9721,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:05:17.390Z"
+      "joinDate": "2025-02-21T03:05:17.390Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kashops14",
+      "email": "akinolakasopee@gmail.com",
+      "encrypted_password": "78bbdc28859d86d33d4d5e2631c40741",
+      "referral_code": "KA3LY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:06:00.638Z"
     }
   ],
   "withdrawals": [
