@@ -23757,10 +23757,12 @@
       "referral_code": "ADZEI",
       "inviter_referral_code": " UN6ID",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Duza"
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:40:41.956Z",
@@ -24050,7 +24052,8 @@
       "joinDate": "2025-02-21T09:53:41.074Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "God33",
@@ -24136,6 +24139,21 @@
       "joinDate": "2025-02-21T09:55:16.361Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Duza",
+      "email": "philipashizawobwayiisaac@gmail.com",
+      "encrypted_password": "bcf72be583419af9af4a2dd78b37ecd1",
+      "referral_code": "DUQE8",
+      "inviter_referral_code": "ADZEI",
+      "inviter_username": "Adagbagyilo ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:55:45.380Z"
     }
   ],
   "withdrawals": [
