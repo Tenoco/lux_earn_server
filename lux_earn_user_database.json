@@ -5949,11 +5949,12 @@
         "Lakaka",
         "Musazogi001",
         "musty112233",
-        "BiggyArewa"
+        "BiggyArewa",
+        "Slim-Mill"
       ],
       "balance": 358,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -27719,7 +27720,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:16:57.299Z"
+      "joinDate": "2025-02-21T11:16:57.299Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Slim-Mill",
+      "email": "patrickjohn199999@gmail.com",
+      "encrypted_password": "773cec913b43dbfbc04208af64b6b6fc",
+      "referral_code": "SLKK9",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:17:03.593Z"
     }
   ],
   "withdrawals": [
