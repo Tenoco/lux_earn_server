@@ -10302,7 +10302,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:02:32.950Z"
+      "joinDate": "2025-02-21T04:02:32.950Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ifelayomi",
+      "email": "dadaifelayomi@gmail.com",
+      "encrypted_password": "90c06848671a19f8f5217b6dfa6a4282",
+      "referral_code": "IFI2Q",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:05:09.167Z"
     }
   ],
   "withdrawals": [
