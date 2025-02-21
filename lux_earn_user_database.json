@@ -29715,7 +29715,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:14:43.971Z"
+      "joinDate": "2025-02-21T12:14:43.971Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Choice01 ",
+      "email": "choicegold236@gmail.com",
+      "encrypted_password": "f42658cffbcfe2d98b4a803d219a21ae",
+      "referral_code": "CHHQM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:14:47.007Z"
     }
   ],
   "withdrawals": [
