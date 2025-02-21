@@ -16062,7 +16062,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:37.546Z"
+      "joinDate": "2025-02-21T06:58:37.546Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oluwagemisola ",
+      "email": "adekunletajudeen62@gmail.com",
+      "encrypted_password": "ef11e465ea0a735c462c854bbb0c6503",
+      "referral_code": "OL6QV",
+      "inviter_referral_code": "https://luxearn0.netlify.app",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:40.064Z"
     }
   ],
   "withdrawals": [
