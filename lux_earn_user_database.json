@@ -3742,11 +3742,12 @@
         "Sammyjwest ",
         "Berry",
         "Kaypomping ",
-        "Olasunmbo"
+        "Olasunmbo",
+        "Zeemah"
       ],
       "balance": 50,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:22.680Z",
@@ -23001,6 +23002,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:56.313Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T09:25:35.236Z"
     },
     {
@@ -23036,6 +23038,21 @@
       "joinDate": "2025-02-21T09:25:27.707Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zeemah",
+      "email": "zainabomowumi676@gmail.com",
+      "encrypted_password": "d066b6044f3e3992025b047571183626",
+      "referral_code": "ZE0YR",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": "Mammiegold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:25:45.163Z"
     }
   ],
   "withdrawals": [
