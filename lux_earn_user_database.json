@@ -13623,11 +13623,12 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [
-        "Ayotomiwa45"
+        "Ayotomiwa45",
+        "Tayo18"
       ],
       "balance": 20,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:11:24.102Z",
@@ -17678,7 +17679,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:21:30.811Z"
+      "joinDate": "2025-02-21T07:21:30.811Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tayo18",
+      "email": "imranomotayo9@gmail.com",
+      "encrypted_password": "40ca407682f37061b977fd40d31336b0",
+      "referral_code": "TAF9Y",
+      "inviter_referral_code": "BLVAP",
+      "inviter_username": "Blacklord55",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:21:45.684Z"
     }
   ],
   "withdrawals": [
