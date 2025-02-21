@@ -25991,11 +25991,12 @@
         "Okokoumaxxi",
         "Lobayementuna",
         "Rayman",
-        "Ruthie"
+        "Ruthie",
+        "Yusuf Ali"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27302,6 +27303,21 @@
       "joinDate": "2025-02-21T11:03:41.038Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yusuf Ali",
+      "email": "yusufali@gmail.com",
+      "encrypted_password": "6ece5dd02591644a5a3f7ff9b04be5ad",
+      "referral_code": "YU2A7",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:03:58.482Z"
     }
   ],
   "withdrawals": [
