@@ -13044,11 +13044,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Chief "
+        "Chief ",
+        "Goku"
       ],
       "balance": 40,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -13699,7 +13700,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:17:43.203Z"
+      "joinDate": "2025-02-21T06:17:43.203Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goku",
+      "email": "solomongoku2011@gmail.com",
+      "encrypted_password": "afb0f87bde81d2f97148261b15b8907d",
+      "referral_code": "GOMC0",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:18:28.795Z"
     }
   ],
   "withdrawals": [
