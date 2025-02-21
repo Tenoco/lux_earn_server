@@ -11434,10 +11434,12 @@
       "referral_code": "UN6ID",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ohldsoja"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:15:55.793Z",
@@ -12016,7 +12018,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:35:33.782Z"
+      "joinDate": "2025-02-21T05:35:33.782Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ohldsoja",
+      "email": "adedokunadebayo56@gmail.com",
+      "encrypted_password": "9f5ec3263706e676cd1c0dc496f918cf",
+      "referral_code": "OHRVL",
+      "inviter_referral_code": "UN6ID",
+      "inviter_username": "Unknown",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:35:36.730Z"
     }
   ],
   "withdrawals": [
