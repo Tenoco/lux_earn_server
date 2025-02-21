@@ -25467,14 +25467,18 @@
       "inviter_referral_code": "TOXNF",
       "inviter_username": "Tochek",
       "invited_users": [],
-      "balance": 0,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:27:30.966Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T10:27:52.953Z",
+      "completedMissions": [
+        1,
+        2,
+        9
+      ]
     },
     {
       "username": "Fave",
@@ -25575,6 +25579,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:29:58.822Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T10:30:21.995Z"
     },
     {
