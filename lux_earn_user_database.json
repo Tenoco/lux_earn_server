@@ -16136,11 +16136,12 @@
         "MusaAdam",
         "Kalamuisah",
         "Isahmarry",
-        "Musakalam"
+        "Musakalam",
+        "UsmanMuhammad "
       ],
       "balance": 440,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
@@ -19771,7 +19772,8 @@
         3,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Isahkudu",
@@ -19874,6 +19876,21 @@
       "joinDate": "2025-02-21T08:02:26.940Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "UsmanMuhammad ",
+      "email": "jk8386@gmail.com",
+      "encrypted_password": "5f178f0a05247202cb3a89938c6a40e2",
+      "referral_code": "USOIQ",
+      "inviter_referral_code": "ADVEN",
+      "inviter_username": "Adam usman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:02:58.735Z"
     }
   ],
   "withdrawals": [
