@@ -37655,14 +37655,16 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:14:32.727Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T20:17:11.215Z"
+      "lastSpin": "2025-02-21T20:17:11.215Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Doomsday",
