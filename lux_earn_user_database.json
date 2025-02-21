@@ -23573,7 +23573,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": "BigNachi",
       "invited_users": [],
-      "balance": 120,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23583,7 +23583,8 @@
         1,
         2,
         3,
-        4
+        4,
+        7
       ],
       "lastSpin": null
     },
@@ -24072,7 +24073,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:54:00.954Z"
+      "joinDate": "2025-02-21T09:54:00.954Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
