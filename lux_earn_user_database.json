@@ -20442,11 +20442,12 @@
         "Smartdara",
         "Lolado123",
         "Godisgreat",
-        "Badoluck"
+        "Badoluck",
+        "Danicoko"
       ],
       "balance": 90,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21742,7 +21743,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:49:11.229Z"
+      "joinDate": "2025-02-21T08:49:11.229Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danicoko",
+      "email": "darakit254@gmail.com",
+      "encrypted_password": "94db8aa763cff4101f6ddb0e5fcfc9ec",
+      "referral_code": "DAEQ8",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:49:30.615Z"
     }
   ],
   "withdrawals": [
