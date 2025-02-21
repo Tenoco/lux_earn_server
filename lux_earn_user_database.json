@@ -37328,11 +37328,12 @@
         "Glory6",
         "Friday40",
         "Gyakie",
-        "Contact "
+        "Contact ",
+        "Username "
       ],
       "balance": 80,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37813,7 +37814,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Stanel",
@@ -37848,6 +37850,21 @@
       "joinDate": "2025-02-21T20:27:25.254Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Username ",
+      "email": "oqi7yz7@gmail10p.com",
+      "encrypted_password": "7e98b8a17c0aad30ba64d47b74e2a6c1",
+      "referral_code": "US9UL",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:28:53.158Z"
     }
   ],
   "withdrawals": [
