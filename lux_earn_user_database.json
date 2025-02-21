@@ -28787,7 +28787,7 @@
       "inviter_referral_code": "Chjwk",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28798,9 +28798,9 @@
         2,
         3,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Hojolo",
@@ -30005,7 +30005,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:19:51.022Z"
+      "joinDate": "2025-02-21T12:19:51.022Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
