@@ -16574,10 +16574,12 @@
       "referral_code": "PEHXW",
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
-      "invited_users": [],
+      "invited_users": [
+        "Modupe22"
+      ],
       "balance": 302,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:44.687Z",
@@ -19013,7 +19015,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:46:42.440Z"
+      "joinDate": "2025-02-21T07:46:42.440Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Modupe22",
+      "email": "infantabeeb@gmail.com",
+      "encrypted_password": "cd30d74448b95c75a2a0a15dab856b3e",
+      "referral_code": "MOSWA",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": "Pearl",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:46:47.635Z"
     }
   ],
   "withdrawals": [
