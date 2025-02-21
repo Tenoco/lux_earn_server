@@ -19025,7 +19025,8 @@
         7,
         9,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Avwero",
@@ -19123,14 +19124,16 @@
       "inviter_referral_code": "OFP5T",
       "inviter_username": "officialrollex",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:48:22.721Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Kyle",
