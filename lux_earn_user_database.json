@@ -36963,7 +36963,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kceemoni ",
@@ -36998,6 +36999,21 @@
       "joinDate": "2025-02-21T21:17:59.611Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T21:18:32.062Z"
+    },
+    {
+      "username": "nabwal",
+      "email": "sl4523831@gmail.com",
+      "encrypted_password": "d0970714757783e6cf17b26fb8e2298f",
+      "referral_code": "NA3IW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:22:02.315Z"
     }
   ],
   "withdrawals": [
