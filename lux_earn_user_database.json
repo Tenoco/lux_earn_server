@@ -29090,13 +29090,15 @@
       "invited_users": [
         "Favourivy"
       ],
-      "balance": 0,
+      "balance": 30,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -29248,7 +29250,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:02:32.496Z"
+      "joinDate": "2025-02-21T12:02:32.496Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
