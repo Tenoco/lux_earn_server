@@ -7000,13 +7000,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:37:27.275Z",
-      "completedMissions": [],
+      "completedMissions": [
+        7
+      ],
       "lastSpin": null
     },
     {
@@ -7065,7 +7067,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "phoenix30",
