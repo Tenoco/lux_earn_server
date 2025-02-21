@@ -9954,11 +9954,12 @@
       "inviter_username": null,
       "invited_users": [
         "Monnyjay001",
-        "Steve312"
+        "Steve312",
+        "Kamo23"
       ],
       "balance": 165,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:42:35.322Z",
@@ -22399,7 +22400,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:09:22.388Z"
+      "joinDate": "2025-02-21T09:09:22.388Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kamo23",
+      "email": "kamorudeenmodupe2@gmail.com",
+      "encrypted_password": "84a89e710b9491bfa61d080f3b060b66",
+      "referral_code": "KA0TC",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": "Rashmoney",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:09:26.254Z"
     }
   ],
   "withdrawals": [
