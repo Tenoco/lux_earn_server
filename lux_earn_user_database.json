@@ -6477,11 +6477,12 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [
-        "B.Crown"
+        "B.Crown",
+        "Peniel"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:22:01.731Z",
@@ -8741,7 +8742,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:47:34.852Z"
+      "joinDate": "2025-02-21T01:47:34.852Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peniel",
+      "email": "okonpeniel9@gmail.com",
+      "encrypted_password": "188e0d1b4920359a21a4164dcffa09fe",
+      "referral_code": "PEVOY",
+      "inviter_referral_code": "WOJE5",
+      "inviter_username": "Wonderful ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:48:53.775Z"
     }
   ],
   "withdrawals": [
