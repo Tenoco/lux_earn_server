@@ -16673,11 +16673,12 @@
         "Zealkreation",
         "abbaadamulawal",
         "Kokos8",
-        "Adeeye Esther Omolayo "
+        "Adeeye Esther Omolayo ",
+        "Roseyjoy"
       ],
       "balance": 30,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -28141,7 +28142,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T11:32:03.871Z"
+      "joinDate": "2025-02-21T11:32:03.871Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Roseyjoy",
+      "email": "nwadiukwuanurika@gmail.com",
+      "encrypted_password": "d30b267cc3d3ad311a2f389151a5c554",
+      "referral_code": "ROLG9",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:32:10.426Z"
     }
   ],
   "withdrawals": [
