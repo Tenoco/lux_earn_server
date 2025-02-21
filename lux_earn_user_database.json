@@ -17549,7 +17549,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:19:19.853Z",
-      "lastSpin": "2025-02-21T07:23:19.414Z",
       "completedMissions": [
         1,
         1,
@@ -17567,7 +17566,8 @@
         8,
         9,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:23:19.414Z"
     },
     {
       "username": "Miracle 123",
@@ -17962,14 +17962,13 @@
       "inviter_referral_code": "RUDYD",
       "inviter_username": "Ruth641",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:26:27.168Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:26:32.416Z"
     }
   ],
   "withdrawals": [
