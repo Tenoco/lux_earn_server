@@ -5823,11 +5823,12 @@
         "Danmadam11",
         "Lakaka",
         "Musazogi001",
-        "musty112233"
+        "musty112233",
+        "BiggyArewa"
       ],
       "balance": 358,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -19592,10 +19593,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:55:43.839Z",
-      "lastSpin": "2025-02-21T07:57:28.463Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:57:28.463Z"
     },
     {
       "username": "Pelumi123",
@@ -19768,6 +19769,21 @@
       "joinDate": "2025-02-21T08:00:43.164Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "BiggyArewa",
+      "email": "arewazakka@gmail.com",
+      "encrypted_password": "dd96eeef4cc0275fcc0110dd5810d019",
+      "referral_code": "BIBY0",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:00:56.415Z"
     }
   ],
   "withdrawals": [
