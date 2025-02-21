@@ -13082,11 +13082,12 @@
         "Seyi",
         "Blessing",
         "Temmy gold",
-        "Thiago"
+        "Thiago",
+        "Mercy"
       ],
       "balance": 48,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15650,6 +15651,21 @@
       "joinDate": "2025-02-21T06:52:01.727Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mercy",
+      "email": "allisoncart42@gmail.com",
+      "encrypted_password": "bf875f55c24ee823ed60cf53b86f8776",
+      "referral_code": "MEXSS",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:52:29.482Z"
     }
   ],
   "withdrawals": [
