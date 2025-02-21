@@ -3629,11 +3629,12 @@
       "inviter_username": null,
       "invited_users": [
         "Oyekunle ",
-        "Oyinkansola "
+        "Oyinkansola ",
+        "Tolase "
       ],
       "balance": 278,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -19016,6 +19017,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:46:42.440Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:46:48.953Z"
     },
     {
@@ -19034,6 +19036,21 @@
       "joinDate": "2025-02-21T07:46:47.635Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tolase ",
+      "email": "akeemsulaimon17@gmail.com",
+      "encrypted_password": "db34f683a3e92621fe4fc397d736ab66",
+      "referral_code": "TO5IR",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:46:55.486Z"
     }
   ],
   "withdrawals": [
