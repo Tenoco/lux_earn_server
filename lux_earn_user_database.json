@@ -16097,7 +16097,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:58:44.281Z"
+      "joinDate": "2025-02-21T06:58:44.281Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Clinton",
+      "email": "clintoneke03@gmail.com",
+      "encrypted_password": "04531d64f5a8d1f22039fb0e80f31bc5",
+      "referral_code": "CLV1D",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:58:41.804Z"
     }
   ],
   "withdrawals": [
