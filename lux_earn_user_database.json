@@ -1806,10 +1806,12 @@
       "referral_code": "EMISH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abu006"
+      ],
       "balance": 100,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -20243,6 +20245,21 @@
       "joinDate": "2025-02-21T08:11:59.512Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abu006",
+      "email": "yusufabubakar09039911452@gmail.com",
+      "encrypted_password": "a2047f99d76c2efeb95314c5c65731ec",
+      "referral_code": "ABP0U",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:12:56.145Z"
     }
   ],
   "withdrawals": [
