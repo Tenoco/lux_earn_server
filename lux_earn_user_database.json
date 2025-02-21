@@ -29655,10 +29655,12 @@
       "referral_code": "SAIOY",
       "inviter_referral_code": "SHR06",
       "inviter_username": "shoyomboizhaq1@gmail.com",
-      "invited_users": [],
+      "invited_users": [
+        "Joseph"
+      ],
       "balance": 625,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:52.687Z",
@@ -30153,6 +30155,21 @@
       "joinDate": "2025-02-21T12:24:03.647Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joseph",
+      "email": "ughejoseph@gmail.com",
+      "encrypted_password": "0162f8656df7b666dfed630cc7956da7",
+      "referral_code": "JONA1",
+      "inviter_referral_code": "SAIOY",
+      "inviter_username": "Sammycoded18",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:24:56.716Z"
     }
   ],
   "withdrawals": [
