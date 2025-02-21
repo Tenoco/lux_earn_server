@@ -18693,7 +18693,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:38:38.802Z",
-      "lastSpin": "2025-02-21T07:39:32.737Z",
       "completedMissions": [
         1,
         2,
@@ -18704,7 +18703,8 @@
         8,
         7,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-21T07:39:32.737Z"
     },
     {
       "username": "Flavor",
@@ -18834,6 +18834,21 @@
       "joinDate": "2025-02-21T07:41:06.812Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emperor ",
+      "email": "gamerxxxx183@gmail.com",
+      "encrypted_password": "d79271219ffc7b05527a937f2db085a8",
+      "referral_code": "EM5R0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:42:54.302Z"
     }
   ],
   "withdrawals": [
