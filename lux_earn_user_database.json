@@ -16766,11 +16766,12 @@
       "inviter_username": null,
       "invited_users": [
         "Doris",
-        "Young"
+        "Young",
+        "Daniel"
       ],
       "balance": 280,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -35703,6 +35704,21 @@
       "joinDate": "2025-02-21T15:08:20.127Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daniel",
+      "email": "Danielfedlis@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "DAA8M",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:09:58.042Z"
     }
   ],
   "withdrawals": [
