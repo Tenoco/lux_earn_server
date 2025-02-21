@@ -13437,11 +13437,12 @@
         "Regina ",
         "Zachariah ",
         "Abdulgaffar",
-        "Shadrach Nyigba "
+        "Shadrach Nyigba ",
+        "Gimaxh"
       ],
       "balance": 251,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -37678,7 +37679,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:16:01.421Z"
+      "joinDate": "2025-02-21T16:16:01.421Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gimaxh",
+      "email": "ogbegieabel@gmail.com",
+      "encrypted_password": "b0b1c68a8e5d70019c83e795568962cd",
+      "referral_code": "GIVNN",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:16:09.306Z"
     }
   ],
   "withdrawals": [
