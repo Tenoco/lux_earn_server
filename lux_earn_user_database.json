@@ -4647,11 +4647,12 @@
         "Nuel",
         "Oyin",
         "Zord",
-        "Lynx"
+        "Lynx",
+        "Akay"
       ],
       "balance": 325,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -5999,7 +6000,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:18:15.624Z"
+      "joinDate": "2025-02-21T00:18:15.624Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akay",
+      "email": "akinduroemmanuel8@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "AK8SW",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:18:16.824Z"
     }
   ],
   "withdrawals": [
