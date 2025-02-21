@@ -225,11 +225,12 @@
       "invited_users": [
         "Specboi55 ",
         "Zikkil97",
-        "Annabel"
+        "Annabel",
+        "Whiteinnocent"
       ],
       "balance": 165,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -11393,7 +11394,8 @@
         1,
         2,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Unknown",
@@ -11481,6 +11483,21 @@
       "joinDate": "2025-02-21T05:17:26.349Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Whiteinnocent",
+      "email": "davidomikunle30@gmail.com",
+      "encrypted_password": "6e696654c9e660e7a4c1f2d24dca2567",
+      "referral_code": "WHRJG",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:18:37.233Z"
     }
   ],
   "withdrawals": [
