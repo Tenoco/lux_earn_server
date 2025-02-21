@@ -9001,10 +9001,12 @@
       "referral_code": "MSNAH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Sameft"
+      ],
       "balance": 275,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9063,7 +9065,23 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Sameft",
+      "email": "joysakpaide985@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "SAR6U",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:22:16.252Z"
     }
   ],
   "withdrawals": [
