@@ -6934,7 +6934,8 @@
       "joinDate": "2025-02-21T00:36:11.821Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "La Quinta ",
@@ -6952,6 +6953,21 @@
       "joinDate": "2025-02-21T00:36:21.370Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Scuba",
+      "email": "anaekweifeanyi123456@gmail.com",
+      "encrypted_password": "fb056fb83e51dbb83f8c80c0a0dd1724",
+      "referral_code": "SC9UG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:37:27.275Z"
     }
   ],
   "withdrawals": [
