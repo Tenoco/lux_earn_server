@@ -37127,13 +37127,15 @@
       "inviter_referral_code": "AD98M",
       "inviter_username": "Adewumi212",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T16:53:03.522Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -37340,7 +37342,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:07:35.447Z"
+      "joinDate": "2025-02-21T17:07:35.447Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
