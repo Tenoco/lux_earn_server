@@ -15625,7 +15625,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:51:46.727Z"
+      "joinDate": "2025-02-21T06:51:46.727Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Smarke ",
+      "email": "smarkeshedo@gmail.com",
+      "encrypted_password": "322514660945fafcaf99694e5570d236",
+      "referral_code": "SMJVN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:52:01.727Z"
     }
   ],
   "withdrawals": [
