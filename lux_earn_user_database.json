@@ -31351,7 +31351,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:03:49.290Z"
+      "joinDate": "2025-02-21T13:03:49.290Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "osaga667f",
+      "email": "demetehan1013@outlook.com",
+      "encrypted_password": "5dba3aa65df524c014417a31143b916b",
+      "referral_code": "OSW7P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:04:04.585Z"
     }
   ],
   "withdrawals": [
