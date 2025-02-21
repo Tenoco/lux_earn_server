@@ -37661,10 +37661,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:14:32.727Z",
-      "lastSpin": "2025-02-21T20:17:11.215Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T20:17:11.215Z"
     },
     {
       "username": "Doomsday",
@@ -37674,14 +37674,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T20:19:25.852Z"
     },
     {
       "username": "Horlex",
