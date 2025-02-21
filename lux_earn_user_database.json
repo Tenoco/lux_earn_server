@@ -126,11 +126,12 @@
         "Joyitunu",
         "Oyinlola",
         "Comfortchris",
-        "Dorcas11"
+        "Dorcas11",
+        "Zobakezie "
       ],
       "balance": 50,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -23126,7 +23127,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:27:00.553Z"
+      "joinDate": "2025-02-21T09:27:00.553Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zobakezie ",
+      "email": "okaforfrancis40@gmail.com",
+      "encrypted_password": "3c0fa7e236c9c4a178bcc15a9814ae2c",
+      "referral_code": "ZO47S",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:27:14.333Z"
     }
   ],
   "withdrawals": [
