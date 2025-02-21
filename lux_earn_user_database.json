@@ -24197,7 +24197,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:57:53.749Z"
+      "joinDate": "2025-02-21T09:57:53.749Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Janaidura ",
+      "email": "janaidurabiu240@gmail.com",
+      "encrypted_password": "63c9f1c2d72740217240a0f6969cf706",
+      "referral_code": "JAKPB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:57:55.911Z"
     }
   ],
   "withdrawals": [
