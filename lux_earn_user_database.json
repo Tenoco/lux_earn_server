@@ -6340,11 +6340,12 @@
       "inviter_username": "Luxearner",
       "invited_users": [
         "B.Crown",
-        "Peniel"
+        "Peniel",
+        "Cresterfied"
       ],
       "balance": 260,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:22:01.731Z",
@@ -12727,7 +12728,8 @@
       "joinDate": "2025-02-21T05:56:00.322Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oumhanan09",
@@ -12796,6 +12798,21 @@
       "joinDate": "2025-02-21T05:58:28.611Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cresterfied",
+      "email": "victoradesua5@gmail.com",
+      "encrypted_password": "a077a4944ba505aea5344dfa7546cdf7",
+      "referral_code": "CR114",
+      "inviter_referral_code": "WOJE5",
+      "inviter_username": "Wonderful ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:58:59.778Z"
     }
   ],
   "withdrawals": [
