@@ -10999,7 +10999,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nurudeen75",
@@ -11183,6 +11184,21 @@
       "joinDate": "2025-02-21T05:10:37.036Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lavsjd",
+      "email": "levijonathan444@gmail.com",
+      "encrypted_password": "418726305e81a9fdc7429048002aa6c1",
+      "referral_code": "LA1RQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:11:31.529Z"
     }
   ],
   "withdrawals": [
