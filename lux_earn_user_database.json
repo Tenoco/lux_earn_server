@@ -5453,11 +5453,12 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [
-        "Nat"
+        "Nat",
+        "Marv766"
       ],
       "balance": 195,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -24329,6 +24330,21 @@
       "joinDate": "2025-02-21T10:00:42.777Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Marv766",
+      "email": "ossynathan10@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "MAB3U",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:01:00.427Z"
     }
   ],
   "withdrawals": [
