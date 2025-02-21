@@ -12231,7 +12231,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 65,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12243,7 +12243,8 @@
         3,
         6,
         7,
-        8
+        8,
+        4
       ],
       "lastSpin": null
     },
@@ -17810,7 +17811,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:23:28.974Z"
+      "joinDate": "2025-02-21T07:23:28.974Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
