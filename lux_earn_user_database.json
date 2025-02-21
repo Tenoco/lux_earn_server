@@ -37855,16 +37855,16 @@
       "inviter_referral_code": "None",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:00:19.607Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Gooes",
@@ -37914,6 +37914,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T18:02:41.641Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T18:03:05.370Z"
     }
   ],
