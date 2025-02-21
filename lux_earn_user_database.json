@@ -15080,14 +15080,21 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:42:46.708Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        4,
+        3,
+        2,
+        5,
+        7,
+        6
+      ]
     },
     {
       "username": "Harfizino ",
@@ -15255,7 +15262,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:46:04.809Z"
+      "joinDate": "2025-02-21T06:46:04.809Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
