@@ -3619,11 +3619,12 @@
       "invited_users": [
         "Oluwavictor",
         "VIctor",
-        "Gentle"
+        "Gentle",
+        "Mide"
       ],
       "balance": 260,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:12.097Z",
@@ -10265,7 +10266,8 @@
         6,
         6,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olazzy01",
@@ -10373,6 +10375,21 @@
       "joinDate": "2025-02-21T04:10:57.596Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mide",
+      "email": "oluwaiyanu408@gmail.com",
+      "encrypted_password": "f60c2038df2e3e686415f8b709f41b0a",
+      "referral_code": "MI5MX",
+      "inviter_referral_code": "SEIKW",
+      "inviter_username": "Sergeant",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:13:07.215Z"
     }
   ],
   "withdrawals": [
