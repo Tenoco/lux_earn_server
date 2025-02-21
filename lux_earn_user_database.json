@@ -30685,7 +30685,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:44:42.514Z"
+      "joinDate": "2025-02-21T12:44:42.514Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "badboilil",
+      "email": "eugenegoodluck49@gmail.com",
+      "encrypted_password": "e0e04d415435c15528b51d0a0563e256",
+      "referral_code": "BAOPN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:45:26.458Z"
     }
   ],
   "withdrawals": [
