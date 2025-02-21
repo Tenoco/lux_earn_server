@@ -10231,11 +10231,12 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [
-        "orengo 7"
+        "orengo 7",
+        "Kenny202"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:15:50.675Z",
@@ -10563,6 +10564,21 @@
       "joinDate": "2025-02-21T04:31:40.362Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kenny202",
+      "email": "cardtarot05@gmail.com",
+      "encrypted_password": "5c04e5292bb5bbeaa45bdff8a35de73b",
+      "referral_code": "KE2MN",
+      "inviter_referral_code": "ORMB3",
+      "inviter_username": "Orengo",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:33:18.010Z"
     }
   ],
   "withdrawals": [
