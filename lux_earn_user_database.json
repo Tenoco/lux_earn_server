@@ -13296,11 +13296,12 @@
         "Mike",
         "Princess hope ",
         "Quincy ",
-        "Oluwasimi1234"
+        "Oluwasimi1234",
+        "Holysst"
       ],
       "balance": 40,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -37720,6 +37721,21 @@
       "joinDate": "2025-02-21T16:16:31.587Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Holysst",
+      "email": "adesuavictor1@gmail.com",
+      "encrypted_password": "26b6fbf9771e4e41315498dc56866a72",
+      "referral_code": "HOO4E",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:17:19.614Z"
     }
   ],
   "withdrawals": [
