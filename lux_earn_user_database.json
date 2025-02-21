@@ -13356,7 +13356,7 @@
         "Thiago",
         "Mercy"
       ],
-      "balance": 148,
+      "balance": 178,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -13371,7 +13371,8 @@
         9,
         8,
         8,
-        7
+        7,
+        5
       ],
       "lastSpin": "2025-02-21T06:08:48.108Z"
     },
@@ -32132,7 +32133,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:30:45.525Z"
+      "joinDate": "2025-02-21T13:30:45.525Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
