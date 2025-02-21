@@ -37321,11 +37321,12 @@
       "invited_users": [
         "dolapo020l",
         "Fikate6jj",
-        "Glory6"
+        "Glory6",
+        "Friday40"
       ],
       "balance": 80,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T19:43:45.724Z",
@@ -37551,7 +37552,23 @@
       "joinDate": "2025-02-21T20:04:34.197Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Friday40",
+      "email": "odqgfy9s3qi7yz7@gmail10p.com",
+      "encrypted_password": "78d1fe0f0064cf6654940c87d99d4456",
+      "referral_code": "FRSV7",
+      "inviter_referral_code": "DO2ZF",
+      "inviter_username": "Dolapo0206",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:06:10.053Z"
     }
   ],
   "withdrawals": [
