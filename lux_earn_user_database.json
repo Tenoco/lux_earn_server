@@ -36991,14 +36991,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 108,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:17:59.611Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3,
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-21T21:18:32.062Z"
     },
