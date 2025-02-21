@@ -29855,11 +29855,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Holly "
+        "Holly ",
+        "Jdydjdh"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:14:47.007Z",
@@ -30400,7 +30401,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:28:20.346Z"
+      "joinDate": "2025-02-21T12:28:20.346Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jdydjdh",
+      "email": "tonymayer801@gmail.com",
+      "encrypted_password": "ad87e92a96ebd41f444f4860fe3c9208",
+      "referral_code": "JDGSB",
+      "inviter_referral_code": "CHHQM",
+      "inviter_username": "Choice01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:28:46.764Z"
     }
   ],
   "withdrawals": [
