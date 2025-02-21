@@ -20445,11 +20445,12 @@
         "Godisgreat",
         "Badoluck",
         "Danicoko",
-        "Gkololo"
+        "Gkololo",
+        "Luckybad"
       ],
       "balance": 90,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21827,6 +21828,21 @@
       "joinDate": "2025-02-21T08:50:56.302Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Luckybad",
+      "email": "dklolokgoj@gmail.com",
+      "encrypted_password": "5bf392645170c95d6b486ba52587f8b4",
+      "referral_code": "LU17H",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:53:27.628Z"
     }
   ],
   "withdrawals": [
