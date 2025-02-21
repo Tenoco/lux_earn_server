@@ -29137,11 +29137,12 @@
       "invited_users": [
         "Favourivy",
         "Gabriel",
-        "Davidson"
+        "Davidson",
+        "Josephine"
       ],
       "balance": 210,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30789,7 +30790,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:42:05.618Z"
+      "joinDate": "2025-02-21T12:42:05.618Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Josephine",
+      "email": "anniitaa360@gmail.com",
+      "encrypted_password": "e1c4fa426bfa8ba3eb9a66186e4d2e5e",
+      "referral_code": "JOIEN",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:42:16.897Z"
     }
   ],
   "withdrawals": [
