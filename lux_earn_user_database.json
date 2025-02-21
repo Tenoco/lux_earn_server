@@ -12634,14 +12634,13 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": "ZYY",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T05:55:06.366Z"
     },
     {
       "username": "sealizzraa",
@@ -12656,7 +12655,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:55:01.229Z"
+      "joinDate": "2025-02-21T05:55:01.229Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
