@@ -14951,10 +14951,12 @@
       "referral_code": "SAWY4",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Musa sani"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:38:39.218Z",
@@ -16329,7 +16331,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:01:28.554Z"
+      "joinDate": "2025-02-21T07:01:28.554Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Musa sani",
+      "email": "musasanisojaydn@gmail.com",
+      "encrypted_password": "e9d6584f9dccbb78049ec64b1c17b753",
+      "referral_code": "MUYXS",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:01:30.259Z"
     }
   ],
   "withdrawals": [
