@@ -32335,13 +32335,19 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:33:56.506Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        2,
+        3,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -32803,7 +32809,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:49:11.034Z"
+      "joinDate": "2025-02-21T13:49:11.034Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
