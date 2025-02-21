@@ -28764,13 +28764,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:50:42.086Z",
-      "completedMissions": [],
+      "completedMissions": [
+        9
+      ],
       "lastSpin": null
     },
     {
