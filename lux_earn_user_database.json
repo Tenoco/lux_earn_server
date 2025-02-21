@@ -20032,14 +20032,16 @@
       "inviter_referral_code": "MAUOD",
       "inviter_username": "Max",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:03:23.790Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        3
+      ]
     },
     {
       "username": "Joyitunu",
@@ -20712,7 +20714,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:22:40.263Z"
+      "joinDate": "2025-02-21T08:22:40.263Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
