@@ -23542,7 +23542,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:36:42.617Z"
+      "joinDate": "2025-02-21T09:36:42.617Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "chinecherem ",
+      "email": "chinecheremh306@gmail.com",
+      "encrypted_password": "074eea99c9047b589b8e49256a1e8b64",
+      "referral_code": "CHSQ4",
+      "inviter_referral_code": "ORXQ6 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:36:47.179Z"
     }
   ],
   "withdrawals": [
