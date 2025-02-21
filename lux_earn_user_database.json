@@ -38100,7 +38100,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:33:12.419Z"
+      "joinDate": "2025-02-21T22:33:12.419Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "elvis080",
+      "email": "felixponnan32@gmail.com",
+      "encrypted_password": "a964ff7ed51adb11eb9b20dd7c1a7739",
+      "referral_code": "ELZIN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:34:06.994Z"
     }
   ],
   "withdrawals": [
