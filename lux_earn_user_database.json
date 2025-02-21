@@ -26286,7 +26286,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:43:06.000Z"
+      "joinDate": "2025-02-21T10:43:06.000Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "fadkem20",
+      "email": "kehindefadekemi88@gmail.com",
+      "encrypted_password": "f47b5e261c41b767808ee54fc33c62c2",
+      "referral_code": "FAMAT",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:43:15.131Z"
     }
   ],
   "withdrawals": [
