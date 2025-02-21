@@ -140,11 +140,12 @@
         "Adekunlejh",
         "sulaimanaminu12@",
         "Habexpro",
-        "preciousmak"
+        "preciousmak",
+        "Illuminax "
       ],
       "balance": 50,
-      "refers": 46,
-      "referralBalance": 4600,
+      "refers": 47,
+      "referralBalance": 4700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -36117,10 +36118,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:21:28.157Z",
-      "lastSpin": "2025-02-21T15:21:53.509Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:21:53.509Z"
     },
     {
       "username": "Chiamakachi",
@@ -36172,6 +36173,21 @@
       "joinDate": "2025-02-21T15:22:30.733Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Illuminax ",
+      "email": "iilluminax@gmail.com",
+      "encrypted_password": "43d6c1ec7f0a62646b4dc1faf801ddab",
+      "referral_code": "ILXRY",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:22:58.114Z"
     }
   ],
   "withdrawals": [
