@@ -22795,14 +22795,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:20:54.305Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "smizy",
@@ -22868,7 +22869,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:22:08.413Z"
+      "joinDate": "2025-02-21T09:22:08.413Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
