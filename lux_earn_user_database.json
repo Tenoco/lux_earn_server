@@ -32868,7 +32868,7 @@
       "inviter_referral_code": "AJFYM",
       "inviter_username": "Ajibola",
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32876,9 +32876,10 @@
       "joinDate": "2025-02-21T13:49:42.640Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3,
+        4
+      ]
     },
     {
       "username": "Kwizdom",
@@ -33191,7 +33192,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:01:31.525Z"
+      "joinDate": "2025-02-21T14:01:31.525Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
