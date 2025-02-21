@@ -24244,7 +24244,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:58:31.649Z",
-      "lastSpin": "2025-02-21T10:00:13.601Z",
       "completedMissions": [
         5,
         4,
@@ -24255,7 +24254,8 @@
         3,
         2,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T10:00:13.601Z"
     },
     {
       "username": "Kayode26",
@@ -24265,13 +24265,15 @@
       "inviter_referral_code": "ABG1F",
       "inviter_username": "Abdul230",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:58:51.943Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
