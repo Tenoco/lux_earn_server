@@ -37596,11 +37596,12 @@
       "invited_users": [
         "Lamide",
         "Ayomi",
-        "Alade"
+        "Alade",
+        "Nifemi"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38015,6 +38016,21 @@
       "joinDate": "2025-02-21T20:34:19.747Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nifemi",
+      "email": "nifemi22@gmail.com",
+      "encrypted_password": "fa901d021e02f850099272e4fad92e0d",
+      "referral_code": "NIHCK",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:35:26.796Z"
     }
   ],
   "withdrawals": [
