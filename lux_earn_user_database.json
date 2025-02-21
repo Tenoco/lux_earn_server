@@ -10233,11 +10233,12 @@
       "invited_users": [
         "orengo 7",
         "Kenny202",
-        "Oregon"
+        "Oregon",
+        "Oreoluwa"
       ],
       "balance": 260,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:15:50.675Z",
@@ -10624,6 +10625,21 @@
       "joinDate": "2025-02-21T04:34:56.726Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oreoluwa",
+      "email": "mk7510462@gmail.com",
+      "encrypted_password": "5c04e5292bb5bbeaa45bdff8a35de73b",
+      "referral_code": "OR10M",
+      "inviter_referral_code": "ORMB3",
+      "inviter_username": "Orengo",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:37:07.444Z"
     }
   ],
   "withdrawals": [
