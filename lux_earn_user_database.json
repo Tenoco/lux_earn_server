@@ -26002,11 +26002,12 @@
         "Rayman",
         "Ruthie",
         "Yusuf Ali",
-        "Bossbabyni"
+        "Bossbabyni",
+        "Adeolusarah"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:35:54.682Z",
@@ -27391,7 +27392,8 @@
       "joinDate": "2025-02-21T11:05:51.409Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ojiabor",
@@ -27445,6 +27447,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Adeolusarah",
+      "email": "adeolusarah41@gmail.com",
+      "encrypted_password": "2383747946b5952b80b364598161e95c",
+      "referral_code": "AD8VR",
+      "inviter_referral_code": "PUFHA",
+      "inviter_username": "PurityTope",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:08:43.390Z"
     }
   ],
   "withdrawals": [
