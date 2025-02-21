@@ -9103,7 +9103,7 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
       "invited_users": [],
-      "balance": 185,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9115,7 +9115,8 @@
         3,
         6,
         5,
-        4
+        4,
+        7
       ],
       "lastSpin": null
     },
@@ -9132,7 +9133,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:28:00.242Z"
+      "joinDate": "2025-02-21T02:28:00.242Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
