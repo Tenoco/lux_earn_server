@@ -19444,10 +19444,12 @@
       "referral_code": "LEFNR",
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
-      "invited_users": [],
+      "invited_users": [
+        "Richie001"
+      ],
       "balance": 275,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:50:33.496Z",
@@ -20787,6 +20789,21 @@
       "joinDate": "2025-02-21T08:25:17.802Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Richie001",
+      "email": "ephraimroymaiyanga@gmail.com",
+      "encrypted_password": "b84f085a18aea76431376d7d9b95756d",
+      "referral_code": "RIQMF",
+      "inviter_referral_code": "LEFNR",
+      "inviter_username": "Lexy001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:25:45.353Z"
     }
   ],
   "withdrawals": [
