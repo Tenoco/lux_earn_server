@@ -11683,7 +11683,8 @@
         6,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tabzzy",
@@ -11801,7 +11802,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11810,9 +11811,9 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Abraham6693",
