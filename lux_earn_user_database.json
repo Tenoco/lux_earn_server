@@ -15897,7 +15897,7 @@
         "Amaka1179",
         "Osazee"
       ],
-      "balance": 250,
+      "balance": 258,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -15914,7 +15914,7 @@
         3,
         4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T13:07:04.454Z"
     },
     {
       "username": "Shade",
@@ -31452,7 +31452,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:06:54.965Z"
+      "joinDate": "2025-02-21T13:06:54.965Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
