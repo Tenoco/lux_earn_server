@@ -23083,7 +23083,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ayenieliezer@gmil.com",
@@ -23460,6 +23461,21 @@
       "joinDate": "2025-02-21T09:34:45.063Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sulaimanu",
+      "email": "suleiro262@gmail.com",
+      "encrypted_password": "364c878f4513fbcf2cdcc25b461c587f",
+      "referral_code": "SUUCP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:34:54.013Z"
     }
   ],
   "withdrawals": [
