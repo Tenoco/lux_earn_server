@@ -37612,11 +37612,12 @@
         "Badiru ",
         "Zubby",
         "Ahmad",
-        "Bilikis"
+        "Bilikis",
+        "Akunba"
       ],
       "balance": 0,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38450,6 +38451,21 @@
       "joinDate": "2025-02-21T20:58:40.333Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akunba",
+      "email": "akunba66@gmail.com",
+      "encrypted_password": "9f3c03ca1b7dddab6018aeabf4ea942b",
+      "referral_code": "AK5BB",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:00:05.306Z"
     }
   ],
   "withdrawals": [
