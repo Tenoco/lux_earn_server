@@ -22386,14 +22386,17 @@
       "inviter_referral_code": "HE5KL",
       "inviter_username": "Henry Joshua ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:07:44.028Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T09:12:33.623Z"
     },
     {
       "username": "esty11",
@@ -22446,7 +22449,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:09:26.254Z",
-      "lastSpin": "2025-02-21T09:11:38.226Z",
       "completedMissions": [
         9,
         8,
@@ -22456,7 +22458,8 @@
         5,
         4,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T09:11:38.226Z"
     },
     {
       "username": "Abdul1752",
