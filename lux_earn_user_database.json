@@ -30138,11 +30138,12 @@
         "Danbyr",
         "Poiyiu",
         "Peace87g",
-        "Loloal"
+        "Loloal",
+        "Loloala228"
       ],
       "balance": 262,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:24:03.647Z",
@@ -32891,7 +32892,8 @@
         8,
         9,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kwizdom",
@@ -33339,6 +33341,21 @@
       "joinDate": "2025-02-21T14:06:22.289Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Loloala228",
+      "email": "schooly7041l@gmail.com",
+      "encrypted_password": "60da0ac20dfa22616d41202c5440be7a",
+      "referral_code": "LOEOV",
+      "inviter_referral_code": "DA0VX",
+      "inviter_username": "Dannyung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:06:42.780Z"
     }
   ],
   "withdrawals": [
