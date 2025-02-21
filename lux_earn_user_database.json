@@ -36547,16 +36547,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 142,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:30:40.842Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T15:48:54.744Z"
     },
     {
       "username": "mayor1234",
@@ -37070,7 +37073,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:50:20.661Z"
+      "joinDate": "2025-02-21T15:50:20.661Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
