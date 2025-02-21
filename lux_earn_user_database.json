@@ -30675,10 +30675,12 @@
       "referral_code": "DO3E9",
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
-      "invited_users": [],
+      "invited_users": [
+        "Funmi"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:44:28.975Z",
@@ -30803,6 +30805,21 @@
       "joinDate": "2025-02-21T12:48:59.631Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Funmi",
+      "email": "funmiobaoye@gmail.com",
+      "encrypted_password": "e11ee9f8d4604143498c33cc88c9ed6e",
+      "referral_code": "FU5XE",
+      "inviter_referral_code": "DO3E9",
+      "inviter_username": "Dollypee",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:50:04.502Z"
     }
   ],
   "withdrawals": [
