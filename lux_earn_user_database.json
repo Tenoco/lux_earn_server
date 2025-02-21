@@ -12898,16 +12898,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:00:41.541Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "ademart",
@@ -13075,7 +13075,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:03:13.823Z"
+      "joinDate": "2025-02-21T06:03:13.823Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
