@@ -2911,10 +2911,12 @@
       "referral_code": "NO73X",
       "inviter_referral_code": "EBX6A",
       "inviter_username": "Ebenezerochi",
-      "invited_users": [],
+      "invited_users": [
+        "Ernie2003"
+      ],
       "balance": 420,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:23:59.884Z",
@@ -37492,6 +37494,21 @@
       "joinDate": "2025-02-21T22:12:10.412Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ernie2003",
+      "email": "afaernest@gmail.com",
+      "encrypted_password": "c5247a8e874268f4ff9af53b0fe71830",
+      "referral_code": "ERWC0",
+      "inviter_referral_code": "NO73X",
+      "inviter_username": "Noblerebel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:14:29.975Z"
     }
   ],
   "withdrawals": [
