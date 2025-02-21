@@ -10264,14 +10264,19 @@
       "inviter_referral_code": "IFI2Q",
       "inviter_username": "ifelayomi",
       "invited_users": [],
-      "balance": 50,
+      "balance": 91,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:17:05.946Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-21T05:59:05.622Z"
     },
     {
       "username": "Faith2",
@@ -12993,7 +12998,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:01:54.204Z"
+      "joinDate": "2025-02-21T06:01:54.204Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
