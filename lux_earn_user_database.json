@@ -26004,10 +26004,12 @@
       "referral_code": "MI44N",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Bigboy "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:36:43.784Z",
@@ -26864,6 +26866,21 @@
       "joinDate": "2025-02-21T10:53:17.716Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bigboy ",
+      "email": "ochogbe12345@gmail.com",
+      "encrypted_password": "ffd5e2595bbf1c9b6219eb844116b32f",
+      "referral_code": "BIWP4",
+      "inviter_referral_code": "MI44N",
+      "inviter_username": "Mimi4success",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:53:37.380Z"
     }
   ],
   "withdrawals": [
