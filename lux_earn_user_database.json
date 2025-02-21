@@ -21544,7 +21544,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:42:33.285Z",
-      "lastSpin": "2025-02-21T08:43:59.399Z",
       "completedMissions": [
         1,
         2,
@@ -21557,7 +21556,8 @@
         5,
         5,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:43:59.399Z"
     },
     {
       "username": "Kokos8",
@@ -21625,13 +21625,15 @@
       "inviter_referral_code": "T7RO8",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:44:43.086Z",
-      "completedMissions": [],
+      "completedMissions": [
+        9
+      ],
       "lastSpin": null
     },
     {
