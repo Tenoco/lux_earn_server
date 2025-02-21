@@ -13766,11 +13766,12 @@
         "Hannah ",
         "Hannahp",
         "Cherrixy",
-        "Folake "
+        "Folake ",
+        "Danie123"
       ],
       "balance": 160,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -38301,7 +38302,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:35:13.978Z"
+      "joinDate": "2025-02-21T16:35:13.978Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danie123",
+      "email": "daniel2456@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "DAAC4",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:36:05.338Z"
     }
   ],
   "withdrawals": [
