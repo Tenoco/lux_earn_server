@@ -6232,11 +6232,12 @@
         "habeeb ",
         "Washington ",
         "please ",
-        "important"
+        "important",
+        "coin "
       ],
       "balance": 290,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -7428,6 +7429,21 @@
       "joinDate": "2025-02-21T00:46:02.939Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "coin ",
+      "email": "abdulrahmanhabeeb414@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "CO6BH",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:47:35.209Z"
     }
   ],
   "withdrawals": [
