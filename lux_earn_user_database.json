@@ -35522,14 +35522,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1,
+      "balance": 31,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:03:10.621Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T15:05:06.443Z"
+      "lastSpin": "2025-02-21T15:05:06.443Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Ajeboter",
