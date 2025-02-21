@@ -24374,7 +24374,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:02:43.422Z"
+      "joinDate": "2025-02-21T10:02:43.422Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hovaflow",
+      "email": "Micley817@gmail.com",
+      "encrypted_password": "9e6ace71b57b5d46843ceaadbc2c88d5",
+      "referral_code": "HO737",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:02:56.220Z"
     }
   ],
   "withdrawals": [
