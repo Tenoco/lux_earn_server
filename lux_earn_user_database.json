@@ -676,11 +676,12 @@
         "JuNifa",
         "Royaleprof",
         "Sirdadaa",
-        "Harfizino "
+        "Harfizino ",
+        "Cleyboy001"
       ],
       "balance": 112,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -16472,7 +16473,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:02:41.820Z"
+      "joinDate": "2025-02-21T07:02:41.820Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cleyboy001",
+      "email": "cletusnuhu52@gmail.com",
+      "encrypted_password": "38e84118574039ae17d875d601ab564c",
+      "referral_code": "CLF89",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:03:06.257Z"
     }
   ],
   "withdrawals": [
