@@ -28097,14 +28097,16 @@
       "inviter_referral_code": "MI44N",
       "inviter_username": "Mimi4success",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:24:32.033Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T13:23:05.759Z"
     },
     {
       "username": "Aisha",
