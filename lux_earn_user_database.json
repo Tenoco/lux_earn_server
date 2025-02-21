@@ -18578,10 +18578,12 @@
       "referral_code": "DAC2N",
       "inviter_referral_code": "OLHMH",
       "inviter_username": "Olatimi",
-      "invited_users": [],
+      "invited_users": [
+        "Fave"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:27:48.872Z",
@@ -25445,7 +25447,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:27:30.966Z"
+      "joinDate": "2025-02-21T10:27:30.966Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fave",
+      "email": "favourdemilade1@gmail.com",
+      "encrypted_password": "68431ccecac39befaabd7fd4f2e270db",
+      "referral_code": "FAIAH",
+      "inviter_referral_code": "DAC2N",
+      "inviter_username": "Daves",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:28:26.238Z"
     }
   ],
   "withdrawals": [
