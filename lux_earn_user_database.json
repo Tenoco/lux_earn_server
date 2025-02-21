@@ -72,16 +72,15 @@
     {
       "username": "Tenoco",
       "email": "tenocostudio0@gmail.com",
-      "encrypted_password": "",
-      "referral_code": "",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "TEQZ9",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech",
-        "Kimbella"
+        "Tech"
       ],
-      "balance": 3100,
-      "refers": 2,
+      "balance": 5000,
+      "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
@@ -3083,12 +3082,11 @@
         "Moses money ",
         "Daniels",
         "Lyan Mubby ",
-        "Arinze08",
-        "Shindara18"
+        "Arinze08"
       ],
       "balance": 337,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -11470,12 +11468,11 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Hellah",
-        "Diamond703"
+        "Hellah"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:04:28.825Z",
@@ -36922,62 +36919,7 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:47:36.408Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Shindara18",
-      "email": "Ogunsanmiblessing2006@gmail.com",
-      "encrypted_password": "fd7c6fd20f515dfa21c701e02a334b6f",
-      "referral_code": "SHM30",
-      "inviter_referral_code": "COS2L",
-      "inviter_username": "CoachNick",
-      "invited_users": [],
-      "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-21T19:10:26.417Z",
-      "completedMissions": [
-        1,
-        2
-      ]
-    },
-    {
-      "username": "Diamond703",
-      "email": "ikponmwonbaosamudiamen@gmail.com",
-      "encrypted_password": "0080596116a1d2907de9a449572830c5",
-      "referral_code": "DIY34",
-      "inviter_referral_code": "FIDTX",
-      "inviter_username": "Firstmanoneart",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-21T19:11:31.725Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Kimbella",
-      "email": "collinsifeanyi382@gmail.com",
-      "encrypted_password": "928160a027f9234456db8e3d6f64f20e",
-      "referral_code": "KI79R",
-      "inviter_referral_code": null,
-      "inviter_username": "Tenoco",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-21T19:12:43.589Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "joinDate": "2025-02-21T15:47:36.408Z"
     }
   ],
   "withdrawals": [
