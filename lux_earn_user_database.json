@@ -865,8 +865,8 @@
         "Moneyman",
         "Psblo",
         "Marvi",
-        "daniel2027_£$",
-        "daniel2027_�$"
+        "daniel2027_Â£$",
+        "daniel2027_£$"
       ],
       "balance": 163,
       "refers": 6,
@@ -10681,7 +10681,7 @@
       "lastSpin": null
     },
     {
-      "username": "daniel2027_£$",
+      "username": "daniel2027_Â£$",
       "email": "danielclarke9037@gmail.com",
       "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
       "referral_code": "DAZ6L",
@@ -11055,14 +11055,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:06:08.011Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        8
+      ]
     },
     {
       "username": "Livvey",
@@ -11082,7 +11083,7 @@
       "lastSpin": null
     },
     {
-      "username": "daniel2027_�$",
+      "username": "daniel2027_£$",
       "email": "danielclarke123567@gmail.com",
       "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
       "referral_code": "DAH4W",
@@ -11094,7 +11095,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:07:04.033Z"
+      "joinDate": "2025-02-21T05:07:04.033Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
