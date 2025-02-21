@@ -29635,10 +29635,12 @@
       "referral_code": "OYC43",
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
-      "invited_users": [],
+      "invited_users": [
+        "Omolara89"
+      ],
       "balance": 335,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:09:42.860Z",
@@ -32159,7 +32161,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdom024",
@@ -32262,6 +32265,21 @@
       "joinDate": "2025-02-21T13:33:56.506Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Omolara89",
+      "email": "lawalalliya5@gmail.com",
+      "encrypted_password": "1a5476a0c6cbe57022add44410aa5f57",
+      "referral_code": "OM61D",
+      "inviter_referral_code": "OYC43",
+      "inviter_username": "oyeniyiv949@gmail.com",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:34:17.248Z"
     }
   ],
   "withdrawals": [
