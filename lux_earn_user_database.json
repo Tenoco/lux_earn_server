@@ -34636,7 +34636,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34648,7 +34648,9 @@
         8,
         3,
         3,
-        2
+        2,
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -35128,10 +35130,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:48:51.674Z",
-      "lastSpin": "2025-02-21T14:51:12.994Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T14:51:12.994Z"
     },
     {
       "username": "Jumbotonyeyetunde",
