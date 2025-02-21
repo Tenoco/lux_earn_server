@@ -5475,11 +5475,12 @@
         "Lonlonlee",
         "Honestly",
         "Kannyson",
-        "Sunsetta"
+        "Sunsetta",
+        "Calababa"
       ],
       "balance": 30,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -8404,7 +8405,8 @@
         3,
         4,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Callmedad",
@@ -8558,6 +8560,21 @@
       "joinDate": "2025-02-21T01:22:06.655Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Calababa",
+      "email": "Calalabbaer@gmail.com",
+      "encrypted_password": "b86c8f46076736c14e53dbb69d978683",
+      "referral_code": "CAXJD",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:22:59.115Z"
     }
   ],
   "withdrawals": [
