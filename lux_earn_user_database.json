@@ -24428,7 +24428,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:03:53.439Z"
+      "joinDate": "2025-02-21T10:03:53.439Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lizzybaby",
+      "email": "jomboololadeelizabeth@gmail.com",
+      "encrypted_password": "dc80695d3b69b9aeebea0b93dc0d294b",
+      "referral_code": "LIWA4",
+      "inviter_referral_code": "eaen5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:04:04.950Z"
     }
   ],
   "withdrawals": [
