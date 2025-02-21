@@ -9017,11 +9017,12 @@
         "Joysak ",
         "Vice-chairman ",
         "Malclm",
-        "Jennifer akuwe"
+        "Jennifer akuwe",
+        "Solomonokun"
       ],
       "balance": 330,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9340,7 +9341,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:42:05.437Z"
+      "joinDate": "2025-02-21T02:42:05.437Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Solomonokun",
+      "email": "okunsolo@gmail.com",
+      "encrypted_password": "af28c91e0d78e5805b8e02478034b444",
+      "referral_code": "SO78V",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:43:00.789Z"
     }
   ],
   "withdrawals": [
