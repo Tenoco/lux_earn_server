@@ -14806,7 +14806,7 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 240,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14820,9 +14820,10 @@
         4,
         5,
         9,
-        8
+        8,
+        7
       ],
-      "lastSpin": null
+      "lastSpin": "1970-01-01T00:00:00.000Z"
     },
     {
       "username": "Seyi",
