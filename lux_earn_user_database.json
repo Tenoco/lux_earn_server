@@ -764,11 +764,12 @@
         "Israel",
         "Eric sinx",
         "Blaze",
-        "Ayoola "
+        "Ayoola ",
+        "Firstmanoneart"
       ],
       "balance": 265,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -11006,7 +11007,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:04:45.365Z"
+      "joinDate": "2025-02-21T05:04:45.365Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Firstmanoneart",
+      "email": "Vincentj6840285@gmail.com",
+      "encrypted_password": "5c39d9265f1d2101bd1a830de19a5049",
+      "referral_code": "FIDTX",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:04:28.825Z"
     }
   ],
   "withdrawals": [
