@@ -21144,14 +21144,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:33:56.390Z",
       "completedMissions": [
-        5
+        5,
+        4,
+        3
       ],
       "lastSpin": null
     },
@@ -21280,7 +21282,8 @@
       "joinDate": "2025-02-21T08:37:11.081Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Coachay",
