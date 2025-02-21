@@ -10009,7 +10009,7 @@
       "inviter_referral_code": "SEIKW",
       "inviter_username": "Sergeant",
       "invited_users": [],
-      "balance": 120,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10017,9 +10017,10 @@
       "joinDate": "2025-02-21T03:34:02.792Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        8,
+        3
+      ]
     }
   ],
   "withdrawals": [
