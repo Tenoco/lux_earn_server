@@ -14336,11 +14336,12 @@
       "inviter_username": null,
       "invited_users": [
         "THENAIJABOSS",
-        "danieldy"
+        "danieldy",
+        "ImperialBro"
       ],
       "balance": 20,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:25:18.817Z",
@@ -23022,7 +23023,8 @@
       "joinDate": "2025-02-21T09:24:59.293Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "ayenieliezer@gmil.com",
@@ -23091,6 +23093,21 @@
       "joinDate": "2025-02-21T09:26:29.606Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ImperialBro",
+      "email": "holyshura9@gmail.com",
+      "encrypted_password": "283b8bbca267703b2344f24942b30359",
+      "referral_code": "IMRFQ",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:26:43.154Z"
     }
   ],
   "withdrawals": [
