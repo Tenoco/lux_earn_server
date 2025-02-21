@@ -15972,7 +15972,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
-      "lastSpin": "2025-02-21T06:57:47.494Z",
       "completedMissions": [
         1,
         2,
@@ -15984,7 +15983,8 @@
         4,
         5,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:57:47.494Z"
     },
     {
       "username": "dsnny",
@@ -16062,7 +16062,7 @@
       "inviter_referral_code": "EMJHD",
       "inviter_username": "Emerald",
       "invited_users": [],
-      "balance": 150,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16073,9 +16073,9 @@
         1,
         4,
         3,
-        5
-      ],
-      "lastSpin": null
+        5,
+        8
+      ]
     },
     {
       "username": "WizzyMikeAel ",
