@@ -38422,14 +38422,15 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:06:33.242Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Lekkierose",
@@ -38445,6 +38446,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:06:59.868Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T23:07:31.148Z"
     },
     {
