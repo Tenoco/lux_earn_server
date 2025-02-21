@@ -38103,7 +38103,7 @@
       "inviter_referral_code": "INI0M",
       "inviter_username": "Inert ",
       "invited_users": [],
-      "balance": 52,
+      "balance": 92,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38112,7 +38112,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        3,
+        4
       ],
       "lastSpin": "2025-02-21T18:23:57.710Z"
     },
