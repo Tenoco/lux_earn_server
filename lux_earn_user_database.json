@@ -37271,14 +37271,17 @@
       "inviter_referral_code": "Ja9wu",
       "inviter_username": null,
       "invited_users": [],
-      "balance": -20,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:58:28.142Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T22:09:55.114Z"
     },
     {
       "username": "Adeolu",
