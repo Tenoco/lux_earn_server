@@ -20513,10 +20513,12 @@
       "referral_code": "LUI52",
       "inviter_referral_code": "IJ105",
       "inviter_username": "Ijeslimz ",
-      "invited_users": [],
+      "invited_users": [
+        "Bastion99 "
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:15:34.711Z",
@@ -21226,7 +21228,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:36:14.305Z"
+      "joinDate": "2025-02-21T08:36:14.305Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bastion99 ",
+      "email": "corinthian160@gmail.com",
+      "encrypted_password": "43862d9b8341745c861013b541edea5d",
+      "referral_code": "BA75U",
+      "inviter_referral_code": "LUI52",
+      "inviter_username": "lurdings",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:36:19.863Z"
     }
   ],
   "withdrawals": [
