@@ -37231,11 +37231,12 @@
         "Adebola01",
         "Oluwatemilorun",
         "Faramade90",
-        "Nkechi12"
+        "Nkechi12",
+        "Ezekiel88"
       ],
       "balance": 32,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T21:51:30.865Z",
@@ -37954,7 +37955,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nkechi12",
@@ -37989,6 +37991,21 @@
       "joinDate": "2025-02-21T22:28:00.420Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ezekiel88",
+      "email": "ezekielmic@gmail.com",
+      "encrypted_password": "9c21900bc9b7ccaa68c9166ddc0d3014",
+      "referral_code": "EZSDK",
+      "inviter_referral_code": "SHTVH",
+      "inviter_username": "Shikemi123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:28:20.564Z"
     }
   ],
   "withdrawals": [
