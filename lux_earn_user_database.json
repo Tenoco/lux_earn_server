@@ -12248,7 +12248,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12258,7 +12258,7 @@
         1,
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T05:51:18.121Z"
     },
     {
       "username": "Asquare ",
@@ -12444,10 +12444,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:49:00.314Z",
-      "lastSpin": "2025-02-21T05:50:18.830Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-21T05:50:18.830Z"
     },
     {
       "username": "Khadija23",
