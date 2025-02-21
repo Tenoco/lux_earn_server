@@ -29,11 +29,12 @@
         "Israelite ",
         "shoyomboizhaq1@gmail.com",
         "Perfectpe",
-        "Blaze08"
+        "Blaze08",
+        "Toripee"
       ],
       "balance": 5493,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -29897,7 +29898,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:18:46.448Z"
+      "joinDate": "2025-02-21T12:18:46.448Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Toripee",
+      "email": "Donpeaker885@gmail.com",
+      "encrypted_password": "b4345bf5eeb4f491a1a048c2e443ab85",
+      "referral_code": "TOWM3",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:18:51.943Z"
     }
   ],
   "withdrawals": [
