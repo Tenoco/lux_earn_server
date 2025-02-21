@@ -23144,11 +23144,12 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [
-        "billionsbillions0"
+        "billionsbillions0",
+        "Successfuldrillion"
       ],
       "balance": 210,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:23:38.402Z",
@@ -26342,7 +26343,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:43:50.239Z"
+      "joinDate": "2025-02-21T10:43:50.239Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Successfuldrillion",
+      "email": "successfuldrillionz@gmail.com",
+      "encrypted_password": "87e8c7da6a25e46ee56259790a9a2442",
+      "referral_code": "SUTAO",
+      "inviter_referral_code": "DAZJF",
+      "inviter_username": "danieldy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:44:08.931Z"
     }
   ],
   "withdrawals": [
