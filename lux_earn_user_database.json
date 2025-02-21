@@ -5761,13 +5761,18 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [],
-      "balance": 50,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
-      "completedMissions": [],
+      "completedMissions": [
+        3,
+        2,
+        2,
+        8
+      ],
       "lastSpin": null
     },
     {
@@ -6169,7 +6174,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:20:27.894Z"
+      "joinDate": "2025-02-21T00:20:27.894Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
