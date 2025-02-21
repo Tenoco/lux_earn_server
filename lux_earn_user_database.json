@@ -9001,7 +9001,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 275,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9010,9 +9010,12 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        3,
+        3,
+        8
+      ]
     },
     {
       "username": "Jagoceleb43",
