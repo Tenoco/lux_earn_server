@@ -34448,7 +34448,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:34:16.710Z"
+      "joinDate": "2025-02-21T14:34:16.710Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mafara",
+      "email": "nurasuleimancaptain@gmail.com",
+      "encrypted_password": "e86bb7186dc2fae12e8b0880a22ee66a",
+      "referral_code": "MASB6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:34:28.208Z"
     }
   ],
   "withdrawals": [
