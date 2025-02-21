@@ -5810,19 +5810,20 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 160,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:55.517Z",
+      "lastSpin": "2025-02-21T00:14:32.302Z",
       "completedMissions": [
         5,
         4,
         3,
-        2
-      ],
-      "lastSpin": "2025-02-21T00:14:32.302Z"
+        2,
+        1
+      ]
     },
     {
       "username": "Zord",
