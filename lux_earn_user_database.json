@@ -15288,10 +15288,12 @@
       "referral_code": "PEPVK",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Quintemmy"
+      ],
       "balance": 380,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -17476,6 +17478,21 @@
       "joinDate": "2025-02-21T07:18:49.469Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Quintemmy",
+      "email": "kaosaratpopoola033@gmail.com",
+      "encrypted_password": "e3716881b53d4bf111e92f7383677e9c",
+      "referral_code": "QU9XI",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:19:19.853Z"
     }
   ],
   "withdrawals": [
