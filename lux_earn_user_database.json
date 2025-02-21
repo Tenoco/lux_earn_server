@@ -20405,11 +20405,12 @@
       "invited_users": [
         "daralola",
         "Smartdara",
-        "Lolado123"
+        "Lolado123",
+        "Godisgreat"
       ],
       "balance": 30,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -21479,7 +21480,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:42:40.761Z"
+      "joinDate": "2025-02-21T08:42:40.761Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Godisgreat",
+      "email": "segoola3.u@gmaio.com",
+      "encrypted_password": "0d02ad8a47fcff976a3d0b4a84e2f678",
+      "referral_code": "GOVDN",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:42:43.872Z"
     }
   ],
   "withdrawals": [
