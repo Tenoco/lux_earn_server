@@ -37614,11 +37614,12 @@
         "Ahmad",
         "Bilikis",
         "Akunba",
-        "Larry "
+        "Larry ",
+        "Sanni"
       ],
       "balance": 0,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38508,7 +38509,23 @@
       "joinDate": "2025-02-21T21:04:11.440Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Sanni",
+      "email": "sanni4@gmail.com",
+      "encrypted_password": "2586aac01d0d360dad7dab0653b1d890",
+      "referral_code": "SATPO",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T21:06:06.085Z"
     }
   ],
   "withdrawals": [
