@@ -20457,7 +20457,7 @@
         "Gkololo",
         "Luckybad"
       ],
-      "balance": 90,
+      "balance": 150,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -20466,7 +20466,9 @@
       "completedMissions": [
         2,
         1,
-        4
+        4,
+        3,
+        5
       ],
       "lastSpin": null
     },
@@ -21897,7 +21899,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chinenyefavour",
