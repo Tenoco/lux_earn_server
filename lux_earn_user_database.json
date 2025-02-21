@@ -32658,7 +32658,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:45:59.995Z"
+      "joinDate": "2025-02-21T13:45:59.995Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ruth sambo ",
+      "email": "ruthsambojohn@gmail.com",
+      "encrypted_password": "13da7f4d72a93255bcdcda0b9f87109e",
+      "referral_code": "RU0I5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:46:11.738Z"
     }
   ],
   "withdrawals": [
