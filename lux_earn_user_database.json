@@ -5788,11 +5788,12 @@
       "invited_users": [
         "danmadam1",
         "kingaleey11",
-        "Danmadam11"
+        "Danmadam11",
+        "Lakaka"
       ],
       "balance": 310,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -16277,7 +16278,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:00:58.772Z"
+      "joinDate": "2025-02-21T07:00:58.772Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lakaka",
+      "email": "ztasiu3550@gmail.com",
+      "encrypted_password": "fb876d521757eb956bc0b028266b7c51",
+      "referral_code": "LAE7L",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:01:02.038Z"
     }
   ],
   "withdrawals": [
