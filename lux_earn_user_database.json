@@ -1048,11 +1048,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Onug7 "
+        "Onug7 ",
+        "Bolachris"
       ],
       "balance": 105,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:09:04.523Z",
@@ -19575,7 +19576,8 @@
         4,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Isahmarry",
@@ -19896,6 +19898,21 @@
       "joinDate": "2025-02-21T08:02:58.735Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bolachris",
+      "email": "bolachris3.0@gmail.com",
+      "encrypted_password": "ddae81c0a994a2f264b7ac1f2d1e2bf6",
+      "referral_code": "BOBEF",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": "Max",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:03:23.790Z"
     }
   ],
   "withdrawals": [
