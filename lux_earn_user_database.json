@@ -13577,14 +13577,18 @@
       "inviter_referral_code": "SA6WT",
       "inviter_username": "Sammy4021",
       "invited_users": [],
-      "balance": 30,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:09:10.506Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        3,
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -19566,7 +19570,8 @@
         2,
         3,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Isahmarry",
