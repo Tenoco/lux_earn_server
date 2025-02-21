@@ -20788,10 +20788,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:24:50.969Z",
-      "lastSpin": "2025-02-21T08:25:16.094Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-21T08:25:16.094Z"
     },
     {
       "username": "Oladunni",
@@ -20843,6 +20843,21 @@
       "joinDate": "2025-02-21T08:26:58.313Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Debby030",
+      "email": "Debbydeborah048@gmail.com",
+      "encrypted_password": "5eb94a33d52242224449a99e4b01cbbe",
+      "referral_code": "DECIC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:27:18.893Z"
     }
   ],
   "withdrawals": [
