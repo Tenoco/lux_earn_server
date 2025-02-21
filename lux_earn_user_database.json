@@ -14592,7 +14592,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 300,
+      "balance": 348,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14608,9 +14608,10 @@
         4,
         4,
         4,
-        5
+        5,
+        8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T07:03:05.452Z"
     },
     {
       "username": "Aibeeyusufk",
@@ -16626,7 +16627,8 @@
       "joinDate": "2025-02-21T07:04:35.768Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Loveth",
