@@ -3815,11 +3815,12 @@
       "invited_users": [
         "Oyekunle ",
         "Oyinkansola ",
-        "Tolase "
+        "Tolase ",
+        "Ade34k4u9i5g"
       ],
       "balance": 338,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -36940,7 +36941,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:08:32.324Z"
+      "joinDate": "2025-02-21T19:08:32.324Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ade34k4u9i5g",
+      "email": "olamilekanadeokun248@gmail.com",
+      "encrypted_password": "b532952ae815753ae9bd6adaee9932b2",
+      "referral_code": "ADWZG",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:09:16.744Z"
     }
   ],
   "withdrawals": [
