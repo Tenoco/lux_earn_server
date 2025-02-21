@@ -30339,7 +30339,8 @@
       "joinDate": "2025-02-21T12:27:31.711Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samify ",
@@ -30442,6 +30443,21 @@
       "joinDate": "2025-02-21T12:28:54.725Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Khalifa ",
+      "email": "adamnazeer545@gmail.com",
+      "encrypted_password": "edb56a249cfa4593bbe3c49af6ca0b28",
+      "referral_code": "KHHB3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:29:43.125Z"
     }
   ],
   "withdrawals": [
