@@ -13548,11 +13548,12 @@
         "Goku",
         "Shakou ",
         "Chief shakou ",
-        "Gohan "
+        "Gohan ",
+        "Odyvirgins"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -38437,6 +38438,21 @@
       "joinDate": "2025-02-21T18:36:29.759Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Odyvirgins",
+      "email": "odyvirginia@gmail.com",
+      "encrypted_password": "b02ac7c937e70ee2f3a115e5409bd183",
+      "referral_code": "ODCHY",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:37:56.101Z"
     }
   ],
   "withdrawals": [
