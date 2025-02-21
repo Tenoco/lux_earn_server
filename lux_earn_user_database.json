@@ -18492,7 +18492,7 @@
       "inviter_referral_code": "878102",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18500,9 +18500,10 @@
       "joinDate": "2025-02-21T07:33:35.998Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        9,
+        8
+      ]
     },
     {
       "username": "Kel225",
@@ -18701,7 +18702,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:39:35.343Z"
+      "joinDate": "2025-02-21T07:39:35.343Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
