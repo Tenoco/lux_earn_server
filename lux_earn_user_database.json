@@ -651,11 +651,12 @@
         "Olaide ",
         "Starlet123",
         "Kayode",
-        "JuNifa"
+        "JuNifa",
+        "Royaleprof"
       ],
       "balance": 112,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -8667,6 +8668,21 @@
       "joinDate": "2025-02-21T01:29:05.789Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Royaleprof",
+      "email": "princepa3ck@gmail.com",
+      "encrypted_password": "b59c773098134056209635c68f2c922f",
+      "referral_code": "ROBJH",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:32:59.507Z"
     }
   ],
   "withdrawals": [
