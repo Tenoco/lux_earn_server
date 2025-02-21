@@ -1972,11 +1972,12 @@
       "invited_users": [
         "Noblerebel ",
         "cassidy",
-        "Maranatha "
+        "Maranatha ",
+        "Victorstones"
       ],
       "balance": 10,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:15:00.752Z",
@@ -32539,7 +32540,8 @@
       "joinDate": "2025-02-21T13:42:02.652Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billy jos",
@@ -32574,6 +32576,21 @@
       "joinDate": "2025-02-21T13:43:35.269Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victorstones",
+      "email": "victorstones1@gmail.com",
+      "encrypted_password": "3d444353e4e97db02344cddd7c914bea",
+      "referral_code": "VI77W",
+      "inviter_referral_code": "EBX6A",
+      "inviter_username": "Ebenezerochi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:43:56.510Z"
     }
   ],
   "withdrawals": [
