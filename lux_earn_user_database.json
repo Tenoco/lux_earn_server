@@ -1120,11 +1120,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Seungold123"
+        "Seungold123",
+        "Krischer101"
       ],
       "balance": 215,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -20468,7 +20469,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:17:03.078Z"
+      "joinDate": "2025-02-21T08:17:03.078Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Krischer101",
+      "email": "oliverkrischer0@gmail.com",
+      "encrypted_password": "a9b8bd0ade48ad83595d2485e0b482d3",
+      "referral_code": "KRJZH",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:17:12.685Z"
     }
   ],
   "withdrawals": [
