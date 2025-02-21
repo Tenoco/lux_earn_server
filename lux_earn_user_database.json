@@ -24461,11 +24461,12 @@
         "Shady766",
         "Alive090",
         "Ayo88",
-        "Mofe99"
+        "Mofe99",
+        "Matu99"
       ],
       "balance": 288,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:01:00.427Z",
@@ -25994,7 +25995,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ch@rles",
@@ -26082,6 +26084,21 @@
       "joinDate": "2025-02-21T10:40:08.006Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Matu99",
+      "email": "ossyny@gmail.com",
+      "encrypted_password": "69dceec6cb7f4f1854e9cac223c639bb",
+      "referral_code": "MA533",
+      "inviter_referral_code": "MAB3U",
+      "inviter_username": "Marv766",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:40:28.387Z"
     }
   ],
   "withdrawals": [
