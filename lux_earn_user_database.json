@@ -26209,11 +26209,12 @@
       "inviter_referral_code": "BON0X",
       "inviter_username": "Boss50",
       "invited_users": [
-        "Adebisi1"
+        "Adebisi1",
+        "Anonymous "
       ],
       "balance": 170,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:38:03.772Z",
@@ -29847,6 +29848,21 @@
       "joinDate": "2025-02-21T12:16:00.968Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Anonymous ",
+      "email": "Ayanfeoluwaoyeweso@gmail.com",
+      "encrypted_password": "9bab2b4c50d8359fc53c582d09ca21df",
+      "referral_code": "AN0V6",
+      "inviter_referral_code": "CH43H",
+      "inviter_username": "Ch@rles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:17:55.890Z"
     }
   ],
   "withdrawals": [
