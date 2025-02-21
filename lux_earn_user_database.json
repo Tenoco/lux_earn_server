@@ -803,11 +803,12 @@
         "Adewoye Fikayomi ",
         "Seyifunmi",
         "Benjaminprince",
-        "Jago123"
+        "Jago123",
+        "Jerry14"
       ],
       "balance": 265,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -22152,6 +22153,21 @@
       "joinDate": "2025-02-21T09:02:39.106Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jerry14",
+      "email": "omobolajib63@gmail.com",
+      "encrypted_password": "e0d1bfde0c2da91753f73c54bb4b74c5",
+      "referral_code": "JE7LQ",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:03:12.980Z"
     }
   ],
   "withdrawals": [
