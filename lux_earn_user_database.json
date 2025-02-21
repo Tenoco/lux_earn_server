@@ -9931,7 +9931,8 @@
         3,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ajidex100 ",
@@ -9958,7 +9959,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9966,7 +9967,8 @@
       "joinDate": "2025-02-21T03:27:19.099Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": null
     }
