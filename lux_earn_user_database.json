@@ -9009,7 +9009,7 @@
         "Sameft",
         "Joysak "
       ],
-      "balance": 310,
+      "balance": 320,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -9023,7 +9023,8 @@
         3,
         3,
         8,
-        7
+        7,
+        5
       ],
       "lastSpin": null
     },
@@ -9172,7 +9173,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:30:35.251Z"
+      "joinDate": "2025-02-21T02:30:35.251Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
