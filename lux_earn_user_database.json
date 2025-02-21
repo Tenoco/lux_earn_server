@@ -14126,7 +14126,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mazichief ",
@@ -14317,6 +14318,21 @@
       "joinDate": "2025-02-21T06:31:15.142Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Warz7",
+      "email": "warzang71@gmail.com",
+      "encrypted_password": "b7f6593421d9f21bdd5caef01b24f5c8",
+      "referral_code": "WAQ5Q",
+      "inviter_referral_code": "AD98M ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:32:01.632Z"
     }
   ],
   "withdrawals": [
