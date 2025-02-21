@@ -139,11 +139,12 @@
         "Mimi4success",
         "Adekunlejh",
         "sulaimanaminu12@",
-        "Habexpro"
+        "Habexpro",
+        "preciousmak"
       ],
       "balance": 50,
-      "refers": 45,
-      "referralBalance": 4500,
+      "refers": 46,
+      "referralBalance": 4600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -35826,7 +35827,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:15:09.680Z"
+      "joinDate": "2025-02-21T15:15:09.680Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "preciousmak",
+      "email": "preciouschiamaka656@gmail.com",
+      "encrypted_password": "500b3db01dcd19018243fcb6fbf67a7f",
+      "referral_code": "PR1FH",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:15:29.757Z"
     }
   ],
   "withdrawals": [
