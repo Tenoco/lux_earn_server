@@ -724,11 +724,12 @@
         "Sharonk ",
         "esty11",
         "Nosarex0",
-        "danky"
+        "danky",
+        "Horlex"
       ],
       "balance": 112,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -37676,7 +37677,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:16:21.951Z"
+      "joinDate": "2025-02-21T20:16:21.951Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Horlex",
+      "email": "akinboolaoluwa006@gmail.com",
+      "encrypted_password": "e318d9a0a12bc10fda1bf7be0bfe5255",
+      "referral_code": "HO5TB",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:16:44.401Z"
     }
   ],
   "withdrawals": [
