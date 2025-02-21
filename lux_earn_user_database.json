@@ -14708,11 +14708,12 @@
         "Hannahbella",
         "Vicky",
         "Jiggy",
-        "Baduku"
+        "Baduku",
+        "Tobiloba"
       ],
       "balance": 100,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -15972,7 +15973,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
-      "lastSpin": "2025-02-21T06:57:47.494Z",
       "completedMissions": [
         1,
         2,
@@ -15989,7 +15989,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:57:47.494Z"
     },
     {
       "username": "dsnny",
@@ -16422,6 +16423,21 @@
       "joinDate": "2025-02-21T07:01:50.238Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tobiloba",
+      "email": "showunmi@gmail.com",
+      "encrypted_password": "946e522f17011a886a1d973a299cf962",
+      "referral_code": "TO7R8",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:02:32.861Z"
     }
   ],
   "withdrawals": [
