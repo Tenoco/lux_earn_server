@@ -5475,11 +5475,12 @@
         "Cannel",
         "domdresin",
         "Ismail",
-        "Camela"
+        "Camela",
+        "Wantala"
       ],
       "balance": 260,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:04:55.599Z",
@@ -6041,6 +6042,21 @@
       "joinDate": "2025-02-21T00:16:22.701Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wantala",
+      "email": "wendeysan@gmail.com",
+      "encrypted_password": "4253f016df07c0cba03dce3afed3940b",
+      "referral_code": "WAPEQ",
+      "inviter_referral_code": "IA6V8",
+      "inviter_username": "IamIsaacc",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:17:15.805Z"
     }
   ],
   "withdrawals": [
