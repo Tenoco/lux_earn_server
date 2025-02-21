@@ -30387,14 +30387,16 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 42,
+      "balance": 102,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:27:35.655Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": "2025-02-21T12:36:10.346Z"
     },
