@@ -10722,10 +10722,12 @@
       "referral_code": "ODWXP",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Dollypee"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -30651,6 +30653,21 @@
       "joinDate": "2025-02-21T12:43:44.538Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dollypee",
+      "email": "akinola35.eunice@gmail.com",
+      "encrypted_password": "d78bc37f8ba8a5a8f6e4cab2ecad2e3a",
+      "referral_code": "DO3E9",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:44:28.975Z"
     }
   ],
   "withdrawals": [
