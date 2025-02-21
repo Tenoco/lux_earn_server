@@ -4728,11 +4728,12 @@
         "Quam",
         "Tunde",
         "Nick",
-        "Mikky"
+        "Mikky",
+        "Zeql"
       ],
       "balance": 25,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -8439,7 +8440,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:17:28.154Z"
+      "joinDate": "2025-02-21T01:17:28.154Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zeql",
+      "email": "zealy0752@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "ZEKMF",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:17:30.746Z"
     }
   ],
   "withdrawals": [
