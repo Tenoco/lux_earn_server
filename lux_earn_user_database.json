@@ -29848,10 +29848,12 @@
       "referral_code": "CHHQM",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Holly "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:14:47.007Z",
@@ -30167,7 +30169,8 @@
       "joinDate": "2025-02-21T12:24:03.647Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Joseph",
@@ -30253,6 +30256,21 @@
       "joinDate": "2025-02-21T12:26:34.928Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Holly ",
+      "email": "tonkudkdhdn@gmail.com",
+      "encrypted_password": "10c92b2956fa2cda95f466b8716ab8be",
+      "referral_code": "HO8GB",
+      "inviter_referral_code": "CHHQM",
+      "inviter_username": "Choice01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:26:55.946Z"
     }
   ],
   "withdrawals": [
