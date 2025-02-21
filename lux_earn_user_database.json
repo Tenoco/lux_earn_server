@@ -5563,10 +5563,12 @@
       "referral_code": "HAGNN",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "keeyman"
+      ],
       "balance": 215,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:10:10.673Z",
@@ -11602,7 +11604,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:22:19.708Z"
+      "joinDate": "2025-02-21T05:22:19.708Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "keeyman",
+      "email": "abdulahialiyujus@gmail.com",
+      "encrypted_password": "24a621b4deba47ecc9b03efb91f7a9f8",
+      "referral_code": "KEMK9",
+      "inviter_referral_code": "HAGNN",
+      "inviter_username": "haseer",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:22:21.994Z"
     }
   ],
   "withdrawals": [
