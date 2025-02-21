@@ -8389,7 +8389,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 235,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8399,9 +8399,10 @@
         1,
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "Callmedad",
@@ -8535,7 +8536,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:20:37.984Z"
+      "joinDate": "2025-02-21T01:20:37.984Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
