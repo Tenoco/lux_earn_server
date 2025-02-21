@@ -29381,19 +29381,21 @@
       "referral_code": "PRFPU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [
-        "Abdul "
-      ],
-      "balance": 90,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 210,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        5,
+        6
       ],
       "lastSpin": null
     },
@@ -30436,7 +30438,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:28:54.725Z"
+      "joinDate": "2025-02-21T12:28:54.725Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
