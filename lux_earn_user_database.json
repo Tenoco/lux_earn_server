@@ -144,11 +144,12 @@
         "preciousmak",
         "Illuminax ",
         "kingbest001",
-        "Davido22"
+        "Davido22",
+        "Blackgy"
       ],
       "balance": 50,
-      "refers": 49,
-      "referralBalance": 4900,
+      "refers": 50,
+      "referralBalance": 5000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -37452,7 +37453,8 @@
       "joinDate": "2025-02-21T17:26:44.514Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "adebayo bolu",
@@ -37506,6 +37508,21 @@
       "joinDate": "2025-02-21T17:30:43.196Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Blackgy",
+      "email": "muhdalbasu9@gmail.com",
+      "encrypted_password": "30ab2585cbb2f1412defae3612e90a0a",
+      "referral_code": "BLL3A",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:35:45.265Z"
     }
   ],
   "withdrawals": [
