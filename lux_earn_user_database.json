@@ -29380,10 +29380,12 @@
       "referral_code": "PRFPU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abdul "
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
@@ -30364,7 +30366,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:27:59.623Z"
+      "joinDate": "2025-02-21T12:27:59.623Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abdul ",
+      "email": "abdulwarishnazir@gmail.com",
+      "encrypted_password": "99e50962e3b409b022ec103d44743fbc",
+      "referral_code": "ABRCQ",
+      "inviter_referral_code": "PRFPU",
+      "inviter_username": "Princesspromise",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:28:03.429Z"
     }
   ],
   "withdrawals": [
