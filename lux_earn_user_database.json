@@ -4253,11 +4253,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Amygrace"
+        "Amygrace",
+        "Armsty2"
       ],
       "balance": 295,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22728,6 +22729,21 @@
       "joinDate": "2025-02-21T09:19:09.745Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Armsty2",
+      "email": "armsty4realz1@gmail.com",
+      "encrypted_password": "92d58dcf8db2ced076fee9aa46a3f79f",
+      "referral_code": "ARCB8",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:19:57.217Z"
     }
   ],
   "withdrawals": [
