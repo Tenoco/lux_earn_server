@@ -9011,11 +9011,12 @@
       "invited_users": [
         "Sameft",
         "Joysak ",
-        "Vice-chairman "
+        "Vice-chairman ",
+        "Malclm"
       ],
       "balance": 330,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -9235,6 +9236,21 @@
       "joinDate": "2025-02-21T02:35:03.493Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Malclm",
+      "email": "malcomsp@gmail.com",
+      "encrypted_password": "342b7d19a6311fcc7b5b9dbc7c8a3ec1",
+      "referral_code": "MA2A3",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:37:32.880Z"
     }
   ],
   "withdrawals": [
