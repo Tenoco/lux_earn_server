@@ -37812,7 +37812,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 250,
+      "balance": 350,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37834,9 +37834,13 @@
         3,
         3,
         3,
+        5,
+        5,
+        5,
+        5,
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T18:27:28.841Z"
     },
     {
       "username": "Ugochukwu1",
