@@ -4251,10 +4251,12 @@
       "referral_code": "GIGAP",
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
-      "invited_users": [],
+      "invited_users": [
+        "Amygrace"
+      ],
       "balance": 295,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:40:48.832Z",
@@ -22619,7 +22621,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Henry",
@@ -22705,6 +22708,21 @@
       "joinDate": "2025-02-21T09:18:07.483Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amygrace",
+      "email": "amyshair1998@gmail.com",
+      "encrypted_password": "251cd11917c32dd16de0dc329ac7fea5",
+      "referral_code": "AMM8P",
+      "inviter_referral_code": "GIGAP",
+      "inviter_username": "Giftedbest",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:19:09.745Z"
     }
   ],
   "withdrawals": [
