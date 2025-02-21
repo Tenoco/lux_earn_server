@@ -24777,11 +24777,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Joshua"
+        "Joshua",
+        "Ayomide23"
       ],
       "balance": 270,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:06:39.692Z",
@@ -26774,6 +26775,21 @@
       "joinDate": "2025-02-21T10:50:55.850Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomide23",
+      "email": "jasonholland475@gmail.com",
+      "encrypted_password": "ff0f091570ddb15fd1bf84bc4b517f48",
+      "referral_code": "AYGWV",
+      "inviter_referral_code": "JALJU",
+      "inviter_username": "Jasonholland",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:51:33.754Z"
     }
   ],
   "withdrawals": [
