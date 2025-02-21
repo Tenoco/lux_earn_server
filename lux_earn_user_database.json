@@ -31544,7 +31544,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T13:12:15.543Z"
+      "joinDate": "2025-02-21T13:12:15.543Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ZOZO",
+      "email": "dolar8336@gmail.com",
+      "encrypted_password": "1b3f8d3e742361881b26a24cf8f7008a",
+      "referral_code": "ZO8EW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:12:33.144Z"
     }
   ],
   "withdrawals": [
