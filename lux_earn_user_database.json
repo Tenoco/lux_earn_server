@@ -11475,16 +11475,16 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:17:11.043Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "NUEL22 ",
@@ -11584,7 +11584,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:22:12.916Z"
+      "joinDate": "2025-02-21T05:22:12.916Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
