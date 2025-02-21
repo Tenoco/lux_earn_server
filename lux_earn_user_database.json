@@ -13736,11 +13736,12 @@
         "Jamesq",
         "Habibu",
         "Sandra",
-        "Hannah "
+        "Hannah ",
+        "Hannahp"
       ],
       "balance": 160,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:06:16.453Z",
@@ -37061,6 +37062,21 @@
       "joinDate": "2025-02-21T16:01:01.592Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hannahp",
+      "email": "hanneyy@gmail.com",
+      "encrypted_password": "c19761719e2cb691dd25296531c47949",
+      "referral_code": "HAX2H",
+      "inviter_referral_code": "AMFOO",
+      "inviter_username": "Amopre1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:01:53.633Z"
     }
   ],
   "withdrawals": [
