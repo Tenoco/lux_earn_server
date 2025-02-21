@@ -24601,17 +24601,16 @@
       "referral_code": "CYPEY",
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
-      "invited_users": [
-        "VaLi "
-      ],
-      "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 30,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:05:43.141Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "I12Livebig",
