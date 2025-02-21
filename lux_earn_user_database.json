@@ -859,11 +859,12 @@
         "Eddie Gregory ",
         "Moneyman",
         "Psblo",
-        "Marvi"
+        "Marvi",
+        "daniel2027_£$"
       ],
       "balance": 163,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -10616,7 +10617,8 @@
         1,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oregon",
@@ -10719,6 +10721,21 @@
       "joinDate": "2025-02-21T04:40:21.787Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "daniel2027_£$",
+      "email": "danielclarke9037@gmail.com",
+      "encrypted_password": "ac523a3fec26911e18f8b3d1002ff72e",
+      "referral_code": "DAZ6L",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:43:38.378Z"
     }
   ],
   "withdrawals": [
