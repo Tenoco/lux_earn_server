@@ -26710,7 +26710,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:50:13.564Z"
+      "joinDate": "2025-02-21T10:50:13.564Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omobolanle",
+      "email": "kaosaratomobolanle627@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "OMR0X",
+      "inviter_referral_code": "Su4b5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:50:20.880Z"
     }
   ],
   "withdrawals": [
