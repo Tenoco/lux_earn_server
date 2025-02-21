@@ -26785,14 +26785,13 @@
       "inviter_referral_code": "JALJU",
       "inviter_username": "Jasonholland",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:51:33.754Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T10:51:49.491Z"
     },
     {
       "username": "Bmak",
@@ -26807,7 +26806,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:51:46.570Z"
+      "joinDate": "2025-02-21T10:51:46.570Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
