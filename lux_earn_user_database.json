@@ -13027,10 +13027,12 @@
       "referral_code": "GOB58",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Chief "
+      ],
       "balance": 40,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -13554,6 +13556,21 @@
       "joinDate": "2025-02-21T06:13:06.448Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chief ",
+      "email": "shakouchief@gmail.com",
+      "encrypted_password": "18791ab062f437974feb6c381b3f23ec",
+      "referral_code": "CHDUM",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:13:17.737Z"
     }
   ],
   "withdrawals": [
