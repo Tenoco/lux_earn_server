@@ -1734,11 +1734,12 @@
         "Scopegee86 ",
         "Bona123",
         "Habbeybam",
-        "beautycrown"
+        "beautycrown",
+        "Felixmba"
       ],
       "balance": 275,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -9454,7 +9455,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Chioma78",
@@ -9525,6 +9527,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Felixmba",
+      "email": "aliabdulla5191@gmail.com",
+      "encrypted_password": "d86c413b45ec10b33ffd909f008cc852",
+      "referral_code": "FE20T",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:54:54.001Z"
     }
   ],
   "withdrawals": [
