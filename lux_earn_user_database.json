@@ -32881,7 +32881,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kwizdom",
@@ -33104,14 +33105,17 @@
       "inviter_referral_code": "MIMQ9",
       "inviter_username": "Michaelkeyz ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:57:39.389Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        3
+      ],
+      "lastSpin": "2025-02-21T14:01:51.115Z"
     },
     {
       "username": "Fakamni Benjamin",
