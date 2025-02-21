@@ -24394,7 +24394,7 @@
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
       "invited_users": [],
-      "balance": 280,
+      "balance": 288,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24412,7 +24412,7 @@
         7,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T10:15:59.544Z"
     },
     {
       "username": "Animasaun ",
@@ -25045,7 +25045,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:15:59.006Z"
+      "joinDate": "2025-02-21T10:15:59.006Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
