@@ -18137,7 +18137,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 60,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18145,9 +18145,11 @@
       "joinDate": "2025-02-21T07:28:28.194Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3,
+        3,
+        4
+      ]
     },
     {
       "username": "Femzico ",
@@ -18183,7 +18185,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdomchibuike ",
