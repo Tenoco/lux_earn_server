@@ -20952,7 +20952,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T08:29:59.623Z"
+      "joinDate": "2025-02-21T08:29:59.623Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "jude",
+      "email": "judej4608@gmail.com",
+      "encrypted_password": "ba143ce205c9037f169ffd66b60048c6",
+      "referral_code": "JUDLW",
+      "inviter_referral_code": "HE5KL ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:30:07.566Z"
     }
   ],
   "withdrawals": [
