@@ -37644,7 +37644,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:15:48.536Z"
+      "joinDate": "2025-02-21T16:15:48.536Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Browncee",
+      "email": "prissybrown03@gmail.com",
+      "encrypted_password": "4b99075908f398097b448c5933643b7f",
+      "referral_code": "BRKF3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:16:00.836Z"
     }
   ],
   "withdrawals": [
