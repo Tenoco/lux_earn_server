@@ -31,11 +31,12 @@
         "Perfectpe",
         "Blaze08",
         "Toripee",
-        "Munachi"
+        "Munachi",
+        "Drone"
       ],
       "balance": 5503,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -36761,7 +36762,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:40:27.043Z"
+      "joinDate": "2025-02-21T15:40:27.043Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Drone",
+      "email": "katebolick99@gmail.com",
+      "encrypted_password": "64487392d4cae36d6f793e66e8e2fb76",
+      "referral_code": "DRIHY",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:40:38.333Z"
     }
   ],
   "withdrawals": [
