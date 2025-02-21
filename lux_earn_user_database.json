@@ -25584,11 +25584,12 @@
         "Sulaimon",
         "Sakiru",
         "Fola",
-        "Muniru"
+        "Muniru",
+        "Mutiya"
       ],
       "balance": 0,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -36943,7 +36944,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Momewing ",
@@ -36995,6 +36997,21 @@
       "joinDate": "2025-02-21T15:49:11.686Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mutiya",
+      "email": "kekodo4606@yalcu.com",
+      "encrypted_password": "581e9768f45c5693d055a4153a065eb3",
+      "referral_code": "MUOOQ",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:49:42.866Z"
     }
   ],
   "withdrawals": [
