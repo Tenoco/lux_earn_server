@@ -5810,11 +5810,12 @@
         "danmadam1",
         "kingaleey11",
         "Danmadam11",
-        "Lakaka"
+        "Lakaka",
+        "Musazogi001"
       ],
       "balance": 358,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:13:12.225Z",
@@ -17838,6 +17839,21 @@
       "joinDate": "2025-02-21T07:23:54.753Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Musazogi001",
+      "email": "musamusaladan01@gmail.com",
+      "encrypted_password": "1c4f6bf674f2350fbba88b0d0454e110",
+      "referral_code": "MUCFD",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:24:34.389Z"
     }
   ],
   "withdrawals": [
