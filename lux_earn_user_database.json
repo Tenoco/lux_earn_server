@@ -3506,11 +3506,12 @@
         "Dë Dë Õffíçïãl ",
         "Eze Kenneth ",
         "Ferdinand stephen",
-        "Onyedikachi Ikube"
+        "Onyedikachi Ikube",
+        "Ikube ikem"
       ],
       "balance": 265,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -28357,7 +28358,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:39:43.950Z",
-      "lastSpin": "2025-02-21T11:40:34.475Z",
       "completedMissions": [
         1,
         2,
@@ -28368,7 +28368,8 @@
         8,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T11:40:34.475Z"
     },
     {
       "username": "Amobi",
@@ -28619,6 +28620,21 @@
       "joinDate": "2025-02-21T11:46:27.581Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ikube ikem",
+      "email": "ikubeikem@gmail.com",
+      "encrypted_password": "35a07c00629f6d8d53c260e39041abd9",
+      "referral_code": "IKJMU",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:46:41.703Z"
     }
   ],
   "withdrawals": [
