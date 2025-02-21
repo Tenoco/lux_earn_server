@@ -8680,7 +8680,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [],
-      "balance": 155,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8689,9 +8689,10 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        7,
+        4
+      ]
     },
     {
       "username": "Vilder ",
@@ -8712,7 +8713,8 @@
         3,
         1,
         4
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
