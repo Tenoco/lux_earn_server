@@ -14828,11 +14828,12 @@
         "Quadri ",
         "Batere",
         "Bro",
-        "Sir"
+        "Sir",
+        "Daddy "
       ],
       "balance": 300,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -26177,7 +26178,8 @@
       "joinDate": "2025-02-21T10:41:26.024Z",
       "completedMissions": [
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mubarak ",
@@ -26401,6 +26403,21 @@
       "joinDate": "2025-02-21T10:43:43.747Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daddy ",
+      "email": "kosohe6271@yalcu.com",
+      "encrypted_password": "c44a471bd78cc6c2fea32b9fe028d30a",
+      "referral_code": "DALYN",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:44:54.511Z"
     }
   ],
   "withdrawals": [
