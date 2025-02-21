@@ -10250,7 +10250,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:59:58.266Z"
+      "joinDate": "2025-02-21T03:59:58.266Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haryor_Richie",
+      "email": "lawalrichie540@gmail.com",
+      "encrypted_password": "194081eebf8437a3402eacf584fefbce",
+      "referral_code": "HAMDY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:00:34.330Z"
     }
   ],
   "withdrawals": [
