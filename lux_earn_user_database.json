@@ -14408,7 +14408,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:32:46.260Z"
+      "joinDate": "2025-02-21T06:32:46.260Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sungjinwoo123 ",
+      "email": "mamoodabdulbasit@gmail.com",
+      "encrypted_password": "53057a10ca1a8c83597a2907df1d100a",
+      "referral_code": "SUB6O",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:33:05.527Z"
     }
   ],
   "withdrawals": [
