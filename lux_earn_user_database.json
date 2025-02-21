@@ -127,11 +127,12 @@
         "Oyinlola",
         "Comfortchris",
         "Dorcas11",
-        "Zobakezie "
+        "Zobakezie ",
+        "Rogey Boss"
       ],
       "balance": 50,
-      "refers": 39,
-      "referralBalance": 3900,
+      "refers": 40,
+      "referralBalance": 4000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -23264,7 +23265,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abbatioo1",
@@ -23316,6 +23318,21 @@
       "joinDate": "2025-02-21T09:31:12.388Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rogey Boss",
+      "email": "rogeyboss@gmail.com",
+      "encrypted_password": "525a468a3541b489e89fe930418821f5",
+      "referral_code": "ROZO7",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:32:06.640Z"
     }
   ],
   "withdrawals": [
