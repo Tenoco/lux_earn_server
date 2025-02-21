@@ -4710,11 +4710,12 @@
         "Cage",
         "Frank",
         "Rain",
-        "Roxy"
+        "Roxy",
+        "Zick"
       ],
       "balance": 25,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:50:49.286Z",
@@ -7734,7 +7735,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:57:46.157Z"
+      "joinDate": "2025-02-21T00:57:46.157Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zick",
+      "email": "zickyyy@gmail.com",
+      "encrypted_password": "2ccab892402eb149c1678720c1552dcf",
+      "referral_code": "ZIOU7",
+      "inviter_referral_code": "EMEQL",
+      "inviter_username": "Emin",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:57:52.715Z"
     }
   ],
   "withdrawals": [
