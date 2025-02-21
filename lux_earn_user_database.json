@@ -2861,11 +2861,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "OLIVIALOVE "
+        "OLIVIALOVE ",
+        "hope"
       ],
       "balance": 295,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:25:51.197Z",
@@ -9938,7 +9939,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:26:32.725Z"
+      "joinDate": "2025-02-21T03:26:32.725Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "hope",
+      "email": "hbili3917@gmail.com",
+      "encrypted_password": "f6f4bc0c689c52ff974c996015fb28de",
+      "referral_code": "HOJ1A",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:27:19.099Z"
     }
   ],
   "withdrawals": [
