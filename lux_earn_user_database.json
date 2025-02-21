@@ -10593,11 +10593,12 @@
         "Azeez muj",
         "Adeniji",
         "Aadeleke",
-        "OLOPA"
+        "OLOPA",
+        "Ode"
       ],
       "balance": 320,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -34433,6 +34434,21 @@
       "joinDate": "2025-02-21T14:32:24.122Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ode",
+      "email": "ode12@gmail.com",
+      "encrypted_password": "f239b7b6db0f071ae5457ae622fca055",
+      "referral_code": "ODPRU",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:34:16.710Z"
     }
   ],
   "withdrawals": [
