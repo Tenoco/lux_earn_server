@@ -35477,13 +35477,17 @@
       "inviter_referral_code": "SAHU4",
       "inviter_username": "Saint ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:02:18.872Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        3,
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -35550,7 +35554,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:04:31.509Z"
+      "joinDate": "2025-02-21T15:04:31.509Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
