@@ -37606,11 +37606,12 @@
         "Alade",
         "Nifemi",
         "Sodiq",
-        "Afees"
+        "Afees",
+        "Sulyat"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:07:15.960Z",
@@ -38234,7 +38235,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T20:46:08.612Z"
+      "joinDate": "2025-02-21T20:46:08.612Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sulyat",
+      "email": "sullivankelly088@gmail.com",
+      "encrypted_password": "f3b908e0dce5771cdb9428c0e08042ac",
+      "referral_code": "SU9ET",
+      "inviter_referral_code": "OY1XO",
+      "inviter_username": "Oyenikky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:47:13.558Z"
     }
   ],
   "withdrawals": [
