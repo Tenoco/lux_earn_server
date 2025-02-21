@@ -6207,10 +6207,12 @@
       "referral_code": "ABCKI",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "habeeb "
+      ],
       "balance": 290,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -6878,7 +6880,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:35:45.807Z"
+      "joinDate": "2025-02-21T00:35:45.807Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "habeeb ",
+      "email": "abdulrahmanhabeeb114@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "HAADF",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:35:50.626Z"
     }
   ],
   "withdrawals": [
