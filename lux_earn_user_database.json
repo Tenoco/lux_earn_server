@@ -1320,7 +1320,7 @@
         "Emmaunel",
         "Faith"
       ],
-      "balance": 220,
+      "balance": -780,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -37258,6 +37258,17 @@
       "amount": 1000,
       "totalBalance": 300,
       "timestamp": "2025-02-21T21:37:05.546Z",
+      "status": "pending"
+    },
+    {
+      "username": "Edna40",
+      "email": "bigzoe918@gmail.com",
+      "accountName": "Edna odaro",
+      "accountNumber": "9011991723",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 220,
+      "timestamp": "2025-02-21T21:50:41.547Z",
       "status": "pending"
     }
   ],
