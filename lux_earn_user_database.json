@@ -13436,11 +13436,12 @@
         "Zachariah ",
         "Abdulgaffar",
         "Shadrach Nyigba ",
-        "Chukle001 "
+        "Chukle001 ",
+        "Haraj"
       ],
       "balance": 251,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -37463,7 +37464,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:27:19.404Z"
+      "joinDate": "2025-02-21T17:27:19.404Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haraj",
+      "email": "umarhajaraileakhue@gmail.com",
+      "encrypted_password": "eb758ed307afb475b030769eb29d14dd",
+      "referral_code": "HAN8L",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T17:29:51.734Z"
     }
   ],
   "withdrawals": [
