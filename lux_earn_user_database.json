@@ -35049,16 +35049,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:47:22.495Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Lisa",
@@ -35107,7 +35107,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:50:11.108Z"
+      "joinDate": "2025-02-21T14:50:11.108Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
