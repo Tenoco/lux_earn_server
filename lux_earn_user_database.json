@@ -29181,11 +29181,12 @@
       "inviter_username": "Rebecca",
       "invited_users": [
         "Favourivy",
-        "Gabriel"
+        "Gabriel",
+        "Davidson"
       ],
       "balance": 190,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:57.433Z",
@@ -30769,6 +30770,21 @@
       "joinDate": "2025-02-21T12:38:18.313Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davidson",
+      "email": "daviiid340@gmail.com",
+      "encrypted_password": "e1c4fa426bfa8ba3eb9a66186e4d2e5e",
+      "referral_code": "DAB0A",
+      "inviter_referral_code": "BLNJL",
+      "inviter_username": "Blessingivy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:38:56.165Z"
     }
   ],
   "withdrawals": [
