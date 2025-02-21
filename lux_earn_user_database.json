@@ -29079,14 +29079,16 @@
       "inviter_referral_code": "OLDAF",
       "inviter_username": "Oluwajoy",
       "invited_users": [],
-      "balance": 55,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        3
       ],
       "lastSpin": "2025-02-21T11:58:01.116Z"
     },
@@ -29301,7 +29303,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:04:01.875Z"
+      "joinDate": "2025-02-21T12:04:01.875Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
