@@ -12729,11 +12729,12 @@
         "Ruka",
         "Great",
         "Yetunde",
-        "Hephzibah "
+        "Hephzibah ",
+        "Richard "
       ],
       "balance": 18,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:54:38.644Z",
@@ -14819,7 +14820,8 @@
         4,
         5,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Seyi",
@@ -15491,6 +15493,21 @@
       "joinDate": "2025-02-21T06:50:03.329Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Richard ",
+      "email": "richard32@gmail.com",
+      "encrypted_password": "99e5885eaf4d7de34a342f65c6499bc9",
+      "referral_code": "RIUQ4",
+      "inviter_referral_code": "CRIVJ",
+      "inviter_username": "cryptomannia",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:50:12.650Z"
     }
   ],
   "withdrawals": [
