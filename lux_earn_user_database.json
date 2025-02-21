@@ -9290,7 +9290,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9298,7 +9298,8 @@
       "joinDate": "2025-02-21T02:38:41.372Z",
       "completedMissions": [
         8,
-        6
+        6,
+        7
       ],
       "lastSpin": null
     },
