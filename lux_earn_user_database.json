@@ -16024,11 +16024,12 @@
       "inviter_referral_code": "MIFNY",
       "inviter_username": "Mick2324",
       "invited_users": [
-        "MusaAdam"
+        "MusaAdam",
+        "Kalamuisah"
       ],
       "balance": 440,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:56:24.450Z",
@@ -17288,6 +17289,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:16:00.352Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T07:16:09.721Z"
     },
     {
@@ -17306,6 +17308,21 @@
       "joinDate": "2025-02-21T07:16:02.489Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kalamuisah",
+      "email": "au86324@gmail.com",
+      "encrypted_password": "b3275960d68fda9d831facc0426c3bbc",
+      "referral_code": "KA3JM",
+      "inviter_referral_code": "ADVEN",
+      "inviter_username": "Adam usman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:16:27.460Z"
     }
   ],
   "withdrawals": [
