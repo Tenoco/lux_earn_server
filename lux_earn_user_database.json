@@ -23493,10 +23493,12 @@
       "referral_code": "VAGJR",
       "inviter_referral_code": "DA2CY",
       "inviter_username": "Davolee001",
-      "invited_users": [],
+      "invited_users": [
+        "Jessiewest"
+      ],
       "balance": 160,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:28:52.257Z",
@@ -32028,6 +32030,21 @@
       "joinDate": "2025-02-21T13:26:50.046Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jessiewest",
+      "email": "jessiewest342@gmail.com",
+      "encrypted_password": "ee6758418f91a8ba59fdb1e79ac33183",
+      "referral_code": "JE6AM",
+      "inviter_referral_code": "VAGJR",
+      "inviter_username": "VanDijk",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:27:50.700Z"
     }
   ],
   "withdrawals": [
