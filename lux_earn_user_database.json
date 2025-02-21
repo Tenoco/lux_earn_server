@@ -9323,7 +9323,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T02:41:07.598Z"
+      "joinDate": "2025-02-21T02:41:07.598Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "osenitoluwalase",
+      "email": "osenitoluwalase203@gmail.com",
+      "encrypted_password": "a609907628ca7c7585649d9306ffec3a",
+      "referral_code": "OSC7R",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:42:05.437Z"
     }
   ],
   "withdrawals": [
