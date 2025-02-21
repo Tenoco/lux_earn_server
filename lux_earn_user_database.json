@@ -4496,7 +4496,7 @@
       "invited_users": [
         "Midelove09153212011"
       ],
-      "balance": 240,
+      "balance": 270,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -4508,7 +4508,8 @@
         3,
         4,
         8,
-        7
+        7,
+        9
       ],
       "lastSpin": null
     },
@@ -15038,7 +15039,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:42:46.708Z"
+      "joinDate": "2025-02-21T06:42:46.708Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
