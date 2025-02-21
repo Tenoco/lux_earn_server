@@ -18317,10 +18317,12 @@
       "referral_code": "MUCFD",
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
-      "invited_users": [],
+      "invited_users": [
+        "39lionking"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:24:34.389Z",
@@ -25140,6 +25142,21 @@
       "joinDate": "2025-02-21T10:19:29.358Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "39lionking",
+      "email": "umarahmadpolchi@gmail.com",
+      "encrypted_password": "f8b0174a48cc612b17cef9e5b9e80aa6",
+      "referral_code": "39N3O",
+      "inviter_referral_code": "MUCFD",
+      "inviter_username": "Musazogi001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:19:50.321Z"
     }
   ],
   "withdrawals": [
