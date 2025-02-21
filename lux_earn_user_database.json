@@ -119,11 +119,12 @@
         "Automatic_man",
         "Peculiarity86 ",
         "Merrysmart",
-        "Wealth "
+        "Wealth ",
+        "Greziky "
       ],
       "balance": 50,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -17984,7 +17985,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:26:52.869Z"
+      "joinDate": "2025-02-21T07:26:52.869Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Greziky ",
+      "email": "Grezikydon@gmail.com",
+      "encrypted_password": "8b815e09012e48d97f148a13f9cf28a4",
+      "referral_code": "GR5J8",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:27:00.415Z"
     }
   ],
   "withdrawals": [
