@@ -14632,7 +14632,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:36:17.889Z"
+      "joinDate": "2025-02-21T06:36:17.889Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Stephen",
+      "email": "beautyhonest165@gmail.com",
+      "encrypted_password": "7cd3953df1ee1dc06f8ad15093e9f95a",
+      "referral_code": "STV66",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:36:21.383Z"
     }
   ],
   "withdrawals": [
