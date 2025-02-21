@@ -24147,13 +24147,15 @@
       "invited_users": [
         "Sharex"
       ],
-      "balance": 0,
+      "balance": 30,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:39:55.592Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -37562,7 +37564,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T17:40:33.288Z"
+      "joinDate": "2025-02-21T17:40:33.288Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
