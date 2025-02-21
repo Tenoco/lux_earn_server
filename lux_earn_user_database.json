@@ -26286,7 +26286,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Sir",
@@ -26590,6 +26591,21 @@
       "joinDate": "2025-02-21T10:49:13.576Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Salami",
+      "email": "salamiabdullahi15@gmail.com",
+      "encrypted_password": "8d5c6845fa51fd5998cc1b8bc9c41730",
+      "referral_code": "SA51Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:49:24.359Z"
     }
   ],
   "withdrawals": [
