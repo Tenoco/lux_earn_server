@@ -77,11 +77,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech"
+        "Tech",
+        "Kimbella"
       ],
       "balance": 3100,
-      "refers": 1,
-      "referralBalance": 0,
+      "refers": 2,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
@@ -36955,7 +36956,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:11:31.725Z"
+      "joinDate": "2025-02-21T19:11:31.725Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kimbella",
+      "email": "collinsifeanyi382@gmail.com",
+      "encrypted_password": "928160a027f9234456db8e3d6f64f20e",
+      "referral_code": "KI79R",
+      "inviter_referral_code": null,
+      "inviter_username": "Tenoco",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:12:43.589Z"
     }
   ],
   "withdrawals": [
