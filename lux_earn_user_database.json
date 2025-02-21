@@ -673,11 +673,12 @@
         "Kayode",
         "JuNifa",
         "Royaleprof",
-        "Sirdadaa"
+        "Sirdadaa",
+        "Harfizino "
       ],
       "balance": 112,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -14477,7 +14478,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
-      "lastSpin": "2025-02-21T06:33:47.741Z",
       "completedMissions": [
         2,
         5,
@@ -14489,7 +14489,8 @@
         6,
         8,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-21T06:33:47.741Z"
     },
     {
       "username": "Gaius velji ",
@@ -15051,6 +15052,21 @@
       "joinDate": "2025-02-21T06:42:46.708Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Harfizino ",
+      "email": "boluwatiferoluyo@gmail.com",
+      "encrypted_password": "49455ca6fae20c4f114d2064343f383d",
+      "referral_code": "HALQ4",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:43:41.202Z"
     }
   ],
   "withdrawals": [
