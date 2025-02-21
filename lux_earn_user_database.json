@@ -25345,11 +25345,12 @@
       "inviter_username": "Sungjinwoo123 ",
       "invited_users": [
         "Guy",
-        "Sweet"
+        "Sweet",
+        "Brag"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -28389,6 +28390,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:40:26.470Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T11:40:43.194Z"
     },
     {
@@ -28407,6 +28409,21 @@
       "joinDate": "2025-02-21T11:40:33.093Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Brag",
+      "email": "niwon59107@yalcu.com",
+      "encrypted_password": "0256b9cea63bc1f97b8c5aea92c24a98",
+      "referral_code": "BRYE0",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:41:11.215Z"
     }
   ],
   "withdrawals": [
