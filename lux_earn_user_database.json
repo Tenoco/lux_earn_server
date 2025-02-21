@@ -701,11 +701,12 @@
         "Sheujnr",
         "Sharonk ",
         "esty11",
-        "Nosarex0"
+        "Nosarex0",
+        "danky"
       ],
       "balance": 112,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -28717,6 +28718,21 @@
       "joinDate": "2025-02-21T11:48:00.525Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "danky",
+      "email": "danquahfavour9@gmail.com",
+      "encrypted_password": "d734ade610100edee52743b4e4a26d98",
+      "referral_code": "DAH2I",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:49:26.612Z"
     }
   ],
   "withdrawals": [
