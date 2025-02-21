@@ -13323,7 +13323,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:06:53.401Z"
+      "joinDate": "2025-02-21T06:06:53.401Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "leftty01",
+      "email": "Ogunlowolekan@gmail.com",
+      "encrypted_password": "479412a13e3fbdd5bff079c3b2b5d40b",
+      "referral_code": "LEAQE",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:07:44.028Z"
     }
   ],
   "withdrawals": [
