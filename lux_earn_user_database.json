@@ -5746,11 +5746,12 @@
         "Abdullahi3123",
         "Abdullahi3122",
         "And ",
-        "Hhvf"
+        "Hhvf",
+        "Hbvnb"
       ],
       "balance": 360,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:15.162Z",
@@ -17456,6 +17457,21 @@
       "joinDate": "2025-02-21T07:18:40.100Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hbvnb",
+      "email": "abdullahioladipo149@gmail.com",
+      "encrypted_password": "4582049405a2c9dd88ff1de19a566f31",
+      "referral_code": "HB0EQ",
+      "inviter_referral_code": "ABWC8",
+      "inviter_username": "Abdullahi3128",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:18:49.469Z"
     }
   ],
   "withdrawals": [
