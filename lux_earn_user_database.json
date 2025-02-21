@@ -109,11 +109,12 @@
         "Adexkilling ",
         "Mrbest",
         "Onaolapo",
-        "Mjsilent "
+        "Mjsilent ",
+        "Titanic "
       ],
       "balance": 50,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -12422,7 +12423,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:42:51.334Z"
+      "joinDate": "2025-02-21T05:42:51.334Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Titanic ",
+      "email": "ilevbareanthonia@gmail.com",
+      "encrypted_password": "6de54cc8c5070245d1003e136f311159",
+      "referral_code": "TILGT",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:49:00.314Z"
     }
   ],
   "withdrawals": [
