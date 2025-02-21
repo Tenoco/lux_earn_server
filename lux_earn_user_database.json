@@ -13192,7 +13192,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T06:06:16.453Z"
+      "joinDate": "2025-02-21T06:06:16.453Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rossy ",
+      "email": "fikayomiadewoye19@gmail.com",
+      "encrypted_password": "108dd94348d37f375b9c43cfe511e695",
+      "referral_code": "RO8EE",
+      "inviter_referral_code": "AD4SK ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:06:20.386Z"
     }
   ],
   "withdrawals": [
