@@ -138,11 +138,12 @@
         "Martha ",
         "Mimi4success",
         "Adekunlejh",
-        "sulaimanaminu12@"
+        "sulaimanaminu12@",
+        "Habexpro"
       ],
       "balance": 50,
-      "refers": 44,
-      "referralBalance": 4400,
+      "refers": 45,
+      "referralBalance": 4500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -35787,6 +35788,21 @@
       "joinDate": "2025-02-21T15:12:52.478Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Habexpro",
+      "email": "akinlotanhabeeb111@gmail.com",
+      "encrypted_password": "159cb114d0c85023568749c79034fd3a",
+      "referral_code": "HAJ97",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:14:34.467Z"
     }
   ],
   "withdrawals": [
