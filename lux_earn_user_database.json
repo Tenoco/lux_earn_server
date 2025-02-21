@@ -12676,7 +12676,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T05:55:50.791Z"
+      "joinDate": "2025-02-21T05:55:50.791Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Febian torbee ikyehegba ",
+      "email": "princefebian32@gmail.com",
+      "encrypted_password": "5146eac00a8a27a95464dd803a403111",
+      "referral_code": "FEHF3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:55:53.937Z"
     }
   ],
   "withdrawals": [
