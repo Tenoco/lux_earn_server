@@ -653,11 +653,12 @@
         "Starlet123",
         "Kayode",
         "JuNifa",
-        "Royaleprof"
+        "Royaleprof",
+        "Sirdadaa"
       ],
       "balance": 112,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -10562,6 +10563,21 @@
       "joinDate": "2025-02-21T04:23:53.013Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sirdadaa",
+      "email": "adeoludada22@gmail.com",
+      "encrypted_password": "811d7a749b0aef104a51378b47991d0f",
+      "referral_code": "SI2A5",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:24:09.245Z"
     }
   ],
   "withdrawals": [
