@@ -15857,11 +15857,12 @@
         "Folaky22",
         "Mimielaly25",
         "Danieljoy",
-        "Nuatin11"
+        "Nuatin11",
+        "Tanimowo2587"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:53:27.296Z",
@@ -17100,7 +17101,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:13:05.363Z"
+      "joinDate": "2025-02-21T07:13:05.363Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tanimowo2587",
+      "email": "tanimowosunepa@gmail.com",
+      "encrypted_password": "d9cff6be6311ef90d9a296f6e18510c0",
+      "referral_code": "TAX4R",
+      "inviter_referral_code": "SHHGR",
+      "inviter_username": "Sheyorz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:13:09.887Z"
     }
   ],
   "withdrawals": [
