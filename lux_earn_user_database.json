@@ -13061,11 +13061,12 @@
         "Funmzy",
         "Ericmore",
         "Mubarak",
-        "Seyi"
+        "Seyi",
+        "Blessing"
       ],
       "balance": 48,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -14930,6 +14931,21 @@
       "joinDate": "2025-02-21T06:41:00.642Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Blessing",
+      "email": "adesholamercy12@gmail.com",
+      "encrypted_password": "05adea89d26dfa58339b0c86f27ea606",
+      "referral_code": "BLXII",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:41:14.997Z"
     }
   ],
   "withdrawals": [
