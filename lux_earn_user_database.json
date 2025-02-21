@@ -849,11 +849,12 @@
         "Coachwisdom ",
         "Loverboy",
         "Micheally1234",
-        "Sasana"
+        "Sasana",
+        "Elizamio "
       ],
       "balance": 295,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -37203,7 +37204,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T19:37:01.130Z"
+      "joinDate": "2025-02-21T19:37:01.130Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elizamio ",
+      "email": "elizabethimolorhe51@gmail.com",
+      "encrypted_password": "c2c5180d894788f98f867cc8dce7c67d",
+      "referral_code": "ELRH9",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T19:37:36.029Z"
     }
   ],
   "withdrawals": [
