@@ -24488,7 +24488,8 @@
         2,
         3,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "bryanny",
@@ -24659,6 +24660,21 @@
       "joinDate": "2025-02-21T10:07:39.120Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Invictus ",
+      "email": "olusemooreolatilewa@gmail.com",
+      "encrypted_password": "b9b774007581d5d95b9eddc3fb573667",
+      "referral_code": "INNFZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:07:58.742Z"
     }
   ],
   "withdrawals": [
