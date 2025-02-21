@@ -15548,7 +15548,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 245,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15558,9 +15558,13 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        5,
+        9,
+        9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T08:57:29.360Z"
     },
     {
       "username": "Folake",
