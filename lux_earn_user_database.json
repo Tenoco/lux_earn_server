@@ -101,11 +101,12 @@
         "Giftedbest",
         "LAGACONCEPT ",
         "Cutevilex",
-        "Limzy"
+        "Limzy",
+        "chomsy84 "
       ],
       "balance": 50,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -7014,7 +7015,8 @@
       "joinDate": "2025-02-21T00:37:57.072Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Elisha ",
@@ -7066,6 +7068,21 @@
       "joinDate": "2025-02-21T00:39:12.002Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "chomsy84 ",
+      "email": "chydam19@gmail.com",
+      "encrypted_password": "1978752381a721fcc02c2fde174868fe",
+      "referral_code": "CHIWD",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:39:45.852Z"
     }
   ],
   "withdrawals": [
