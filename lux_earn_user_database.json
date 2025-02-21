@@ -37864,7 +37864,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Gooes",
@@ -37916,6 +37917,21 @@
       "joinDate": "2025-02-21T18:02:41.641Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T18:03:05.370Z"
+    },
+    {
+      "username": "Royalty124",
+      "email": "edafeemmanuel247@gmail.com",
+      "encrypted_password": "402fb8d3b19b29bea168f8ab446961cf",
+      "referral_code": "RO7J1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:04:04.807Z"
     }
   ],
   "withdrawals": [
