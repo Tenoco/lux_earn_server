@@ -1718,11 +1718,12 @@
         "Sirblack1338",
         "Kingaleey1",
         "Elisha ",
-        "SIRBLACKJR "
+        "SIRBLACKJR ",
+        "Babal112"
       ],
       "balance": 275,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:14:11.467Z",
@@ -8403,7 +8404,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:16:42.980Z"
+      "joinDate": "2025-02-21T01:16:42.980Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Babal112",
+      "email": "evaparadis15@gmail.com",
+      "encrypted_password": "61b8433d464f4c6d262069524c399594",
+      "referral_code": "BAFPO",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:17:09.606Z"
     }
   ],
   "withdrawals": [
