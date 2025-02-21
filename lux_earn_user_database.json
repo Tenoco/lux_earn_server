@@ -14574,7 +14574,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14583,9 +14583,14 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ]
     },
     {
       "username": "Aibeeyusufk",
@@ -16086,6 +16091,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:40.064Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T06:59:13.712Z"
     },
     {
