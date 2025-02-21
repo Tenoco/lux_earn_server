@@ -12077,10 +12077,12 @@
       "referral_code": "DEFLW",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Sonman"
+      ],
       "balance": 105,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:22:04.162Z",
@@ -37159,7 +37161,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T15:52:34.339Z"
+      "joinDate": "2025-02-21T15:52:34.339Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sonman",
+      "email": "ogbomaselekeoweiwisdom@gmail.com",
+      "encrypted_password": "c0a1fbc9a350a44ac85178a775fc2b1c",
+      "referral_code": "SON2K",
+      "inviter_referral_code": "DEFLW",
+      "inviter_username": "Destiny56",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:52:42.544Z"
     }
   ],
   "withdrawals": [
