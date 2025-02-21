@@ -79,7 +79,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 2000,
+      "balance": 1000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -37559,7 +37559,8 @@
         7,
         6,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kadok23",
@@ -37722,6 +37723,17 @@
       "amount": 1000,
       "totalBalance": 2000,
       "timestamp": "2025-02-21T17:16:22.636Z",
+      "status": "pending"
+    },
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "1000",
+      "accountNumber": "16662",
+      "bank": "GT Bank",
+      "amount": 1000,
+      "totalBalance": 2000,
+      "timestamp": "2025-02-21T17:44:08.803Z",
       "status": "pending"
     }
   ],
