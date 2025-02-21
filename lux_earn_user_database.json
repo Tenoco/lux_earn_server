@@ -25566,11 +25566,12 @@
         "Latif",
         "Sulaimon",
         "Sakiru",
-        "Fola"
+        "Fola",
+        "Muniru"
       ],
       "balance": 0,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -36622,6 +36623,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:35:49.737Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T15:36:17.903Z"
     },
     {
@@ -36640,6 +36642,21 @@
       "joinDate": "2025-02-21T15:35:57.233Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muniru",
+      "email": "bapix21316@yalcu.com",
+      "encrypted_password": "6f56592f224239951f85ba7ca7fef3dd",
+      "referral_code": "MUEMX",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:36:38.604Z"
     }
   ],
   "withdrawals": [
