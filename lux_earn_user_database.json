@@ -120,11 +120,12 @@
         "Peculiarity86 ",
         "Merrysmart",
         "Wealth ",
-        "Greziky "
+        "Greziky ",
+        "Mydey"
       ],
       "balance": 50,
-      "refers": 33,
-      "referralBalance": 3300,
+      "refers": 34,
+      "referralBalance": 3400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -18223,7 +18224,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdomchibuike ",
@@ -18500,6 +18502,21 @@
       "joinDate": "2025-02-21T07:35:15.403Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mydey",
+      "email": "olasupoolawunmi111@gmail.com",
+      "encrypted_password": "899d340fe66395dd0384c67c63dd7f06",
+      "referral_code": "MYGY4",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:35:42.650Z"
     }
   ],
   "withdrawals": [
