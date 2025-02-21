@@ -1121,11 +1121,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "Seungold123",
-        "Krischer101"
+        "Krischer101",
+        "Hannah"
       ],
       "balance": 215,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -20545,6 +20546,21 @@
       "joinDate": "2025-02-21T08:18:29.516Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hannah",
+      "email": "oladunnihannah63@gmail",
+      "encrypted_password": "87292888d514534be558560fd5f72d06",
+      "referral_code": "HA1MC",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:19:21.587Z"
     }
   ],
   "withdrawals": [
