@@ -35893,12 +35893,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T15:15:29.757Z",
-      "lastSpin": "2025-02-21T15:16:12.872Z",
       "completedMissions": [
         1,
         2,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-21T15:16:12.872Z"
     },
     {
       "username": "Sulaimanaminu12 ",
@@ -36091,6 +36091,21 @@
       "joinDate": "2025-02-21T15:21:02.697Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mzee07",
+      "email": "marvelstephen6@gmail.com",
+      "encrypted_password": "73622b7c0c0484f8354a9cc681179298",
+      "referral_code": "MZH3L",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:21:28.157Z"
     }
   ],
   "withdrawals": [
