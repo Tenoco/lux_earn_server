@@ -13773,11 +13773,12 @@
         "Kel225",
         "Faithful09",
         "Kindness45",
-        "Henry Joshua "
+        "Henry Joshua ",
+        "blessing "
       ],
       "balance": 220,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -21084,6 +21085,21 @@
       "joinDate": "2025-02-21T08:32:02.913Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "blessing ",
+      "email": "bleble56@gmail.com",
+      "encrypted_password": "e61e7de603852182385da5e907b4b232",
+      "referral_code": "BLXB1",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:33:22.920Z"
     }
   ],
   "withdrawals": [
