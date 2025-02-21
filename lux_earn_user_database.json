@@ -22363,14 +22363,18 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:07:12.692Z",
       "completedMissions": [
-        9
+        9,
+        8,
+        1,
+        2,
+        3
       ],
       "lastSpin": null
     },
@@ -22543,7 +22547,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:13:37.692Z"
+      "joinDate": "2025-02-21T09:13:37.692Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
