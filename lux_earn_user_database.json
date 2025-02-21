@@ -3501,11 +3501,12 @@
         "Stephanie",
         "Kelvin ",
         "Dë Dë Õffíçïãl ",
-        "Eze Kenneth "
+        "Eze Kenneth ",
+        "Ferdinand stephen"
       ],
       "balance": 265,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:32:01.989Z",
@@ -28471,6 +28472,21 @@
       "joinDate": "2025-02-21T11:42:25.985Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ferdinand stephen",
+      "email": "ferdinandstephen@gmail.com",
+      "encrypted_password": "1b3333ca4613ed649386dcadf02fa66b",
+      "referral_code": "FEVIW",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": "desmond01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:42:58.137Z"
     }
   ],
   "withdrawals": [
