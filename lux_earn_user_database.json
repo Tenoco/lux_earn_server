@@ -22526,7 +22526,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:13:28.898Z"
+      "joinDate": "2025-02-21T09:13:28.898Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajimoh",
+      "email": "nimotalahi79@gmail.com",
+      "encrypted_password": "4a35dce460a7e97e6763904620ae4806",
+      "referral_code": "AJ8X2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:13:37.692Z"
     }
   ],
   "withdrawals": [
