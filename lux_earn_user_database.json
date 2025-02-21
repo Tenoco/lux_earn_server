@@ -10233,7 +10233,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T03:59:17.324Z"
+      "joinDate": "2025-02-21T03:59:17.324Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "softstarz",
+      "email": "onyishiandrew@gmail.com",
+      "encrypted_password": "423ff8f254a281fe84562e8dee49fa25",
+      "referral_code": "SOLUY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:59:58.266Z"
     }
   ],
   "withdrawals": [
