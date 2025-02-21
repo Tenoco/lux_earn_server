@@ -25382,11 +25382,12 @@
         "Sweet",
         "Brag",
         "Mally",
-        "Debi"
+        "Debi",
+        "Zaddy"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:16:32.820Z",
@@ -29230,7 +29231,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:02:19.176Z"
+      "joinDate": "2025-02-21T12:02:19.176Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zaddy",
+      "email": "colixad801@yalcu.com",
+      "encrypted_password": "236304c2a3e505cb2460acccbaf2ddf4",
+      "referral_code": "ZAP09",
+      "inviter_referral_code": "QUD46",
+      "inviter_username": "Quadri ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:02:32.496Z"
     }
   ],
   "withdrawals": [
