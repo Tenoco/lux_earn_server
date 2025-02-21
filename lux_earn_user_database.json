@@ -15706,11 +15706,12 @@
         "Ojiabor",
         "Dominic001",
         "mikeystar009",
-        "Nmahope"
+        "Nmahope",
+        "H7890"
       ],
       "balance": 380,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:44:45.134Z",
@@ -33910,7 +33911,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:20:01.110Z"
+      "joinDate": "2025-02-21T14:20:01.110Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "H7890",
+      "email": "dsfff4414@gmail.com",
+      "encrypted_password": "44464d4e7961c7cbf0e6d83f00febd5b",
+      "referral_code": "H7EFQ",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:20:21.653Z"
     }
   ],
   "withdrawals": [
