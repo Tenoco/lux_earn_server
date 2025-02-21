@@ -30288,7 +30288,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T12:27:18.528Z"
+      "joinDate": "2025-02-21T12:27:18.528Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adamnazeer ",
+      "email": "nazeeradam254@gmail.com",
+      "encrypted_password": "edb56a249cfa4593bbe3c49af6ca0b28",
+      "referral_code": "AD6V8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:27:22.717Z"
     }
   ],
   "withdrawals": [
