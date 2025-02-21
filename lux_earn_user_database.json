@@ -33355,7 +33355,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:06:42.780Z"
+      "joinDate": "2025-02-21T14:06:42.780Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ahmad79",
+      "email": "babangidabangis003@gmail.com",
+      "encrypted_password": "1c2f7a92865704471a8882d87ca32d64",
+      "referral_code": "AH73Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:06:54.287Z"
     }
   ],
   "withdrawals": [
