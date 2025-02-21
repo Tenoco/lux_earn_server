@@ -16871,11 +16871,12 @@
         "Emmanuel okpe",
         "Abigail Innocent",
         "Adorable",
-        "Abdulhakim"
+        "Abdulhakim",
+        "Anita"
       ],
       "balance": 280,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:58:41.804Z",
@@ -37416,7 +37417,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:10:24.809Z"
+      "joinDate": "2025-02-21T16:10:24.809Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Anita",
+      "email": "anitasandi@gmail.com",
+      "encrypted_password": "7276716549662110b72a6ad8f8af2077",
+      "referral_code": "ANHU0",
+      "inviter_referral_code": "CLV1D",
+      "inviter_username": "Clinton",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:10:25.246Z"
     }
   ],
   "withdrawals": [
