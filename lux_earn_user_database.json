@@ -37700,11 +37700,12 @@
         "Joml",
         "Doomsda",
         "Jallk",
-        "Kalaoeo"
+        "Kalaoeo",
+        "Kaoalsk"
       ],
       "balance": 1,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:16:21.951Z",
@@ -38056,6 +38057,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T20:35:46.687Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-21T20:40:06.527Z"
     },
     {
@@ -38111,6 +38113,21 @@
         1
       ],
       "lastSpin": "2025-02-21T20:39:14.591Z"
+    },
+    {
+      "username": "Kaoalsk",
+      "email": "emekagoffrey@yahoo.com",
+      "encrypted_password": "9ff2325e2d4b4a47bc75271454c0e6bf",
+      "referral_code": "KAH8J",
+      "inviter_referral_code": "DOP7R",
+      "inviter_username": "Doomsday",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T20:40:32.737Z"
     }
   ],
   "withdrawals": [
