@@ -21229,10 +21229,12 @@
       "referral_code": "DECIC",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Wisdom024"
+      ],
       "balance": 18,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:27:18.893Z",
@@ -32136,6 +32138,21 @@
       "joinDate": "2025-02-21T13:30:45.525Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdom024",
+      "email": "igwesiwisdom09@gmail.com",
+      "encrypted_password": "66cc6c961c8daacafd03913f3c6fe5c7",
+      "referral_code": "WI0W3",
+      "inviter_referral_code": "DECIC",
+      "inviter_username": "Debby030",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:31:04.329Z"
     }
   ],
   "withdrawals": [
