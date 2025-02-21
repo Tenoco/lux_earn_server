@@ -28232,7 +28232,7 @@
       "inviter_referral_code": "FAUOQ",
       "inviter_username": "Fatty",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28240,7 +28240,8 @@
       "joinDate": "2025-02-21T11:35:29.738Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ]
     },
     {
