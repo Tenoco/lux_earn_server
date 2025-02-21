@@ -26380,7 +26380,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:44:24.095Z"
+      "joinDate": "2025-02-21T10:44:24.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Stephanie ",
+      "email": "stephaniechidera912@gmail.com",
+      "encrypted_password": "9c43edfa355efc9c645a817876e778f0",
+      "referral_code": "STTRK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:43:43.747Z"
     }
   ],
   "withdrawals": [
