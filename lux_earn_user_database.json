@@ -10853,11 +10853,12 @@
         "Ajibola",
         "Chulnafi2",
         "Wisco124",
-        "SomtyCee"
+        "SomtyCee",
+        "Femena"
       ],
       "balance": 50,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -37168,7 +37169,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T16:04:42.192Z"
+      "joinDate": "2025-02-21T16:04:42.192Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Femena",
+      "email": "lisaefemena6@gmail.com",
+      "encrypted_password": "b74bd3e0926688c2f446990ea106d2df",
+      "referral_code": "FE5BQ",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T16:05:29.705Z"
     }
   ],
   "withdrawals": [
