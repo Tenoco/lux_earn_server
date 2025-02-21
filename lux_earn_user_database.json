@@ -37495,11 +37495,12 @@
       "inviter_username": null,
       "invited_users": [
         "Xena",
-        "Ononye1"
+        "Ononye1",
+        "Greatwee"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T22:12:03.374Z",
@@ -38137,6 +38138,21 @@
       "joinDate": "2025-02-21T22:34:56.829Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Greatwee",
+      "email": "greatwee@gmail.com",
+      "encrypted_password": "5f651207a8709ee6de1fde2f042f08de",
+      "referral_code": "GRT60",
+      "inviter_referral_code": "VIAWW",
+      "inviter_username": "Vickye",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:36:29.293Z"
     }
   ],
   "withdrawals": [
