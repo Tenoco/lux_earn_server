@@ -10237,7 +10237,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 165,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10247,9 +10247,9 @@
         1,
         2,
         3,
-        4
-      ],
-      "lastSpin": null
+        4,
+        7
+      ]
     },
     {
       "username": "Haywhy",
@@ -10905,7 +10905,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:59:15.686Z"
+      "joinDate": "2025-02-21T04:59:15.686Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
