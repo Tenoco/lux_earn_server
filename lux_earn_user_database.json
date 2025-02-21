@@ -14731,7 +14731,8 @@
         1,
         2,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danielkafillu",
@@ -14860,13 +14861,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:39:46.275Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     },
     {
