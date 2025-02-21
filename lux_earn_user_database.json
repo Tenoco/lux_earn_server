@@ -32997,7 +32997,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 232,
+      "balance": 262,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33011,7 +33011,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-21T14:01:14.175Z"
     },
@@ -33318,7 +33319,8 @@
       "joinDate": "2025-02-21T14:05:32.547Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Akorede",
