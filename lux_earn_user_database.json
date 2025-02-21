@@ -11566,7 +11566,7 @@
       "invited_users": [
         "Mary.Moses"
       ],
-      "balance": 80,
+      "balance": 110,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -11575,7 +11575,8 @@
       "completedMissions": [
         2,
         1,
-        3
+        3,
+        4
       ],
       "lastSpin": null
     },
