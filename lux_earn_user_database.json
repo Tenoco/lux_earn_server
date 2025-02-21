@@ -22715,11 +22715,12 @@
         "Smanazceo",
         "Jerry30",
         "Lolashi",
-        "Latee"
+        "Latee",
+        "Score"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:03:12.980Z",
@@ -38003,6 +38004,21 @@
       "joinDate": "2025-02-21T18:07:57.613Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Score",
+      "email": "score461@gmail.com",
+      "encrypted_password": "d848f475e8b0202725f7878a088f98f9",
+      "referral_code": "SCRXI",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": "Jerry14",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T18:09:50.597Z"
     }
   ],
   "withdrawals": [
