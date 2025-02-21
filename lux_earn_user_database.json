@@ -14760,7 +14760,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 60,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14772,9 +14772,14 @@
         1,
         2,
         8,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7
+      ]
     },
     {
       "username": "Danielkafillu",
