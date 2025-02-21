@@ -5464,10 +5464,12 @@
       "referral_code": "RE2O0",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ogebabe"
+      ],
       "balance": 58,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:07:30.319Z",
@@ -6215,7 +6217,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T00:20:53.969Z"
+      "joinDate": "2025-02-21T00:20:53.969Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ogebabe",
+      "email": "ogechimicheal69@gmail.com",
+      "encrypted_password": "c1e0995a90fd981d97a6aa87e311ae4c",
+      "referral_code": "OGH9M",
+      "inviter_referral_code": "RE2O0",
+      "inviter_username": "realchimzy",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:21:02.505Z"
     }
   ],
   "withdrawals": [
