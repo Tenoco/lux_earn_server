@@ -103,11 +103,12 @@
         "Cutevilex",
         "Limzy",
         "chomsy84 ",
-        "Adexkilling "
+        "Adexkilling ",
+        "Mrbest"
       ],
       "balance": 50,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:33:57.712Z",
@@ -8610,7 +8611,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T01:26:13.454Z"
+      "joinDate": "2025-02-21T01:26:13.454Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mrbest",
+      "email": "peterbillions2025@gmail.com",
+      "encrypted_password": "45a9a3056e61e7d4b6021f43c7abd044",
+      "referral_code": "MR0KS",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:26:15.325Z"
     }
   ],
   "withdrawals": [
