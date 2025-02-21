@@ -22667,7 +22667,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 155,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22678,7 +22678,9 @@
         5,
         2,
         3,
-        4
+        4,
+        6,
+        7
       ],
       "lastSpin": "2025-02-21T09:27:33.633Z"
     },
@@ -25287,7 +25289,8 @@
       "joinDate": "2025-02-21T10:22:31.794Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Beautykween",
