@@ -22659,14 +22659,13 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:17:19.799Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-21T09:17:45.831Z"
     },
     {
       "username": "Davidyouhave1",
@@ -22681,7 +22680,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T09:17:43.361Z"
+      "joinDate": "2025-02-21T09:17:43.361Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
