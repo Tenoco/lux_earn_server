@@ -10479,7 +10479,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T04:17:05.946Z"
+      "joinDate": "2025-02-21T04:17:05.946Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faith2",
+      "email": "omisanyafaith2006@gmail.com",
+      "encrypted_password": "c8561cc79befa1ab6e1f4d003aeca154",
+      "referral_code": "FAOON",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T04:17:47.591Z"
     }
   ],
   "withdrawals": [
