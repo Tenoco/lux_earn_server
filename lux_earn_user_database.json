@@ -35300,7 +35300,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T14:56:25.515Z"
+      "joinDate": "2025-02-21T14:56:25.515Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sàm",
+      "email": "imessagebetting@gmail.com",
+      "encrypted_password": "56fafa8964024efa410773781a5f9e93",
+      "referral_code": "SÀN3J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:56:32.381Z"
     }
   ],
   "withdrawals": [
