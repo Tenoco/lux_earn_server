@@ -11988,10 +11988,12 @@
       "referral_code": "DAQN4",
       "inviter_referral_code": "LI4O7",
       "inviter_username": "Livvey",
-      "invited_users": [],
+      "invited_users": [
+        "Ølå mïdë "
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:22:44.509Z",
@@ -25485,7 +25487,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T10:28:01.154Z"
+      "joinDate": "2025-02-21T10:28:01.154Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ølå mïdë ",
+      "email": "o91645694@gmail.com",
+      "encrypted_password": "e231a571c085aab2e949ac7589e2331a",
+      "referral_code": "ØLQTF",
+      "inviter_referral_code": "DAQN4",
+      "inviter_username": "Daniel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:28:04.925Z"
     }
   ],
   "withdrawals": [
