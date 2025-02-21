@@ -24119,10 +24119,12 @@
       "referral_code": "BON0X",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Danishmoney"
+      ],
       "balance": 180,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:38:26.560Z",
@@ -37844,7 +37846,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Appoe",
@@ -38159,6 +38162,21 @@
       "joinDate": "2025-02-21T22:36:29.293Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danishmoney",
+      "email": "danielayanfeoluwa1@gmail.com",
+      "encrypted_password": "49a31a0336eda3710e64fd2ae0728850",
+      "referral_code": "DAT49",
+      "inviter_referral_code": "BON0X",
+      "inviter_username": "Boss50",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:40:37.574Z"
     }
   ],
   "withdrawals": [
