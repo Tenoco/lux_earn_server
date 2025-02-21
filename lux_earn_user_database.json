@@ -37508,7 +37508,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T22:14:29.975Z"
+      "joinDate": "2025-02-21T22:14:29.975Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mychiy103",
+      "email": "vineerondu@gmail.com",
+      "encrypted_password": "032e3701fa984b77a345e6c738b7f846",
+      "referral_code": "MYZ1T",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T22:14:37.633Z"
     }
   ],
   "withdrawals": [
