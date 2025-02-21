@@ -15416,11 +15416,12 @@
         "dsnny",
         "Cjuj",
         "Hkhju",
-        "Canubj"
+        "Canubj",
+        "Olatimi"
       ],
       "balance": 270,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:45:48.549Z",
@@ -17731,7 +17732,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-21T07:21:53.570Z"
+      "joinDate": "2025-02-21T07:21:53.570Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olatimi",
+      "email": "olalusibosedetemitope@gmail.com",
+      "encrypted_password": "deb48fbdb7e3b649551ce3396da688a8",
+      "referral_code": "OLHMH",
+      "inviter_referral_code": "RUDYD",
+      "inviter_username": "Ruth641",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:21:59.608Z"
     }
   ],
   "withdrawals": [
