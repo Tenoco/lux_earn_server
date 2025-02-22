@@ -15036,7 +15036,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billionsking",
@@ -15200,6 +15201,21 @@
       "joinDate": "2025-02-22T21:53:06.093Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Innocent12",
+      "email": "aturuchiinnocent909@gmail.com",
+      "encrypted_password": "035c38b95750ab68cc7544f3f821e7f1",
+      "referral_code": "INQY3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:54:34.810Z"
     }
   ],
   "withdrawals": [
