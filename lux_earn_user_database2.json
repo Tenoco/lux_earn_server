@@ -1968,7 +1968,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:27:59.994Z",
-      "lastSpin": "2025-02-22T09:30:10.776Z",
       "completedMissions": [
         1,
         2,
@@ -1980,7 +1979,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:30:10.776Z"
     },
     {
       "username": "Mannyrichie ",
@@ -2015,6 +2015,21 @@
       "joinDate": "2025-02-22T09:33:47.195Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Prosper",
+      "email": "prosperangelo17@gmail.com",
+      "encrypted_password": "f3d05e3245546446222ba098dcc4dc10",
+      "referral_code": "PRSLP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:35:56.502Z"
     }
   ],
   "withdrawals": [],
