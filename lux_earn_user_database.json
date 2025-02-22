@@ -37722,11 +37722,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
       "invited_users": [
-        "Realme"
+        "Realme",
+        "Basman "
       ],
       "balance": 80,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -38464,6 +38465,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Basman ",
+      "email": "afunlehinoluwafemi@gmail.com",
+      "encrypted_password": "a8698009bce6d1b8c2128eddefc25aad",
+      "referral_code": "BA6WL",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:06:02.248Z"
     }
   ],
   "withdrawals": [
