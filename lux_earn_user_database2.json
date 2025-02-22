@@ -6411,11 +6411,12 @@
         "Hsbsige",
         "Hdbsihejb1",
         "Bsubsjge2",
-        "Bsudbsjs1"
+        "Bsudbsjs1",
+        "Hsndundi"
       ],
       "balance": 90,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -7508,7 +7509,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:55:14.610Z"
+      "joinDate": "2025-02-22T15:55:14.610Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hsndundi",
+      "email": "heoshskei@gmail.com",
+      "encrypted_password": "da888285de2e3e4dc3da2323d5dcd7f2",
+      "referral_code": "HSQGC",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:55:20.156Z"
     }
   ],
   "withdrawals": [],
