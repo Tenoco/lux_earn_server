@@ -38640,7 +38640,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:28:04.854Z",
-      "lastSpin": "2025-02-22T14:29:16.447Z",
       "completedMissions": [
         2,
         1,
@@ -38651,7 +38650,8 @@
         8,
         7,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T14:29:16.447Z"
     }
   ],
   "withdrawals": [
