@@ -3306,7 +3306,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:24:59.413Z"
+      "joinDate": "2025-02-22T11:24:59.413Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Brobdingnagian ",
+      "email": "omobolajiade97@gmail.com",
+      "encrypted_password": "b6fc3fe3ed792f89cc2c9d9474609c42",
+      "referral_code": "BRQXP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:32:15.496Z"
     }
   ],
   "withdrawals": [],
