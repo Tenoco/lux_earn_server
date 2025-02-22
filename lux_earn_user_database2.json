@@ -1443,7 +1443,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:39:18.927Z"
+      "joinDate": "2025-02-22T08:39:18.927Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "virusghoul",
+      "email": "ifeyusuf000@gmail.com",
+      "encrypted_password": "1bbd886460827015e5d605ed44252251",
+      "referral_code": "VIM6M",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:40:40.927Z"
     }
   ],
   "withdrawals": [],
