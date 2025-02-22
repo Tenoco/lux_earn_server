@@ -1687,14 +1687,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0,
+      "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:59:00.371Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T09:03:43.513Z"
     },
     {
       "username": "Chukle001 ",
