@@ -2662,6 +2662,21 @@
       "joinDate": "2025-02-22T10:44:51.150Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samuelly",
+      "email": "samuel@gmail.com",
+      "encrypted_password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "referral_code": "SA8PR",
+      "inviter_referral_code": "JO38K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:46:00.450Z"
     }
   ],
   "withdrawals": [],
