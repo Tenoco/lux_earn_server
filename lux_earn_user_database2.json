@@ -14609,7 +14609,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
-      "lastSpin": "2025-02-22T21:13:45.111Z",
       "completedMissions": [
         1,
         2,
@@ -14618,7 +14617,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-22T21:13:45.111Z"
     },
     {
       "username": "Hsjdjdndjjr",
@@ -14712,6 +14712,21 @@
       "joinDate": "2025-02-22T21:26:46.947Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T21:27:19.526Z"
+    },
+    {
+      "username": "Dan inna2006",
+      "email": "aleeyum2006@gmail.com",
+      "encrypted_password": "0ab44bd43d6b18fcd5cd928d6faab1b8",
+      "referral_code": "DADO4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:28:10.768Z"
     }
   ],
   "withdrawals": [
