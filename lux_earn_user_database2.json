@@ -9491,6 +9491,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Bad boy euro",
+      "email": "badboyeuro1@gmail.com",
+      "encrypted_password": "a639d227ef19ab601f69028dcdccc456",
+      "referral_code": "BA5Y8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:41:05.577Z"
     }
   ],
   "withdrawals": [
