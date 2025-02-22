@@ -5889,7 +5889,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:58:33.120Z"
+      "joinDate": "2025-02-22T13:58:33.120Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Crimson",
+      "email": "theolaw001@gmail.com",
+      "encrypted_password": "01cb0970d11187611403fa55146e7184",
+      "referral_code": "CRGCG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:58:59.282Z"
     }
   ],
   "withdrawals": [],
