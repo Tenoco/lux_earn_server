@@ -15580,7 +15580,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:21:01.367Z"
+      "joinDate": "2025-02-22T22:21:01.367Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Christian imole ",
+      "email": "imole4311@gmail.com",
+      "encrypted_password": "c04c1f95b87aa331f3e8b676ed2da12b",
+      "referral_code": "CH3I7",
+      "inviter_referral_code": "CAKTG",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:21:45.983Z"
     }
   ],
   "withdrawals": [
