@@ -3204,14 +3204,13 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1010,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T11:28:07.479Z"
     },
     {
       "username": "BÍGG VAS",
@@ -3260,7 +3259,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:28:04.005Z"
+      "joinDate": "2025-02-22T11:28:04.005Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
