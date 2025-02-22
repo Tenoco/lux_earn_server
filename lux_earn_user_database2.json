@@ -6246,7 +6246,7 @@
       "inviter_referral_code": "Su4b5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 131,
+      "balance": 151,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6261,7 +6261,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-22T14:41:24.143Z"
     },
@@ -6431,7 +6432,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:45:12.057Z"
+      "joinDate": "2025-02-22T14:45:12.057Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
