@@ -14339,13 +14339,15 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:56:38.714Z",
-      "completedMissions": [],
+      "completedMissions": [
+        6
+      ],
       "lastSpin": "2025-02-22T20:58:04.883Z"
     },
     {
