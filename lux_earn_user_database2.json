@@ -3625,7 +3625,8 @@
         8,
         7,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oybbf",
@@ -3728,6 +3729,21 @@
       "joinDate": "2025-02-22T11:51:17.355Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sunjaysin",
+      "email": "Sunnyjwysinta@gmail.com",
+      "encrypted_password": "503ba647999bd6726f3e139186ed9f0c",
+      "referral_code": "SUJMR",
+      "inviter_referral_code": "KAOPG",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:51:50.314Z"
     }
   ],
   "withdrawals": [],
