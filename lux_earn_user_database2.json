@@ -5414,7 +5414,8 @@
         7,
         6,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marvis blizz ",
@@ -5424,14 +5425,17 @@
       "inviter_referral_code": "OMJ7I",
       "inviter_username": "Omoruyif461 ",
       "invited_users": [],
-      "balance": 18,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:10:52.992Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T13:12:20.421Z"
+      "lastSpin": "2025-02-22T13:12:20.421Z",
+      "completedMissions": [
+        2,
+        1
+      ]
     }
   ],
   "withdrawals": [],
