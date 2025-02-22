@@ -1930,13 +1930,15 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1022,
+      "balance": 1032,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:25:05.933Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T09:25:26.720Z"
     },
     {
@@ -1952,7 +1954,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:27:59.994Z"
+      "joinDate": "2025-02-22T09:27:59.994Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
