@@ -13,7 +13,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:37:23.029Z"
+      "joinDate": "2025-02-22T06:37:23.029Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hhwhw",
+      "email": "hey@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "HHMY9",
+      "inviter_referral_code": "FI41B",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:47:19.838Z"
     }
   ],
   "withdrawals": [],
