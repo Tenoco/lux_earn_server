@@ -5985,14 +5985,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:03:52.335Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T14:07:25.154Z"
     },
     {
       "username": "Ise23321",
@@ -6041,7 +6041,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:07:01.147Z"
+      "joinDate": "2025-02-22T14:07:01.147Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
