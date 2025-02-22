@@ -1493,7 +1493,7 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1065,
+      "balance": 1075,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1502,7 +1502,8 @@
       "completedMissions": [
         5,
         4,
-        1
+        1,
+        6
       ],
       "lastSpin": "2025-02-22T08:44:55.787Z"
     },
