@@ -2720,11 +2720,12 @@
         "Izzypluto24 ",
         "Oluwabukola256",
         "Genizzy",
-        "Layish"
+        "Layish",
+        "Tesseyde12"
       ],
       "balance": 1000,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3227,6 +3228,21 @@
       "joinDate": "2025-02-22T11:24:26.616Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tesseyde12",
+      "email": "hammedibukunodunayo2022@gmail.com",
+      "encrypted_password": "e8f6712146e452ad57ae21378fa04dcd",
+      "referral_code": "TEP9T",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:27:19.186Z"
     }
   ],
   "withdrawals": [],
