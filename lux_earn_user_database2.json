@@ -842,6 +842,21 @@
         2
       ],
       "lastSpin": "2025-02-22T07:41:48.856Z"
+    },
+    {
+      "username": "ib123",
+      "email": "Ibrhimback@gmail.com",
+      "encrypted_password": "e3ee3d3cd13e0cfa05dd9da049fb72f3",
+      "referral_code": "IB6PI",
+      "inviter_referral_code": "IBX2K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:44:48.301Z"
     }
   ],
   "withdrawals": [],
