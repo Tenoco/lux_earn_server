@@ -4728,7 +4728,7 @@
       "inviter_referral_code": "BRQXP",
       "inviter_username": "Brobdingnagian ",
       "invited_users": [],
-      "balance": 60,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4739,7 +4739,11 @@
         1,
         1,
         1,
-        4
+        4,
+        8,
+        8,
+        8,
+        8
       ],
       "lastSpin": null
     },
@@ -5062,7 +5066,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:59:11.976Z"
+      "joinDate": "2025-02-22T12:59:11.976Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
