@@ -5305,6 +5305,21 @@
       "joinDate": "2025-02-22T13:03:36.668Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Femena",
+      "email": "lisaefemena6@gmail.com",
+      "encrypted_password": "b74bd3e0926688c2f446990ea106d2df",
+      "referral_code": "FEB1G",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:04:15.553Z"
     }
   ],
   "withdrawals": [],
