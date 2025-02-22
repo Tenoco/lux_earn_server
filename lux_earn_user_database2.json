@@ -11111,11 +11111,12 @@
         "OLOPA",
         "Ode",
         "Lol",
-        "Idan"
+        "Idan",
+        "Yuslovemighty "
       ],
       "balance": 320,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:18:30.077Z",
@@ -11280,6 +11281,21 @@
       "joinDate": "2025-02-22T18:57:40.090Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yuslovemighty ",
+      "email": "babalolayusuffaremu@gmail.com",
+      "encrypted_password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "referral_code": "YUAFX",
+      "inviter_referral_code": "HA2YX",
+      "inviter_username": "Haywhy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:58:43.023Z"
     }
   ],
   "withdrawals": [
