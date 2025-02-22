@@ -3964,7 +3964,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:01:55.847Z"
+      "joinDate": "2025-02-22T12:01:55.847Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Unstoppable",
+      "email": "tairobin37@gmail.com",
+      "encrypted_password": "3735a0a396899b8527a8db51a45bae7a",
+      "referral_code": "UNEYA",
+      "inviter_referral_code": "PRJ21",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:02:05.016Z"
     }
   ],
   "withdrawals": [],
