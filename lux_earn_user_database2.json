@@ -13523,11 +13523,12 @@
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
       "invited_users": [
-        "Testimony "
+        "Testimony ",
+        "Biskld"
       ],
       "balance": 225,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -14858,7 +14859,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:36:00.795Z"
+      "joinDate": "2025-02-22T21:36:00.795Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Biskld",
+      "email": "cehine6780@wrenden.com",
+      "encrypted_password": "a99104afb549916fbbf64fb4b1ea6930",
+      "referral_code": "BIHTN",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:36:31.454Z"
     }
   ],
   "withdrawals": [
