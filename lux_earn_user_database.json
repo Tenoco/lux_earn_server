@@ -37174,7 +37174,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:32:57.284Z"
+      "joinDate": "2025-02-22T00:32:57.284Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kate",
+      "email": "isaacilechie@gmail.com",
+      "encrypted_password": "d7a84628c025d30f7b2c52c958767e76",
+      "referral_code": "KAYO0",
+      "inviter_referral_code": "Isom47",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:33:27.870Z"
     }
   ],
   "withdrawals": [
