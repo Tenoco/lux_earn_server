@@ -8833,16 +8833,16 @@
       "inviter_referral_code": "HO189",
       "inviter_username": "Holar",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:56:09.801Z",
       "completedMissions": [
-        12
-      ],
-      "lastSpin": null
+        12,
+        11
+      ]
     },
     {
       "username": "Eloghosa",
