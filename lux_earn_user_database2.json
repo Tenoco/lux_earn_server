@@ -3289,7 +3289,7 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1130,
+      "balance": 1150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3304,7 +3304,9 @@
         14,
         13,
         2,
-        2
+        2,
+        6,
+        6
       ],
       "lastSpin": "2025-02-22T11:28:07.479Z"
     },
