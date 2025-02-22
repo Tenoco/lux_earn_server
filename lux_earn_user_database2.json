@@ -2735,11 +2735,12 @@
         "Genizzy",
         "Layish",
         "Tesseyde12",
-        "Tesseyde11"
+        "Tesseyde11",
+        "FortyEight048"
       ],
       "balance": 1000,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3486,7 +3487,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
-      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
         1,
         2,
@@ -3495,7 +3495,8 @@
         7,
         6,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:38:10.345Z"
     },
     {
       "username": "Ade",
@@ -3581,6 +3582,21 @@
       "joinDate": "2025-02-22T11:45:33.451Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "FortyEight048",
+      "email": "damzach45@gmail.com",
+      "encrypted_password": "42ddd9c7d7f4bc3f9825538ae3d10d8d",
+      "referral_code": "FOVLA",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:46:06.100Z"
     }
   ],
   "withdrawals": [],
