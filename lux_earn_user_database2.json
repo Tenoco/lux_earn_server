@@ -15884,7 +15884,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:02:50.265Z"
+      "joinDate": "2025-02-22T23:02:50.265Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "starrider",
+      "email": "onyebuchiemmanuel587@gmail.com",
+      "encrypted_password": "86addbaf6714a69165781e1b26e37ca9",
+      "referral_code": "STBD9",
+      "inviter_referral_code": "j",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:03:09.848Z"
     }
   ],
   "withdrawals": [
