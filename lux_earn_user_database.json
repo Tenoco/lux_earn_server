@@ -1933,11 +1933,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious"
+        "Precious",
+        "@future"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -38500,6 +38501,21 @@
       "joinDate": "2025-02-22T05:07:33.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "@future",
+      "email": "olaleremmanuel@gmail.com",
+      "encrypted_password": "4cf92ec8d72965514450efa22c4563a6",
+      "referral_code": "@FPBF",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:12:13.221Z"
     }
   ],
   "withdrawals": [
