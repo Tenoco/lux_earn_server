@@ -5629,7 +5629,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5639,7 +5639,13 @@
         1,
         2,
         4,
-        5
+        5,
+        6,
+        10,
+        10,
+        10,
+        9,
+        9
       ],
       "lastSpin": null
     },
