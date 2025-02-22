@@ -13257,7 +13257,8 @@
         10,
         8,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haruna44",
@@ -13432,6 +13433,21 @@
       "joinDate": "2025-02-22T20:18:24.072Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Charles",
+      "email": "charlesobasi169@gmail.com",
+      "encrypted_password": "b2fc56085525da7f5901453d6aa98589",
+      "referral_code": "CHB5I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:20:19.927Z"
     }
   ],
   "withdrawals": [
