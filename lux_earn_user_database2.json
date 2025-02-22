@@ -6165,7 +6165,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Grace",
@@ -6200,6 +6201,21 @@
       "joinDate": "2025-02-22T14:28:46.507Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jude",
+      "email": "jude@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "JUGYP",
+      "inviter_referral_code": "TEQZ9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:24:24.163Z"
     }
   ],
   "withdrawals": [],
