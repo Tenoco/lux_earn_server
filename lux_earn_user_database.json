@@ -38545,12 +38545,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:36:51.583Z"
+      "joinDate": "2025-02-22T11:36:51.583Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
