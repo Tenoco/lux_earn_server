@@ -2148,7 +2148,7 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1030,
+      "balance": 1050,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2156,9 +2156,9 @@
       "joinDate": "2025-02-22T09:46:43.436Z",
       "completedMissions": [
         1,
-        4
-      ],
-      "lastSpin": null
+        4,
+        8
+      ]
     },
     {
       "username": "Pinkyponky",
