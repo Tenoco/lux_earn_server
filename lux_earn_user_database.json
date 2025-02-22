@@ -37279,7 +37279,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:43:58.481Z"
+      "joinDate": "2025-02-22T00:43:58.481Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Denco7 ",
+      "email": "adamsderek730@gmail.com",
+      "encrypted_password": "6cdbe1e638dd503cdf11f963dc283835",
+      "referral_code": "DE3BO",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:44:34.989Z"
     }
   ],
   "withdrawals": [
