@@ -1246,11 +1246,12 @@
         "cryptomannia",
         "Blacklord55",
         "The jester002",
-        "Ayo2006"
+        "Ayo2006",
+        "Domex_47"
       ],
       "balance": 315,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -38399,7 +38400,8 @@
         5,
         4,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pinkyponky",
@@ -38434,6 +38436,21 @@
       "joinDate": "2025-02-22T05:01:03.713Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Domex_47",
+      "email": "domexossai@gmail.com",
+      "encrypted_password": "736a9b041274f542e1a7ddc7918df1d5",
+      "referral_code": "DOIFC",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:01:39.184Z"
     }
   ],
   "withdrawals": [
