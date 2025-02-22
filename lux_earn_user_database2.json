@@ -12464,7 +12464,55 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:46:25.294Z"
+      "joinDate": "2025-02-22T19:46:25.294Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "JamesCharles",
+      "email": "igodstime693@gmail.com",
+      "encrypted_password": "2b40aaa979727c43411c305540bbed50",
+      "referral_code": "JA9WU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Rokibat",
+        "Chizzy001xyz",
+        "Sam1204",
+        "pearlslim12",
+        "Mideruqouya",
+        "Pearl",
+        "Tommy",
+        "Mustyzai",
+        "folorunshosg",
+        "TeeVibez",
+        "Christian1m0",
+        "Sugar96",
+        "Isreal ",
+        "Monday11",
+        "Syren ",
+        "PeterPan",
+        "Ijeomanwokocha"
+      ],
+      "balance": 291,
+      "refers": 17,
+      "referralBalance": 1700,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:36:17.889Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "lastSpin": "2025-02-22T12:43:01.588Z"
     }
   ],
   "withdrawals": [
