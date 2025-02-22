@@ -2785,11 +2785,12 @@
         "FortyEight048",
         "Kikebabe22",
         "Jonaholuji1",
-        "Oladeji123"
+        "Oladeji123",
+        "Don Berry "
       ],
       "balance": 1030,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -8449,6 +8450,21 @@
       "joinDate": "2025-02-22T16:38:45.010Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Don Berry ",
+      "email": "donberry400@gmail.com",
+      "encrypted_password": "e2a771a4f009b836818c2aa31b844994",
+      "referral_code": "DO8DR",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:39:21.623Z"
     }
   ],
   "withdrawals": [
