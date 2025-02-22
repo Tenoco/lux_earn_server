@@ -8435,13 +8435,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 45,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:28:04.686Z",
-      "completedMissions": [],
+      "completedMissions": [
+        6
+      ],
       "lastSpin": "2025-02-22T16:39:33.206Z"
     },
     {
