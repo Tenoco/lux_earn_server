@@ -1676,7 +1676,23 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Hiikay",
+      "email": "ikechukwublessing079@gmail.com",
+      "encrypted_password": "e14a472bb16663ea5458ad8caf931287",
+      "referral_code": "HI37S",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:59:00.371Z"
     }
   ],
   "withdrawals": [],
