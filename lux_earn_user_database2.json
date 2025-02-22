@@ -3604,11 +3604,12 @@
         "Inioluwa ",
         "Briggydivi ",
         "BELYKGHOST",
-        "Gift02"
+        "Gift02",
+        "DestinyNjoku"
       ],
       "balance": 1096,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -6282,6 +6283,21 @@
       "joinDate": "2025-02-22T14:33:44.694Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "DestinyNjoku",
+      "email": "Destinytacha@gmail.com",
+      "encrypted_password": "87abed840a4dfc5216268be8d62be836",
+      "referral_code": "DEYEX",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:34:49.287Z"
     }
   ],
   "withdrawals": [],
