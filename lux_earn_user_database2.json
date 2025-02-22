@@ -77,10 +77,12 @@
       "referral_code": "@KE6Z",
       "inviter_referral_code": "INX8P",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "@Ukmoney"
+      ],
       "balance": 310,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:36.770Z",
@@ -224,7 +226,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:57:30.725Z"
+      "joinDate": "2025-02-22T06:57:30.725Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "@Ukmoney",
+      "email": "ugonaboifeanyi@gmail.com",
+      "encrypted_password": "584878ad199af38ae8f8ceb08a7fd938",
+      "referral_code": "@UXTR",
+      "inviter_referral_code": "@KE6Z",
+      "inviter_username": "@krispi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:58:50.436Z"
     }
   ],
   "withdrawals": [],
