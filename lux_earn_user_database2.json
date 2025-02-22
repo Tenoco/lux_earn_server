@@ -13509,12 +13509,11 @@
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
       "invited_users": [
-        "Testimony ",
-        "Tobechi24"
+        "Testimony "
       ],
-      "balance": 145,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 205,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -13526,7 +13525,10 @@
         6,
         7,
         8,
-        9
+        9,
+        13,
+        12,
+        11
       ],
       "lastSpin": "2025-02-22T21:01:36.051Z"
     },
@@ -14514,7 +14516,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:11:15.372Z"
+      "joinDate": "2025-02-22T21:11:15.372Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
