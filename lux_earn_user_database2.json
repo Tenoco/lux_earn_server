@@ -14260,7 +14260,7 @@
       "inviter_referral_code": "HETAN",
       "inviter_username": "Henry111",
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14277,9 +14277,9 @@
         8,
         9,
         10,
-        11
-      ],
-      "lastSpin": null
+        11,
+        12
+      ]
     },
     {
       "username": "Mirabel",
@@ -14425,10 +14425,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:06:01.025Z",
-      "lastSpin": "2025-02-22T21:06:30.530Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T21:06:30.530Z"
     },
     {
       "username": "Kezie313",
