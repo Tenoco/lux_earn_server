@@ -13269,7 +13269,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haruna44",
@@ -13478,6 +13479,26 @@
       "joinDate": "2025-02-22T20:20:36.262Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Successful5",
+      "email": "egospel08@gmail.com",
+      "encrypted_password": "3ce252c5107839e06ac8dde6964fe314",
+      "referral_code": "SUUI9",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 45,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:27:00.899Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-22T03:29:17.372Z"
     }
   ],
   "withdrawals": [
