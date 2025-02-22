@@ -1627,7 +1627,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:54:21.205Z"
+      "joinDate": "2025-02-22T08:54:21.205Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tammy247",
+      "email": "tamcoder052@gmail.com",
+      "encrypted_password": "57ab7b37f9d25ad54a9542a47fe6dcd5",
+      "referral_code": "TAJ81",
+      "inviter_referral_code": "OLFCG",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:55:03.864Z"
     }
   ],
   "withdrawals": [],
