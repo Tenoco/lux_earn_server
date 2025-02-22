@@ -433,11 +433,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:14:24.711Z",
-      "lastSpin": "2025-02-22T07:14:37.516Z",
       "completedMissions": [
         6,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:14:37.516Z"
     },
     {
       "username": "Emmaorji ",
@@ -493,6 +493,21 @@
       "joinDate": "2025-02-22T07:19:48.916Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Natex",
+      "email": "peluminathaniel731@gmail.com",
+      "encrypted_password": "289594ac63162153bbdc61f9505ae994",
+      "referral_code": "NAX4H",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:20:26.346Z"
     }
   ],
   "withdrawals": [],
