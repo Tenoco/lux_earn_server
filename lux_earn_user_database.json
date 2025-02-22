@@ -37821,14 +37821,16 @@
       "inviter_referral_code": "FMKRW",
       "inviter_username": "fmdollar",
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T02:14:54.295Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T02:15:31.041Z"
+      "lastSpin": "2025-02-22T02:15:31.041Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "oluwarotimi",
