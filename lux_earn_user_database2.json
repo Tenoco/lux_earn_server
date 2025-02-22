@@ -11101,10 +11101,12 @@
       "referral_code": "GE3HR",
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Identity "
+      ],
       "balance": 241,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:48:03.295Z",
@@ -12247,7 +12249,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:38:07.225Z"
+      "joinDate": "2025-02-22T19:38:07.225Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Identity ",
+      "email": "udousoroi02@gmail.com",
+      "encrypted_password": "adff08d50b87bff811a989cada1de8a3",
+      "referral_code": "IDIHM",
+      "inviter_referral_code": "GE3HR",
+      "inviter_username": "Gennymk",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:38:22.972Z"
     }
   ],
   "withdrawals": [
