@@ -37333,7 +37333,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:50:23.688Z"
+      "joinDate": "2025-02-22T00:50:23.688Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tunnies",
+      "email": "adebayomotunrayo101@gmail.com",
+      "encrypted_password": "b2e6468fe7884c09855095043ce03487",
+      "referral_code": "TU2PY",
+      "inviter_referral_code": "https://t.me/update024/203",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:51:04.902Z"
     }
   ],
   "withdrawals": [
