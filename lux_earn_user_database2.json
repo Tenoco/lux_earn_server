@@ -4250,10 +4250,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:15:38.881Z",
-      "lastSpin": "2025-02-22T12:16:06.844Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T12:16:06.844Z"
     },
     {
       "username": "Olamide1248",
@@ -4316,6 +4316,21 @@
       "joinDate": "2025-02-22T12:17:46.913Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tintini ",
+      "email": "abdulqudustintini001@gmail.com",
+      "encrypted_password": "c7782de0c687cf484c6c043ddff03653",
+      "referral_code": "TIME4",
+      "inviter_referral_code": "ADIVS",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:18:33.943Z"
     }
   ],
   "withdrawals": [],
