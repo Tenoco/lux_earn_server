@@ -37186,13 +37186,16 @@
       "inviter_referral_code": "Isom47",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
-      "lastSpin": "2025-02-22T00:34:40.028Z"
+      "lastSpin": "2025-02-22T00:34:40.028Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
