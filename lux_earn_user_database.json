@@ -38539,19 +38539,21 @@
       "inviter_referral_code": "  JE7LQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 132,
+      "balance": 192,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:51:35.046Z",
+      "lastSpin": "2025-02-22T10:53:36.088Z",
       "completedMissions": [
         1,
         1,
         2,
-        3
-      ],
-      "lastSpin": "2025-02-22T10:53:36.088Z"
+        3,
+        4,
+        5
+      ]
     },
     {
       "username": "Leo063",
@@ -38567,6 +38569,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:57:08.929Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T10:59:54.523Z"
     }
   ],
