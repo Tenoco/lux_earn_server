@@ -7379,7 +7379,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:48:20.809Z"
+      "joinDate": "2025-02-22T15:48:20.809Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "loverboy",
+      "email": "josehploverboy4@gmail.com",
+      "encrypted_password": "32876c686a70e17d70e2a09605f49c9d",
+      "referral_code": "LOP5B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:48:30.630Z"
     }
   ],
   "withdrawals": [],
