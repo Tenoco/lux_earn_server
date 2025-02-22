@@ -15850,7 +15850,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:01:00.809Z"
+      "joinDate": "2025-02-22T23:01:00.809Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Destiny ",
+      "email": "destinyaduleye84@gmail.com",
+      "encrypted_password": "f8a30ec8ad42de9942fd0b53fe0068fc",
+      "referral_code": "DEYZG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:01:32.997Z"
     }
   ],
   "withdrawals": [
