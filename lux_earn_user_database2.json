@@ -2713,11 +2713,12 @@
       "inviter_username": null,
       "invited_users": [
         "Izzypluto24 ",
-        "Oluwabukola256"
+        "Oluwabukola256",
+        "Genizzy"
       ],
       "balance": 1000,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3112,6 +3113,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Genizzy",
+      "email": "israeladepoju2021@gmail.com",
+      "encrypted_password": "295534e65f2b4dea1004ffe526a28421",
+      "referral_code": "GEAQ7",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:14:27.916Z"
     }
   ],
   "withdrawals": [],
