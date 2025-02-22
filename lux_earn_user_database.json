@@ -37585,7 +37585,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:14:42.080Z"
+      "joinDate": "2025-02-22T01:14:42.080Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abraham ",
+      "email": "abraham34@gmail.com",
+      "encrypted_password": "e8ddca391252ca589e0d226f81c6a68c",
+      "referral_code": "ABPJ9",
+      "inviter_referral_code": "LA7RS ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:15:04.944Z"
     }
   ],
   "withdrawals": [
