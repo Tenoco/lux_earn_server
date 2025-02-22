@@ -1255,7 +1255,8 @@
         8,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Clintlossy ",
@@ -1290,6 +1291,21 @@
       "joinDate": "2025-02-22T08:23:07.711Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "AyomideTV ",
+      "email": "funnyay01@gmail.com",
+      "encrypted_password": "f32264fc2789e8e4bfff4ec0615d8e89",
+      "referral_code": "AYNAA",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:24:35.539Z"
     }
   ],
   "withdrawals": [],
