@@ -2790,11 +2790,12 @@
         "Kikebabe22",
         "Jonaholuji1",
         "Oladeji123",
-        "Don Berry "
+        "Don Berry ",
+        "Rofiat morenike"
       ],
       "balance": 1030,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -9075,6 +9076,21 @@
         8
       ],
       "lastSpin": "2025-02-22T17:07:51.752Z"
+    },
+    {
+      "username": "Rofiat morenike",
+      "email": "rofiatmorenike11@gmail.com",
+      "encrypted_password": "f96657a87fd2def51a24ee579e584e8f",
+      "referral_code": "ROOB5",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:11:41.162Z"
     }
   ],
   "withdrawals": [
