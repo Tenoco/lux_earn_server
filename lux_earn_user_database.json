@@ -42,11 +42,12 @@
         "Shilrobiu ",
         "GodsonDivine1",
         "Olexprezzy1",
-        "Osasbillons111"
+        "Osasbillons111",
+        "Lilafavour"
       ],
       "balance": 5503,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38303,6 +38304,21 @@
       "joinDate": "2025-02-22T04:35:30.651Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lilafavour",
+      "email": "lilafavour800@gmail.com",
+      "encrypted_password": "2d397335099eadf351d17d540757f211",
+      "referral_code": "LIR3V",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:42:34.275Z"
     }
   ],
   "withdrawals": [
