@@ -7247,10 +7247,12 @@
       "referral_code": "JEJ0P",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "benjaminblessing032@gmail.com"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:33:45.235Z",
@@ -8974,7 +8976,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:02:31.198Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T17:03:39.483Z"
+    },
+    {
+      "username": "benjaminblessing032@gmail.com",
+      "email": "benjaminblessing032@gmail.com",
+      "encrypted_password": "0e1267dac56e7207900524996934b2e4",
+      "referral_code": "BEG6F",
+      "inviter_referral_code": "JEJ0P",
+      "inviter_username": "Jennie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:04:27.256Z"
     }
   ],
   "withdrawals": [
