@@ -6085,11 +6085,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ayomi",
-        "praise33"
+        "praise33",
+        "Ifeoluwa T"
       ],
       "balance": 138,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -6324,12 +6325,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:17.378Z",
-      "lastSpin": "2025-02-22T14:38:06.498Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T14:38:06.498Z"
     },
     {
       "username": "praise33",
@@ -6347,6 +6348,21 @@
       "joinDate": "2025-02-22T14:37:41.926Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ifeoluwa T",
+      "email": "ajayiifeoluwa2407@gmail.com",
+      "encrypted_password": "9fd2699e102f0bb427b5ceecc7965727",
+      "referral_code": "IFTXV",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:40:44.938Z"
     }
   ],
   "withdrawals": [],
