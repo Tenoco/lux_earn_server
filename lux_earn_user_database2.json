@@ -5449,11 +5449,12 @@
         "Ayomide",
         "Ayob",
         "Susan",
-        "Susann"
+        "Susann",
+        "Lolap"
       ],
       "balance": 140,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:09:32.304Z",
@@ -7619,7 +7620,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:06:02.794Z"
+      "joinDate": "2025-02-22T16:06:02.794Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lolap",
+      "email": "abialaaomide170@gmail.com",
+      "encrypted_password": "074fd28eff0f5adea071694061739e55",
+      "referral_code": "LOW0A",
+      "inviter_referral_code": "SESUD",
+      "inviter_username": "Seerty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:07:35.861Z"
     }
   ],
   "withdrawals": [],
