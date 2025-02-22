@@ -9788,10 +9788,12 @@
       "referral_code": "NDQ75",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "David Samuel "
+      ],
       "balance": 390,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:58:31.022Z",
@@ -10358,6 +10360,21 @@
       "joinDate": "2025-02-22T18:24:52.073Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "David Samuel ",
+      "email": "chukwunyeresamuel1@gmail.com",
+      "encrypted_password": "e4eb674678784cc2f34cdf0dd76a9d57",
+      "referral_code": "DAA7I",
+      "inviter_referral_code": "NDQ75",
+      "inviter_username": "Ndubest.042",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:26:03.028Z"
     }
   ],
   "withdrawals": [
