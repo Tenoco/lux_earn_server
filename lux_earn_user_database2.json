@@ -4817,7 +4817,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4826,9 +4826,9 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "C boy ",
