@@ -8247,7 +8247,7 @@
       "inviter_referral_code": "Kiil",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 345,
+      "balance": 365,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8263,7 +8263,8 @@
         4,
         5,
         10,
-        12
+        12,
+        13
       ],
       "lastSpin": "2025-02-22T16:28:48.710Z"
     },
@@ -15325,7 +15326,8 @@
       "joinDate": "2025-02-22T22:03:57.004Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abubakar123",
