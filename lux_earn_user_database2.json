@@ -1395,10 +1395,10 @@
       "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:35:36.903Z",
-      "lastSpin": "2025-02-22T08:36:28.926Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T08:36:28.926Z"
     },
     {
       "username": "Ahmad",
@@ -1467,6 +1467,21 @@
       "joinDate": "2025-02-22T08:40:40.927Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eniola",
+      "email": "ogidaneniolaayoola@gmail.com",
+      "encrypted_password": "1e9bc1402d59e9ab631c761b1d151ebb",
+      "referral_code": "EN3YR",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:44:07.940Z"
     }
   ],
   "withdrawals": [],
