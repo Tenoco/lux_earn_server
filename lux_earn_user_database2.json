@@ -11076,7 +11076,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haywhy",
@@ -11179,6 +11180,21 @@
       "joinDate": "2025-02-22T19:54:04.340Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "evansnice123",
+      "email": "e0085508@gmail.com",
+      "encrypted_password": "3dc60fffb2a6c7d76e149fd14c294370",
+      "referral_code": "EVNYT",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:54:47.759Z"
     }
   ],
   "withdrawals": [
