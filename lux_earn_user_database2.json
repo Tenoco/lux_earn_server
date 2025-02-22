@@ -1262,7 +1262,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:23:03.985Z"
+      "joinDate": "2025-02-22T08:23:03.985Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ahmadlawal113",
+      "email": "dadlbaban985@gmail.com",
+      "encrypted_password": "fab6e06fe525dd22e7e96589a57fb947",
+      "referral_code": "AHF7A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:23:07.711Z"
     }
   ],
   "withdrawals": [],
