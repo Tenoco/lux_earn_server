@@ -37689,10 +37689,12 @@
       "referral_code": "FMKRW",
       "inviter_referral_code": "KIIO1",
       "inviter_username": "kingrroggis",
-      "invited_users": [],
+      "invited_users": [
+        "Realme"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -37806,7 +37808,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:13:56.013Z"
+      "joinDate": "2025-02-22T02:13:56.013Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Realme",
+      "email": "afunlehinbasit09@gmail.com",
+      "encrypted_password": "396f7965b46d360121761c3ae10f9ff3",
+      "referral_code": "REC1G",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:14:54.295Z"
     }
   ],
   "withdrawals": [
