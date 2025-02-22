@@ -7024,14 +7024,14 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:20:37.672Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T15:21:51.659Z"
     },
     {
       "username": "Temitope23",
@@ -7046,7 +7046,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:21:46.490Z"
+      "joinDate": "2025-02-22T15:21:46.490Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
