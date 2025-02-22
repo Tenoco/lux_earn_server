@@ -250,7 +250,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -365,6 +366,21 @@
       "joinDate": "2025-02-22T07:09:13.933Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dehmmy",
+      "email": "albertprecious14102006@gmail.com",
+      "encrypted_password": "aa1bb1625b1f3b69217944e49330b1ce",
+      "referral_code": "DEX8R",
+      "inviter_referral_code": "ZE0YR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:12:47.267Z"
     }
   ],
   "withdrawals": [],
