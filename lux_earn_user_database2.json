@@ -993,7 +993,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pablo ",
@@ -1119,6 +1120,21 @@
       "joinDate": "2025-02-22T07:57:59.256Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Marvelous112",
+      "email": "chikemarvelous62@gmail.com",
+      "encrypted_password": "55382b563fe2bf7987bc7d2bd31bc627",
+      "referral_code": "MAUTN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:58:33.806Z"
     }
   ],
   "withdrawals": [],
