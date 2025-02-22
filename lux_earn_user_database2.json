@@ -2717,11 +2717,12 @@
       "invited_users": [
         "Izzypluto24 ",
         "Oluwabukola256",
-        "Genizzy"
+        "Genizzy",
+        "Layish"
       ],
       "balance": 1000,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3150,6 +3151,21 @@
       "joinDate": "2025-02-22T11:14:44.785Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Layish",
+      "email": "hammedayomide1501@gmail.com",
+      "encrypted_password": "0fe6b6147b9fe1a44df58c26e14d1324",
+      "referral_code": "LAUMY",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:21:08.138Z"
     }
   ],
   "withdrawals": [],
