@@ -3204,7 +3204,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:23:38.888Z"
+      "joinDate": "2025-02-22T11:23:38.888Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "BÍGG VAS",
+      "email": "victorawe636@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "BÍORJ",
+      "inviter_referral_code": "BE30N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:24:26.616Z"
     }
   ],
   "withdrawals": [],
