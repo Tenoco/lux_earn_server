@@ -5447,11 +5447,12 @@
       "invited_users": [
         "Haily",
         "Ayomide",
-        "Ayob"
+        "Ayob",
+        "Susan"
       ],
       "balance": 140,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:09:32.304Z",
@@ -7473,7 +7474,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:52:34.065Z"
+      "joinDate": "2025-02-22T15:52:34.065Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Susan",
+      "email": "ialaayomide170@gmail.com",
+      "encrypted_password": "1bbd886460827015e5d605ed44252251",
+      "referral_code": "SUOJ2",
+      "inviter_referral_code": "SESUD",
+      "inviter_username": "Seerty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:52:47.426Z"
     }
   ],
   "withdrawals": [],
