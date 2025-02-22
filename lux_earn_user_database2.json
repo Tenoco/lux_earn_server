@@ -15628,10 +15628,12 @@
       "referral_code": "AYQ3E",
       "inviter_referral_code": "CAKTG",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayo1"
+      ],
       "balance": 265,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:26:43.816Z",
@@ -15700,6 +15702,21 @@
       "joinDate": "2025-02-22T22:30:30.526Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayo1",
+      "email": "olatunjioluranti9@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "AY6VP",
+      "inviter_referral_code": "AYQ3E",
+      "inviter_username": "Ayo33 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:38:25.250Z"
     }
   ],
   "withdrawals": [
