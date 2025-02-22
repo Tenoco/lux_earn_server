@@ -1924,7 +1924,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:23:58.772Z",
-      "lastSpin": "2025-02-22T09:29:54.496Z",
       "completedMissions": [
         1,
         2,
@@ -1934,7 +1933,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:29:54.496Z"
     },
     {
       "username": "BigJohn ",
@@ -2133,6 +2133,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Matthew",
+      "email": "investorlawrence09@gmail.com",
+      "encrypted_password": "dbc4d84bfcfe2284ba11beffb853a8c4",
+      "referral_code": "MAQXF",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:46:43.436Z"
     }
   ],
   "withdrawals": [],
