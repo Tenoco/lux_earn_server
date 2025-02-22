@@ -13553,11 +13553,12 @@
         "Goku",
         "Shakou ",
         "Chief shakou ",
-        "Gohan "
+        "Gohan ",
+        "Health"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -38553,6 +38554,21 @@
       "joinDate": "2025-02-22T05:35:54.940Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Health",
+      "email": "gotent004@gmail.com",
+      "encrypted_password": "c74aa0dbb1c30996f2b94f8bd2e39f6c",
+      "referral_code": "HEVA0",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:36:20.617Z"
     }
   ],
   "withdrawals": [
