@@ -38127,13 +38127,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:36:24.496Z",
-      "lastSpin": "2025-02-22T03:38:35.393Z"
+      "lastSpin": "2025-02-22T03:38:35.393Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
