@@ -38343,17 +38343,18 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 38,
+      "balance": 58,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:47:33.568Z",
+      "lastSpin": "2025-02-22T04:48:05.912Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": "2025-02-22T04:48:05.912Z"
+        2,
+        4
+      ]
     },
     {
       "username": "Lopezcat1",
@@ -38368,7 +38369,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T04:54:01.863Z"
+      "joinDate": "2025-02-22T04:54:01.863Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
