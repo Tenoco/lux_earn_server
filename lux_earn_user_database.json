@@ -38532,7 +38532,7 @@
       "inviter_referral_code": "LIETS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1040,
+      "balance": 1060,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38541,9 +38541,9 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Fish",
