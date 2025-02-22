@@ -38528,7 +38528,7 @@
       "inviter_referral_code": "LIETS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1040,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38536,9 +38536,9 @@
       "joinDate": "2025-02-22T06:32:07.270Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Fish",
@@ -38554,6 +38554,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:33:55.499Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T06:34:47.470Z"
     }
   ],
