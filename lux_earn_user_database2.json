@@ -3827,14 +3827,15 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:56:45.021Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
