@@ -7715,11 +7715,12 @@
         "Fatiti",
         "Hiudu",
         "Lawwesa",
-        "Kaltume"
+        "Kaltume",
+        "Goggo"
       ],
       "balance": 88,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -14366,6 +14367,21 @@
       "joinDate": "2025-02-22T20:59:05.523Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goggo",
+      "email": "goggo@gmail.com",
+      "encrypted_password": "4428c6c474502e61151877825bb41961",
+      "referral_code": "GOHJG",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:59:58.734Z"
     }
   ],
   "withdrawals": [
