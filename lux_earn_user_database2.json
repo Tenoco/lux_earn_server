@@ -11706,7 +11706,7 @@
       "inviter_referral_code": "QURTI",
       "inviter_username": "Quadriano ",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11717,7 +11717,8 @@
         2,
         13,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": null
     },
@@ -12005,7 +12006,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:23:04.596Z"
+      "joinDate": "2025-02-22T19:23:04.596Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
