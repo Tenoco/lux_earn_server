@@ -6394,11 +6394,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "T.might1",
-        "Temitope23"
+        "Temitope23",
+        "Dowland19"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -7067,6 +7068,21 @@
       "joinDate": "2025-02-22T15:22:24.427Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dowland19",
+      "email": "ajayipraisetemitope@gmail.com",
+      "encrypted_password": "a8698009bce6d1b8c2128eddefc25aad",
+      "referral_code": "DOR2S",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:23:23.871Z"
     }
   ],
   "withdrawals": [],
