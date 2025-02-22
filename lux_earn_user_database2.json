@@ -5977,10 +5977,12 @@
       "referral_code": "SHORD",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "CUTECEO"
+      ],
       "balance": 10,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:02:10.566Z",
@@ -6191,14 +6193,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:20:06.018Z",
-      "lastSpin": "2025-02-22T14:21:32.900Z",
       "completedMissions": [
         1,
         1,
         4,
         4,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-22T14:21:32.900Z"
     },
     {
       "username": "abdulsalam ",
@@ -6306,6 +6308,21 @@
       "joinDate": "2025-02-22T14:34:49.287Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "CUTECEO",
+      "email": "omidiji397@gmail.com",
+      "encrypted_password": "d3934762142478ec6ff8498a5ffe389b",
+      "referral_code": "CUFIC",
+      "inviter_referral_code": "SHORD",
+      "inviter_username": "Shittu27 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:37:17.378Z"
     }
   ],
   "withdrawals": [],
