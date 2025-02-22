@@ -685,14 +685,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:31:07.752Z",
-      "lastSpin": "2025-02-22T07:31:32.640Z",
       "completedMissions": [
         1,
         2,
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:31:32.640Z"
     },
     {
       "username": "Bobo1 ",
@@ -727,6 +727,21 @@
       "joinDate": "2025-02-22T07:34:05.350Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tommy225",
+      "email": "Aadenike236@gmail.com",
+      "encrypted_password": "aaf002f73166b5d67b29dffd65596642",
+      "referral_code": "TOH74",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:36:15.562Z"
     }
   ],
   "withdrawals": [],
