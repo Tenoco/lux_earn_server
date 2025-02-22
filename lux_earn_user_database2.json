@@ -398,7 +398,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:14:08.036Z"
+      "joinDate": "2025-02-22T07:14:08.036Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dannydice1",
+      "email": "sharonjane780@gmail.com",
+      "encrypted_password": "56dcfe0133ec1a97694b0da7a39a545d",
+      "referral_code": "DACTF",
+      "inviter_referral_code": "VIDQ2",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:14:16.743Z"
     }
   ],
   "withdrawals": [],
