@@ -37527,7 +37527,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:06:10.576Z"
+      "joinDate": "2025-02-22T01:06:10.576Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "GraceUfedo ",
+      "email": "felixgrace898@gmail.com",
+      "encrypted_password": "bcb3504fe64327c551393240f8fa1041",
+      "referral_code": "GRVBL",
+      "inviter_referral_code": "CHJWK ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:06:31.892Z"
     }
   ],
   "withdrawals": [
