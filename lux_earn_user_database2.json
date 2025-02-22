@@ -2377,18 +2377,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1052,
+      "balance": 1067,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:10:47.062Z",
+      "lastSpin": "2025-02-22T10:11:07.597Z",
       "completedMissions": [
         1,
         4,
-        12
-      ],
-      "lastSpin": "2025-02-22T10:11:07.597Z"
+        12,
+        11
+      ]
     },
     {
       "username": "Yusuff",
@@ -2437,7 +2438,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:19:20.189Z"
+      "joinDate": "2025-02-22T10:19:20.189Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
