@@ -15110,7 +15110,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15120,9 +15120,9 @@
         2,
         5,
         4,
-        1
-      ],
-      "lastSpin": null
+        1,
+        9
+      ]
     },
     {
       "username": "Shadow",
@@ -15338,7 +15338,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:04:04.260Z"
+      "joinDate": "2025-02-22T22:04:04.260Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
