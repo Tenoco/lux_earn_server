@@ -9840,14 +9840,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 25,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:05:40.039Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T18:06:11.730Z"
+      "lastSpin": "2025-02-22T18:06:11.730Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Saviour",
@@ -9879,7 +9881,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:07:35.701Z"
+      "joinDate": "2025-02-22T18:07:35.701Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
