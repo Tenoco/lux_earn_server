@@ -475,7 +475,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Afolabivib",
@@ -510,6 +511,21 @@
       "joinDate": "2025-02-22T07:20:26.346Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kimbella",
+      "email": "collinsifeanyi382@gmail.com",
+      "encrypted_password": "85af89ea580fd814078bd0881f276b0b",
+      "referral_code": "KI3NK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:20:55.453Z"
     }
   ],
   "withdrawals": [],
