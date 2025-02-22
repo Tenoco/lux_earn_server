@@ -5672,7 +5672,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:34:16.159Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T13:34:56.356Z"
+    },
+    {
+      "username": "Abdullahi5",
+      "email": "abdullahibukar3010@gmail.com",
+      "encrypted_password": "3a664bebf76908d936081aac438202d4",
+      "referral_code": "ABES0",
+      "inviter_referral_code": "https://luxearn0.netlify.app",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:35:28.444Z"
     }
   ],
   "withdrawals": [],
