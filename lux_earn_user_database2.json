@@ -11194,7 +11194,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:54:47.759Z"
+      "joinDate": "2025-02-22T18:54:47.759Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Valentine1p",
+      "email": "valentineezeani208@gmail.com",
+      "encrypted_password": "c6dd686616d37819fa59889e001e3b0d",
+      "referral_code": "VAXO2",
+      "inviter_referral_code": "KII01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:54:54.903Z"
     }
   ],
   "withdrawals": [
