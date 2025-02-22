@@ -8424,14 +8424,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:28:04.686Z",
       "completedMissions": [],
-      "lastSpin": "2025-02-21T06:28:42.948Z"
+      "lastSpin": "2025-02-22T16:39:33.206Z"
     },
     {
       "username": "Waddiyya",
@@ -8446,7 +8446,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:38:45.010Z"
+      "joinDate": "2025-02-22T16:38:45.010Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
