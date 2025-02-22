@@ -39,11 +39,12 @@
         "OMOBATVMEDIA",
         "Elvis",
         "Dorathy4",
-        "Shilrobiu "
+        "Shilrobiu ",
+        "GodsonDivine1"
       ],
       "balance": 5503,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38049,7 +38050,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:07:14.824Z"
+      "joinDate": "2025-02-22T03:07:14.824Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "GodsonDivine1",
+      "email": "divinefavour08102506441@gmail.com",
+      "encrypted_password": "0dea4730120d767cbb937ca28a0b31eb",
+      "referral_code": "GODCQ",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:23:22.420Z"
     }
   ],
   "withdrawals": [
