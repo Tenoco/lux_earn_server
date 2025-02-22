@@ -9154,7 +9154,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:15:45.370Z"
+      "joinDate": "2025-02-22T17:15:45.370Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "folakemi ",
+      "email": "olatundelukman2022@gmail.com",
+      "encrypted_password": "71f55003c9a36b40c4a094908f11fb77",
+      "referral_code": "FOCTH",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:18:33.401Z"
     }
   ],
   "withdrawals": [
