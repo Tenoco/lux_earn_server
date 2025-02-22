@@ -33,11 +33,12 @@
         "Toripee",
         "Munachi",
         "Drone",
-        "Shemzy"
+        "Shemzy",
+        "Uzor"
       ],
       "balance": 5503,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37551,6 +37552,21 @@
       "joinDate": "2025-02-22T01:06:31.892Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uzor",
+      "email": "uzornwafor1@gmail.com",
+      "encrypted_password": "214a7c50d7e8b7415e47d107d025f038",
+      "referral_code": "UZFGP",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:09:12.443Z"
     }
   ],
   "withdrawals": [
