@@ -13193,11 +13193,12 @@
       "invited_users": [
         "Ogbaji ",
         "Noah",
-        "Sams9n"
+        "Sams9n",
+        "Moore"
       ],
       "balance": 105,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:56:00.322Z",
@@ -38014,7 +38015,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:03:53.820Z"
+      "joinDate": "2025-02-22T03:03:53.820Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Moore",
+      "email": "ayerrmeenanah@gmail.com",
+      "encrypted_password": "2b456e4dabda85bcca5dd9c62f836032",
+      "referral_code": "MOIHW",
+      "inviter_referral_code": "JAKOC",
+      "inviter_username": "Jameson",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:06:36.355Z"
     }
   ],
   "withdrawals": [
