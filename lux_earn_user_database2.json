@@ -13324,10 +13324,12 @@
       "referral_code": "JIZUB",
       "inviter_referral_code": "NIMRV",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Gifts"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -13644,6 +13646,21 @@
       "joinDate": "2025-02-22T20:29:57.299Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gifts",
+      "email": "jijangbissala566@gmail.com",
+      "encrypted_password": "2e7f6cc09431e1348e2a0ed015b422ef",
+      "referral_code": "GIDJC",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:30:44.809Z"
     }
   ],
   "withdrawals": [
