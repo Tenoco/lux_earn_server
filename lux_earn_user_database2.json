@@ -9569,7 +9569,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:45:26.246Z"
+      "joinDate": "2025-02-22T17:45:26.246Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sofia",
+      "email": "ganiyusalawat408@gmail.com",
+      "encrypted_password": "5571e0132c9a7f0595359fc0f392d8b3",
+      "referral_code": "SO8CX",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 268,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:30:48.306Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        7,
+        8,
+        6,
+        4,
+        3,
+        5
+      ],
+      "lastSpin": "2025-02-21T12:42:17.293Z"
     }
   ],
   "withdrawals": [
