@@ -10451,13 +10451,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:24:52.073Z",
-      "completedMissions": [],
+      "completedMissions": [
+        13
+      ],
       "lastSpin": "2025-02-22T18:28:20.809Z"
     },
     {
@@ -13478,7 +13480,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Charles",
