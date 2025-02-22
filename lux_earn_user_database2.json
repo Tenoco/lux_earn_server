@@ -6397,13 +6397,15 @@
         "Temitope23",
         "Dowland19"
       ],
-      "balance": 0,
+      "balance": 10,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
