@@ -624,14 +624,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:27:35.368Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-22T07:30:15.037Z"
     },
     {
       "username": "Paciotto",
@@ -681,6 +684,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:31:07.752Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T07:31:32.640Z"
     }
   ],
