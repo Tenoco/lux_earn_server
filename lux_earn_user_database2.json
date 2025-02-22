@@ -3829,10 +3829,12 @@
       "referral_code": "BRNM8",
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
-      "invited_users": [],
+      "invited_users": [
+        "Evebaby"
+      ],
       "balance": 101,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:52:19.985Z",
@@ -6613,7 +6615,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:56:08.974Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T14:56:24.556Z"
+    },
+    {
+      "username": "Evebaby",
+      "email": "evelynatayine@gmail.com",
+      "encrypted_password": "136c32a049874f004b6b2cdd7e061c3d",
+      "referral_code": "EVXM6",
+      "inviter_referral_code": "BRNM8",
+      "inviter_username": "Briggydivi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:56:45.522Z"
     }
   ],
   "withdrawals": [],
