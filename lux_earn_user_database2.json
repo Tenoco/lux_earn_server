@@ -4748,7 +4748,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:43:24.747Z"
+      "joinDate": "2025-02-22T12:43:24.747Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ola miss ",
+      "email": "Brechlinasmith58@yahoo.cim",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "OLA7S",
+      "inviter_referral_code": "RAJDK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:43:51.101Z"
     }
   ],
   "withdrawals": [],
