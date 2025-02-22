@@ -15489,19 +15489,20 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 68,
+      "balance": 78,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:12:07.047Z",
+      "lastSpin": "2025-02-22T22:15:14.071Z",
       "completedMissions": [
         1,
         2,
         4,
-        5
-      ],
-      "lastSpin": "2025-02-22T22:15:14.071Z"
+        5,
+        6
+      ]
     },
     {
       "username": "Hdhdjdjdur30",
@@ -15550,7 +15551,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:18:32.136Z"
+      "joinDate": "2025-02-22T22:18:32.136Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
