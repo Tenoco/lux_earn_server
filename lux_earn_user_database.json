@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Soviet"
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38497,7 +38498,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Soviet",
+      "email": "sobiechstone@gmail.com",
+      "encrypted_password": "98d8e7e3788e3a474e0405f9f556a1d7",
+      "referral_code": "SO8W4",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:21:57.390Z"
     }
   ],
   "withdrawals": [
