@@ -3452,16 +3452,17 @@
       "inviter_referral_code": "CH43H",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
+      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-22T11:38:10.345Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Ade",
