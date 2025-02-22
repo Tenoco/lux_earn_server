@@ -3400,7 +3400,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samfx",
@@ -3491,6 +3492,21 @@
       "joinDate": "2025-02-22T11:40:35.366Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bayonets",
+      "email": "meshachadebayo001@gmail.com",
+      "encrypted_password": "0a65bfab6a3673c2d62e8c022374b68a",
+      "referral_code": "BAL4N",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:42:15.570Z"
     }
   ],
   "withdrawals": [],
