@@ -9553,7 +9553,23 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Amina RABIU Abdullahi ",
+      "email": "amirabiuabdullahi@gmail.com",
+      "encrypted_password": "29f54383242f19908b2745db634eb3e3",
+      "referral_code": "AMQS3",
+      "inviter_referral_code": "WAJ09",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:45:26.246Z"
     }
   ],
   "withdrawals": [
