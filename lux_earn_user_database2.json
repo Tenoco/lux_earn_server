@@ -6083,7 +6083,7 @@
       "invited_users": [
         "Ayomi"
       ],
-      "balance": 98,
+      "balance": 118,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -6094,7 +6094,8 @@
         2,
         4,
         8,
-        9
+        9,
+        10
       ],
       "lastSpin": "2025-02-22T14:11:13.577Z"
     },
@@ -6185,10 +6186,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:20:06.018Z",
-      "lastSpin": "2025-02-22T14:21:32.900Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T14:21:32.900Z"
     },
     {
       "username": "abdulsalam ",
