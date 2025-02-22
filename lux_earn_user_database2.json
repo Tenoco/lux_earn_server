@@ -15015,7 +15015,7 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [],
-      "balance": 220,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15034,9 +15034,9 @@
         10,
         10,
         10,
-        11
-      ],
-      "lastSpin": null
+        11,
+        12
+      ]
     },
     {
       "username": "Billionsking",
@@ -15197,7 +15197,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:53:06.093Z"
+      "joinDate": "2025-02-22T21:53:06.093Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
