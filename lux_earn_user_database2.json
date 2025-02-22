@@ -6400,11 +6400,12 @@
       "invited_users": [
         "T.might1",
         "Temitope23",
-        "Dowland19"
+        "Dowland19",
+        "Hsbsige"
       ],
       "balance": 90,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -7273,6 +7274,21 @@
       "joinDate": "2025-02-22T15:43:02.826Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hsbsige",
+      "email": "ksheiehekdhd@gmail.com",
+      "encrypted_password": "508df4cb2f4d8f80519256258cfb975f",
+      "referral_code": "HSJM4",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:43:55.780Z"
     }
   ],
   "withdrawals": [],
