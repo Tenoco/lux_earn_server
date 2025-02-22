@@ -11822,7 +11822,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Maggielove",
@@ -11849,14 +11850,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:17:07.465Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T19:18:44.287Z"
+      "lastSpin": "2025-02-22T19:18:44.287Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Jbaboug",
