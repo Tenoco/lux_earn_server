@@ -38518,7 +38518,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1040,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38526,9 +38526,9 @@
       "joinDate": "2025-02-22T06:21:57.390Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        5
+      ]
     },
     {
       "username": "Amina06",
@@ -38549,7 +38549,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Phantomffx",
