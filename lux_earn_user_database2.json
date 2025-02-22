@@ -10638,7 +10638,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:32:58.988Z"
+      "joinDate": "2025-02-22T18:32:58.988Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samad",
+      "email": "samadyusuf79@gmail.com",
+      "encrypted_password": "89b093da88a19984e3a6f06793e2f8ea",
+      "referral_code": "SANYZ",
+      "inviter_referral_code": "PENX7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:33:10.568Z"
     }
   ],
   "withdrawals": [
