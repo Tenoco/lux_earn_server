@@ -3689,14 +3689,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1010,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "rot",
