@@ -14536,7 +14536,8 @@
         2,
         5,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kelv42",
@@ -14546,14 +14547,16 @@
       "inviter_referral_code": "VAGJR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T21:13:45.111Z"
+      "lastSpin": "2025-02-22T21:13:45.111Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
