@@ -4989,7 +4989,7 @@
       "inviter_referral_code": "BO603",
       "inviter_username": "Bolaji550",
       "invited_users": [],
-      "balance": 60,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4999,7 +4999,9 @@
         1,
         2,
         4,
-        5
+        5,
+        10,
+        8
       ],
       "lastSpin": null
     },
@@ -5421,6 +5423,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:10:52.992Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T13:12:20.421Z"
     }
   ],
