@@ -4858,7 +4858,7 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4866,6 +4866,7 @@
       "joinDate": "2025-02-22T12:48:26.036Z",
       "completedMissions": [
         1,
+        2,
         2
       ]
     },
