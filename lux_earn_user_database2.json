@@ -15035,7 +15035,8 @@
         10,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billionsking",
@@ -15182,6 +15183,21 @@
       "joinDate": "2025-02-22T21:51:54.821Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yusuf usman",
+      "email": "yusufnarokausman@gmail.com",
+      "encrypted_password": "c278a491cc859d9b508fa0a8e453f13f",
+      "referral_code": "YUGUP",
+      "inviter_referral_code": "4I48E",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:53:06.093Z"
     }
   ],
   "withdrawals": [
