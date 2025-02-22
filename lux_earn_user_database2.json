@@ -8748,6 +8748,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:52:06.776Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T16:53:55.301Z"
     },
     {
@@ -8766,6 +8767,21 @@
       "joinDate": "2025-02-22T16:52:41.965Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T16:53:35.574Z"
+    },
+    {
+      "username": "Gabirel 091",
+      "email": "gaberailndubuisi@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "GAMIV",
+      "inviter_referral_code": "Ekw5E",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:54:16.634Z"
     }
   ],
   "withdrawals": [
