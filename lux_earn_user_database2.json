@@ -6155,11 +6155,12 @@
         "Nurudeen12",
         "Abshdn23",
         "Jdifnfjf34",
-        "Ndjdndjd35"
+        "Ndjdndjd35",
+        "Hnfjfjcnfk40"
       ],
       "balance": 138,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -10259,7 +10260,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:20:45.532Z"
+      "joinDate": "2025-02-22T18:20:45.532Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hnfjfjcnfk40",
+      "email": "jdidndjdb@gamil",
+      "encrypted_password": "01c96beddb172095388e43835bdb7145",
+      "referral_code": "HN51W",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:20:58.197Z"
     }
   ],
   "withdrawals": [
