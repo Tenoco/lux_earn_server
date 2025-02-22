@@ -5906,7 +5906,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:58:59.282Z"
+      "joinDate": "2025-02-22T13:58:59.282Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "fbngji",
+      "email": "dawoduadeola2006@gmail.com",
+      "encrypted_password": "5c27029ae6400ef7da20945ac63f2285",
+      "referral_code": "FB6HO",
+      "inviter_referral_code": "BESAJ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:00:23.285Z"
     }
   ],
   "withdrawals": [],
