@@ -3820,7 +3820,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:56:45.021Z"
+      "joinDate": "2025-02-22T11:56:45.021Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "najibmunna",
+      "email": "najibmunna370@gmail.com",
+      "encrypted_password": "e6557bc0f4dbfe7e6c236098ad1a3e51",
+      "referral_code": "NA0Y5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:57:26.703Z"
     }
   ],
   "withdrawals": [],
