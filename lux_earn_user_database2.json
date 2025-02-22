@@ -8233,7 +8233,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:33:25.693Z"
+      "joinDate": "2025-02-22T16:33:25.693Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yarima76",
+      "email": "samirsaidu5@gmail.com",
+      "encrypted_password": "31fb523474820f884bf99ecb74b6f9be",
+      "referral_code": "YA95G",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 220,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:02:44.014Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        5,
+        6,
+        7
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
