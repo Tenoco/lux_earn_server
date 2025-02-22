@@ -9803,7 +9803,8 @@
         9,
         8,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olamide gold ",
@@ -9813,14 +9814,19 @@
       "inviter_referral_code": "WIJNH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 82,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:59:32.251Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T18:01:43.240Z",
+      "completedMissions": [
+        6,
+        7,
+        5,
+        11
+      ]
     }
   ],
   "withdrawals": [
