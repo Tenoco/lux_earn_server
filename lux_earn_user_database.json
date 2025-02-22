@@ -38515,7 +38515,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:31:39.822Z"
+      "joinDate": "2025-02-22T06:31:39.822Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vee",
+      "email": "vickyBluv66@gmail.com",
+      "encrypted_password": "b45783687e27609e3daed996cfe39ade",
+      "referral_code": "VET09",
+      "inviter_referral_code": "LIETS",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:32:07.270Z"
     }
   ],
   "withdrawals": [
