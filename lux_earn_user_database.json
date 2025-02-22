@@ -1141,7 +1141,7 @@
       "inviter_referral_code": "CR45T",
       "inviter_username": "Crypto",
       "invited_users": [],
-      "balance": 155,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1149,7 +1149,8 @@
       "joinDate": "2025-02-20T23:09:34.372Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ],
       "lastSpin": "2025-02-22T10:35:00.274Z"
     },
@@ -38514,7 +38515,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:35:55.874Z"
+      "joinDate": "2025-02-22T10:35:55.874Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
