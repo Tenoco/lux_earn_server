@@ -11781,10 +11781,12 @@
       "referral_code": "AY4HA",
       "inviter_referral_code": "QURTI",
       "inviter_username": "Quadriano ",
-      "invited_users": [],
+      "invited_users": [
+        "Angel997"
+      ],
       "balance": 212,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -13373,6 +13375,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:16:20.400Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T20:17:26.595Z"
     },
     {
@@ -13408,6 +13411,21 @@
       "joinDate": "2025-02-22T20:15:43.945Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Angel997",
+      "email": "helenblessing737@gmail.com",
+      "encrypted_password": "f1347562011016753e18334ffe7a5c99",
+      "referral_code": "ANBCY",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:18:24.072Z"
     }
   ],
   "withdrawals": [
