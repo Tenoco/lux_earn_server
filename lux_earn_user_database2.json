@@ -253,7 +253,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -612,6 +613,21 @@
       "joinDate": "2025-02-22T07:23:42.289Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nuhu basir ",
+      "email": "nuhubasir188@gmail.com",
+      "encrypted_password": "32addc4d11d168666f941e5307aaea53",
+      "referral_code": "NURLT",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:27:35.368Z"
     }
   ],
   "withdrawals": [],
