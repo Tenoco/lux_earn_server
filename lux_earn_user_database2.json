@@ -5937,7 +5937,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 115,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5950,9 +5950,9 @@
         7,
         6,
         11,
-        12
-      ],
-      "lastSpin": null
+        12,
+        5
+      ]
     },
     {
       "username": "Shittu27 ",
@@ -6001,7 +6001,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:04:34.505Z"
+      "joinDate": "2025-02-22T14:04:34.505Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
