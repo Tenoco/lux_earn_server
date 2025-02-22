@@ -2232,7 +2232,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:57:29.722Z"
+      "joinDate": "2025-02-22T09:57:29.722Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vicky jay",
+      "email": "ekohinmivictor0001@gmail.com",
+      "encrypted_password": "ac2352e3c05d6b93bdf875a4788e2ff5",
+      "referral_code": "VIET0",
+      "inviter_referral_code": "BESAJ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:58:34.723Z"
     }
   ],
   "withdrawals": [],
