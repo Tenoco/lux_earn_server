@@ -15868,7 +15868,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T23:01:32.997Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T23:02:22.021Z"
+    },
+    {
+      "username": "bolahmed",
+      "email": "ifebanjo1@gmail.com",
+      "encrypted_password": "fa906cb5db32f20ac79cd2b3c6fd3281",
+      "referral_code": "BOQ00",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:02:50.265Z"
     }
   ],
   "withdrawals": [
