@@ -5471,7 +5471,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:20:42.405Z"
+      "joinDate": "2025-02-22T13:20:42.405Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gregoryfx ",
+      "email": "ephilips558@gmail.com",
+      "encrypted_password": "83ec15b97527c0a782af4ba206031e1c",
+      "referral_code": "GR3EA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:22:13.595Z"
     }
   ],
   "withdrawals": [],
