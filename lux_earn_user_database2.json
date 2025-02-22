@@ -310,13 +310,21 @@
       "inviter_referral_code": "vgh",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        6,
+        7
+      ],
       "lastSpin": null
     },
     {
