@@ -851,7 +851,7 @@
       "inviter_referral_code": "IBX2K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 98,
+      "balance": 118,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -863,7 +863,8 @@
         2,
         4,
         5,
-        10
+        10,
+        9
       ],
       "lastSpin": "2025-02-22T07:45:07.141Z"
     },
@@ -940,7 +941,8 @@
       "joinDate": "2025-02-22T07:51:34.948Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jboy12",
