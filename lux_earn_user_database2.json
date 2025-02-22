@@ -1625,7 +1625,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Teejay01",
@@ -1983,6 +1984,21 @@
       "joinDate": "2025-02-22T09:29:51.846Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mannyrichie58 ",
+      "email": "johnlorimer694@gmail.com",
+      "encrypted_password": "7ff715094626acf4038e295d84b0f249",
+      "referral_code": "MA5P1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:33:47.195Z"
     }
   ],
   "withdrawals": [],
