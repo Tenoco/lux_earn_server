@@ -12074,7 +12074,7 @@
       "inviter_referral_code": "CH2AP",
       "inviter_username": "Christopher",
       "invited_users": [],
-      "balance": 210,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12091,7 +12091,8 @@
         8,
         6,
         5,
-        4
+        4,
+        7
       ],
       "lastSpin": null
     },
@@ -14381,7 +14382,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:59:58.734Z"
+      "joinDate": "2025-02-22T20:59:58.734Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
