@@ -37,11 +37,12 @@
         "Uzor",
         "krimicrispy ",
         "OMOBATVMEDIA",
-        "Elvis"
+        "Elvis",
+        "Dorathy4"
       ],
       "balance": 5503,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37686,6 +37687,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Dorathy4",
+      "email": "freemangoodluck50@gmail.com",
+      "encrypted_password": "cb4c6985f446dadb802080f25bdd687a",
+      "referral_code": "DOMVP",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:54:20.340Z"
     }
   ],
   "withdrawals": [
