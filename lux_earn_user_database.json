@@ -9546,7 +9546,7 @@
         "Beautykween",
         "Jomides"
       ],
-      "balance": 230,
+      "balance": 235,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -9560,7 +9560,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T00:44:38.417Z"
     },
     {
       "username": "Cash101",
@@ -37296,7 +37296,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:44:34.989Z"
+      "joinDate": "2025-02-22T00:44:34.989Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
