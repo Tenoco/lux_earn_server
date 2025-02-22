@@ -2286,7 +2286,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:00:00.701Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T10:00:39.136Z"
+    },
+    {
+      "username": "Ella14",
+      "email": "emmanuellachristian33@gmail.com",
+      "encrypted_password": "ec273edff05ea748e8502124f833ad85",
+      "referral_code": "ELDSE",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:02:58.301Z"
     }
   ],
   "withdrawals": [],
