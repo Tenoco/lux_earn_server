@@ -4926,7 +4926,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:54:53.718Z"
+      "joinDate": "2025-02-22T12:54:53.718Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samod",
+      "email": "samod67@gmail.com",
+      "encrypted_password": "d81c52f524f6faf198b5daa2a865c2df",
+      "referral_code": "SAWY4",
+      "inviter_referral_code": "JO38K ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:54:56.594Z"
     }
   ],
   "withdrawals": [],
