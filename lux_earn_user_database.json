@@ -37166,14 +37166,16 @@
       "inviter_referral_code": "MIFNY",
       "inviter_username": "Mick2324",
       "invited_users": [],
-      "balance": 0,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:32:57.284Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T00:34:42.109Z",
+      "completedMissions": [
+        3
+      ]
     },
     {
       "username": "Kate",
