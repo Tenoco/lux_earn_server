@@ -1576,7 +1576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:53:21.381Z"
+      "joinDate": "2025-02-22T08:53:21.381Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "RIC2007",
+      "email": "oladipupoenochopemipo@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "RI3IX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:53:51.531Z"
     }
   ],
   "withdrawals": [],
