@@ -3569,11 +3569,12 @@
       "invited_users": [
         "Inioluwa ",
         "Briggydivi ",
-        "BELYKGHOST"
+        "BELYKGHOST",
+        "Gift02"
       ],
       "balance": 1001,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -4335,6 +4336,21 @@
       "joinDate": "2025-02-22T12:18:33.943Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gift02",
+      "email": "giftantho2024@gmail.com",
+      "encrypted_password": "7023999354e821c06c9d90b519294a6e",
+      "referral_code": "GI2W0",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:18:52.322Z"
     }
   ],
   "withdrawals": [],
