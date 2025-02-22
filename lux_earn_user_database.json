@@ -38552,14 +38552,16 @@
       "inviter_referral_code": "FR22C",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 5,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:33:55.499Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T06:34:47.470Z"
+      "lastSpin": "2025-02-22T06:34:47.470Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
