@@ -37343,11 +37343,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sylviapurity",
-        "Akinjobi"
+        "Akinjobi",
+        "Mubee"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:43:58.481Z",
@@ -38535,7 +38536,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:20:21.808Z",
-      "lastSpin": "2025-02-22T08:21:00.887Z",
       "completedMissions": [
         1,
         2,
@@ -38546,7 +38546,23 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T08:21:00.887Z"
+    },
+    {
+      "username": "Mubee",
+      "email": "mubarakali16233@gmail.com",
+      "encrypted_password": "e59a812071da201db7c157c49d0cb678",
+      "referral_code": "MU93Y",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": "COACHTINA",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:58:54.405Z"
     }
   ],
   "withdrawals": [
