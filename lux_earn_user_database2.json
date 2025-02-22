@@ -8378,7 +8378,42 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:37:58.964Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T16:38:25.271Z"
+    },
+    {
+      "username": "Anna10",
+      "email": "annannennadaniel@gmail.com",
+      "encrypted_password": "8ff861bcfd87bd85e9b207ea74cb6596",
+      "referral_code": "ANJQD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Abdul230",
+        "Victordominic ",
+        "Esther",
+        "Estheriyanuoluwa",
+        "Sara Phina",
+        "Salifusa",
+        "Olofin78",
+        "Izzymoney ",
+        "Teeprime",
+        "Kulumfestus",
+        "monday22",
+        "Laskid037 ",
+        "Baddie"
+      ],
+      "balance": 88,
+      "refers": 13,
+      "referralBalance": 1300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:14.125Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T05:57:52.113Z"
     }
   ],
   "withdrawals": [
