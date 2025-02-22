@@ -10866,7 +10866,7 @@
       "inviter_referral_code": "AL4BB",
       "inviter_username": "Alhassan 001",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10874,9 +10874,9 @@
       "joinDate": "2025-02-22T18:39:52.971Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Alexander",
