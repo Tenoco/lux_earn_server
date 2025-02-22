@@ -472,7 +472,23 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Afolabivib",
+      "email": "tomilayodamilare@gmail.com",
+      "encrypted_password": "da21bbca54d339a4991fc6c6db075eb7",
+      "referral_code": "AFEZ1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:19:48.916Z"
     }
   ],
   "withdrawals": [],
