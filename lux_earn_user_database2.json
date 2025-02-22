@@ -2045,10 +2045,12 @@
       "referral_code": "PRSLP",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Mikel "
+      ],
       "balance": 1140,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:35:56.502Z",
@@ -2543,6 +2545,21 @@
       "joinDate": "2025-02-22T10:37:43.424Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mikel ",
+      "email": "mikelstar36@gmail.com",
+      "encrypted_password": "1233fec65d7e73526bd07cdfc838729e",
+      "referral_code": "MI9J9",
+      "inviter_referral_code": "PRSLP",
+      "inviter_username": "Prosper",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:39:28.700Z"
     }
   ],
   "withdrawals": [],
