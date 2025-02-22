@@ -3387,11 +3387,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Damola"
+        "Damola",
+        "Adeyemi "
       ],
       "balance": 1113,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:32:15.496Z",
@@ -4658,7 +4659,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:40:56.021Z"
+      "joinDate": "2025-02-22T12:40:56.021Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeyemi ",
+      "email": "adeyemiayo545@gmail.com",
+      "encrypted_password": "ea4969c46e8a25d53e3ffaf3481e705a",
+      "referral_code": "AD5V3",
+      "inviter_referral_code": "BRQXP",
+      "inviter_username": "Brobdingnagian ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:41:18.233Z"
     }
   ],
   "withdrawals": [],
