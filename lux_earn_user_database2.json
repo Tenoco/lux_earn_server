@@ -13389,7 +13389,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:16:54.017Z"
+      "joinDate": "2025-02-22T20:16:54.017Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Love112",
+      "email": "ifunanyalove@gmail.com",
+      "encrypted_password": "b8a6bbb78c5b38c425b5ca794b051c33",
+      "referral_code": "LO5S6",
+      "inviter_referral_code": "https://luxearn0.netlify.app",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:15:43.945Z"
     }
   ],
   "withdrawals": [
