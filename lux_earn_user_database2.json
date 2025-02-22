@@ -7133,14 +7133,16 @@
       "inviter_referral_code": "222444",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:26:13.108Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-22T15:29:42.804Z"
     },
     {
       "username": "Tennis",
