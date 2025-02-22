@@ -6282,7 +6282,7 @@
       "inviter_referral_code": "PRJ2I",
       "inviter_username": "Pramo",
       "invited_users": [],
-      "balance": 81,
+      "balance": 101,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6294,7 +6294,8 @@
         4,
         5,
         6,
-        7
+        7,
+        9
       ],
       "lastSpin": "2025-02-22T14:32:37.669Z"
     },
@@ -6462,7 +6463,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:48:09.637Z"
+      "joinDate": "2025-02-22T14:48:09.637Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
