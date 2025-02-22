@@ -6767,7 +6767,8 @@
         11,
         12,
         13
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olumide2",
@@ -6819,6 +6820,21 @@
       "joinDate": "2025-02-22T15:07:43.583Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dhaselisa",
+      "email": "hanselikponmwosa@gmail.com",
+      "encrypted_password": "9b52d1417c97e40f6d86cdc7688520c1",
+      "referral_code": "DH8AZ",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:09:39.463Z"
     }
   ],
   "withdrawals": [],
