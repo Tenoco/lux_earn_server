@@ -1610,7 +1610,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:54:15.987Z"
+      "joinDate": "2025-02-22T08:54:15.987Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Teejay01",
+      "email": "tijaniridwanadigun@gmail.com",
+      "encrypted_password": "0ebba91235ba26c95aa73ce80f58678d",
+      "referral_code": "TENJ6",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:54:21.205Z"
     }
   ],
   "withdrawals": [],
