@@ -2239,7 +2239,7 @@
       "inviter_referral_code": "OLHMH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1030,
+      "balance": 1060,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2247,7 +2247,9 @@
       "joinDate": "2025-02-22T09:54:23.421Z",
       "completedMissions": [
         1,
-        4
+        4,
+        5,
+        6
       ],
       "lastSpin": null
     },
