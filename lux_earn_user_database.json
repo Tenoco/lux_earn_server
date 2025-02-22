@@ -24205,7 +24205,7 @@
       "invited_users": [
         "Duza"
       ],
-      "balance": 255,
+      "balance": 275,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -24220,7 +24220,8 @@
         6,
         7,
         8,
-        9
+        9,
+        10
       ],
       "lastSpin": "2025-02-21T09:47:21.983Z"
     },
@@ -38531,7 +38532,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:25:35.590Z"
+      "joinDate": "2025-02-22T11:25:35.590Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
