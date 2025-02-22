@@ -942,7 +942,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jboy12",
@@ -1011,6 +1012,21 @@
       "joinDate": "2025-02-22T07:54:42.129Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iya najat",
+      "email": "aminashola86@gmail.com",
+      "encrypted_password": "cafab0e29bafc539ca34d1da48b9a606",
+      "referral_code": "IY3K9",
+      "inviter_referral_code": "OLNRC",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:55:06.167Z"
     }
   ],
   "withdrawals": [],
