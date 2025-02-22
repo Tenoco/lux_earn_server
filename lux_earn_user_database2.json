@@ -6961,13 +6961,16 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:14:49.146Z",
-      "completedMissions": [],
+      "completedMissions": [
+        5,
+        5
+      ],
       "lastSpin": null
     },
     {
