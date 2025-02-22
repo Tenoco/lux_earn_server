@@ -38108,14 +38108,16 @@
       "inviter_referral_code": "C04PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 25,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:33:20.381Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T03:34:28.627Z"
+      "lastSpin": "2025-02-22T03:34:28.627Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Olexprezzy1",
@@ -38130,7 +38132,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:36:24.496Z"
+      "joinDate": "2025-02-22T03:36:24.496Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
