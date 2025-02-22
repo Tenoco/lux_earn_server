@@ -34048,13 +34048,19 @@
       "inviter_referral_code": "RAJDK",
       "inviter_username": "Raphealperry",
       "invited_users": [],
-      "balance": 0,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:14:41.895Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        4
+      ],
       "lastSpin": null
     },
     {
