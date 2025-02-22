@@ -8966,11 +8966,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sammy4022",
-        "Deraboy22 "
+        "Deraboy22 ",
+        "Promise"
       ],
       "balance": 315,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:49:04.359Z",
@@ -38580,10 +38581,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:18:02.235Z",
-      "lastSpin": "2025-02-22T07:18:31.042Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:18:31.042Z"
+    },
+    {
+      "username": "Promise",
+      "email": "promisgift400@gmail.com",
+      "encrypted_password": "484788875f34573ca9ec5549738dd1c6",
+      "referral_code": "PRO5B",
+      "inviter_referral_code": "SA6WT",
+      "inviter_username": "Sammy4021",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:24:01.429Z"
     }
   ],
   "withdrawals": [
