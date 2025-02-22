@@ -2249,7 +2249,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:58:34.723Z"
+      "joinDate": "2025-02-22T09:58:34.723Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ashley",
+      "email": "ashleym194850@gmail.com",
+      "encrypted_password": "9e2952c1d6d161b5591785294db06e7c",
+      "referral_code": "ASHLY",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:59:08.234Z"
     }
   ],
   "withdrawals": [],
