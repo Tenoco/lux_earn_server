@@ -75,7 +75,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@krispi",
@@ -290,6 +291,21 @@
       "joinDate": "2025-02-22T07:01:03.295Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chosenralph",
+      "email": "chosenfineman@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "CHN20",
+      "inviter_referral_code": "vgh",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:02:08.022Z"
     }
   ],
   "withdrawals": [],
