@@ -679,7 +679,7 @@
       "inviter_referral_code": "HELL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 46,
+      "balance": 66,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -688,7 +688,8 @@
       "lastSpin": "2025-02-22T07:31:32.640Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ]
     },
     {
