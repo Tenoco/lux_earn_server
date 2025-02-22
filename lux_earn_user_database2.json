@@ -6102,11 +6102,12 @@
         "Ifeoluwa T",
         "Abshdn2",
         "Aayomi3939",
-        "Ab239"
+        "Ab239",
+        "Dfh67"
       ],
       "balance": 138,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -7216,6 +7217,21 @@
       "joinDate": "2025-02-22T15:37:59.057Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dfh67",
+      "email": "ansjsb@gmail.com",
+      "encrypted_password": "e9fd92b4e8a79b1c0b046ec770197f60",
+      "referral_code": "DFE7J",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:40:34.618Z"
     }
   ],
   "withdrawals": [],
