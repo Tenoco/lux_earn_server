@@ -13477,7 +13477,8 @@
       "joinDate": "2025-02-22T20:18:24.072Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Charles",
@@ -13561,14 +13562,16 @@
       "inviter_referral_code": "heo20",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:25:26.405Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        4
+      ]
     },
     {
       "username": "Gfhfhfjhhgffjh567",
