@@ -4345,10 +4345,12 @@
       "referral_code": "TIME4",
       "inviter_referral_code": "ADIVS",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abdulfatai7 "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -4391,7 +4393,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:19:00.199Z",
-      "lastSpin": "2025-02-22T12:19:55.795Z",
       "completedMissions": [
         10,
         9,
@@ -4400,7 +4401,8 @@
         7,
         6,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T12:19:55.795Z"
     },
     {
       "username": "Joshua money ",
@@ -4425,6 +4427,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Abdulfatai7 ",
+      "email": "abdurrasheedabdulfatai7@gmail.com",
+      "encrypted_password": "c2ace98ef5d9f2765553f436e28bd940",
+      "referral_code": "ABWQH",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:26:24.275Z"
     }
   ],
   "withdrawals": [],
