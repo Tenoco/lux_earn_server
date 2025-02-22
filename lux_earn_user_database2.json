@@ -11774,7 +11774,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 272,
+      "balance": 292,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11791,7 +11791,7 @@
         6,
         7
       ],
-      "lastSpin": "2025-02-21T11:40:34.475Z"
+      "lastSpin": "2025-02-22T19:16:59.748Z"
     },
     {
       "username": "Henry111",
@@ -11823,7 +11823,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:16:59.843Z"
+      "joinDate": "2025-02-22T19:16:59.843Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
