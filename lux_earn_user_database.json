@@ -38184,7 +38184,7 @@
       "inviter_referral_code": "SAGJY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38192,7 +38192,8 @@
       "joinDate": "2025-02-22T04:01:02.932Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ]
     },
     {
