@@ -13265,11 +13265,12 @@
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
       "invited_users": [
-        "ChocoMarley "
+        "ChocoMarley ",
+        "Wisdom chidiebere "
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -15229,6 +15230,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdom chidiebere ",
+      "email": "chidieberewisdom30@gmail.com",
+      "encrypted_password": "82a06532dcd29bf4b404a5910bc3d79e",
+      "referral_code": "WI3UG",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:58:56.099Z"
     }
   ],
   "withdrawals": [
