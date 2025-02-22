@@ -708,14 +708,14 @@
       "inviter_referral_code": "RAA8G",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:30:45.830Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T10:57:39.839Z"
     },
     {
       "username": "Umarfaruq",
@@ -2848,7 +2848,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:00:52.948Z"
+      "joinDate": "2025-02-22T11:00:52.948Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
