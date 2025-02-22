@@ -1932,7 +1932,7 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1052,
+      "balance": 1072,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1940,7 +1940,8 @@
       "joinDate": "2025-02-22T09:25:05.933Z",
       "completedMissions": [
         1,
-        10
+        10,
+        9
       ],
       "lastSpin": "2025-02-22T09:25:26.720Z"
     },
@@ -1958,12 +1959,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:27:59.994Z",
-      "lastSpin": "2025-02-22T09:30:10.776Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:30:10.776Z"
     },
     {
       "username": "Mannyrichie ",
