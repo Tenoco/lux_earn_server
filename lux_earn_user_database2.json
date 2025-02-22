@@ -1614,7 +1614,8 @@
       "completedMissions": [
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Teejay01",
@@ -1658,14 +1659,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:56:10.093Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     }
   ],
   "withdrawals": [],
