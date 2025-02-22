@@ -3326,7 +3326,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:32:15.496Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T11:32:35.721Z"
+    },
+    {
+      "username": "francisakande",
+      "email": "francisakande0710@gmail.com",
+      "encrypted_password": "8e7a0ab6a3302a3d7a4bcc8d16e46100",
+      "referral_code": "FRPXF",
+      "inviter_referral_code": "FAMAT",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:33:29.344Z"
     }
   ],
   "withdrawals": [],
