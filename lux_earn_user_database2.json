@@ -5045,7 +5045,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:58:54.600Z"
+      "joinDate": "2025-02-22T12:58:54.600Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samodly",
+      "email": "samod60@gmail.com",
+      "encrypted_password": "289dff07669d7a23de0ef88d2f7129e7",
+      "referral_code": "SA2EQ",
+      "inviter_referral_code": "JO38K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:59:11.976Z"
     }
   ],
   "withdrawals": [],
