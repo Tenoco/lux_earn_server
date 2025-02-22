@@ -15223,7 +15223,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15234,9 +15234,11 @@
         2,
         4,
         4,
-        5
-      ],
-      "lastSpin": null
+        5,
+        5,
+        6,
+        6
+      ]
     },
     {
       "username": "Wisdom chidiebere ",
@@ -15268,7 +15270,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:01:09.682Z"
+      "joinDate": "2025-02-22T22:01:09.682Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
