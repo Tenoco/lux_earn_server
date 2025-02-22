@@ -2750,11 +2750,12 @@
         "Layish",
         "Tesseyde12",
         "Tesseyde11",
-        "FortyEight048"
+        "FortyEight048",
+        "Kikebabe22"
       ],
       "balance": 1000,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3840,6 +3841,21 @@
       "joinDate": "2025-02-22T11:57:26.703Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kikebabe22",
+      "email": "favouradedeji122@gmail.com",
+      "encrypted_password": "824d36a79cc494b913d4d54cb7d2101b",
+      "referral_code": "KIWRH",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:57:54.669Z"
     }
   ],
   "withdrawals": [],
