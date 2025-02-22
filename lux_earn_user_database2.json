@@ -8785,14 +8785,14 @@
       "inviter_referral_code": "Ekw5E",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:54:16.634Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T17:06:18.474Z"
     },
     {
       "username": "Gokugokael",
@@ -9010,6 +9010,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:05:01.354Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T17:05:25.707Z"
     }
   ],
