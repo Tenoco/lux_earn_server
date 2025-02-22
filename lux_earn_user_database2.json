@@ -86,11 +86,12 @@
       "inviter_referral_code": "INX8P",
       "inviter_username": null,
       "invited_users": [
-        "@Ukmoney"
+        "@Ukmoney",
+        "@Ebele"
       ],
       "balance": 310,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:36.770Z",
@@ -309,6 +310,21 @@
       "joinDate": "2025-02-22T07:02:08.022Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "@Ebele",
+      "email": "christopherugonabo@gmail.com",
+      "encrypted_password": "fbb8c9ae894aa22a80d80fafb8a1319a",
+      "referral_code": "@EDHS",
+      "inviter_referral_code": "@KE6Z",
+      "inviter_username": "@krispi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:03:30.035Z"
     }
   ],
   "withdrawals": [],
