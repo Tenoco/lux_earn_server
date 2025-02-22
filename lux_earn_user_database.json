@@ -87,19 +87,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Tech",
-        "Tennis1"
+        "Tech"
       ],
-      "balance": 5020,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 5000,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
-      "completedMissions": [
-        1,
-        13
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -997,12 +993,11 @@
         "Chris Richalbert ",
         "Femzico ",
         "Doffy",
-        "Crystal ",
-        "Kevin miracle"
+        "Crystal "
       ],
       "balance": 163,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -1578,7 +1573,7 @@
         "Ayomide",
         "Tohrah"
       ],
-      "balance": 325,
+      "balance": 310,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -1595,7 +1590,7 @@
         8,
         9
       ],
-      "lastSpin": "2025-02-22T13:44:11.797Z"
+      "lastSpin": "2025-02-21T09:00:15.184Z"
     },
     {
       "username": "Jomilee",
@@ -4129,7 +4124,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 163,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4148,7 +4143,7 @@
         5,
         6
       ],
-      "lastSpin": "2025-02-22T14:21:40.754Z"
+      "lastSpin": "2025-02-20T23:37:17.599Z"
     },
     {
       "username": "Hope ",
@@ -6786,7 +6781,7 @@
       "inviter_referral_code": "LA7RS",
       "inviter_username": "LAGACONCEPT ",
       "invited_users": [],
-      "balance": 288,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6803,7 +6798,7 @@
         6,
         8
       ],
-      "lastSpin": "2025-02-22T14:41:08.018Z"
+      "lastSpin": null
     },
     {
       "username": "Smiths ",
@@ -7539,7 +7534,7 @@
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
       "invited_users": [],
-      "balance": 300,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7555,7 +7550,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-22T13:52:33.066Z"
+      "lastSpin": "2025-02-21T10:07:24.280Z"
     },
     {
       "username": "B.Crown",
@@ -12144,7 +12139,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 232,
+      "balance": 132,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12152,13 +12147,7 @@
       "joinDate": "2025-02-21T05:22:19.708Z",
       "completedMissions": [
         1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        2
       ],
       "lastSpin": "2025-02-21T11:04:35.445Z"
     },
@@ -12760,7 +12749,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12768,11 +12757,7 @@
       "joinDate": "2025-02-21T05:39:37.713Z",
       "completedMissions": [
         1,
-        2,
-        10,
-        11,
-        12,
-        9
+        2
       ],
       "lastSpin": "2025-02-21T05:51:18.121Z"
     },
@@ -13285,16 +13270,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:57:04.222Z",
-      "completedMissions": [
-        2,
-        2
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -14929,14 +14911,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:43:55.643Z",
       "completedMissions": [],
-      "lastSpin": "2025-02-22T14:45:02.903Z"
+      "lastSpin": "2025-02-21T10:14:42.773Z"
     },
     {
       "username": "Christy",
@@ -18938,7 +18920,7 @@
         "Favvvy",
         "VanDijk"
       ],
-      "balance": 270,
+      "balance": 240,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -18952,8 +18934,7 @@
         5,
         4,
         4,
-        6,
-        3
+        6
       ],
       "lastSpin": null
     },
@@ -19714,7 +19695,7 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 122,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19725,7 +19706,7 @@
         1,
         2
       ],
-      "lastSpin": "2025-02-22T14:39:15.056Z"
+      "lastSpin": "2025-02-21T12:11:12.101Z"
     },
     {
       "username": "Kindness45",
@@ -19956,7 +19937,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 278,
+      "balance": 258,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19973,7 +19954,7 @@
         8,
         9
       ],
-      "lastSpin": "2025-02-22T14:24:21.423Z"
+      "lastSpin": "2025-02-21T07:53:02.971Z"
     },
     {
       "username": "Lexy001",
@@ -20304,7 +20285,7 @@
       "inviter_referral_code": "WEXRG",
       "inviter_username": "Wealth ",
       "invited_users": [],
-      "balance": 490,
+      "balance": 390,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20325,12 +20306,7 @@
         7,
         7,
         6,
-        6,
-        4,
-        4,
-        10,
-        10,
-        10
+        6
       ],
       "lastSpin": "2025-02-21T07:58:15.212Z"
     },
@@ -20926,23 +20902,14 @@
         "Hhh",
         "Gjhhjjjkjj"
       ],
-      "balance": 175,
+      "balance": 30,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:09.637Z",
       "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
+        1
       ],
       "lastSpin": "2025-02-22T00:36:36.639Z"
     },
@@ -23016,7 +22983,7 @@
       "inviter_referral_code": "RAA8G",
       "inviter_username": "Rashmoney",
       "invited_users": [],
-      "balance": 328,
+      "balance": 288,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23032,10 +22999,9 @@
         4,
         1,
         2,
-        3,
-        12
+        3
       ],
-      "lastSpin": "2025-02-22T14:43:33.774Z"
+      "lastSpin": "2025-02-21T09:11:38.226Z"
     },
     {
       "username": "Abdul1752",
@@ -23716,7 +23682,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 260,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23730,8 +23696,7 @@
         9,
         6,
         8,
-        5,
-        10
+        5
       ],
       "lastSpin": null
     },
@@ -25348,7 +25313,7 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 288,
+      "balance": 268,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25365,7 +25330,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-22T15:24:11.833Z"
+      "lastSpin": "2025-02-21T10:26:45.516Z"
     },
     {
       "username": "VaLi ",
@@ -25399,7 +25364,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 280,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25408,17 +25373,9 @@
       "completedMissions": [
         1,
         1,
-        6,
-        4,
-        5,
-        3,
-        2,
-        9,
-        9,
-        9,
-        9
+        6
       ],
-      "lastSpin": "2025-02-22T13:49:34.072Z"
+      "lastSpin": "2025-02-21T10:11:51.803Z"
     },
     {
       "username": "Som",
@@ -25445,7 +25402,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 168,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25458,7 +25415,7 @@
         4,
         5
       ],
-      "lastSpin": "2025-02-22T14:48:20.231Z"
+      "lastSpin": null
     },
     {
       "username": "Anafi",
@@ -27521,7 +27478,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": "Peculiarity86 ",
       "invited_users": [],
-      "balance": 350,
+      "balance": 340,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27541,7 +27498,7 @@
         5,
         5
       ],
-      "lastSpin": "2025-02-22T14:18:06.949Z"
+      "lastSpin": null
     },
     {
       "username": "Rosequeen",
@@ -35048,7 +35005,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 400,
+      "balance": 365,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35066,9 +35023,7 @@
         7,
         6,
         9,
-        10,
-        11,
-        12
+        10
       ],
       "lastSpin": "2025-02-21T14:53:39.767Z"
     },
@@ -38632,48 +38587,6 @@
       "joinDate": "2025-02-22T05:07:33.095Z",
       "completedMissions": [],
       "lastSpin": null
-    },
-    {
-      "username": "Kevin miracle",
-      "email": "kevinmiracle439@gmail.com",
-      "encrypted_password": "538ce11e43d8aaa2bb47c6b04df4d99d",
-      "referral_code": "KEBLN",
-      "inviter_referral_code": "KITGL",
-      "inviter_username": "Kimah373",
-      "invited_users": [],
-      "balance": 275,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T14:28:04.854Z",
-      "completedMissions": [
-        2,
-        1,
-        5,
-        3,
-        6,
-        9,
-        8,
-        7,
-        4
-      ],
-      "lastSpin": "2025-02-22T14:29:16.447Z"
-    },
-    {
-      "username": "Tennis1",
-      "email": "ten@gma8o.com",
-      "encrypted_password": "202cb962ac59075b964b07152d234b70",
-      "referral_code": "TEDF1",
-      "inviter_referral_code": "TEQZ9",
-      "inviter_username": "Tenoco",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T15:24:58.753Z"
     }
   ],
   "withdrawals": [
