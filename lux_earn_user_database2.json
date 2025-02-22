@@ -5505,7 +5505,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:22:43.377Z"
+      "joinDate": "2025-02-22T13:22:43.377Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Qwinmavis",
+      "email": "jamesesther832@gmail.com",
+      "encrypted_password": "24a4ddced74081572a01437bc91810fb",
+      "referral_code": "QW128",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:23:00.222Z"
     }
   ],
   "withdrawals": [],
