@@ -11091,12 +11091,10 @@
       "referral_code": "GE3HR",
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
-      "invited_users": [
-        "Henry111"
-      ],
-      "balance": 240,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 241,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:48:03.295Z",
@@ -11116,7 +11114,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:18:49.129Z"
     },
     {
       "username": "Haywhy",
@@ -11856,6 +11854,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:17:07.465Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T19:18:44.287Z"
     },
     {
