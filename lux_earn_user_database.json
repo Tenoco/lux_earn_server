@@ -14104,11 +14104,12 @@
         "Life",
         "Johnny40",
         "Peace ",
-        "dearie"
+        "dearie",
+        "Thomas 567"
       ],
       "balance": 220,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -38588,6 +38589,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Thomas 567",
+      "email": "oguchiprosper500@gmail.com",
+      "encrypted_password": "069df4794fcc14627c7eb6bbcc883761",
+      "referral_code": "THY0M",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:34:04.392Z"
     }
   ],
   "withdrawals": [
