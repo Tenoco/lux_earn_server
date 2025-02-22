@@ -14793,14 +14793,15 @@
       "inviter_referral_code": "MAJNE",
       "inviter_username": "mailo",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:34:12.482Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Anjolaoluwa ",
@@ -14876,7 +14877,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:36:31.454Z"
+      "joinDate": "2025-02-22T21:36:31.454Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
