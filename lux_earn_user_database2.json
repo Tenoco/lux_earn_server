@@ -8668,10 +8668,12 @@
       "referral_code": "JBZ54",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Inka"
+      ],
       "balance": 175,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-19T21:14:28.428Z",
@@ -11155,7 +11157,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:52:57.373Z"
+      "joinDate": "2025-02-22T18:52:57.373Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Inka",
+      "email": "ikola@ail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "IN0UU",
+      "inviter_referral_code": "JBZ54",
+      "inviter_username": "Jb123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:54:04.340Z"
     }
   ],
   "withdrawals": [
