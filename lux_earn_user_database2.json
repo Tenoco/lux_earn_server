@@ -9040,13 +9040,15 @@
       "inviter_referral_code": "JEJ0P",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 1,
+      "balance": 21,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:04:27.256Z",
-      "completedMissions": [],
+      "completedMissions": [
+        5
+      ],
       "lastSpin": "2025-02-22T19:07:27.359Z"
     },
     {
