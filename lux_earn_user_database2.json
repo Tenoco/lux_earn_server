@@ -6985,7 +6985,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6996,9 +6996,12 @@
         5,
         12,
         12,
-        4
+        4,
+        2,
+        2,
+        2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T15:45:20.337Z"
     },
     {
       "username": "Abshdn2",
@@ -7526,7 +7529,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:55:20.156Z"
+      "joinDate": "2025-02-22T15:55:20.156Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
