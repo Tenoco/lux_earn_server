@@ -1875,7 +1875,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:23:08.886Z"
+      "joinDate": "2025-02-22T09:23:08.886Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Schoolboy419",
+      "email": "Schoolboy419@icloud.com",
+      "encrypted_password": "314702e855fcdf1e78262cf72409f014",
+      "referral_code": "SCHQD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:19:50.270Z"
     }
   ],
   "withdrawals": [],
