@@ -28042,11 +28042,12 @@
       "invited_users": [
         "Odubiyi nofiu",
         "Alnasiry0",
-        "Abdul ganiu"
+        "Abdul ganiu",
+        "Olamilekan"
       ],
       "balance": 550,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -38497,7 +38498,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olamilekan",
+      "email": "austinsnell@gmail.com",
+      "encrypted_password": "8835fa54b0aa8a9c6621230e8f794a5f",
+      "referral_code": "OLUBN",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": "Nabeelo",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:47:30.009Z"
     }
   ],
   "withdrawals": [
