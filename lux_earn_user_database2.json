@@ -1827,7 +1827,8 @@
       "joinDate": "2025-02-22T09:20:06.584Z",
       "completedMissions": [
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nawal",
@@ -1837,16 +1838,17 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1050,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:21:56.778Z",
       "completedMissions": [
-        5
-      ],
-      "lastSpin": null
+        5,
+        5,
+        6
+      ]
     },
     {
       "username": "Emmaberry",
