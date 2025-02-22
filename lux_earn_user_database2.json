@@ -10639,6 +10639,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:32:58.988Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T18:33:51.088Z"
     },
     {
@@ -10655,6 +10656,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:33:10.568Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Quadriano ",
+      "email": "lekkierose06@gmail.com",
+      "encrypted_password": "3453423659f6bcfddcd0a716c6b0e36a",
+      "referral_code": "QURTI",
+      "inviter_referral_code": "CHUQV",
+      "inviter_username": "Chiboy9",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:00:06.093Z",
       "completedMissions": [],
       "lastSpin": null
     }
