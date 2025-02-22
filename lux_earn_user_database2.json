@@ -8759,12 +8759,14 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:52:41.965Z"
+      "joinDate": "2025-02-22T16:52:41.965Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-22T16:53:35.574Z"
     }
   ],
   "withdrawals": [
