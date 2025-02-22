@@ -898,18 +898,19 @@
       "inviter_referral_code": "luxearn0",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 52,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:48:14.660Z",
+      "lastSpin": "2025-02-22T07:50:05.704Z",
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": "2025-02-22T07:50:05.704Z"
+        4,
+        5
+      ]
     },
     {
       "username": "Whitedrag",
@@ -1092,11 +1093,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:55:35.482Z",
-      "lastSpin": "2025-02-22T07:56:23.367Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:56:23.367Z"
     },
     {
       "username": "Ayokanmi",
