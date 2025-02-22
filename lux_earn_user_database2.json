@@ -2320,7 +2320,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:06:10.298Z"
+      "joinDate": "2025-02-22T10:06:10.298Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Quennierichest ",
+      "email": "Aderonkeadedolapo30@gmail.com",
+      "encrypted_password": "30473160735ca6b47c6a87a330af065d",
+      "referral_code": "QUMVH",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:07:02.175Z"
     }
   ],
   "withdrawals": [],
