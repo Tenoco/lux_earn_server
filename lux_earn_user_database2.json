@@ -11204,14 +11204,15 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:54:47.759Z",
       "completedMissions": [
-        12
+        12,
+        11
       ],
       "lastSpin": "2025-02-22T18:55:06.135Z"
     },
