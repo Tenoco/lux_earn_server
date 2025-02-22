@@ -6511,7 +6511,7 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6525,7 +6525,9 @@
         6,
         7,
         8,
-        9
+        9,
+        12,
+        11
       ],
       "lastSpin": null
     },
