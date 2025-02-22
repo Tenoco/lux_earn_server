@@ -2665,7 +2665,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1155,
+      "balance": 1165,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2681,7 +2681,8 @@
         9,
         10,
         11,
-        12
+        12,
+        13
       ],
       "lastSpin": null
     },
@@ -2965,10 +2966,10 @@
       "lastSpin": "2025-02-22T11:10:44.390Z"
     },
     {
-      "username": "Lêkêwêbø",
+      "username": "LÃªkÃªwÃªbÃ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÊJIB",
+      "referral_code": "LÃJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -2999,10 +3000,10 @@
       "lastSpin": null
     },
     {
-      "username": "L�k�w�b�",
+      "username": "Lêkêwêbø",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "L�JIB",
+      "referral_code": "LÊJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3014,7 +3015,8 @@
       "joinDate": "2025-02-22T11:08:41.461Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
