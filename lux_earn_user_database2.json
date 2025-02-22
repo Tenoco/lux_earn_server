@@ -1924,13 +1924,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:23:58.772Z",
-      "lastSpin": "2025-02-22T09:29:54.496Z",
       "completedMissions": [
         1,
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:29:54.496Z"
     },
     {
       "username": "BigJohn ",
@@ -2056,6 +2056,21 @@
       "joinDate": "2025-02-22T09:37:02.936Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T09:38:18.282Z"
+    },
+    {
+      "username": "Enoch Mercy Kehinde ",
+      "email": "kjay01952@gmail.com",
+      "encrypted_password": "91f1388c35a60c34a8f65b660271a188",
+      "referral_code": "ENEGM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:40:42.335Z"
     }
   ],
   "withdrawals": [],
