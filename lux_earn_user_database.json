@@ -23011,11 +23011,12 @@
         "godsave",
         "zoeswanky ",
         "Donprince141",
-        "Favor"
+        "Favor",
+        "Successful5"
       ],
       "balance": 220,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:12:26.809Z",
@@ -38072,6 +38073,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Successful5",
+      "email": "egospel08@gmail.com",
+      "encrypted_password": "3ce252c5107839e06ac8dde6964fe314",
+      "referral_code": "SUUI9",
+      "inviter_referral_code": "ORXQ6",
+      "inviter_username": "OROBO",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:27:00.899Z"
     }
   ],
   "withdrawals": [
