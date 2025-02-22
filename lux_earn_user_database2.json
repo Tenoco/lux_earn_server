@@ -15978,7 +15978,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victoria Emeshiobi ",
@@ -16001,6 +16002,21 @@
         12
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Convenant ",
+      "email": "convenantiloba22@gmail.com",
+      "encrypted_password": "bf9eeb6625b113b0151fb3713e7d40b5",
+      "referral_code": "CO42A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:20:59.341Z"
     }
   ],
   "withdrawals": [
