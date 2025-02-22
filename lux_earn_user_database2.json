@@ -10277,7 +10277,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:20:58.197Z"
+      "joinDate": "2025-02-22T18:20:58.197Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ruthnice14",
+      "email": "rut21677@gmail.com",
+      "encrypted_password": "51e1549d3b63b9d76517a4a71174b9ec",
+      "referral_code": "RU7LA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:19:01.245Z"
     }
   ],
   "withdrawals": [
