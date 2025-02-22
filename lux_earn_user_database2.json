@@ -7080,7 +7080,7 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 100,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7091,7 +7091,10 @@
         2,
         4,
         5,
-        5
+        5,
+        6,
+        6,
+        7
       ],
       "lastSpin": "2025-02-22T15:32:18.277Z"
     },
@@ -10418,7 +10421,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmy",
