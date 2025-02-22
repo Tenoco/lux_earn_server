@@ -4632,7 +4632,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 250,
+      "balance": 778,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4653,9 +4653,35 @@
         5,
         6,
         6,
-        7
+        7,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T12:56:42.485Z"
     },
     {
       "username": "Grace ",
@@ -4960,7 +4986,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:53:09.155Z"
+      "joinDate": "2025-02-22T12:53:09.155Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
