@@ -15988,7 +15988,7 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15997,7 +15997,8 @@
       "completedMissions": [
         4,
         5,
-        13
+        13,
+        12
       ],
       "lastSpin": null
     }
