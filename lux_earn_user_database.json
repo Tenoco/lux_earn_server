@@ -38322,10 +38322,12 @@
       "referral_code": "LIR3V",
       "inviter_referral_code": null,
       "inviter_username": "Bella",
-      "invited_users": [],
+      "invited_users": [
+        "Luxe "
+      ],
       "balance": 131,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:42:34.275Z",
@@ -38497,7 +38499,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Luxe ",
+      "email": "mariamazeez129@gmail.com",
+      "encrypted_password": "3c5a1d7b6aa1a05c59cb61016305a22f",
+      "referral_code": "LUW0P",
+      "inviter_referral_code": "LIR3V",
+      "inviter_username": "Lilafavour",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:42:25.968Z"
     }
   ],
   "withdrawals": [
