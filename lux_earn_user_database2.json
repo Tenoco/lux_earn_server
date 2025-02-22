@@ -738,7 +738,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -747,6 +747,7 @@
       "completedMissions": [
         1,
         1,
+        2,
         2
       ],
       "lastSpin": null
