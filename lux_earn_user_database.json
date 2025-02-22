@@ -37188,11 +37188,12 @@
       "inviter_referral_code": "Isom47",
       "inviter_username": null,
       "invited_users": [
-        "Babe"
+        "Babe",
+        "Fuckgggv"
       ],
       "balance": 25,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37231,7 +37232,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:38:34.096Z"
+      "joinDate": "2025-02-22T00:38:34.096Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fuckgggv",
+      "email": "chidieberenjoka@gmail.com",
+      "encrypted_password": "e9f5713dec55d727bb35392cec6190ce",
+      "referral_code": "FULU5",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:40:07.491Z"
     }
   ],
   "withdrawals": [
