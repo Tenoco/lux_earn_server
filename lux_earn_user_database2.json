@@ -11290,7 +11290,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 140,
+      "balance": 172,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11305,9 +11305,10 @@
         5,
         6,
         6,
-        11
+        11,
+        13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:09:09.464Z"
     },
     {
       "username": "Yuslovemighty ",
