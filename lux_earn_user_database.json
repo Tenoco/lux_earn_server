@@ -38189,7 +38189,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T04:01:02.932Z"
+      "joinDate": "2025-02-22T04:01:02.932Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Miracle ",
+      "email": "mi@gmail.com",
+      "encrypted_password": "41245c7b42f48c5bf234cb50d352a21b",
+      "referral_code": "MIX0F",
+      "inviter_referral_code": "VIAWW",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:01:17.513Z"
     }
   ],
   "withdrawals": [
