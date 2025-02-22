@@ -9345,14 +9345,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:57:25.498Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:58:17.777Z"
     },
     {
       "username": "Zeemah",
@@ -12863,7 +12863,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:57:55.580Z"
+      "joinDate": "2025-02-22T19:57:55.580Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
