@@ -8369,7 +8369,7 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8379,9 +8379,9 @@
         10,
         8,
         7,
-        6
-      ],
-      "lastSpin": null
+        6,
+        5
+      ]
     },
     {
       "username": "Danpromi",
@@ -8833,7 +8833,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:56:09.801Z"
+      "joinDate": "2025-02-22T16:56:09.801Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
