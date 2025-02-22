@@ -1611,13 +1611,17 @@
       "invited_users": [
         "Olawale22"
       ],
-      "balance": 1000,
+      "balance": 1040,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:53:21.381Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -4393,7 +4397,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:20:28.239Z"
+      "joinDate": "2025-02-22T12:20:28.239Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
