@@ -3421,7 +3421,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samfx",
@@ -3448,7 +3449,7 @@
       "inviter_referral_code": "Co4PD ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 38,
+      "balance": 58,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3456,7 +3457,8 @@
       "joinDate": "2025-02-22T11:36:50.473Z",
       "completedMissions": [
         2,
-        1
+        1,
+        4
       ],
       "lastSpin": "2025-02-22T11:38:04.010Z"
     },
