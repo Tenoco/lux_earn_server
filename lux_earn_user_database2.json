@@ -488,7 +488,7 @@
       "inviter_referral_code": "HABXB",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -502,9 +502,9 @@
         6,
         6,
         7,
-        8
-      ],
-      "lastSpin": null
+        8,
+        10
+      ]
     },
     {
       "username": "Afolabivib",
@@ -593,7 +593,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:23:42.289Z"
+      "joinDate": "2025-02-22T07:23:42.289Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
