@@ -14278,7 +14278,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mirabel",
@@ -14418,14 +14419,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:06:01.025Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T21:06:30.530Z"
+      "lastSpin": "2025-02-22T21:06:30.530Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Kezie313",
