@@ -37010,13 +37010,15 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [],
-      "balance": 1,
+      "balance": 11,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T23:45:42.034Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-21T23:46:34.607Z"
     },
     {
