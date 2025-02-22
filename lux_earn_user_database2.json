@@ -240,7 +240,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -249,9 +249,9 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "@Ukmoney",
@@ -380,7 +380,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:12:47.267Z"
+      "joinDate": "2025-02-22T07:12:47.267Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
