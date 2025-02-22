@@ -47,7 +47,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:49:48.598Z"
+      "joinDate": "2025-02-22T06:49:48.598Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "NAHEEM ",
+      "email": "naheemabsulhameed@gmail.com",
+      "encrypted_password": "cdafe9177f21478c0a4aa1a3086f2127",
+      "referral_code": "NAF7V",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:51:02.080Z"
     }
   ],
   "withdrawals": [],
