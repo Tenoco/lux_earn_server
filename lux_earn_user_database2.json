@@ -11601,7 +11601,8 @@
         2,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nickipearl ",
@@ -11760,6 +11761,33 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Bakoree",
+      "email": "ibrahimrabiu047@gmail.com",
+      "encrypted_password": "126fb64cb571a5e1d5f1868c2cdd9137",
+      "referral_code": "BATZD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 272,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:39:43.950Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        5,
+        4,
+        9,
+        8,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-21T11:40:34.475Z"
     }
   ],
   "withdrawals": [
