@@ -7655,7 +7655,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:08:30.959Z"
+      "joinDate": "2025-02-22T16:08:30.959Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adedayo Afeez ",
+      "email": "adeafeez2009@gmail.com",
+      "encrypted_password": "eaa03f76e63a0c3df2de5f3857676491",
+      "referral_code": "ADYYK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:09:22.741Z"
     }
   ],
   "withdrawals": [],
