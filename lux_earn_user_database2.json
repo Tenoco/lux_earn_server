@@ -8183,7 +8183,7 @@
       "inviter_referral_code": "Y0COH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 140,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8195,7 +8195,8 @@
         3,
         4,
         5,
-        6
+        6,
+        10
       ],
       "lastSpin": "2025-02-21T23:39:28.121Z"
     },
@@ -8542,7 +8543,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:40:53.974Z"
+      "joinDate": "2025-02-22T16:40:53.974Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
