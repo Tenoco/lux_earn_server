@@ -6188,11 +6188,12 @@
         "Hnfjfjcnfk40",
         "Hdjjddjdj34",
         "Hshdudjdjd44",
-        "Nsjdjsnsisbd5"
+        "Nsjdjsnsisbd5",
+        "Hdnidndjf45"
       ],
       "balance": 138,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -13293,7 +13294,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:12:17.460Z"
+      "joinDate": "2025-02-22T20:12:17.460Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hdnidndjf45",
+      "email": "jrjfjdnsjsjfb@gmail.com",
+      "encrypted_password": "01c96beddb172095388e43835bdb7145",
+      "referral_code": "HDN5D",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:12:24.933Z"
     }
   ],
   "withdrawals": [
