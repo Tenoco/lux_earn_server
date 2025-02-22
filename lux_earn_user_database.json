@@ -37190,11 +37190,12 @@
         "Hdbnbxz",
         "BBzbvzBb",
         "Hsbbbbb",
-        "Isaac ilechie 2030 ($)"
+        "Isaac ilechie 2030 ($)",
+        "Vsvbviper"
       ],
       "balance": 25,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37420,7 +37421,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:57:46.296Z"
+      "joinDate": "2025-02-22T00:57:46.296Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vsvbviper",
+      "email": "deworld@gmail.com",
+      "encrypted_password": "e9f5713dec55d727bb35392cec6190ce",
+      "referral_code": "VSOI3",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:59:00.453Z"
     }
   ],
   "withdrawals": [
