@@ -7709,10 +7709,12 @@
       "referral_code": "ADYYK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Adedayo hamdallah "
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:09:22.741Z",
@@ -8214,7 +8216,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:32:15.322Z"
+      "joinDate": "2025-02-22T16:32:15.322Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adedayo hamdallah ",
+      "email": "adedayohamdalat05@gmail.com",
+      "encrypted_password": "c64f59ebadf6e3a4d15f74f8f3b694f5",
+      "referral_code": "ADMB7",
+      "inviter_referral_code": "ADYYK",
+      "inviter_username": "Adedayo Afeez ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:33:25.693Z"
     }
   ],
   "withdrawals": [
