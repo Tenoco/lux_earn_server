@@ -4630,7 +4630,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4638,7 +4638,13 @@
       "joinDate": "2025-02-22T12:38:39.159Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
       ],
       "lastSpin": null
     },
@@ -4878,7 +4884,8 @@
         9,
         10,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victoria ",
