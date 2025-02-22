@@ -1918,14 +1918,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1022,
+      "balance": 1032,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:23:58.772Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T09:29:54.496Z"
+      "lastSpin": "2025-02-22T09:29:54.496Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "BigJohn ",
@@ -2029,7 +2031,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:35:56.502Z"
+      "joinDate": "2025-02-22T09:35:56.502Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
