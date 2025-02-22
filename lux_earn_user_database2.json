@@ -1389,14 +1389,16 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1018,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0,
+      "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:35:36.903Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T08:36:28.926Z"
+      "lastSpin": "2025-02-22T08:36:28.926Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Ahmad",
