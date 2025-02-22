@@ -822,6 +822,21 @@
       "joinDate": "2025-02-22T07:39:44.540Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gift Johnson",
+      "email": "johnsongift947@gmail.com",
+      "encrypted_password": "19d04d735fc78202a4924cdfae28e681",
+      "referral_code": "GIXIH",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:41:02.214Z"
     }
   ],
   "withdrawals": [],
