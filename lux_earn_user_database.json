@@ -38126,10 +38126,12 @@
       "referral_code": "OLAUF",
       "inviter_referral_code": null,
       "inviter_username": "Bella",
-      "invited_users": [],
+      "invited_users": [
+        "Olarenwaju "
+      ],
       "balance": 28,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:36:24.496Z",
@@ -38137,6 +38139,21 @@
         1
       ],
       "lastSpin": "2025-02-22T03:38:35.393Z"
+    },
+    {
+      "username": "Olarenwaju ",
+      "email": "laycondamilare95@gmail.com",
+      "encrypted_password": "9ef912d6ea9115099036703db8654eb6",
+      "referral_code": "OL7EM",
+      "inviter_referral_code": "OLAUF",
+      "inviter_username": "Olexprezzy1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:42:29.278Z"
     }
   ],
   "withdrawals": [
