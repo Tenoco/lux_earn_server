@@ -3891,7 +3891,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:58:15.939Z"
+      "joinDate": "2025-02-22T11:58:15.939Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hshsh janav",
+      "email": "samueljeremiah933@gmail.com",
+      "encrypted_password": "b39916caf41f193ee7150263386ee984",
+      "referral_code": "HSHVF",
+      "inviter_referral_code": "OYC43",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:58:57.360Z"
     }
   ],
   "withdrawals": [],
