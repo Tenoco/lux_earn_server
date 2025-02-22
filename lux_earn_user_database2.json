@@ -904,7 +904,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:48:14.660Z",
-      "lastSpin": "2025-02-22T07:50:05.704Z",
       "completedMissions": [
         1,
         2,
@@ -912,7 +911,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:50:05.704Z"
     },
     {
       "username": "Whitedrag",
@@ -1204,6 +1204,21 @@
       "joinDate": "2025-02-22T08:06:28.186Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samsam",
+      "email": "victorpraize2005@gmail.com",
+      "encrypted_password": "e77e9b81eef9b7f4f49960b757288587",
+      "referral_code": "SADOY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:15:34.082Z"
     }
   ],
   "withdrawals": [],
