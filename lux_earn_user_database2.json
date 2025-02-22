@@ -7667,14 +7667,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:09:22.741Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Tenoco",
@@ -7710,6 +7711,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:04:13.807Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T16:04:24.811Z"
     }
   ],
