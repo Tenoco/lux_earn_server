@@ -4642,7 +4642,23 @@
       "completedMissions": [
         10,
         10
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Hindatu",
+      "email": "ohunhindatu@gmail.com",
+      "encrypted_password": "94a3fbfdf57e8fd6f24c935fb9aec361",
+      "referral_code": "HIHO6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:40:56.021Z"
     }
   ],
   "withdrawals": [],
