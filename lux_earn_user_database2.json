@@ -4490,7 +4490,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4505,7 +4505,8 @@
         10,
         9,
         6,
-        8
+        8,
+        7
       ]
     }
   ],
