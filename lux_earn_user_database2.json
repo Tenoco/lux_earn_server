@@ -15896,12 +15896,13 @@
       "inviter_referral_code": "j",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:03:09.848Z"
+      "joinDate": "2025-02-22T23:03:09.848Z",
+      "lastSpin": "2025-02-22T23:04:01.870Z"
     }
   ],
   "withdrawals": [
