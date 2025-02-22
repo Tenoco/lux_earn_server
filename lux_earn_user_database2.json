@@ -2124,16 +2124,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1040,
+      "balance": 1110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:41:43.711Z",
+      "lastSpin": "2025-02-22T09:45:12.806Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-22T09:45:12.806Z"
+        1,
+        2,
+        4,
+        5,
+        9
+      ]
     },
     {
       "username": "Solo",
@@ -2760,14 +2764,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
-      "lastSpin": "2025-02-22T10:54:01.389Z",
       "completedMissions": [
         1,
         2,
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:54:01.389Z"
     },
     {
       "username": "Izzypluto24 ",
