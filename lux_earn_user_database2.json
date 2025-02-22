@@ -15615,7 +15615,7 @@
       "inviter_referral_code": "CAKTG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15623,7 +15623,8 @@
       "joinDate": "2025-02-22T22:26:43.816Z",
       "completedMissions": [
         1,
-        2
+        2,
+        6
       ]
     }
   ],
