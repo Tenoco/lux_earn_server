@@ -11703,7 +11703,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11711,7 +11711,9 @@
       "joinDate": "2025-02-22T19:13:09.671Z",
       "completedMissions": [
         1,
-        13
+        13,
+        13,
+        12
       ],
       "lastSpin": null
     },
@@ -12069,7 +12071,8 @@
         13,
         13,
         13
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nanaho",
