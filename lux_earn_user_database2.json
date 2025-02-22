@@ -1481,7 +1481,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:44:07.940Z"
+      "joinDate": "2025-02-22T08:44:07.940Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chizzy",
+      "email": "olishenekewekeshili@gmail.com",
+      "encrypted_password": "a6b29f64597d297fbc5a7d439a09c275",
+      "referral_code": "CHFO4",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:44:10.412Z"
     }
   ],
   "withdrawals": [],
