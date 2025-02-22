@@ -6372,10 +6372,12 @@
       "referral_code": "PRQAG",
       "inviter_referral_code": "AB6L2",
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "T.might1"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -6593,7 +6595,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:55:57.930Z"
+      "joinDate": "2025-02-22T14:55:57.930Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "T.might1",
+      "email": "T.might116@gmail.com",
+      "encrypted_password": "f6b5c74e291abc8275790dc732798411",
+      "referral_code": "T.LFG",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:56:08.974Z"
     }
   ],
   "withdrawals": [],
