@@ -240,7 +240,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -254,9 +254,9 @@
         6,
         7,
         8,
-        9
-      ],
-      "lastSpin": null
+        9,
+        10
+      ]
     },
     {
       "username": "@Ukmoney",
