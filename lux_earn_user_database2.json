@@ -251,7 +251,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -375,14 +376,13 @@
       "inviter_referral_code": "ZE0YR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:12:47.267Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T07:13:48.081Z"
     }
   ],
   "withdrawals": [],
