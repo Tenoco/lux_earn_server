@@ -415,7 +415,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:14:16.743Z"
+      "joinDate": "2025-02-22T07:14:16.743Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "gabbymalik",
+      "email": "omalikogabriel27@gmail.com",
+      "encrypted_password": "3cf05e01aeb60fdc01e176aab900a203",
+      "referral_code": "GASOY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:14:24.711Z"
     }
   ],
   "withdrawals": [],
