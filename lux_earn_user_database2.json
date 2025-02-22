@@ -7026,7 +7026,7 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7036,7 +7036,8 @@
         1,
         2,
         5,
-        4
+        4,
+        10
       ],
       "lastSpin": "2025-02-22T15:21:51.659Z"
     },
@@ -7104,7 +7105,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:26:13.108Z"
+      "joinDate": "2025-02-22T15:26:13.108Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
