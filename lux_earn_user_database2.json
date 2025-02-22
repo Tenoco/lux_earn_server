@@ -679,16 +679,17 @@
       "inviter_referral_code": "HELL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 36,
+      "balance": 46,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:31:07.752Z",
+      "lastSpin": "2025-02-22T07:31:32.640Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-22T07:31:32.640Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Bobo1 ",
@@ -720,7 +721,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:34:05.350Z"
+      "joinDate": "2025-02-22T07:34:05.350Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
