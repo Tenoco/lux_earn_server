@@ -1624,7 +1624,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Teejay01",
@@ -1950,14 +1951,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:27:59.994Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T09:30:10.776Z"
+      "lastSpin": "2025-02-22T09:30:10.776Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Mannyrichie ",
