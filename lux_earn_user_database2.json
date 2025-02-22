@@ -9004,14 +9004,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 102,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:05:01.354Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T17:05:25.707Z"
+      "lastSpin": "2025-02-22T17:05:25.707Z",
+      "completedMissions": [
+        5,
+        2,
+        4,
+        10,
+        9
+      ]
     },
     {
       "username": "DENZY_032",
