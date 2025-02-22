@@ -6071,12 +6071,13 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:10:32.987Z"
+      "joinDate": "2025-02-22T14:10:32.987Z",
+      "lastSpin": "2025-02-22T14:11:13.577Z"
     }
   ],
   "withdrawals": [],
