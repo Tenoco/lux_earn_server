@@ -38300,7 +38300,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T04:35:30.651Z"
+      "joinDate": "2025-02-22T04:35:30.651Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
