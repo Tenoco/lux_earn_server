@@ -16180,7 +16180,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 132,
+      "balance": 192,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16190,7 +16190,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "lastSpin": "2025-02-21T06:57:40.024Z"
     },
@@ -38538,7 +38540,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Fish",
