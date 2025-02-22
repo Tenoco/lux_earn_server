@@ -15618,7 +15618,7 @@
       "inviter_referral_code": "CAKTG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15627,7 +15627,10 @@
       "completedMissions": [
         1,
         2,
-        6
+        6,
+        4,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -15645,7 +15648,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:29:22.280Z",
-      "lastSpin": "2025-02-22T22:29:37.240Z",
       "completedMissions": [
         1,
         2,
@@ -15660,7 +15662,8 @@
         11,
         13,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-22T22:29:37.240Z"
     },
     {
       "username": "Olamide5678",
