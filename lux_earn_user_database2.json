@@ -10338,14 +10338,15 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
       "completedMissions": [
-        4
+        4,
+        5
       ]
     },
     {
