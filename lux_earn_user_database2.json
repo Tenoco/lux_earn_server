@@ -6512,14 +6512,15 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:50:27.583Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -6575,7 +6576,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:55:29.526Z"
+      "joinDate": "2025-02-22T14:55:29.526Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
