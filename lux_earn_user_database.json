@@ -1247,11 +1247,12 @@
         "Blacklord55",
         "The jester002",
         "Ayo2006",
-        "Domex_47"
+        "Domex_47",
+        "SasukeU"
       ],
       "balance": 315,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:19.870Z",
@@ -38514,7 +38515,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:10:14.440Z"
+      "joinDate": "2025-02-22T06:10:14.440Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SasukeU",
+      "email": "emmanuelphoenix101@gmail.com",
+      "encrypted_password": "4529c6e51dd56e555f3eda64b47abf61",
+      "referral_code": "SALZR",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:10:51.436Z"
     }
   ],
   "withdrawals": [
