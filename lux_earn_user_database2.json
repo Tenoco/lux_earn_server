@@ -256,7 +256,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -678,14 +679,16 @@
       "inviter_referral_code": "HELL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 26,
+      "balance": 36,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:31:07.752Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T07:31:32.640Z"
+      "lastSpin": "2025-02-22T07:31:32.640Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [],
