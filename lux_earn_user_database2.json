@@ -9758,11 +9758,12 @@
       "invited_users": [
         "Hauwa35 ",
         "Laz005",
-        "Alhassan 001"
+        "Alhassan 001",
+        "Lizzybabe"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -10525,7 +10526,8 @@
         4,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nsjdjsnsisbd5",
@@ -10622,6 +10624,21 @@
         1
       ],
       "lastSpin": "2025-02-22T00:34:40.028Z"
+    },
+    {
+      "username": "Lizzybabe",
+      "email": "elizabetholatunji2040@gmail.com",
+      "encrypted_password": "887b4739a3d339766b83527d9487639c",
+      "referral_code": "LIZFH",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:32:58.988Z"
     }
   ],
   "withdrawals": [
