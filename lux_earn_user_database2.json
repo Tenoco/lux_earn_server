@@ -851,7 +851,7 @@
       "inviter_referral_code": "IBX2K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -860,6 +860,7 @@
       "lastSpin": "2025-02-22T07:45:07.141Z",
       "completedMissions": [
         1,
+        2,
         2
       ]
     }
