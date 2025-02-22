@@ -11615,7 +11615,8 @@
         7,
         9,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nickipearl ",
@@ -11874,6 +11875,25 @@
       "joinDate": "2025-02-22T19:17:36.406Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alexis",
+      "email": "eferusuoaalex@gmail.com",
+      "encrypted_password": "c971ed08bb89fa6d630fbc7bc89086cf",
+      "referral_code": "ALQCH",
+      "inviter_referral_code": "C04PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 35,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:33:20.381Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-22T03:34:28.627Z"
     }
   ],
   "withdrawals": [
