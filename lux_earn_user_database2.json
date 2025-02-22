@@ -13468,19 +13468,17 @@
       "referral_code": "ANBCY",
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
-      "invited_users": [
-        "Debbie love"
-      ],
-      "balance": 10,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 20,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Charles",
@@ -13742,7 +13740,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:34:51.889Z"
+      "joinDate": "2025-02-22T20:34:51.889Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
