@@ -1644,7 +1644,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:55:03.864Z"
+      "joinDate": "2025-02-22T08:55:03.864Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Godstime",
+      "email": "obazuayegodstime7@gmail.com",
+      "encrypted_password": "ac40b09d8766ee6c2ea0e65dfb14cea4",
+      "referral_code": "GO5TV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:56:10.093Z"
     }
   ],
   "withdrawals": [],
