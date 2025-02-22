@@ -28305,11 +28305,12 @@
       "invited_users": [
         "Blessingivy",
         "GTNice ",
-        "Sofia"
+        "Sofia",
+        "Princepromzie"
       ],
       "balance": 48,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -38564,6 +38565,21 @@
         9
       ],
       "lastSpin": "2025-02-22T11:39:30.403Z"
+    },
+    {
+      "username": "Princepromzie",
+      "email": "princepromzie@gmail.com",
+      "encrypted_password": "55a995c43c6422d062d5d3e7777e1495",
+      "referral_code": "PR9NI",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:49:57.223Z"
     }
   ],
   "withdrawals": [
