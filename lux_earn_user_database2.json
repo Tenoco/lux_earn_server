@@ -6077,7 +6077,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T14:11:13.577Z"
+    },
+    {
+      "username": "Chris4441",
+      "email": "charlotteden60@gmail.com",
+      "encrypted_password": "dbb3b3c83d6034d54840dbb558c4527c",
+      "referral_code": "CHH73",
+      "inviter_referral_code": "RAH53",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:12:10.066Z"
     }
   ],
   "withdrawals": [],
