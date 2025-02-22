@@ -13762,7 +13762,7 @@
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13770,6 +13770,7 @@
       "joinDate": "2025-02-22T20:34:51.889Z",
       "completedMissions": [
         1,
+        2,
         2
       ],
       "lastSpin": null
