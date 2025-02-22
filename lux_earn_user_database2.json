@@ -13492,7 +13492,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 65,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13501,7 +13501,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        5,
+        5
       ],
       "lastSpin": "2025-02-22T03:29:17.372Z"
     }
