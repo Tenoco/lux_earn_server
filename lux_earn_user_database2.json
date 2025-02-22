@@ -14609,7 +14609,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
-      "lastSpin": "2025-02-22T21:13:45.111Z",
       "completedMissions": [
         1,
         2,
@@ -14617,7 +14616,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-22T21:13:45.111Z"
     },
     {
       "username": "Hsjdjdndjjr",
@@ -14694,6 +14694,21 @@
         8
       ],
       "lastSpin": "2025-02-22T21:21:45.861Z"
+    },
+    {
+      "username": "Damilare ",
+      "email": "al9568937@gmail.com",
+      "encrypted_password": "425e8446409f9ef1ba653172535029ba",
+      "referral_code": "DAA21",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:26:46.947Z"
     }
   ],
   "withdrawals": [
