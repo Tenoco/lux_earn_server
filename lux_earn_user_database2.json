@@ -14273,7 +14273,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:54:36.033Z"
+      "joinDate": "2025-02-22T20:54:36.033Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Draklee",
+      "email": "ayomideb4u@gmail.com",
+      "encrypted_password": "922abc0067d62fccec64a966516d2a52",
+      "referral_code": "DRYR6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:55:46.183Z"
     }
   ],
   "withdrawals": [
