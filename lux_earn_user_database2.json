@@ -67,7 +67,8 @@
       "joinDate": "2025-02-22T06:51:02.080Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@krispi",
@@ -209,6 +210,21 @@
       "joinDate": "2025-02-22T06:57:06.458Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dejames17",
+      "email": "dejamesful@gmail.com",
+      "encrypted_password": "f1c0188e15b50041e6fecc8bec501a7d",
+      "referral_code": "DE86L",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:57:30.725Z"
     }
   ],
   "withdrawals": [],
