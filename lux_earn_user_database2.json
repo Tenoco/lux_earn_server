@@ -10866,14 +10866,15 @@
       "inviter_referral_code": "AL4BB",
       "inviter_username": "Alhassan 001",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:39:52.971Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
