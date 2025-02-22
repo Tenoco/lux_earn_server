@@ -47,13 +47,11 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky",
-        "Roman6040 ",
-        "Nworie"
+        "Pinkyponky"
       ],
       "balance": 5503,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -8966,12 +8964,11 @@
       "inviter_username": null,
       "invited_users": [
         "Sammy4022",
-        "Deraboy22 ",
-        "Promise"
+        "Deraboy22 "
       ],
       "balance": 315,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:49:04.359Z",
@@ -15050,12 +15047,11 @@
         "Divine ",
         "Jibola",
         "Ashabi",
-        "Wiskid",
-        "Bankai"
+        "Wiskid"
       ],
       "balance": 300,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -15992,7 +15988,7 @@
         "Rith",
         "Henry"
       ],
-      "balance": 285,
+      "balance": 270,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -16009,7 +16005,7 @@
         5,
         5
       ],
-      "lastSpin": "2025-02-22T06:59:38.941Z"
+      "lastSpin": null
     },
     {
       "username": "krrishna",
@@ -28046,12 +28042,11 @@
       "invited_users": [
         "Odubiyi nofiu",
         "Alnasiry0",
-        "Abdul ganiu",
-        "Olamilekan"
+        "Abdul ganiu"
       ],
       "balance": 550,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:16:20.071Z",
@@ -38502,104 +38497,7 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Olamilekan",
-      "email": "austinsnell@gmail.com",
-      "encrypted_password": "8835fa54b0aa8a9c6621230e8f794a5f",
-      "referral_code": "OLUBN",
-      "inviter_referral_code": "NAN3U",
-      "inviter_username": "Nabeelo",
-      "invited_users": [],
-      "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T06:47:30.009Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Roman6040 ",
-      "email": "nicolastofunmi@gmail.com",
-      "encrypted_password": "6670ecc1ae207bed90763d6e0b1617ee",
-      "referral_code": "ROPMW",
-      "inviter_referral_code": null,
-      "inviter_username": "Bella",
-      "invited_users": [],
-      "balance": 1140,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T06:48:20.150Z",
-      "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        9,
-        8,
-        10
-      ],
-      "lastSpin": null
-    },
-    {
-      "username": "Bankai",
-      "email": "kokisem782@yalcu.com",
-      "encrypted_password": "9b061483d012e82e840fe92a7ecdef10",
-      "referral_code": "BA93L",
-      "inviter_referral_code": "SUB6O",
-      "inviter_username": "Sungjinwoo123 ",
-      "invited_users": [],
-      "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T06:49:50.384Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Nworie",
-      "email": "nworiebenedict4@gmail.com",
-      "encrypted_password": "7e6ab18ed63efa843fb060d7f1179a6b",
-      "referral_code": "NW47X",
-      "inviter_referral_code": null,
-      "inviter_username": "Bella",
-      "invited_users": [],
-      "balance": 38,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T07:18:02.235Z",
-      "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-22T07:18:31.042Z"
-    },
-    {
-      "username": "Promise",
-      "email": "promisgift400@gmail.com",
-      "encrypted_password": "484788875f34573ca9ec5549738dd1c6",
-      "referral_code": "PRO5B",
-      "inviter_referral_code": "SA6WT",
-      "inviter_username": "Sammy4021",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T07:24:01.429Z"
+      "joinDate": "2025-02-22T05:07:33.095Z"
     }
   ],
   "withdrawals": [
