@@ -9164,16 +9164,16 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:15:45.370Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        5
+      ]
     },
     {
       "username": "folakemi ",
@@ -9792,7 +9792,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:59:32.251Z"
+      "joinDate": "2025-02-22T17:59:32.251Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
