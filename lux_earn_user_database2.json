@@ -3480,20 +3480,21 @@
       "inviter_referral_code": "CH43H",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
+      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
         1,
         2,
         9,
         8,
-        7
-      ],
-      "lastSpin": "2025-02-22T11:38:10.345Z"
+        7,
+        6
+      ]
     },
     {
       "username": "Ade",
@@ -3576,7 +3577,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:45:33.451Z"
+      "joinDate": "2025-02-22T11:45:33.451Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
