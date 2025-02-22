@@ -763,7 +763,8 @@
       "joinDate": "2025-02-22T07:37:12.243Z",
       "completedMissions": [
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nemiwizzy",
@@ -781,6 +782,21 @@
       "joinDate": "2025-02-22T07:38:37.205Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alhajinhjy",
+      "email": "alhajinhajiya99@gmail.com",
+      "encrypted_password": "7a2cf9999ee9ae5876c866e640655364",
+      "referral_code": "ALV0R",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:39:05.908Z"
     }
   ],
   "withdrawals": [],
