@@ -33262,14 +33262,15 @@
       "inviter_referral_code": "GROUP2",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:34:44.191Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-22T12:38:34.553Z"
     },
