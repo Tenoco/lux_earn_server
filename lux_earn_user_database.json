@@ -37821,7 +37821,7 @@
       "inviter_referral_code": "FMKRW",
       "inviter_username": "fmdollar",
       "invited_users": [],
-      "balance": 25,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37829,7 +37829,9 @@
       "joinDate": "2025-02-22T02:14:54.295Z",
       "lastSpin": "2025-02-22T02:15:31.041Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2
       ]
     },
     {
