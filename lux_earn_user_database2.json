@@ -1373,7 +1373,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:35:30.580Z"
+      "joinDate": "2025-02-22T08:35:30.580Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Itzvickygold",
+      "email": "victorakande170@gmail.com",
+      "encrypted_password": "3a3036d39caf572b9fb8ccf377e55f6e",
+      "referral_code": "IT1AV",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:35:36.903Z"
     }
   ],
   "withdrawals": [],
