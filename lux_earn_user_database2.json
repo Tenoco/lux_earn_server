@@ -7805,14 +7805,15 @@
         "GTNice ",
         "Sofia"
       ],
-      "balance": 48,
+      "balance": 68,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
       "completedMissions": [
-        1
+        1,
+        10
       ],
       "lastSpin": "2025-02-21T11:30:44.458Z"
     },
