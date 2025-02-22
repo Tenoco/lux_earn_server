@@ -13263,10 +13263,12 @@
       "referral_code": "OS6AF",
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
-      "invited_users": [],
+      "invited_users": [
+        "ChocoMarley "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -15151,6 +15153,21 @@
       "joinDate": "2025-02-22T21:48:52.529Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ChocoMarley ",
+      "email": "obiajunwannewisdom17@gmail.com",
+      "encrypted_password": "44b6f9ea36264a2eb166fa9b2f7f7be1",
+      "referral_code": "CHA1Q",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:51:54.821Z"
     }
   ],
   "withdrawals": [
