@@ -4239,10 +4239,12 @@
       "referral_code": "BO603",
       "inviter_referral_code": "Leuph",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Cynthia"
+      ],
       "balance": 35,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:10:26.775Z",
@@ -4910,6 +4912,21 @@
       "joinDate": "2025-02-22T12:49:01.386Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cynthia",
+      "email": "cynthiatracy232@gmail.com",
+      "encrypted_password": "91ba783a876ce931492898199b1cb81c",
+      "referral_code": "CYW0M",
+      "inviter_referral_code": "BO603",
+      "inviter_username": "Bolaji550",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:54:53.718Z"
     }
   ],
   "withdrawals": [],
