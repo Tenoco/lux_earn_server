@@ -13539,7 +13539,7 @@
       "inviter_referral_code": "HEO20",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 170,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13558,7 +13558,7 @@
         10,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T20:53:02.521Z"
     },
     {
       "username": "Successful5",
@@ -13729,7 +13729,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:32:19.996Z",
-      "lastSpin": "2025-02-22T20:34:25.626Z",
       "completedMissions": [
         1,
         1,
@@ -13753,7 +13752,8 @@
         12,
         12,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-22T20:34:25.626Z"
     },
     {
       "username": "Gfhfjghjjjgfhg67",
