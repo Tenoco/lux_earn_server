@@ -10127,7 +10127,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:17:24.317Z"
+      "joinDate": "2025-02-22T18:17:24.317Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "alexnwametu",
+      "email": "alexbaby0000000000@gmail.com",
+      "encrypted_password": "1c1323e1c3544e0d96e7629a76a0dabb",
+      "referral_code": "ALKNZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:17:46.987Z"
     }
   ],
   "withdrawals": [
