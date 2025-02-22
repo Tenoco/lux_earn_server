@@ -2037,7 +2037,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1040,
+      "balance": 1060,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2046,7 +2046,8 @@
       "completedMissions": [
         4,
         7,
-        1
+        1,
+        5
       ],
       "lastSpin": null
     },
