@@ -2051,13 +2051,15 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1001,
+      "balance": 1011,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:37:02.936Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T09:38:18.282Z"
     },
     {
@@ -2091,10 +2093,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:41:43.711Z",
-      "lastSpin": "2025-02-22T09:45:12.806Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:45:12.806Z"
     },
     {
       "username": "Solo",
