@@ -7548,7 +7548,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:59:59.368Z"
+      "joinDate": "2025-02-22T15:59:59.368Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "YoungZ",
+      "email": "zoranokpani@gmail.com",
+      "encrypted_password": "71736c2249e2005a550a770070e6096c",
+      "referral_code": "YOXAJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:00:54.661Z"
     }
   ],
   "withdrawals": [],
