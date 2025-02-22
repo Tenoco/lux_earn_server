@@ -10848,16 +10848,17 @@
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:38:36.914Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T18:43:59.747Z"
     },
     {
       "username": "Abubakari ",
