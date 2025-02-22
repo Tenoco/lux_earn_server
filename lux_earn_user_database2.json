@@ -4957,14 +4957,15 @@
       "inviter_referral_code": "BO603",
       "inviter_username": "Bolaji550",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:54:53.718Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
@@ -5265,7 +5266,8 @@
         10,
         10,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samodly",
