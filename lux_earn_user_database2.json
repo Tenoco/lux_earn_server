@@ -1391,7 +1391,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:35:36.903Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T08:36:28.926Z"
+    },
+    {
+      "username": "Ahmad",
+      "email": "abubakarahmad9492@gmail.com",
+      "encrypted_password": "906ee931f19fdf3b3aecb6fac96c44d3",
+      "referral_code": "AH0Q8",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:36:57.270Z"
     }
   ],
   "withdrawals": [],
