@@ -8235,7 +8235,7 @@
       "inviter_referral_code": "ADYYK",
       "inviter_username": "Adedayo Afeez ",
       "invited_users": [],
-      "balance": 150,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8250,9 +8250,9 @@
         6,
         5,
         5,
-        4
-      ],
-      "lastSpin": null
+        4,
+        2
+      ]
     },
     {
       "username": "Yarima76",
@@ -8376,7 +8376,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:37:58.964Z"
+      "joinDate": "2025-02-22T16:37:58.964Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
