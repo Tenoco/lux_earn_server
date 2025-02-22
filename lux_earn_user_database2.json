@@ -10659,11 +10659,12 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [
-        "Lizzybee"
+        "Lizzybee",
+        "sammyjo"
       ],
       "balance": 240,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:32:58.988Z",
@@ -11298,6 +11299,21 @@
       "joinDate": "2025-02-22T18:58:43.023Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "sammyjo",
+      "email": "oladimejisamuel2040@gmail.com",
+      "encrypted_password": "e155e065a20072aa04136093acc4a0e0",
+      "referral_code": "SA0QM",
+      "inviter_referral_code": "LIZFH",
+      "inviter_username": "Lizzybabe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:59:01.169Z"
     }
   ],
   "withdrawals": [
