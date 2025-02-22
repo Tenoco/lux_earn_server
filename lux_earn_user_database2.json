@@ -10849,7 +10849,7 @@
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10857,7 +10857,9 @@
       "joinDate": "2025-02-22T18:38:36.914Z",
       "completedMissions": [
         1,
-        2
+        2,
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T18:43:59.747Z"
     },
@@ -10968,7 +10970,8 @@
       "joinDate": "2025-02-22T18:44:45.894Z",
       "completedMissions": [
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Brjude",
