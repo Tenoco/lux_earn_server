@@ -15620,7 +15620,7 @@
       "inviter_referral_code": "CAKTG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15632,7 +15632,9 @@
         6,
         4,
         4,
-        5
+        5,
+        5,
+        7
       ],
       "lastSpin": null
     },
