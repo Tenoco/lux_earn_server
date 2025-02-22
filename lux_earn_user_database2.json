@@ -15756,7 +15756,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:44:30.431Z"
+      "joinDate": "2025-02-22T22:44:30.431Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "PLuu2",
+      "email": "praiseubom@gmail.com",
+      "encrypted_password": "31c0f5bdbf3f9ff9c8645677eb8ce2c9",
+      "referral_code": "PL7GX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:46:26.652Z"
     }
   ],
   "withdrawals": [
