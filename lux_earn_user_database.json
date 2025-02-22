@@ -46,11 +46,12 @@
         "Lilafavour",
         "Kingobillions",
         "Lopezcat1",
-        "STICKZ"
+        "STICKZ",
+        "Pinkyponky"
       ],
       "balance": 5503,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38389,7 +38390,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T04:56:51.964Z"
+      "joinDate": "2025-02-22T04:56:51.964Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Pinkyponky",
+      "email": "Rachelprincess455@gmail.com",
+      "encrypted_password": "efbf1eb09d62abd303f12835086e5465",
+      "referral_code": "PIE99",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:57:55.251Z"
     }
   ],
   "withdrawals": [
