@@ -3554,10 +3554,12 @@
       "referral_code": "BAL4N",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Inioluwa "
+      ],
       "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -3645,7 +3647,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:48:36.969Z"
+      "joinDate": "2025-02-22T11:48:36.969Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Inioluwa ",
+      "email": "giftedinioluwa@gmail.com",
+      "encrypted_password": "b8f3e70e587ed5a2f5d21e4ad909e87e",
+      "referral_code": "INE1J",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:49:20.712Z"
     }
   ],
   "withdrawals": [],
