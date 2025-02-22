@@ -40,11 +40,12 @@
         "Elvis",
         "Dorathy4",
         "Shilrobiu ",
-        "GodsonDivine1"
+        "GodsonDivine1",
+        "Olexprezzy1"
       ],
       "balance": 5503,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38113,7 +38114,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:33:20.381Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T03:34:28.627Z"
+    },
+    {
+      "username": "Olexprezzy1",
+      "email": "sifengolexlaycon@gmail.com",
+      "encrypted_password": "00fc16739de7869e56739c447af56999",
+      "referral_code": "OLAUF",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:36:24.496Z"
     }
   ],
   "withdrawals": [
