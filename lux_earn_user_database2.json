@@ -6622,7 +6622,7 @@
       "inviter_referral_code": "PRQAD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6637,7 +6637,9 @@
         10,
         11,
         12,
-        6
+        6,
+        6,
+        9
       ],
       "lastSpin": "2025-02-22T15:03:00.658Z"
     },
