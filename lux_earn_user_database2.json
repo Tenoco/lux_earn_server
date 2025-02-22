@@ -3220,10 +3220,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
-      "lastSpin": "2025-02-22T11:28:07.479Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:28:07.479Z"
     },
     {
       "username": "BÍGG VAS",
@@ -3292,6 +3292,21 @@
       "joinDate": "2025-02-22T11:29:31.108Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "27wy72",
+      "email": "53y2g@gam8o.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "277GA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:24:59.413Z"
     }
   ],
   "withdrawals": [],
