@@ -2759,13 +2759,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
-      "lastSpin": "2025-02-22T10:54:01.389Z",
       "completedMissions": [
         1,
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:54:01.389Z"
     },
     {
       "username": "Izzypluto24 ",
@@ -2834,6 +2834,21 @@
       "joinDate": "2025-02-22T10:59:29.325Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Happiness ",
+      "email": "kateemma318@gmail.con",
+      "encrypted_password": "120994e1c714de36d7eda89c2d8a54f7",
+      "referral_code": "HAZ1A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:00:52.948Z"
     }
   ],
   "withdrawals": [],
