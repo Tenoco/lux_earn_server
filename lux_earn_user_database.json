@@ -20917,11 +20917,12 @@
         "Holojuk",
         "Smartdove23",
         "Smartdove77",
-        "Smartdovel6"
+        "Smartdovel6",
+        "Davkitbot"
       ],
       "balance": 268,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:59.512Z",
@@ -38267,6 +38268,21 @@
       "joinDate": "2025-02-22T04:32:17.118Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davkitbot",
+      "email": "dolamide@gmail.com",
+      "encrypted_password": "082638b8b4607d173613734e7cf8f8df",
+      "referral_code": "DAQP2",
+      "inviter_referral_code": "SM0RA",
+      "inviter_username": "Smartdove ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:34:07.417Z"
     }
   ],
   "withdrawals": [
