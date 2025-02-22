@@ -1195,11 +1195,12 @@
         "Oladunni",
         "Andrew ",
         "Joyce ",
-        "Funmilayo24"
+        "Funmilayo24",
+        "Hold67"
       ],
       "balance": 215,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:10:08.932Z",
@@ -38553,6 +38554,21 @@
       "joinDate": "2025-02-22T06:11:24.339Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hold67",
+      "email": "gracesliver214@gmail.com",
+      "encrypted_password": "cb57ef59a3fb0bab7580730bbe03bafa",
+      "referral_code": "HOZ6T",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": "Diamond2024",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:12:04.680Z"
     }
   ],
   "withdrawals": [
