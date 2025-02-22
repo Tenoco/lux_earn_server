@@ -6213,11 +6213,12 @@
         "Sjjshdbddbh45",
         "Hshsjdjdnd47",
         "Hdjdjdjdjd48",
-        "Jdjdndbdb402"
+        "Jdjdndbdb402",
+        "Hdjdndjdjf29"
       ],
       "balance": 138,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -14818,7 +14819,8 @@
         10,
         12,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Anjolaoluwa ",
@@ -15040,6 +15042,21 @@
       "joinDate": "2025-02-22T21:42:26.058Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hdjdndjdjf29",
+      "email": "jsjsnsnsnsn@gmail.com",
+      "encrypted_password": "cd1ac7576a99005225e99ae984f7e610",
+      "referral_code": "HDC0S",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:44:08.576Z"
     }
   ],
   "withdrawals": [
