@@ -13245,7 +13245,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13253,9 +13253,11 @@
       "joinDate": "2025-02-22T20:11:28.957Z",
       "completedMissions": [
         13,
-        12
-      ],
-      "lastSpin": null
+        12,
+        10,
+        8,
+        7
+      ]
     },
     {
       "username": "Haruna44",
