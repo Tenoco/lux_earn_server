@@ -5986,7 +5986,7 @@
       "invited_users": [
         "CUTECEO"
       ],
-      "balance": 30,
+      "balance": 50,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -5994,7 +5994,8 @@
       "joinDate": "2025-02-22T14:02:10.566Z",
       "completedMissions": [
         1,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
