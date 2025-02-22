@@ -4188,13 +4188,15 @@
       "inviter_referral_code": "Leuph",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:10:26.775Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T12:11:29.427Z"
     },
     {
