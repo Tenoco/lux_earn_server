@@ -10633,14 +10633,13 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:32:58.988Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T18:33:51.088Z"
     },
     {
       "username": "Samad",
@@ -10655,7 +10654,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:33:10.568Z"
+      "joinDate": "2025-02-22T18:33:10.568Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
