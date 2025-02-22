@@ -11727,10 +11727,12 @@
       "referral_code": "HEDTV",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Christy"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:12:40.885Z",
@@ -13922,6 +13924,21 @@
       "joinDate": "2025-02-22T20:43:23.583Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Christy",
+      "email": "christybanky0@gmail.com",
+      "encrypted_password": "37b4158e8e1b8e5e0ce6437113ac6eb5",
+      "referral_code": "CHGX2",
+      "inviter_referral_code": "HEDTV",
+      "inviter_username": "Henry5@6",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:43:37.037Z"
     }
   ],
   "withdrawals": [
