@@ -11822,7 +11822,7 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [],
-      "balance": 50,
+      "balance": 71,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11832,9 +11832,10 @@
         1,
         1,
         2,
-        4
+        4,
+        5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:22:39.952Z"
     },
     {
       "username": "Maggielove",
@@ -11987,7 +11988,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:22:30.208Z"
+      "joinDate": "2025-02-22T19:22:30.208Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
