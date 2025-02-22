@@ -35612,14 +35612,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 55,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:56:05.334Z",
       "completedMissions": [
-        1
+        1,
+        10,
+        10,
+        10
       ],
       "lastSpin": "2025-02-21T14:57:18.831Z"
     },
