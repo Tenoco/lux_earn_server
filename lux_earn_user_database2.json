@@ -6072,10 +6072,12 @@
       "referral_code": "AB6L2",
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayomi"
+      ],
       "balance": 18,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -6115,6 +6117,21 @@
       "joinDate": "2025-02-22T14:19:40.466Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayomi",
+      "email": "adeyanjukehinde760@gmail.com",
+      "encrypted_password": "33e624b6564f8e1077caaee742bf3d91",
+      "referral_code": "AYVC2",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:23:14.004Z"
     }
   ],
   "withdrawals": [],
