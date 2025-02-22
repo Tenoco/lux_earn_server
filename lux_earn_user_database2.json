@@ -10859,7 +10859,7 @@
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10871,7 +10871,8 @@
         2,
         4,
         4,
-        5
+        5,
+        12
       ],
       "lastSpin": "2025-02-22T18:43:59.747Z"
     },
@@ -11036,7 +11037,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:48:03.295Z"
+      "joinDate": "2025-02-22T18:48:03.295Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
