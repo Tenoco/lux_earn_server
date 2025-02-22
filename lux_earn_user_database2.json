@@ -3358,10 +3358,12 @@
       "referral_code": "PRJ2I",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Beenana"
+      ],
       "balance": 1185,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:29:31.108Z",
@@ -6236,6 +6238,21 @@
       "joinDate": "2025-02-22T14:30:42.568Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Beenana",
+      "email": "bayodeadewumi91@gmail.com",
+      "encrypted_password": "3e99a4b84407b1c45c500b629abed465",
+      "referral_code": "BEWUE",
+      "inviter_referral_code": "PRJ2I",
+      "inviter_username": "Pramo",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:30:59.937Z"
     }
   ],
   "withdrawals": [],
