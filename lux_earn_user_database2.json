@@ -9861,7 +9861,7 @@
       "inviter_referral_code": "VIM4T",
       "inviter_username": "Vice11",
       "invited_users": [],
-      "balance": 72,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9872,7 +9872,9 @@
         1,
         2,
         2,
-        2
+        2,
+        4,
+        4
       ],
       "lastSpin": "2025-02-22T18:08:57.331Z"
     },
@@ -9981,7 +9983,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:12:18.770Z"
+      "joinDate": "2025-02-22T18:12:18.770Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
