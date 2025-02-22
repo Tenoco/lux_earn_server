@@ -1692,7 +1692,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:59:00.371Z"
+      "joinDate": "2025-02-22T08:59:00.371Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chukle001 ",
+      "email": "omegachukle@gmail.com",
+      "encrypted_password": "9184e8d01f50b9db9b7ceba5e4be697d",
+      "referral_code": "CHZYM",
+      "inviter_referral_code": "CH0BX ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:59:41.938Z"
     }
   ],
   "withdrawals": [],
