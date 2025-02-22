@@ -7081,7 +7081,7 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 270,
+      "balance": 350,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7102,7 +7102,11 @@
         9,
         9,
         9,
-        9
+        9,
+        10,
+        10,
+        10,
+        11
       ],
       "lastSpin": "2025-02-22T15:32:18.277Z"
     },
@@ -10509,7 +10513,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nsjdjsnsisbd5",
