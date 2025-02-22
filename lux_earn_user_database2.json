@@ -6398,7 +6398,7 @@
         "Temitope23",
         "Dowland19"
       ],
-      "balance": 30,
+      "balance": 70,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -6407,7 +6407,9 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        4,
+        4
       ],
       "lastSpin": null
     },
