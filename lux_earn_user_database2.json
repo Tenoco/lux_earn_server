@@ -125,10 +125,12 @@
       "referral_code": "VIM4T",
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Saviour"
+      ],
       "balance": 220,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:58.027Z",
@@ -9841,7 +9843,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:05:40.039Z"
+      "joinDate": "2025-02-22T18:05:40.039Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Saviour",
+      "email": "saviourefe432@gmail.com",
+      "encrypted_password": "9ac486be441947a25813dc64fc0a9e33",
+      "referral_code": "SAC2H",
+      "inviter_referral_code": "VIM4T",
+      "inviter_username": "Vice11",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:06:03.140Z"
     }
   ],
   "withdrawals": [
