@@ -4013,14 +4013,17 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:04:23.298Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        7,
+        8,
+        9
+      ]
     }
   ],
   "withdrawals": [],
