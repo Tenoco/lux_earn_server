@@ -2768,12 +2768,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1130,
+      "balance": 1145,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
+      "lastSpin": "2025-02-22T10:54:01.389Z",
       "completedMissions": [
         1,
         2,
@@ -2781,9 +2782,9 @@
         5,
         6,
         8,
-        10
-      ],
-      "lastSpin": "2025-02-22T10:54:01.389Z"
+        10,
+        11
+      ]
     },
     {
       "username": "Izzypluto24 ",
@@ -2961,10 +2962,10 @@
       "lastSpin": null
     },
     {
-      "username": "Lêkêwêbø",
+      "username": "LÃªkÃªwÃªbÃ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÊJIB",
+      "referral_code": "LÃŠJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -2973,7 +2974,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:08:41.461Z"
+      "joinDate": "2025-02-22T11:08:41.461Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
