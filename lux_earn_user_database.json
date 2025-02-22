@@ -1934,11 +1934,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious"
+        "Precious",
+        "Phantomffx"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -38533,7 +38534,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:22:10.393Z"
+      "joinDate": "2025-02-22T06:22:10.393Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Phantomffx",
+      "email": "Kaluemmanuel12344@gmail.com",
+      "encrypted_password": "3b6a8083758e48f9de8266202aa4284b",
+      "referral_code": "PHLQL",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:22:21.006Z"
     }
   ],
   "withdrawals": [
