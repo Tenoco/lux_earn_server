@@ -30569,10 +30569,12 @@
       "referral_code": "SAP0O",
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
-      "invited_users": [],
+      "invited_users": [
+        "Brayan whyte"
+      ],
       "balance": 132,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:27:35.655Z",
@@ -38571,6 +38573,21 @@
       "joinDate": "2025-02-22T06:12:04.680Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Brayan whyte",
+      "email": "Greatwhyte888@gmail.com",
+      "encrypted_password": "c336334b0323c3c5611ce1066feb7ac2",
+      "referral_code": "BRQ6L",
+      "inviter_referral_code": "SAP0O",
+      "inviter_username": "Samify ",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:13:26.386Z"
     }
   ],
   "withdrawals": [
