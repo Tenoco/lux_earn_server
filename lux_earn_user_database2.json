@@ -6168,7 +6168,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 170,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6187,7 +6187,7 @@
         10,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T14:50:42.018Z"
     },
     {
       "username": "Grace",
@@ -6502,7 +6502,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:50:27.583Z"
+      "joinDate": "2025-02-22T14:50:27.583Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
