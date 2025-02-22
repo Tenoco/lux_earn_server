@@ -3170,6 +3170,21 @@
       "joinDate": "2025-02-22T11:21:08.138Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alex",
+      "email": "adesakinalex@gmail.com",
+      "encrypted_password": "534b44a19bf18d20b71ecc4eb77c572f",
+      "referral_code": "ALSBR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:23:08.925Z"
     }
   ],
   "withdrawals": [],
