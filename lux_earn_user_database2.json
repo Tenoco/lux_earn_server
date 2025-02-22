@@ -2596,7 +2596,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1028,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2605,7 +2605,7 @@
       "completedMissions": [
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T10:44:15.677Z"
     },
     {
       "username": "Huff g ",
@@ -2637,7 +2637,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:43:49.918Z"
+      "joinDate": "2025-02-22T10:43:49.918Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
