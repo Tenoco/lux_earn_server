@@ -3530,11 +3530,12 @@
       "inviter_referral_code": "Co4PD ",
       "inviter_username": null,
       "invited_users": [
-        "Sage jnr"
+        "Sage jnr",
+        "Ajayibobola53"
       ],
       "balance": 153,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:50.473Z",
@@ -7879,7 +7880,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:19:52.060Z"
+      "joinDate": "2025-02-22T16:19:52.060Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajayibobola53",
+      "email": "ajayibobola53@gmail.com",
+      "encrypted_password": "29525481b27ef80b67b4b167978f23cf",
+      "referral_code": "AJSYE",
+      "inviter_referral_code": "ABYZO",
+      "inviter_username": "Abiolag",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:20:10.820Z"
     }
   ],
   "withdrawals": [],
