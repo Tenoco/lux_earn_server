@@ -9742,11 +9742,12 @@
       "inviter_username": null,
       "invited_users": [
         "Hauwa35 ",
-        "Laz005"
+        "Laz005",
+        "Alhassan 001"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -10396,6 +10397,21 @@
       "joinDate": "2025-02-22T18:26:15.104Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alhassan 001",
+      "email": "shabamohammedkwabagi@gmail.com",
+      "encrypted_password": "6c726c36ac839a3752e32d8d1b917cba",
+      "referral_code": "AL4BB",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:26:55.761Z"
     }
   ],
   "withdrawals": [
