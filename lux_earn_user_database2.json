@@ -3229,7 +3229,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
-      "lastSpin": "2025-02-22T11:28:07.479Z",
       "completedMissions": [
         1,
         5,
@@ -3238,7 +3237,8 @@
         7,
         14,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:28:07.479Z"
     },
     {
       "username": "BÍGG VAS",
@@ -3335,7 +3335,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1048,
+      "balance": 1068,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3344,7 +3344,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T11:32:35.721Z"
     },
