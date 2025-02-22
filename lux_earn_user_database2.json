@@ -13468,10 +13468,12 @@
       "referral_code": "ANBCY",
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
-      "invited_users": [],
+      "invited_users": [
+        "Debbie love"
+      ],
       "balance": 10,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -13571,7 +13573,8 @@
       "completedMissions": [
         1,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Gfhfhfjhhgffjh567",
@@ -13725,6 +13728,21 @@
       "joinDate": "2025-02-22T20:32:41.123Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Debbie love",
+      "email": "adebayoblessingmoyinoluwa@gmail.com",
+      "encrypted_password": "dfa3e68cd21aab0945ca072d0d3ed631",
+      "referral_code": "DEPDT",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:34:51.889Z"
     }
   ],
   "withdrawals": [
