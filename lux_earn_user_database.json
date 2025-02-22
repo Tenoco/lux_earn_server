@@ -38538,7 +38538,7 @@
       "inviter_referral_code": "  JE7LQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 42,
+      "balance": 102,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38546,7 +38546,9 @@
       "joinDate": "2025-02-22T10:51:35.046Z",
       "lastSpin": "2025-02-22T10:53:36.088Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2
       ]
     }
   ],
