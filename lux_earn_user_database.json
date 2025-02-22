@@ -2523,7 +2523,7 @@
         "Ayelabowo",
         "Bayo430"
       ],
-      "balance": 280,
+      "balance": 300,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -2537,7 +2537,8 @@
         7,
         4,
         5,
-        6
+        6,
+        10
       ],
       "lastSpin": "2025-02-20T23:24:46.238Z"
     },
@@ -38637,7 +38638,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:00:06.093Z"
+      "joinDate": "2025-02-22T18:00:06.093Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
