@@ -33262,7 +33262,7 @@
       "inviter_referral_code": "GROUP2",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 28,
+      "balance": 48,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33270,7 +33270,8 @@
       "joinDate": "2025-02-22T12:34:44.191Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T12:38:34.553Z"
     },
