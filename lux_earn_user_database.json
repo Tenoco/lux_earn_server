@@ -10152,11 +10152,12 @@
         "Monnyjay001",
         "Steve312",
         "Kamo23",
-        "Youngk"
+        "Youngk",
+        "Haidar180"
       ],
       "balance": 165,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:42:35.322Z",
@@ -38534,7 +38535,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:11:42.899Z"
+      "joinDate": "2025-02-22T05:11:42.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haidar180",
+      "email": "aliyulawal32143@gmail.com",
+      "encrypted_password": "62ec184a034b1ec6bf4f10cffb9a3de6",
+      "referral_code": "HABGD",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": "Rashmoney",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:13:44.597Z"
     }
   ],
   "withdrawals": [
