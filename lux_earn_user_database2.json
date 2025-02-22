@@ -831,12 +831,13 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:41:02.214Z"
+      "joinDate": "2025-02-22T07:41:02.214Z",
+      "lastSpin": "2025-02-22T07:41:48.856Z"
     }
   ],
   "withdrawals": [],
