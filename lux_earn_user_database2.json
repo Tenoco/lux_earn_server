@@ -5143,17 +5143,16 @@
       "referral_code": "NIMBV",
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
-      "invited_users": [
-        "Salman Nadeem"
-      ],
-      "balance": 30,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:58:27.278Z",
       "completedMissions": [
-        1
+        1,
+        13
       ],
       "lastSpin": "2025-02-22T19:39:12.600Z"
     },
@@ -12592,7 +12591,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:50:03.825Z"
+      "joinDate": "2025-02-22T19:50:03.825Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
