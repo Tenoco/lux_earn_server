@@ -2730,11 +2730,12 @@
         "Oluwabukola256",
         "Genizzy",
         "Layish",
-        "Tesseyde12"
+        "Tesseyde12",
+        "Tesseyde11"
       ],
       "balance": 1000,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -3458,11 +3459,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
-      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:38:10.345Z"
     },
     {
       "username": "Ade",
@@ -3514,6 +3515,21 @@
       "joinDate": "2025-02-22T11:42:15.570Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tesseyde11",
+      "email": "hammedabdulafeez111@gmail.com",
+      "encrypted_password": "e8f6712146e452ad57ae21378fa04dcd",
+      "referral_code": "TESXU",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:42:52.419Z"
     }
   ],
   "withdrawals": [],
