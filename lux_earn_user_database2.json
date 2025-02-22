@@ -3171,7 +3171,8 @@
       "completedMissions": [
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Alex",
@@ -3189,6 +3190,21 @@
       "joinDate": "2025-02-22T11:23:08.925Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samson17",
+      "email": "samsonoyerinde2000@gmail.com",
+      "encrypted_password": "814c11dc2d89d4e477273aa542773d3f",
+      "referral_code": "SAPY8",
+      "inviter_referral_code": "BE30N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:23:38.888Z"
     }
   ],
   "withdrawals": [],
