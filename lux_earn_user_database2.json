@@ -703,7 +703,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:30:45.830Z"
+      "joinDate": "2025-02-22T07:30:45.830Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Umarfaruq",
+      "email": "abubakarfaruq638134@gmail.com",
+      "encrypted_password": "0a6e554b5e57dec533c506fa6ffd1182",
+      "referral_code": "UM0GX",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:34:05.350Z"
     }
   ],
   "withdrawals": [],
