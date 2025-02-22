@@ -2611,10 +2611,12 @@
       "referral_code": "@FDPY",
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Teekay77 "
+      ],
       "balance": 1175,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:37:43.424Z",
@@ -8935,6 +8937,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Teekay77 ",
+      "email": "agbesanyatitilope@gmail.com",
+      "encrypted_password": "6a3715bce954d36d77c9c1c8276554b7",
+      "referral_code": "TE72R",
+      "inviter_referral_code": "@FDPY",
+      "inviter_username": "@future",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:59:53.186Z"
     }
   ],
   "withdrawals": [
