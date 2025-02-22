@@ -755,16 +755,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:37:12.243Z",
       "completedMissions": [
-        5
-      ],
-      "lastSpin": null
+        5,
+        1
+      ]
     },
     {
       "username": "Nemiwizzy",
@@ -796,7 +796,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:39:05.908Z"
+      "joinDate": "2025-02-22T07:39:05.908Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
