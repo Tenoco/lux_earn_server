@@ -1605,7 +1605,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1030,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1613,9 +1613,9 @@
       "joinDate": "2025-02-22T08:54:15.987Z",
       "completedMissions": [
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        1
+      ]
     },
     {
       "username": "Teejay01",
@@ -1670,7 +1670,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
