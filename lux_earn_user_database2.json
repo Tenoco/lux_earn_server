@@ -8378,7 +8378,8 @@
         8,
         7,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danpromi",
@@ -8749,6 +8750,21 @@
       "joinDate": "2025-02-22T16:52:06.776Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Perour",
+      "email": "emmanuelikechukwu970@gmail.com",
+      "encrypted_password": "5904ec89307b25886c8193edae560537",
+      "referral_code": "PE0WU",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:52:41.965Z"
     }
   ],
   "withdrawals": [
