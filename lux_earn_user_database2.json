@@ -13723,14 +13723,37 @@
       "inviter_referral_code": "DECIC",
       "inviter_username": "Debby030",
       "invited_users": [],
-      "balance": 0,
+      "balance": 371,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:32:19.996Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T20:34:25.626Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        4,
+        4,
+        6,
+        5,
+        5,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12,
+        12,
+        13
+      ]
     },
     {
       "username": "Gfhfjghjjjgfhg67",
@@ -14171,7 +14194,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:52:00.568Z"
+      "joinDate": "2025-02-22T20:52:00.568Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
