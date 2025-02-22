@@ -14513,10 +14513,12 @@
       "referral_code": "VIDQ2",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Boky"
+      ],
       "balance": 81,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:24:36.384Z",
@@ -37920,7 +37922,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:23:36.230Z"
+      "joinDate": "2025-02-22T02:23:36.230Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Boky",
+      "email": "wahriz68@gmail.com",
+      "encrypted_password": "f676790720f7007f7ffcf33930b43ce4",
+      "referral_code": "BOA0H",
+      "inviter_referral_code": "VIDQ2",
+      "inviter_username": "Vicky perry ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:24:18.879Z"
     }
   ],
   "withdrawals": [
