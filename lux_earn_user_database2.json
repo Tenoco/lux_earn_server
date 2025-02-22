@@ -48,6 +48,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:49:48.598Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T06:51:13.711Z"
     },
     {
@@ -66,6 +67,21 @@
       "joinDate": "2025-02-22T06:51:02.080Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "@krispi",
+      "email": "ugonabochristopher@gmail.com",
+      "encrypted_password": "3056ebd9ca93c68bc46aed9e3d1667a3",
+      "referral_code": "@KE6Z",
+      "inviter_referral_code": "INX8P",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:51:36.770Z"
     }
   ],
   "withdrawals": [],
