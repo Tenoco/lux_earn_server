@@ -32913,11 +32913,12 @@
       "inviter_username": "Odera",
       "invited_users": [
         "Opemiposi045",
-        "Akorede"
+        "Akorede",
+        "Adeola12"
       ],
       "balance": 190,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:42:02.652Z",
@@ -38515,7 +38516,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:34:15.873Z"
+      "joinDate": "2025-02-22T05:34:15.873Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeola12",
+      "email": "opelumioye@gmail.com",
+      "encrypted_password": "898cbfa8d37e0cbe54120d3cd23a79cb",
+      "referral_code": "AD01X",
+      "inviter_referral_code": "AJFYM",
+      "inviter_username": "Ajibola",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:34:33.974Z"
     }
   ],
   "withdrawals": [
