@@ -993,11 +993,12 @@
         "Chris Richalbert ",
         "Femzico ",
         "Doffy",
-        "Crystal "
+        "Crystal ",
+        "Kevin miracle"
       ],
       "balance": 163,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:07:23.196Z",
@@ -38619,6 +38620,21 @@
       "joinDate": "2025-02-22T05:07:33.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kevin miracle",
+      "email": "kevinmiracle439@gmail.com",
+      "encrypted_password": "538ce11e43d8aaa2bb47c6b04df4d99d",
+      "referral_code": "KEBLN",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:28:04.854Z"
     }
   ],
   "withdrawals": [
