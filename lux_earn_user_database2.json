@@ -8525,7 +8525,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:40:37.209Z"
+      "joinDate": "2025-02-22T16:40:37.209Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jude Alexander",
+      "email": "judealexander288@gmail.com",
+      "encrypted_password": "bb0cd72ce21746bcd58569fec2b5a9d9",
+      "referral_code": "JU75E",
+      "inviter_referral_code": " BAL4N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:40:53.974Z"
     }
   ],
   "withdrawals": [
