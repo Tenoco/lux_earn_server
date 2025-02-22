@@ -2741,6 +2741,21 @@
       "joinDate": "2025-02-22T10:52:37.896Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wilson007",
+      "email": "wilsonnwoye@gmail.com",
+      "encrypted_password": "d1b95318451c91f164275cdfe3db502f",
+      "referral_code": "WIPG4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:53:44.937Z"
     }
   ],
   "withdrawals": [],
