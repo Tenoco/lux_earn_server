@@ -15335,14 +15335,15 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [],
-      "balance": 11,
+      "balance": 31,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:03:57.004Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": "2025-02-22T22:06:00.828Z"
     },
@@ -15416,7 +15417,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mrfreeman",
