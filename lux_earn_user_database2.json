@@ -1760,7 +1760,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1090,
+      "balance": 1130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1772,7 +1772,9 @@
         2,
         5,
         4,
-        10
+        10,
+        10,
+        8
       ]
     }
   ],
