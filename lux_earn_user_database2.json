@@ -9818,7 +9818,7 @@
       "inviter_referral_code": "WIJNH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 82,
+      "balance": 92,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9828,7 +9828,8 @@
         6,
         7,
         5,
-        11
+        11,
+        2
       ],
       "lastSpin": "2025-02-22T18:01:43.240Z"
     },
@@ -9846,11 +9847,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:05:40.039Z",
-      "lastSpin": "2025-02-22T18:06:11.730Z",
       "completedMissions": [
         1,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T18:06:11.730Z"
     },
     {
       "username": "Saviour",
