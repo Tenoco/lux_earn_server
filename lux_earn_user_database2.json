@@ -5285,6 +5285,21 @@
       "joinDate": "2025-02-22T12:59:11.976Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Temy",
+      "email": "temi9@gmail.com",
+      "encrypted_password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "referral_code": "TEMYI",
+      "inviter_referral_code": "JO38K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:03:36.668Z"
     }
   ],
   "withdrawals": [],
