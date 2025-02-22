@@ -11068,7 +11068,7 @@
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11081,7 +11081,8 @@
         5,
         6,
         7,
-        12
+        12,
+        11
       ],
       "lastSpin": null
     },
