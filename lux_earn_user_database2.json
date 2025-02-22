@@ -59,7 +59,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -70,9 +70,9 @@
         2,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "@krispi",
@@ -268,6 +268,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:59:24.283Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T07:01:02.154Z"
     },
     {
