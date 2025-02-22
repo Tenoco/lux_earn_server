@@ -37697,14 +37697,13 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:54:20.340Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T01:55:46.748Z"
     },
     {
       "username": "Jarmar001",
@@ -37719,7 +37718,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:54:33.228Z"
+      "joinDate": "2025-02-22T01:54:33.228Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
