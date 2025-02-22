@@ -6516,12 +6516,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:51:50.760Z"
+      "joinDate": "2025-02-22T14:51:50.760Z",
+      "lastSpin": "2025-02-22T14:52:19.987Z"
     }
   ],
   "withdrawals": [],
