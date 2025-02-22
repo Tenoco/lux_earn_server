@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Afolabivib"
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38497,7 +38498,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Afolabivib",
+      "email": "tomilayodamilare@gmail.com",
+      "encrypted_password": "da21bbca54d339a4991fc6c6db075eb7",
+      "referral_code": "AFDDY",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:31:39.822Z"
     }
   ],
   "withdrawals": [
