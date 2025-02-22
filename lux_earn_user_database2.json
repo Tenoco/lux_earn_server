@@ -2755,7 +2755,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wilson007",
@@ -2936,6 +2937,21 @@
       "joinDate": "2025-02-22T11:02:38.985Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Benita ",
+      "email": "bennyluv236@gmail.com",
+      "encrypted_password": "d7b5b987164f00175f10d0da6a66364c",
+      "referral_code": "BE32J",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:08:13.095Z"
     }
   ],
   "withdrawals": [],
