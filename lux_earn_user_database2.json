@@ -3333,13 +3333,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1008,
+      "balance": 1018,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:32:15.496Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T11:32:35.721Z"
     },
     {
