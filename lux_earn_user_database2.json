@@ -10715,10 +10715,12 @@
       "referral_code": "QURTI",
       "inviter_referral_code": "CHUQV",
       "inviter_username": "Chiboy9",
-      "invited_users": [],
+      "invited_users": [
+        "Ayanwole"
+      ],
       "balance": 1140,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:00:06.093Z",
@@ -11669,6 +11671,21 @@
       "joinDate": "2025-02-22T19:13:09.671Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayanwole",
+      "email": "rachealsade794@gmail.com",
+      "encrypted_password": "1732c1fd19e66ab8c500265222177c72",
+      "referral_code": "AY4HA",
+      "inviter_referral_code": "QURTI",
+      "inviter_username": "Quadriano ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:14:28.503Z"
     }
   ],
   "withdrawals": [
