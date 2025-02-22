@@ -719,14 +719,15 @@
       "inviter_referral_code": "ZYRZQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:34:05.350Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        9
+      ]
     },
     {
       "username": "Tommy225",
@@ -741,7 +742,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:36:15.562Z"
+      "joinDate": "2025-02-22T07:36:15.562Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
