@@ -38515,7 +38515,7 @@
       "inviter_referral_code": "JOX3B",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38523,7 +38523,9 @@
       "joinDate": "2025-02-22T10:35:55.874Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        5
       ]
     }
   ],
