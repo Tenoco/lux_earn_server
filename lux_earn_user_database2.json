@@ -9772,7 +9772,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9780,7 +9780,9 @@
       "joinDate": "2025-02-22T17:58:31.022Z",
       "completedMissions": [
         1,
-        1
+        1,
+        2,
+        4
       ]
     },
     {
