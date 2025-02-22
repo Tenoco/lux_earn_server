@@ -8099,7 +8099,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:27:42.384Z"
+      "joinDate": "2025-02-22T16:27:42.384Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oyebode ",
+      "email": "olaitansalaudeen55@gmail.com",
+      "encrypted_password": "06d1fa4e77c81c4949a7db27cf4f2d84",
+      "referral_code": "OYJ89",
+      "inviter_referral_code": "Kiil",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 255,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:48:04.731Z",
+      "completedMissions": [
+        1,
+        2,
+        8,
+        7,
+        9,
+        6
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
