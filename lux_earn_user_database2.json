@@ -4794,7 +4794,8 @@
         9,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shindara19",
@@ -4804,14 +4805,16 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:46:35.595Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1
+      ]
     },
     {
       "username": "C boy ",
