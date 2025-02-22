@@ -115,7 +115,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:52:42.409Z"
+      "joinDate": "2025-02-22T06:52:42.409Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Moon",
+      "email": "moonloveademi@gmail.com",
+      "encrypted_password": "e21c0749d4de413a8232b26565fc33f6",
+      "referral_code": "MO559",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:52:59.662Z"
     }
   ],
   "withdrawals": [],
