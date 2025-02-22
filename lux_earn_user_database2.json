@@ -3835,11 +3835,12 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [
-        "Evebaby"
+        "Evebaby",
+        "Praisyluv "
       ],
       "balance": 101,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:52:19.985Z",
@@ -7637,7 +7638,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:07:35.861Z"
+      "joinDate": "2025-02-22T16:07:35.861Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Praisyluv ",
+      "email": "praiseowhe3@gmail.com",
+      "encrypted_password": "ff3bdff0ad0f84485dfe61a6ce707b04",
+      "referral_code": "PRMKI",
+      "inviter_referral_code": "BRNM8",
+      "inviter_username": "Briggydivi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:08:30.959Z"
     }
   ],
   "withdrawals": [],
