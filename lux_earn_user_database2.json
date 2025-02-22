@@ -2700,11 +2700,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [
-        "Izzypluto24 "
+        "Izzypluto24 ",
+        "Oluwabukola256"
       ],
       "balance": 1000,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -2899,7 +2900,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:02:31.462Z"
+      "joinDate": "2025-02-22T11:02:31.462Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oluwabukola256",
+      "email": "olueabukola147@gmail.com",
+      "encrypted_password": "5644a3395e81411c93dd3a395ddc6d79",
+      "referral_code": "OLIK3",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:02:38.985Z"
     }
   ],
   "withdrawals": [],
