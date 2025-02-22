@@ -15107,7 +15107,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15116,9 +15116,9 @@
       "completedMissions": [
         2,
         5,
-        4
-      ],
-      "lastSpin": null
+        4,
+        1
+      ]
     },
     {
       "username": "Shadow",
