@@ -1040,13 +1040,14 @@
       "inviter_referral_code": "OLNRC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:55:06.167Z",
       "completedMissions": [
+        2,
         2
       ],
       "lastSpin": null
