@@ -2808,7 +2808,7 @@
       "inviter_referral_code": "  VIEAP  ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8128,7 +8128,19 @@
       "lastSpin": "2025-02-22T16:28:48.710Z"
     }
   ],
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "username": "Faith",
+      "email": "oladokunabimifoluwafaith@gmail.com",
+      "accountName": "Oladokun oludolapo ruth",
+      "accountNumber": "8057066647",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 1000,
+      "timestamp": "2025-02-22T16:28:58.926Z",
+      "status": "pending"
+    }
+  ],
   "missions": [],
   "vtu": []
 }
