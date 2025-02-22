@@ -10441,10 +10441,12 @@
       "referral_code": "AL4BB",
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
-      "invited_users": [],
+      "invited_users": [
+        "Abubakari "
+      ],
       "balance": 210,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:26:55.761Z",
@@ -10762,7 +10764,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jokybill",
@@ -10835,6 +10838,21 @@
       "joinDate": "2025-02-22T18:38:36.914Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abubakari ",
+      "email": "a30230267@gmail.com",
+      "encrypted_password": "066ecdeeea72605cb3b77f7b7fffc8d0",
+      "referral_code": "AB3OY",
+      "inviter_referral_code": "AL4BB",
+      "inviter_username": "Alhassan 001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:39:52.971Z"
     }
   ],
   "withdrawals": [
