@@ -34,11 +34,12 @@
         "Munachi",
         "Drone",
         "Shemzy",
-        "Uzor"
+        "Uzor",
+        "krimicrispy "
       ],
       "balance": 5503,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37570,6 +37571,21 @@
       "joinDate": "2025-02-22T01:09:12.443Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "krimicrispy ",
+      "email": "sheusulaimon1234@gmail.com",
+      "encrypted_password": "cf9a9b5d6f78cdb57c2898b2659a82ca",
+      "referral_code": "KR0FU",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:14:42.080Z"
     }
   ],
   "withdrawals": [
