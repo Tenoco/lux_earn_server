@@ -14609,7 +14609,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
-      "lastSpin": "2025-02-22T21:13:45.111Z",
       "completedMissions": [
         1,
         2,
@@ -14619,7 +14618,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": "2025-02-22T21:13:45.111Z"
     },
     {
       "username": "Hsjdjdndjjr",
@@ -14729,6 +14729,29 @@
       "status": "active",
       "joinDate": "2025-02-22T21:28:10.768Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "donatussaawuan@gmail.com",
+      "email": "donatussaawuan@gmail.com",
+      "encrypted_password": "6a09f8e4876c44e1037e2b5169e7f632",
+      "referral_code": "DOOBZ",
+      "inviter_referral_code": "BONOX",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:42:20.597Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
       "lastSpin": null
     }
   ],
