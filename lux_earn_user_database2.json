@@ -8031,14 +8031,15 @@
       "inviter_referral_code": " COWOA  ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:25:02.027Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-22T16:25:26.906Z"
     },
@@ -8464,7 +8465,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:39:21.623Z"
+      "joinDate": "2025-02-22T16:39:21.623Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
