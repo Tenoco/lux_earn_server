@@ -11601,7 +11601,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11613,9 +11613,9 @@
         6,
         7,
         9,
-        11
-      ],
-      "lastSpin": null
+        11,
+        13
+      ]
     },
     {
       "username": "Nickipearl ",
@@ -11857,7 +11857,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:17:07.465Z",
-      "lastSpin": "2025-02-22T19:18:44.287Z",
       "completedMissions": [
         1,
         1,
@@ -11865,7 +11864,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T19:18:44.287Z"
     },
     {
       "username": "Jbaboug",
