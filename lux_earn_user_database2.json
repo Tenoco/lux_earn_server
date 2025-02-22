@@ -15338,7 +15338,7 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [],
-      "balance": 31,
+      "balance": 41,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15346,7 +15346,8 @@
       "joinDate": "2025-02-22T22:03:57.004Z",
       "completedMissions": [
         1,
-        4
+        4,
+        2
       ],
       "lastSpin": "2025-02-22T22:06:00.828Z"
     },
@@ -15504,7 +15505,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:14:43.182Z"
+      "joinDate": "2025-02-22T22:14:43.182Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
