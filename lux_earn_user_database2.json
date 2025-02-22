@@ -1743,7 +1743,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:04:47.505Z"
+      "joinDate": "2025-02-22T09:04:47.505Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Micheal1#",
+      "email": "georgehodges220@gmail.com",
+      "encrypted_password": "f430b9acc493b1eeaf1211c4f073d587",
+      "referral_code": "MIODT",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:07:15.633Z"
     }
   ],
   "withdrawals": [],
