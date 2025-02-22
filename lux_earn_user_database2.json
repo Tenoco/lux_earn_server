@@ -76,14 +76,16 @@
       "inviter_referral_code": "INX8P",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:36.770Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2
       ],
       "lastSpin": null
     },
@@ -151,7 +153,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:52:57.345Z"
+      "joinDate": "2025-02-22T06:52:57.345Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
