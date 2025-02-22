@@ -1229,7 +1229,23 @@
         8,
         4,
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Marvelous0",
+      "email": "gloryf149@gmail.com",
+      "encrypted_password": "f096ae92099a905893fed5928cb90651",
+      "referral_code": "MA6NM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:22:28.723Z"
     }
   ],
   "withdrawals": [],
