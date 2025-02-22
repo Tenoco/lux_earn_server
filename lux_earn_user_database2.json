@@ -3421,10 +3421,12 @@
       "referral_code": "GOUP2",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "rot"
+      ],
       "balance": 1275,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:35:17.134Z",
@@ -3619,7 +3621,8 @@
         2,
         5,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oybbf",
@@ -3688,6 +3691,21 @@
       "joinDate": "2025-02-22T11:50:17.542Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "rot",
+      "email": "rotimisamuel190@gmail.com",
+      "encrypted_password": "343b844b985b11ac568c8541ec384bb6",
+      "referral_code": "ROMVO",
+      "inviter_referral_code": "GOUP2",
+      "inviter_username": "goat0987yr",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:50:46.388Z"
     }
   ],
   "withdrawals": [],
