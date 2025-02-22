@@ -3733,7 +3733,7 @@
       "inviter_referral_code": "GOUP2",
       "inviter_username": "goat0987yr",
       "invited_users": [],
-      "balance": 52,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3742,7 +3742,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T11:51:01.730Z"
     },
@@ -4852,7 +4853,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:48:26.036Z"
+      "joinDate": "2025-02-22T12:48:26.036Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
