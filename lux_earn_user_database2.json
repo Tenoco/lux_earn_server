@@ -5028,7 +5028,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:58:27.278Z"
+      "joinDate": "2025-02-22T12:58:27.278Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oguzie ",
+      "email": "oguziemacdonald@gmail.com",
+      "encrypted_password": "1748c0644a50090814d3e170723ccc5c",
+      "referral_code": "OG8YU",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:58:54.600Z"
     }
   ],
   "withdrawals": [],
