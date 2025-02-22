@@ -4087,13 +4087,24 @@
       "inviter_referral_code": "PRJ21",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:02:05.016Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -4249,6 +4260,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:15:58.519Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T12:16:24.054Z"
     }
   ],
