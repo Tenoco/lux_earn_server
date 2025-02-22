@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Nina"
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38500,6 +38501,21 @@
       "joinDate": "2025-02-22T05:07:33.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nina",
+      "email": "ngozif62@gmail.com",
+      "encrypted_password": "b13f158aadd5d928c9a34ec4a87a432f",
+      "referral_code": "NILRX",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:34:15.873Z"
     }
   ],
   "withdrawals": [
