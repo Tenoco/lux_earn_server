@@ -5522,7 +5522,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:23:00.222Z"
+      "joinDate": "2025-02-22T13:23:00.222Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Luminousgracias",
+      "email": "emmanueloladeji1999@gmail.com",
+      "encrypted_password": "ba6926435f1cb1c4741ac37b3f87bd9f",
+      "referral_code": "LUF86",
+      "inviter_referral_code": "FIRQF",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:24:19.055Z"
     }
   ],
   "withdrawals": [],
