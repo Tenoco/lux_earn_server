@@ -7881,14 +7881,16 @@
       "inviter_referral_code": "FE5BQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:19:52.060Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        1
+      ]
     },
     {
       "username": "Ajayibobola53",
