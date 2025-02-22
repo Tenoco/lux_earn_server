@@ -6099,11 +6099,12 @@
       "invited_users": [
         "Ayomi",
         "praise33",
-        "Ifeoluwa T"
+        "Ifeoluwa T",
+        "Abshdn2"
       ],
       "balance": 138,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -6916,6 +6917,21 @@
       "joinDate": "2025-02-22T15:14:49.146Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abshdn2",
+      "email": "ajayiabiodunraphael@gmail.com",
+      "encrypted_password": "864c6757438d0d2d78be56657a640db9",
+      "referral_code": "ABU3O",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:16:49.732Z"
     }
   ],
   "withdrawals": [],
