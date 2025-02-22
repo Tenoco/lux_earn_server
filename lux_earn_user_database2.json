@@ -7955,11 +7955,12 @@
       "invited_users": [
         "Blessingivy",
         "GTNice ",
-        "Sofia"
+        "Sofia",
+        "Adedokun29"
       ],
       "balance": 198,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -15773,7 +15774,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:46:26.652Z"
+      "joinDate": "2025-02-22T22:46:26.652Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adedokun29",
+      "email": "luminadroptik@gmail.com",
+      "encrypted_password": "03e152d75100a9e512f227a523f54930",
+      "referral_code": "AD4IU",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:48:09.040Z"
     }
   ],
   "withdrawals": [
