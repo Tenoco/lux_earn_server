@@ -1088,7 +1088,7 @@
       "inviter_referral_code": "VIDQ2",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 65,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1097,6 +1097,7 @@
       "completedMissions": [
         1,
         2,
+        8,
         8
       ],
       "lastSpin": "2025-02-22T07:56:23.367Z"
