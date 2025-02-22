@@ -12211,7 +12211,28 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:37:22.068Z"
+      "joinDate": "2025-02-22T19:37:22.068Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Esther042",
+      "email": "estherkelechi244@gmail.com",
+      "encrypted_password": "bfb264e9d3e46d7426ceb802588d84a6",
+      "referral_code": "ES3UL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 95,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:54.930Z",
+      "completedMissions": [
+        2
+      ],
+      "lastSpin": "2025-02-20T23:17:36.575Z"
     }
   ],
   "withdrawals": [
