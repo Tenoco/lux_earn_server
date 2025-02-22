@@ -8374,7 +8374,8 @@
       "completedMissions": [
         10,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danpromi",
@@ -8435,7 +8436,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 75,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8443,7 +8444,8 @@
       "joinDate": "2025-02-21T06:28:04.686Z",
       "completedMissions": [
         6,
-        5
+        5,
+        7
       ],
       "lastSpin": "2025-02-22T16:39:33.206Z"
     },
