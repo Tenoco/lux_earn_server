@@ -7611,7 +7611,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "mailo",
@@ -7809,7 +7810,7 @@
         "GTNice ",
         "Sofia"
       ],
-      "balance": 128,
+      "balance": 168,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -7821,7 +7822,9 @@
         9,
         8,
         7,
-        6
+        6,
+        5,
+        4
       ],
       "lastSpin": "2025-02-21T11:30:44.458Z"
     },
