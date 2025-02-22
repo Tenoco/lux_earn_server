@@ -476,7 +476,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Afolabivib",
@@ -486,14 +487,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:19:48.916Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        10
+      ]
     },
     {
       "username": "Natex",
