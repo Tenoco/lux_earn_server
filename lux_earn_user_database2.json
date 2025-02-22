@@ -2172,7 +2172,23 @@
       "joinDate": "2025-02-22T09:48:36.200Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Queen Ebony",
+      "email": "bosesalawu17@gmail.com",
+      "encrypted_password": "5636fc5d7920ed9cf968f7823b6e626c",
+      "referral_code": "QUVBV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:50:51.646Z"
     }
   ],
   "withdrawals": [],
