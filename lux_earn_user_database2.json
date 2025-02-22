@@ -1804,7 +1804,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:19:40.448Z"
+      "joinDate": "2025-02-22T09:19:40.448Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bwiocruz",
+      "email": "iorhenisaac123@gmail.com",
+      "encrypted_password": "e9dc05d44ddada2075d1150b51ec36f4",
+      "referral_code": "BWBR9",
+      "inviter_referral_code": "ISTUE",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:20:06.584Z"
     }
   ],
   "withdrawals": [],
