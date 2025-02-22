@@ -13453,11 +13453,12 @@
         "Regina ",
         "Zachariah ",
         "Abdulgaffar",
-        "Shadrach Nyigba "
+        "Shadrach Nyigba ",
+        "Ishola "
       ],
       "balance": 251,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:16.593Z",
@@ -38554,6 +38555,21 @@
       "joinDate": "2025-02-22T06:22:21.006Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ishola ",
+      "email": "ishola2023m@gmail.com",
+      "encrypted_password": "aae98a4c5a533d31894f4350a923b22e",
+      "referral_code": "ISAY6",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:23:06.458Z"
     }
   ],
   "withdrawals": [
