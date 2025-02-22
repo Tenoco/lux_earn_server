@@ -11665,7 +11665,7 @@
       "inviter_referral_code": "VAXO2",
       "inviter_username": "Valentine1p",
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11674,7 +11674,8 @@
       "completedMissions": [
         1,
         5,
-        6
+        6,
+        7
       ],
       "lastSpin": "2025-02-22T19:26:31.950Z"
     },
