@@ -2373,7 +2373,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1120,
+      "balance": 1140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2387,7 +2387,8 @@
         5,
         6,
         7,
-        8
+        8,
+        10
       ],
       "lastSpin": null
     },
@@ -2523,7 +2524,8 @@
       "joinDate": "2025-02-22T10:37:39.634Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@future",
