@@ -38,11 +38,12 @@
         "krimicrispy ",
         "OMOBATVMEDIA",
         "Elvis",
-        "Dorathy4"
+        "Dorathy4",
+        "Shilrobiu "
       ],
       "balance": 5503,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37788,7 +37789,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:13:45.449Z"
+      "joinDate": "2025-02-22T02:13:45.449Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shilrobiu ",
+      "email": "shilrobiuboy@gmail.com",
+      "encrypted_password": "245a7b0d551ceaba61d9f36605d0220c",
+      "referral_code": "SHB2G",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:13:56.013Z"
     }
   ],
   "withdrawals": [
