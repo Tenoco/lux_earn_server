@@ -2759,10 +2759,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
-      "lastSpin": "2025-02-22T10:54:01.389Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:54:01.389Z"
     },
     {
       "username": "Izzypluto24 ",
@@ -2797,6 +2797,21 @@
       "joinDate": "2025-02-22T10:55:56.594Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Seymos",
+      "email": "Oyeniranoluwaseyiamos@gmail.com",
+      "encrypted_password": "8cc5ea24ebb7f669aaf50073e11449b4",
+      "referral_code": "SECYV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:57:33.246Z"
     }
   ],
   "withdrawals": [],
