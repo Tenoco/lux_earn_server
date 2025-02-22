@@ -7587,6 +7587,21 @@
       "joinDate": "2025-02-22T16:02:08.449Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mailo",
+      "email": "dannisunny629@gmail.com",
+      "encrypted_password": "f7f173f14bf9be4f70b4033ced17e310",
+      "referral_code": "MAJNE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:05:04.259Z"
     }
   ],
   "withdrawals": [],
