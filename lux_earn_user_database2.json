@@ -6100,11 +6100,12 @@
         "Ayomi",
         "praise33",
         "Ifeoluwa T",
-        "Abshdn2"
+        "Abshdn2",
+        "Aayomi3939"
       ],
       "balance": 138,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -7049,6 +7050,21 @@
       "joinDate": "2025-02-22T15:21:46.490Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aayomi3939",
+      "email": "maryhouston448@gmail.com",
+      "encrypted_password": "864c6757438d0d2d78be56657a640db9",
+      "referral_code": "AAYVM",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:22:24.427Z"
     }
   ],
   "withdrawals": [],
