@@ -6406,11 +6406,12 @@
         "Temitope23",
         "Dowland19",
         "Hsbsige",
-        "Hdbsihejb1"
+        "Hdbsihejb1",
+        "Bsubsjge2"
       ],
       "balance": 90,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -7351,7 +7352,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ayob",
@@ -7403,6 +7405,21 @@
       "joinDate": "2025-02-22T15:48:30.630Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T15:49:28.793Z"
+    },
+    {
+      "username": "Bsubsjge2",
+      "email": "hshebjebdhbdj@gmail.com",
+      "encrypted_password": "c9a140d1a756e793ea9a6927c070b6c7",
+      "referral_code": "BSCAB",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:50:45.633Z"
     }
   ],
   "withdrawals": [],
