@@ -4633,14 +4633,16 @@
       "inviter_referral_code": "JO38K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:39:27.367Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        10,
+        10
+      ]
     }
   ],
   "withdrawals": [],
