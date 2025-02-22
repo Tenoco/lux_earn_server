@@ -9460,7 +9460,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9473,7 +9473,8 @@
         5,
         12,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-22T17:48:59.682Z"
     },
