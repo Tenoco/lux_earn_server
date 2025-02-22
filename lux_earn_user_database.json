@@ -38342,7 +38342,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38350,7 +38350,8 @@
       "joinDate": "2025-02-22T04:47:33.568Z",
       "lastSpin": "2025-02-22T04:48:05.912Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     }
   ],
