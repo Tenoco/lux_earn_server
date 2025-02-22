@@ -10731,7 +10731,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:35:55.655Z"
+      "joinDate": "2025-02-22T18:35:55.655Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "MUHAMMAD JAMIU ",
+      "email": "abuyaasiralansori@gmail.com",
+      "encrypted_password": "267a22b933f9df64ec59fbb7a6eca0dc",
+      "referral_code": "MUNZ2",
+      "inviter_referral_code": "WINWC",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:36:15.904Z"
     }
   ],
   "withdrawals": [
