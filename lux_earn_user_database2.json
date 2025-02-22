@@ -15862,12 +15862,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:01:32.997Z"
+      "joinDate": "2025-02-22T23:01:32.997Z",
+      "lastSpin": "2025-02-22T23:02:22.021Z"
     }
   ],
   "withdrawals": [
