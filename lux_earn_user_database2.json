@@ -4269,6 +4269,34 @@
       "joinDate": "2025-02-22T12:15:58.519Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T12:16:24.054Z"
+    },
+    {
+      "username": "krrishna",
+      "email": "krrishnamandy@gmail.com",
+      "encrypted_password": "ece31aff11af3eb05ae16bb20b1df5d8",
+      "referral_code": "KRJ56",
+      "inviter_referral_code": "ZIWZH",
+      "inviter_username": "Zita555",
+      "invited_users": [
+        "Olasmatt"
+      ],
+      "balance": 195,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:46:04.809Z",
+      "completedMissions": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "lastSpin": "2025-02-22T12:17:24.021Z"
     }
   ],
   "withdrawals": [],
