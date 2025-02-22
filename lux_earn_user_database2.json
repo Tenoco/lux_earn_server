@@ -10451,11 +10451,12 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [
-        "Abubakari "
+        "Abubakari ",
+        "Uytrrtuu"
       ],
       "balance": 210,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:26:55.761Z",
@@ -11428,6 +11429,21 @@
       "joinDate": "2025-02-22T19:06:02.382Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uytrrtuu",
+      "email": "afyhhffd@gmail.com",
+      "encrypted_password": "ee1238608fa6f98eeafcd2be0d42f502",
+      "referral_code": "UY15B",
+      "inviter_referral_code": "AL4BB",
+      "inviter_username": "Alhassan 001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:06:40.918Z"
     }
   ],
   "withdrawals": [
