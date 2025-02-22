@@ -6488,7 +6488,8 @@
       "joinDate": "2025-02-22T14:50:18.164Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Cashinflow247 ",
@@ -6506,6 +6507,21 @@
       "joinDate": "2025-02-22T14:50:27.583Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Matthew789 ",
+      "email": "Oluwanifemimatt@gmail.com",
+      "encrypted_password": "1e9cd587bad8cb328f88c845a6eb164b",
+      "referral_code": "MA9HU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:51:50.760Z"
     }
   ],
   "withdrawals": [],
