@@ -15830,7 +15830,7 @@
       "inviter_referral_code": "NIMBV",
       "inviter_username": "Niffyperry",
       "invited_users": [],
-      "balance": 120,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15843,7 +15843,8 @@
         5,
         5,
         12,
-        8
+        8,
+        7
       ],
       "lastSpin": null
     },
@@ -16051,7 +16052,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:30:44.760Z"
+      "joinDate": "2025-02-22T23:30:44.760Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
