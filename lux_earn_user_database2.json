@@ -1245,7 +1245,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:22:28.723Z"
+      "joinDate": "2025-02-22T08:22:28.723Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Clintlossy ",
+      "email": "obiomachukwue@gmail.com",
+      "encrypted_password": "0fb9490c52907129726a7602bd51dda3",
+      "referral_code": "CLIGR",
+      "inviter_referral_code": "FAMA",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:23:03.985Z"
     }
   ],
   "withdrawals": [],
