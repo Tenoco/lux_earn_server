@@ -38578,7 +38578,7 @@
       "inviter_referral_code": "Insideme ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1130,
+      "balance": 1160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38593,7 +38593,9 @@
         4,
         4,
         4,
-        5
+        5,
+        5,
+        6
       ]
     }
   ],
