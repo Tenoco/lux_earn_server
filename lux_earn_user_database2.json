@@ -10916,13 +10916,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:40:42.965Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        12
+      ],
       "lastSpin": null
     },
     {
