@@ -6081,7 +6081,7 @@
       "invited_users": [
         "Ayomi"
       ],
-      "balance": 38,
+      "balance": 58,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -6089,7 +6089,8 @@
       "joinDate": "2025-02-22T14:10:32.987Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T14:11:13.577Z"
     },
@@ -6161,7 +6162,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Grace",
