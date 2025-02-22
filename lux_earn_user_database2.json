@@ -9734,11 +9734,12 @@
       "inviter_referral_code": "Chjwk",
       "inviter_username": null,
       "invited_users": [
-        "Hauwa35 "
+        "Hauwa35 ",
+        "Laz005"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -10244,6 +10245,21 @@
       "joinDate": "2025-02-22T18:19:43.128Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Laz005",
+      "email": "kenethodomu@gmail.com",
+      "encrypted_password": "d7c47584dfde03a9c5acbd671bb51d5f",
+      "referral_code": "LASOQ",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:20:45.532Z"
     }
   ],
   "withdrawals": [
