@@ -13948,7 +13948,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:43:37.037Z",
-      "lastSpin": "2025-02-22T20:44:05.644Z",
       "completedMissions": [
         2,
         4,
@@ -13957,7 +13956,8 @@
         6,
         1,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-22T20:44:05.644Z"
     },
     {
       "username": "Danthony",
@@ -14067,14 +14067,15 @@
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:47:46.908Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
