@@ -996,7 +996,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pablo ",
@@ -1142,6 +1143,21 @@
       "joinDate": "2025-02-22T07:58:33.806Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "NobletGee",
+      "email": "nobletgee1234@gmail.com",
+      "encrypted_password": "c3b657d4d4694091f283b492697e6618",
+      "referral_code": "NOENB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:00:19.896Z"
     }
   ],
   "withdrawals": [],
