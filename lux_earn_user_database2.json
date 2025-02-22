@@ -9820,13 +9820,28 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:59:32.251Z",
-      "lastSpin": "2025-02-22T18:01:43.240Z",
       "completedMissions": [
         6,
         7,
         5,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-22T18:01:43.240Z"
+    },
+    {
+      "username": "Olajr ",
+      "email": "olagokesulaimon25@gmail.com",
+      "encrypted_password": "fed00f55cba6cf956bf4d854c32da3cc",
+      "referral_code": "OLH3A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:05:40.039Z"
     }
   ],
   "withdrawals": [
