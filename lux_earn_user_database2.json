@@ -1660,10 +1660,10 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1140,
+      "balance": 141,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0,
+      "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:56:10.093Z",
       "completedMissions": [
@@ -1677,7 +1677,7 @@
         9,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T09:00:26.569Z"
     },
     {
       "username": "Hiikay",
@@ -1726,7 +1726,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:59:55.253Z"
+      "joinDate": "2025-02-22T08:59:55.253Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
