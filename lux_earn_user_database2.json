@@ -5602,7 +5602,7 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5614,7 +5614,8 @@
         4,
         5,
         5,
-        5
+        5,
+        10
       ],
       "lastSpin": null
     },
