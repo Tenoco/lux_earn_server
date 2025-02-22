@@ -8638,7 +8638,32 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:47:01.468Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T16:48:01.870Z"
+    },
+    {
+      "username": "Boss50",
+      "email": "muhammadosiomole9081@gmail.com",
+      "encrypted_password": "bebe5b83d43a6444d397e88587c41708",
+      "referral_code": "BON0X",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 180,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:38:26.560Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-21T09:40:01.942Z"
     }
   ],
   "withdrawals": [
