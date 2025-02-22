@@ -98,7 +98,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:51:58.027Z"
+      "joinDate": "2025-02-22T06:51:58.027Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omo",
+      "email": "dodocaw531@dropfam.com",
+      "encrypted_password": "d6cc72be10e1679d3ca9bde307a92cce",
+      "referral_code": "OMMG9",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:52:42.409Z"
     }
   ],
   "withdrawals": [],
