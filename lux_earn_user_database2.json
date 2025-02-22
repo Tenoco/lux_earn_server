@@ -254,7 +254,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -630,6 +631,21 @@
       "joinDate": "2025-02-22T07:27:35.368Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Paciotto",
+      "email": "kennethchiemerie98@gmail.com",
+      "encrypted_password": "05925075816d01a13997f117aa5c2718",
+      "referral_code": "PAY1V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:29:57.240Z"
     }
   ],
   "withdrawals": [],
