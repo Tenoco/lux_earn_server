@@ -6107,11 +6107,12 @@
         "Aayomi3939",
         "Ab239",
         "Dfh67",
-        "Hdhdj23"
+        "Hdhdj23",
+        "Gdjf67"
       ],
       "balance": 138,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -7306,7 +7307,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:45:10.924Z"
+      "joinDate": "2025-02-22T15:45:10.924Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gdjf67",
+      "email": "hdudb@gmail.com",
+      "encrypted_password": "93897cc117a734be93733779051c9926",
+      "referral_code": "GDI5X",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:45:24.681Z"
     }
   ],
   "withdrawals": [],
