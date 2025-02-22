@@ -2519,7 +2519,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:37:39.634Z"
+      "joinDate": "2025-02-22T10:37:39.634Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "@future",
+      "email": "emmanuelolaler@gmail.com",
+      "encrypted_password": "4cf92ec8d72965514450efa22c4563a6",
+      "referral_code": "@FDPY",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:37:43.424Z"
     }
   ],
   "withdrawals": [],
