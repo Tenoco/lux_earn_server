@@ -10458,7 +10458,8 @@
         11,
         10,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmy",
@@ -10512,7 +10513,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10521,9 +10522,10 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        4,
+        5
+      ]
     },
     {
       "username": "Nsjdjsnsisbd5",
