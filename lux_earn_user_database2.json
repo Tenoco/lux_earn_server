@@ -1819,14 +1819,15 @@
       "inviter_referral_code": "ISTUE",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:20:06.584Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        10
+      ]
     },
     {
       "username": "Nawal",
@@ -1911,7 +1912,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:23:58.772Z"
+      "joinDate": "2025-02-22T09:23:58.772Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
