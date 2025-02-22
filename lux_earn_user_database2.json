@@ -1478,14 +1478,15 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:44:07.940Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
