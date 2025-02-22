@@ -3357,10 +3357,12 @@
       "referral_code": "BRQXP",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Damola"
+      ],
       "balance": 1113,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:32:15.496Z",
@@ -3484,14 +3486,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
-      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
         1,
         2,
         9,
         8,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:38:10.345Z"
     },
     {
       "username": "Ade",
@@ -3560,6 +3562,21 @@
       "joinDate": "2025-02-22T11:42:52.419Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Damola",
+      "email": "adeyemimorenikeji365@gmail.com",
+      "encrypted_password": "b6fc3fe3ed792f89cc2c9d9474609c42",
+      "referral_code": "DAW2G",
+      "inviter_referral_code": "BRQXP",
+      "inviter_username": "Brobdingnagian ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:45:33.451Z"
     }
   ],
   "withdrawals": [],
