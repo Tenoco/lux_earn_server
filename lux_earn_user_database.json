@@ -37191,11 +37191,12 @@
         "BBzbvzBb",
         "Hsbbbbb",
         "Isaac ilechie 2030 ($)",
-        "Vsvbviper"
+        "Vsvbviper",
+        "Rankin"
       ],
       "balance": 25,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37438,7 +37439,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:59:00.453Z"
+      "joinDate": "2025-02-22T00:59:00.453Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rankin",
+      "email": "rankinoffishal@gmail.com",
+      "encrypted_password": "0d61130a6dd5eea85c2c5facfe1c15a7",
+      "referral_code": "RA5AY",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:00:51.457Z"
     }
   ],
   "withdrawals": [
