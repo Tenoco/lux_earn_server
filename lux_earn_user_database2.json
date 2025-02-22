@@ -9297,10 +9297,12 @@
       "referral_code": "ZE0YR",
       "inviter_referral_code": "MAQEG",
       "inviter_username": "Mammiegold",
-      "invited_users": [],
+      "invited_users": [
+        "Koozzboy"
+      ],
       "balance": 330,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:25:45.163Z",
@@ -9696,6 +9698,21 @@
       "joinDate": "2025-02-22T17:50:45.231Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Koozzboy",
+      "email": "haryorbrown@gmail.com",
+      "encrypted_password": "72799297955c5822a5e0694468ec4527",
+      "referral_code": "KOLPW",
+      "inviter_referral_code": "ZE0YR",
+      "inviter_username": "Zeemah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:54:07.110Z"
     }
   ],
   "withdrawals": [
