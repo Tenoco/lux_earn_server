@@ -2078,11 +2078,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Mikel "
+        "Mikel ",
+        "John "
       ],
       "balance": 1210,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:35:56.502Z",
@@ -6762,7 +6763,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:05:52.629Z"
+      "joinDate": "2025-02-22T15:05:52.629Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "John ",
+      "email": "johninebui08@gmail.com",
+      "encrypted_password": "160af97e7207eb9ad6c6d4668edf340e",
+      "referral_code": "JOL81",
+      "inviter_referral_code": "PRSLP",
+      "inviter_username": "Prosper",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:06:50.943Z"
     }
   ],
   "withdrawals": [],
