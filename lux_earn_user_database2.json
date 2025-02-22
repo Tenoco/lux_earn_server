@@ -760,7 +760,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:37:12.243Z"
+      "joinDate": "2025-02-22T07:37:12.243Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nemiwizzy",
+      "email": "nkpalagiftobarine@gmail.com",
+      "encrypted_password": "78a86c53bfdad4c3a9da229ba57f54d5",
+      "referral_code": "NETPT",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:38:37.205Z"
     }
   ],
   "withdrawals": [],
