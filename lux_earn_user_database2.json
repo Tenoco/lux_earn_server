@@ -1493,13 +1493,15 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1015,
+      "balance": 1035,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:44:10.412Z",
-      "completedMissions": [],
+      "completedMissions": [
+        5
+      ],
       "lastSpin": "2025-02-22T08:44:55.787Z"
     },
     {
@@ -1532,7 +1534,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:47:40.112Z"
+      "joinDate": "2025-02-22T08:47:40.112Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
