@@ -38631,14 +38631,16 @@
       "inviter_referral_code": "KITGL",
       "inviter_username": "Kimah373",
       "invited_users": [],
-      "balance": 0,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:28:04.854Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T14:29:16.447Z",
+      "completedMissions": [
+        2
+      ]
     }
   ],
   "withdrawals": [
