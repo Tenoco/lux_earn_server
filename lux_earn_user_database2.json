@@ -4427,7 +4427,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abdulfatai7 ",
@@ -4445,6 +4446,21 @@
       "joinDate": "2025-02-22T12:26:24.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goodluck54",
+      "email": "raphaelobinna073@gmail.com",
+      "encrypted_password": "2c0c60e4abc723b10f5a29c9acd2b5d8",
+      "referral_code": "GO0RB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:27:08.254Z"
     }
   ],
   "withdrawals": [],
