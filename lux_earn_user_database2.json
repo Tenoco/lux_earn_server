@@ -7604,11 +7604,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Zuubi"
+        "Zuubi",
+        "Fudal"
       ],
       "balance": 68,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -8179,6 +8180,21 @@
         6
       ],
       "lastSpin": "2025-02-21T23:39:28.121Z"
+    },
+    {
+      "username": "Fudal",
+      "email": "fudees@gmail.com",
+      "encrypted_password": "b7a2c3b25c9441b0a38d0a874ace268b",
+      "referral_code": "FUS8C",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:30:41.729Z"
     }
   ],
   "withdrawals": [
