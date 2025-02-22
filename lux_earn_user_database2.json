@@ -7604,7 +7604,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 68,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7612,9 +7612,11 @@
       "joinDate": "2025-02-22T16:02:08.449Z",
       "completedMissions": [
         1,
-        2
+        2,
+        5,
+        4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T16:25:36.207Z"
     },
     {
       "username": "mailo",
@@ -8010,6 +8012,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:25:02.027Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T16:25:26.906Z"
     },
     {
