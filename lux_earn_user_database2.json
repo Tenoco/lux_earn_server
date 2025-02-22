@@ -10933,7 +10933,7 @@
         "Realme",
         "Basman "
       ],
-      "balance": 80,
+      "balance": 100,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -10945,7 +10945,8 @@
         4,
         5,
         7,
-        6
+        6,
+        12
       ],
       "lastSpin": null
     },
@@ -10979,7 +10980,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:45:33.916Z"
+      "joinDate": "2025-02-22T18:45:33.916Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
