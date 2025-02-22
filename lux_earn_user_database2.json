@@ -2637,14 +2637,15 @@
       "inviter_referral_code": "PRSLP",
       "inviter_username": "Prosper",
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:39:28.700Z",
       "completedMissions": [
-        2
+        2,
+        1
       ],
       "lastSpin": null
     },
