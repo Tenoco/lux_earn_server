@@ -11713,7 +11713,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 200,
+      "balance": 222,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11732,7 +11732,7 @@
         4,
         5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:48:19.385Z"
     },
     {
       "username": "Ayanwole",
@@ -12546,7 +12546,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:47:52.554Z"
+      "joinDate": "2025-02-22T19:47:52.554Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
