@@ -38314,7 +38314,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 11,
+      "balance": 51,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38322,7 +38322,10 @@
       "joinDate": "2025-02-22T04:42:34.275Z",
       "lastSpin": "2025-02-22T04:43:01.540Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        1,
+        5
       ]
     },
     {
