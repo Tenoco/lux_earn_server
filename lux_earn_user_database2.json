@@ -3875,10 +3875,12 @@
       "referral_code": "BEIR4",
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
-      "invited_users": [],
+      "invited_users": [
+        "Seyifunmi122"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:56:45.021Z",
@@ -5542,6 +5544,21 @@
       "joinDate": "2025-02-22T13:24:19.055Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Seyifunmi122",
+      "email": "Seyifunmioluwa49@gmail.com",
+      "encrypted_password": "3cdac80a483ff1958644d4bbb141cb24",
+      "referral_code": "SEQEF",
+      "inviter_referral_code": "BEIR4",
+      "inviter_username": "BELYKGHOST",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:25:26.966Z"
     }
   ],
   "withdrawals": [],
