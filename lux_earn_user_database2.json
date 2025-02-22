@@ -1844,7 +1844,8 @@
       "joinDate": "2025-02-22T09:21:56.778Z",
       "completedMissions": [
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmaberry",
@@ -1896,6 +1897,21 @@
       "joinDate": "2025-02-22T09:19:50.270Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sunday234",
+      "email": "sundayodebode4@gmail.com",
+      "encrypted_password": "d8b842e43ea1d38d57ade4bbda83c8d3",
+      "referral_code": "SUOSY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:23:58.772Z"
     }
   ],
   "withdrawals": [],
