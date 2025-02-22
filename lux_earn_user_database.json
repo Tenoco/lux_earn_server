@@ -16121,11 +16121,12 @@
       "inviter_username": null,
       "invited_users": [
         "Adam usman ",
-        "Michael04"
+        "Michael04",
+        "bestjailer"
       ],
       "balance": 275,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:48:21.445Z",
@@ -37159,6 +37160,21 @@
         7
       ],
       "lastSpin": "2025-02-22T00:27:54.061Z"
+    },
+    {
+      "username": "bestjailer",
+      "email": "dawoduadeola2006@gmail.com",
+      "encrypted_password": "5c27029ae6400ef7da20945ac63f2285",
+      "referral_code": "BESAJ",
+      "inviter_referral_code": "MIFNY",
+      "inviter_username": "Mick2324",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:32:57.284Z"
     }
   ],
   "withdrawals": [
