@@ -3838,7 +3838,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3846,9 +3846,10 @@
       "joinDate": "2025-02-22T11:57:26.703Z",
       "completedMissions": [
         1,
-        4
+        4,
+        5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T12:03:45.089Z"
     },
     {
       "username": "Kikebabe22",
@@ -3901,7 +3902,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hshsh janav",
