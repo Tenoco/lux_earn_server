@@ -22415,7 +22415,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22425,7 +22425,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T00:56:46.364Z"
     },
     {
       "username": "Inioluwa ",
@@ -37402,7 +37402,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:55:41.974Z"
+      "joinDate": "2025-02-22T00:55:41.974Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
