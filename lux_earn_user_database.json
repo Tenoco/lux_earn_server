@@ -38528,14 +38528,15 @@
       "inviter_referral_code": "LIETS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1010,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:32:07.270Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
