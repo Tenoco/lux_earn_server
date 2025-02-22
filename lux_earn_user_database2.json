@@ -12229,7 +12229,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 115,
+      "balance": 133,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12239,7 +12239,7 @@
         2,
         13
       ],
-      "lastSpin": "2025-02-20T23:17:36.575Z"
+      "lastSpin": "2025-02-22T19:42:49.861Z"
     },
     {
       "username": "Dunjiyusuf",
@@ -12339,7 +12339,8 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pearl",
