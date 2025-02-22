@@ -15237,7 +15237,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 240,
+      "balance": 428,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15258,9 +15258,18 @@
         8,
         8,
         8,
-        9
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        13,
+        13,
+        13,
+        13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T22:11:14.633Z"
     },
     {
       "username": "Wisdom chidiebere ",
@@ -15402,7 +15411,8 @@
       "joinDate": "2025-02-22T22:08:46.225Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mrfreeman",
