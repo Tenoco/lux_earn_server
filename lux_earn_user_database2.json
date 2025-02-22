@@ -5537,7 +5537,7 @@
       "inviter_referral_code": "FIRQF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5552,7 +5552,8 @@
         1,
         1,
         2,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
