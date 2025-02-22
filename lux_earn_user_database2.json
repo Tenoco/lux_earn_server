@@ -12988,7 +12988,7 @@
       "invited_users": [
         "Bigboss234"
       ],
-      "balance": 375,
+      "balance": 396,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -13009,9 +13009,10 @@
         10,
         10,
         11,
-        12
+        12,
+        13
       ],
-      "lastSpin": "2025-02-21T06:47:01.315Z"
+      "lastSpin": "2025-02-22T20:08:10.305Z"
     },
     {
       "username": "Bibiire004",
@@ -13136,7 +13137,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:07:31.808Z"
+      "joinDate": "2025-02-22T20:07:31.808Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
