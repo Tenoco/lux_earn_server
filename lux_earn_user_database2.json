@@ -7697,11 +7697,12 @@
         "Waddiyya",
         "Fatiti",
         "Hiudu",
-        "Lawwesa"
+        "Lawwesa",
+        "Kaltume"
       ],
       "balance": 88,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -12828,7 +12829,8 @@
       "joinDate": "2025-02-22T19:55:36.463Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Treasure Joshua ",
@@ -12910,6 +12912,21 @@
       "joinDate": "2025-02-22T19:59:32.569Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaltume",
+      "email": "kaltum@gmail.com",
+      "encrypted_password": "4428c6c474502e61151877825bb41961",
+      "referral_code": "KAUP0",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:00:25.960Z"
     }
   ],
   "withdrawals": [
