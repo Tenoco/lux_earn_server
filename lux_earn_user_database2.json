@@ -4284,10 +4284,12 @@
       "referral_code": "OL7FO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Dollyp "
+      ],
       "balance": 1,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:15:58.519Z",
@@ -4578,7 +4580,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:37:56.863Z"
+      "joinDate": "2025-02-22T12:37:56.863Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dollyp ",
+      "email": "ldolapo887@gmail.com",
+      "encrypted_password": "4508b7fc535f1bd95981e175b016a13f",
+      "referral_code": "DOGQM",
+      "inviter_referral_code": "OL7FO",
+      "inviter_username": "Olamide1248",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:38:13.070Z"
     }
   ],
   "withdrawals": [],
