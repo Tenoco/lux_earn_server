@@ -24619,13 +24619,15 @@
       "inviter_referral_code": "ADZEI",
       "inviter_username": "Adagbagyilo ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:55:45.380Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -38540,7 +38542,8 @@
       "joinDate": "2025-02-22T06:22:10.393Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Phantomffx",
