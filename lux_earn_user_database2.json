@@ -3127,7 +3127,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:14:27.916Z"
+      "joinDate": "2025-02-22T11:14:27.916Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmybeloved0210",
+      "email": "emmybeloved0210@gmail.com",
+      "encrypted_password": "62fb2f0f6617eee30177b9c44e19626d",
+      "referral_code": "EMSMP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:14:44.785Z"
     }
   ],
   "withdrawals": [],
