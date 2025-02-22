@@ -6877,20 +6877,21 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 75,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:13:07.065Z",
+      "lastSpin": "2025-02-22T15:14:48.199Z",
       "completedMissions": [
         1,
         2,
         13,
         12,
-        11
-      ],
-      "lastSpin": "2025-02-22T15:14:48.199Z"
+        11,
+        10
+      ]
     },
     {
       "username": "Favy",
@@ -6990,7 +6991,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:19:46.036Z"
+      "joinDate": "2025-02-22T15:19:46.036Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
