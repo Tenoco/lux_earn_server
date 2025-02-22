@@ -2048,7 +2048,7 @@
       "invited_users": [
         "Mikel "
       ],
-      "balance": 1140,
+      "balance": 1160,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2061,7 +2061,8 @@
         5,
         11,
         10,
-        10
+        10,
+        9
       ],
       "lastSpin": "2025-02-22T10:09:57.922Z"
     },
@@ -2654,7 +2655,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:44:51.150Z"
+      "joinDate": "2025-02-22T10:44:51.150Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
