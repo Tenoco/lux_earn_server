@@ -3565,11 +3565,12 @@
       "invited_users": [
         "Inioluwa ",
         "Briggydivi ",
-        "BELYKGHOST"
+        "BELYKGHOST",
+        "Ayomighty56"
       ],
       "balance": 1000,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -3946,7 +3947,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:01:45.620Z"
+      "joinDate": "2025-02-22T12:01:45.620Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomighty56",
+      "email": "Ayomighty92@gmail.com",
+      "encrypted_password": "eb518fc13ab598aa4dc62c18898a40ec",
+      "referral_code": "AY3VO",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:01:55.847Z"
     }
   ],
   "withdrawals": [],
