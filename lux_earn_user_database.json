@@ -9199,11 +9199,12 @@
         "Solomonokun",
         "Ezeboy",
         "Joyasakp",
-        "Fish"
+        "Fish",
+        "Happy "
       ],
       "balance": 350,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -38571,7 +38572,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:44:35.214Z"
+      "joinDate": "2025-02-22T05:44:35.214Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Happy ",
+      "email": "hey2749@gmail.com",
+      "encrypted_password": "1bbd886460827015e5d605ed44252251",
+      "referral_code": "HAFQ3",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:45:16.274Z"
     }
   ],
   "withdrawals": [
