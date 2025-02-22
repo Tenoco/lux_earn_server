@@ -13242,7 +13242,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:11:28.957Z"
+      "joinDate": "2025-02-22T20:11:28.957Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haruna44",
+      "email": "habba3353@gmail.com",
+      "encrypted_password": "3acea4d6924d3d035ea9e89126c641a2",
+      "referral_code": "HAW18",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:11:36.376Z"
     }
   ],
   "withdrawals": [
