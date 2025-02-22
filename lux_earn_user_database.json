@@ -36,11 +36,12 @@
         "Shemzy",
         "Uzor",
         "krimicrispy ",
-        "OMOBATVMEDIA"
+        "OMOBATVMEDIA",
+        "Elvis"
       ],
       "balance": 5503,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37641,7 +37642,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:29:16.024Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T01:30:37.781Z"
+    },
+    {
+      "username": "Elvis",
+      "email": "anakorbha@gmail.com",
+      "encrypted_password": "5c5f8f3d76a79a7079475acc071f3dc4",
+      "referral_code": "EL90K",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:40:56.361Z"
     }
   ],
   "withdrawals": [
