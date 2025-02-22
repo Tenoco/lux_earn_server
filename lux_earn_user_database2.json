@@ -6603,14 +6603,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 88,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:53:43.834Z",
       "completedMissions": [
-        2
+        2,
+        1,
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T15:07:41.808Z"
     },
