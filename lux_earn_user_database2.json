@@ -16032,7 +16032,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16041,9 +16041,9 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Officialchrisjoel",
@@ -16092,7 +16092,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T23:36:24.155Z"
+      "joinDate": "2025-02-22T23:36:24.155Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
