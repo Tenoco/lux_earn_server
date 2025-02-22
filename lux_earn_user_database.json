@@ -37505,7 +37505,7 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": "Cash101",
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37513,7 +37513,8 @@
       "joinDate": "2025-02-22T01:03:30.488Z",
       "completedMissions": [
         4,
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
