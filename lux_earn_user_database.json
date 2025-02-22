@@ -13554,11 +13554,12 @@
         "Shakou ",
         "Chief shakou ",
         "Gohan ",
-        "Odyvirgins"
+        "Odyvirgins",
+        "Virgy"
       ],
       "balance": 230,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:54.204Z",
@@ -38555,6 +38556,21 @@
       "joinDate": "2025-02-22T05:13:44.597Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Virgy",
+      "email": "virgyhealthydrinks@gmail.com",
+      "encrypted_password": "b02ac7c937e70ee2f3a115e5409bd183",
+      "referral_code": "VIL0L",
+      "inviter_referral_code": "GOB58",
+      "inviter_username": "Gokugokael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:15:53.705Z"
     }
   ],
   "withdrawals": [
