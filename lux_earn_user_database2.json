@@ -9731,10 +9731,12 @@
       "referral_code": "HE020",
       "inviter_referral_code": "Chjwk",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Hauwa35 "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -10161,7 +10163,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:18:05.521Z"
+      "joinDate": "2025-02-22T18:18:05.521Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hauwa35 ",
+      "email": "hauwababagana3585@gmail.com",
+      "encrypted_password": "70b8fe090143d5778c8a26ae17e21df5",
+      "referral_code": "HALRK",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:18:18.582Z"
     }
   ],
   "withdrawals": [
