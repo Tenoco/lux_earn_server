@@ -37991,12 +37991,13 @@
       "inviter_referral_code": "KIIO1 ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:55:47.284Z"
+      "joinDate": "2025-02-22T02:55:47.284Z",
+      "lastSpin": "2025-02-22T02:57:01.113Z"
     }
   ],
   "withdrawals": [
