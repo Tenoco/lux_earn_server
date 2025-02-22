@@ -255,7 +255,8 @@
         7,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@Ukmoney",
@@ -648,6 +649,21 @@
       "joinDate": "2025-02-22T07:29:57.240Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Al-mugnyy",
+      "email": "dosumuabdulganiyuopeyemu09@gmail.com",
+      "encrypted_password": "7b23ebf0479970428f36e2295b96c3ba",
+      "referral_code": "ALS2C",
+      "inviter_referral_code": "C04PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:30:56.398Z"
     }
   ],
   "withdrawals": [],
