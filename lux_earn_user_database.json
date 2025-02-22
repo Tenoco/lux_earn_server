@@ -1938,11 +1938,12 @@
       "invited_users": [
         "Abu006",
         "Precious",
-        "Phantomffx"
+        "Phantomffx",
+        "Finndann "
       ],
       "balance": 130,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -38552,7 +38553,8 @@
         5,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Phantomffx",
@@ -38587,6 +38589,21 @@
       "joinDate": "2025-02-22T06:23:06.458Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Finndann ",
+      "email": "favourdaniel13usa@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "FI85K",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:27:49.657Z"
     }
   ],
   "withdrawals": [
