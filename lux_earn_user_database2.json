@@ -3355,13 +3355,15 @@
       "inviter_referral_code": "FAMAT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1025,
+      "balance": 1035,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:33:29.344Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T11:34:40.224Z"
     },
     {
@@ -3377,7 +3379,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:35:17.134Z"
+      "joinDate": "2025-02-22T11:35:17.134Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
