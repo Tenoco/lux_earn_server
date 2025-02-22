@@ -10460,11 +10460,12 @@
         "Kjhfdfuji",
         "Ijjggfg",
         "Jbaboug",
-        "Nobodyjhfd"
+        "Nobodyjhfd",
+        "Koihgfd"
       ],
       "balance": 210,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:26:55.761Z",
@@ -11948,7 +11949,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:21:35.389Z"
+      "joinDate": "2025-02-22T19:21:35.389Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Koihgfd",
+      "email": "koiffhkk@gmail.com",
+      "encrypted_password": "3c721bd44f3bc60d940a97179208697e",
+      "referral_code": "KO5WO",
+      "inviter_referral_code": "AL4BB",
+      "inviter_username": "Alhassan 001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:22:16.161Z"
     }
   ],
   "withdrawals": [
