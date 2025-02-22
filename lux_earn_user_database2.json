@@ -1826,6 +1826,21 @@
       "joinDate": "2025-02-22T09:20:06.584Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nawal",
+      "email": "tessaalisson0011@gmail.com",
+      "encrypted_password": "8835fa54b0aa8a9c6621230e8f794a5f",
+      "referral_code": "NAPJV",
+      "inviter_referral_code": "NAN3U",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:21:56.778Z"
     }
   ],
   "withdrawals": [],
