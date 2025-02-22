@@ -12031,7 +12031,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 300,
+      "balance": 520,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12057,9 +12057,19 @@
         8,
         9,
         10,
-        11
-      ],
-      "lastSpin": null
+        11,
+        12,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13
+      ]
     },
     {
       "username": "Nanaho",
@@ -12142,7 +12152,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:33:38.813Z"
+      "joinDate": "2025-02-22T19:33:38.813Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
