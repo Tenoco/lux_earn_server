@@ -5140,7 +5140,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5149,7 +5149,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:39:12.600Z"
     },
     {
       "username": "Oguzie ",
@@ -12283,7 +12283,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:38:50.721Z"
+      "joinDate": "2025-02-22T19:38:50.721Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
