@@ -5911,11 +5911,12 @@
       "inviter_username": null,
       "invited_users": [
         "Hiwhwushh",
-        "Gugggv"
+        "Gugggv",
+        "Jijhhpyy"
       ],
       "balance": 180,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:50:04.638Z",
@@ -12177,6 +12178,21 @@
       "joinDate": "2025-02-22T19:35:00.159Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jijhhpyy",
+      "email": "victoriabayhhholane@gmail.com",
+      "encrypted_password": "7ae7778c9ae86d2ded133e891995dc9e",
+      "referral_code": "JI8UL",
+      "inviter_referral_code": "LASP5",
+      "inviter_username": "Laniba1258",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:35:54.265Z"
     }
   ],
   "withdrawals": [
