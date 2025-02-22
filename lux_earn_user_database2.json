@@ -6101,11 +6101,12 @@
         "praise33",
         "Ifeoluwa T",
         "Abshdn2",
-        "Aayomi3939"
+        "Aayomi3939",
+        "Ab239"
       ],
       "balance": 138,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -7195,6 +7196,21 @@
       "joinDate": "2025-02-22T15:33:45.235Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ab239",
+      "email": "abiodunajayi335@gmail.com",
+      "encrypted_password": "cd1ac7576a99005225e99ae984f7e610",
+      "referral_code": "AB21Z",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:37:59.057Z"
     }
   ],
   "withdrawals": [],
