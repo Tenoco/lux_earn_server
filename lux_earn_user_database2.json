@@ -6599,14 +6599,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:53:43.834Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T15:07:41.808Z"
     },
     {
       "username": "Oluwasogo999",
@@ -6802,7 +6802,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:07:43.583Z"
+      "joinDate": "2025-02-22T15:07:43.583Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
