@@ -345,6 +345,21 @@
       "joinDate": "2025-02-22T07:03:30.035Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "nasiru magaji",
+      "email": "nasirumagajigrk@gmail.com",
+      "encrypted_password": "77f35ea0238c9c8856db909f96bacf3d",
+      "referral_code": "NA8Z6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:09:13.933Z"
     }
   ],
   "withdrawals": [],
