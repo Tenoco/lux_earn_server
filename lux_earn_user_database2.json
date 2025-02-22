@@ -8233,7 +8233,7 @@
       "inviter_referral_code": "ADYYK",
       "inviter_username": "Adedayo Afeez ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8241,7 +8241,9 @@
       "joinDate": "2025-02-22T16:33:25.693Z",
       "completedMissions": [
         1,
-        10
+        10,
+        9,
+        8
       ]
     },
     {
