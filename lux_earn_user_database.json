@@ -37339,11 +37339,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [
-        "Sylviapurity"
+        "Sylviapurity",
+        "Akinjobi"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:43:58.481Z",
@@ -38479,7 +38480,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:06:02.248Z"
+      "joinDate": "2025-02-22T05:06:02.248Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akinjobi",
+      "email": "akinjobitaiwo39@gmail.com",
+      "encrypted_password": "c109869f9ba6037a752099f9c3f032a8",
+      "referral_code": "AKLD1",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": "COACHTINA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:07:33.095Z"
     }
   ],
   "withdrawals": [
