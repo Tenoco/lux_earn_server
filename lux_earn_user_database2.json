@@ -4099,10 +4099,12 @@
       "referral_code": "AY8J4",
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "odunayo12"
+      ],
       "balance": 140,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:04:23.298Z",
@@ -4188,6 +4190,21 @@
       "joinDate": "2025-02-22T12:10:26.775Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T12:11:29.427Z"
+    },
+    {
+      "username": "odunayo12",
+      "email": "odunayoaderibigbe94@gmail.com",
+      "encrypted_password": "61637114114b351c5ba434c98a0dfd03",
+      "referral_code": "ODS17",
+      "inviter_referral_code": "AY8J4",
+      "inviter_username": "AyoRichee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:13:07.855Z"
     }
   ],
   "withdrawals": [],
