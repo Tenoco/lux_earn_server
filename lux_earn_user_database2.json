@@ -13511,7 +13511,7 @@
       "invited_users": [
         "Testimony "
       ],
-      "balance": 205,
+      "balance": 225,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -13528,7 +13528,8 @@
         9,
         13,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-22T21:01:36.051Z"
     },
@@ -14506,7 +14507,8 @@
       "joinDate": "2025-02-22T21:09:35.140Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "kelv42",
