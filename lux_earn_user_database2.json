@@ -12755,10 +12755,12 @@
       "referral_code": "KAAFX",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Muhammad "
+      ],
       "balance": 470,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:08:57.455Z",
@@ -13140,6 +13142,21 @@
       "joinDate": "2025-02-22T20:07:31.808Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad ",
+      "email": "Ahmadabbah80@gmail.com",
+      "encrypted_password": "8a0a643aa8d976926dc5f315f985550d",
+      "referral_code": "MUK6O",
+      "inviter_referral_code": "KAAFX",
+      "inviter_username": "Kabeeer",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:08:35.844Z"
     }
   ],
   "withdrawals": [
