@@ -5691,11 +5691,12 @@
         "Eralimad",
         "Smiths ",
         "Segun",
-        "Ajani123"
+        "Ajani123",
+        "Segun2"
       ],
       "balance": 295,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:05:56.670Z",
@@ -37474,7 +37475,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:02:40.986Z"
+      "joinDate": "2025-02-22T01:02:40.986Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Segun2",
+      "email": "lagaconcept22020@gmail.com",
+      "encrypted_password": "9e2afce84f943ca3ff955712cd1b3184",
+      "referral_code": "SEJJW",
+      "inviter_referral_code": "LA7RS",
+      "inviter_username": "LAGACONCEPT ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:02:49.276Z"
     }
   ],
   "withdrawals": [
