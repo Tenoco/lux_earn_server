@@ -9861,14 +9861,17 @@
       "inviter_referral_code": "VIM4T",
       "inviter_username": "Vice11",
       "invited_users": [],
-      "balance": 0,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:06:03.140Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-22T18:08:57.331Z"
     },
     {
       "username": "Habjamiu00",
@@ -9903,7 +9906,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:09:29.626Z"
+      "joinDate": "2025-02-22T18:09:29.626Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
