@@ -1216,10 +1216,10 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1110,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0,
+      "withdrawalBalance": 1100,
       "status": "active",
       "joinDate": "2025-02-22T08:15:34.082Z",
       "completedMissions": [
@@ -1230,7 +1230,7 @@
         4,
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T08:31:18.016Z"
     },
     {
       "username": "Marvelous0",
