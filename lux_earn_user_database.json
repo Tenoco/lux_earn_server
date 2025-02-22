@@ -9198,11 +9198,12 @@
         "Jennifer akuwe",
         "Solomonokun",
         "Ezeboy",
-        "Joyasakp"
+        "Joyasakp",
+        "Fish"
       ],
       "balance": 350,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:09:39.771Z",
@@ -38516,7 +38517,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:42:25.968Z"
+      "joinDate": "2025-02-22T05:42:25.968Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fish",
+      "email": "joysakpde6@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "FI466",
+      "inviter_referral_code": "MSNAH",
+      "inviter_username": "Msfiris",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:42:25.606Z"
     }
   ],
   "withdrawals": [
