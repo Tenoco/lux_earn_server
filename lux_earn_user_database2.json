@@ -11355,7 +11355,7 @@
       "inviter_referral_code": "Kll01",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 112,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11366,7 +11366,7 @@
         2,
         3
       ],
-      "lastSpin": "2025-02-21T07:48:47.286Z"
+      "lastSpin": "2025-02-22T19:02:25.220Z"
     },
     {
       "username": "jossyowo",
@@ -11381,7 +11381,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:01:57.855Z"
+      "joinDate": "2025-02-22T19:01:57.855Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
