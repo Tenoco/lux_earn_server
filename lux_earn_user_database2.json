@@ -998,7 +998,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pablo ",
@@ -1085,16 +1086,17 @@
       "inviter_referral_code": "VIDQ2",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:55:35.482Z",
+      "lastSpin": "2025-02-22T07:56:23.367Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-22T07:56:23.367Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Ayokanmi",
