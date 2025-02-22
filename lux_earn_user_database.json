@@ -37336,10 +37336,12 @@
       "referral_code": "CO4PD",
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Sylviapurity"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:43:58.481Z",
@@ -38396,7 +38398,8 @@
         7,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pinkyponky",
@@ -38414,6 +38417,21 @@
       "joinDate": "2025-02-22T04:57:55.251Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sylviapurity",
+      "email": "sylviapurity65@gmail.com",
+      "encrypted_password": "d74ca4ceee9aca019b73d8e514d5e179",
+      "referral_code": "SYUH1",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": "COACHTINA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:01:03.713Z"
     }
   ],
   "withdrawals": [
