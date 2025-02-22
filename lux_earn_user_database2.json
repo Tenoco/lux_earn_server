@@ -685,10 +685,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:31:07.752Z",
-      "lastSpin": "2025-02-22T07:31:32.640Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:31:32.640Z"
+    },
+    {
+      "username": "Bobo1 ",
+      "email": "sunnynnaemeka056@gmail.com",
+      "encrypted_password": "325a2cc052914ceeb8c19016c091d2ac",
+      "referral_code": "BO02M",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:30:45.830Z"
     }
   ],
   "withdrawals": [],
