@@ -427,7 +427,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 238,
+      "balance": 298,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -445,7 +445,10 @@
         9,
         9,
         9,
-        9
+        9,
+        8,
+        8,
+        8
       ],
       "lastSpin": "2025-02-22T07:14:37.516Z"
     },
@@ -489,7 +492,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Afolabivib",
