@@ -284,7 +284,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 162,
+      "balance": 172,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -301,7 +301,8 @@
         7,
         11,
         11,
-        10
+        10,
+        1
       ],
       "lastSpin": "2025-02-22T07:01:02.154Z"
     },
@@ -3487,7 +3488,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:59.975Z",
-      "lastSpin": "2025-02-22T11:38:10.345Z",
       "completedMissions": [
         1,
         2,
@@ -3497,7 +3497,8 @@
         6,
         5,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:38:10.345Z"
     },
     {
       "username": "Ade",
