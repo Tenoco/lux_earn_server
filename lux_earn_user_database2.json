@@ -6631,10 +6631,12 @@
       "referral_code": "MA9HU",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Danpromi"
+      ],
       "balance": 78,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:51:50.760Z",
@@ -8249,7 +8251,8 @@
         5,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yarima76",
@@ -8359,6 +8362,21 @@
       "joinDate": "2025-02-22T16:37:09.139Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danpromi",
+      "email": "dadegboye@gmail.com",
+      "encrypted_password": "d7a5b8bcb37838d43e11ed8c1e09c51b",
+      "referral_code": "DA1M6",
+      "inviter_referral_code": "MA9HU",
+      "inviter_username": "Matthew789 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:37:58.964Z"
     }
   ],
   "withdrawals": [
