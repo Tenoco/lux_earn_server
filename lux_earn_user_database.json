@@ -47,12 +47,11 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky",
-        "Ayoade Michael "
+        "Pinkyponky"
       ],
       "balance": 5503,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -90,10 +89,10 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 4000,
+      "balance": 5000,
       "refers": 1,
       "referralBalance": 100,
-      "withdrawalBalance": 1000,
+      "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T19:52:56.822Z",
       "completedMissions": [],
@@ -12573,7 +12572,7 @@
       "inviter_referral_code": "UN6ID",
       "inviter_username": "Unknown",
       "invited_users": [],
-      "balance": 180,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12590,7 +12589,7 @@
         5,
         9
       ],
-      "lastSpin": "2025-02-22T11:59:30.835Z"
+      "lastSpin": "2025-02-21T07:26:44.835Z"
     },
     {
       "username": "Dhhecv1",
@@ -16018,17 +16017,14 @@
       "invited_users": [
         "Olasmatt"
       ],
-      "balance": 100,
+      "balance": 50,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:46:04.809Z",
       "completedMissions": [
-        1,
-        4,
-        5,
-        6
+        1
       ],
       "lastSpin": "2025-02-21T07:59:01.575Z"
     },
@@ -24209,7 +24205,7 @@
       "invited_users": [
         "Duza"
       ],
-      "balance": 275,
+      "balance": 255,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -24224,8 +24220,7 @@
         6,
         7,
         8,
-        9,
-        10
+        9
       ],
       "lastSpin": "2025-02-21T09:47:21.983Z"
     },
@@ -28308,12 +28303,11 @@
       "invited_users": [
         "Blessingivy",
         "GTNice ",
-        "Sofia",
-        "Princepromzie"
+        "Sofia"
       ],
       "balance": 48,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -30202,15 +30196,13 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 10,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:18:51.943Z",
-      "completedMissions": [
-        1
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -34783,23 +34775,13 @@
       "inviter_referral_code": "DECIC",
       "inviter_username": "Debby030",
       "invited_users": [],
-      "balance": 140,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:36:02.277Z",
-      "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -38515,95 +38497,7 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Samuelnelson",
-      "email": "samuelnel1234on@gmail.com",
-      "encrypted_password": "18d152480e2b30da31c91ea3bc290e68",
-      "referral_code": "SA9CK",
-      "inviter_referral_code": "Dapbl",
-      "inviter_username": null,
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T11:20:37.293Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Teevibez",
-      "email": "timothyoguzi02@gmail.com",
-      "encrypted_password": "8f8ce9d76233cda014ccd3c20f646686",
-      "referral_code": "TEY72",
-      "inviter_referral_code": "REKOU ",
-      "inviter_username": null,
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T11:25:35.590Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Ayoade Michael ",
-      "email": "ayoademichael31@gmail.com",
-      "encrypted_password": "806073462f3459a3df74aa8c5f5e7981",
-      "referral_code": "AYH6B",
-      "inviter_referral_code": null,
-      "inviter_username": "Bella",
-      "invited_users": [],
-      "balance": 290,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T11:36:51.583Z",
-      "completedMissions": [
-        1,
-        2,
-        3,
-        4,
-        8,
-        7,
-        6,
-        5,
-        9,
-        9
-      ],
-      "lastSpin": "2025-02-22T11:39:30.403Z"
-    },
-    {
-      "username": "Princepromzie",
-      "email": "princepromzie@gmail.com",
-      "encrypted_password": "55a995c43c6422d062d5d3e7777e1495",
-      "referral_code": "PR9NI",
-      "inviter_referral_code": "REKOU",
-      "inviter_username": "Rebecca",
-      "invited_users": [],
-      "balance": 101,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 1000,
-      "status": "active",
-      "joinDate": "2025-02-22T11:49:57.223Z",
-      "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        10,
-        10
-      ],
-      "lastSpin": "2025-02-22T11:57:18.093Z"
+      "joinDate": "2025-02-22T05:07:33.095Z"
     }
   ],
   "withdrawals": [
