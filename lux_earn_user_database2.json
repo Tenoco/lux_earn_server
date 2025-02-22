@@ -2596,14 +2596,15 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:41:23.362Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        5
+      ]
     },
     {
       "username": "Huff g ",
