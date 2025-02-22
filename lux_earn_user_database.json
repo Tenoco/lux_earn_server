@@ -38032,7 +38032,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:06:36.355Z"
+      "joinDate": "2025-02-22T03:06:36.355Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kruzlee",
+      "email": "sammiekruzly@gmail.com",
+      "encrypted_password": "c55b912cae734bda6083d47794ab0bf0",
+      "referral_code": "KRURH",
+      "inviter_referral_code": "CO4PD ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:07:14.824Z"
     }
   ],
   "withdrawals": [
