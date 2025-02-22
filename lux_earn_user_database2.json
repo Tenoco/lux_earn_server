@@ -9867,11 +9867,12 @@
         "Alhassan 001",
         "Lizzybabe",
         "Adegboye12",
-        "BLACKABANDO"
+        "BLACKABANDO",
+        "Victoria Emeshiobi "
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -15929,7 +15930,8 @@
       "joinDate": "2025-02-22T23:05:21.007Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Man_comodo",
@@ -15947,6 +15949,21 @@
       "joinDate": "2025-02-22T23:06:18.663Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victoria Emeshiobi ",
+      "email": "judithemeshiobi@gmail.com",
+      "encrypted_password": "89530b99258ba0ea749d044f2d01aaac",
+      "referral_code": "VIWED",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:07:46.945Z"
     }
   ],
   "withdrawals": [
