@@ -6655,10 +6655,12 @@
       "referral_code": "FAWR7",
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ekene123"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:55:57.930Z",
@@ -6881,13 +6883,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:13:07.065Z",
-      "lastSpin": "2025-02-22T15:14:48.199Z",
       "completedMissions": [
         1,
         2,
         13,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-22T15:14:48.199Z"
     },
     {
       "username": "Favy",
@@ -6939,6 +6941,21 @@
       "joinDate": "2025-02-22T15:16:49.732Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ekene123",
+      "email": "thankgodchike5@icloud.com",
+      "encrypted_password": "5100b92dfae980b27be755ba42951e0b",
+      "referral_code": "EKW5E",
+      "inviter_referral_code": "FAWR7",
+      "inviter_username": "Favourites ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:18:46.221Z"
     }
   ],
   "withdrawals": [],
