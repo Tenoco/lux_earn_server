@@ -3618,7 +3618,8 @@
         2,
         2,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oybbf",
@@ -3670,6 +3671,21 @@
       "joinDate": "2025-02-22T11:49:20.712Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Luckyprosper091 ",
+      "email": "luckyprosper091@gmail.com",
+      "encrypted_password": "cf0baa2f78f0c49aacf455cf9385c2cb",
+      "referral_code": "LUNH5",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:50:17.542Z"
     }
   ],
   "withdrawals": [],
