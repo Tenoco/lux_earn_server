@@ -11594,7 +11594,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:12:29.534Z"
+      "joinDate": "2025-02-22T19:12:29.534Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Henry5@6",
+      "email": "praisendukuba@gmail.com",
+      "encrypted_password": "463145bd8eb8c2b45f9c427e9f47b9d5",
+      "referral_code": "HEDTV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:12:40.885Z"
     }
   ],
   "withdrawals": [
