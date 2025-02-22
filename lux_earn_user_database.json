@@ -37187,11 +37187,12 @@
       "invited_users": [
         "Babe",
         "Fuckgggv",
-        "Bbzbsbzbb"
+        "Bbzbsbzbb",
+        "Bfbbbb"
       ],
       "balance": 25,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37318,6 +37319,21 @@
       "joinDate": "2025-02-22T00:45:56.235Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bfbbbb",
+      "email": "maryjaneilechie@gmail.com",
+      "encrypted_password": "e9f5713dec55d727bb35392cec6190ce",
+      "referral_code": "BFBJN",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:50:23.688Z"
     }
   ],
   "withdrawals": [
