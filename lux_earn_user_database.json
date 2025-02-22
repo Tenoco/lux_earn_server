@@ -38185,7 +38185,7 @@
       "inviter_referral_code": "SAGJY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38194,9 +38194,9 @@
       "completedMissions": [
         1,
         2,
-        3
-      ],
-      "lastSpin": null
+        3,
+        4
+      ]
     },
     {
       "username": "Miracle ",
@@ -38228,7 +38228,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T04:23:24.000Z"
+      "joinDate": "2025-02-22T04:23:24.000Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
