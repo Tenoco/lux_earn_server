@@ -8015,10 +8015,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:25:02.027Z",
-      "lastSpin": "2025-02-22T16:25:26.906Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T16:25:26.906Z"
     },
     {
       "username": "DiviB",
@@ -8028,14 +8028,14 @@
       "inviter_referral_code": "BRNM8",
       "inviter_username": "Briggydivi ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:25:03.884Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T16:27:13.057Z"
     },
     {
       "username": "Peace kid ",
