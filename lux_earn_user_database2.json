@@ -13259,7 +13259,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:11:36.376Z"
+      "joinDate": "2025-02-22T20:11:36.376Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "AmaraOvercomer",
+      "email": "overcomergoodness@gmail.com",
+      "encrypted_password": "870007c46ff7ddf80abd328c6c16e1f6",
+      "referral_code": "AMJMY",
+      "inviter_referral_code": "  CHUQV",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:37:11.812Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
