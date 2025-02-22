@@ -14259,7 +14259,7 @@
       "inviter_referral_code": "HETAN",
       "inviter_username": "Henry111",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14267,9 +14267,9 @@
       "joinDate": "2025-02-22T20:54:23.537Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Mirabel",
@@ -14413,7 +14413,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:06:01.025Z"
+      "joinDate": "2025-02-22T21:06:01.025Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
