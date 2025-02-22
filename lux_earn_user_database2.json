@@ -4525,7 +4525,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:34:44.191Z"
+      "joinDate": "2025-02-22T12:34:44.191Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Prompee ",
+      "email": "ogunladepromise209@gmail.com",
+      "encrypted_password": "98f128ee298df412732e346db9826f25",
+      "referral_code": "PROZ3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:35:19.031Z"
     }
   ],
   "withdrawals": [],
