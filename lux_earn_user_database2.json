@@ -13242,16 +13242,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:11:28.957Z",
       "completedMissions": [
-        13
-      ],
-      "lastSpin": null
+        13,
+        12
+      ]
     },
     {
       "username": "Haruna44",
