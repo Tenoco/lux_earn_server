@@ -1577,10 +1577,12 @@
       "referral_code": "KEF8I",
       "inviter_referral_code": "DAJ8E",
       "inviter_username": "Dazzlingdeevyn ",
-      "invited_users": [],
+      "invited_users": [
+        "Olawale22"
+      ],
       "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:53:21.381Z",
@@ -2266,7 +2268,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:59:08.234Z"
+      "joinDate": "2025-02-22T09:59:08.234Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olawale22",
+      "email": "fastjoymax@gmail.com",
+      "encrypted_password": "ba79311561370f4ab75e057421347fb0",
+      "referral_code": "OLB58",
+      "inviter_referral_code": "KEF8I",
+      "inviter_username": "Kennylee ",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:00:00.701Z"
     }
   ],
   "withdrawals": [],
