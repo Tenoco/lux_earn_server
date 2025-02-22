@@ -15117,7 +15117,8 @@
         2,
         5,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Shadow",
@@ -15275,6 +15276,21 @@
       "joinDate": "2025-02-22T22:01:09.682Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dë Dë Õffíçïãl ",
+      "email": "dedeofficial2007@gmail.com",
+      "encrypted_password": "3474923c75e7a99389488de66109f367",
+      "referral_code": "DËM0V",
+      "inviter_referral_code": "DEQQV",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:02:36.168Z"
     }
   ],
   "withdrawals": [
