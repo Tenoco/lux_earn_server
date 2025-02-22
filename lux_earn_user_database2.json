@@ -851,7 +851,7 @@
       "inviter_referral_code": "IBX2K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 78,
+      "balance": 98,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -862,7 +862,8 @@
         2,
         2,
         4,
-        5
+        5,
+        10
       ],
       "lastSpin": "2025-02-22T07:45:07.141Z"
     },
@@ -899,12 +900,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:48:14.660Z",
-      "lastSpin": "2025-02-22T07:50:05.704Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:50:05.704Z"
     },
     {
       "username": "Whitedrag",
