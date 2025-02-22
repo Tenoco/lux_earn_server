@@ -15416,7 +15416,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:10:06.671Z"
+      "joinDate": "2025-02-22T22:10:06.671Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sambo",
+      "email": "Godswillsambo446@gmail.com",
+      "encrypted_password": "a0a7c11e574223a9030ec92bae7c6eb7",
+      "referral_code": "SALMX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:10:37.788Z"
     }
   ],
   "withdrawals": [
