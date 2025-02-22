@@ -2382,7 +2382,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1140,
+      "balance": 1185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2397,9 +2397,10 @@
         6,
         7,
         8,
-        10
+        10,
+        11
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T10:45:04.291Z"
     },
     {
       "username": "Tomiwa",
