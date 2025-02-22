@@ -13191,11 +13191,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Ogbaji "
+        "Ogbaji ",
+        "Noah"
       ],
       "balance": 105,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:56:00.322Z",
@@ -37964,6 +37965,21 @@
       "joinDate": "2025-02-22T02:25:14.277Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Noah",
+      "email": "williamsbergs3@gmail.com",
+      "encrypted_password": "87d57a57cfcc8c2c5c10df4594886edc",
+      "referral_code": "NOYMV",
+      "inviter_referral_code": "JAKOC",
+      "inviter_username": "Jameson",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:55:03.971Z"
     }
   ],
   "withdrawals": [
