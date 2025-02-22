@@ -48,11 +48,12 @@
         "Lopezcat1",
         "STICKZ",
         "Pinkyponky",
-        "Roman6040 "
+        "Roman6040 ",
+        "Nworie"
       ],
       "balance": 5503,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38564,6 +38565,21 @@
       "joinDate": "2025-02-22T06:49:50.384Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nworie",
+      "email": "nworiebenedict4@gmail.com",
+      "encrypted_password": "7e6ab18ed63efa843fb060d7f1179a6b",
+      "referral_code": "NW47X",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:18:02.235Z"
     }
   ],
   "withdrawals": [
