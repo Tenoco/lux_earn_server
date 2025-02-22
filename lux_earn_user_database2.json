@@ -11511,14 +11511,19 @@
       "invited_users": [
         "Pelumi123"
       ],
-      "balance": 18,
+      "balance": 86,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:12:32.751Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-21T07:38:51.615Z"
+      "completedMissions": [
+        1,
+        1,
+        2,
+        4
+      ],
+      "lastSpin": "2025-02-22T19:13:00.803Z"
     },
     {
       "username": "Rachael",
