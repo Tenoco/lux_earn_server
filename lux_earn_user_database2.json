@@ -12822,7 +12822,7 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12830,9 +12830,9 @@
       "joinDate": "2025-02-22T19:55:36.463Z",
       "completedMissions": [
         2,
-        5
-      ],
-      "lastSpin": null
+        5,
+        9
+      ]
     },
     {
       "username": "Treasure Joshua ",
@@ -12945,7 +12945,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:01:36.846Z"
+      "joinDate": "2025-02-22T20:01:36.846Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
