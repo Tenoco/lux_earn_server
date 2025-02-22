@@ -851,18 +851,19 @@
       "inviter_referral_code": "IBX2K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 38,
+      "balance": 58,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:44:48.301Z",
+      "lastSpin": "2025-02-22T07:45:07.141Z",
       "completedMissions": [
         1,
         2,
-        2
-      ],
-      "lastSpin": "2025-02-22T07:45:07.141Z"
+        2,
+        4
+      ]
     },
     {
       "username": "faisal022",
@@ -877,7 +878,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:47:13.711Z"
+      "joinDate": "2025-02-22T07:47:13.711Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
