@@ -3608,14 +3608,16 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:46:06.100Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        2
+      ]
     },
     {
       "username": "Oybbf",
@@ -3664,7 +3666,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:49:20.712Z"
+      "joinDate": "2025-02-22T11:49:20.712Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
