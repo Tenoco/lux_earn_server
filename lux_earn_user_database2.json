@@ -4413,7 +4413,7 @@
       "inviter_referral_code": "SON2K",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4426,9 +4426,9 @@
         5,
         6,
         7,
-        8
-      ],
-      "lastSpin": null
+        8,
+        9
+      ]
     },
     {
       "username": "Abdulfatai7 ",
@@ -4460,7 +4460,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:27:08.254Z"
+      "joinDate": "2025-02-22T12:27:08.254Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
