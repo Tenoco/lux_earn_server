@@ -1047,14 +1047,15 @@
       "inviter_referral_code": "AD5OT ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:55:33.129Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
