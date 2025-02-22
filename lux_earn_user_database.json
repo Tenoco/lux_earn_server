@@ -10897,11 +10897,12 @@
         "Ajibola",
         "Chulnafi2",
         "Wisco124",
-        "SomtyCee"
+        "SomtyCee",
+        "Onyedikachi"
       ],
       "balance": 50,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T04:23:53.013Z",
@@ -38626,6 +38627,21 @@
         4
       ],
       "lastSpin": "2025-02-22T13:18:16.713Z"
+    },
+    {
+      "username": "Onyedikachi",
+      "email": "dikachi724@gmail.com",
+      "encrypted_password": "c1609cc2a96c0e05e64fd92afde795a8",
+      "referral_code": "ONHX1",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:36:14.736Z"
     }
   ],
   "withdrawals": [
