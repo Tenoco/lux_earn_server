@@ -433,7 +433,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:14:24.711Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T07:14:37.516Z"
+    },
+    {
+      "username": "Emmaorji ",
+      "email": "Mochaprince919@gmail.com",
+      "encrypted_password": "65cad45c554df949a74c641f511d5b11",
+      "referral_code": "EMWT1",
+      "inviter_referral_code": "CH43H",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:16:29.485Z"
     }
   ],
   "withdrawals": [],
