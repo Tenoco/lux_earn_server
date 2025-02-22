@@ -14940,7 +14940,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T21:39:46.831Z"
+      "joinDate": "2025-02-22T21:39:46.831Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Martinez ",
+      "email": "olisemartins97@gmail.com",
+      "encrypted_password": "89e4975b08f59acad865c91b63275dd7",
+      "referral_code": "MARUC",
+      "inviter_referral_code": "Nimbv ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:39:58.642Z"
     }
   ],
   "withdrawals": [
