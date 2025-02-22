@@ -284,7 +284,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 42,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -292,7 +292,8 @@
       "joinDate": "2025-02-22T06:59:24.283Z",
       "completedMissions": [
         12,
-        9
+        9,
+        2
       ],
       "lastSpin": "2025-02-22T07:01:02.154Z"
     },
@@ -3396,7 +3397,8 @@
         4,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samfx",
