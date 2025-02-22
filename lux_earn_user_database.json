@@ -44,11 +44,12 @@
         "Olexprezzy1",
         "Osasbillons111",
         "Lilafavour",
-        "Kingobillions"
+        "Kingobillions",
+        "Lopezcat1"
       ],
       "balance": 5503,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38348,11 +38349,26 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:47:33.568Z",
-      "lastSpin": "2025-02-22T04:48:05.912Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-22T04:48:05.912Z"
+    },
+    {
+      "username": "Lopezcat1",
+      "email": "imafidorfavour20@gmail.com",
+      "encrypted_password": "8157a06cd0c8128b553a624b47bf53a7",
+      "referral_code": "LON02",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:54:01.863Z"
     }
   ],
   "withdrawals": [
