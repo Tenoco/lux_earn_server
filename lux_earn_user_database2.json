@@ -8781,7 +8781,42 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:54:16.634Z"
+      "joinDate": "2025-02-22T16:54:16.634Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gokugokael",
+      "email": "ezegoku2011@gmail.com",
+      "encrypted_password": "41e7f223958616c86964f347663d12a5",
+      "referral_code": "GOB58",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Chief ",
+        "Goku",
+        "Shakou ",
+        "Chief shakou ",
+        "Gohan "
+      ],
+      "balance": 230,
+      "refers": 5,
+      "referralBalance": 500,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:01:54.204Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        5,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-21T06:04:02.281Z"
     }
   ],
   "withdrawals": [
