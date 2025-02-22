@@ -1289,10 +1289,10 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1140,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
-      "withdrawalBalance": 0,
+      "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:23:07.711Z",
       "completedMissions": [
@@ -1306,7 +1306,7 @@
         9,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T08:30:43.954Z"
     },
     {
       "username": "AyomideTV ",
@@ -1356,6 +1356,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:29:24.122Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T08:29:52.575Z"
     }
   ],
