@@ -1044,7 +1044,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:55:33.129Z"
+      "joinDate": "2025-02-22T07:55:33.129Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marphew",
+      "email": "okeziemarvellous711@gmail.com",
+      "encrypted_password": "fe0e906496fdff6ece082b4e3f1d7f2d",
+      "referral_code": "MA5VG",
+      "inviter_referral_code": "VIDQ2",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:55:35.482Z"
     }
   ],
   "withdrawals": [],
