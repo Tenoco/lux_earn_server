@@ -13682,7 +13682,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:32:19.996Z"
+      "joinDate": "2025-02-22T20:32:19.996Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gfhfjghjjjgfhg67",
+      "email": "hgggggggghghhhhggggg@gmail.com",
+      "encrypted_password": "d0970714757783e6cf17b26fb8e2298f",
+      "referral_code": "GF2XL",
+      "inviter_referral_code": "PRQAG ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:32:35.756Z"
     }
   ],
   "withdrawals": [
