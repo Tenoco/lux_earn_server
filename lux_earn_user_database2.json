@@ -12990,11 +12990,12 @@
       "invited_users": [
         "Wisdom024",
         "Mr_Nobody",
-        "Laycon"
+        "Laycon",
+        "Joshua010"
       ],
       "balance": 18,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:27:18.893Z",
@@ -13667,6 +13668,21 @@
       "joinDate": "2025-02-22T20:30:44.809Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joshua010",
+      "email": "chmzchi712@gmail.com",
+      "encrypted_password": "9bc1b25c7a2f51ebf18445200c6d8ef6",
+      "referral_code": "JOZDV",
+      "inviter_referral_code": "DECIC",
+      "inviter_username": "Debby030",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:32:19.996Z"
     }
   ],
   "withdrawals": [
