@@ -11278,7 +11278,7 @@
       "inviter_referral_code": "ESMUF",
       "inviter_username": "Esther",
       "invited_users": [],
-      "balance": 91,
+      "balance": 101,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11290,7 +11290,8 @@
         4,
         4,
         5,
-        6
+        6,
+        7
       ],
       "lastSpin": "2025-02-22T18:58:49.130Z"
     },
@@ -12048,7 +12049,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:24:46.836Z"
+      "joinDate": "2025-02-22T19:24:46.836Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
