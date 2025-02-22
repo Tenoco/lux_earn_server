@@ -137,6 +137,21 @@
       "joinDate": "2025-02-22T06:52:59.662Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yeye",
+      "email": "jeje@gmail.com",
+      "encrypted_password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "referral_code": "YEM3D",
+      "inviter_referral_code": "FR22C",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:52:57.345Z"
     }
   ],
   "withdrawals": [],
