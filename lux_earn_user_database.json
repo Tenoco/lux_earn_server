@@ -37901,7 +37901,7 @@
       "inviter_referral_code": "Co4pd",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37909,7 +37909,8 @@
       "joinDate": "2025-02-22T02:01:18.263Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T02:02:12.771Z"
     },
