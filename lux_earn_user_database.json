@@ -37341,11 +37341,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sylviapurity",
-        "Akinjobi"
+        "Akinjobi",
+        "Amina06"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:43:58.481Z",
@@ -38515,7 +38516,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:21:57.390Z"
+      "joinDate": "2025-02-22T06:21:57.390Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amina06",
+      "email": "aminaahmad4110@gmail.com",
+      "encrypted_password": "2db8a7dff0ff0528499f6091c812d828",
+      "referral_code": "AM7DM",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": "COACHTINA",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:22:10.393Z"
     }
   ],
   "withdrawals": [
