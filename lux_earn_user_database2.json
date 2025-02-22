@@ -6320,18 +6320,24 @@
       "inviter_referral_code": "SHORD",
       "inviter_username": "Shittu27 ",
       "invited_users": [],
-      "balance": 60,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:17.378Z",
+      "lastSpin": "2025-02-22T14:38:06.498Z",
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": "2025-02-22T14:38:06.498Z"
+        4,
+        5,
+        8,
+        7,
+        6,
+        9,
+        10
+      ]
     },
     {
       "username": "praise33",
