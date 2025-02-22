@@ -6143,14 +6143,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:19:40.466Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -6749,7 +6752,8 @@
       "joinDate": "2025-02-22T15:05:24.630Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olumide2",
