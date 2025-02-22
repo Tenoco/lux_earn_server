@@ -10347,7 +10347,8 @@
       "completedMissions": [
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abimbade3",
@@ -10439,6 +10440,27 @@
         3
       ],
       "lastSpin": "2025-02-20T23:20:16.773Z"
+    },
+    {
+      "username": "Jessica David ",
+      "email": "favordavid900@gmail.com",
+      "encrypted_password": "aa4538dc25686bed3ca9e1ad00e45c05",
+      "referral_code": "JEPJV",
+      "inviter_referral_code": "MAQEG ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 95,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:05:19.539Z",
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-21T07:06:06.029Z"
     }
   ],
   "withdrawals": [
