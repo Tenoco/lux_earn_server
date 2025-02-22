@@ -10875,7 +10875,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Alexander",
@@ -10909,6 +10910,33 @@
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "fmdollar",
+      "email": "afunlehinb@gmail.com",
+      "encrypted_password": "8dd45e15706c34203c8b43e3a0c8da44",
+      "referral_code": "FMKRW",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [
+        "Realme",
+        "Basman "
+      ],
+      "balance": 80,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:43:21.551Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        6
+      ],
       "lastSpin": null
     }
   ],
