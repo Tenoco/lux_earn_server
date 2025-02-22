@@ -10144,7 +10144,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:17:46.987Z"
+      "joinDate": "2025-02-22T18:17:46.987Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vhhiy",
+      "email": "martin2000godstime@gmail.com",
+      "encrypted_password": "e0d2d8ab79a9c3fe123431b62a829f2c",
+      "referral_code": "VHC38",
+      "inviter_referral_code": "GBTAFX",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:18:05.521Z"
     }
   ],
   "withdrawals": [
