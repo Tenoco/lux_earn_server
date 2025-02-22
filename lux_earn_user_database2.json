@@ -243,7 +243,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:58:50.436Z"
+      "joinDate": "2025-02-22T06:58:50.436Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tamara",
+      "email": "believetuduo@gmail.com",
+      "encrypted_password": "c4d5bf88d005a6f9667aff171cb0180f",
+      "referral_code": "TAUPI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:59:24.283Z"
     }
   ],
   "withdrawals": [],
