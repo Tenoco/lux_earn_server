@@ -9033,7 +9033,7 @@
       "inviter_referral_code": "COL5E",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 45,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9042,7 +9042,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T17:08:44.531Z"
     },
@@ -9090,7 +9091,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:11:41.162Z"
+      "joinDate": "2025-02-22T17:11:41.162Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
