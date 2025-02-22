@@ -10518,7 +10518,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10533,9 +10533,14 @@
         6,
         6,
         7,
-        7
-      ],
-      "lastSpin": null
+        7,
+        8,
+        9,
+        9,
+        10,
+        11,
+        11
+      ]
     },
     {
       "username": "Nsjdjsnsisbd5",
@@ -10839,7 +10844,8 @@
       "joinDate": "2025-02-22T18:38:36.914Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abubakari ",
