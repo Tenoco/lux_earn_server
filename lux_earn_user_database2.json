@@ -382,7 +382,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:12:47.267Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T07:13:48.081Z"
+    },
+    {
+      "username": "blessing62 ",
+      "email": "blessingikechukwu258@gmail.com",
+      "encrypted_password": "cafd2fc48d92928ba983cd21c4bfbc6a",
+      "referral_code": "BL6L7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:14:08.036Z"
     }
   ],
   "withdrawals": [],
