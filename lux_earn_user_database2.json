@@ -6600,7 +6600,7 @@
       "inviter_referral_code": "PRQAD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6608,7 +6608,8 @@
       "joinDate": "2025-02-22T14:55:29.526Z",
       "completedMissions": [
         1,
-        5
+        5,
+        4
       ]
     },
     {
