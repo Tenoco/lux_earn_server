@@ -904,7 +904,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:48:14.660Z",
-      "lastSpin": "2025-02-22T07:50:05.704Z",
       "completedMissions": [
         1,
         2,
@@ -915,7 +914,8 @@
         8,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:50:05.704Z"
     },
     {
       "username": "Whitedrag",
@@ -1216,7 +1216,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1060,
+      "balance": 1080,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1225,9 +1225,9 @@
       "completedMissions": [
         10,
         10,
-        9
-      ],
-      "lastSpin": null
+        9,
+        8
+      ]
     }
   ],
   "withdrawals": [],
