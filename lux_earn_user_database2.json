@@ -6430,11 +6430,12 @@
         "Hdbsihejb1",
         "Bsubsjge2",
         "Bsudbsjs1",
-        "Hsndundi"
+        "Hsndundi",
+        "Peace kid "
       ],
       "balance": 90,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -8025,7 +8026,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:25:03.884Z"
+      "joinDate": "2025-02-22T16:25:03.884Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peace kid ",
+      "email": "adedejipeace@gmail.com",
+      "encrypted_password": "f81747518c9c6a74272ab93d23012fab",
+      "referral_code": "PEVXZ",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:25:23.083Z"
     }
   ],
   "withdrawals": [],
