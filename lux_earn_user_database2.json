@@ -3652,11 +3652,12 @@
         "DestinyNjoku",
         "Adewumi5",
         "Miraydouglas",
-        "Yull"
+        "Yull",
+        "Officialchrisjoel"
       ],
       "balance": 1116,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -16036,6 +16037,21 @@
       "joinDate": "2025-02-22T23:20:59.341Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Officialchrisjoel",
+      "email": "Officialchrisjoel@gmail.com",
+      "encrypted_password": "ccb1fd560481202cdb782420064494a6",
+      "referral_code": "OFTKL",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:30:44.760Z"
     }
   ],
   "withdrawals": [
