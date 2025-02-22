@@ -10760,7 +10760,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jokybill",
@@ -10814,6 +10815,21 @@
         9
       ],
       "lastSpin": "2025-02-21T09:07:42.736Z"
+    },
+    {
+      "username": "Esther",
+      "email": "esthermicheal390@gmail.com",
+      "encrypted_password": "5f4e3aa0ff28487743ad61b42e299cef",
+      "referral_code": "ESMUF",
+      "inviter_referral_code": "Ter48",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:38:36.914Z"
     }
   ],
   "withdrawals": [
