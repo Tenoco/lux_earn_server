@@ -5995,10 +5995,12 @@
       "referral_code": "MRFZZ",
       "inviter_referral_code": "ANJQD ",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Presh"
+      ],
       "balance": 155,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:12:23.579Z",
@@ -38153,7 +38155,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:42:29.278Z"
+      "joinDate": "2025-02-22T03:42:29.278Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Presh",
+      "email": "preciousbabatunde619@gmail.com",
+      "encrypted_password": "5569d21cb3492e56e432ce7205ac81cb",
+      "referral_code": "PRRA2",
+      "inviter_referral_code": "MRFZZ",
+      "inviter_username": "Mr T ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:43:02.121Z"
     }
   ],
   "withdrawals": [
