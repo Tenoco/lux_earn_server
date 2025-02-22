@@ -15247,7 +15247,8 @@
         8,
         8,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Wisdom chidiebere ",
@@ -15257,13 +15258,16 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:58:56.099Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1
+      ],
       "lastSpin": "2025-02-22T21:59:08.644Z"
     },
     {
