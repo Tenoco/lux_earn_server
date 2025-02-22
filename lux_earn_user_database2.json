@@ -857,14 +857,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:44:48.301Z",
-      "lastSpin": "2025-02-22T07:45:07.141Z",
       "completedMissions": [
         1,
         2,
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:45:07.141Z"
     },
     {
       "username": "faisal022",
@@ -899,6 +899,21 @@
       "joinDate": "2025-02-22T07:48:14.660Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Whitedrag",
+      "email": "nwosufavour472@gmail.com",
+      "encrypted_password": "bd27d8726b17a7a698021c5b02759c0d",
+      "referral_code": "WHNC6",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:49:01.899Z"
     }
   ],
   "withdrawals": [],
