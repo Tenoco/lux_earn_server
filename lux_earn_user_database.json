@@ -20838,13 +20838,15 @@
         "Hhh",
         "Gjhhjjjkjj"
       ],
-      "balance": 20,
+      "balance": 30,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:11:09.637Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T00:36:36.639Z"
     },
     {
@@ -37210,7 +37212,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:36:59.865Z"
+      "joinDate": "2025-02-22T00:36:59.865Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
