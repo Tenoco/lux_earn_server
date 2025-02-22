@@ -38533,7 +38533,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:34:33.974Z"
+      "joinDate": "2025-02-22T05:34:33.974Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Insideme",
+      "email": "ugonabochristopher@gmail.com",
+      "encrypted_password": "a4c960d36d3174f1e04a07de4075d3c5",
+      "referral_code": "IN2Z1",
+      "inviter_referral_code": "HELL5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:35:54.940Z"
     }
   ],
   "withdrawals": [
