@@ -14326,7 +14326,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:57:01.557Z"
+      "joinDate": "2025-02-22T20:57:01.557Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Derri ",
+      "email": "energybad56@gmail.com",
+      "encrypted_password": "bff237c23348df8120f2d08f32291891",
+      "referral_code": "DEBD7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:57:12.670Z"
     }
   ],
   "withdrawals": [
