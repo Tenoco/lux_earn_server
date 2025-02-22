@@ -1928,12 +1928,13 @@
       "inviter_referral_code": "SAWY4",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1022,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:25:05.933Z"
+      "joinDate": "2025-02-22T09:25:05.933Z",
+      "lastSpin": "2025-02-22T09:25:26.720Z"
     }
   ],
   "withdrawals": [],
