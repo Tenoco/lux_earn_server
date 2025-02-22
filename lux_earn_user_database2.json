@@ -11645,7 +11645,7 @@
         "Danielkafillu",
         "Samify "
       ],
-      "balance": 20,
+      "balance": 40,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -11653,7 +11653,8 @@
       "joinDate": "2025-02-21T06:13:06.448Z",
       "completedMissions": [
         2,
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
