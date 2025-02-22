@@ -13483,10 +13483,12 @@
       "referral_code": "ANBCY",
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
-      "invited_users": [],
+      "invited_users": [
+        "Testimony "
+      ],
       "balance": 120,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -14045,7 +14047,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:46:57.482Z"
+      "joinDate": "2025-02-22T20:46:57.482Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Testimony ",
+      "email": "dianaokonhammed@gmail.com",
+      "encrypted_password": "f1347562011016753e18334ffe7a5c99",
+      "referral_code": "TEAZV",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:47:46.908Z"
     }
   ],
   "withdrawals": [
