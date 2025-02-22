@@ -4731,7 +4731,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:43:19.538Z"
+      "joinDate": "2025-02-22T12:43:19.538Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fatimo",
+      "email": "fatima09@gmail.com",
+      "encrypted_password": "def7924e3199be5e18060bb3e1d547a7",
+      "referral_code": "FA157",
+      "inviter_referral_code": "JO38K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:43:24.747Z"
     }
   ],
   "withdrawals": [],
