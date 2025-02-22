@@ -10861,7 +10861,7 @@
       "inviter_referral_code": "Ter48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10876,7 +10876,8 @@
         5,
         12,
         12,
-        10
+        10,
+        8
       ],
       "lastSpin": "2025-02-22T18:43:59.747Z"
     },
@@ -11050,7 +11051,8 @@
       "joinDate": "2025-02-22T18:48:03.295Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haywhy",
