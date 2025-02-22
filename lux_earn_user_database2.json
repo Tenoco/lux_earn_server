@@ -2775,7 +2775,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:54:55.163Z"
+      "joinDate": "2025-02-22T10:54:55.163Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omoruyif461 ",
+      "email": "omoruyif461@gmail.com",
+      "encrypted_password": "f16a42d5f4bb656660fa79dd9168a5e3",
+      "referral_code": "OMJ7I",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:55:56.594Z"
     }
   ],
   "withdrawals": [],
