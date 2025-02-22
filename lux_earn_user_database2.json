@@ -6126,12 +6126,13 @@
       "inviter_referral_code": "AB6L2",
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:23:14.004Z"
+      "joinDate": "2025-02-22T14:23:14.004Z",
+      "lastSpin": "2025-02-22T14:23:42.507Z"
     }
   ],
   "withdrawals": [],
