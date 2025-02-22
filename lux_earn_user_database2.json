@@ -6215,7 +6215,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:24:24.163Z"
+      "joinDate": "2025-02-22T14:24:24.163Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vincent Dennis ",
+      "email": "owoichodennisvincent@gmail.com",
+      "encrypted_password": "e51992eb45c1996077aef23f3502734d",
+      "referral_code": "VIED9",
+      "inviter_referral_code": "Su4b5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:30:42.568Z"
     }
   ],
   "withdrawals": [],
