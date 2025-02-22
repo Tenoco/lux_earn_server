@@ -14256,7 +14256,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:54:23.537Z"
+      "joinDate": "2025-02-22T20:54:23.537Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mirabel",
+      "email": "omololaolawale87@icloud.com",
+      "encrypted_password": "5a3c485eb4ab17701605520325992660",
+      "referral_code": "MIICK",
+      "inviter_referral_code": "ELI28",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:54:36.033Z"
     }
   ],
   "withdrawals": [
