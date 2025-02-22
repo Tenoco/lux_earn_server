@@ -9575,11 +9575,12 @@
         "Adefaz11 ",
         "Esylove ",
         "Mojiroye ",
-        "Tomi123"
+        "Tomi123",
+        "MasterMind"
       ],
       "balance": 50,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:46:47.305Z",
@@ -37492,7 +37493,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:02:49.276Z"
+      "joinDate": "2025-02-22T01:02:49.276Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "MasterMind",
+      "email": "ibsuleiman2002@gmail.com",
+      "encrypted_password": "85e99616e9fae6d30094cb0ca42ce536",
+      "referral_code": "MA4XQ",
+      "inviter_referral_code": "CAKGY",
+      "inviter_username": "Cash101",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:03:30.488Z"
     }
   ],
   "withdrawals": [
