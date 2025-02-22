@@ -11707,7 +11707,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11723,7 +11723,8 @@
         9,
         8,
         2,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
