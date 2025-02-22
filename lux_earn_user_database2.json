@@ -12344,7 +12344,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Pearl",
@@ -12392,7 +12393,7 @@
         "Yungicon ",
         "Dghxs"
       ],
-      "balance": 290,
+      "balance": 310,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -12404,7 +12405,8 @@
         3,
         8,
         7,
-        4
+        4,
+        13
       ],
       "lastSpin": "2025-02-22T19:43:19.884Z"
     }
