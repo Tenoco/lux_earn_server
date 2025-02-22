@@ -2216,14 +2216,15 @@
       "inviter_referral_code": "OLHMH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1030,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:54:23.421Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
@@ -2376,7 +2377,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:10:47.062Z"
+      "joinDate": "2025-02-22T10:10:47.062Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
