@@ -11075,10 +11075,12 @@
       "referral_code": "RI48E",
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Abubakar123"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -15319,7 +15321,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:03:57.004Z"
+      "joinDate": "2025-02-22T22:03:57.004Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abubakar123",
+      "email": "abubakaribrahim081092@gmail.com",
+      "encrypted_password": "6db2fa45e1137ccfe8d981effd60035a",
+      "referral_code": "ABPWJ",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:04:04.260Z"
     }
   ],
   "withdrawals": [
