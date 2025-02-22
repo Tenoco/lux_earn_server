@@ -3603,7 +3603,7 @@
         "BELYKGHOST",
         "Gift02"
       ],
-      "balance": 1041,
+      "balance": 1061,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -3612,7 +3612,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        12
       ],
       "lastSpin": "2025-02-22T12:04:17.244Z"
     },
@@ -6150,7 +6151,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:24:14.814Z"
+      "joinDate": "2025-02-22T14:24:14.814Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
