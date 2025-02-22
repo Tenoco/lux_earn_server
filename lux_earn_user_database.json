@@ -38537,7 +38537,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Fish",
@@ -38547,14 +38548,13 @@
       "inviter_referral_code": "FR22C",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:33:55.499Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T06:34:47.470Z"
     }
   ],
   "withdrawals": [
