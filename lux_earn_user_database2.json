@@ -3649,11 +3649,12 @@
         "Gift02",
         "DestinyNjoku",
         "Adewumi5",
-        "Miraydouglas"
+        "Miraydouglas",
+        "Yull"
       ],
       "balance": 1116,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -15463,7 +15464,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:11:39.080Z"
+      "joinDate": "2025-02-22T22:11:39.080Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yull",
+      "email": "yulldandy16@gmail.com",
+      "encrypted_password": "44676399923caad661cc858f019275c8",
+      "referral_code": "YULKT",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:12:07.047Z"
     }
   ],
   "withdrawals": [
