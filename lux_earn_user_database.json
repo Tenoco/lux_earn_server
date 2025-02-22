@@ -26707,11 +26707,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "BILIKIS ",
-        "Oluwapelumi "
+        "Oluwapelumi ",
+        "oluwarotimi"
       ],
       "balance": 200,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:43:50.239Z",
@@ -37825,7 +37826,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:14:54.295Z"
+      "joinDate": "2025-02-22T02:14:54.295Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "oluwarotimi",
+      "email": "olamokas@gmail.com",
+      "encrypted_password": "d856d47fb2b3e03d94677ff7f0d0c6fd",
+      "referral_code": "OLRYJ",
+      "inviter_referral_code": "OLFCG",
+      "inviter_username": "Olamokas",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:15:17.551Z"
     }
   ],
   "withdrawals": [
