@@ -1693,6 +1693,7 @@
       "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T08:59:00.371Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T09:03:43.513Z"
     },
     {
@@ -1728,6 +1729,21 @@
       "joinDate": "2025-02-22T08:59:55.253Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T09:02:26.063Z"
+    },
+    {
+      "username": "Bright ",
+      "email": "michaelsunday5589@gmail.com",
+      "encrypted_password": "36e657ed8cfd2eecd968898262ae9d34",
+      "referral_code": "BRHHQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:04:47.505Z"
     }
   ],
   "withdrawals": [],
