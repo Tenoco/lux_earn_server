@@ -2246,18 +2246,31 @@
       "username": "Queen Ebony",
       "email": "bosesalawu17@gmail.com",
       "encrypted_password": "5636fc5d7920ed9cf968f7823b6e626c",
-      "referral_code": "QUVBV",
+      "referral_code": "QUN6M",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1030,
+      "balance": 285,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:50:51.646Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T09:51:21.636Z"
+      "joinDate": "2025-02-21T11:05:51.409Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        8,
+        8,
+        9,
+        4,
+        7,
+        7,
+        5,
+        5,
+        6
+      ],
+      "lastSpin": "2025-02-22T03:45:17.274Z"
     },
     {
       "username": "Morenikeji",
@@ -5342,7 +5355,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:05:39.037Z"
+      "joinDate": "2025-02-22T13:05:39.037Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
