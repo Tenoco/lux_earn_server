@@ -14513,7 +14513,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 81,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14527,7 +14527,7 @@
         6,
         7
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T02:12:27.720Z"
     },
     {
       "username": "Joyasakp",
@@ -37770,7 +37770,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:11:09.201Z"
+      "joinDate": "2025-02-22T02:11:09.201Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
