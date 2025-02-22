@@ -1593,7 +1593,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:53:51.531Z"
+      "joinDate": "2025-02-22T08:53:51.531Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Frontline ",
+      "email": "alaminfaisal004@gmail.com",
+      "encrypted_password": "55d625e53f8ad67b1ea311d55d570b3e",
+      "referral_code": "FRE59",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:54:15.987Z"
     }
   ],
   "withdrawals": [],
