@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Chivic"
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38532,7 +38533,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:10:51.436Z"
+      "joinDate": "2025-02-22T06:10:51.436Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chivic",
+      "email": "vchibueze339@gmail.com",
+      "encrypted_password": "96a4fcec86b89fc9e7743e241e1891c7",
+      "referral_code": "CHXT4",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:11:24.339Z"
     }
   ],
   "withdrawals": [
