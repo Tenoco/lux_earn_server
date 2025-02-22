@@ -723,11 +723,12 @@
         "Sharonk ",
         "esty11",
         "Nosarex0",
-        "danky"
+        "danky",
+        "fmdollar"
       ],
       "balance": 112,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -37661,6 +37662,21 @@
       "joinDate": "2025-02-22T01:40:56.361Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "fmdollar",
+      "email": "afunlehinb@gmail.com",
+      "encrypted_password": "8dd45e15706c34203c8b43e3a0c8da44",
+      "referral_code": "FMKRW",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:43:21.551Z"
     }
   ],
   "withdrawals": [
