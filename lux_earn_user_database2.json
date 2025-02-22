@@ -1181,7 +1181,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:06:19.691Z"
+      "joinDate": "2025-02-22T08:06:19.691Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "dartex",
+      "email": "odebiyidavid0@gmail.com",
+      "encrypted_password": "2562eae2fb92b179403dfa40b71c5425",
+      "referral_code": "DALWN",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:06:28.186Z"
     }
   ],
   "withdrawals": [],
