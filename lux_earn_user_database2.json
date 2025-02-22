@@ -663,7 +663,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:30:56.398Z"
+      "joinDate": "2025-02-22T07:30:56.398Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chris Fame ",
+      "email": "famousonugu2006@gmail.com",
+      "encrypted_password": "c5471b8d37ce31c087498715e41b1246",
+      "referral_code": "CHQ9R",
+      "inviter_referral_code": "HELL5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:31:07.752Z"
     }
   ],
   "withdrawals": [],
