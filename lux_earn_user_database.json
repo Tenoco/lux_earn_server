@@ -38521,7 +38521,8 @@
       "joinDate": "2025-02-22T06:21:57.390Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Amina06",
@@ -38531,14 +38532,15 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": "COACHTINA",
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1010,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:22:10.393Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Phantomffx",
