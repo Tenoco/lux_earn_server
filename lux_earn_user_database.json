@@ -20511,7 +20511,7 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [],
-      "balance": 40,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20520,7 +20520,8 @@
       "completedMissions": [
         1,
         2,
-        5
+        5,
+        6
       ],
       "lastSpin": null
     },
