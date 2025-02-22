@@ -10370,10 +10370,12 @@
       "referral_code": "TER48",
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Khemsy"
+      ],
       "balance": 40,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -10993,6 +10995,21 @@
       "joinDate": "2025-02-22T18:45:33.916Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Khemsy",
+      "email": "kingsleyokoro740@gmail.com",
+      "encrypted_password": "e144115902079fc9d720c92a8db4a9d8",
+      "referral_code": "KHFTN",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:46:57.241Z"
     }
   ],
   "withdrawals": [
