@@ -850,11 +850,12 @@
         "Olamokas",
         "Coachwisdom ",
         "Loverboy",
-        "Micheally1234"
+        "Micheally1234",
+        "Jarmar001"
       ],
       "balance": 295,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -37701,7 +37702,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T01:54:20.340Z"
+      "joinDate": "2025-02-22T01:54:20.340Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jarmar001",
+      "email": "oyedejijamiu551@gmail.com",
+      "encrypted_password": "9a0341007899b4f36d59bce2ad71cf28",
+      "referral_code": "JAQW0",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:54:33.228Z"
     }
   ],
   "withdrawals": [
