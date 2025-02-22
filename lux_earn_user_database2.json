@@ -6081,7 +6081,7 @@
       "invited_users": [
         "Ayomi"
       ],
-      "balance": 78,
+      "balance": 98,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -6091,7 +6091,8 @@
         1,
         2,
         4,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-22T14:11:13.577Z"
     },
@@ -6232,7 +6233,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:30:42.568Z"
+      "joinDate": "2025-02-22T14:30:42.568Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
