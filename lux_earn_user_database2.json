@@ -13938,7 +13938,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:43:37.037Z"
+      "joinDate": "2025-02-22T20:43:37.037Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danthony",
+      "email": "dangaanthony023@gmail.com",
+      "encrypted_password": "6d84b62c42ae62e4be7d5261388503a2",
+      "referral_code": "DAUF8",
+      "inviter_referral_code": "WIJNH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:43:59.659Z"
     }
   ],
   "withdrawals": [
