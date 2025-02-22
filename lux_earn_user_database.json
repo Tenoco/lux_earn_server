@@ -37166,16 +37166,23 @@
       "inviter_referral_code": "MIFNY",
       "inviter_username": "Mick2324",
       "invited_users": [],
-      "balance": 42,
+      "balance": 162,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:32:57.284Z",
+      "lastSpin": "2025-02-22T00:34:42.109Z",
       "completedMissions": [
-        3
-      ],
-      "lastSpin": "2025-02-22T00:34:42.109Z"
+        3,
+        4,
+        5,
+        6,
+        7,
+        7,
+        1,
+        2
+      ]
     },
     {
       "username": "Kate",
@@ -37350,7 +37357,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:51:04.902Z"
+      "joinDate": "2025-02-22T00:51:04.902Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
