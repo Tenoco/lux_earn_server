@@ -37187,11 +37187,12 @@
         "Fuckgggv",
         "Bbzbsbzbb",
         "Bfbbbb",
-        "Hdbnbxz"
+        "Hdbnbxz",
+        "BBzbvzBb"
       ],
       "balance": 25,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37366,7 +37367,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:53:37.883Z"
+      "joinDate": "2025-02-22T00:53:37.883Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "BBzbvzBb",
+      "email": "danielstan@gmail.com",
+      "encrypted_password": "8115153332991997460b9f236e0da71a",
+      "referral_code": "BBXC2",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:54:35.899Z"
     }
   ],
   "withdrawals": [
