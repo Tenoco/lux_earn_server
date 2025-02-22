@@ -11703,7 +11703,32 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:14:34.028Z"
+      "joinDate": "2025-02-22T19:14:34.028Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "MaroSteve ",
+      "email": "marot375@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "MAQ1A",
+      "inviter_referral_code": "Form",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 160,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:40:46.544Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        9
+      ],
+      "lastSpin": "2025-02-21T06:44:46.747Z"
     }
   ],
   "withdrawals": [
