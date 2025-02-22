@@ -2790,14 +2790,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1008,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:55:56.594Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T10:58:02.627Z"
     },
     {
       "username": "Seymos",
@@ -2813,6 +2813,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:57:33.246Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T10:57:55.484Z"
     }
   ],
