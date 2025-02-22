@@ -10692,13 +10692,19 @@
       "inviter_referral_code": "CHUQV",
       "inviter_username": "Chiboy9",
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1080,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:00:06.093Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1,
+        12,
+        11,
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -10896,7 +10902,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:42:14.889Z"
+      "joinDate": "2025-02-22T18:42:14.889Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
