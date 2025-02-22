@@ -3265,14 +3265,15 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1030,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:27:19.186Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
@@ -3388,7 +3389,8 @@
       "joinDate": "2025-02-22T11:35:17.134Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samfx",
