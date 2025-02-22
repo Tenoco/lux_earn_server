@@ -10780,7 +10780,7 @@
       "inviter_referral_code": "WINWC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10793,9 +10793,10 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T18:48:24.221Z"
     },
     {
       "username": "Jokybill",
