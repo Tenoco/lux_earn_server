@@ -8671,11 +8671,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Inka"
+        "Inka",
+        "Opppoer"
       ],
       "balance": 175,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-19T21:14:28.428Z",
@@ -12014,7 +12015,8 @@
       "joinDate": "2025-02-22T19:23:04.596Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nanaho",
@@ -12032,6 +12034,21 @@
       "joinDate": "2025-02-22T19:23:41.173Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Opppoer",
+      "email": "opppo@gmail.com",
+      "encrypted_password": "54aba3ed475c5c562c3f5601201d796a",
+      "referral_code": "OPTAP",
+      "inviter_referral_code": "JBZ54",
+      "inviter_username": "Jb123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:24:46.836Z"
     }
   ],
   "withdrawals": [
