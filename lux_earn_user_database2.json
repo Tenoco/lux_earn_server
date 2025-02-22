@@ -6659,10 +6659,12 @@
       "referral_code": "HO189",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayomidey "
+      ],
       "balance": 503,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:53:43.834Z",
@@ -8817,6 +8819,21 @@
         9
       ],
       "lastSpin": "2025-02-21T06:04:02.281Z"
+    },
+    {
+      "username": "Ayomidey ",
+      "email": "adedejidavid047@gmail.com",
+      "encrypted_password": "3fec4d114f9227c8b1bf0fbc81a292ed",
+      "referral_code": "AY18L",
+      "inviter_referral_code": "HO189",
+      "inviter_username": "Holar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:56:09.801Z"
     }
   ],
   "withdrawals": [
