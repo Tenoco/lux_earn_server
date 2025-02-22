@@ -12056,7 +12056,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nanaho",
@@ -12108,6 +12109,21 @@
       "joinDate": "2025-02-22T19:30:21.853Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T19:30:41.163Z"
+    },
+    {
+      "username": "nike_44llen",
+      "email": "olaniyihellen99@gmail.com",
+      "encrypted_password": "e67e20f3de7a9aae17a02b83b73083b5",
+      "referral_code": "NIICE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:32:46.435Z"
     }
   ],
   "withdrawals": [
