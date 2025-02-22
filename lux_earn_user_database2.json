@@ -5149,11 +5149,12 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [
-        "Anjolaoluwa "
+        "Anjolaoluwa ",
+        "Precious1"
       ],
       "balance": 180,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:58:27.278Z",
@@ -15816,6 +15817,21 @@
       "joinDate": "2025-02-22T22:53:10.702Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Precious1",
+      "email": "abalobiprecious@gmail.com",
+      "encrypted_password": "287e28956354e58a6214600024effc17",
+      "referral_code": "PREQR",
+      "inviter_referral_code": "NIMBV",
+      "inviter_username": "Niffyperry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:58:46.838Z"
     }
   ],
   "withdrawals": [
