@@ -7008,7 +7008,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:13:51.538Z"
+      "joinDate": "2025-02-22T15:13:51.538Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Afolabi",
+      "email": "harryjason8888@gmail.com",
+      "encrypted_password": "efa783497799f73b5ce6ddc65754ebdc",
+      "referral_code": "AFYR5",
+      "inviter_referral_code": "ANJQD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:20:37.672Z"
     }
   ],
   "withdrawals": [],
