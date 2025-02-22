@@ -26709,11 +26709,12 @@
         "BILIKIS ",
         "Oluwapelumi ",
         "oluwarotimi",
-        "Eliza"
+        "Eliza",
+        "jacobk"
       ],
       "balance": 200,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:43:50.239Z",
@@ -37869,6 +37870,21 @@
       "joinDate": "2025-02-22T02:17:21.585Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "jacobk",
+      "email": "Micheldever@gmail.com",
+      "encrypted_password": "d856d47fb2b3e03d94677ff7f0d0c6fd",
+      "referral_code": "JAL38",
+      "inviter_referral_code": "OLFCG",
+      "inviter_username": "Olamokas",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:18:58.827Z"
     }
   ],
   "withdrawals": [
