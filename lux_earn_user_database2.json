@@ -952,7 +952,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:52:28.591Z"
+      "joinDate": "2025-02-22T07:52:28.591Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Princebrainy",
+      "email": "Kvnqbrainy10@gmail.com",
+      "encrypted_password": "759d32b8127206abd6ae95ec972798da",
+      "referral_code": "PRPMD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:53:00.764Z"
     }
   ],
   "withdrawals": [],
