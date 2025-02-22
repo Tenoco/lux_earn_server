@@ -6762,7 +6762,7 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 225,
+      "balance": 233,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6784,7 +6784,7 @@
         12,
         13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T15:22:33.016Z"
     },
     {
       "username": "Olumide2",
@@ -7064,7 +7064,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:22:24.427Z"
+      "joinDate": "2025-02-22T15:22:24.427Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
