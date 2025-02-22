@@ -945,10 +945,12 @@
       "referral_code": "WHNC6",
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Chinonso1"
+      ],
       "balance": 148,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:49:01.899Z",
@@ -14310,6 +14312,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:56:38.714Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T20:58:04.883Z"
     },
     {
@@ -14345,6 +14348,21 @@
       "joinDate": "2025-02-22T20:57:12.670Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chinonso1",
+      "email": "Nwosuc987@gmail.com",
+      "encrypted_password": "40336a63f925a937dc29bba923a88e5e",
+      "referral_code": "CHTU0",
+      "inviter_referral_code": "WHNC6",
+      "inviter_username": "Whitedrag",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:59:05.523Z"
     }
   ],
   "withdrawals": [
