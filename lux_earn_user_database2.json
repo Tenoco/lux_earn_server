@@ -6993,10 +6993,12 @@
       "referral_code": "TEQ2H",
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oguwillion"
+      ],
       "balance": 145,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:13:07.065Z",
@@ -10675,6 +10677,21 @@
       "joinDate": "2025-02-22T18:00:06.093Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oguwillion",
+      "email": "godswilloguejiofor1@gmail.com",
+      "encrypted_password": "36a27eefd421098c05fab63ad233e858",
+      "referral_code": "OGNSL",
+      "inviter_referral_code": "TEQ2H",
+      "inviter_username": "Tested295",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:35:06.223Z"
     }
   ],
   "withdrawals": [
