@@ -1933,12 +1933,11 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious",
-        "@future"
+        "Precious"
       ],
       "balance": 130,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -14104,12 +14103,11 @@
         "Life",
         "Johnny40",
         "Peace ",
-        "dearie",
-        "Thomas 567"
+        "dearie"
       ],
       "balance": 220,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:12:21.528Z",
@@ -18843,7 +18841,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 225,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18859,7 +18857,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-22T09:14:25.042Z"
+      "lastSpin": null
     },
     {
       "username": "Wisdomchibuike ",
@@ -19165,7 +19163,7 @@
       "invited_users": [
         "Pelumi"
       ],
-      "balance": 264,
+      "balance": 242,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -19181,7 +19179,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-22T08:02:10.895Z"
+      "lastSpin": "2025-02-21T07:50:01.299Z"
     },
     {
       "username": "Ifeoluwa",
@@ -21316,12 +21314,10 @@
       "referral_code": "MAX5P",
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
-      "invited_users": [
-        "Mark77"
-      ],
-      "balance": 190,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 180,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:04.435Z",
@@ -21333,7 +21329,7 @@
         5,
         6
       ],
-      "lastSpin": "2025-02-22T09:17:00.063Z"
+      "lastSpin": null
     },
     {
       "username": "Marcusein ",
@@ -23124,7 +23120,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23135,10 +23131,9 @@
         2,
         3,
         4,
-        5,
-        9
+        5
       ],
-      "lastSpin": "2025-02-21T18:17:26.200Z"
+      "lastSpin": null
     },
     {
       "username": "Henry",
@@ -27939,12 +27934,11 @@
       "inviter_referral_code": "0rxq6",
       "inviter_username": null,
       "invited_users": [
-        "Kamanda",
-        "Quadriano "
+        "Kamanda"
       ],
       "balance": 175,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:12:48.960Z",
@@ -35323,7 +35317,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": "CoachNick",
       "invited_users": [],
-      "balance": 220,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35332,14 +35326,7 @@
       "completedMissions": [
         1,
         2,
-        3,
-        10,
-        9,
-        8,
-        7,
-        6,
-        5,
-        4
+        3
       ],
       "lastSpin": "2025-02-21T14:51:12.994Z"
     },
@@ -37353,12 +37340,11 @@
       "inviter_username": null,
       "invited_users": [
         "Sylviapurity",
-        "Akinjobi",
-        "Mubee"
+        "Akinjobi"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:43:58.481Z",
@@ -38511,99 +38497,7 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "@future",
-      "email": "olaleremmanuel@gmail.com",
-      "encrypted_password": "4cf92ec8d72965514450efa22c4563a6",
-      "referral_code": "@FPBF",
-      "inviter_referral_code": "EMISH",
-      "inviter_username": "Emmy",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T08:12:13.221Z",
-      "completedMissions": [],
-      "lastSpin": null
-    },
-    {
-      "username": "Quadriano ",
-      "email": "lekkierose06@gmail.com",
-      "encrypted_password": "3453423659f6bcfddcd0a716c6b0e36a",
-      "referral_code": "QUDYC",
-      "inviter_referral_code": "CHUQV",
-      "inviter_username": "Chiboy9",
-      "invited_users": [],
-      "balance": 1141,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T08:20:21.808Z",
-      "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "lastSpin": "2025-02-22T08:21:00.887Z"
-    },
-    {
-      "username": "Mubee",
-      "email": "mubarakali16233@gmail.com",
-      "encrypted_password": "e59a812071da201db7c157c49d0cb678",
-      "referral_code": "MU93Y",
-      "inviter_referral_code": "CO4PD",
-      "inviter_username": "COACHTINA",
-      "invited_users": [],
-      "balance": 1215,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T08:58:54.405Z",
-      "completedMissions": [
-        1,
-        2,
-        4,
-        5,
-        6,
-        7,
-        11,
-        10,
-        10,
-        10,
-        9,
-        8,
-        8
-      ],
-      "lastSpin": null
-    },
-    {
-      "username": "Thomas 567",
-      "email": "oguchiprosper500@gmail.com",
-      "encrypted_password": "069df4794fcc14627c7eb6bbcc883761",
-      "referral_code": "THY0M",
-      "inviter_referral_code": "ZIWZH",
-      "inviter_username": "Zita555",
-      "invited_users": [],
-      "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
-      "withdrawalBalance": 0,
-      "status": "active",
-      "joinDate": "2025-02-22T09:34:04.392Z"
+      "joinDate": "2025-02-22T05:07:33.095Z"
     }
   ],
   "withdrawals": [
