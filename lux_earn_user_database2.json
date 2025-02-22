@@ -2280,12 +2280,13 @@
       "inviter_referral_code": "KEF8I",
       "inviter_username": "Kennylee ",
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:00:00.701Z"
+      "joinDate": "2025-02-22T10:00:00.701Z",
+      "lastSpin": "2025-02-22T10:00:39.136Z"
     }
   ],
   "withdrawals": [],
