@@ -449,7 +449,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:16:29.485Z"
+      "joinDate": "2025-02-22T07:16:29.485Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jesutofunmi Rowland ",
+      "email": "tofunmirowland05@gmail.com",
+      "encrypted_password": "af078f8ea7e9cff155e269653db4646a",
+      "referral_code": "JEU7W",
+      "inviter_referral_code": "HABXB",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:16:34.322Z"
     }
   ],
   "withdrawals": [],
