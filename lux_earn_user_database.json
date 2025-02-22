@@ -38529,16 +38529,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:48:20.150Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Bankai",
@@ -38553,7 +38553,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:49:50.384Z"
+      "joinDate": "2025-02-22T06:49:50.384Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
