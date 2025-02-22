@@ -8992,7 +8992,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:04:27.256Z"
+      "joinDate": "2025-02-22T17:04:27.256Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mike jay ",
+      "email": "ayoademichael31@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "MIQ4P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:05:01.354Z"
     }
   ],
   "withdrawals": [
