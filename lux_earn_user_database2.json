@@ -10377,11 +10377,12 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [
-        "Khemsy"
+        "Khemsy",
+        "Sarah "
       ],
       "balance": 40,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -11322,6 +11323,21 @@
       "joinDate": "2025-02-22T18:59:01.169Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sarah ",
+      "email": "ngozieze265@gmail.com",
+      "encrypted_password": "33b7f575c85545795908a8e6f95009f5",
+      "referral_code": "SA8OB",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:00:23.904Z"
     }
   ],
   "withdrawals": [
