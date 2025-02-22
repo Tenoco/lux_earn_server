@@ -1515,7 +1515,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:45:46.965Z"
+      "joinDate": "2025-02-22T08:45:46.965Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ramseyvee",
+      "email": "raymondeniola99@gmail.com",
+      "encrypted_password": "c5d1478663de13cc0b1e9b42c66f13d0",
+      "referral_code": "RAM9X",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:47:40.112Z"
     }
   ],
   "withdrawals": [],
