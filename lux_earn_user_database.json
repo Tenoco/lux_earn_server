@@ -37215,10 +37215,12 @@
       "referral_code": "BESAJ",
       "inviter_referral_code": "MIFNY",
       "inviter_username": "Mick2324",
-      "invited_users": [],
+      "invited_users": [
+        "Nhike "
+      ],
       "balance": 162,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:32:57.284Z",
@@ -38534,7 +38536,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:42:25.606Z"
+      "joinDate": "2025-02-22T05:42:25.606Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nhike ",
+      "email": "oloyedenikee@gmail.com",
+      "encrypted_password": "0ac4d47480a7a9b58b93f845744710fb",
+      "referral_code": "NHYG0",
+      "inviter_referral_code": "BESAJ",
+      "inviter_username": "bestjailer",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:43:24.907Z"
     }
   ],
   "withdrawals": [
