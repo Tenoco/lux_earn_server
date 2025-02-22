@@ -7607,11 +7607,12 @@
       "invited_users": [
         "Zuubi",
         "Fudal",
-        "Fattee"
+        "Fattee",
+        "Hajjo"
       ],
       "balance": 68,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -8265,6 +8266,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Hajjo",
+      "email": "hjoo@gmail.com",
+      "encrypted_password": "b7a2c3b25c9441b0a38d0a874ace268b",
+      "referral_code": "HAHTP",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:35:46.443Z"
     }
   ],
   "withdrawals": [
