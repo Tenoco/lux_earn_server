@@ -3476,7 +3476,7 @@
       "inviter_referral_code": "Co4PD ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 78,
+      "balance": 98,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3486,7 +3486,8 @@
         2,
         1,
         4,
-        10
+        10,
+        9
       ],
       "lastSpin": "2025-02-22T11:38:04.010Z"
     },
@@ -3697,7 +3698,8 @@
       "joinDate": "2025-02-22T11:50:17.542Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "rot",
