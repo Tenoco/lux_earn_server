@@ -3166,7 +3166,7 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 1060,
+      "balance": 1070,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3176,7 +3176,8 @@
         2,
         2,
         4,
-        5
+        5,
+        14
       ],
       "lastSpin": null
     },
@@ -3278,7 +3279,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:29:31.108Z"
+      "joinDate": "2025-02-22T11:29:31.108Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
