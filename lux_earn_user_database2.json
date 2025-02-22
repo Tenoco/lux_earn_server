@@ -1858,7 +1858,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T09:23:05.536Z"
+      "joinDate": "2025-02-22T09:23:05.536Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim Abubakar",
+      "email": "abubakarozovehe57@gmail.com",
+      "encrypted_password": "69cdcfc3141df84ae115cf86dce2447f",
+      "referral_code": "IBNZI",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:23:08.886Z"
     }
   ],
   "withdrawals": [],
