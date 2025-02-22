@@ -14270,7 +14270,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mirabel",
@@ -14417,6 +14418,31 @@
       "joinDate": "2025-02-22T21:06:01.025Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T21:06:30.530Z"
+    },
+    {
+      "username": "Kezie313",
+      "email": "ebubechukwuekezie24@gmail.com",
+      "encrypted_password": "696b88a024906e76b79f653af26a1393",
+      "referral_code": "KEKSN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Emma003"
+      ],
+      "balance": 150,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:17:32.872Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
