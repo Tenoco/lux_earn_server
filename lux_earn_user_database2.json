@@ -9840,7 +9840,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9848,7 +9848,8 @@
       "joinDate": "2025-02-22T18:05:40.039Z",
       "lastSpin": "2025-02-22T18:06:11.730Z",
       "completedMissions": [
-        1
+        1,
+        4
       ]
     },
     {
