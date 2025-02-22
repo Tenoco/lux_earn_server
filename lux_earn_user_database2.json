@@ -6174,7 +6174,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Grace",
@@ -6184,19 +6185,20 @@
       "inviter_referral_code": "BAL4n",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 75,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:20:06.018Z",
+      "lastSpin": "2025-02-22T14:21:32.900Z",
       "completedMissions": [
         1,
         1,
         4,
-        4
-      ],
-      "lastSpin": "2025-02-22T14:21:32.900Z"
+        4,
+        8
+      ]
     },
     {
       "username": "abdulsalam ",
