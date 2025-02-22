@@ -15639,14 +15639,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 8,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:29:22.280Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T22:29:37.240Z"
+      "lastSpin": "2025-02-22T22:29:37.240Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Olamide5678",
@@ -15661,7 +15663,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:30:30.526Z"
+      "joinDate": "2025-02-22T22:30:30.526Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
