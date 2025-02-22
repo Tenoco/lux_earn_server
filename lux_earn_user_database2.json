@@ -14825,7 +14825,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marcusein ",
@@ -14904,6 +14905,21 @@
       "joinDate": "2025-02-22T21:37:41.472Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Graham ",
+      "email": "grahamokori99@gmail.com",
+      "encrypted_password": "af290607b9eca8d58af5d349a33e7337",
+      "referral_code": "GR2PW",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:39:17.848Z"
     }
   ],
   "withdrawals": [
