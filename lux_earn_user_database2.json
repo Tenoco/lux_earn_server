@@ -2699,10 +2699,12 @@
       "referral_code": "ST94T",
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Izzypluto24 "
+      ],
       "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -2757,7 +2759,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T10:54:01.389Z"
+    },
+    {
+      "username": "Izzypluto24 ",
+      "email": "izzy24033@gmail.com",
+      "encrypted_password": "7644a8f5dac6e058be7db04350149358",
+      "referral_code": "IZ9JW",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:54:55.163Z"
     }
   ],
   "withdrawals": [],
