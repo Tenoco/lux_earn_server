@@ -16914,11 +16914,12 @@
         "Kokos8",
         "Adeeye Esther Omolayo ",
         "Roseyjoy",
-        "Nikkypeller"
+        "Nikkypeller",
+        "Robinson100"
       ],
       "balance": 30,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:59:36.778Z",
@@ -38516,7 +38517,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:11:09.041Z"
+      "joinDate": "2025-02-22T05:11:09.041Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Robinson100",
+      "email": "robinsonoffeh@gmail.com",
+      "encrypted_password": "3f4958854ca83cbaa9028986ed6e7fbc",
+      "referral_code": "RO6NX",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:11:42.899Z"
     }
   ],
   "withdrawals": [
