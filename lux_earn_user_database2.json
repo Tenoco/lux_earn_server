@@ -2383,12 +2383,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:10:47.062Z",
-      "lastSpin": "2025-02-22T10:11:07.597Z",
       "completedMissions": [
         1,
         4,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:11:07.597Z"
     },
     {
       "username": "Yusuff",
@@ -2423,6 +2423,21 @@
       "joinDate": "2025-02-22T10:15:15.429Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yhubee",
+      "email": "ubongtom530@gmail.com",
+      "encrypted_password": "ff21d5793e560a429b8a3eb304904721",
+      "referral_code": "YHD5B",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:19:20.189Z"
     }
   ],
   "withdrawals": [],
