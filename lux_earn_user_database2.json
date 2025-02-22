@@ -3846,11 +3846,12 @@
       "inviter_username": "Bayonets",
       "invited_users": [
         "Evebaby",
-        "Praisyluv "
+        "Praisyluv ",
+        "DiviB"
       ],
       "balance": 116,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:52:19.985Z",
@@ -8007,7 +8008,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:25:02.027Z"
+      "joinDate": "2025-02-22T16:25:02.027Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "DiviB",
+      "email": "divineoreri@gmail.com",
+      "encrypted_password": "891d9c299fe2d18606614bee75a99725",
+      "referral_code": "DIFCC",
+      "inviter_referral_code": "BRNM8",
+      "inviter_username": "Briggydivi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:25:03.884Z"
     }
   ],
   "withdrawals": [],
