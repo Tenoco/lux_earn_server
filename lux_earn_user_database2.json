@@ -5582,14 +5582,15 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:25:58.549Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
