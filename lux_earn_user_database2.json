@@ -8489,11 +8489,12 @@
         "Blessing",
         "Temmy gold",
         "Thiago",
-        "Mercy"
+        "Mercy",
+        "Ogoluwa"
       ],
       "balance": 1178,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -8510,6 +8511,21 @@
         5
       ],
       "lastSpin": "2025-02-21T06:08:48.108Z"
+    },
+    {
+      "username": "Ogoluwa",
+      "email": "Crptoboyz16@gmail.com",
+      "encrypted_password": "899425d3ddecbe5879d4761ba16af9ea",
+      "referral_code": "OGI8C",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:40:37.209Z"
     }
   ],
   "withdrawals": [
