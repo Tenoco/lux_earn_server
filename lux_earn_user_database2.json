@@ -1919,6 +1919,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:23:58.772Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T09:29:54.496Z"
     },
     {
@@ -1948,14 +1949,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1010,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:27:59.994Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T09:30:10.776Z"
     },
     {
       "username": "Mannyrichie ",
