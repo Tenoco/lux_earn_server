@@ -10312,7 +10312,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:22:53.316Z"
+      "joinDate": "2025-02-22T18:22:53.316Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Temmychi",
+      "email": "ojowurotemitayo@gmail.com",
+      "encrypted_password": "ac59056707772e57278655e727598278",
+      "referral_code": "TER48",
+      "inviter_referral_code": "DABAC",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:21:30.976Z"
     }
   ],
   "withdrawals": [
