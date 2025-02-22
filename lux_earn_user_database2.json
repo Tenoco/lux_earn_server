@@ -5923,7 +5923,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T14:00:23.285Z"
+      "joinDate": "2025-02-22T14:00:23.285Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Christopher",
+      "email": "christophersamson092@gmail.com",
+      "encrypted_password": "ae91cc32d31cc1e91e79cdc5f507eedc",
+      "referral_code": "CH2AP",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:00:33.139Z"
     }
   ],
   "withdrawals": [],
