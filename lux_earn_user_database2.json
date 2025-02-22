@@ -1611,7 +1611,7 @@
       "invited_users": [
         "Olawale22"
       ],
-      "balance": 1060,
+      "balance": 1080,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -1621,7 +1621,8 @@
         2,
         1,
         4,
-        5
+        5,
+        10
       ],
       "lastSpin": null
     },
@@ -4406,7 +4407,8 @@
         2,
         4,
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
