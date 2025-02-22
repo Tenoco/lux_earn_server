@@ -1240,7 +1240,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1140,
+      "balance": 1150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1254,9 +1254,9 @@
         10,
         8,
         7,
-        6
-      ],
-      "lastSpin": null
+        6,
+        1
+      ]
     },
     {
       "username": "Clintlossy ",
@@ -1274,7 +1274,8 @@
       "joinDate": "2025-02-22T08:23:03.985Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ahmadlawal113",
