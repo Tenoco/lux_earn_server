@@ -5687,13 +5687,16 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:35:28.444Z",
-      "completedMissions": [],
+      "completedMissions": [
+        5,
+        5
+      ],
       "lastSpin": "2025-02-22T13:36:12.289Z"
     },
     {
@@ -5709,7 +5712,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:38:01.015Z"
+      "joinDate": "2025-02-22T13:38:01.015Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
