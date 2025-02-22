@@ -38114,10 +38114,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:33:20.381Z",
-      "lastSpin": "2025-02-22T03:34:28.627Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T03:34:28.627Z"
     },
     {
       "username": "Olexprezzy1",
@@ -38127,14 +38127,13 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:36:24.496Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T03:38:35.393Z"
     }
   ],
   "withdrawals": [
