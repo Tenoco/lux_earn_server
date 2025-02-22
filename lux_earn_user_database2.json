@@ -11833,7 +11833,7 @@
       "inviter_referral_code": "OL6TF ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 280,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11847,7 +11847,9 @@
         5,
         7,
         6,
-        8
+        8,
+        13,
+        12
       ],
       "lastSpin": "2025-02-22T19:16:28.516Z"
     },
