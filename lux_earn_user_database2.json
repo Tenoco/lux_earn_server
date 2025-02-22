@@ -6883,7 +6883,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:13:07.065Z",
-      "lastSpin": "2025-02-22T15:14:48.199Z",
       "completedMissions": [
         1,
         2,
@@ -6891,7 +6890,8 @@
         12,
         11,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T15:14:48.199Z"
     },
     {
       "username": "Favy",
@@ -6994,6 +6994,21 @@
       "joinDate": "2025-02-22T15:19:46.036Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "276263",
+      "email": "tw76w@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "27GOQ",
+      "inviter_referral_code": "TEQZ9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:13:51.538Z"
     }
   ],
   "withdrawals": [],
