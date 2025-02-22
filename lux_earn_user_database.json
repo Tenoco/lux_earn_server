@@ -26704,10 +26704,12 @@
       "referral_code": "OLFCG",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "BILIKIS "
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:43:50.239Z",
@@ -37754,6 +37756,21 @@
         1
       ],
       "lastSpin": "2025-02-22T02:02:12.771Z"
+    },
+    {
+      "username": "BILIKIS ",
+      "email": "ellamorgan426@gmail.com",
+      "encrypted_password": "d856d47fb2b3e03d94677ff7f0d0c6fd",
+      "referral_code": "BIPUX",
+      "inviter_referral_code": "OLFCG",
+      "inviter_username": "Olamokas",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:11:09.201Z"
     }
   ],
   "withdrawals": [
