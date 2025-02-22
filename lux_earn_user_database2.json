@@ -5044,7 +5044,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5065,9 +5065,17 @@
         1,
         1,
         1,
-        1
-      ],
-      "lastSpin": null
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ]
     },
     {
       "username": "Samodly",
