@@ -3838,7 +3838,7 @@
         "Evebaby",
         "Praisyluv "
       ],
-      "balance": 101,
+      "balance": 116,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -3850,7 +3850,8 @@
         4,
         5,
         10,
-        9
+        9,
+        11
       ],
       "lastSpin": "2025-02-22T13:12:50.559Z"
     },
@@ -7675,7 +7676,8 @@
       "joinDate": "2025-02-22T16:09:22.741Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tenoco",
