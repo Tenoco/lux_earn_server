@@ -38529,14 +38529,19 @@
       "inviter_referral_code": "CHUQV",
       "inviter_username": "Chiboy9",
       "invited_users": [],
-      "balance": 1001,
+      "balance": 1061,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:20:21.808Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T08:21:00.887Z"
+      "lastSpin": "2025-02-22T08:21:00.887Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5
+      ]
     }
   ],
   "withdrawals": [
