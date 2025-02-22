@@ -4960,7 +4960,8 @@
       "joinDate": "2025-02-22T12:54:53.718Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samod",
@@ -4995,6 +4996,21 @@
       "joinDate": "2025-02-22T12:53:09.155Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T12:54:42.627Z"
+    },
+    {
+      "username": "Rose",
+      "email": "feyisatenmaxwell@gmail.com",
+      "encrypted_password": "30e535568de1f9231e7d9df0f4a5a44d",
+      "referral_code": "RO2PB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:57:30.430Z"
     }
   ],
   "withdrawals": [],
