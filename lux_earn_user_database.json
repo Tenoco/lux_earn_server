@@ -278,11 +278,12 @@
         "Whiteinnocent",
         "Whiteinnocentcrypto",
         "Chibuzor",
-        "demmy"
+        "demmy",
+        "Joypeace "
       ],
       "balance": 195,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:01:37.429Z",
@@ -38589,6 +38590,21 @@
       "joinDate": "2025-02-22T05:07:33.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joypeace ",
+      "email": "isigamer511@gmail.com",
+      "encrypted_password": "c2c8e798aecbc26d86e4805114b03c51",
+      "referral_code": "JOVH5",
+      "inviter_referral_code": "HEF6Q",
+      "inviter_username": "Hephzi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:15:17.034Z"
     }
   ],
   "withdrawals": [
