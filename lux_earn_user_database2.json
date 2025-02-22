@@ -8469,7 +8469,7 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8481,7 +8481,8 @@
         7,
         6,
         5,
-        12
+        12,
+        1
       ],
       "lastSpin": null
     },
@@ -14553,10 +14554,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
-      "lastSpin": "2025-02-22T21:13:45.111Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T21:13:45.111Z"
     }
   ],
   "withdrawals": [
