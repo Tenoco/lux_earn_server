@@ -38388,7 +38388,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 80,
+      "balance": 81,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38402,7 +38402,7 @@
         2,
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T05:04:25.256Z"
     },
     {
       "username": "Pinkyponky",
@@ -38461,7 +38461,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
