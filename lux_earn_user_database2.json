@@ -13472,10 +13472,12 @@
       "referral_code": "ANBCY",
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
-      "invited_users": [],
+      "invited_users": [
+        "Cindybella"
+      ],
       "balance": 60,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -13484,7 +13486,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Charles",
@@ -13749,6 +13752,21 @@
       "joinDate": "2025-02-22T20:34:51.889Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Cindybella",
+      "email": "abarunobim@gmail.com",
+      "encrypted_password": "4db691df61d0bbb257990284d6a8f434",
+      "referral_code": "CIERO",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:37:06.417Z"
     }
   ],
   "withdrawals": [
