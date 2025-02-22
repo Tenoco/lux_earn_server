@@ -3214,14 +3214,16 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T11:28:07.479Z"
+      "lastSpin": "2025-02-22T11:28:07.479Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "BÍGG VAS",
