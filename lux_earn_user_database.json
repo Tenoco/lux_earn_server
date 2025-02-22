@@ -15077,7 +15077,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [],
-      "balance": 210,
+      "balance": 238,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15091,9 +15091,10 @@
         6,
         5,
         7,
-        10
+        10,
+        1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T05:08:15.782Z"
     },
     {
       "username": "Johnson26",
@@ -38497,7 +38498,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
