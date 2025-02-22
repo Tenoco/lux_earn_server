@@ -7603,10 +7603,12 @@
       "referral_code": "KAQ0P",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Zuubi"
+      ],
       "balance": 68,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -8083,6 +8085,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Zuubi",
+      "email": "zubi@gmail.com",
+      "encrypted_password": "b7a2c3b25c9441b0a38d0a874ace268b",
+      "referral_code": "ZUX1Y",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:27:42.384Z"
     }
   ],
   "withdrawals": [],
