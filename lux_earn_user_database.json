@@ -45,11 +45,12 @@
         "Osasbillons111",
         "Lilafavour",
         "Kingobillions",
-        "Lopezcat1"
+        "Lopezcat1",
+        "STICKZ"
       ],
       "balance": 5503,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38349,14 +38350,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:47:33.568Z",
-      "lastSpin": "2025-02-22T04:48:05.912Z",
       "completedMissions": [
         1,
         2,
         4,
         7,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-22T04:48:05.912Z"
     },
     {
       "username": "Lopezcat1",
@@ -38374,6 +38375,21 @@
       "joinDate": "2025-02-22T04:54:01.863Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "STICKZ",
+      "email": "iyanuyinusa661@gmail.com",
+      "encrypted_password": "b92afcc0b7caea6e5097d146ab8598fd",
+      "referral_code": "STTS8",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:56:51.964Z"
     }
   ],
   "withdrawals": [
