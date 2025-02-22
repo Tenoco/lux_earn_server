@@ -3229,7 +3229,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
-      "lastSpin": "2025-02-22T11:28:07.479Z",
       "completedMissions": [
         1,
         5,
@@ -3237,7 +3236,8 @@
         4,
         7,
         14
-      ]
+      ],
+      "lastSpin": "2025-02-22T11:28:07.479Z"
     },
     {
       "username": "BÍGG VAS",
@@ -3363,6 +3363,21 @@
       "joinDate": "2025-02-22T11:33:29.344Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T11:34:40.224Z"
+    },
+    {
+      "username": "goat0987yr",
+      "email": "rotimisamuel974@gmail.com",
+      "encrypted_password": "343b844b985b11ac568c8541ec384bb6",
+      "referral_code": "GOUP2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:35:17.134Z"
     }
   ],
   "withdrawals": [],
