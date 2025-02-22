@@ -2240,7 +2240,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2249,7 +2249,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T18:20:27.203Z"
     },
     {
       "username": "Queen Ebony",
@@ -10241,7 +10241,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:19:43.128Z"
+      "joinDate": "2025-02-22T18:19:43.128Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
