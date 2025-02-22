@@ -10180,7 +10180,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:18:18.582Z"
+      "joinDate": "2025-02-22T18:18:18.582Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Guddy204",
+      "email": "bujamana01@gmail.com",
+      "encrypted_password": "54941629fa13ee9eb1e338331593472f",
+      "referral_code": "GU0GJ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 50,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:22:56.633Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
