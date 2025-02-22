@@ -21315,10 +21315,12 @@
       "referral_code": "MAX5P",
       "inviter_referral_code": "SAX07",
       "inviter_username": "Sam1204",
-      "invited_users": [],
-      "balance": 180,
-      "refers": 0,
-      "referralBalance": 0,
+      "invited_users": [
+        "Mark77"
+      ],
+      "balance": 190,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:04.435Z",
@@ -21330,7 +21332,7 @@
         5,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T09:17:00.063Z"
     },
     {
       "username": "Marcusein ",
