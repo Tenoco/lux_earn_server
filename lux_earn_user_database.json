@@ -10216,7 +10216,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 275,
+      "balance": 310,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10231,9 +10231,10 @@
         6,
         7,
         8,
-        11
+        11,
+        12
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T16:11:07.269Z"
     },
     {
       "username": "Ani2005",
