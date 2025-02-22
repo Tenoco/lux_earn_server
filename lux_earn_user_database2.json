@@ -10799,7 +10799,7 @@
       "invited_users": [
         "Official Maurice "
       ],
-      "balance": 370,
+      "balance": 390,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10818,7 +10818,8 @@
         8,
         9,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-21T09:07:42.736Z"
     },
@@ -10852,7 +10853,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:39:52.971Z"
+      "joinDate": "2025-02-22T18:39:52.971Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
