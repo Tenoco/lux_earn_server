@@ -38574,7 +38574,7 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": "Rebecca",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 1000,
@@ -38582,7 +38582,8 @@
       "joinDate": "2025-02-22T11:49:57.223Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ]
     }
   ],
