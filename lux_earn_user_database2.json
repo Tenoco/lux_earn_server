@@ -1851,7 +1851,8 @@
         8,
         4,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmaberry",
@@ -1937,6 +1938,21 @@
       "joinDate": "2025-02-22T09:25:05.933Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T09:25:26.720Z"
+    },
+    {
+      "username": "Mosunmola33",
+      "email": "mofolashade32@gmail.com",
+      "encrypted_password": "fb6da08a216f1808752b01359b6a6f1b",
+      "referral_code": "MOLI5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:27:59.994Z"
     }
   ],
   "withdrawals": [],
