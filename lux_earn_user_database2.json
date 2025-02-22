@@ -6408,11 +6408,12 @@
         "Dowland19",
         "Hsbsige",
         "Hdbsihejb1",
-        "Bsubsjge2"
+        "Bsubsjge2",
+        "Bsudbsjs1"
       ],
       "balance": 90,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:41.926Z",
@@ -7440,6 +7441,21 @@
       "joinDate": "2025-02-22T15:51:05.722Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bsudbsjs1",
+      "email": "jdhdbdjdbhfhdj@gmail.com",
+      "encrypted_password": "e35cf7b66449df565f93c607d5a81d09",
+      "referral_code": "BSYFR",
+      "inviter_referral_code": "PRQAG",
+      "inviter_username": "praise33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:52:08.154Z"
     }
   ],
   "withdrawals": [],
