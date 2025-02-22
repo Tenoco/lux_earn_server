@@ -3625,11 +3625,12 @@
         "Briggydivi ",
         "BELYKGHOST",
         "Gift02",
-        "DestinyNjoku"
+        "DestinyNjoku",
+        "Adewumi5"
       ],
       "balance": 1116,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -8731,6 +8732,21 @@
         8
       ],
       "lastSpin": "2025-02-22T12:58:58.421Z"
+    },
+    {
+      "username": "Adewumi5",
+      "email": "fatimajokehamza100@gmail.com",
+      "encrypted_password": "fef166c3bf5dc1b022c1f636f42343de",
+      "referral_code": "ADYZF",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:52:06.776Z"
     }
   ],
   "withdrawals": [
