@@ -427,14 +427,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 8,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:14:24.711Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T07:14:37.516Z"
+      "lastSpin": "2025-02-22T07:14:37.516Z",
+      "completedMissions": [
+        6
+      ]
     },
     {
       "username": "Emmaorji ",
@@ -466,7 +468,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:16:34.322Z"
+      "joinDate": "2025-02-22T07:16:34.322Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
