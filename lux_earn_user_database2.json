@@ -8833,14 +8833,15 @@
       "inviter_referral_code": "HO189",
       "inviter_username": "Holar",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:56:09.801Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        12
+      ]
     },
     {
       "username": "Eloghosa",
@@ -8951,7 +8952,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T16:59:53.186Z"
+      "joinDate": "2025-02-22T16:59:53.186Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
