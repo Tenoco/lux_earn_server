@@ -899,11 +899,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:48:14.660Z",
-      "lastSpin": "2025-02-22T07:50:05.704Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-22T07:50:05.704Z"
     },
     {
       "username": "Whitedrag",
@@ -938,6 +938,21 @@
       "joinDate": "2025-02-22T07:51:34.948Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jboy12",
+      "email": "Jamesadebayo471@gmail.com",
+      "encrypted_password": "a5423e4951e1e17c8c590f5dcf1fa47a",
+      "referral_code": "JBUOH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:52:28.591Z"
     }
   ],
   "withdrawals": [],
