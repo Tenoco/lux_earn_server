@@ -2149,10 +2149,12 @@
       "referral_code": "ENEGM",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Enoch Goodness Taiwo "
+      ],
       "balance": 1000,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:40:42.335Z",
@@ -15831,7 +15833,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:58:46.838Z"
+      "joinDate": "2025-02-22T22:58:46.838Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Enoch Goodness Taiwo ",
+      "email": "irehorluwapoenoch@gmail.com",
+      "encrypted_password": "76c22d9ae5b82bbd5f27d08a318f6235",
+      "referral_code": "ENRF8",
+      "inviter_referral_code": "ENEGM",
+      "inviter_username": "Enoch Mercy Kehinde ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:01:00.809Z"
     }
   ],
   "withdrawals": [
