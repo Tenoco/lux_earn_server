@@ -2914,13 +2914,16 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1020,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:02:31.462Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14,
+        14
+      ],
       "lastSpin": null
     },
     {
