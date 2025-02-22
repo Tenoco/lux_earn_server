@@ -3308,7 +3308,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1110,
+      "balance": 1130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3322,7 +3322,8 @@
         5,
         5,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -3417,7 +3418,8 @@
         9,
         9,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samfx",
