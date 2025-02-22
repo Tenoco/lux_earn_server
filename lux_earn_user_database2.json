@@ -6745,7 +6745,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:05:24.630Z"
+      "joinDate": "2025-02-22T15:05:24.630Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olumide2",
+      "email": "omopaso709@gmail.com",
+      "encrypted_password": "0139924789334a8bcb54fb961d9d6f31",
+      "referral_code": "OLEOZ",
+      "inviter_referral_code": "Eesawe123",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:05:52.629Z"
     }
   ],
   "withdrawals": [],
