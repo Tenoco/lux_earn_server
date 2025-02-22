@@ -10457,11 +10457,12 @@
         "Uytrrtuu",
         "Kjhfdfuji",
         "Ijjggfg",
-        "Jbaboug"
+        "Jbaboug",
+        "Nobodyjhfd"
       ],
       "balance": 210,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:26:55.761Z",
@@ -11892,6 +11893,21 @@
         1
       ],
       "lastSpin": "2025-02-22T03:34:28.627Z"
+    },
+    {
+      "username": "Nobodyjhfd",
+      "email": "nobovfdgjk@gmail.com",
+      "encrypted_password": "789fae6361371324c0942cfd954b92f8",
+      "referral_code": "NOJAN",
+      "inviter_referral_code": "AL4BB",
+      "inviter_username": "Alhassan 001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:19:17.868Z"
     }
   ],
   "withdrawals": [
