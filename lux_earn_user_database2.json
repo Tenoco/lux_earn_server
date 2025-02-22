@@ -14603,21 +14603,22 @@
       "inviter_referral_code": "VAGJR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 92,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:11:15.372Z",
+      "lastSpin": "2025-02-22T21:13:45.111Z",
       "completedMissions": [
         1,
         2,
         4,
         5,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-22T21:13:45.111Z"
+        7,
+        8
+      ]
     },
     {
       "username": "Hsjdjdndjjr",
@@ -14709,6 +14710,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:26:46.947Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T21:27:19.526Z"
     }
   ],
