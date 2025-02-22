@@ -8841,7 +8841,8 @@
       "joinDate": "2025-02-22T16:56:09.801Z",
       "completedMissions": [
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Eloghosa",
@@ -8921,7 +8922,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8935,7 +8936,8 @@
         7,
         6,
         5,
-        4
+        4,
+        12
       ],
       "lastSpin": null
     },
