@@ -15495,13 +15495,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T22:12:07.047Z",
-      "lastSpin": "2025-02-22T22:15:14.071Z",
       "completedMissions": [
         1,
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-22T22:15:14.071Z"
     },
     {
       "username": "Hdhdjdjdur30",
@@ -15536,6 +15536,21 @@
       "joinDate": "2025-02-22T22:15:30.487Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jsjsnsnsnsnr3",
+      "email": "jdjdndjdnnnnd4@gmail.com",
+      "encrypted_password": "864c6757438d0d2d78be56657a640db9",
+      "referral_code": "JSC7C",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:18:32.136Z"
     }
   ],
   "withdrawals": [
