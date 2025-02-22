@@ -15888,7 +15888,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15900,7 +15900,8 @@
         11,
         11,
         11,
-        10
+        10,
+        9
       ],
       "lastSpin": null
     },
@@ -15957,7 +15958,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victoria Emeshiobi ",
