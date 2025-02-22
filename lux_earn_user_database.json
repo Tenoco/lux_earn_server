@@ -37979,7 +37979,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T02:55:03.971Z"
+      "joinDate": "2025-02-22T02:55:03.971Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aloha 2",
+      "email": "mondaylovina23@gmail.com",
+      "encrypted_password": "2ac5da68e404515dfad7edff3ac8e77f",
+      "referral_code": "ALRN7",
+      "inviter_referral_code": "KIIO1 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:55:47.284Z"
     }
   ],
   "withdrawals": [
