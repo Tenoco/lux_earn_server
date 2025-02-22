@@ -38320,7 +38320,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:42:34.275Z",
-      "lastSpin": "2025-02-22T04:43:01.540Z",
       "completedMissions": [
         1,
         1,
@@ -38332,7 +38331,8 @@
         2,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-22T04:43:01.540Z"
     },
     {
       "username": "Kingobillions",
@@ -38342,14 +38342,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T04:47:33.568Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T04:48:05.912Z"
+      "lastSpin": "2025-02-22T04:48:05.912Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
