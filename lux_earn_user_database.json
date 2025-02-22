@@ -13192,11 +13192,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ogbaji ",
-        "Noah"
+        "Noah",
+        "Sams9n"
       ],
       "balance": 105,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:56:00.322Z",
@@ -37999,6 +38000,21 @@
       "joinDate": "2025-02-22T02:55:47.284Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T02:57:01.113Z"
+    },
+    {
+      "username": "Sams9n",
+      "email": "bergswilliams2@gmail.com",
+      "encrypted_password": "61d396d8b606784c8af0dba21e03fa40",
+      "referral_code": "SAS1Q",
+      "inviter_referral_code": "JAKOC",
+      "inviter_username": "Jameson",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T03:03:53.820Z"
     }
   ],
   "withdrawals": [
