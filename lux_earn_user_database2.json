@@ -5431,11 +5431,26 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:10:52.992Z",
-      "lastSpin": "2025-02-22T13:12:20.421Z",
       "completedMissions": [
         2,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T13:12:20.421Z"
+    },
+    {
+      "username": "Nary",
+      "email": "joelinnocent11111@gmail.com",
+      "encrypted_password": "74bdfb48b0c9ea4ec0bb6bd66d4f79c4",
+      "referral_code": "NAZJY",
+      "inviter_referral_code": "chjwk",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:14:48.878Z"
     }
   ],
   "withdrawals": [],
