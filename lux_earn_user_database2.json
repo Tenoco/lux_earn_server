@@ -10642,7 +10642,7 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 80,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10652,7 +10652,9 @@
         1,
         2,
         2,
-        4
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T18:33:51.088Z"
     },
