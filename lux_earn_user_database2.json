@@ -3426,11 +3426,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "rot"
+        "rot",
+        "goatty"
       ],
       "balance": 1275,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:35:17.134Z",
@@ -4052,6 +4053,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "goatty",
+      "email": "adewumiadetunji049@gmail.com",
+      "encrypted_password": "343b844b985b11ac568c8541ec384bb6",
+      "referral_code": "GODB3",
+      "inviter_referral_code": "GOUP2",
+      "inviter_username": "goat0987yr",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:07:51.810Z"
     }
   ],
   "withdrawals": [],
