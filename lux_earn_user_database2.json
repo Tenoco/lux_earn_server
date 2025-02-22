@@ -2206,10 +2206,12 @@
       "referral_code": "MAQXF",
       "inviter_referral_code": "REKOU",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Eloghosa"
+      ],
       "balance": 1130,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:46:43.436Z",
@@ -8381,7 +8383,8 @@
         7,
         6,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danpromi",
@@ -8836,6 +8839,21 @@
       "joinDate": "2025-02-22T16:56:09.801Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eloghosa",
+      "email": "igbinobaeloghosa4@gmail.com",
+      "encrypted_password": "f9379a342e261bc07cafbb2262d9ee1a",
+      "referral_code": "EL8AY",
+      "inviter_referral_code": "MAQXF",
+      "inviter_username": "Matthew",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:57:49.025Z"
     }
   ],
   "withdrawals": [
