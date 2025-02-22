@@ -3706,7 +3706,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:46.388Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T11:51:01.730Z"
+    },
+    {
+      "username": "hamxation",
+      "email": "hamzaabubakaryaro2001@gmail.com",
+      "encrypted_password": "b7dd46670713f7cd4531fb930daa6b3c",
+      "referral_code": "HAPN5",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:51:17.355Z"
     }
   ],
   "withdrawals": [],
