@@ -38569,6 +38569,21 @@
         1
       ],
       "lastSpin": "2025-02-22T06:34:47.470Z"
+    },
+    {
+      "username": "Insideme",
+      "email": "'@Insideme",
+      "encrypted_password": "a4c960d36d3174f1e04a07de4075d3c5",
+      "referral_code": "INX8P",
+      "inviter_referral_code": "Insideme ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:41:39.280Z"
     }
   ],
   "withdrawals": [
