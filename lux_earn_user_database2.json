@@ -5774,7 +5774,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:48:33.034Z"
+      "joinDate": "2025-02-22T13:48:33.034Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sammywalth",
+      "email": "walthsmith825@gmail.com",
+      "encrypted_password": "920b29a33e349ed9546ab7d8747e6d3a",
+      "referral_code": "SAWK1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:48:34.238Z"
     }
   ],
   "withdrawals": [],
