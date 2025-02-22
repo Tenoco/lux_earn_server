@@ -3506,10 +3506,12 @@
       "referral_code": "ABYZO",
       "inviter_referral_code": "Co4PD ",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Sage jnr"
+      ],
       "balance": 138,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:50.473Z",
@@ -5362,6 +5364,21 @@
       "joinDate": "2025-02-22T13:05:39.037Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sage jnr",
+      "email": "daveedspie@gmail.com",
+      "encrypted_password": "71170cc0dca6a5de7514d117e8e48353",
+      "referral_code": "SA9WJ",
+      "inviter_referral_code": "ABYZO",
+      "inviter_username": "Abiolag",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:08:19.398Z"
     }
   ],
   "withdrawals": [],
