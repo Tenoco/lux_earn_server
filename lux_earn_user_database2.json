@@ -12064,10 +12064,12 @@
       "referral_code": "TR6PG",
       "inviter_referral_code": "CH2AP",
       "inviter_username": "Christopher",
-      "invited_users": [],
+      "invited_users": [
+        "Yung Chi "
+      ],
       "balance": 40,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:21:35.389Z",
@@ -14137,6 +14139,21 @@
         13
       ],
       "lastSpin": "2025-02-21T00:05:43.286Z"
+    },
+    {
+      "username": "Yung Chi ",
+      "email": "okoyegodsfavour62@gmail.com",
+      "encrypted_password": "f3b3dee34fba2ef991c98d1ee6189e54",
+      "referral_code": "YUVER",
+      "inviter_referral_code": "TR6PG",
+      "inviter_username": "Triplexkris ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:51:45.491Z"
     }
   ],
   "withdrawals": [
