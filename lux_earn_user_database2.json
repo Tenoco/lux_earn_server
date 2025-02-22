@@ -6995,13 +6995,15 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:18:46.221Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T15:32:18.277Z"
     },
     {
