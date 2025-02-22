@@ -2051,14 +2051,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1011,
+      "balance": 1041,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:37:02.936Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T09:38:18.282Z"
     },
