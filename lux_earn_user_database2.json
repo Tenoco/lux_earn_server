@@ -14268,7 +14268,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mirabel",
@@ -14398,6 +14399,21 @@
       "joinDate": "2025-02-22T20:59:58.734Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny olab",
+      "email": "oluwakemiolab@gmail.com",
+      "encrypted_password": "eea78246af3a5dfe355d03150cb7f12e",
+      "referral_code": "JORJX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:06:01.025Z"
     }
   ],
   "withdrawals": [
