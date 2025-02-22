@@ -8968,12 +8968,13 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T17:02:31.198Z"
+      "joinDate": "2025-02-22T17:02:31.198Z",
+      "lastSpin": "2025-02-22T17:03:39.483Z"
     }
   ],
   "withdrawals": [
