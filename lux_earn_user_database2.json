@@ -15212,7 +15212,7 @@
       "inviter_referral_code": "4I48E",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15220,7 +15220,8 @@
       "joinDate": "2025-02-22T21:53:06.093Z",
       "completedMissions": [
         1,
-        5
+        5,
+        10
       ],
       "lastSpin": null
     },
