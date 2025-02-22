@@ -10419,11 +10419,12 @@
       "inviter_username": null,
       "invited_users": [
         "Khemsy",
-        "Sarah "
+        "Sarah ",
+        "OSVMEDIA"
       ],
       "balance": 40,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -13156,7 +13157,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:08:35.844Z"
+      "joinDate": "2025-02-22T20:08:35.844Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "OSVMEDIA",
+      "email": "olaiyavalentino@gmail.com",
+      "encrypted_password": "954704845dd28e9c3cabb6da9128462d",
+      "referral_code": "OS6AF",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:08:39.976Z"
     }
   ],
   "withdrawals": [
