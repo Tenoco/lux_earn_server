@@ -3118,7 +3118,7 @@
         "Lyan Mubby ",
         "Arinze08"
       ],
-      "balance": 337,
+      "balance": -763,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -38652,6 +38652,17 @@
       "totalBalance": 8030,
       "timestamp": "2025-02-18T22:47:13.036Z",
       "status": "completed"
+    },
+    {
+      "username": "CoachNick",
+      "email": "ifeanyinickey6@gmail.com",
+      "accountName": "Ifeanyi micky osita",
+      "accountNumber": "9012127553",
+      "bank": "Opay",
+      "amount": 1100,
+      "totalBalance": 337,
+      "timestamp": "2025-02-22T17:25:12.660Z",
+      "status": "pending"
     }
   ],
   "missions": [],
