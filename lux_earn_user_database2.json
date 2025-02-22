@@ -3550,11 +3550,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sage jnr",
-        "Ajayibobola53"
+        "Ajayibobola53",
+        "Ibchucks1"
       ],
       "balance": 153,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:36:50.473Z",
@@ -14222,6 +14223,21 @@
       "joinDate": "2025-02-22T20:53:11.265Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ibchucks1",
+      "email": "ifeonukwubrightchuks0077@gmail.com",
+      "encrypted_password": "63b014a6203d0e670176763d6abe6258",
+      "referral_code": "IBGN9",
+      "inviter_referral_code": "ABYZO",
+      "inviter_username": "Abiolag",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:54:01.335Z"
     }
   ],
   "withdrawals": [
