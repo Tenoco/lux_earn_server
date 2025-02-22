@@ -2967,10 +2967,10 @@
       "lastSpin": "2025-02-22T11:10:44.390Z"
     },
     {
-      "username": "LÃÂÃÂªkÃÂÃÂªwÃÂÃÂªbÃÂÃÂ¸",
+      "username": "LÃÂÃÂÃÂÃÂªkÃÂÃÂÃÂÃÂªwÃÂÃÂÃÂÃÂªbÃÂÃÂÃÂÃÂ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÃÂÃÂJIB",
+      "referral_code": "LÃÂÃÂÃÂÃÂJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3001,10 +3001,10 @@
       "lastSpin": null
     },
     {
-      "username": "LÃÂªkÃÂªwÃÂªbÃÂ¸",
+      "username": "LÃÂÃÂªkÃÂÃÂªwÃÂÃÂªbÃÂÃÂ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÃÂJIB",
+      "referral_code": "LÃÂÃÂJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3020,10 +3020,10 @@
       "lastSpin": null
     },
     {
-      "username": "LÃªkÃªwÃªbÃ¸",
+      "username": "LÃÂªkÃÂªwÃÂªbÃÂ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÃJIB",
+      "referral_code": "LÃÂJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3042,10 +3042,10 @@
       "lastSpin": null
     },
     {
-      "username": "Lêkêwêbø",
+      "username": "LÃªkÃªwÃªbÃ¸",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "LÊJIB",
+      "referral_code": "LÃJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3065,10 +3065,10 @@
       "lastSpin": null
     },
     {
-      "username": "L�k�w�b�",
+      "username": "Lêkêwêbø",
       "email": "horlartunjihareef@gmail.com",
       "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
-      "referral_code": "L�JIB",
+      "referral_code": "LÊJIB",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -3084,6 +3084,31 @@
         6,
         7,
         7,
+        10
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "L�k�w�b�",
+      "email": "horlartunjihareef@gmail.com",
+      "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
+      "referral_code": "L�JIB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1090,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:08:41.461Z",
+      "completedMissions": [
+        1,
+        1,
+        6,
+        7,
+        7,
+        10,
         10
       ]
     }
