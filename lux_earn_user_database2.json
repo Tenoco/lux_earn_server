@@ -2616,11 +2616,12 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [
-        "Teekay77 "
+        "Teekay77 ",
+        "Israel77 "
       ],
       "balance": 1175,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:37:43.424Z",
@@ -9467,7 +9468,8 @@
         4,
         5,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "danieldy",
@@ -9513,6 +9515,21 @@
       "joinDate": "2025-02-22T17:41:05.577Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Israel77 ",
+      "email": "israel77ayolittlestar@gmail.com",
+      "encrypted_password": "d23a8bfaf269b338c56a38df5453d8e5",
+      "referral_code": "ISRCS",
+      "inviter_referral_code": "@FDPY",
+      "inviter_username": "@future",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:42:20.478Z"
     }
   ],
   "withdrawals": [
