@@ -2298,7 +2298,7 @@
       "inviter_referral_code": "KEF8I",
       "inviter_username": "Kennylee ",
       "invited_users": [],
-      "balance": 1130,
+      "balance": 1150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2311,7 +2311,8 @@
         1,
         5,
         8,
-        9
+        9,
+        10
       ],
       "lastSpin": "2025-02-22T10:00:39.136Z"
     },
@@ -2598,7 +2599,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:41:23.362Z"
+      "joinDate": "2025-02-22T10:41:23.362Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
