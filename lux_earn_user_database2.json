@@ -1426,7 +1426,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T08:38:03.295Z"
+      "joinDate": "2025-02-22T08:38:03.295Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dazzlingdeevyn ",
+      "email": "divineashaolu317@gmail.com",
+      "encrypted_password": "3c709b10a5d47ba33d85337dd9110917",
+      "referral_code": "DAJ8E",
+      "inviter_referral_code": "HELL5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:39:18.927Z"
     }
   ],
   "withdrawals": [],
