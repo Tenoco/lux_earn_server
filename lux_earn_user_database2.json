@@ -3223,21 +3223,22 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1100,
+      "balance": 1110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:23:38.888Z",
+      "lastSpin": "2025-02-22T11:28:07.479Z",
       "completedMissions": [
         1,
         5,
         4,
         4,
         7,
-        14
-      ],
-      "lastSpin": "2025-02-22T11:28:07.479Z"
+        14,
+        13
+      ]
     },
     {
       "username": "BÍGG VAS",
