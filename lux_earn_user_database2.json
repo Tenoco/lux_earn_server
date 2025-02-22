@@ -5454,11 +5454,12 @@
         "Susann",
         "Lolap",
         "Tobi l",
-        "Deborah"
+        "Deborah",
+        "Debby"
       ],
       "balance": 140,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:09:32.304Z",
@@ -7765,6 +7766,21 @@
       "joinDate": "2025-02-22T16:14:58.047Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Debby",
+      "email": "dealaayomide170@gmail.com",
+      "encrypted_password": "992e63080ee1e47b99f42b8d64ede953",
+      "referral_code": "DE3V5",
+      "inviter_referral_code": "SESUD",
+      "inviter_username": "Seerty",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:17:01.444Z"
     }
   ],
   "withdrawals": [],
