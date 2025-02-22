@@ -3964,14 +3964,16 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:01:55.847Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2,
+        2
+      ]
     },
     {
       "username": "Unstoppable",
