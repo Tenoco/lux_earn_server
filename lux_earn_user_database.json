@@ -37188,11 +37188,12 @@
         "Bbzbsbzbb",
         "Bfbbbb",
         "Hdbnbxz",
-        "BBzbvzBb"
+        "BBzbvzBb",
+        "Hsbbbbb"
       ],
       "balance": 25,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T00:33:27.870Z",
@@ -37384,7 +37385,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T00:54:35.899Z"
+      "joinDate": "2025-02-22T00:54:35.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hsbbbbb",
+      "email": "superstan@gmail.com",
+      "encrypted_password": "0d61130a6dd5eea85c2c5facfe1c15a7",
+      "referral_code": "HSUC8",
+      "inviter_referral_code": "KAYO0",
+      "inviter_username": "Kate",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:55:41.974Z"
     }
   ],
   "withdrawals": [
