@@ -3557,11 +3557,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Inioluwa "
+        "Inioluwa ",
+        "Briggydivi "
       ],
       "balance": 1000,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -3743,7 +3744,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:51:50.314Z"
+      "joinDate": "2025-02-22T11:51:50.314Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Briggydivi ",
+      "email": "batayine33@gmail.com",
+      "encrypted_password": "1313f52352abbbc99351868128b210e6",
+      "referral_code": "BRNM8",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:52:19.985Z"
     }
   ],
   "withdrawals": [],
