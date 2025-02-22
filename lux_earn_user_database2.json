@@ -11275,11 +11275,12 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [
-        "Nickipearl "
+        "Nickipearl ",
+        "Michelle"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:54:54.903Z",
@@ -12553,6 +12554,21 @@
       "joinDate": "2025-02-22T19:47:52.554Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Michelle",
+      "email": "preciousfalomo02@gmail.com",
+      "encrypted_password": "d0df180f342569407b28f6a06cb714f0",
+      "referral_code": "MIGB7",
+      "inviter_referral_code": "VAXO2",
+      "inviter_username": "Valentine1p",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:48:56.688Z"
     }
   ],
   "withdrawals": [
