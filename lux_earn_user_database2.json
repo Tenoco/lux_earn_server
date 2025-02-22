@@ -2742,7 +2742,7 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1020,
+      "balance": 1040,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2750,9 +2750,9 @@
       "joinDate": "2025-02-22T10:52:37.896Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Wilson007",
@@ -2768,7 +2768,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:53:44.937Z",
-      "lastSpin": "2025-02-22T10:54:01.389Z",
       "completedMissions": [
         1,
         2,
@@ -2777,7 +2776,8 @@
         6,
         8,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:54:01.389Z"
     },
     {
       "username": "Izzypluto24 ",
