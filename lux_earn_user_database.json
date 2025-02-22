@@ -38107,12 +38107,13 @@
       "inviter_referral_code": "C04PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T03:33:20.381Z"
+      "joinDate": "2025-02-22T03:33:20.381Z",
+      "lastSpin": "2025-02-22T03:34:28.627Z"
     }
   ],
   "withdrawals": [
