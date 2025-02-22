@@ -506,7 +506,7 @@
       "invited_users": [
         "Ayokanmi"
       ],
-      "balance": 156,
+      "balance": 166,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -523,7 +523,8 @@
         8,
         10,
         14,
-        11
+        11,
+        12
       ],
       "lastSpin": "2025-02-22T09:51:24.370Z"
     },
@@ -2715,7 +2716,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T10:48:06.363Z"
+      "joinDate": "2025-02-22T10:48:06.363Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [],
