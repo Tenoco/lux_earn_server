@@ -3733,13 +3733,17 @@
       "inviter_referral_code": "GOUP2",
       "inviter_username": "goat0987yr",
       "invited_users": [],
-      "balance": 12,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:46.388Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4
+      ],
       "lastSpin": "2025-02-22T11:51:01.730Z"
     },
     {
@@ -4815,7 +4819,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "C boy ",
