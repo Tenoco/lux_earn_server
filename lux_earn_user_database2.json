@@ -12310,7 +12310,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 340,
+      "balance": 348,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12331,7 +12331,7 @@
         10,
         9
       ],
-      "lastSpin": "2025-02-21T14:26:53.987Z"
+      "lastSpin": "2025-02-22T19:47:16.430Z"
     },
     {
       "username": "Sudaiz",
@@ -12528,7 +12528,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:47:09.030Z"
+      "joinDate": "2025-02-22T19:47:09.030Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
