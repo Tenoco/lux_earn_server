@@ -9696,10 +9696,12 @@
       "referral_code": "MDZYH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Thank god"
+      ],
       "balance": 321,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -11139,6 +11141,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Thank god",
+      "email": "gonzalezgodge@gmail.com",
+      "encrypted_password": "af09cc6a745f359d84c01cdc53ac6b4f",
+      "referral_code": "TH4NF",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T18:52:57.373Z"
     }
   ],
   "withdrawals": [
