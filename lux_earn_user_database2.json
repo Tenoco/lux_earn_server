@@ -13251,7 +13251,8 @@
       "completedMissions": [
         13,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Haruna44",
@@ -13356,6 +13357,21 @@
       "joinDate": "2025-02-22T20:14:23.601Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jamiuayomide ",
+      "email": "adeyeyea607@gmail.com",
+      "encrypted_password": "b39814ca2a98d2a4ae97703b46c26085",
+      "referral_code": "JA6XQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:16:20.400Z"
     }
   ],
   "withdrawals": [
