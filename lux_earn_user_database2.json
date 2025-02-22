@@ -7695,7 +7695,7 @@
         "Hiudu",
         "Lawwesa"
       ],
-      "balance": 68,
+      "balance": 88,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -7705,7 +7705,8 @@
         1,
         2,
         5,
-        4
+        4,
+        13
       ],
       "lastSpin": "2025-02-22T16:25:36.207Z"
     },
@@ -12790,7 +12791,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:54:49.846Z"
+      "joinDate": "2025-02-22T19:54:49.846Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
