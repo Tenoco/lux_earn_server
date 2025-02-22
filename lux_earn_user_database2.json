@@ -1924,14 +1924,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:23:58.772Z",
-      "lastSpin": "2025-02-22T09:29:54.496Z",
       "completedMissions": [
         1,
         2,
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-22T09:29:54.496Z"
     },
     {
       "username": "BigJohn ",
@@ -2091,6 +2091,21 @@
       "joinDate": "2025-02-22T09:41:43.711Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Solo",
+      "email": "solodizey8@gmail.com",
+      "encrypted_password": "658df03a2fdb13d6cdb6fa267f6bfd51",
+      "referral_code": "SOO7N",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:43:37.291Z"
     }
   ],
   "withdrawals": [],
