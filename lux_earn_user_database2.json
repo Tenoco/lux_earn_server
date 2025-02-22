@@ -13092,7 +13092,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:05:52.377Z"
+      "joinDate": "2025-02-22T20:05:52.377Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "09039308673",
+      "email": "Preciousrichard38@gmail.com",
+      "encrypted_password": "d7ce670342461d5ab8776747a39d4c22",
+      "referral_code": "093GE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:05:58.607Z"
     }
   ],
   "withdrawals": [
