@@ -525,7 +525,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T07:20:55.453Z"
+      "joinDate": "2025-02-22T07:20:55.453Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Evelyn1",
+      "email": "evelynobi360@gmail.com",
+      "encrypted_password": "0887e386299e8a21f2fb5e224a70b2f6",
+      "referral_code": "EVU1X",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:21:05.655Z"
     }
   ],
   "withdrawals": [],
