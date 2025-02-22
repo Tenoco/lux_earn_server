@@ -7613,11 +7613,12 @@
         "Zuubi",
         "Fudal",
         "Fattee",
-        "Hajjo"
+        "Hajjo",
+        "Waddiyya"
       ],
       "balance": 68,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -8431,6 +8432,21 @@
       "joinDate": "2025-02-21T06:28:04.686Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T06:28:42.948Z"
+    },
+    {
+      "username": "Waddiyya",
+      "email": "waddi@gmail.com",
+      "encrypted_password": "4428c6c474502e61151877825bb41961",
+      "referral_code": "WA3AK",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:38:45.010Z"
     }
   ],
   "withdrawals": [
