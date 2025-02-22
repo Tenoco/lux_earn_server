@@ -735,11 +735,12 @@
         "Nosarex0",
         "danky",
         "fmdollar",
-        "Bigmatix"
+        "Bigmatix",
+        "Leo063"
       ],
       "balance": 0,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -38544,12 +38545,27 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:51:35.046Z",
-      "lastSpin": "2025-02-22T10:53:36.088Z",
       "completedMissions": [
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:53:36.088Z"
+    },
+    {
+      "username": "Leo063",
+      "email": "goodluckcovenant8@gmail.com",
+      "encrypted_password": "0bb76e72f5c66e43298a5f9c99b92c41",
+      "referral_code": "LEUPH",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:57:08.929Z"
     }
   ],
   "withdrawals": [
