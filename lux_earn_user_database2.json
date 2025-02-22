@@ -13225,7 +13225,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:11:20.077Z"
+      "joinDate": "2025-02-22T20:11:20.077Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "FUNSHO ",
+      "email": "ameensikirat@gmail.com",
+      "encrypted_password": "3e2674a7969a15af590497a7a7643104",
+      "referral_code": "FU0CF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:11:28.957Z"
     }
   ],
   "withdrawals": [
