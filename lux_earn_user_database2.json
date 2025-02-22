@@ -14831,7 +14831,7 @@
       "inviter_referral_code": "NIMBV",
       "inviter_username": "Niffyperry",
       "invited_users": [],
-      "balance": 160,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14846,7 +14846,8 @@
         12,
         11,
         10,
-        9
+        9,
+        8
       ],
       "lastSpin": null
     },
@@ -15012,7 +15013,8 @@
       "joinDate": "2025-02-22T21:41:05.409Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Billionsking",
