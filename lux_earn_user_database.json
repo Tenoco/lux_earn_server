@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Ayoade Michael "
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38535,6 +38536,21 @@
       "joinDate": "2025-02-22T11:25:35.590Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayoade Michael ",
+      "email": "ayoademichael31@gmail.com",
+      "encrypted_password": "806073462f3459a3df74aa8c5f5e7981",
+      "referral_code": "AYH6B",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:36:51.583Z"
     }
   ],
   "withdrawals": [
