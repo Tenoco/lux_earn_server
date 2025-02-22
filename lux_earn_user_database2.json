@@ -6617,7 +6617,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Favourites ",
@@ -6669,6 +6670,21 @@
       "joinDate": "2025-02-22T14:56:45.522Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "idahosa ",
+      "email": "alexidahosa165@gmail.com",
+      "encrypted_password": "007161e2dbe4a1c44e6a1ac5cdb149b8",
+      "referral_code": "IDWLH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:02:28.454Z"
     }
   ],
   "withdrawals": [],
