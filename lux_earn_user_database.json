@@ -38578,14 +38578,18 @@
       "inviter_referral_code": "Insideme ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1050,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:41:39.280Z",
       "completedMissions": [
-        2
+        2,
+        1,
+        1,
+        1,
+        1
       ]
     }
   ],
