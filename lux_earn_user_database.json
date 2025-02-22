@@ -15652,11 +15652,12 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": "SIRBLACKMEDIA",
       "invited_users": [
-        "Bigboss234"
+        "Bigboss234",
+        "MUHAMMAD"
       ],
       "balance": 255,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:41:00.642Z",
@@ -38580,6 +38581,21 @@
       "joinDate": "2025-02-22T05:15:53.705Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "MUHAMMAD",
+      "email": "abuyaasiralansori@gmail.com",
+      "encrypted_password": "267a22b933f9df64ec59fbb7a6eca0dc",
+      "referral_code": "MU53W",
+      "inviter_referral_code": "WINWC",
+      "inviter_username": "willsmith234",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T05:23:36.140Z"
     }
   ],
   "withdrawals": [
