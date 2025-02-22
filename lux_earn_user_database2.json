@@ -2997,6 +2997,24 @@
       "joinDate": "2025-02-22T11:10:11.012Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lêkêwêbø",
+      "email": "horlartunjihareef@gmail.com",
+      "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
+      "referral_code": "LÊJIB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1010,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:08:41.461Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [],
