@@ -7905,6 +7905,27 @@
       "joinDate": "2025-02-22T16:20:10.820Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny67",
+      "email": "Josephjohn678578@gmail.com",
+      "encrypted_password": "9cedef77a40f52e8c12be79c7e559dfc",
+      "referral_code": "JOO8R",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 91,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:26:52.869Z",
+      "completedMissions": [
+        8,
+        3,
+        3
+      ],
+      "lastSpin": "2025-02-21T07:32:37.176Z"
     }
   ],
   "withdrawals": [],
