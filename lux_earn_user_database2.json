@@ -4597,7 +4597,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T12:38:13.070Z"
+      "joinDate": "2025-02-22T12:38:13.070Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Macdonald ",
+      "email": "leonarddior50@gmail.com",
+      "encrypted_password": "454dc38b4971850828541223fd9ed66f",
+      "referral_code": "MAEVO",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:38:39.159Z"
     }
   ],
   "withdrawals": [],
