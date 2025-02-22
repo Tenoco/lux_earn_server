@@ -35,11 +35,12 @@
         "Drone",
         "Shemzy",
         "Uzor",
-        "krimicrispy "
+        "krimicrispy ",
+        "OMOBATVMEDIA"
       ],
       "balance": 5503,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -37607,6 +37608,21 @@
       "joinDate": "2025-02-22T01:15:04.944Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "OMOBATVMEDIA",
+      "email": "tvomoba@gmail.com",
+      "encrypted_password": "3e589257f5d54f34a7a06e14113d488c",
+      "referral_code": "OMQTF",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:19:04.633Z"
     }
   ],
   "withdrawals": [
