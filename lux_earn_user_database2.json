@@ -7605,11 +7605,12 @@
       "inviter_username": null,
       "invited_users": [
         "Zuubi",
-        "Fudal"
+        "Fudal",
+        "Fattee"
       ],
       "balance": 68,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -8199,6 +8200,21 @@
       "joinDate": "2025-02-22T16:30:41.729Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fattee",
+      "email": "fatee@gmail.com",
+      "encrypted_password": "4428c6c474502e61151877825bb41961",
+      "referral_code": "FA3DI",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:32:15.322Z"
     }
   ],
   "withdrawals": [
