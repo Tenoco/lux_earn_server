@@ -1849,7 +1849,8 @@
         5,
         6,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Emmaberry",
@@ -1918,6 +1919,21 @@
       "joinDate": "2025-02-22T09:23:58.772Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "BigJohn ",
+      "email": "brightdelight65@gmail.com",
+      "encrypted_password": "987af98f0cbe2505a3854f3ad9bfa4d6",
+      "referral_code": "BIAHI",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:25:05.933Z"
     }
   ],
   "withdrawals": [],
