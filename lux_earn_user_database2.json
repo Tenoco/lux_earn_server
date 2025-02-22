@@ -12265,14 +12265,16 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [],
-      "balance": 0,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:38:22.972Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ],
+      "lastSpin": "2025-02-22T19:41:47.335Z"
     },
     {
       "username": "Jdudbdjd5",
@@ -12330,7 +12332,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:41:32.949Z"
+      "joinDate": "2025-02-22T19:41:32.949Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
