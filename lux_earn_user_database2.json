@@ -503,10 +503,12 @@
       "referral_code": "JEU7W",
       "inviter_referral_code": "HABXB",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayokanmi"
+      ],
       "balance": 130,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:16:34.322Z",
@@ -1066,7 +1068,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:55:35.482Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-22T07:56:23.367Z"
+    },
+    {
+      "username": "Ayokanmi",
+      "email": "ayokanmi2004@gmail.com",
+      "encrypted_password": "afd4c96c2a614bd90885d4308f51a8ac",
+      "referral_code": "AYSSX",
+      "inviter_referral_code": "JEU7W",
+      "inviter_username": "Jesutofunmi Rowland ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:57:06.927Z"
     }
   ],
   "withdrawals": [],
