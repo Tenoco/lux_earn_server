@@ -2779,11 +2779,12 @@
         "Tesseyde11",
         "FortyEight048",
         "Kikebabe22",
-        "Jonaholuji1"
+        "Jonaholuji1",
+        "Oladeji123"
       ],
       "balance": 1000,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -5558,7 +5559,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T13:25:26.966Z"
+      "joinDate": "2025-02-22T13:25:26.966Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oladeji123",
+      "email": "oladejisamuel837@gmail.com",
+      "encrypted_password": "e460ab2ec8fae94f8f1711c81ad31b07",
+      "referral_code": "OL4VC",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:25:58.549Z"
     }
   ],
   "withdrawals": [],
