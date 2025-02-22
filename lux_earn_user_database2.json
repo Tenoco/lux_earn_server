@@ -13560,11 +13560,12 @@
       "inviter_username": "Ayanwole",
       "invited_users": [
         "Testimony ",
-        "Biskld"
+        "Biskld",
+        "Abdul52"
       ],
       "balance": 225,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -15741,6 +15742,21 @@
       "joinDate": "2025-02-22T22:41:14.696Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdul52",
+      "email": "abdulqudustunde1@gmail.com",
+      "encrypted_password": "eca957bd38f03f858355de2701603e00",
+      "referral_code": "ABGEV",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:44:30.431Z"
     }
   ],
   "withdrawals": [
