@@ -15870,7 +15870,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 220,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15887,7 +15887,8 @@
         12,
         12,
         9,
-        7
+        7,
+        8
       ],
       "lastSpin": "2025-02-22T23:02:22.021Z"
     },
@@ -15984,7 +15985,8 @@
         9,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Victoria Emeshiobi ",
