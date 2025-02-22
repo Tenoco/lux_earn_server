@@ -26710,11 +26710,12 @@
         "Oluwapelumi ",
         "oluwarotimi",
         "Eliza",
-        "jacobk"
+        "jacobk",
+        "Davidvida"
       ],
       "balance": 200,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:43:50.239Z",
@@ -37887,6 +37888,21 @@
       "joinDate": "2025-02-22T02:18:58.827Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davidvida",
+      "email": "adidi@gmail.com",
+      "encrypted_password": "d856d47fb2b3e03d94677ff7f0d0c6fd",
+      "referral_code": "DA6LH",
+      "inviter_referral_code": "OLFCG",
+      "inviter_username": "Olamokas",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T02:21:58.088Z"
     }
   ],
   "withdrawals": [
