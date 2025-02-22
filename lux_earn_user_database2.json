@@ -9040,14 +9040,14 @@
       "inviter_referral_code": "JEJ0P",
       "inviter_username": "Jennie ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:04:27.256Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-22T19:07:27.359Z"
     },
     {
       "username": "Mike jay ",
@@ -11461,7 +11461,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:07:14.002Z"
+      "joinDate": "2025-02-22T19:07:14.002Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
