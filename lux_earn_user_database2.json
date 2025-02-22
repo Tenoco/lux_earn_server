@@ -2382,10 +2382,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:10:47.062Z",
-      "lastSpin": "2025-02-22T10:11:07.597Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-22T10:11:07.597Z"
     },
     {
       "username": "Yusuff",
@@ -2403,6 +2403,21 @@
       "joinDate": "2025-02-22T10:13:16.546Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olaotan24 ",
+      "email": "Olaotan24@gmail.com",
+      "encrypted_password": "cc98a1d32a0cc7c93863c215d99e1b30",
+      "referral_code": "OLYK8",
+      "inviter_referral_code": "DIUJS",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:15:15.429Z"
     }
   ],
   "withdrawals": [],
