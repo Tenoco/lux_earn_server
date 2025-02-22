@@ -9358,7 +9358,8 @@
         1,
         2,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "John5210",
@@ -9391,6 +9392,21 @@
         3
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Daves",
+      "email": "davesterry44@gmail.com",
+      "encrypted_password": "a488c1e3a890ac917f816d51e8e3eb63",
+      "referral_code": "DACN9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T17:35:52.416Z"
     }
   ],
   "withdrawals": [
