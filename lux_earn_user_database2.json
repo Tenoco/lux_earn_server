@@ -10000,7 +10000,30 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T18:14:00.035Z"
+      "joinDate": "2025-02-22T18:14:00.035Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Beverly",
+      "email": "beverlyk754@gmail.com",
+      "encrypted_password": "7d80c84d5f614b3449f13eb776f80cf1",
+      "referral_code": "BE2T2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Elizabeth "
+      ],
+      "balance": 85,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:02:26.644Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
