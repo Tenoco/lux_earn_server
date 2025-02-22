@@ -38497,7 +38497,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T05:07:33.095Z"
+      "joinDate": "2025-02-22T05:07:33.095Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ThankGod",
+      "email": "sundaythankgod537@gmail.com",
+      "encrypted_password": "382282865b58b3d680720ffd9b2347be",
+      "referral_code": "THI8O",
+      "inviter_referral_code": "Thankg2266",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:10:14.440Z"
     }
   ],
   "withdrawals": [
