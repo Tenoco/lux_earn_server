@@ -81,7 +81,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:51:36.770Z"
+      "joinDate": "2025-02-22T06:51:36.770Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vice11",
+      "email": "jj9875611@gmail.com",
+      "encrypted_password": "bf1ada47ade72b5e060d2d1f3b7a1a14",
+      "referral_code": "VIM4T",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:51:58.027Z"
     }
   ],
   "withdrawals": [],
