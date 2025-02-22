@@ -38527,7 +38527,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Amina06",
@@ -38537,7 +38538,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": "COACHTINA",
       "invited_users": [],
-      "balance": 1040,
+      "balance": 1060,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38546,9 +38547,9 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5
+      ]
     },
     {
       "username": "Phantomffx",
