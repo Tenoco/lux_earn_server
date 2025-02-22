@@ -2314,7 +2314,8 @@
         1,
         4,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "olababy",
@@ -2380,20 +2381,21 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1087,
+      "balance": 1107,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:10:47.062Z",
+      "lastSpin": "2025-02-22T10:11:07.597Z",
       "completedMissions": [
         1,
         4,
         12,
         11,
-        10
-      ],
-      "lastSpin": "2025-02-22T10:11:07.597Z"
+        10,
+        8
+      ]
     },
     {
       "username": "Yusuff",
