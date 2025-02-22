@@ -9157,7 +9157,8 @@
       "joinDate": "2025-02-22T17:15:45.370Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "folakemi ",
@@ -9208,13 +9209,15 @@
       "inviter_referral_code": "MR2HP",
       "inviter_username": "Mrhalifa12 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:41:30.311Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     }
   ],
