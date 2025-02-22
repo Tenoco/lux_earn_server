@@ -10455,11 +10455,12 @@
       "invited_users": [
         "Abubakari ",
         "Uytrrtuu",
-        "Kjhfdfuji"
+        "Kjhfdfuji",
+        "Ijjggfg"
       ],
       "balance": 210,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:26:55.761Z",
@@ -11685,7 +11686,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T19:14:28.503Z"
+      "joinDate": "2025-02-22T19:14:28.503Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ijjggfg",
+      "email": "afghjjklh@gmail.com",
+      "encrypted_password": "423ef01d9dd8375a9fccdb45c7004d22",
+      "referral_code": "IJLJQ",
+      "inviter_referral_code": "AL4BB",
+      "inviter_username": "Alhassan 001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:14:34.028Z"
     }
   ],
   "withdrawals": [
