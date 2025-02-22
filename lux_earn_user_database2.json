@@ -10751,7 +10751,7 @@
       "inviter_referral_code": "WINWC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10759,9 +10759,9 @@
       "joinDate": "2025-02-22T18:36:15.904Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Jokybill",
