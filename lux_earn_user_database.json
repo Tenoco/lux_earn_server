@@ -34778,14 +34778,15 @@
       "inviter_referral_code": "DECIC",
       "inviter_username": "Debby030",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:36:02.277Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
