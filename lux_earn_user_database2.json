@@ -15711,12 +15711,15 @@
       "inviter_referral_code": "AYQ3E",
       "inviter_username": "Ayo33 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T22:38:25.250Z"
+      "joinDate": "2025-02-22T22:38:25.250Z",
+      "completedMissions": [
+        4
+      ]
     }
   ],
   "withdrawals": [
