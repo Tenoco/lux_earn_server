@@ -2865,7 +2865,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T11:00:01.484Z"
+      "joinDate": "2025-02-22T11:00:01.484Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Latmuz ",
+      "email": "musibauabdulmaleek@gmail.com",
+      "encrypted_password": "55897b40b6093edf138db436532a5b1b",
+      "referral_code": "LAC02",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:01:34.053Z"
     }
   ],
   "withdrawals": [],
