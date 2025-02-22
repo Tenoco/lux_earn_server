@@ -1838,7 +1838,7 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1050,
+      "balance": 1070,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1847,7 +1847,8 @@
       "completedMissions": [
         5,
         5,
-        6
+        6,
+        8
       ]
     },
     {
