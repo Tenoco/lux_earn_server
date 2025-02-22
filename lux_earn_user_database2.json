@@ -6633,11 +6633,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Danpromi"
+        "Danpromi",
+        "Vickyjay"
       ],
       "balance": 78,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:51:50.760Z",
@@ -8576,6 +8577,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Vickyjay",
+      "email": "vickyjay@gmail.com",
+      "encrypted_password": "9c54a529bfa45fd52df4e7df2fe7b1f7",
+      "referral_code": "VIBBD",
+      "inviter_referral_code": "MA9HU",
+      "inviter_username": "Matthew789 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:44:29.245Z"
     }
   ],
   "withdrawals": [
