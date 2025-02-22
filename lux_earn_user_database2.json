@@ -764,7 +764,8 @@
       "completedMissions": [
         5,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nemiwizzy",
@@ -799,6 +800,21 @@
       "joinDate": "2025-02-22T07:39:05.908Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Princezazu",
+      "email": "princewillcyril838@gmail.com",
+      "encrypted_password": "5eee2ff44070ecca75f0444f3c3ecad8",
+      "referral_code": "PROWB",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:39:44.540Z"
     }
   ],
   "withdrawals": [],
