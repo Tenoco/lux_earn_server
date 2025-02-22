@@ -15048,11 +15048,12 @@
         "Divine ",
         "Jibola",
         "Ashabi",
-        "Wiskid"
+        "Wiskid",
+        "Bankai"
       ],
       "balance": 300,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:33:05.527Z",
@@ -38536,7 +38537,23 @@
       "joinDate": "2025-02-22T06:48:20.150Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Bankai",
+      "email": "kokisem782@yalcu.com",
+      "encrypted_password": "9b061483d012e82e840fe92a7ecdef10",
+      "referral_code": "BA93L",
+      "inviter_referral_code": "SUB6O",
+      "inviter_username": "Sungjinwoo123 ",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:49:50.384Z"
     }
   ],
   "withdrawals": [
