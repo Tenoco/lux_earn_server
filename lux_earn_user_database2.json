@@ -6883,14 +6883,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:13:07.065Z",
-      "lastSpin": "2025-02-22T15:14:48.199Z",
       "completedMissions": [
         1,
         2,
         13,
         12,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-22T15:14:48.199Z"
     },
     {
       "username": "Favy",
@@ -6976,6 +6976,21 @@
       "joinDate": "2025-02-22T15:19:32.648Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chidima ",
+      "email": "ogechukwujudith766@gmail.com",
+      "encrypted_password": "41d385779531cc3e95ec248c2b21b15a",
+      "referral_code": "CHQN8",
+      "inviter_referral_code": "OL6TF",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:19:46.036Z"
     }
   ],
   "withdrawals": [],
