@@ -6246,7 +6246,7 @@
       "inviter_referral_code": "Su4b5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 31,
+      "balance": 51,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6255,7 +6255,8 @@
       "completedMissions": [
         1,
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-22T14:41:24.143Z"
     },
@@ -6326,7 +6327,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:37:17.378Z",
-      "lastSpin": "2025-02-22T14:38:06.498Z",
       "completedMissions": [
         1,
         2,
@@ -6337,7 +6337,8 @@
         6,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-22T14:38:06.498Z"
     },
     {
       "username": "praise33",
