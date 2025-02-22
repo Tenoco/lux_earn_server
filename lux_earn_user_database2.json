@@ -2085,14 +2085,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1030,
+      "balance": 1040,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:41:43.711Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-22T09:45:12.806Z"
+      "lastSpin": "2025-02-22T09:45:12.806Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Solo",
