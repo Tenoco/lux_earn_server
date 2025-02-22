@@ -11273,7 +11273,7 @@
       "inviter_referral_code": "ESMUF",
       "inviter_username": "Esther",
       "invited_users": [],
-      "balance": 41,
+      "balance": 81,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11282,7 +11282,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T18:58:49.130Z"
     },
@@ -11615,7 +11617,8 @@
         9,
         11,
         13
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nickipearl ",
