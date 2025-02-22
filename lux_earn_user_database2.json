@@ -1890,7 +1890,8 @@
       "joinDate": "2025-02-22T09:23:08.886Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Schoolboy419",
@@ -1958,20 +1959,21 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1090,
+      "balance": 1100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:27:59.994Z",
+      "lastSpin": "2025-02-22T09:30:10.776Z",
       "completedMissions": [
         1,
         2,
         4,
         5,
-        5
-      ],
-      "lastSpin": "2025-02-22T09:30:10.776Z"
+        5,
+        6
+      ]
     },
     {
       "username": "Mannyrichie ",
