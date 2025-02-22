@@ -2365,7 +2365,8 @@
       "joinDate": "2025-02-22T10:10:19.014Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tomiwa",
@@ -2383,6 +2384,21 @@
       "joinDate": "2025-02-22T10:10:47.062Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T10:11:07.597Z"
+    },
+    {
+      "username": "Yusuff",
+      "email": "yusuffbakare8@gmail.com",
+      "encrypted_password": "64e641a6ce898d18e419c9975099ddca",
+      "referral_code": "YUADO",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:13:16.546Z"
     }
   ],
   "withdrawals": [],
