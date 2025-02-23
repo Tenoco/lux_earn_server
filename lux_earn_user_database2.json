@@ -21923,7 +21923,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:18:46.196Z"
+      "joinDate": "2025-02-23T10:18:46.196Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Korede",
+      "email": "warisalaba9@gmail.com",
+      "encrypted_password": "4bbfadbd2002fc5763a352596136409a",
+      "referral_code": "KOE41",
+      "inviter_referral_code": "code:FAN3X",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:19:11.726Z"
     }
   ],
   "withdrawals": [
