@@ -19948,11 +19948,12 @@
       "inviter_username": null,
       "invited_users": [
         "Nat",
-        "Marv766"
+        "Marv766",
+        "Omotayo647383726"
       ],
       "balance": 275,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -20271,6 +20272,21 @@
       "joinDate": "2025-02-23T08:28:09.342Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Omotayo647383726",
+      "email": "akoredesales77@gmail.com",
+      "encrypted_password": "5e341d562e445d7d8bfbb4b3b712c47f",
+      "referral_code": "OMC1R",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:29:10.895Z"
     }
   ],
   "withdrawals": [
