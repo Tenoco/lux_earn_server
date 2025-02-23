@@ -28989,14 +28989,15 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:20:07.720Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Adeniyi Adeola Hephzibah",
@@ -29028,7 +29029,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:22:18.185Z"
+      "joinDate": "2025-02-23T17:22:18.185Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
