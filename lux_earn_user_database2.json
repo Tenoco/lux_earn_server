@@ -18153,11 +18153,12 @@
       "inviter_referral_code": "HO189",
       "inviter_username": "Holar",
       "invited_users": [
-        "Kidding "
+        "Kidding ",
+        "Baggy"
       ],
       "balance": 272,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -18561,7 +18562,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dandee ",
@@ -18647,6 +18649,21 @@
       "joinDate": "2025-02-23T06:56:15.481Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Baggy",
+      "email": "foin@chefmiss.com",
+      "encrypted_password": "f638f4354ff089323d1a5f78fd8f63ca",
+      "referral_code": "BAZOQ",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:58:15.655Z"
     }
   ],
   "withdrawals": [
