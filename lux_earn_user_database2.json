@@ -21751,7 +21751,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:06:48.789Z"
+      "joinDate": "2025-02-23T10:06:48.789Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ch@rles",
+      "email": "charlesifenna4@gmail.com",
+      "encrypted_password": "c7edec78f920e7c3bfefafcce881d4b4",
+      "referral_code": "CH43H",
+      "inviter_referral_code": "BON0X",
+      "inviter_username": "Boss50",
+      "invited_users": [
+        "Adebisi1",
+        "Anonymous "
+      ],
+      "balance": 170,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:38:03.772Z",
+      "completedMissions": [
+        1,
+        2,
+        9,
+        5,
+        4
+      ],
+      "lastSpin": "2025-02-21T10:40:47.204Z"
     }
   ],
   "withdrawals": [
