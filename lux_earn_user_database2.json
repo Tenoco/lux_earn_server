@@ -31795,7 +31795,7 @@
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
       "invited_users": [],
-      "balance": 40,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31804,7 +31804,8 @@
       "completedMissions": [
         2,
         4,
-        1
+        1,
+        6
       ],
       "lastSpin": null
     },
@@ -31980,7 +31981,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:43:49.930Z"
+      "joinDate": "2025-02-23T20:43:49.930Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
