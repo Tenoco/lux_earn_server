@@ -27125,6 +27125,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:01:50.203Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T15:09:52.332Z"
     },
     {
@@ -27152,7 +27153,7 @@
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27160,7 +27161,8 @@
       "joinDate": "2025-02-23T15:05:08.070Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
