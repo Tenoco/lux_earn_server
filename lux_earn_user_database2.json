@@ -3909,11 +3909,12 @@
         "EmmanuellaOdun",
         "innocent69",
         "Marvis",
-        "UniqueSlug "
+        "UniqueSlug ",
+        "MaxPuppi "
       ],
       "balance": 1010,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -33716,6 +33717,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "MaxPuppi ",
+      "email": "carlottakrause80@gmail.com",
+      "encrypted_password": "a35294348161b770f29c32a440c9dbf3",
+      "referral_code": "MA55T",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:49:07.171Z"
     }
   ],
   "withdrawals": [
