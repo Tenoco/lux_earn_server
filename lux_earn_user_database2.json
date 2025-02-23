@@ -22149,14 +22149,15 @@
         "Ola",
         "Jay"
       ],
-      "balance": 50,
+      "balance": 60,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T10:34:47.366Z"
     },
