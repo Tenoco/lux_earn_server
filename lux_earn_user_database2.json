@@ -26077,7 +26077,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 452,
+      "balance": 502,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26109,9 +26109,10 @@
         10,
         10,
         11,
-        16
+        16,
+        15
       ],
-      "lastSpin": "2025-02-23T19:43:08.489Z"
+      "lastSpin": "2025-02-23T19:43:09.210Z"
     },
     {
       "username": "Samify ",
@@ -30621,7 +30622,8 @@
         15,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Eyrammm",
