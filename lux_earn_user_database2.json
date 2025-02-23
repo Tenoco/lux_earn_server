@@ -30971,17 +30971,22 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 65,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:59:26.494Z",
+      "lastSpin": "2025-02-23T20:00:55.162Z",
       "completedMissions": [
         4,
-        4
-      ],
-      "lastSpin": "2025-02-23T20:00:55.162Z"
+        4,
+        1,
+        1,
+        6,
+        15,
+        10
+      ]
     },
     {
       "username": "Lavsjd",
