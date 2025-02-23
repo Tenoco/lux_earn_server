@@ -23054,7 +23054,7 @@
       "invited_users": [
         "Minnah24"
       ],
-      "balance": 634,
+      "balance": 714,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -23081,7 +23081,11 @@
         10,
         10,
         11,
-        11
+        11,
+        12,
+        12,
+        12,
+        14
       ],
       "lastSpin": "2025-02-22T13:00:59.198Z"
     },
@@ -23115,7 +23119,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:34:54.207Z"
+      "joinDate": "2025-02-23T11:34:54.207Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
