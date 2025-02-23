@@ -22920,11 +22920,12 @@
         "Clinton456",
         "Kinsley452",
         "Mercy4552",
-        "Favour41fa*"
+        "Favour41fa*",
+        "Mayorzip34#@"
       ],
       "balance": 255,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -27172,7 +27173,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:06:17.005Z"
+      "joinDate": "2025-02-23T15:06:17.005Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mayorzip34#@",
+      "email": "mayorfrosh27@gmail.com",
+      "encrypted_password": "ba067b179eb3afa2d6b1538c4f54434f",
+      "referral_code": "MACAI",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:07:33.682Z"
     }
   ],
   "withdrawals": [
