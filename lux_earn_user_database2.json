@@ -27238,11 +27238,12 @@
       "inviter_username": "BkGraphics001",
       "invited_users": [
         "Victor 4",
-        "Tosin "
+        "Tosin ",
+        "Dammy "
       ],
       "balance": 161,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:08:04.031Z",
@@ -27464,7 +27465,8 @@
       "joinDate": "2025-02-23T15:24:32.670Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Adedoyin1999",
@@ -27495,6 +27497,21 @@
         9
       ],
       "lastSpin": "2025-02-20T23:16:35.140Z"
+    },
+    {
+      "username": "Dammy ",
+      "email": "damilola23@gmail.coma",
+      "encrypted_password": "2dfca2d85f4b361c0a276354fefec67f",
+      "referral_code": "DAVQK",
+      "inviter_referral_code": "BLMXT",
+      "inviter_username": "BLESSYN 33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:28:47.231Z"
     }
   ],
   "withdrawals": [
