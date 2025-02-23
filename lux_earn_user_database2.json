@@ -6507,11 +6507,12 @@
         "Annastasia",
         "Oscar",
         "Chinasa ",
-        "Option "
+        "Option ",
+        "Vickymonet "
       ],
       "balance": 138,
-      "refers": 118,
-      "referralBalance": 11800,
+      "refers": 119,
+      "referralBalance": 11900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34148,6 +34149,21 @@
       "joinDate": "2025-02-23T23:27:58.832Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vickymonet ",
+      "email": "adesinavictor02@gmail.com",
+      "encrypted_password": "0ccf35b1b80688a5c7fc8947d7f66847",
+      "referral_code": "VIBO6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:36:49.917Z"
     }
   ],
   "withdrawals": [
