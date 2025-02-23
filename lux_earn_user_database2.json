@@ -16903,13 +16903,15 @@
       "inviter_referral_code": "PE7YT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T03:03:42.801Z",
-      "completedMissions": [],
+      "completedMissions": [
+        12
+      ],
       "lastSpin": "2025-02-23T03:28:55.594Z"
     },
     {
