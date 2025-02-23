@@ -24402,7 +24402,7 @@
       "inviter_referral_code": "AS6AA",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24413,7 +24413,10 @@
         2,
         4,
         5,
-        7
+        7,
+        12,
+        14,
+        10
       ],
       "lastSpin": null
     },
