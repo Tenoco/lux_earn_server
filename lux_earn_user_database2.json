@@ -22932,14 +22932,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:25:22.556Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T11:27:58.967Z"
+      "lastSpin": "2025-02-23T11:27:58.967Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Maleekayo ",
