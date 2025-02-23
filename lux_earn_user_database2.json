@@ -16242,11 +16242,12 @@
         "Rokeeb ",
         "Omotayo ",
         "Rokeeb omotayo ",
-        "Molarao"
+        "Molarao",
+        "Olahitun"
       ],
       "balance": 262,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:53:41.039Z",
@@ -16679,7 +16680,23 @@
       "joinDate": "2025-02-23T01:46:39.614Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Olahitun",
+      "email": "liadirokeeb11@gmail.com",
+      "encrypted_password": "12ec9b226ab3186b2d0876c248191224",
+      "referral_code": "OLNTL",
+      "inviter_referral_code": "OMDV9",
+      "inviter_username": "Omotayo01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:49:17.802Z"
     }
   ],
   "withdrawals": [
