@@ -13520,11 +13520,12 @@
       "invited_users": [
         "ChocoMarley ",
         "Wisdom chidiebere ",
-        "Micho"
+        "Micho",
+        "Sunny4404"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -20631,6 +20632,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Sunny4404",
+      "email": "riskubalamisunday@gmail.com",
+      "encrypted_password": "ad3c51025a37fb5db57d289e48c850ef",
+      "referral_code": "SUBK8",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:51:55.681Z"
     }
   ],
   "withdrawals": [
