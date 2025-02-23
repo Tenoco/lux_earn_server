@@ -16646,7 +16646,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 100,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16658,9 +16658,9 @@
         4,
         4,
         13,
-        12
-      ],
-      "lastSpin": null
+        12,
+        5
+      ]
     }
   ],
   "withdrawals": [
