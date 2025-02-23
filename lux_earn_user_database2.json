@@ -11109,11 +11109,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abu006",
-        "Precious"
+        "Precious",
+        "Peterly"
       ],
       "balance": 130,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -31992,6 +31993,21 @@
       "joinDate": "2025-02-23T20:43:49.930Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peterly",
+      "email": "webfavfours543@gmail.com",
+      "encrypted_password": "ccebefdad0ceaf2e9ad9aeafdaf66696",
+      "referral_code": "PE6I7",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:45:07.367Z"
     }
   ],
   "withdrawals": [
