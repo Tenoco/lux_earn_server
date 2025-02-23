@@ -21388,11 +21388,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Allowance"
+        "Allowance",
+        "Joy"
       ],
       "balance": 235,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
@@ -21805,6 +21806,21 @@
       "joinDate": "2025-02-23T10:07:15.738Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joy",
+      "email": "kennyjoy280@gmail.com",
+      "encrypted_password": "68a93bfbf68957910ab3a8dad2e84b16",
+      "referral_code": "JO9RG",
+      "inviter_referral_code": "GIW62",
+      "inviter_username": "gideonx",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:11:51.169Z"
     }
   ],
   "withdrawals": [
