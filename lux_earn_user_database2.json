@@ -27229,11 +27229,12 @@
       "invited_users": [
         "Dheevah",
         "Skyler",
-        "Eyrammm"
+        "Eyrammm",
+        "Omoking "
       ],
       "balance": 125,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30700,7 +30701,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:47:16.534Z"
+      "joinDate": "2025-02-23T19:47:16.534Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omoking ",
+      "email": "favouromoba55@gmail.com",
+      "encrypted_password": "84dcbdf710888da4de8ce2a5e174959f",
+      "referral_code": "OMP6P",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:48:28.074Z"
     }
   ],
   "withdrawals": [
