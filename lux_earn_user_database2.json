@@ -16684,7 +16684,8 @@
         2,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olahitun",
@@ -16702,6 +16703,21 @@
       "joinDate": "2025-02-23T01:49:17.802Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Musatanko556 ",
+      "email": "musatanko556@gmail.com",
+      "encrypted_password": "6aa5d6cb0da4b3e0853f2185f4066b67",
+      "referral_code": "MUFG5",
+      "inviter_referral_code": "VAX02 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:50:51.140Z"
     }
   ],
   "withdrawals": [
