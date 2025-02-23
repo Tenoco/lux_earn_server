@@ -15089,11 +15089,12 @@
       "inviter_referral_code": "NIMBV",
       "inviter_username": "Niffyperry",
       "invited_users": [
-        "Fuqun"
+        "Fuqun",
+        "Fawas"
       ],
       "balance": 200,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:34:34.889Z",
@@ -19338,6 +19339,21 @@
       "joinDate": "2025-02-23T07:39:50.360Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fawas",
+      "email": "adamsfawas17@gmail.com",
+      "encrypted_password": "b65ac1467d0be7cdf010baf68837a472",
+      "referral_code": "FAN3X",
+      "inviter_referral_code": "ANE1B",
+      "inviter_username": "Anjolaoluwa ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:40:21.700Z"
     }
   ],
   "withdrawals": [
