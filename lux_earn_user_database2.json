@@ -20903,14 +20903,15 @@
       "inviter_referral_code": "OD7RC",
       "inviter_username": "Odubiyi nofiu",
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:47:22.987Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T16:37:13.208Z"
     },
@@ -28489,7 +28490,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:34:27.033Z",
-      "lastSpin": "2025-02-23T16:34:46.340Z",
       "completedMissions": [
         2,
         1,
@@ -28499,7 +28499,8 @@
         4,
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-23T16:34:46.340Z"
     },
     {
       "username": "adedapofaishat@gmail.com",
