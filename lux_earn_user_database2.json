@@ -18725,11 +18725,12 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
       "invited_users": [
-        "ayanwaleadewale14@gmail.com"
+        "ayanwaleadewale14@gmail.com",
+        "Sarafc"
       ],
       "balance": 240,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:51:22.896Z",
@@ -20729,6 +20730,21 @@
       "joinDate": "2025-02-23T08:55:48.557Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sarafc",
+      "email": "hayomide226@gmail.com",
+      "encrypted_password": "da21bbca54d339a4991fc6c6db075eb7",
+      "referral_code": "SA0HI",
+      "inviter_referral_code": "JOFDD",
+      "inviter_username": "Jormah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:59:01.886Z"
     }
   ],
   "withdrawals": [
