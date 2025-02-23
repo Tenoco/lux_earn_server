@@ -22215,7 +22215,7 @@
       "inviter_referral_code": "Vote ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 65,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22225,7 +22225,9 @@
         1,
         2,
         2,
-        4
+        4,
+        4,
+        5
       ],
       "lastSpin": "2025-02-23T10:42:21.589Z"
     },
