@@ -18633,14 +18633,15 @@
       "inviter_referral_code": "FALIV",
       "inviter_username": "Fawaz08",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:55:41.920Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Teetaiwo",
@@ -18724,6 +18725,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:01:30.929Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T07:02:13.151Z"
     },
     {
