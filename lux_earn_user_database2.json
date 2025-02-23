@@ -25991,11 +25991,12 @@
         "Emaculate36",
         "Quan123",
         "Jodan105",
-        "Maxwell212"
+        "Maxwell212",
+        "Pilot202"
       ],
       "balance": 170,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27297,7 +27298,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:11:51.091Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T15:13:46.368Z"
+    },
+    {
+      "username": "Pilot202",
+      "email": "marvins62@gmakl.com",
+      "encrypted_password": "13e9593a6695e47da5c3d9c688d89331",
+      "referral_code": "PIPTY",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:14:37.264Z"
     }
   ],
   "withdrawals": [
