@@ -23157,11 +23157,12 @@
         "Natsume ",
         "Brainiac",
         "Manuel12",
-        "rosylaura775"
+        "rosylaura775",
+        "Peacechinonso"
       ],
       "balance": 250,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -25444,7 +25445,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:30:07.120Z"
+      "joinDate": "2025-02-23T13:30:07.120Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peacechinonso",
+      "email": "Chinonsoann2000@gmail.com",
+      "encrypted_password": "534888b8f9a9ee48272989fe27c043af",
+      "referral_code": "PE0SF",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:30:17.378Z"
     }
   ],
   "withdrawals": [
