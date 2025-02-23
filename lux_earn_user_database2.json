@@ -25946,10 +25946,12 @@
       "referral_code": "BRIEW",
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
-      "invited_users": [],
+      "invited_users": [
+        "Daniel"
+      ],
       "balance": 170,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -26363,7 +26365,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:29:04.508Z"
+      "joinDate": "2025-02-23T14:29:04.508Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Daniel",
+      "email": "stephenoloh@gmail.com",
+      "encrypted_password": "d7f94f4121a78e5f045fddd59a5c9bc1",
+      "referral_code": "DA2RI",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:30:07.796Z"
     }
   ],
   "withdrawals": [
