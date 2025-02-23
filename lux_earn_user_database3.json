@@ -10,7 +10,7 @@
       "invited_users": [
         "Tech"
       ],
-      "balance": 5000,
+      "balance": 4000,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -20,7 +20,19 @@
       "lastSpin": null
     }
   ],
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "accountName": "27y2u2",
+      "accountNumber": "276272",
+      "bank": "Zenith Bank",
+      "amount": 1000,
+      "totalBalance": 5000,
+      "timestamp": "2025-02-23T07:34:51.893Z",
+      "status": "pending"
+    }
+  ],
   "missions": [],
   "vtu": []
 }
