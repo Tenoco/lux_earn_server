@@ -20786,13 +20786,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
-      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13,
         12,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:02:58.099Z"
     },
     {
       "username": "Ibrahim salisu ",
@@ -20853,6 +20853,32 @@
       "status": "active",
       "joinDate": "2025-02-23T09:05:56.029Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mideruqouya",
+      "email": "ayomideruqouya2@gmail.com",
+      "encrypted_password": "f8c7243835626b833254abfe7c53f6eb",
+      "referral_code": "MIQP1",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [
+        "Zealkreation",
+        "abbaadamulawal",
+        "Kokos8",
+        "Adeeye Esther Omolayo ",
+        "Roseyjoy",
+        "Nikkypeller"
+      ],
+      "balance": 30,
+      "refers": 6,
+      "referralBalance": 600,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:59:36.778Z",
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     }
   ],
