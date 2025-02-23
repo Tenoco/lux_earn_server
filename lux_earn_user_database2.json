@@ -6426,11 +6426,12 @@
         "Olatunji kehinde Aderayo ",
         "Thelmachidera",
         "Presco",
-        "EmmaXchange "
+        "EmmaXchange ",
+        "Oni"
       ],
       "balance": 138,
-      "refers": 64,
-      "referralBalance": 6400,
+      "refers": 65,
+      "referralBalance": 6500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -28198,7 +28199,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:17:46.658Z"
+      "joinDate": "2025-02-23T16:17:46.658Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oni",
+      "email": "chiomaoji050@gmail.com",
+      "encrypted_password": "3d863b367aa379f71c7afc0c9cdca41d",
+      "referral_code": "ONOE6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:18:30.396Z"
     }
   ],
   "withdrawals": [
