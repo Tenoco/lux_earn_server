@@ -22767,11 +22767,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Bright253"
+        "Bright253",
+        "Chidi752"
       ],
       "balance": 255,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -25185,6 +25186,21 @@
       "joinDate": "2025-02-23T13:21:33.256Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chidi752",
+      "email": "marvelousemmanuel560@gmail.com",
+      "encrypted_password": "dade7e1feaee143d4ffc9d0f9697cdb0",
+      "referral_code": "CH0PV",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:22:05.102Z"
     }
   ],
   "withdrawals": [
