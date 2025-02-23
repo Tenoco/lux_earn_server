@@ -27698,7 +27698,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 20,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27706,9 +27706,11 @@
       "joinDate": "2025-02-23T15:44:01.831Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        5,
+        6
+      ]
     },
     {
       "username": "Rejoice love",
@@ -27770,7 +27772,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:50:05.829Z"
+      "joinDate": "2025-02-23T15:50:05.829Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
