@@ -18895,7 +18895,8 @@
         10,
         13,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "labdullahu",
@@ -19008,6 +19009,21 @@
         9
       ],
       "lastSpin": "2025-02-21T07:39:32.737Z"
+    },
+    {
+      "username": "Zubairu jibrin ",
+      "email": "kuduxubee@gmail.com",
+      "encrypted_password": "e436b6847dfc42aa69693612cb201a8c",
+      "referral_code": "ZUQ0Y",
+      "inviter_referral_code": "IBNG9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:16:56.181Z"
     }
   ],
   "withdrawals": [
