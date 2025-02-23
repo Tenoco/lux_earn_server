@@ -1390,10 +1390,12 @@
       "referral_code": "ABAYG",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "G7NASAMU "
+      ],
       "balance": 1011,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:28:32.815Z",
@@ -24494,6 +24496,21 @@
       "joinDate": "2025-02-22T20:59:09.698Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "G7NASAMU ",
+      "email": "musaibrahimisah2@gmail.com",
+      "encrypted_password": "354a7e1ee6f448a30c41a4ea39f1b4ce",
+      "referral_code": "G7FUL",
+      "inviter_referral_code": "ABAYG",
+      "inviter_username": "Abdulkadirmohd292@",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:46:37.037Z"
     }
   ],
   "withdrawals": [
