@@ -23016,11 +23016,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:29:31.033Z",
-      "lastSpin": "2025-02-23T11:30:46.144Z",
       "completedMissions": [
         1,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-23T11:30:46.144Z"
     },
     {
       "username": "EmmanuelOkechukwu ",
@@ -23084,6 +23084,21 @@
         11
       ],
       "lastSpin": "2025-02-22T13:00:59.198Z"
+    },
+    {
+      "username": "agiedia_57",
+      "email": "enaikatoagiediastanley@gmail.com",
+      "encrypted_password": "72e0b0ed187c8090ea713e14dac32a3e",
+      "referral_code": "AGCZ4",
+      "inviter_referral_code": "S12MH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:34:07.070Z"
     }
   ],
   "withdrawals": [
