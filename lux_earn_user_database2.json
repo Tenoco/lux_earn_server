@@ -26594,7 +26594,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 170,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26613,7 +26613,7 @@
         14,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T14:53:08.158Z"
     },
     {
       "username": "Michael ltv",
@@ -26983,7 +26983,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:52:31.652Z"
+      "joinDate": "2025-02-23T14:52:31.652Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
