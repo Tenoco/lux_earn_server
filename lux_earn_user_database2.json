@@ -17788,7 +17788,32 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:00:15.710Z"
+      "joinDate": "2025-02-23T06:00:15.710Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Munachi",
+      "email": "obunikemunachi@gmail.com",
+      "encrypted_password": "9726255eec083aa56dc0449a21b33190",
+      "referral_code": "MU4M2",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 158,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:23:15.464Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        3,
+        5
+      ],
+      "lastSpin": "2025-02-21T15:21:27.709Z"
     }
   ],
   "withdrawals": [
