@@ -340,11 +340,12 @@
         "John3",
         "CTO2",
         "Zoe",
-        "Mermer"
+        "Mermer",
+        "Rita70"
       ],
       "balance": 152,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17301,6 +17302,21 @@
       "joinDate": "2025-02-23T05:10:56.329Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rita70",
+      "email": "Rita70@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "RIA4Z",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:12:20.771Z"
     }
   ],
   "withdrawals": [
