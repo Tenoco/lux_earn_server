@@ -32393,7 +32393,32 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:07:00.492Z"
+      "joinDate": "2025-02-23T21:07:00.492Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Val998",
+      "email": "valentinaifeoluwa95@gmail.com",
+      "encrypted_password": "dab380436b50325b22550fa196ae45fb",
+      "referral_code": "VA7ZP",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:11:13.530Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
