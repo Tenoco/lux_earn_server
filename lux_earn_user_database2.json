@@ -23168,7 +23168,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23180,9 +23180,10 @@
         1,
         2,
         4,
-        5
-      ],
-      "lastSpin": null
+        5,
+        6,
+        6
+      ]
     },
     {
       "username": "Omomide1",
@@ -23274,7 +23275,8 @@
       "joinDate": "2025-02-23T11:42:29.178Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Phydorh ",
