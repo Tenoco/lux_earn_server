@@ -6055,7 +6055,7 @@
         "BiggyArewa",
         "Slim-Mill"
       ],
-      "balance": 368,
+      "balance": 268,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -39004,6 +39004,16 @@
       "phoneNumber": "08107021004",
       "amount": 100,
       "timestamp": "2025-02-21T13:45:04.697Z",
+      "status": "pending"
+    },
+    {
+      "username": "Kingaleey1",
+      "email": "aliyusmanbarasa@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "09068612558",
+      "amount": 100,
+      "timestamp": "2025-02-23T07:21:21.841Z",
       "status": "pending"
     }
   ]
