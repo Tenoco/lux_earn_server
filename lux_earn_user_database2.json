@@ -22153,7 +22153,7 @@
         "Ola",
         "Jay"
       ],
-      "balance": 80,
+      "balance": 100,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -22162,7 +22162,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-23T10:34:47.366Z"
     },
