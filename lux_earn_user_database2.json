@@ -18871,11 +18871,12 @@
         "mustard",
         "mustar",
         "mustive",
-        "habeebu"
+        "habeebu",
+        "habib"
       ],
       "balance": 91,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -19525,6 +19526,21 @@
       "joinDate": "2025-02-23T07:45:52.150Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "habib",
+      "email": "abdulrahmanhabeeb99@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "HASAB",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:46:17.590Z"
     }
   ],
   "withdrawals": [
