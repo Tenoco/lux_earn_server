@@ -4911,7 +4911,7 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4922,7 +4922,8 @@
         2,
         13,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": null
     },
