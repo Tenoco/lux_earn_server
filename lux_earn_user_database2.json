@@ -13094,10 +13094,12 @@
       "referral_code": "ADFOI",
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
-      "invited_users": [],
+      "invited_users": [
+        "Taoheed  Ade "
+      ],
       "balance": 220,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:55:36.463Z",
@@ -18039,6 +18041,21 @@
       "joinDate": "2025-02-23T06:13:08.083Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Taoheed  Ade ",
+      "email": "taoheedadeniran3@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "TA8J3",
+      "inviter_referral_code": "ADFOI",
+      "inviter_username": "Adegboye12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:17:21.895Z"
     }
   ],
   "withdrawals": [
