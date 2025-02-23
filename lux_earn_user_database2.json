@@ -14047,11 +14047,12 @@
         "Trey",
         "Jonnyy",
         "Jay24",
-        "Thief"
+        "Thief",
+        "Jonnyyy"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32358,7 +32359,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:06:12.808Z"
+      "joinDate": "2025-02-23T21:06:12.808Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jonnyyy",
+      "email": "jonnygreat@gmail.com",
+      "encrypted_password": "7301c0af5f01e12298929b3a03aee210",
+      "referral_code": "JO09Z",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:06:30.643Z"
     }
   ],
   "withdrawals": [
