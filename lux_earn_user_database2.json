@@ -16266,11 +16266,12 @@
       "inviter_username": null,
       "invited_users": [
         "Chris43415",
-        "John4333"
+        "John4333",
+        "Mark562"
       ],
       "balance": 230,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16362,6 +16363,21 @@
       "joinDate": "2025-02-23T01:01:59.836Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mark562",
+      "email": "paulhamman@gamil.com",
+      "encrypted_password": "ae41a9eee822eaccea580c1492c95576",
+      "referral_code": "MAU2X",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:04:49.457Z"
     }
   ],
   "withdrawals": [
