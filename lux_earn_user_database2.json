@@ -6409,11 +6409,12 @@
         "Dominic001",
         "Goldden",
         "Eniolaade2007",
-        "Nnabuihe5"
+        "Nnabuihe5",
+        "First FC "
       ],
       "balance": 138,
-      "refers": 53,
-      "referralBalance": 5300,
+      "refers": 54,
+      "referralBalance": 5400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -26762,6 +26763,21 @@
       "joinDate": "2025-02-23T14:44:18.248Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "First FC ",
+      "email": "olamideifeoluwa098@gmail.com",
+      "encrypted_password": "efbf1eb09d62abd303f12835086e5465",
+      "referral_code": "FI4JO",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:45:30.036Z"
     }
   ],
   "withdrawals": [
