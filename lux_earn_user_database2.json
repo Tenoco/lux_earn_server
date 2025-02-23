@@ -31722,7 +31722,7 @@
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31730,9 +31730,9 @@
       "joinDate": "2025-02-23T20:34:44.335Z",
       "completedMissions": [
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        1
+      ]
     },
     {
       "username": "Casmirdaniel",
