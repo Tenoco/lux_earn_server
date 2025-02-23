@@ -32237,12 +32237,13 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 125,
+      "balance": 135,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
+      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
@@ -32251,9 +32252,9 @@
         5,
         6,
         7,
-        15
-      ],
-      "lastSpin": "2025-02-23T21:00:19.439Z"
+        15,
+        10
+      ]
     },
     {
       "username": "stellamarris90",
@@ -32755,7 +32756,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:28:21.647Z"
+      "joinDate": "2025-02-23T21:28:21.647Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
