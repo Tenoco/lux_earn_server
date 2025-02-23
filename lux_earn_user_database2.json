@@ -6004,11 +6004,12 @@
         "Lanibs111",
         "Ope111",
         "Lamin15",
-        "Laniba128"
+        "Laniba128",
+        "SuccyEfe"
       ],
       "balance": 180,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T13:50:04.638Z",
@@ -22576,6 +22577,21 @@
       "joinDate": "2025-02-23T11:07:52.710Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SuccyEfe",
+      "email": "succyefe2@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "SUT13",
+      "inviter_referral_code": "LASP5",
+      "inviter_username": "Laniba1258",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:09:00.768Z"
     }
   ],
   "withdrawals": [
