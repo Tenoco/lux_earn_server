@@ -29475,13 +29475,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 5,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:13:09.255Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": "2025-02-23T18:19:32.142Z"
     },
     {
