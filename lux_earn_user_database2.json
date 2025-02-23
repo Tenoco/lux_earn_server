@@ -6452,11 +6452,12 @@
         "Jobi'Lizzy ",
         "Beastfx",
         "Divyzoe",
-        "Emque"
+        "Emque",
+        "Osung "
       ],
       "balance": 138,
-      "refers": 81,
-      "referralBalance": 8100,
+      "refers": 82,
+      "referralBalance": 8200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29865,6 +29866,21 @@
       "joinDate": "2025-02-23T18:56:45.436Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Osung ",
+      "email": "francisosung60@gmail.com",
+      "encrypted_password": "aa6fa94e4d8e042781c1d339e9c9fd70",
+      "referral_code": "OSJ00",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:58:43.099Z"
     }
   ],
   "withdrawals": [
