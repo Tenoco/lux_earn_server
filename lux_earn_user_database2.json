@@ -22195,6 +22195,29 @@
       "joinDate": "2025-02-23T10:35:48.359Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "abbaadamulawal",
+      "email": "abbaadamulawal@gmail.com",
+      "encrypted_password": "79333d2805e049cf0afce3da54990b30",
+      "referral_code": "AB3QL",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": "Mideruqouya",
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:06:19.659Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
