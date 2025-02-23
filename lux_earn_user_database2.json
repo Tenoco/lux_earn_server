@@ -29230,13 +29230,16 @@
       "inviter_referral_code": "Raa8g",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:33:21.281Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -29269,7 +29272,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:40:40.252Z"
+      "joinDate": "2025-02-23T17:40:40.252Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
