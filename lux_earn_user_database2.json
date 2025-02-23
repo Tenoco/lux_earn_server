@@ -32533,12 +32533,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:13:31.032Z",
-      "lastSpin": "2025-02-23T21:14:02.536Z",
       "completedMissions": [
         14,
         13,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:14:02.536Z"
     },
     {
       "username": "Estheretim",
@@ -32583,6 +32583,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Adebimp",
+      "email": "folashadeakande967@gmail.com",
+      "encrypted_password": "4ad2899ad3db4a6784d150255bd47157",
+      "referral_code": "ADDZR",
+      "inviter_referral_code": "AY4HA ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:18:13.492Z"
     }
   ],
   "withdrawals": [
