@@ -27237,11 +27237,12 @@
         "Dheevah",
         "Skyler",
         "Eyrammm",
-        "Omoking "
+        "Omoking ",
+        "vickysavage123"
       ],
       "balance": 125,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30738,7 +30739,8 @@
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ufuoskzoo ",
@@ -30756,6 +30758,21 @@
       "joinDate": "2025-02-23T19:50:41.267Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "vickysavage123",
+      "email": "igiegbowawisdom@gmail.com",
+      "encrypted_password": "5d378c1f3d8ea2a6c2907a22f3ca2289",
+      "referral_code": "VI45O",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:52:42.009Z"
     }
   ],
   "withdrawals": [
