@@ -25957,11 +25957,12 @@
       "inviter_username": "Ayanwole",
       "invited_users": [
         "Daniel",
-        "Gifto 193"
+        "Gifto 193",
+        "Thompson 37"
       ],
       "balance": 170,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -26650,6 +26651,21 @@
       "joinDate": "2025-02-23T14:42:05.957Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Thompson 37",
+      "email": "somto03@gmail.com",
+      "encrypted_password": "4a83a4d08d22ae9796f7b56db8f84663",
+      "referral_code": "THN0N",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:42:40.082Z"
     }
   ],
   "withdrawals": [
