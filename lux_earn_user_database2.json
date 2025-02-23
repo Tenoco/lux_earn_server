@@ -6321,11 +6321,12 @@
         "EmmanuelOkechukwu ",
         "Emmric",
         "@Adebimpe",
-        "Emmanuel Okechukwu "
+        "Emmanuel Okechukwu ",
+        "vvvvv"
       ],
       "balance": 138,
-      "refers": 33,
-      "referralBalance": 3300,
+      "refers": 34,
+      "referralBalance": 3400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23488,6 +23489,21 @@
       "joinDate": "2025-02-23T11:52:44.511Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "vvvvv",
+      "email": "osa.mumikumo06@gmail.com",
+      "encrypted_password": "50f84daf3a6dfd6a9f20c9f8ef428942",
+      "referral_code": "VVTE3",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:53:31.489Z"
     }
   ],
   "withdrawals": [
