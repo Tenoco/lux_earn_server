@@ -20784,11 +20784,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
-      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:02:58.099Z"
     },
     {
       "username": "Ibrahim salisu ",
@@ -20815,7 +20815,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 250,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20832,7 +20832,7 @@
         8,
         9
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:05:25.558Z"
     }
   ],
   "withdrawals": [
