@@ -23159,7 +23159,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:37:22.232Z"
+      "joinDate": "2025-02-23T11:37:22.232Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omomide1",
+      "email": "fadeseremariam@gmail.com",
+      "encrypted_password": "1dfcb7811baf94db981a4020906bb3d4",
+      "referral_code": "OMETV",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 255,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:09:06.713Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-21T08:22:31.190Z"
     }
   ],
   "withdrawals": [
