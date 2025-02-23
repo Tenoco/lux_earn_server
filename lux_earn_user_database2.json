@@ -16203,7 +16203,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T00:37:01.807Z"
+      "joinDate": "2025-02-23T00:37:01.807Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Naseersrw21",
+      "email": "ahmadnasiru15@gmail.com",
+      "encrypted_password": "82ec02888673e92fd6e1a3a1e11a04c1",
+      "referral_code": "NA1IX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T00:39:02.688Z"
     }
   ],
   "withdrawals": [
