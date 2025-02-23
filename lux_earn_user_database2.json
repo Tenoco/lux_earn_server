@@ -21202,13 +21202,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:19:49.143Z",
-      "lastSpin": "2025-02-23T09:20:41.728Z",
       "completedMissions": [
         1,
         2,
         5,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:20:41.728Z"
     },
     {
       "username": "Wilson",
@@ -21393,14 +21393,15 @@
       "inviter_referral_code": "ADOAZ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:40:38.853Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Avwero",
