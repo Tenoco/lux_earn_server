@@ -16295,7 +16295,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T00:59:04.880Z"
+      "joinDate": "2025-02-23T00:59:04.880Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hssnhashm",
+      "email": "hachemhassan34@gmail.com",
+      "encrypted_password": "118c5c147f6d3136cd66005c14e5dd20",
+      "referral_code": "HSPXW",
+      "inviter_referral_code": "WINNH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:00:12.347Z"
     }
   ],
   "withdrawals": [
