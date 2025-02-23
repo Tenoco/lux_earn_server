@@ -6489,11 +6489,12 @@
         "alfuhumy22",
         "Sadeeq12",
         "Chima",
-        "Chimobi"
+        "Chimobi",
+        "Lekewebo"
       ],
       "balance": 138,
-      "refers": 107,
-      "referralBalance": 10700,
+      "refers": 108,
+      "referralBalance": 10800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33298,6 +33299,21 @@
       "joinDate": "2025-02-23T22:17:25.235Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lekewebo",
+      "email": "lekewebo@gmail.com",
+      "encrypted_password": "dda9771c7fa2db2092978c3b43f02ce2",
+      "referral_code": "LENIE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:18:47.367Z"
     }
   ],
   "withdrawals": [
