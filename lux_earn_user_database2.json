@@ -25807,14 +25807,14 @@
       "inviter_referral_code": "WEXRG",
       "inviter_username": "Wealth ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:44:17.437Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T14:04:38.021Z"
     },
     {
       "username": "Rukfah ",
@@ -26054,7 +26054,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:04:31.228Z"
+      "joinDate": "2025-02-23T14:04:31.228Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
