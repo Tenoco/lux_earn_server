@@ -2249,10 +2249,12 @@
       "referral_code": "PIYZI",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Setemi"
+      ],
       "balance": 1020,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:48:36.200Z",
@@ -17180,6 +17182,21 @@
       "joinDate": "2025-02-23T05:02:29.777Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Setemi",
+      "email": "Favourrachel123@gmail.com",
+      "encrypted_password": "efbf1eb09d62abd303f12835086e5465",
+      "referral_code": "SEPSR",
+      "inviter_referral_code": "PIYZI",
+      "inviter_username": "Pinkyponky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:05:22.037Z"
     }
   ],
   "withdrawals": [
