@@ -25134,14 +25134,15 @@
       "inviter_referral_code": "JO4QJ",
       "inviter_username": "Jonahegbe",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:20:44.238Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "VanDijk",
@@ -25200,7 +25201,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:22:05.102Z"
+      "joinDate": "2025-02-23T13:22:05.102Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
