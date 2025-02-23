@@ -17615,13 +17615,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:42:23.498Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": "2025-02-23T05:46:51.268Z"
     },
     {
