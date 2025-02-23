@@ -6400,11 +6400,12 @@
         "Anonymous12",
         "Hamzahm",
         "olawuyii66",
-        "Oluwaseyi"
+        "Oluwaseyi",
+        "Tosin"
       ],
       "balance": 138,
-      "refers": 48,
-      "referralBalance": 4800,
+      "refers": 49,
+      "referralBalance": 4900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -25996,6 +25997,21 @@
         2
       ],
       "lastSpin": "2025-02-22T02:06:37.673Z"
+    },
+    {
+      "username": "Tosin",
+      "email": "tosinelizabeth700@gmail.com",
+      "encrypted_password": "ea5819849d018697db8b899d5967647e",
+      "referral_code": "TOWKI",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:59:37.813Z"
     }
   ],
   "withdrawals": [
