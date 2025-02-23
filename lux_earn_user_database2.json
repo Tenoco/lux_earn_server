@@ -3965,7 +3965,7 @@
         "Seyifunmi122",
         "Zainab01"
       ],
-      "balance": 80,
+      "balance": 81,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -3979,7 +3979,7 @@
         6,
         7
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T08:49:05.928Z"
     },
     {
       "username": "najibmunna",
@@ -20539,6 +20539,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:47:47.170Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T08:48:44.583Z"
     }
   ],
