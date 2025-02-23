@@ -27022,6 +27022,32 @@
       "joinDate": "2025-02-23T14:54:16.694Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaluv203",
+      "email": "kaluvictor833@gmail.com",
+      "encrypted_password": "c6fe69d10a66298403b03bed123bd26d",
+      "referral_code": "KAVBD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 260,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:01:57.010Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        8,
+        7,
+        6,
+        5,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
