@@ -27218,11 +27218,12 @@
       "inviter_username": "BkGraphics001",
       "invited_users": [
         "Dheevah",
-        "Skyler"
+        "Skyler",
+        "Eyrammm"
       ],
       "balance": 125,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30608,6 +30609,21 @@
       "joinDate": "2025-02-23T19:39:02.062Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Eyrammm",
+      "email": "blesseyram8@gmail.com",
+      "encrypted_password": "86d9babbdddd1fbb1f628db9de48ebb3",
+      "referral_code": "EYA3A",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:41:16.583Z"
     }
   ],
   "withdrawals": [
