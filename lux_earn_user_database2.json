@@ -22425,14 +22425,15 @@
       "inviter_referral_code": "PRFPU",
       "inviter_username": "Princesspromise",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T10:47:24.329Z",
       "completedMissions": [
-        14
+        14,
+        13
       ],
       "lastSpin": null
     },
