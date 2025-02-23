@@ -26599,7 +26599,8 @@
         14,
         14,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Michael ltv",
@@ -26788,6 +26789,33 @@
       "status": "active",
       "joinDate": "2025-02-23T14:45:30.036Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bolachris",
+      "email": "bolachris3.0@gmail.com",
+      "encrypted_password": "ddae81c0a994a2f264b7ac1f2d1e2bf6",
+      "referral_code": "BOBEF",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": "Max",
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:03:23.790Z",
+      "completedMissions": [
+        1,
+        3,
+        2,
+        9,
+        8,
+        4,
+        5,
+        6,
+        7
+      ],
       "lastSpin": null
     }
   ],
