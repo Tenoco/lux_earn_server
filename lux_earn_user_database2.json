@@ -6313,11 +6313,12 @@
         "Usman360",
         "Destar",
         "Bright",
-        "Kelly osarenkhoe "
+        "Kelly osarenkhoe ",
+        "miguel411"
       ],
       "balance": 138,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -22596,6 +22597,21 @@
       "joinDate": "2025-02-23T11:09:00.768Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "miguel411",
+      "email": "miguelpeter234@gmail.com",
+      "encrypted_password": "49fb8a021dc209413d398a9cc37c9e2e",
+      "referral_code": "MIU0C",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:10:27.072Z"
     }
   ],
   "withdrawals": [
