@@ -29896,14 +29896,15 @@
       "invited_users": [
         "Adeoluwadamilare"
       ],
-      "balance": 30,
+      "balance": 50,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:33.374Z",
       "completedMissions": [
-        12
+        12,
+        11
       ],
       "lastSpin": null
     },
