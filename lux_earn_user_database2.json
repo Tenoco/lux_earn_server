@@ -18561,10 +18561,12 @@
       "referral_code": "KIGXH",
       "inviter_referral_code": "MOYC8",
       "inviter_username": "Moses24 ",
-      "invited_users": [],
+      "invited_users": [
+        "Higguy"
+      ],
       "balance": 15,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:50:45.387Z",
@@ -19133,6 +19135,21 @@
       "joinDate": "2025-02-22T04:54:01.863Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Higguy",
+      "email": "cfmscare@gmailmagri.com",
+      "encrypted_password": "d86344a7eae5ebfa67f5b76517cf7a2d",
+      "referral_code": "HIMOW",
+      "inviter_referral_code": "KIGXH",
+      "inviter_username": "Kidding ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:26:01.872Z"
     }
   ],
   "withdrawals": [
