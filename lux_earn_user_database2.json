@@ -9934,11 +9934,12 @@
         "Oyewmenosa ",
         "MrJinkin",
         "moruff",
-        "ADAM'S 6542"
+        "ADAM'S 6542",
+        "Powerjohn001"
       ],
       "balance": 341,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -22000,6 +22001,21 @@
       "joinDate": "2025-02-23T10:23:20.688Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Powerjohn001",
+      "email": "trust0906408@gmail.com",
+      "encrypted_password": "0c04abed5c40dc07350bdde27af9745f",
+      "referral_code": "POELA",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:26:59.109Z"
     }
   ],
   "withdrawals": [
