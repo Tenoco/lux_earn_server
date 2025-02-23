@@ -20239,7 +20239,7 @@
       "inviter_referral_code": "MIODT",
       "inviter_username": "Micheal1#",
       "invited_users": [],
-      "balance": 25,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20247,7 +20247,9 @@
       "joinDate": "2025-02-23T08:28:10.894Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        5
       ],
       "lastSpin": "2025-02-23T08:28:28.575Z"
     },
