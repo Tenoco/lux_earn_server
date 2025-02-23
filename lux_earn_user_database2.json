@@ -6264,11 +6264,12 @@
         "ChideraAkide",
         "Akanuji122",
         "cimekgadis",
-        "Afonat"
+        "Afonat",
+        "Bevil"
       ],
       "balance": 138,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -19816,6 +19817,21 @@
         9
       ],
       "lastSpin": "2025-02-21T13:29:04.834Z"
+    },
+    {
+      "username": "Bevil",
+      "email": "paddyd048@gmail.com",
+      "encrypted_password": "db2f820f12cb3b267f4b1cae44f8025b",
+      "referral_code": "BEZQI",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:05:17.519Z"
     }
   ],
   "withdrawals": [
