@@ -26639,7 +26639,7 @@
       "inviter_referral_code": "FIDTX",
       "inviter_username": "Firstmanoneart",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26647,7 +26647,8 @@
       "joinDate": "2025-02-23T14:41:02.522Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
