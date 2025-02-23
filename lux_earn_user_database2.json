@@ -6293,11 +6293,12 @@
         "Makelemibrilliamt",
         "Joshua ",
         "Uzairu841",
-        "gideonx"
+        "gideonx",
+        "Usman360"
       ],
       "balance": 138,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -21642,7 +21643,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:56:27.978Z"
+      "joinDate": "2025-02-23T09:56:27.978Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Usman360",
+      "email": "umakama360@gmail.com",
+      "encrypted_password": "e2546495cad6f2f46587e1f182b13e41",
+      "referral_code": "US4AC",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:56:59.874Z"
     }
   ],
   "withdrawals": [
