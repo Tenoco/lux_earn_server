@@ -6487,11 +6487,12 @@
         "Iamteevibez",
         "alfuhumy22",
         "Sadeeq12",
-        "Chima"
+        "Chima",
+        "Chimobi"
       ],
       "balance": 138,
-      "refers": 106,
-      "referralBalance": 10600,
+      "refers": 107,
+      "referralBalance": 10700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33198,6 +33199,21 @@
         9
       ],
       "lastSpin": "2025-02-21T13:23:54.931Z"
+    },
+    {
+      "username": "Chimobi",
+      "email": "emekachimobi836@gemail.com",
+      "encrypted_password": "7083f033da36fca0e193a0f8ff877e0d",
+      "referral_code": "CH7M8",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:07:18.909Z"
     }
   ],
   "withdrawals": [
