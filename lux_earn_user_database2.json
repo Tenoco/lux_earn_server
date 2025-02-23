@@ -19963,11 +19963,12 @@
         "Omotayo647383726",
         "Divine ",
         "Best",
-        "Khalifa111"
+        "Khalifa111",
+        "Jojo"
       ],
       "balance": 275,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -20522,6 +20523,21 @@
       "joinDate": "2025-02-23T08:47:22.987Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jojo",
+      "email": "gyasiborrjoseph@gmail.com",
+      "encrypted_password": "5ee035294ffc6c423ee35816c4cd0554",
+      "referral_code": "JO3IY",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:47:47.170Z"
     }
   ],
   "withdrawals": [
