@@ -25101,11 +25101,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Kundiri ",
-        "Rukfah "
+        "Rukfah ",
+        "AADANNA "
       ],
       "balance": 158,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:15:46.787Z",
@@ -25830,6 +25831,21 @@
       "joinDate": "2025-02-23T13:47:58.996Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "AADANNA ",
+      "email": "aadanna81@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "AAOHD",
+      "inviter_referral_code": "AN202",
+      "inviter_username": "Anonymous12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:53:09.983Z"
     }
   ],
   "withdrawals": [
