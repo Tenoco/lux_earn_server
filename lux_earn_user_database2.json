@@ -19805,10 +19805,12 @@
       "referral_code": "VIBDL",
       "inviter_referral_code": "JO5G6",
       "inviter_username": "Josh Brezel ",
-      "invited_users": [],
+      "invited_users": [
+        "Gabby007 "
+      ],
       "balance": 240,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:03:45.034Z",
@@ -21562,6 +21564,21 @@
       "joinDate": "2025-02-21T06:50:28.136Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gabby007 ",
+      "email": "sirgabby007@gmail.com",
+      "encrypted_password": "54f6d753af2be5ff99eb2427848391fb",
+      "referral_code": "GA0QB",
+      "inviter_referral_code": "VIBDL",
+      "inviter_username": "Vikina",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:54:32.161Z"
     }
   ],
   "withdrawals": [
