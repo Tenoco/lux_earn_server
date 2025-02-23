@@ -6282,11 +6282,12 @@
         "Ibra224",
         "LEOMEGAPLEX ",
         "Godschild",
-        "Victorpara"
+        "Victorpara",
+        "@Browndy"
       ],
       "balance": 138,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20748,6 +20749,21 @@
       "joinDate": "2025-02-23T08:59:01.886Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "@Browndy",
+      "email": "Kenechukwuezekieluzoeto@gmail.com",
+      "encrypted_password": "d6072dc80e4d42824838e82bb714b5c0",
+      "referral_code": "@B5BL",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:00:48.320Z"
     }
   ],
   "withdrawals": [
