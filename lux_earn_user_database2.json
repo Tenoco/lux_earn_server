@@ -6272,11 +6272,12 @@
         "Jenny ",
         "Lucasmacas",
         "AYOMIDE078 ",
-        "Zaiyat"
+        "Zaiyat",
+        "Ibra224"
       ],
       "balance": 138,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20250,6 +20251,21 @@
         1
       ],
       "lastSpin": "2025-02-21T11:03:15.520Z"
+    },
+    {
+      "username": "Ibra224",
+      "email": "ibrahimolamilekan3215@gmail.com",
+      "encrypted_password": "28ddb7702207e1539c8405bc6660f2fa",
+      "referral_code": "IB8OK",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:28:09.342Z"
     }
   ],
   "withdrawals": [
