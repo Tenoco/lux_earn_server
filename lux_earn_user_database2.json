@@ -33705,7 +33705,7 @@
       "invited_users": [
         "Presh"
       ],
-      "balance": 155,
+      "balance": 165,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -33714,7 +33714,8 @@
       "completedMissions": [
         2,
         3,
-        1
+        1,
+        10
       ],
       "lastSpin": null
     },
@@ -33732,6 +33733,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:49:07.171Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T22:50:04.675Z"
     }
   ],
