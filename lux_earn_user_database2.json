@@ -25979,11 +25979,12 @@
       "invited_users": [
         "Daniel",
         "Gifto 193",
-        "Thompson 37"
+        "Thompson 37",
+        "Emaculate36"
       ],
       "balance": 170,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -26996,6 +26997,21 @@
       "joinDate": "2025-02-23T14:52:31.652Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emaculate36",
+      "email": "oninna23@gmail.com",
+      "encrypted_password": "20908bebd74fb9f9877cfad081b9cdef",
+      "referral_code": "EMRXS",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:54:16.694Z"
     }
   ],
   "withdrawals": [
