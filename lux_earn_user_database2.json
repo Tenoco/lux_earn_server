@@ -19557,7 +19557,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "habib",
@@ -19584,14 +19585,15 @@
       "inviter_referral_code": "ODWXP ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:49:03.196Z",
       "completedMissions": [
-        1
+        1,
+        12
       ],
       "lastSpin": null
     },
