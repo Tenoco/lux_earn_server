@@ -6419,11 +6419,12 @@
         "Kemmzy ",
         "Tizzy",
         "Agnes12",
-        "Darahsimi"
+        "Darahsimi",
+        "Franca5"
       ],
       "balance": 138,
-      "refers": 58,
-      "referralBalance": 5800,
+      "refers": 59,
+      "referralBalance": 5900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27675,6 +27676,21 @@
       "joinDate": "2025-02-23T15:41:33.998Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Franca5",
+      "email": "francavenerido@gmail.com",
+      "encrypted_password": "52c2a8db3f4e0e147805f8c6c8c47bf1",
+      "referral_code": "FR2E1",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:44:01.831Z"
     }
   ],
   "withdrawals": [
