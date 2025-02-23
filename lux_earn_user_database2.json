@@ -31375,16 +31375,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:26:03.589Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Ecom Taoheed ",
@@ -31416,7 +31416,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:28:03.190Z"
+      "joinDate": "2025-02-23T20:28:03.190Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
