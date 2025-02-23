@@ -18303,11 +18303,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Afeez1994"
+        "Afeez1994",
+        "Aminat1990"
       ],
       "balance": 252,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:42:23.498Z",
@@ -33994,6 +33995,21 @@
       "joinDate": "2025-02-23T23:08:56.104Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aminat1990",
+      "email": "olasunkanmia547@gmail.com",
+      "encrypted_password": "9af6d921335edce87822a1c5a689a86a",
+      "referral_code": "AMGQL",
+      "inviter_referral_code": "OM3JR",
+      "inviter_username": "Omotayo1990",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:10:25.972Z"
     }
   ],
   "withdrawals": [
