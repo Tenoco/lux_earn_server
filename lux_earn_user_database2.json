@@ -18237,10 +18237,12 @@
       "referral_code": "FALIV",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Ayodeji "
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
@@ -18606,6 +18608,21 @@
         2
       ],
       "lastSpin": "2025-02-21T10:56:16.714Z"
+    },
+    {
+      "username": "Ayodeji ",
+      "email": "alimialhassan12@gmail.com",
+      "encrypted_password": "87cdef6db5d492a84dd5347e67717430",
+      "referral_code": "AYE00",
+      "inviter_referral_code": "FALIV",
+      "inviter_username": "Fawaz08",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:55:41.920Z"
     }
   ],
   "withdrawals": [
