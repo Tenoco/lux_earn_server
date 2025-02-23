@@ -13742,11 +13742,12 @@
         "Priscycella",
         "Iremide@03",
         "Remeh",
-        "Graceysparks"
+        "Graceysparks",
+        "E_square55"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -26628,6 +26629,21 @@
       "joinDate": "2025-02-23T14:41:02.522Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "E_square55",
+      "email": "ezekielebodaghe@gmail.com",
+      "encrypted_password": "91022ad929eaa50da47fb4d9e820b6cc",
+      "referral_code": "E_A8Q",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:42:05.957Z"
     }
   ],
   "withdrawals": [
