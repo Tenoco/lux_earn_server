@@ -21439,7 +21439,7 @@
       "inviter_referral_code": "ADOAZ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21454,7 +21454,8 @@
         11,
         10,
         1,
-        4
+        4,
+        5
       ],
       "lastSpin": null
     },
