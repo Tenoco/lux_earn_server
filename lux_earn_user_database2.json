@@ -16236,7 +16236,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 240,
+      "balance": 262,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16259,7 +16259,7 @@
         6,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T01:10:51.887Z"
     },
     {
       "username": "Jagoceleb54",
@@ -16464,7 +16464,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:10:30.248Z"
+      "joinDate": "2025-02-23T01:10:30.248Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
