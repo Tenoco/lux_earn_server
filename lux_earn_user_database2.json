@@ -3908,11 +3908,12 @@
         "Patient ",
         "EmmanuellaOdun",
         "innocent69",
-        "Marvis"
+        "Marvis",
+        "UniqueSlug "
       ],
       "balance": 1010,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -33402,6 +33403,21 @@
       "joinDate": "2025-02-23T22:23:33.332Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "UniqueSlug ",
+      "email": "preciousjohnson833@gmail.com",
+      "encrypted_password": "125342143e6aac20cb1e5688f0e2370e",
+      "referral_code": "UNFJR",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:24:59.607Z"
     }
   ],
   "withdrawals": [
