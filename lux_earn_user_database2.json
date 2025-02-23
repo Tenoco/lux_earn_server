@@ -14045,11 +14045,12 @@
         "Gifts",
         "Trey",
         "Jonnyy",
-        "Jay24"
+        "Jay24",
+        "Thief"
       ],
       "balance": 230,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32269,7 +32270,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:01:41.663Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T21:01:58.780Z"
+    },
+    {
+      "username": "Thief",
+      "email": "faithmark@gmail.com",
+      "encrypted_password": "e78d988dcd96f324fef8c90e2a3a95ca",
+      "referral_code": "THIZJ",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:03:14.732Z"
     }
   ],
   "withdrawals": [
