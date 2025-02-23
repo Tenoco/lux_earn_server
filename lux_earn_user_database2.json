@@ -26437,11 +26437,12 @@
         "BLESSYN 33",
         "Bassey Anthonia ",
         "Precyken",
-        "Vheek"
+        "Vheek",
+        "Maryam"
       ],
       "balance": 192,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -29347,6 +29348,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Maryam",
+      "email": "maryamabolore4@gmail.com",
+      "encrypted_password": "84a89e710b9491bfa61d080f3b060b66",
+      "referral_code": "MA1UR",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:00:53.571Z"
     }
   ],
   "withdrawals": [
