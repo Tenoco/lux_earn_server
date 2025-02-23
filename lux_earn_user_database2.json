@@ -25623,14 +25623,13 @@
       "inviter_referral_code": "AN202",
       "inviter_username": "Anonymous12",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:36:32.558Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T13:39:54.307Z"
     },
     {
       "username": "Mercy4552",
@@ -25698,7 +25697,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:39:46.546Z"
+      "joinDate": "2025-02-23T13:39:46.546Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
