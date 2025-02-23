@@ -21217,14 +21217,15 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:22:55.491Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "isaacubong414@gmail.com",
@@ -21300,7 +21301,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:30:53.325Z"
+      "joinDate": "2025-02-23T09:30:53.325Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
