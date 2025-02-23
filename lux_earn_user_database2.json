@@ -29444,7 +29444,7 @@
       "inviter_referral_code": "Ay4ha",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29452,7 +29452,8 @@
       "joinDate": "2025-02-23T18:08:06.341Z",
       "completedMissions": [
         1,
-        11
+        11,
+        14
       ],
       "lastSpin": null
     },
