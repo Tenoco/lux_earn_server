@@ -18474,11 +18474,12 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [
-        "Luiz emzy"
+        "Luiz emzy",
+        "Desmond "
       ],
       "balance": 385,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:16.048Z",
@@ -23865,6 +23866,21 @@
       "joinDate": "2025-02-23T12:05:14.349Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T12:05:57.113Z"
+    },
+    {
+      "username": "Desmond ",
+      "email": "moneydezzy6@gmail.com",
+      "encrypted_password": "bd35b88e0012203cf844d3f69a2305fe",
+      "referral_code": "DEF8V",
+      "inviter_referral_code": "LA2FX",
+      "inviter_username": "Laskid037 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:10:59.328Z"
     }
   ],
   "withdrawals": [
