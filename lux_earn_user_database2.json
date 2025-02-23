@@ -19434,13 +19434,15 @@
       "inviter_referral_code": "Su4b5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:34:42.479Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -21216,6 +21218,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:24:06.916Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T09:24:35.831Z"
     }
   ],
