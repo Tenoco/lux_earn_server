@@ -3913,11 +3913,12 @@
         "innocent69",
         "Marvis",
         "UniqueSlug ",
-        "MaxPuppi "
+        "MaxPuppi ",
+        "REZ123"
       ],
       "balance": 1010,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -34069,7 +34070,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T23:21:26.583Z"
+      "joinDate": "2025-02-23T23:21:26.583Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "REZ123",
+      "email": "tobiabiodun519@gmail.com",
+      "encrypted_password": "e13433f9a192fa7173cad48b335dc7f0",
+      "referral_code": "RE9QP",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:22:52.645Z"
     }
   ],
   "withdrawals": [
