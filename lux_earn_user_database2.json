@@ -26639,11 +26639,12 @@
         "samologi",
         "annny0006",
         "Emmybest",
-        "maroeone"
+        "maroeone",
+        "Morgan299"
       ],
       "balance": 192,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -32655,6 +32656,21 @@
       "joinDate": "2025-02-23T21:21:42.454Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Morgan299",
+      "email": "yepeskoke861@gmail.com",
+      "encrypted_password": "da09a003aa8f34eb583c48b7820f761c",
+      "referral_code": "MOEH3",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:22:03.298Z"
     }
   ],
   "withdrawals": [
