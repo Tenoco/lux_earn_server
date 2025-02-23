@@ -24406,10 +24406,12 @@
       "referral_code": "BNSFP",
       "inviter_referral_code": "AS6AA",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Cam bro"
+      ],
       "balance": 140,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:41:25.278Z",
@@ -24615,7 +24617,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:55:40.824Z"
+      "joinDate": "2025-02-23T12:55:40.824Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cam bro",
+      "email": "chikeluebuka4567@gmail.com",
+      "encrypted_password": "2c21cd4b4718980a416da2d7abc63d26",
+      "referral_code": "CA4C8",
+      "inviter_referral_code": "BNSFP",
+      "inviter_username": "BNBFUND ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:55:58.972Z"
     }
   ],
   "withdrawals": [
