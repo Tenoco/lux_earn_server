@@ -6286,11 +6286,12 @@
         "Victorpara",
         "@Browndy",
         "Banny",
-        "Makelemibrilliamt"
+        "Makelemibrilliamt",
+        "Joshua "
       ],
       "balance": 138,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -21010,6 +21011,21 @@
       "joinDate": "2025-02-23T09:11:02.842Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joshua ",
+      "email": "joshuaakpotareno@gmail.com",
+      "encrypted_password": "1c56e4e24e9416096b81d429636651b7",
+      "referral_code": "JONZM",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:11:41.509Z"
     }
   ],
   "withdrawals": [
