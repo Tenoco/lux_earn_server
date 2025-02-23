@@ -16255,10 +16255,12 @@
       "referral_code": "JAKYK",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Chris43415"
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16279,6 +16281,21 @@
         12
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Chris43415",
+      "email": "minyoongis618@gmail.com",
+      "encrypted_password": "ac354629fdaca065a2b22ba568ade51b",
+      "referral_code": "CHQ97",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T00:59:04.880Z"
     }
   ],
   "withdrawals": [
