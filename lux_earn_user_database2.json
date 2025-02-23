@@ -6438,11 +6438,12 @@
         "Kareem ",
         "Haryor_Richie",
         "Davidnwokedike",
-        "markugoh53"
+        "markugoh53",
+        "Starboy"
       ],
       "balance": 138,
-      "refers": 73,
-      "referralBalance": 7300,
+      "refers": 74,
+      "referralBalance": 7400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29283,6 +29284,21 @@
       "joinDate": "2025-02-23T17:40:40.252Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T17:41:23.565Z"
+    },
+    {
+      "username": "Starboy",
+      "email": "ojewolatidjan8@gmail.com",
+      "encrypted_password": "938b2026a36ce4fa8c658896664b8317",
+      "referral_code": "STJ80",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:51:24.065Z"
     }
   ],
   "withdrawals": [
