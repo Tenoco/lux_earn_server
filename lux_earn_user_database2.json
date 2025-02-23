@@ -33609,7 +33609,7 @@
       "inviter_referral_code": "WEXRG",
       "inviter_username": "Wealth ",
       "invited_users": [],
-      "balance": 730,
+      "balance": 750,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33649,7 +33649,7 @@
         16,
         16
       ],
-      "lastSpin": "2025-02-21T07:58:15.212Z"
+      "lastSpin": "2025-02-23T23:01:42.427Z"
     },
     {
       "username": "Noblerebel ",
@@ -33860,7 +33860,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T22:59:39.227Z"
+      "joinDate": "2025-02-23T22:59:39.227Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
