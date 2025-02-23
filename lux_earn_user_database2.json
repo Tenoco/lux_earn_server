@@ -21354,12 +21354,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
-      "lastSpin": "2025-02-23T09:37:57.908Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:37:57.908Z"
     },
     {
       "username": "Kole147",
@@ -21377,6 +21377,21 @@
       "joinDate": "2025-02-23T09:38:07.079Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oladeinde",
+      "email": "victorytunrayo@gmail.com",
+      "encrypted_password": "f3e2e87a20c1f5068f8ba8fb3dd067b5",
+      "referral_code": "OL3L2",
+      "inviter_referral_code": "ADOAZ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:40:38.853Z"
     }
   ],
   "withdrawals": [
