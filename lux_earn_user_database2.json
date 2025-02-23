@@ -26402,11 +26402,12 @@
         "Blackjesus",
         "Ziggy",
         "BLESSYN 33",
-        "Bassey Anthonia "
+        "Bassey Anthonia ",
+        "Precyken"
       ],
       "balance": 192,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -28969,6 +28970,21 @@
       "joinDate": "2025-02-23T17:18:02.042Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Precyken",
+      "email": "omeliwo@gmail.com",
+      "encrypted_password": "7453a4cb05fc95fc3e30be8428393fac",
+      "referral_code": "PRUPJ",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:20:07.720Z"
     }
   ],
   "withdrawals": [
