@@ -6318,11 +6318,12 @@
         "miguel411",
         "Adisa",
         "Olayinka 8",
-        "EmmanuelOkechukwu "
+        "EmmanuelOkechukwu ",
+        "Emmric"
       ],
       "balance": 138,
-      "refers": 30,
-      "referralBalance": 3000,
+      "refers": 31,
+      "referralBalance": 3100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23122,6 +23123,21 @@
       "joinDate": "2025-02-23T11:34:54.207Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmric",
+      "email": "ezeanochieemmanuel24@gmail.com",
+      "encrypted_password": "a17aafc4360077386031edc5ab85d833",
+      "referral_code": "EMBBM",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:35:10.388Z"
     }
   ],
   "withdrawals": [
