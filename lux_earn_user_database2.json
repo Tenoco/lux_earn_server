@@ -26267,7 +26267,8 @@
         5,
         6,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Fubara gv",
@@ -26345,12 +26346,13 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 131,
+      "balance": 141,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:23:58.169Z",
+      "lastSpin": "2025-02-23T14:24:52.711Z",
       "completedMissions": [
         4,
         5,
@@ -26360,9 +26362,9 @@
         7,
         14,
         11,
-        11
-      ],
-      "lastSpin": "2025-02-23T14:24:52.711Z"
+        11,
+        2
+      ]
     },
     {
       "username": "Isaeyah",
