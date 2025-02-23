@@ -26014,11 +26014,12 @@
         "Union105",
         "Peter503",
         "Peace 34",
-        "Rejoice love"
+        "Rejoice love",
+        "Ritaaa"
       ],
       "balance": 170,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27905,6 +27906,21 @@
       "joinDate": "2025-02-23T16:01:29.064Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ritaaa",
+      "email": "Hffkdndbd@gmail.com",
+      "encrypted_password": "d964173dc44da83eeafa3aebbee9a1a0",
+      "referral_code": "RIFMN",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:05:01.989Z"
     }
   ],
   "withdrawals": [
