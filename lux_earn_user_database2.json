@@ -27240,11 +27240,12 @@
         "Skyler",
         "Eyrammm",
         "Omoking ",
-        "vickysavage123"
+        "vickysavage123",
+        "Leo179"
       ],
       "balance": 125,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30811,7 +30812,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:54:28.494Z"
+      "joinDate": "2025-02-23T19:54:28.494Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Leo179",
+      "email": "agathaude11@gmail.com",
+      "encrypted_password": "3364342815f4005b32fd546fea0cc51d",
+      "referral_code": "LE0OO",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:55:53.524Z"
     }
   ],
   "withdrawals": [
