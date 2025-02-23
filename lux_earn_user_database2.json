@@ -24166,6 +24166,33 @@
       "joinDate": "2025-02-23T12:27:52.552Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Frenx",
+      "email": "icent450@gmail.com",
+      "encrypted_password": "cbaa909b28c2b4d45d9bf6c76c2dc259",
+      "referral_code": "FRZDM",
+      "inviter_referral_code": "DA2CY",
+      "inviter_username": "Davolee001",
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:55:22.246Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        6,
+        5,
+        4,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
