@@ -18204,19 +18204,20 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
+      "lastSpin": "2025-02-23T06:29:16.973Z",
       "completedMissions": [
         2,
         1,
         5,
-        6
-      ],
-      "lastSpin": "2025-02-23T06:29:16.973Z"
+        6,
+        13
+      ]
     },
     {
       "username": "Wisdom024",
@@ -18313,7 +18314,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:35:44.316Z"
+      "joinDate": "2025-02-23T06:35:44.316Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
