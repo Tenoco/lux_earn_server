@@ -20978,7 +20978,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 181,
+      "balance": 182,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20992,7 +20992,7 @@
         5,
         9
       ],
-      "lastSpin": "2025-02-21T10:31:21.359Z"
+      "lastSpin": "2025-02-23T09:11:12.182Z"
     },
     {
       "username": "Makelemibrilliamt",
@@ -21007,7 +21007,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:11:02.842Z"
+      "joinDate": "2025-02-23T09:11:02.842Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
