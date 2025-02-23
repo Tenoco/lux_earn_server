@@ -26341,17 +26341,19 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 41,
+      "balance": 71,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:23:58.169Z",
+      "lastSpin": "2025-02-23T14:24:52.711Z",
       "completedMissions": [
         4,
-        5
-      ],
-      "lastSpin": "2025-02-23T14:24:52.711Z"
+        5,
+        6,
+        12
+      ]
     },
     {
       "username": "Isaeyah",
