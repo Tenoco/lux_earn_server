@@ -18878,7 +18878,7 @@
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
       "invited_users": [],
-      "balance": 200,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18895,9 +18895,9 @@
         2,
         10,
         13,
-        14
-      ],
-      "lastSpin": null
+        14,
+        9
+      ]
     },
     {
       "username": "labdullahu",
@@ -19041,7 +19041,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:17:10.705Z"
+      "joinDate": "2025-02-23T07:17:10.705Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
