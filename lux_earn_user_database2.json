@@ -8895,11 +8895,12 @@
       "inviter_username": "starpotter",
       "invited_users": [
         "Badxlucy ",
-        "Me "
+        "Me ",
+        "Don "
       ],
       "balance": 42,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:39:21.623Z",
@@ -30513,6 +30514,21 @@
       "joinDate": "2025-02-23T19:34:32.025Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T19:35:10.816Z"
+    },
+    {
+      "username": "Don ",
+      "email": "vice90241@gmail.com",
+      "encrypted_password": "e2a771a4f009b836818c2aa31b844994",
+      "referral_code": "DOUJ3",
+      "inviter_referral_code": "DO8DR",
+      "inviter_username": "Don Berry ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:36:49.143Z"
     }
   ],
   "withdrawals": [
