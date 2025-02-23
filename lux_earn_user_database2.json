@@ -30547,7 +30547,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:37:44.023Z"
+      "joinDate": "2025-02-23T19:37:44.023Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amode ",
+      "email": "abdulrohufaabdulganuiy@gmail.com",
+      "encrypted_password": "dc49bb3d6d6d25abb818100c83615d57",
+      "referral_code": "AMAXR",
+      "inviter_referral_code": "0PZLI",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:37:56.580Z"
     }
   ],
   "withdrawals": [
