@@ -27600,7 +27600,7 @@
       "inviter_referral_code": "BLIOB",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27614,7 +27614,8 @@
         2,
         4,
         5,
-        7
+        7,
+        12
       ],
       "lastSpin": null
     },
