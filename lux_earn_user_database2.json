@@ -22840,11 +22840,12 @@
         "Bright253",
         "Chidi752",
         "Clinton456",
-        "Kinsley452"
+        "Kinsley452",
+        "Mercy4552"
       ],
       "balance": 255,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -25589,7 +25590,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:36:32.558Z"
+      "joinDate": "2025-02-23T13:36:32.558Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mercy4552",
+      "email": "charlesser12@gmail.com",
+      "encrypted_password": "80d795537762400605ef0e1e4f82b3df",
+      "referral_code": "MEHW9",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:36:47.777Z"
     }
   ],
   "withdrawals": [
