@@ -9933,11 +9933,12 @@
         "Samuel",
         "Oyewmenosa ",
         "MrJinkin",
-        "moruff"
+        "moruff",
+        "ADAM'S 6542"
       ],
       "balance": 341,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -21858,6 +21859,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "ADAM'S 6542",
+      "email": "emekaefejethro859@gmail.com",
+      "encrypted_password": "811d40dfe02fbbd990ac1b844102ca43",
+      "referral_code": "ADSDI",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:15:37.179Z"
     }
   ],
   "withdrawals": [
