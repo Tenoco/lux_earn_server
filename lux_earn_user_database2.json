@@ -25063,7 +25063,30 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:17:54.931Z"
+      "joinDate": "2025-02-23T13:17:54.931Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Taofiq123",
+      "email": "taofiqali4@gmail.com",
+      "encrypted_password": "a0a475cf454cf9a06979034098167b9e",
+      "referral_code": "TATLD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 80,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:33:54.881Z",
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
