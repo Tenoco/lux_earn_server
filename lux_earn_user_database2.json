@@ -26649,11 +26649,12 @@
         "Emmybest",
         "maroeone",
         "Morgan299",
-        "Brodalateef"
+        "Brodalateef",
+        "mgdollars1"
       ],
       "balance": 192,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -33041,6 +33042,21 @@
       "joinDate": "2025-02-23T21:44:56.641Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "mgdollars1",
+      "email": "mgdollars1@gmail.com",
+      "encrypted_password": "3bf45ec5c6c16a583b482fbb8f1ebbe6",
+      "referral_code": "MGFPI",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:51:06.351Z"
     }
   ],
   "withdrawals": [
