@@ -10011,11 +10011,12 @@
         "Adegboye12",
         "BLACKABANDO",
         "Victoria Emeshiobi ",
-        "Idrisabdull "
+        "Idrisabdull ",
+        "Preshykwin "
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -22333,6 +22334,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Preshykwin ",
+      "email": "salamigift33@gmail.com",
+      "encrypted_password": "a48794c01e43c0b8989367dad896f80c",
+      "referral_code": "PRXXS",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:42:40.293Z"
     }
   ],
   "withdrawals": [
