@@ -27192,11 +27192,12 @@
       "invited_users": [
         "Ladytee",
         "Ademola opeyemi",
-        "Opeyemi "
+        "Opeyemi ",
+        "Damilex"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:18.248Z",
@@ -31210,6 +31211,21 @@
       "joinDate": "2025-02-21T14:31:56.159Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Damilex",
+      "email": "saratibrahim2002@gmail.com",
+      "encrypted_password": "0ca11cea883a5f184fa6fc22e8693777",
+      "referral_code": "DAOFP",
+      "inviter_referral_code": "CO2MT",
+      "inviter_username": "Comedianramadan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:19:28.076Z"
     }
   ],
   "withdrawals": [
