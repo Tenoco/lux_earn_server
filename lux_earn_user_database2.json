@@ -29645,10 +29645,12 @@
       "referral_code": "OLDLO",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "aygold2022"
+      ],
       "balance": 30,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:26:08.335Z",
@@ -30631,7 +30633,8 @@
         11,
         11,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Eyrammm",
@@ -30683,6 +30686,21 @@
       "joinDate": "2025-02-23T19:46:24.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "aygold2022",
+      "email": "aygold2022@gmail.com",
+      "encrypted_password": "4be7f2cc95bfefc32d242cfed7e9e966",
+      "referral_code": "AYR1W",
+      "inviter_referral_code": "OLDLO",
+      "inviter_username": "Oluwaexcess",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:47:16.534Z"
     }
   ],
   "withdrawals": [
