@@ -6343,11 +6343,12 @@
         "Ling smart",
         "Muhd aminu",
         "Tochek",
-        "diniharunaali"
+        "diniharunaali",
+        "Aanuade"
       ],
       "balance": 138,
-      "refers": 42,
-      "referralBalance": 4200,
+      "refers": 43,
+      "referralBalance": 4300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24600,6 +24601,21 @@
       "joinDate": "2025-02-23T12:52:20.110Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aanuade",
+      "email": "adenikehorkanlawon@gmail.com",
+      "encrypted_password": "99f28529522513c3fc16fefb134ed229",
+      "referral_code": "AAHPK",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:55:40.824Z"
     }
   ],
   "withdrawals": [
