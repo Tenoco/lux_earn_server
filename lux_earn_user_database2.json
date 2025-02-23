@@ -21196,18 +21196,19 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 45,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:19:49.143Z",
+      "lastSpin": "2025-02-23T09:20:41.728Z",
       "completedMissions": [
         1,
         2,
-        5
-      ],
-      "lastSpin": "2025-02-23T09:20:41.728Z"
+        5,
+        4
+      ]
     },
     {
       "username": "Wilson",
