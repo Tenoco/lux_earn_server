@@ -21210,12 +21210,13 @@
       "inviter_referral_code": "VAXO3",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:24:06.916Z"
+      "joinDate": "2025-02-23T09:24:06.916Z",
+      "lastSpin": "2025-02-23T09:24:35.831Z"
     }
   ],
   "withdrawals": [
