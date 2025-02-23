@@ -24745,11 +24745,12 @@
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
       "invited_users": [
-        "Job"
+        "Job",
+        "Akabi"
       ],
       "balance": 172,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -25429,6 +25430,21 @@
       "joinDate": "2025-02-23T13:29:37.542Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akabi",
+      "email": "akabiemmaunel@gmail.com",
+      "encrypted_password": "bc9be5bb0291dbc10dc1689c30cf0fe1",
+      "referral_code": "AKIVA",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:30:07.120Z"
     }
   ],
   "withdrawals": [
