@@ -1950,7 +1950,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 1000,
@@ -1959,7 +1959,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:03:46.043Z"
     },
     {
       "username": "Schoolboy419",
@@ -20765,6 +20765,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:00:48.320Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T09:03:17.597Z"
     },
     {
