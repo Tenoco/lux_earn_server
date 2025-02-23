@@ -20120,14 +20120,15 @@
       "inviter_referral_code": "JO5G6",
       "inviter_username": "Josh Brezel ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:21:09.434Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
