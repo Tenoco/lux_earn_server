@@ -32981,7 +32981,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:44:38.539Z"
+      "joinDate": "2025-02-23T21:44:38.539Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "KHANTECH",
+      "email": "khantech113@gmail.com",
+      "encrypted_password": "6a40fd75e19cd86d3f197f766f770dd1",
+      "referral_code": "KHE4F",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 220,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:29:10.599Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
