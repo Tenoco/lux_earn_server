@@ -18685,11 +18685,12 @@
         "taoheed Ade ",
         "TAOHEED ADIO ",
         "Ade taoh",
-        "Taoheed Ade taoh "
+        "Taoheed Ade taoh ",
+        "Adegboye spark "
       ],
       "balance": 240,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -30978,7 +30979,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:59:26.494Z",
-      "lastSpin": "2025-02-23T20:00:55.162Z",
       "completedMissions": [
         4,
         4,
@@ -30989,7 +30989,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-23T20:00:55.162Z"
     },
     {
       "username": "Lavsjd",
@@ -31343,6 +31344,21 @@
       "joinDate": "2025-02-23T20:23:21.424Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adegboye spark ",
+      "email": "taoheedspark@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "AD525",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:25:17.801Z"
     }
   ],
   "withdrawals": [
