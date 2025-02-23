@@ -30176,13 +30176,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:10:19.213Z",
-      "completedMissions": [],
+      "completedMissions": [
+        4
+      ],
       "lastSpin": null
     },
     {
