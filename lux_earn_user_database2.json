@@ -16672,7 +16672,7 @@
       "inviter_referral_code": "CO4PD ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16683,9 +16683,10 @@
         1,
         2,
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        5
+      ]
     },
     {
       "username": "Olahitun",
@@ -16717,7 +16718,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:50:51.140Z"
+      "joinDate": "2025-02-23T01:50:51.140Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
