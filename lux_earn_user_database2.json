@@ -26144,10 +26144,12 @@
       "referral_code": "BKFS9",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "Uchepeace"
+      ],
       "balance": 192,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26347,7 +26349,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:23:58.169Z",
-      "lastSpin": "2025-02-23T14:24:52.711Z",
       "completedMissions": [
         4,
         5,
@@ -26358,7 +26359,8 @@
         14,
         11,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-23T14:24:52.711Z"
     },
     {
       "username": "Isaeyah",
@@ -26393,6 +26395,21 @@
       "joinDate": "2025-02-23T14:30:07.796Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uchepeace",
+      "email": "peaceuche0305@gmail.com",
+      "encrypted_password": "21573fe383e6a9d59f0faab122ad4a79",
+      "referral_code": "UCO12",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:33:22.057Z"
     }
   ],
   "withdrawals": [
