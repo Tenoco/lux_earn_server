@@ -6408,11 +6408,12 @@
         "Tosin",
         "Dominic001",
         "Goldden",
-        "Eniolaade2007"
+        "Eniolaade2007",
+        "Nnabuihe5"
       ],
       "balance": 138,
-      "refers": 52,
-      "referralBalance": 5200,
+      "refers": 53,
+      "referralBalance": 5300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -26322,7 +26323,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:23:42.624Z"
+      "joinDate": "2025-02-23T14:23:42.624Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nnabuihe5",
+      "email": "nneomajoy210@gmail.com",
+      "encrypted_password": "867765c5d112908c372395ad2a65b6f7",
+      "referral_code": "NN5AF",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:23:58.169Z"
     }
   ],
   "withdrawals": [
