@@ -21875,11 +21875,12 @@
         "Elect ",
         "House ",
         "Mitando ",
-        "Johnny"
+        "Johnny",
+        "Esiaga "
       ],
       "balance": 370,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -22415,6 +22416,21 @@
       "joinDate": "2025-02-23T10:47:24.329Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esiaga ",
+      "email": "sami345@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "ES5OR",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:48:24.245Z"
     }
   ],
   "withdrawals": [
