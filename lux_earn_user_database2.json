@@ -13887,11 +13887,12 @@
         "Abdul52",
         "Ndubueze Chikamnefe Unique ",
         "Adufeade ",
-        "dembele123"
+        "dembele123",
+        "starlight"
       ],
       "balance": 225,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -23287,7 +23288,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:42:41.397Z"
+      "joinDate": "2025-02-23T11:42:41.397Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "starlight",
+      "email": "elizabethmamudu561@gmail.com",
+      "encrypted_password": "35838b7ecbaa003dda2cfbe445d9f518",
+      "referral_code": "STVN6",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:43:00.827Z"
     }
   ],
   "withdrawals": [
