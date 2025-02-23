@@ -16271,11 +16271,12 @@
       "invited_users": [
         "Chris43415",
         "John4333",
-        "Mark562"
+        "Mark562",
+        "Chrislian455"
       ],
       "balance": 230,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16328,7 +16329,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:00:12.347Z",
-      "lastSpin": "2025-02-23T01:01:24.704Z",
       "completedMissions": [
         1,
         1,
@@ -16345,7 +16345,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-23T01:01:24.704Z"
     },
     {
       "username": "Khadeejat001",
@@ -16397,6 +16398,21 @@
       "joinDate": "2025-02-23T01:04:49.457Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chrislian455",
+      "email": "jagomusky@gamil.com",
+      "encrypted_password": "5eb57cf10f449acb4f31918887f607c2",
+      "referral_code": "CHQBV",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:06:35.948Z"
     }
   ],
   "withdrawals": [
