@@ -18698,7 +18698,7 @@
       "invited_users": [
         "ayanwaleadewale14@gmail.com"
       ],
-      "balance": 180,
+      "balance": 200,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -18714,7 +18714,8 @@
         11,
         14,
         13,
-        4
+        4,
+        8
       ],
       "lastSpin": "2025-02-23T07:06:38.290Z"
     },
@@ -20160,7 +20161,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:24:45.100Z"
+      "joinDate": "2025-02-23T08:24:45.100Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
