@@ -19157,7 +19157,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 40,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19165,7 +19165,9 @@
       "joinDate": "2025-02-22T04:54:01.863Z",
       "completedMissions": [
         11,
-        12
+        12,
+        14,
+        13
       ],
       "lastSpin": null
     },
@@ -19200,10 +19202,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:31:07.534Z",
-      "lastSpin": "2025-02-23T07:31:50.713Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T07:31:50.713Z"
     }
   ],
   "withdrawals": [
