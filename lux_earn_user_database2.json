@@ -6437,11 +6437,12 @@
         "adedapofaishat@gmail.com",
         "Kareem ",
         "Haryor_Richie",
-        "Davidnwokedike"
+        "Davidnwokedike",
+        "markugoh53"
       ],
       "balance": 138,
-      "refers": 72,
-      "referralBalance": 7200,
+      "refers": 73,
+      "referralBalance": 7300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29254,6 +29255,21 @@
       "joinDate": "2025-02-23T17:33:45.361Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "markugoh53",
+      "email": "markugoh53@gmail.com",
+      "encrypted_password": "eecda94d73327758c766e0065f242a23",
+      "referral_code": "MAO4Y",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:40:40.252Z"
     }
   ],
   "withdrawals": [
