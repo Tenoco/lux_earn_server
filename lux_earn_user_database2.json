@@ -10947,11 +10947,12 @@
       "inviter_referral_code": "CHUQV",
       "inviter_username": null,
       "invited_users": [
-        "Basheet305"
+        "Basheet305",
+        "Aygold22"
       ],
       "balance": 140,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:31:00.998Z",
@@ -21516,6 +21517,21 @@
         5
       ],
       "lastSpin": "2025-02-22T04:32:50.148Z"
+    },
+    {
+      "username": "Aygold22",
+      "email": "olujobidammy6@gmail.com",
+      "encrypted_password": "efda2a5150872519719e58cd148cbfc9",
+      "referral_code": "AYT8B",
+      "inviter_referral_code": "QUNC3",
+      "inviter_username": "Quadriano",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:50:50.554Z"
     }
   ],
   "withdrawals": [
