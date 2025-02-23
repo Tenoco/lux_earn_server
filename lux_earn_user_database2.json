@@ -14646,11 +14646,12 @@
       "invited_users": [
         "korex56",
         "Samuel1 ",
-        "Dommy "
+        "Dommy ",
+        "Igbaisaac"
       ],
       "balance": 186,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -25116,6 +25117,21 @@
       "joinDate": "2025-02-23T13:19:49.356Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Igbaisaac",
+      "email": "igbaisaac06@gmail.com",
+      "encrypted_password": "877132c02495db653caceccfe5caf9d4",
+      "referral_code": "IG9BF",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:20:44.238Z"
     }
   ],
   "withdrawals": [
