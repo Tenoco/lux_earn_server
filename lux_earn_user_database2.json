@@ -2910,11 +2910,12 @@
         "Jonaholuji1",
         "Oladeji123",
         "Don Berry ",
-        "Rofiat morenike"
+        "Rofiat morenike",
+        "Kawuu"
       ],
       "balance": 1030,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -31928,6 +31929,21 @@
       "joinDate": "2025-02-23T20:41:25.615Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kawuu",
+      "email": "andasanamanopwa@gmail.com",
+      "encrypted_password": "b2892eb111bb2b6bc72127ddd3b66933",
+      "referral_code": "KA9SM",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:41:53.592Z"
     }
   ],
   "withdrawals": [
