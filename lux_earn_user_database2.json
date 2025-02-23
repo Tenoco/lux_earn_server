@@ -20978,14 +20978,20 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:09:10.138Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        8
+      ]
     },
     {
       "username": "Omoshile ",
@@ -21190,7 +21196,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:22:55.491Z"
+      "joinDate": "2025-02-23T09:22:55.491Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
