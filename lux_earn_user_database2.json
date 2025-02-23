@@ -18158,11 +18158,12 @@
       "inviter_username": "Holar",
       "invited_users": [
         "Kidding ",
-        "Baggy"
+        "Baggy",
+        "Binding "
       ],
       "balance": 272,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -18722,7 +18723,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:01:30.929Z"
+      "joinDate": "2025-02-23T07:01:30.929Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Binding ",
+      "email": "cfmcares@olamagri.com",
+      "encrypted_password": "8ddcff3a80f4189ca1c9d4d902c3c909",
+      "referral_code": "BIAN7",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:02:06.858Z"
     }
   ],
   "withdrawals": [
