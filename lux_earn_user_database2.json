@@ -11410,11 +11410,12 @@
       "inviter_username": null,
       "invited_users": [
         "Abubakar123",
-        "Ibrahim salisu "
+        "Ibrahim salisu ",
+        "Maryamsalihu"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -25164,6 +25165,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Maryamsalihu",
+      "email": "maryamsalihu2008@gmail.com",
+      "encrypted_password": "0cb4d1e163bb6a30020abd7a8394b2d9",
+      "referral_code": "MALB9",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:21:33.256Z"
     }
   ],
   "withdrawals": [
