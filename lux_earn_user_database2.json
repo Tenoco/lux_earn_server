@@ -27225,10 +27225,12 @@
       "referral_code": "BLMXT",
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
-      "invited_users": [],
+      "invited_users": [
+        "Victor 4"
+      ],
       "balance": 161,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:08:04.031Z",
@@ -27348,6 +27350,21 @@
       "joinDate": "2025-02-23T15:17:30.117Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victor 4",
+      "email": "arowolofunke6@gmail.com",
+      "encrypted_password": "5ebcdd586bba9d53ea6739ce34bedade",
+      "referral_code": "VIIWH",
+      "inviter_referral_code": "BLMXT",
+      "inviter_username": "BLESSYN 33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:18:41.511Z"
     }
   ],
   "withdrawals": [
