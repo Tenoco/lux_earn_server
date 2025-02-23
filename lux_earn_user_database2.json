@@ -24131,11 +24131,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "davidd",
-        "thsophiastallone2"
+        "thsophiastallone2",
+        "malloybritt82"
       ],
       "balance": 90,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:23:35.035Z",
@@ -24470,7 +24471,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T20:58:25.094Z"
+      "joinDate": "2025-02-22T20:58:25.094Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "malloybritt82",
+      "email": "davidasmee0244@gmail.com",
+      "encrypted_password": "d9f3cbc8f7521782511bbf667cf8738d",
+      "referral_code": "MAE42",
+      "inviter_referral_code": "MA2C5",
+      "inviter_username": "Malloy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:59:09.698Z"
     }
   ],
   "withdrawals": [
