@@ -18696,11 +18696,12 @@
         "Adegboye spark ",
         "Ecom Taoheed ",
         "Elite prosper",
-        "Elliot Grant "
+        "Elliot Grant ",
+        "ECOM Legend "
       ],
       "balance": 240,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31576,6 +31577,21 @@
       "joinDate": "2025-02-23T20:33:30.779Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ECOM Legend ",
+      "email": "ecomlegend0@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "ECZHR",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:34:07.942Z"
     }
   ],
   "withdrawals": [
