@@ -26384,11 +26384,12 @@
         "Peace 34",
         "Rejoice love",
         "Ritaaa",
-        "Yogan1"
+        "Yogan1",
+        "Esther10"
       ],
       "balance": 170,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -32178,6 +32179,21 @@
       "joinDate": "2025-02-23T20:57:12.150Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esther10",
+      "email": "userdera204@gmail.com",
+      "encrypted_password": "5a2993689ff374f7152b66380e8d9c7b",
+      "referral_code": "ESEZT",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:58:21.176Z"
     }
   ],
   "withdrawals": [
