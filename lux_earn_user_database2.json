@@ -19095,13 +19095,16 @@
       "inviter_referral_code": "IBNG9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14,
+        13
+      ],
       "lastSpin": "2025-02-23T07:19:32.028Z"
     },
     {
