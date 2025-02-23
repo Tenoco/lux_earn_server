@@ -8682,7 +8682,7 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": "Darahnny",
       "invited_users": [],
-      "balance": 531,
+      "balance": 536,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8718,7 +8718,7 @@
         5,
         5
       ],
-      "lastSpin": "2025-02-21T23:46:34.607Z"
+      "lastSpin": "2025-02-23T15:29:43.790Z"
     },
     {
       "username": "Ebigud",
@@ -27511,7 +27511,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:28:47.231Z"
+      "joinDate": "2025-02-23T15:28:47.231Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
