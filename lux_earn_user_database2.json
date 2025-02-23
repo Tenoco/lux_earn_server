@@ -13747,11 +13747,12 @@
         "Testimony ",
         "Biskld",
         "Abdul52",
-        "Ndubueze Chikamnefe Unique "
+        "Ndubueze Chikamnefe Unique ",
+        "Adufeade "
       ],
       "balance": 225,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -18298,6 +18299,21 @@
         2
       ],
       "lastSpin": "2025-02-21T07:27:19.402Z"
+    },
+    {
+      "username": "Adufeade ",
+      "email": "oladehindeoluwatobiloba03@gmail.com",
+      "encrypted_password": "137345fad1f9864908d7d9932dd85a9f",
+      "referral_code": "AD0AZ",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:35:44.316Z"
     }
   ],
   "withdrawals": [
