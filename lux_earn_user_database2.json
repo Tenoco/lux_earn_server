@@ -30935,6 +30935,28 @@
       "joinDate": "2025-02-23T19:59:26.494Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lavsjd",
+      "email": "levijonathan444@gmail.com",
+      "encrypted_password": "418726305e81a9fdc7429048002aa6c1",
+      "referral_code": "LA1RQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Arinze Dominic "
+      ],
+      "balance": 70,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:11:31.529Z",
+      "completedMissions": [
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
