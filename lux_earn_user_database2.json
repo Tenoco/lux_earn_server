@@ -9887,11 +9887,12 @@
       "invited_users": [
         "Thank god",
         "Mechonation ",
-        "Oyinbo abosede"
+        "Oyinbo abosede",
+        "Samuel"
       ],
       "balance": 341,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -20145,6 +20146,21 @@
       "joinDate": "2025-02-23T08:23:01.544Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samuel",
+      "email": "osamudiamenosaro04@gmail.com",
+      "encrypted_password": "3e6f7568aac84d6a7dfe1b3641698697",
+      "referral_code": "SA101",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:24:45.100Z"
     }
   ],
   "withdrawals": [
