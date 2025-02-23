@@ -6416,11 +6416,12 @@
         "Eniolaade2007",
         "Nnabuihe5",
         "First FC ",
-        "Kemmzy "
+        "Kemmzy ",
+        "Tizzy"
       ],
       "balance": 138,
-      "refers": 55,
-      "referralBalance": 5500,
+      "refers": 56,
+      "referralBalance": 5600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27095,6 +27096,21 @@
         8
       ],
       "lastSpin": "2025-02-20T23:33:10.640Z"
+    },
+    {
+      "username": "Tizzy",
+      "email": "tizzysmart30@gmail.com",
+      "encrypted_password": "d1a4ffd374318a8be92be9e93a00742d",
+      "referral_code": "TI93N",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:01:50.203Z"
     }
   ],
   "withdrawals": [
