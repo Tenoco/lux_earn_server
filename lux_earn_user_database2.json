@@ -21842,11 +21842,12 @@
       "invited_users": [
         "Flower",
         "Emmanuelemmzy",
-        "Marc"
+        "Marc",
+        "Toma"
       ],
       "balance": 370,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -21935,7 +21936,8 @@
         13,
         12,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Korede",
@@ -21970,6 +21972,21 @@
       "joinDate": "2025-02-23T10:20:33.887Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Toma",
+      "email": "godsentsaint5@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "TOMZ5",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:23:20.688Z"
     }
   ],
   "withdrawals": [
