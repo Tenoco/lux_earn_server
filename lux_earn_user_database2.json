@@ -16897,7 +16897,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T03:03:42.801Z"
+      "joinDate": "2025-02-23T03:03:42.801Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Spy",
+      "email": "ridwanullahridwanullah81@gmail.com",
+      "encrypted_password": "9f4c66601d1ef4a4d0903c8ef162a0e1",
+      "referral_code": "SPAEX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T03:05:39.724Z"
     }
   ],
   "withdrawals": [
