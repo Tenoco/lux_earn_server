@@ -6330,11 +6330,12 @@
         "Emmanuel Okechukwu ",
         "vvvvv",
         "Brazeel01",
-        "Christiana Sunday "
+        "Christiana Sunday ",
+        "GIFTED "
       ],
       "balance": 138,
-      "refers": 36,
-      "referralBalance": 3600,
+      "refers": 37,
+      "referralBalance": 3700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23771,6 +23772,21 @@
       "joinDate": "2025-02-23T12:02:40.060Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "GIFTED ",
+      "email": "Oghenegaregifted@gmail.com",
+      "encrypted_password": "0f622479a38c32290abd5b187d91d188",
+      "referral_code": "GILE6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:04:00.451Z"
     }
   ],
   "withdrawals": [
