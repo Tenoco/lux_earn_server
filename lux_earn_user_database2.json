@@ -2326,7 +2326,7 @@
       "invited_users": [
         "Setemi"
       ],
-      "balance": 1100,
+      "balance": 1110,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2338,7 +2338,8 @@
         14,
         11,
         10,
-        12
+        12,
+        7
       ],
       "lastSpin": "2025-02-22T18:20:27.203Z"
     },
@@ -25953,7 +25954,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:57:24.092Z"
+      "joinDate": "2025-02-23T13:57:24.092Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
