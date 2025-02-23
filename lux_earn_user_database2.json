@@ -24130,11 +24130,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "davidd"
+        "davidd",
+        "thsophiastallone2"
       ],
       "balance": 90,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:23:35.035Z",
@@ -24355,7 +24356,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:36:53.968Z",
-      "lastSpin": "2025-02-23T12:40:39.554Z",
       "completedMissions": [
         4,
         4,
@@ -24367,7 +24367,8 @@
         5,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-23T12:40:39.554Z"
     },
     {
       "username": "Gabifez ",
@@ -24455,6 +24456,21 @@
       "joinDate": "2025-02-22T20:55:58.170Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "thsophiastallone2",
+      "email": "davidasmee024@gmail.com",
+      "encrypted_password": "53746bd41551f3853242c5a39a39d321",
+      "referral_code": "THX68",
+      "inviter_referral_code": "MA2C5",
+      "inviter_username": "Malloy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:58:25.094Z"
     }
   ],
   "withdrawals": [
