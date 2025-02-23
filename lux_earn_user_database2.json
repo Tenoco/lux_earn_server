@@ -16447,7 +16447,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:08:45.175Z"
+      "joinDate": "2025-02-23T01:08:45.175Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mamarh",
+      "email": "bilkisuusman374@gmail.com",
+      "encrypted_password": "acd9cd16ede2ffeba3de9912affaab1d",
+      "referral_code": "MA7NU",
+      "inviter_referral_code": "DAPBL",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:10:30.248Z"
     }
   ],
   "withdrawals": [
