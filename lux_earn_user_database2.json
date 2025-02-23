@@ -1292,7 +1292,7 @@
       "invited_users": [
         "Marvelous00"
       ],
-      "balance": 251,
+      "balance": 252,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 1000,
@@ -1315,7 +1315,7 @@
         14,
         11
       ],
-      "lastSpin": "2025-02-22T08:29:37.400Z"
+      "lastSpin": "2025-02-23T12:12:00.436Z"
     },
     {
       "username": "Clintlossy ",
@@ -23880,7 +23880,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:10:59.328Z"
+      "joinDate": "2025-02-23T12:10:59.328Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
