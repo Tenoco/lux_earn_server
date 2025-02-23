@@ -20938,14 +20938,15 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:08:02.023Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Idrisabdull ",
@@ -20960,7 +20961,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:09:10.138Z"
+      "joinDate": "2025-02-23T09:09:10.138Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
