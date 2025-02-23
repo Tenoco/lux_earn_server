@@ -24967,7 +24967,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:15:46.787Z"
+      "joinDate": "2025-02-23T13:15:46.787Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ifeoluwaoluwakemi ",
+      "email": "ifeoluwaayomide469@gmail.com",
+      "encrypted_password": "39d79b16d5fde253ca18127d13559853",
+      "referral_code": "IFQEF",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [],
+      "balance": 205,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:54:09.486Z",
+      "completedMissions": [
+        1,
+        2,
+        6,
+        7,
+        7,
+        9,
+        8,
+        8
+      ],
+      "lastSpin": "2025-02-21T13:01:17.990Z"
     }
   ],
   "withdrawals": [
