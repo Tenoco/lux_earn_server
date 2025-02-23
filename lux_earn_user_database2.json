@@ -14039,11 +14039,12 @@
       "inviter_username": null,
       "invited_users": [
         "Gifts",
-        "Trey"
+        "Trey",
+        "Jonnyy"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -31882,6 +31883,21 @@
       "joinDate": "2025-02-23T20:38:40.703Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jonnyy",
+      "email": "jacobbissala@gmail.com",
+      "encrypted_password": "ad81541ef4ac6ff95700cf139e03a68c",
+      "referral_code": "JONN1",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:39:36.413Z"
     }
   ],
   "withdrawals": [
