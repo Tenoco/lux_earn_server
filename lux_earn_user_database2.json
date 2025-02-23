@@ -18789,11 +18789,12 @@
         "trust",
         "Kevin ",
         "abdul",
-        "abdulra"
+        "abdulra",
+        "labdullahu"
       ],
       "balance": 91,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -18877,6 +18878,21 @@
       "joinDate": "2025-02-23T07:08:51.839Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "labdullahu",
+      "email": "abdulrahmanhabeeb804@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "LACIC",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:10:26.860Z"
     }
   ],
   "withdrawals": [
