@@ -22038,7 +22038,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 140,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22054,7 +22054,7 @@
         12,
         11
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T12:45:48.165Z"
     },
     {
       "username": "sallee",
@@ -24357,7 +24357,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:36:53.968Z",
-      "lastSpin": "2025-02-23T12:40:39.554Z",
       "completedMissions": [
         4,
         4,
@@ -24372,7 +24371,8 @@
         6,
         11,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-23T12:40:39.554Z"
     },
     {
       "username": "Gabifez ",
