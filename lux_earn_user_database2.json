@@ -33203,11 +33203,12 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [
-        "Bawasa"
+        "Bawasa",
+        "Mage"
       ],
       "balance": 48,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:04:50.390Z",
@@ -33343,6 +33344,21 @@
       "joinDate": "2025-02-23T22:18:47.367Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T22:19:20.100Z"
+    },
+    {
+      "username": "Mage",
+      "email": "sulaimanharunakyw99@gmail.com",
+      "encrypted_password": "a9c27e18c273c95d759f9032b26152bd",
+      "referral_code": "MARC3",
+      "inviter_referral_code": "NORM5",
+      "inviter_username": "Noplay",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:21:45.092Z"
     }
   ],
   "withdrawals": [
