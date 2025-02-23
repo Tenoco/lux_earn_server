@@ -23270,7 +23270,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:42:29.178Z"
+      "joinDate": "2025-02-23T11:42:29.178Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Phydorh ",
+      "email": "firdausirilwanu@gmail.com",
+      "encrypted_password": "75f34b5502bec3c609734fdf4d37fa5c",
+      "referral_code": "PH54X",
+      "inviter_referral_code": "UMT08",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:42:41.397Z"
     }
   ],
   "withdrawals": [
