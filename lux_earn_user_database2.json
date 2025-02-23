@@ -18733,11 +18733,12 @@
         "Ennesa Pro",
         "Alexroberts ",
         "Alex James Roberts ",
-        "Georgedave "
+        "Georgedave ",
+        "Stellamarris "
       ],
       "balance": 240,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -32157,7 +32158,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:57:03.602Z"
+      "joinDate": "2025-02-23T20:57:03.602Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Stellamarris ",
+      "email": "stellamarris908@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "STFMQ",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:57:12.150Z"
     }
   ],
   "withdrawals": [
