@@ -19113,7 +19113,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:24:10.486Z"
+      "joinDate": "2025-02-23T07:24:10.486Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lopezcat1",
+      "email": "imafidorfavour20@gmail.com",
+      "encrypted_password": "8157a06cd0c8128b553a624b47bf53a7",
+      "referral_code": "LON02",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:54:01.863Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
