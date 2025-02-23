@@ -22026,7 +22026,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 80,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22038,7 +22038,9 @@
         2,
         4,
         5,
-        7
+        7,
+        6,
+        8
       ],
       "lastSpin": null
     },
@@ -22233,7 +22235,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:37:03.653Z"
+      "joinDate": "2025-02-23T10:37:03.653Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
