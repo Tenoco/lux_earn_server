@@ -18123,11 +18123,12 @@
         "evileve23",
         "dandilla",
         "Alexia drums",
-        "SMART4VTU"
+        "SMART4VTU",
+        "Dannyboi"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -19438,6 +19439,21 @@
       "joinDate": "2025-02-23T07:41:41.922Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dannyboi",
+      "email": "danieldiked6@gmail.com",
+      "encrypted_password": "cc9f0a6e53da3e9ae7f5d076c09d34c8",
+      "referral_code": "DAQ0N",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:42:58.910Z"
     }
   ],
   "withdrawals": [
