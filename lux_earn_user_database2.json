@@ -26753,16 +26753,16 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:09.889Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2
+      ]
     },
     {
       "username": "Comedianramadan",
@@ -26838,7 +26838,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:47:23.746Z"
+      "joinDate": "2025-02-23T14:47:23.746Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
