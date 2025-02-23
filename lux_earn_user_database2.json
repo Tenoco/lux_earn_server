@@ -23023,11 +23023,12 @@
       "invited_users": [
         "mikumoosamu",
         "hhhhh",
-        "aaaaa"
+        "aaaaa",
+        "ssssss"
       ],
       "balance": 285,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:29:31.033Z",
@@ -23467,7 +23468,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:51:49.824Z"
+      "joinDate": "2025-02-23T11:51:49.824Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ssssss",
+      "email": "os.amumikumo06@gmail.com",
+      "encrypted_password": "af15d5fdacd5fdfea300e88a8e253e82",
+      "referral_code": "SSXEB",
+      "inviter_referral_code": "GHPUW",
+      "inviter_username": "ghgc",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:52:44.511Z"
     }
   ],
   "withdrawals": [
