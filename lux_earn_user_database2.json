@@ -32338,14 +32338,24 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 10,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:04:21.931Z",
       "completedMissions": [
-        2
+        2,
+        4,
+        4,
+        1,
+        16,
+        5,
+        6,
+        7,
+        15,
+        10,
+        11
       ],
       "lastSpin": null
     },
