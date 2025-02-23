@@ -22520,7 +22520,7 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 60,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22530,7 +22530,10 @@
         1,
         2,
         4,
-        5
+        5,
+        6,
+        6,
+        7
       ],
       "lastSpin": null
     },
@@ -24935,7 +24938,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:13:10.317Z"
+      "joinDate": "2025-02-23T13:13:10.317Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
