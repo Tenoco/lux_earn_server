@@ -20440,14 +20440,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:44:34.470Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Tikiabtc",
@@ -20493,7 +20494,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:45:19.019Z"
+      "joinDate": "2025-02-23T08:45:19.019Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
