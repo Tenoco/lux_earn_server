@@ -25983,11 +25983,12 @@
         "Daniel",
         "Gifto 193",
         "Thompson 37",
-        "Emaculate36"
+        "Emaculate36",
+        "Quan123"
       ],
       "balance": 170,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27048,6 +27049,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Quan123",
+      "email": "maldives59@gmail.com",
+      "encrypted_password": "c8837b23ff8aaa8a2dde915473ce0991",
+      "referral_code": "QUM9G",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:00:14.682Z"
     }
   ],
   "withdrawals": [
