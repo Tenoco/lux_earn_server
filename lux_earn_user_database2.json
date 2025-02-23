@@ -6315,11 +6315,12 @@
         "Bright",
         "Kelly osarenkhoe ",
         "miguel411",
-        "Adisa"
+        "Adisa",
+        "Olayinka 8"
       ],
       "balance": 138,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -22919,6 +22920,21 @@
         6
       ],
       "lastSpin": "2025-02-21T09:30:04.142Z"
+    },
+    {
+      "username": "Olayinka 8",
+      "email": "olaroze7@gmail.com",
+      "encrypted_password": "9f0b2121ab81dc15c7cc02656f3d6133",
+      "referral_code": "OLIL6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:25:22.556Z"
     }
   ],
   "withdrawals": [
