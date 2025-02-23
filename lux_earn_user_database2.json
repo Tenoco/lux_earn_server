@@ -6344,11 +6344,12 @@
         "Muhd aminu",
         "Tochek",
         "diniharunaali",
-        "Aanuade"
+        "Aanuade",
+        "Virty"
       ],
       "balance": 138,
-      "refers": 43,
-      "referralBalance": 4300,
+      "refers": 44,
+      "referralBalance": 4400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24902,6 +24903,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Virty",
+      "email": "virtyjerry19@gmail.com",
+      "encrypted_password": "9abb97003bb35aded7fc0bbd178906fa",
+      "referral_code": "VILRN",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:12:49.527Z"
     }
   ],
   "withdrawals": [
