@@ -8919,7 +8919,7 @@
         "Mercy",
         "Ogoluwa"
       ],
-      "balance": 1178,
+      "balance": 1183,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -8937,7 +8937,7 @@
         7,
         5
       ],
-      "lastSpin": "2025-02-21T06:08:48.108Z"
+      "lastSpin": "2025-02-23T18:46:28.235Z"
     },
     {
       "username": "Ogoluwa",
@@ -29741,7 +29741,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:46:16.449Z"
+      "joinDate": "2025-02-23T18:46:16.449Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
