@@ -11855,10 +11855,12 @@
       "referral_code": "LOKXN",
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Increaseworld"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:07:14.002Z",
@@ -21417,6 +21419,21 @@
         2
       ],
       "lastSpin": "2025-02-23T09:41:06.995Z"
+    },
+    {
+      "username": "Increaseworld",
+      "email": "adaezeuche603@gmail.com",
+      "encrypted_password": "613d3b9c91e9445abaeca02f2342e5a6",
+      "referral_code": "INY4Y",
+      "inviter_referral_code": "LOKXN",
+      "inviter_username": "logistics ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:41:39.272Z"
     }
   ],
   "withdrawals": [
