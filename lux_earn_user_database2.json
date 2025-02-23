@@ -26652,11 +26652,12 @@
         "maroeone",
         "Morgan299",
         "Brodalateef",
-        "mgdollars1"
+        "mgdollars1",
+        "Angel "
       ],
       "balance": 192,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -33094,7 +33095,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:56:30.672Z"
+      "joinDate": "2025-02-23T21:56:30.672Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Angel ",
+      "email": "a65297534@gmail.com",
+      "encrypted_password": "958be686ba410777f7c1339bbf12d5f5",
+      "referral_code": "AN9IQ",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:58:30.868Z"
     }
   ],
   "withdrawals": [
