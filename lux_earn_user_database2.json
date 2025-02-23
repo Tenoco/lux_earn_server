@@ -21654,10 +21654,12 @@
       "referral_code": "YE656",
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
-      "invited_users": [],
+      "invited_users": [
+        "Jedo Clara Oluwatosin"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:55:26.591Z",
@@ -21907,6 +21909,21 @@
         7
       ],
       "lastSpin": "2025-02-21T15:30:32.888Z"
+    },
+    {
+      "username": "Jedo Clara Oluwatosin",
+      "email": "jedoclara87@gmail.com",
+      "encrypted_password": "b76ad10c11efab84e98222c7556235a2",
+      "referral_code": "JE0CU",
+      "inviter_referral_code": "YE656",
+      "inviter_username": "Yemcee",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:18:46.196Z"
     }
   ],
   "withdrawals": [
