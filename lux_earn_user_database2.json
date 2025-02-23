@@ -32049,7 +32049,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 10,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32058,7 +32058,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T20:57:39.779Z"
     },
     {
       "username": "ecom legend0",
@@ -32175,7 +32175,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:57:12.150Z"
+      "joinDate": "2025-02-23T20:57:12.150Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
