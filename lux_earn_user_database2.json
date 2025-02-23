@@ -26441,11 +26441,12 @@
         "Bassey Anthonia ",
         "Precyken",
         "Vheek",
-        "Maryam"
+        "Maryam",
+        "samologi"
       ],
       "balance": 192,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -29378,6 +29379,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "samologi",
+      "email": "samologi009@gmail.com",
+      "encrypted_password": "79557d4d0423a9843991f1dd560eaa58",
+      "referral_code": "SAV3L",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:06:05.811Z"
     }
   ],
   "withdrawals": [
