@@ -26828,7 +26828,7 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26840,7 +26840,8 @@
         2,
         5,
         12,
-        14
+        14,
+        10
       ],
       "lastSpin": null
     },
@@ -30564,7 +30565,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:37:56.580Z"
+      "joinDate": "2025-02-23T19:37:56.580Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
