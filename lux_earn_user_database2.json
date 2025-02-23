@@ -6456,11 +6456,12 @@
         "Emque",
         "Osung ",
         "Awwal",
-        "Freshglow"
+        "Freshglow",
+        "Olaade "
       ],
       "balance": 138,
-      "refers": 84,
-      "referralBalance": 8400,
+      "refers": 85,
+      "referralBalance": 8500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30532,6 +30533,21 @@
       "joinDate": "2025-02-23T19:36:49.143Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olaade ",
+      "email": "123ayoba@gmail.com",
+      "encrypted_password": "d9cf0dd07b0b240457280712dac39cf8",
+      "referral_code": "OL3WT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:37:44.023Z"
     }
   ],
   "withdrawals": [
