@@ -28912,6 +28912,33 @@
       "joinDate": "2025-02-23T17:11:23.918Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Isaac ",
+      "email": "isaachakeem549@gmail.com",
+      "encrypted_password": "c5acb6291d1f8078307e94e1442bb0d2",
+      "referral_code": "ISG9D",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:57:09.026Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
