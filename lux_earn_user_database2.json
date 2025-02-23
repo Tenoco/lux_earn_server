@@ -19103,7 +19103,7 @@
       "inviter_referral_code": "IBNG9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 92,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19113,7 +19113,8 @@
         14,
         13,
         12,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-23T07:19:32.028Z"
     },
@@ -19521,7 +19522,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:45:52.150Z"
+      "joinDate": "2025-02-23T07:45:52.150Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
