@@ -23009,10 +23009,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:29:31.033Z",
-      "lastSpin": "2025-02-23T11:30:46.144Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T11:30:46.144Z"
     },
     {
       "username": "EmmanuelOkechukwu ",
@@ -23022,7 +23022,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23030,9 +23030,9 @@
       "joinDate": "2025-02-23T11:30:23.409Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     }
   ],
   "withdrawals": [
