@@ -20371,7 +20371,7 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 115,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20383,7 +20383,8 @@
         4,
         6,
         14,
-        13
+        13,
+        7
       ],
       "lastSpin": "2025-02-23T08:46:00.811Z"
     },
@@ -20563,7 +20564,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:50:16.321Z"
+      "joinDate": "2025-02-23T08:50:16.321Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
