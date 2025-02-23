@@ -24129,10 +24129,12 @@
       "referral_code": "MA2C5",
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
-      "invited_users": [],
+      "invited_users": [
+        "davidd"
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:23:35.035Z",
@@ -24412,6 +24414,21 @@
         10
       ],
       "lastSpin": "2025-02-21T09:15:40.964Z"
+    },
+    {
+      "username": "davidd",
+      "email": "davidasmee0@gmail.com",
+      "encrypted_password": "d9f3cbc8f7521782511bbf667cf8738d",
+      "referral_code": "DA5L8",
+      "inviter_referral_code": "MA2C5",
+      "inviter_username": "Malloy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:55:58.170Z"
     }
   ],
   "withdrawals": [
