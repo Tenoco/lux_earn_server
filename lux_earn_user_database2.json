@@ -26432,14 +26432,15 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:33:22.057Z",
       "completedMissions": [
-        1
+        1,
+        5
       ],
       "lastSpin": null
     },
