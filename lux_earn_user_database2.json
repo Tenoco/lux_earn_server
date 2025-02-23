@@ -12027,11 +12027,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [
-        "Pelumi123"
+        "Pelumi123",
+        "Tumise"
       ],
       "balance": 206,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:12:32.751Z",
@@ -25669,7 +25670,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:37:37.521Z",
-      "lastSpin": "2025-02-23T13:38:17.804Z",
       "completedMissions": [
         1,
         2,
@@ -25679,7 +25679,8 @@
         12,
         7,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-23T13:38:17.804Z"
     },
     {
       "username": "Mickey",
@@ -25764,6 +25765,21 @@
         3
       ],
       "lastSpin": "2025-02-21T12:36:10.346Z"
+    },
+    {
+      "username": "Tumise",
+      "email": "shobowalejoseph75@gmail.com",
+      "encrypted_password": "71f90ff360acd19c411436abbc21a192",
+      "referral_code": "TUMDN",
+      "inviter_referral_code": "WEXRG",
+      "inviter_username": "Wealth ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:44:17.437Z"
     }
   ],
   "withdrawals": [
