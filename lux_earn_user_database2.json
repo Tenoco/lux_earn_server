@@ -17594,7 +17594,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:41:37.457Z"
+      "joinDate": "2025-02-23T05:41:37.457Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omotayo1990",
+      "email": "olasunkanmiomotayo2@gmail.com",
+      "encrypted_password": "d08e3de51b5bc1fd226b29451dd9b03d",
+      "referral_code": "OM3JR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:42:23.498Z"
     }
   ],
   "withdrawals": [
