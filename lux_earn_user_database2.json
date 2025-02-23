@@ -16644,7 +16644,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 40,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16653,7 +16653,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        4,
+        13
       ]
     }
   ],
