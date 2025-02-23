@@ -26392,11 +26392,12 @@
         "Yogan1",
         "Esther10",
         "Ritajj3",
-        "Edithudo"
+        "Edithudo",
+        "Joben4"
       ],
       "balance": 170,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -32322,7 +32323,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:04:21.931Z"
+      "joinDate": "2025-02-23T21:04:21.931Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joben4",
+      "email": "jobenatiko@gmail.com",
+      "encrypted_password": "cb9ba0050a7864f0061070acc9421864",
+      "referral_code": "JO3QR",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:04:40.940Z"
     }
   ],
   "withdrawals": [
