@@ -16572,7 +16572,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:16:35.867Z"
+      "joinDate": "2025-02-23T01:16:35.867Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad3458",
+      "email": "babamm1720@gmail.com",
+      "encrypted_password": "1371fec8030102822af5b248cd94d087",
+      "referral_code": "MU6VM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:17:19.330Z"
     }
   ],
   "withdrawals": [
