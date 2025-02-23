@@ -13723,11 +13723,12 @@
       "invited_users": [
         "Testimony ",
         "Biskld",
-        "Abdul52"
+        "Abdul52",
+        "Ndubueze Chikamnefe Unique "
       ],
       "balance": 225,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -17752,6 +17753,21 @@
         7
       ],
       "lastSpin": "2025-02-21T11:18:26.314Z"
+    },
+    {
+      "username": "Ndubueze Chikamnefe Unique ",
+      "email": "ncunique1993@gmail.com",
+      "encrypted_password": "96d201209b959ae9b4da6ce14938d3fc",
+      "referral_code": "ND54X",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:57:33.545Z"
     }
   ],
   "withdrawals": [
