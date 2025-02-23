@@ -34261,6 +34261,36 @@
       "joinDate": "2025-02-23T23:56:00.120Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Martins1736",
+      "email": "bemanamartins@gmail.com",
+      "encrypted_password": "c42357315e77ab28b3897d4368b64108",
+      "referral_code": "MAGXK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Kamsy"
+      ],
+      "balance": 385,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:03:51.186Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        3,
+        7,
+        8,
+        6,
+        11,
+        10,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
