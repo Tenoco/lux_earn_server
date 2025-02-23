@@ -17647,7 +17647,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 172,
+      "balance": 192,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17663,7 +17663,8 @@
         7,
         8,
         8,
-        9
+        9,
+        14
       ],
       "lastSpin": "2025-02-23T05:46:51.268Z"
     },
@@ -18214,7 +18215,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
-      "lastSpin": "2025-02-23T06:29:16.973Z",
       "completedMissions": [
         2,
         1,
@@ -18229,7 +18229,8 @@
         7,
         9,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-23T06:29:16.973Z"
     },
     {
       "username": "Wisdom024",
