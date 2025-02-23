@@ -6461,11 +6461,12 @@
         "Nomcy25",
         "Ayo",
         "igiegbowa Victoria ",
-        "Ufuoskzoo "
+        "Ufuoskzoo ",
+        "Fyne"
       ],
       "balance": 138,
-      "refers": 89,
-      "referralBalance": 8900,
+      "refers": 90,
+      "referralBalance": 9000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30743,7 +30744,8 @@
         6,
         5,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ufuoskzoo ",
@@ -30795,6 +30797,21 @@
       "joinDate": "2025-02-23T19:53:14.743Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fyne",
+      "email": "fynepretty88@gmail.com",
+      "encrypted_password": "97eeebbee67c5ce7321e2c8fd18d3836",
+      "referral_code": "FYHNR",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:54:28.494Z"
     }
   ],
   "withdrawals": [
