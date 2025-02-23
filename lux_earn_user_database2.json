@@ -16272,11 +16272,12 @@
         "Chris43415",
         "John4333",
         "Mark562",
-        "Chrislian455"
+        "Chrislian455",
+        "Bello55443"
       ],
       "balance": 230,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16429,7 +16430,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:07:23.972Z"
+      "joinDate": "2025-02-23T01:07:23.972Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bello55443",
+      "email": "elonmusk@gamil.com",
+      "encrypted_password": "72611198a9bf24753f7990bb777a6755",
+      "referral_code": "BEOQN",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:08:45.175Z"
     }
   ],
   "withdrawals": [
