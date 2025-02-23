@@ -6474,11 +6474,12 @@
         "Nwuba ",
         "Casmirdaniel",
         "Timothy1",
-        "Victors3450"
+        "Victors3450",
+        "Idenyi20"
       ],
       "balance": 138,
-      "refers": 99,
-      "referralBalance": 9900,
+      "refers": 100,
+      "referralBalance": 10000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32304,7 +32305,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:03:22.868Z"
+      "joinDate": "2025-02-23T21:03:22.868Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Idenyi20",
+      "email": "chukwuemeka225580@gmail.com",
+      "encrypted_password": "1d503f2df931cf5bfe1028dd929e9efb",
+      "referral_code": "IDX9Y",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:04:21.931Z"
     }
   ],
   "withdrawals": [
