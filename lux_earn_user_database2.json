@@ -18558,7 +18558,7 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18570,9 +18570,9 @@
         1,
         2,
         9,
-        5
-      ],
-      "lastSpin": null
+        5,
+        11
+      ]
     },
     {
       "username": "Dandee ",
@@ -18642,7 +18642,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Teetaiwo",
