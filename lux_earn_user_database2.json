@@ -31190,7 +31190,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:18:19.917Z"
+      "joinDate": "2025-02-23T20:18:19.917Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rockzymalone",
+      "email": "mic777300@gmail.com",
+      "encrypted_password": "487670911c55dd7f8d8386e3f0de4348",
+      "referral_code": "RONL0",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": "Peculiarity86 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:31:56.159Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
