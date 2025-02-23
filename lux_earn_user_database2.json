@@ -9905,11 +9905,12 @@
         "Thank god",
         "Mechonation ",
         "Oyinbo abosede",
-        "Samuel"
+        "Samuel",
+        "Oyewmenosa "
       ],
       "balance": 341,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -20924,6 +20925,21 @@
         3
       ],
       "lastSpin": "2025-02-21T09:11:38.226Z"
+    },
+    {
+      "username": "Oyewmenosa ",
+      "email": "oyewmenosa@gmail.com",
+      "encrypted_password": "1276319542f7a1624b73ae178108805e",
+      "referral_code": "OYHCN",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:08:02.023Z"
     }
   ],
   "withdrawals": [
