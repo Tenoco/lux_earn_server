@@ -28699,11 +28699,12 @@
       "inviter_username": "OSVMEDIA",
       "invited_users": [
         "Ibrahimub",
-        "Nadiyahhh"
+        "Nadiyahhh",
+        "Zaslma"
       ],
       "balance": 25,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:59:26.425Z",
@@ -28815,7 +28816,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:04:01.757Z"
+      "joinDate": "2025-02-23T17:04:01.757Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zaslma",
+      "email": "ajakaephojo@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "ZA0S1",
+      "inviter_referral_code": "ZAO7S",
+      "inviter_username": "Zainabu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:04:46.719Z"
     }
   ],
   "withdrawals": [
