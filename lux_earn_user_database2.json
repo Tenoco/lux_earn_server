@@ -17702,10 +17702,12 @@
       "referral_code": "OM3JR",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Afeez1994"
+      ],
       "balance": 252,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:42:23.498Z",
@@ -19505,6 +19507,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Afeez1994",
+      "email": "sulaimonafeez579@gmail.com",
+      "encrypted_password": "0ad63449ff99e0cd6df40a832c335be8",
+      "referral_code": "AFFPD",
+      "inviter_referral_code": "OM3JR",
+      "inviter_username": "Omotayo1990",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:45:52.150Z"
     }
   ],
   "withdrawals": [
