@@ -29847,10 +29847,12 @@
       "referral_code": "EM0O7",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Adeoluwadamilare"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:33.374Z",
@@ -29916,7 +29918,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:01:01.893Z"
+      "joinDate": "2025-02-23T19:01:01.893Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeoluwadamilare",
+      "email": "ogidilogung@gmail.com",
+      "encrypted_password": "84cfafb50b7da124aff33eb0140e2db8",
+      "referral_code": "ADBEL",
+      "inviter_referral_code": "EM0O7",
+      "inviter_username": "Emque",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:01:21.627Z"
     }
   ],
   "withdrawals": [
