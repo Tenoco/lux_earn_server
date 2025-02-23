@@ -31054,11 +31054,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:10:52.477Z",
-      "lastSpin": "2025-02-23T20:11:23.462Z",
       "completedMissions": [
         4,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T20:11:23.462Z"
     },
     {
       "username": "Chidera",
@@ -31071,7 +31071,7 @@
         "Ogbe",
         "Oladaz"
       ],
-      "balance": 210,
+      "balance": 230,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -31084,7 +31084,8 @@
         3,
         4,
         5,
-        9
+        9,
+        14
       ],
       "lastSpin": null
     }
