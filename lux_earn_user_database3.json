@@ -1,6 +1,26 @@
 {
-    "users": [],
-    "withdrawals": [],
-    "missions": [],
-    "vtu": []
+  "users": [
+    {
+      "username": "Tenoco",
+      "email": "tenocostudio0@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "TEQZ9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Tech"
+      ],
+      "balance": 5000,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T19:52:56.822Z",
+      "completedMissions": [],
+      "lastSpin": null
+    }
+  ],
+  "withdrawals": [],
+  "missions": [],
+  "vtu": []
 }
