@@ -28051,7 +28051,7 @@
         "Pelumi23",
         "Prosperity 213"
       ],
-      "balance": 713,
+      "balance": 753,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -28085,7 +28085,10 @@
         13,
         13,
         13,
-        12
+        12,
+        11,
+        10,
+        10
       ],
       "lastSpin": "2025-02-23T16:08:08.229Z"
     },
@@ -28103,6 +28106,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:10:40.888Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T16:11:33.491Z"
     }
   ],
