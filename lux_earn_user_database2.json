@@ -32376,7 +32376,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:06:30.643Z"
+      "joinDate": "2025-02-23T21:06:30.643Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Khalifa001",
+      "email": "khaleefahmuhammad991@gmail.com",
+      "encrypted_password": "197a3670226ada0573e73e6e74baecc3",
+      "referral_code": "KHZEI",
+      "inviter_referral_code": "*BKFS9* ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:07:00.492Z"
     }
   ],
   "withdrawals": [
