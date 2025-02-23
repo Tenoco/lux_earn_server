@@ -6501,11 +6501,12 @@
         "Esther ",
         "Lekkxygold",
         "Yusufsin12",
-        "Dady0488"
+        "Dady0488",
+        "Henr555"
       ],
       "balance": 138,
-      "refers": 113,
-      "referralBalance": 11300,
+      "refers": 114,
+      "referralBalance": 11400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33868,6 +33869,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Henr555",
+      "email": "henryakelele5@gmail.com",
+      "encrypted_password": "77b675f53fb0ee42b6f8be4c84e49bb9",
+      "referral_code": "HE0IW",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:03:36.644Z"
     }
   ],
   "withdrawals": [
