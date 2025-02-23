@@ -27135,14 +27135,17 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 22,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:01:50.203Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T15:09:52.332Z"
+      "lastSpin": "2025-02-23T15:09:52.332Z",
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Jodan105",
@@ -27364,7 +27367,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:18:41.511Z"
+      "joinDate": "2025-02-23T15:18:41.511Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
