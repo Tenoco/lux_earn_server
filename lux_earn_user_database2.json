@@ -18972,7 +18972,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:15:31.542Z"
+      "joinDate": "2025-02-23T07:15:31.542Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Msiniya",
+      "email": "ssiniya37@gmail.com",
+      "encrypted_password": "664c84de60fddddb7c8e24069dbdb93e",
+      "referral_code": "MSK4Z",
+      "inviter_referral_code": "Sawy4",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 251,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:38:38.802Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        7,
+        9
+      ],
+      "lastSpin": "2025-02-21T07:39:32.737Z"
     }
   ],
   "withdrawals": [
