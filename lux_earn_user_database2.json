@@ -23270,11 +23270,12 @@
         "Manuel12",
         "rosylaura775",
         "Peacechinonso",
-        "Benjazzy"
+        "Benjazzy",
+        "Nasmatu Haruna"
       ],
       "balance": 250,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -27588,7 +27589,23 @@
       "joinDate": "2025-02-23T15:33:35.308Z",
       "completedMissions": [
         11
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Nasmatu Haruna",
+      "email": "nasmatuharuna7@gmail.com",
+      "encrypted_password": "dd5e7c0e95f68b02f489117c8ed7b4f5",
+      "referral_code": "NAIWW",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:36:41.513Z"
     }
   ],
   "withdrawals": [
