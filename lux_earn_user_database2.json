@@ -12378,11 +12378,12 @@
         "Fubara gv",
         "Taiwoajikobi",
         "Oladapo Emmanuel ",
-        "Omowumi1"
+        "Omowumi1",
+        "Olatunjiakans"
       ],
       "balance": 232,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -30489,7 +30490,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:34:11.140Z"
+      "joinDate": "2025-02-23T19:34:11.140Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olatunjiakans",
+      "email": "tjakansphill2210@gmail.com",
+      "encrypted_password": "d50f17ee57ebce4d23131ba9480488f1",
+      "referral_code": "OLQYD",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:34:32.025Z"
     }
   ],
   "withdrawals": [
