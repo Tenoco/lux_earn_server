@@ -3767,11 +3767,12 @@
         "Adewumi5",
         "Miraydouglas",
         "Yull",
-        "Officialchrisjoel"
+        "Officialchrisjoel",
+        "Vickymone"
       ],
       "balance": 1176,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -34227,6 +34228,21 @@
         14
       ],
       "lastSpin": "2025-02-23T23:50:06.556Z"
+    },
+    {
+      "username": "Vickymone",
+      "email": "victoradesina100@gmail.com",
+      "encrypted_password": "4dbacaaf994bcdac8bf5536c20524b79",
+      "referral_code": "VI8HL",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:56:00.120Z"
     }
   ],
   "withdrawals": [
