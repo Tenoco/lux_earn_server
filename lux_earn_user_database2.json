@@ -19197,16 +19197,17 @@
       "inviter_referral_code": "LUX EARN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 32,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:31:07.534Z",
+      "lastSpin": "2025-02-23T07:31:50.713Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-23T07:31:50.713Z"
+        1,
+        14
+      ]
     },
     {
       "username": "Blessing ",
@@ -19259,7 +19260,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:34:49.459Z"
+      "joinDate": "2025-02-23T07:34:49.459Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
