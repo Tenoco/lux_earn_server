@@ -26471,7 +26471,34 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:34:59.658Z"
+      "joinDate": "2025-02-23T14:34:59.658Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Firstmanoneart",
+      "email": "Vincentj6840285@gmail.com",
+      "encrypted_password": "5c39d9265f1d2101bd1a830de19a5049",
+      "referral_code": "FIDTX",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [
+        "Hellah"
+      ],
+      "balance": 130,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:04:28.825Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
