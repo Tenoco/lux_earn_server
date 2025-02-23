@@ -27197,10 +27197,12 @@
       "referral_code": "BLDMQ",
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
-      "invited_users": [],
+      "invited_users": [
+        "Dheevah"
+      ],
       "balance": 125,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30447,6 +30449,21 @@
       "joinDate": "2025-02-23T19:30:16.274Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dheevah",
+      "email": "victoriaanene8@gmail.com",
+      "encrypted_password": "863ff400d5e03d4c297cd25b8ed55566",
+      "referral_code": "DH8GY",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:31:41.305Z"
     }
   ],
   "withdrawals": [
