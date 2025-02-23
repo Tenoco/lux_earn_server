@@ -18078,14 +18078,16 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:21:19.519Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Moses24 ",
@@ -18101,6 +18103,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T06:23:14.396Z"
     },
     {
