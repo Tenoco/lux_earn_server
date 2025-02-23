@@ -15101,11 +15101,12 @@
       "inviter_username": "Niffyperry",
       "invited_users": [
         "Fuqun",
-        "Fawas"
+        "Fawas",
+        "Kemi"
       ],
       "balance": 200,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:34:34.889Z",
@@ -19677,7 +19678,23 @@
       "joinDate": "2025-02-23T08:03:45.034Z",
       "completedMissions": [
         6
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Kemi",
+      "email": "kemioyetunji64@gmail.com",
+      "encrypted_password": "b4146da820512239e9ada8453d364af3",
+      "referral_code": "KELKV",
+      "inviter_referral_code": "ANE1B",
+      "inviter_username": "Anjolaoluwa ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:02:24.457Z"
     }
   ],
   "withdrawals": [
