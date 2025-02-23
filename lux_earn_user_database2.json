@@ -6453,11 +6453,12 @@
         "Beastfx",
         "Divyzoe",
         "Emque",
-        "Osung "
+        "Osung ",
+        "Awwal"
       ],
       "balance": 138,
-      "refers": 82,
-      "referralBalance": 8200,
+      "refers": 83,
+      "referralBalance": 8300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29870,7 +29871,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
-      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
@@ -29883,7 +29883,8 @@
         5,
         5,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T18:57:09.349Z"
     },
     {
       "username": "Osung ",
@@ -29901,6 +29902,21 @@
       "joinDate": "2025-02-23T18:58:43.099Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Awwal",
+      "email": "iejdjdjdi43@gmail.com",
+      "encrypted_password": "8d27c3da4444b7f3a6b0f2912b4a5932",
+      "referral_code": "AW8OD",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:01:01.893Z"
     }
   ],
   "withdrawals": [
