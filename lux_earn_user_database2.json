@@ -9177,11 +9177,12 @@
         "Loverboy",
         "Micheally1234",
         "Jarmar001",
-        "Shadow"
+        "Shadow",
+        "ghgc"
       ],
       "balance": 295,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -22938,10 +22939,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:25:22.556Z",
-      "lastSpin": "2025-02-23T11:27:58.967Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T11:27:58.967Z"
     },
     {
       "username": "Maleekayo ",
@@ -22988,6 +22989,21 @@
         14
       ],
       "lastSpin": "2025-02-23T09:09:48.047Z"
+    },
+    {
+      "username": "ghgc",
+      "email": "onihorse06@gmail.com",
+      "encrypted_password": "3dbe00a167653a1aaee01d93e77e730e",
+      "referral_code": "GHPUW",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:29:31.033Z"
     }
   ],
   "withdrawals": [
