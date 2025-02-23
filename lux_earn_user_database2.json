@@ -7406,7 +7406,7 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 163,
+      "balance": 183,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7420,7 +7420,9 @@
         4,
         2,
         2,
-        2
+        2,
+        1,
+        1
       ],
       "lastSpin": "2025-02-23T22:00:06.276Z"
     },
@@ -33113,10 +33115,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:58:30.868Z",
-      "lastSpin": "2025-02-23T21:59:20.955Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:59:20.955Z"
     }
   ],
   "withdrawals": [
