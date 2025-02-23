@@ -33148,6 +33148,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:53:26.394Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T22:53:41.122Z"
     },
     {
@@ -33706,7 +33707,7 @@
       "invited_users": [
         "Presh"
       ],
-      "balance": 295,
+      "balance": 307,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -33726,7 +33727,7 @@
         7,
         15
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T22:53:49.320Z"
     },
     {
       "username": "MaxPuppi ",
