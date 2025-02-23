@@ -18161,13 +18161,18 @@
         "Dannyboi",
         "Davidson91"
       ],
-      "balance": 0,
+      "balance": 60,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1,
+        4,
+        4
+      ],
       "lastSpin": null
     },
     {
