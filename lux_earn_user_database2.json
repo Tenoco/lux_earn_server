@@ -20455,10 +20455,12 @@
       "referral_code": "BELHI",
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
-      "invited_users": [],
+      "invited_users": [
+        "Daniel Hassan "
+      ],
       "balance": 10,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:39:08.886Z",
@@ -21036,7 +21038,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Habosede2002",
@@ -21054,6 +21057,21 @@
       "joinDate": "2025-02-23T09:12:02.943Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daniel Hassan ",
+      "email": "dan2cuteee@gmail.com",
+      "encrypted_password": "1cb20f2aa5867f551bbd9d346a97627d",
+      "referral_code": "DA4C4",
+      "inviter_referral_code": "BELHI",
+      "inviter_username": "Best",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:14:27.570Z"
     }
   ],
   "withdrawals": [
