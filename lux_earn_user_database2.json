@@ -27084,7 +27084,7 @@
         "Mammiegold",
         "Thim cd5"
       ],
-      "balance": 285,
+      "balance": 305,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -27098,7 +27098,9 @@
         5,
         6,
         7,
-        8
+        8,
+        11,
+        10
       ],
       "lastSpin": "2025-02-20T23:33:10.640Z"
     },
@@ -27149,7 +27151,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:05:08.070Z"
+      "joinDate": "2025-02-23T15:05:08.070Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
