@@ -21602,16 +21602,16 @@
       "inviter_referral_code": "PA8OV",
       "inviter_username": "PatienceAnne",
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:54:47.003Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        4
+      ]
     },
     {
       "username": "Yemcee",
@@ -21660,7 +21660,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:56:59.874Z"
+      "joinDate": "2025-02-23T09:56:59.874Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
