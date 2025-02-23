@@ -23918,10 +23918,12 @@
       "referral_code": "JOKPS",
       "inviter_referral_code": "JE7LQ",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Hallelujah "
+      ],
       "balance": 1,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:05:14.349Z",
@@ -24646,6 +24648,21 @@
       "joinDate": "2025-02-23T12:55:58.972Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hallelujah ",
+      "email": "hallelujahcool@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "HA4GL",
+      "inviter_referral_code": "JOKPS",
+      "inviter_username": "Josephine ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:03:02.321Z"
     }
   ],
   "withdrawals": [
