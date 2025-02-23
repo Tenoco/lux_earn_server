@@ -18575,7 +18575,7 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": "Nabeelo",
       "invited_users": [],
-      "balance": 80,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18587,7 +18587,7 @@
         2,
         4
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T07:45:25.488Z"
     },
     {
       "username": "Kidding ",
@@ -19502,7 +19502,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
