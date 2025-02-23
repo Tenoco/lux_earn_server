@@ -6771,11 +6771,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Ayomidey "
+        "Ayomidey ",
+        "Moses24 "
       ],
       "balance": 503,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:53:43.834Z",
@@ -18085,6 +18086,21 @@
       "joinDate": "2025-02-23T06:21:19.519Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Moses24 ",
+      "email": "damilareanimashaun748@gmail.com",
+      "encrypted_password": "425e8446409f9ef1ba653172535029ba",
+      "referral_code": "MOYC8",
+      "inviter_referral_code": "HO189",
+      "inviter_username": "Holar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:22:42.402Z"
     }
   ],
   "withdrawals": [
