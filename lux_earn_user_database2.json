@@ -6422,11 +6422,12 @@
         "Darahsimi",
         "Franca5",
         "Michaelking36 ",
-        "Olatunji kehinde Aderayo "
+        "Olatunji kehinde Aderayo ",
+        "Thelmachidera"
       ],
       "balance": 138,
-      "refers": 61,
-      "referralBalance": 6100,
+      "refers": 62,
+      "referralBalance": 6200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27871,7 +27872,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:00:48.965Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T16:01:07.438Z"
+    },
+    {
+      "username": "Thelmachidera",
+      "email": "thelmanwakolaobi@gmail.com",
+      "encrypted_password": "4704b4ecec86ec747060bbcf0fe8be16",
+      "referral_code": "THOTR",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:01:29.064Z"
     }
   ],
   "withdrawals": [
