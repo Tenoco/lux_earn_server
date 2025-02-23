@@ -23338,7 +23338,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:44:33.314Z"
+      "joinDate": "2025-02-23T11:44:33.314Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Donzanian",
+      "email": "donz24r@gmail.com",
+      "encrypted_password": "c63459be825d9a6d9112b47b51ec32ba",
+      "referral_code": "DOAQQ",
+      "inviter_referral_code": "Daniel",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T00:56:13.209Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        7,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
