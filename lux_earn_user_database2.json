@@ -26010,11 +26010,12 @@
         "Pilot202",
         "Union105",
         "Peter503",
-        "Peace 34"
+        "Peace 34",
+        "Rejoice love"
       ],
       "balance": 170,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27695,6 +27696,21 @@
       "joinDate": "2025-02-23T15:44:01.831Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rejoice love",
+      "email": "dilloh7@gmail.com",
+      "encrypted_password": "19fcc925473140fb665b68c4b86164b4",
+      "referral_code": "REHWQ",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:45:28.817Z"
     }
   ],
   "withdrawals": [
