@@ -23269,7 +23269,8 @@
         12,
         14,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Manuel12",
@@ -23323,6 +23324,21 @@
       "joinDate": "2025-02-23T11:43:00.827Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zaza Exchange",
+      "email": "chimavictory100@gmail.com",
+      "encrypted_password": "c3b58c1bd109141fc9cad288a0f47127",
+      "referral_code": "ZAWT2",
+      "inviter_referral_code": "TR708",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:44:33.314Z"
     }
   ],
   "withdrawals": [
