@@ -6497,11 +6497,12 @@
         "El-Jamzouri001",
         "Esther ",
         "Lekkxygold",
-        "Yusufsin12"
+        "Yusufsin12",
+        "Dady0488"
       ],
       "balance": 138,
-      "refers": 112,
-      "referralBalance": 11200,
+      "refers": 113,
+      "referralBalance": 11300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33842,7 +33843,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T22:58:45.569Z"
+      "joinDate": "2025-02-23T22:58:45.569Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dady0488",
+      "email": "yusufaminuyusuf565@gmail.com",
+      "encrypted_password": "f19d60ee53bae0d3439b6eccc666d46b",
+      "referral_code": "DA29N",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:59:39.227Z"
     }
   ],
   "withdrawals": [
