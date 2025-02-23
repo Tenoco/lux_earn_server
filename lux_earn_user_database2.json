@@ -24997,7 +24997,7 @@
       "inviter_referral_code": "ODWXP",
       "inviter_username": "Odera",
       "invited_users": [],
-      "balance": 285,
+      "balance": 305,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25015,7 +25015,8 @@
         4,
         5,
         5,
-        12
+        12,
+        14
       ],
       "lastSpin": "2025-02-21T13:01:17.990Z"
     },
@@ -25131,7 +25132,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:20:44.238Z"
+      "joinDate": "2025-02-23T13:20:44.238Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
