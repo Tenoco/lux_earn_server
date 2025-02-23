@@ -6258,11 +6258,12 @@
         "Nsjsnshdhsjdbdhd4",
         "Hsjsndjdndndjd4",
         "Hdhdjdjdur30",
-        "Fawaz08"
+        "Fawaz08",
+        "Toyin Gatta "
       ],
       "balance": 138,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -18663,7 +18664,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:58:15.655Z"
+      "joinDate": "2025-02-23T06:58:15.655Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Toyin Gatta ",
+      "email": "gattatoyin5@gmail.com",
+      "encrypted_password": "1598111f9df49ae0707b9c3f15a8f897",
+      "referral_code": "TO3JB",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:58:22.504Z"
     }
   ],
   "withdrawals": [
