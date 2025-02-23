@@ -6457,11 +6457,12 @@
         "Osung ",
         "Awwal",
         "Freshglow",
-        "Olaade "
+        "Olaade ",
+        "Nomcy25"
       ],
       "balance": 138,
-      "refers": 85,
-      "referralBalance": 8500,
+      "refers": 86,
+      "referralBalance": 8600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30588,6 +30589,21 @@
       "joinDate": "2025-02-23T19:38:26.451Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nomcy25",
+      "email": "ibierejoel96@gmail.com",
+      "encrypted_password": "563e0b4106881073ca6e3a2c074f6b72",
+      "referral_code": "NORTR",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:39:02.062Z"
     }
   ],
   "withdrawals": [
