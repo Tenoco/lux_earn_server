@@ -22904,7 +22904,7 @@
       "invited_users": [
         "Ayomikun "
       ],
-      "balance": 342,
+      "balance": 362,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -22922,7 +22922,8 @@
         1,
         6,
         10,
-        14
+        14,
+        5
       ],
       "lastSpin": "2025-02-21T09:30:04.142Z"
     },
@@ -23021,7 +23022,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:30:23.409Z"
+      "joinDate": "2025-02-23T11:30:23.409Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
