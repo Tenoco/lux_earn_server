@@ -23386,7 +23386,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:46:19.159Z"
+      "joinDate": "2025-02-23T11:46:19.159Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Doris25 ",
+      "email": "dorischinelo25@gmail.com",
+      "encrypted_password": "253600ef65b0eab07f1c5887dd357555",
+      "referral_code": "DO9FO",
+      "inviter_referral_code": "SU5b6",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:46:26.646Z"
     }
   ],
   "withdrawals": [
