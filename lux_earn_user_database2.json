@@ -25471,11 +25471,12 @@
         "Kundiri ",
         "Rukfah ",
         "AADANNA ",
-        "WIS_DOM_JR"
+        "WIS_DOM_JR",
+        "Ibn wakil001"
       ],
       "balance": 158,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:15:46.787Z",
@@ -30873,7 +30874,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:58:43.007Z"
+      "joinDate": "2025-02-23T19:58:43.007Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibn wakil001",
+      "email": "abubakarwakilabdullahi001@gmail.com",
+      "encrypted_password": "36b7ccb1a286154b4ac07049c7696f20",
+      "referral_code": "IBPK8",
+      "inviter_referral_code": "AN202",
+      "inviter_username": "Anonymous12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:58:55.442Z"
     }
   ],
   "withdrawals": [
