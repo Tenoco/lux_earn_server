@@ -27127,11 +27127,12 @@
       "inviter_username": "BkGraphics001",
       "invited_users": [
         "Ladytee",
-        "Ademola opeyemi"
+        "Ademola opeyemi",
+        "Opeyemi "
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:18.248Z",
@@ -30377,6 +30378,21 @@
       "joinDate": "2025-02-23T19:19:46.871Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Opeyemi ",
+      "email": "opeyemiabdurhaman@gmail.com",
+      "encrypted_password": "04dc639720d4b8ce27236db10207fb08",
+      "referral_code": "OPZLI",
+      "inviter_referral_code": "CO2MT",
+      "inviter_username": "Comedianramadan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:25:51.836Z"
     }
   ],
   "withdrawals": [
