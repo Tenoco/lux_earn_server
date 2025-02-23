@@ -20789,7 +20789,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
-      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13,
@@ -20799,7 +20798,8 @@
         9,
         7,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:02:58.099Z"
     },
     {
       "username": "Ibrahim salisu ",
@@ -20941,7 +20941,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 10,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20950,7 +20950,7 @@
       "completedMissions": [
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:10:12.933Z"
     },
     {
       "username": "Idrisabdull ",
