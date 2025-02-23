@@ -23361,7 +23361,7 @@
       "inviter_referral_code": "Daniel",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 162,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23386,7 +23386,7 @@
         12,
         12
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T11:53:50.445Z"
     },
     {
       "username": "mahnbullet",
@@ -23503,7 +23503,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:53:31.489Z"
+      "joinDate": "2025-02-23T11:53:31.489Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
