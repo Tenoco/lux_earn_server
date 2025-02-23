@@ -31684,13 +31684,17 @@
       "inviter_referral_code": "IBPK8",
       "inviter_username": "Ibn wakil001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:33:30.779Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        6,
+        5
+      ],
       "lastSpin": null
     },
     {
@@ -31727,7 +31731,8 @@
       "completedMissions": [
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Casmirdaniel",
