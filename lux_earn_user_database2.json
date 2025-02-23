@@ -17031,7 +17031,46 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T04:50:29.465Z"
+      "joinDate": "2025-02-23T04:50:29.465Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Msfiris",
+      "email": "sakpaideakpevweoghene@gmail.com",
+      "encrypted_password": "87b27b55107a11acf053ec5d1acf926b",
+      "referral_code": "MSNAH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Sameft",
+        "Joysak ",
+        "Vice-chairman ",
+        "Malclm",
+        "Jennifer akuwe",
+        "Solomonokun",
+        "Ezeboy",
+        "Joyasakp"
+      ],
+      "balance": 350,
+      "refers": 8,
+      "referralBalance": 800,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T02:09:39.771Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        4,
+        3,
+        3,
+        8,
+        7,
+        5,
+        6
+      ],
+      "lastSpin": "2025-02-25T06:27:18.390Z"
     }
   ],
   "withdrawals": [
