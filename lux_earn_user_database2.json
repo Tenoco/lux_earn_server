@@ -21924,7 +21924,7 @@
       "inviter_referral_code": "YE656",
       "inviter_username": "Yemcee",
       "invited_users": [],
-      "balance": 90,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21935,9 +21935,9 @@
         14,
         13,
         12,
-        11
-      ],
-      "lastSpin": null
+        11,
+        6
+      ]
     },
     {
       "username": "Korede",
@@ -21986,7 +21986,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:23:20.688Z"
+      "joinDate": "2025-02-23T10:23:20.688Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
