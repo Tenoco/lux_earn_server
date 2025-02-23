@@ -24663,7 +24663,7 @@
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
       "invited_users": [],
-      "balance": 40,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24672,7 +24672,9 @@
       "completedMissions": [
         1,
         1,
-        5
+        5,
+        4,
+        2
       ],
       "lastSpin": null
     },
