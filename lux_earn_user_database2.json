@@ -18210,7 +18210,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
-      "lastSpin": "2025-02-23T06:29:16.973Z",
       "completedMissions": [
         2,
         1,
@@ -18219,7 +18218,8 @@
         13,
         14,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-23T06:29:16.973Z"
     },
     {
       "username": "Wisdom024",
@@ -18274,13 +18274,16 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:34:20.825Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
