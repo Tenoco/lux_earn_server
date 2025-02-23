@@ -21859,11 +21859,12 @@
         "Emmanuelemmzy",
         "Marc",
         "Toma",
-        "Elect "
+        "Elect ",
+        "House "
       ],
       "balance": 370,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -22062,6 +22063,21 @@
       "joinDate": "2025-02-23T10:30:57.391Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "House ",
+      "email": "tomatoma234@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "HONKC",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:33:05.613Z"
     }
   ],
   "withdrawals": [
