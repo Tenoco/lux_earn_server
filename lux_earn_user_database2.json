@@ -19371,13 +19371,16 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:40:27.716Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -19427,7 +19430,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:41:41.922Z"
+      "joinDate": "2025-02-23T07:41:41.922Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
