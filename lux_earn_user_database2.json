@@ -18721,11 +18721,12 @@
         "Pro Mary ",
         "Adegboye najim90",
         "Clinton Evalsam1w",
-        "ecom legend0"
+        "ecom legend0",
+        "Ennesa Pro"
       ],
       "balance": 240,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -32051,6 +32052,21 @@
       "joinDate": "2025-02-23T20:46:09.333Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ennesa Pro",
+      "email": "ennesapro@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "ENOWR",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:48:25.152Z"
     }
   ],
   "withdrawals": [
