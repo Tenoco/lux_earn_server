@@ -22919,11 +22919,12 @@
         "Chidi752",
         "Clinton456",
         "Kinsley452",
-        "Mercy4552"
+        "Mercy4552",
+        "Favour41fa*"
       ],
       "balance": 255,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -27157,6 +27158,21 @@
       "joinDate": "2025-02-23T15:05:08.070Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favour41fa*",
+      "email": "dikep0290@gmail.com",
+      "encrypted_password": "460460c313690e3dc79f367c184d9b91",
+      "referral_code": "FA1XR",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:06:17.005Z"
     }
   ],
   "withdrawals": [
