@@ -27358,11 +27358,12 @@
         "Leo179",
         "David78",
         "Temmy04",
-        "Capacity "
+        "Capacity ",
+        "Miracle 3"
       ],
       "balance": 125,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -32860,6 +32861,21 @@
       "joinDate": "2025-02-23T21:32:17.333Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Miracle 3",
+      "email": "ohanyereelyonah@gmail.com",
+      "encrypted_password": "ee761a5a517d39236ab9baaef6750423",
+      "referral_code": "MIC9I",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:35:31.000Z"
     }
   ],
   "withdrawals": [
