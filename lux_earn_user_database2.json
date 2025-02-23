@@ -27596,7 +27596,8 @@
         11,
         10,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nasmatu Haruna",
@@ -27606,14 +27607,16 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Hannah ",
