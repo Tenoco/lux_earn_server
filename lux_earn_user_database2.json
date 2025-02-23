@@ -6265,11 +6265,12 @@
         "Akanuji122",
         "cimekgadis",
         "Afonat",
-        "Bevil"
+        "Bevil",
+        "Jenny "
       ],
       "balance": 138,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -19924,7 +19925,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:10:02.810Z"
+      "joinDate": "2025-02-23T08:10:02.810Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jenny ",
+      "email": "jenniferdred12@gmail.com",
+      "encrypted_password": "bebbc196b58593cddd7a300b394626f8",
+      "referral_code": "JE73J",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:10:18.704Z"
     }
   ],
   "withdrawals": [
