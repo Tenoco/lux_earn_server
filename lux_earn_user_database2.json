@@ -18425,13 +18425,15 @@
       "inviter_referral_code": "ANE1B",
       "inviter_username": "Anjolaoluwa ",
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:32:44.683Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-23T06:34:03.020Z"
     },
     {
