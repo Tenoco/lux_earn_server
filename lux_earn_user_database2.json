@@ -26446,11 +26446,12 @@
         "Precyken",
         "Vheek",
         "Maryam",
-        "samologi"
+        "samologi",
+        "annny0006"
       ],
       "balance": 192,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -29434,6 +29435,21 @@
       "joinDate": "2025-02-23T18:08:06.341Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "annny0006",
+      "email": "okenyichidiogo@gmail.com",
+      "encrypted_password": "206162d66f1f105a7968f89e327c6c22",
+      "referral_code": "ANJVV",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:10:40.513Z"
     }
   ],
   "withdrawals": [
