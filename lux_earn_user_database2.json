@@ -6314,11 +6314,12 @@
         "Destar",
         "Bright",
         "Kelly osarenkhoe ",
-        "miguel411"
+        "miguel411",
+        "Adisa"
       ],
       "balance": 138,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -22644,6 +22645,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Adisa",
+      "email": "patrickafita0@gmail.com",
+      "encrypted_password": "25a89c5687131d307d10669db26764b1",
+      "referral_code": "ADZ27",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:12:22.713Z"
     }
   ],
   "withdrawals": [
