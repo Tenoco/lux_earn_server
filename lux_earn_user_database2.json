@@ -10574,7 +10574,7 @@
       "invited_users": [
         "Elizabeth "
       ],
-      "balance": 100,
+      "balance": 140,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10582,7 +10582,9 @@
       "joinDate": "2025-02-20T23:02:26.644Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        5
       ],
       "lastSpin": "2025-02-22T18:14:48.699Z"
     },
