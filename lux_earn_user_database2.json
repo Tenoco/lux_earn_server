@@ -30977,7 +30977,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:59:26.494Z",
-      "lastSpin": "2025-02-23T20:00:55.162Z",
       "completedMissions": [
         4,
         4,
@@ -30986,7 +30985,8 @@
         6,
         15,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-23T20:00:55.162Z"
     },
     {
       "username": "Lavsjd",
@@ -31313,14 +31313,15 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:21:28.721Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
