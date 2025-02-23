@@ -18550,14 +18550,17 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:51:22.896Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "username": "Dandee ",
@@ -18640,7 +18643,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:56:15.481Z"
+      "joinDate": "2025-02-23T06:56:15.481Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
