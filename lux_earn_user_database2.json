@@ -6269,11 +6269,12 @@
         "Bevil",
         "Jenny ",
         "Lucasmacas",
-        "AYOMIDE078 "
+        "AYOMIDE078 ",
+        "Zaiyat"
       ],
       "balance": 138,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20166,6 +20167,21 @@
       "joinDate": "2025-02-23T08:24:45.100Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zaiyat",
+      "email": "zayyanua312@gmail.com",
+      "encrypted_password": "bd840429fede822ae573a190acd14c08",
+      "referral_code": "ZA07Q",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:25:09.952Z"
     }
   ],
   "withdrawals": [
