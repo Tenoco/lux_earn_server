@@ -19606,7 +19606,7 @@
       "inviter_referral_code": "OM3JR",
       "inviter_username": "Omotayo1990",
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19623,7 +19623,8 @@
         14,
         13,
         9,
-        10
+        10,
+        11
       ],
       "lastSpin": null
     },
@@ -20104,7 +20105,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:21:09.434Z"
+      "joinDate": "2025-02-23T08:21:09.434Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
