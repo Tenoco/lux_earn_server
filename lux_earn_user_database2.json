@@ -16109,7 +16109,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 182,
+      "balance": 202,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16124,7 +16124,8 @@
         10,
         8,
         9,
-        12
+        12,
+        14
       ],
       "lastSpin": "2025-02-22T22:20:37.257Z"
     },
@@ -29865,14 +29866,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
-      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
         12,
         12,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-23T18:57:09.349Z"
     },
     {
       "username": "Osung ",
