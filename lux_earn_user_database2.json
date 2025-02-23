@@ -33181,10 +33181,12 @@
       "referral_code": "NORM5",
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
-      "invited_users": [],
+      "invited_users": [
+        "Bawasa"
+      ],
       "balance": 48,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:04:50.390Z",
@@ -33277,6 +33279,21 @@
         2
       ],
       "lastSpin": "2025-02-21T11:04:35.445Z"
+    },
+    {
+      "username": "Bawasa",
+      "email": "harunasulaimankyw06@gmail.com",
+      "encrypted_password": "e95f4bf6b7b1365c3dc6e3519f29f72f",
+      "referral_code": "BAWYD",
+      "inviter_referral_code": "NORM5",
+      "inviter_username": "Noplay",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:17:25.235Z"
     }
   ],
   "withdrawals": [
