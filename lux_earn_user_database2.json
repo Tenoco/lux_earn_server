@@ -6345,11 +6345,12 @@
         "Tochek",
         "diniharunaali",
         "Aanuade",
-        "Virty"
+        "Virty",
+        "Anonymous12"
       ],
       "balance": 138,
-      "refers": 44,
-      "referralBalance": 4400,
+      "refers": 45,
+      "referralBalance": 4500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24952,6 +24953,21 @@
       "joinDate": "2025-02-23T13:13:10.317Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Anonymous12",
+      "email": "Auwalhussaini302@gmail.com",
+      "encrypted_password": "c1cb6aaadffa94158cfdf70ff69bd561",
+      "referral_code": "AN202",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:15:46.787Z"
     }
   ],
   "withdrawals": [
