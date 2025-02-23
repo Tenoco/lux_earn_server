@@ -29817,10 +29817,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:54:24.995Z",
-      "lastSpin": "2025-02-23T18:57:41.295Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T18:57:41.295Z"
     },
     {
       "username": "Emmybest",
@@ -29864,12 +29864,13 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 131,
+      "balance": 161,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
+      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
@@ -29877,9 +29878,10 @@
         12,
         10,
         7,
-        6
-      ],
-      "lastSpin": "2025-02-23T18:57:09.349Z"
+        6,
+        6,
+        5
+      ]
     },
     {
       "username": "Osung ",
