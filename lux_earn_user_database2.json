@@ -28689,14 +28689,32 @@
       "referral_code": "ZAO7S",
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
-      "invited_users": [],
+      "invited_users": [
+        "Ibrahimub"
+      ],
       "balance": 25,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:59:26.425Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-23T17:00:10.637Z"
+    },
+    {
+      "username": "Ibrahimub",
+      "email": "ibrahimnadiyah97@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "IBO0W",
+      "inviter_referral_code": "ZAO7S",
+      "inviter_username": "Zainabu",
+      "invited_users": [],
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:59:26.425Z",
-      "lastSpin": "2025-02-23T17:00:10.637Z"
+      "joinDate": "2025-02-23T17:01:08.801Z"
     }
   ],
   "withdrawals": [
