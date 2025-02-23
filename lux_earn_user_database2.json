@@ -18183,11 +18183,12 @@
         "SMART4VTU",
         "Dannyboi",
         "Davidson91",
-        "Fathia Abdulrafiu "
+        "Fathia Abdulrafiu ",
+        "Nimota12"
       ],
       "balance": 410,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -20548,6 +20549,21 @@
       "joinDate": "2025-02-23T08:47:47.170Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T08:48:44.583Z"
+    },
+    {
+      "username": "Nimota12",
+      "email": "ibrahimnimota2022@gmail.com",
+      "encrypted_password": "981004cbffc424ee6416ae01abcaba49",
+      "referral_code": "NI2UJ",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:50:16.321Z"
     }
   ],
   "withdrawals": [
