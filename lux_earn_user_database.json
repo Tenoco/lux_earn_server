@@ -14343,14 +14343,15 @@
         "Natsume ",
         "Brainiac"
       ],
-      "balance": 30,
+      "balance": 40,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T09:09:48.047Z"
     },
