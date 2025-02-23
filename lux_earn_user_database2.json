@@ -6432,11 +6432,12 @@
         "Oni",
         "Nsikak ",
         "@abdullahyy ",
-        "Sowley joel"
+        "Sowley joel",
+        "adedapofaishat@gmail.com"
       ],
       "balance": 138,
-      "refers": 68,
-      "referralBalance": 6800,
+      "refers": 69,
+      "referralBalance": 6900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -28481,6 +28482,21 @@
       "joinDate": "2025-02-23T16:34:27.033Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T16:34:46.340Z"
+    },
+    {
+      "username": "adedapofaishat@gmail.com",
+      "email": "adedapofaishat@gmail.com",
+      "encrypted_password": "ce05f15d8fb500d14aa6cd312099a134",
+      "referral_code": "ADKRK",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:36:25.003Z"
     }
   ],
   "withdrawals": [
