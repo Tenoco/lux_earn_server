@@ -30878,14 +30878,16 @@
       "inviter_referral_code": "UG8OH",
       "inviter_username": "Ugochukwu1",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:58:43.007Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T20:03:02.319Z"
+      "lastSpin": "2025-02-23T20:03:02.319Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Ibn wakil001",
