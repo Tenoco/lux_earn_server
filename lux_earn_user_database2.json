@@ -17805,10 +17805,12 @@
       "referral_code": "OYYAS",
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
-      "invited_users": [],
+      "invited_users": [
+        "Gabifez "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:13:07.879Z",
@@ -24343,6 +24345,21 @@
       "joinDate": "2025-02-23T12:36:53.968Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gabifez ",
+      "email": "gabrielifedayo558@gmail.com",
+      "encrypted_password": "75edd0f9cf3081d7e1a01636df055d1b",
+      "referral_code": "GAJ0R",
+      "inviter_referral_code": "OYYAS",
+      "inviter_username": "Oyinbo abosede",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:40:40.883Z"
     }
   ],
   "withdrawals": [
