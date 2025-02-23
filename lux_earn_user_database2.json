@@ -28882,14 +28882,16 @@
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:10:43.793Z",
       "completedMissions": [
-        16
+        16,
+        14,
+        14
       ],
       "lastSpin": null
     },
