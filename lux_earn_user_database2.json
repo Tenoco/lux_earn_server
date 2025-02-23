@@ -21994,11 +21994,12 @@
       "inviter_username": "Quadriano",
       "invited_users": [
         "Ajoke44",
-        "Oadeoye123"
+        "Oadeoye123",
+        "olaade126"
       ],
       "balance": 75,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -30269,6 +30270,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "olaade126",
+      "email": "obasanyaboluwatife6@gmail.com",
+      "encrypted_password": "b235f40aeea0aa733b41ea935501a654",
+      "referral_code": "OLUSS",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:16:13.670Z"
     }
   ],
   "withdrawals": [
