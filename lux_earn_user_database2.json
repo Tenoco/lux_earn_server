@@ -13092,11 +13092,12 @@
         "Syren ",
         "PeterPan",
         "Ijeomanwokocha",
-        "Uche Ada "
+        "Uche Ada ",
+        "Smallie"
       ],
       "balance": 352,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -26857,7 +26858,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ziggy",
@@ -26919,6 +26921,21 @@
       "joinDate": "2025-02-23T14:51:09.200Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smallie",
+      "email": "smallimportant245@gmail.com",
+      "encrypted_password": "aebdb3c5ac75bc87f1287aa54a831ef0",
+      "referral_code": "SM3X6",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:51:41.881Z"
     }
   ],
   "withdrawals": [
