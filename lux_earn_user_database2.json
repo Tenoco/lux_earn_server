@@ -27099,11 +27099,12 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [
-        "Ladytee"
+        "Ladytee",
+        "Ademola opeyemi"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:18.248Z",
@@ -29700,7 +29701,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:43:48.547Z"
+      "joinDate": "2025-02-23T18:43:48.547Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ademola opeyemi",
+      "email": "opeyemiademola811@gmail.com",
+      "encrypted_password": "0d90e41687f0ffeb6d588cdefb398106",
+      "referral_code": "AD0UL",
+      "inviter_referral_code": "CO2MT",
+      "inviter_username": "Comedianramadan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:44:16.418Z"
     }
   ],
   "withdrawals": [
