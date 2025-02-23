@@ -19051,11 +19051,12 @@
       "inviter_username": "Nabeelo",
       "invited_users": [
         "Damilare51",
-        "Mhiztazee "
+        "Mhiztazee ",
+        "Teddybear0863"
       ],
       "balance": 105,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:06:50.687Z",
@@ -29586,6 +29587,21 @@
       "joinDate": "2025-02-23T18:27:00.553Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Teddybear0863",
+      "email": "samueloladeji39@gmail.com",
+      "encrypted_password": "248a656bffe5525089e206984e0be8b2",
+      "referral_code": "TE6DS",
+      "inviter_referral_code": "OD7RC",
+      "inviter_username": "Odubiyi nofiu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:28:37.287Z"
     }
   ],
   "withdrawals": [
