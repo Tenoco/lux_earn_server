@@ -14045,7 +14045,7 @@
         "Trey",
         "Jonnyy"
       ],
-      "balance": 160,
+      "balance": 170,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -14060,7 +14060,8 @@
         15,
         7,
         16,
-        4
+        4,
+        2
       ],
       "lastSpin": null
     },
@@ -32115,7 +32116,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:52:14.758Z"
+      "joinDate": "2025-02-23T20:52:14.758Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
