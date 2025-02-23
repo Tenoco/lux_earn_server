@@ -6287,11 +6287,12 @@
         "@Browndy",
         "Banny",
         "Makelemibrilliamt",
-        "Joshua "
+        "Joshua ",
+        "Uzairu841"
       ],
       "balance": 138,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -21010,7 +21011,8 @@
         7,
         7,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Omoshile ",
@@ -21284,6 +21286,21 @@
         8
       ],
       "lastSpin": "2025-02-23T09:29:48.756Z"
+    },
+    {
+      "username": "Uzairu841",
+      "email": "muslimuzairu841@gmail.com",
+      "encrypted_password": "88d94af9539916746653b650b8fead75",
+      "referral_code": "UZCTB",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:30:53.325Z"
     }
   ],
   "withdrawals": [
