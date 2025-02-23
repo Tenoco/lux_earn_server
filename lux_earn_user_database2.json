@@ -18160,11 +18160,12 @@
       "invited_users": [
         "Kidding ",
         "Baggy",
-        "Binding "
+        "Binding ",
+        "Novice "
       ],
       "balance": 272,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -18834,7 +18835,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:07:36.090Z"
+      "joinDate": "2025-02-23T07:07:36.090Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Novice ",
+      "email": "phocusskit@gmail.com",
+      "encrypted_password": "d27d320c27c3033b7883347d8beca317",
+      "referral_code": "NO6RZ",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:08:22.849Z"
     }
   ],
   "withdrawals": [
