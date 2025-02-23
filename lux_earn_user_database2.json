@@ -10935,11 +10935,12 @@
       "invited_users": [
         "Flexxdee",
         "Emmabtc ",
-        "YoungLite"
+        "YoungLite",
+        "fatimahag01"
       ],
       "balance": 340,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:04:01.875Z",
@@ -22392,7 +22393,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:47:03.899Z"
+      "joinDate": "2025-02-23T10:47:03.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "fatimahag01",
+      "email": "abdulmumeenfatimah111@gmail.com",
+      "encrypted_password": "95c714caac5330036c1387465eeb308c",
+      "referral_code": "FAE2A",
+      "inviter_referral_code": "PRFPU",
+      "inviter_username": "Princesspromise",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:47:24.329Z"
     }
   ],
   "withdrawals": [
