@@ -26845,14 +26845,18 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4
+      ]
     },
     {
       "username": "Ziggy",
@@ -26911,7 +26915,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:51:09.200Z"
+      "joinDate": "2025-02-23T14:51:09.200Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
