@@ -17193,7 +17193,7 @@
       "inviter_referral_code": "PIYZI",
       "inviter_username": "Pinkyponky",
       "invited_users": [],
-      "balance": 20,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17201,9 +17201,14 @@
       "joinDate": "2025-02-23T05:05:22.037Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        4,
+        5,
+        5,
+        6,
+        7
+      ]
     },
     {
       "username": "Faruk ",
@@ -17235,7 +17240,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:06:41.757Z"
+      "joinDate": "2025-02-23T05:06:41.757Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
