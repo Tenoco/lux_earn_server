@@ -30226,12 +30226,14 @@
       "inviter_referral_code": "OADN6",
       "inviter_username": "Oadeoye123",
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:13:32.788Z"
+      "joinDate": "2025-02-23T19:13:32.788Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-23T19:14:34.487Z"
     }
   ],
   "withdrawals": [
