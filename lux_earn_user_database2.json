@@ -6418,11 +6418,12 @@
         "First FC ",
         "Kemmzy ",
         "Tizzy",
-        "Agnes12"
+        "Agnes12",
+        "Darahsimi"
       ],
       "balance": 138,
-      "refers": 57,
-      "referralBalance": 5700,
+      "refers": 58,
+      "referralBalance": 5800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27516,6 +27517,21 @@
       "joinDate": "2025-02-23T15:28:47.231Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Darahsimi",
+      "email": "bukayomi513@gmail.com",
+      "encrypted_password": "5f4dcc3b5aa765d61d8327deb882cf99",
+      "referral_code": "DAX0F",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:31:24.774Z"
     }
   ],
   "withdrawals": [
