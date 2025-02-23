@@ -24555,14 +24555,13 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:49:47.250Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T12:51:02.741Z"
     },
     {
       "username": "Poplysky",
@@ -24577,7 +24576,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:50:05.564Z"
+      "joinDate": "2025-02-23T12:50:05.564Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
