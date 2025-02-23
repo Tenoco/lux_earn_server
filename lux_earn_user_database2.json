@@ -18122,11 +18122,12 @@
       "invited_users": [
         "evileve23",
         "dandilla",
-        "Alexia drums"
+        "Alexia drums",
+        "SMART4VTU"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -19409,7 +19410,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:41:35.104Z"
+      "joinDate": "2025-02-23T07:41:35.104Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SMART4VTU",
+      "email": "sundayisaac4u@gmail.com",
+      "encrypted_password": "5e5c658a04af84d8eb0730efd3776d4a",
+      "referral_code": "SMNQI",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:41:41.922Z"
     }
   ],
   "withdrawals": [
