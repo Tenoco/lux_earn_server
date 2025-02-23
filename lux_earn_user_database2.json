@@ -20947,14 +20947,16 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 32,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:08:02.023Z",
       "completedMissions": [
-        2
+        2,
+        1,
+        4
       ],
       "lastSpin": "2025-02-23T09:10:12.933Z"
     },
