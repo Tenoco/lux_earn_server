@@ -32527,7 +32527,7 @@
       "inviter_referral_code": "Bkfs9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32536,7 +32536,8 @@
       "lastSpin": "2025-02-23T21:14:02.536Z",
       "completedMissions": [
         14,
-        13
+        13,
+        1
       ]
     },
     {
