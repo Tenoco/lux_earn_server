@@ -1839,10 +1839,12 @@
       "referral_code": "MIODT",
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Micheal"
+      ],
       "balance": 1218,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:07:15.633Z",
@@ -20209,6 +20211,21 @@
       "joinDate": "2025-02-23T08:25:17.326Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Micheal",
+      "email": "danzy3903@gmail.com",
+      "encrypted_password": "492ad0ed15f5e83721f18a163eab9b8d",
+      "referral_code": "MIJ0E",
+      "inviter_referral_code": "MIODT",
+      "inviter_username": "Micheal1#",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:28:10.894Z"
     }
   ],
   "withdrawals": [
