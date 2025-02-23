@@ -22610,10 +22610,12 @@
       "referral_code": "SUT13",
       "inviter_referral_code": "LASP5",
       "inviter_username": "Laniba1258",
-      "invited_users": [],
+      "invited_users": [
+        "Akposame"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:09:00.768Z",
@@ -22792,6 +22794,21 @@
       "joinDate": "2025-02-23T11:17:05.441Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akposame",
+      "email": "ujohroseline@gmail.com",
+      "encrypted_password": "9ce45c01eb3bf9f105fce5f4a05f3c9e",
+      "referral_code": "AKFSD",
+      "inviter_referral_code": "SUT13",
+      "inviter_username": "SuccyEfe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:18:21.864Z"
     }
   ],
   "withdrawals": [
