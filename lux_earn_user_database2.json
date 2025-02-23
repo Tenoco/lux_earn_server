@@ -31045,12 +31045,13 @@
       "inviter_referral_code": "Aim",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:10:52.477Z"
+      "joinDate": "2025-02-23T20:10:52.477Z",
+      "lastSpin": "2025-02-23T20:11:23.462Z"
     }
   ],
   "withdrawals": [
