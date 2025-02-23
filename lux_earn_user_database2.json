@@ -26155,11 +26155,12 @@
       "inviter_username": "Confirmtv",
       "invited_users": [
         "Uchepeace",
-        "CrystalMediaTv"
+        "CrystalMediaTv",
+        "Mikkolee1"
       ],
       "balance": 192,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26545,6 +26546,21 @@
       "joinDate": "2025-02-23T14:36:53.436Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mikkolee1",
+      "email": "boluwatifeomo73@gmail.com",
+      "encrypted_password": "ba825857a2efa0ae722cebff22eeaef0",
+      "referral_code": "MIA7Z",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:38:49.484Z"
     }
   ],
   "withdrawals": [
