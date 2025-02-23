@@ -22796,11 +22796,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Bright253",
-        "Chidi752"
+        "Chidi752",
+        "Clinton456"
       ],
       "balance": 255,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -25328,6 +25329,21 @@
       "joinDate": "2025-02-23T13:24:51.843Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T13:25:28.187Z"
+    },
+    {
+      "username": "Clinton456",
+      "email": "ideozuprecious23@gmail.com",
+      "encrypted_password": "3989a179352880e25fd38bb4b96f800a",
+      "referral_code": "CLN4N",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:26:29.738Z"
     }
   ],
   "withdrawals": [
