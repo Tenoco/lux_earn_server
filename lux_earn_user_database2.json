@@ -21849,11 +21849,12 @@
         "Flower",
         "Emmanuelemmzy",
         "Marc",
-        "Toma"
+        "Toma",
+        "Elect "
       ],
       "balance": 370,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -22015,7 +22016,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:26:59.109Z"
+      "joinDate": "2025-02-23T10:26:59.109Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elect ",
+      "email": "money123@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "ELBXY",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:29:11.201Z"
     }
   ],
   "withdrawals": [
