@@ -21350,7 +21350,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 95,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21361,7 +21361,8 @@
         2,
         4,
         5,
-        8
+        8,
+        9
       ],
       "lastSpin": "2025-02-23T09:37:57.908Z"
     },
@@ -21433,7 +21434,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:41:39.272Z"
+      "joinDate": "2025-02-23T09:41:39.272Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
