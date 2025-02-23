@@ -22816,11 +22816,12 @@
       "invited_users": [
         "Bright253",
         "Chidi752",
-        "Clinton456"
+        "Clinton456",
+        "Kinsley452"
       ],
       "balance": 255,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -25406,6 +25407,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Kinsley452",
+      "email": "preciousside2@gmail.com",
+      "encrypted_password": "2aa7e6df6810d077e9618469d26d3e98",
+      "referral_code": "KIKAH",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:29:37.542Z"
     }
   ],
   "withdrawals": [
