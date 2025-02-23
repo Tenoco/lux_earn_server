@@ -10231,11 +10231,12 @@
         "Victoria Emeshiobi ",
         "Idrisabdull ",
         "Preshykwin ",
-        "damilola420"
+        "damilola420",
+        "Rebby2239"
       ],
       "balance": 0,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -31225,7 +31226,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:19:28.076Z"
+      "joinDate": "2025-02-23T20:19:28.076Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rebby2239",
+      "email": "abidemioniti@gmail.com",
+      "encrypted_password": "4c73a1ed9322ef6ac335086eceed6ec2",
+      "referral_code": "REUP7",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:20:05.847Z"
     }
   ],
   "withdrawals": [
