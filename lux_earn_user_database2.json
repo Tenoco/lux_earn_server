@@ -32229,12 +32229,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32548,6 +32548,33 @@
       "status": "active",
       "joinDate": "2025-02-23T21:14:33.013Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Smagani",
+      "email": "yusufrson@gmail.com",
+      "encrypted_password": "e9cbb52f6a5c5bfcfb8f57d89b0d07dd",
+      "referral_code": "SME9Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:45:08.038Z",
+      "completedMissions": [
+        1,
+        3,
+        5,
+        4,
+        2,
+        6,
+        7,
+        9,
+        8
+      ],
       "lastSpin": null
     }
   ],
