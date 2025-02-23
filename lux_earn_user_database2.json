@@ -341,11 +341,12 @@
         "CTO2",
         "Zoe",
         "Mermer",
-        "Rita70"
+        "Rita70",
+        "Ralphyla"
       ],
       "balance": 152,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17336,7 +17337,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:13:07.879Z"
+      "joinDate": "2025-02-23T05:13:07.879Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ralphyla",
+      "email": "Ralphyla@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "RAG06",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:13:21.442Z"
     }
   ],
   "withdrawals": [
