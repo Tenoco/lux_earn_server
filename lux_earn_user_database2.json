@@ -6310,11 +6310,12 @@
         "gideonx",
         "Usman360",
         "Destar",
-        "Bright"
+        "Bright",
+        "Kelly osarenkhoe "
       ],
       "balance": 138,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -22557,6 +22558,21 @@
         9
       ],
       "lastSpin": "2025-02-21T13:25:05.374Z"
+    },
+    {
+      "username": "Kelly osarenkhoe ",
+      "email": "osarenkhoekelly2@gmail.com",
+      "encrypted_password": "25f04c31cc8b8ec75c68b1098f4da935",
+      "referral_code": "KEH7K",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:07:52.710Z"
     }
   ],
   "withdrawals": [
