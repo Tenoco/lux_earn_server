@@ -27356,11 +27356,12 @@
         "vickysavage123",
         "Leo179",
         "David78",
-        "Temmy04"
+        "Temmy04",
+        "Capacity "
       ],
       "balance": 125,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -32798,6 +32799,21 @@
       "joinDate": "2025-02-23T21:30:29.225Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Capacity ",
+      "email": "petersammy360@gmail.com",
+      "encrypted_password": "c44a471bd78cc6c2fea32b9fe028d30a",
+      "referral_code": "CAA1R",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:31:38.853Z"
     }
   ],
   "withdrawals": [
