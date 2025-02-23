@@ -22106,6 +22106,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "John Friday ",
+      "email": "senoravanessacamarena@gmail.com",
+      "encrypted_password": "2c5384d5f7cd126a5c994eaea8e36c2f",
+      "referral_code": "JOP3T",
+      "inviter_referral_code": "22558800",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:33:56.522Z"
     }
   ],
   "withdrawals": [
