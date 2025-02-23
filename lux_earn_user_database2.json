@@ -19951,11 +19951,12 @@
       "invited_users": [
         "Nat",
         "Marv766",
-        "Omotayo647383726"
+        "Omotayo647383726",
+        "Divine "
       ],
       "balance": 275,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -20315,6 +20316,21 @@
       "joinDate": "2025-02-23T08:30:28.268Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Divine ",
+      "email": "df9983616@gmail.com",
+      "encrypted_password": "423a9a4210588e48e18db1d62dbf6afb",
+      "referral_code": "DIG0D",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:31:02.753Z"
     }
   ],
   "withdrawals": [
