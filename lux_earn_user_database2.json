@@ -13595,11 +13595,12 @@
         "Sunny4404",
         "Nagato ",
         "Priscycella",
-        "Iremide@03"
+        "Iremide@03",
+        "Remeh"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -22840,6 +22841,21 @@
         12
       ],
       "lastSpin": "2025-02-21T01:04:42.518Z"
+    },
+    {
+      "username": "Remeh",
+      "email": "agbalefavor253@gmail.com",
+      "encrypted_password": "4aca5ee9a087fb9218bfb662fe92605c",
+      "referral_code": "RENDW",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:22:14.643Z"
     }
   ],
   "withdrawals": [
