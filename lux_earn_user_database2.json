@@ -26402,10 +26402,12 @@
       "referral_code": "AN3DP",
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
-      "invited_users": [],
+      "invited_users": [
+        "Yhucee"
+      ],
       "balance": 400,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:42:04.692Z",
@@ -29778,6 +29780,21 @@
       "joinDate": "2025-02-23T18:47:24.991Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yhucee",
+      "email": "uchechieziefula9@gmail.com",
+      "encrypted_password": "dc4d4caa7ba669e5e80518cd266ecaf2",
+      "referral_code": "YHO60",
+      "inviter_referral_code": "AN3DP",
+      "inviter_username": "Annabel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:54:24.995Z"
     }
   ],
   "withdrawals": [
