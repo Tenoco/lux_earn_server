@@ -26395,11 +26395,12 @@
         "Ritajj3",
         "Edithudo",
         "Joben4",
-        "Peller68"
+        "Peller68",
+        "Fighter 38"
       ],
       "balance": 170,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -32419,6 +32420,21 @@
         5
       ],
       "lastSpin": "2025-02-23T21:07:49.687Z"
+    },
+    {
+      "username": "Fighter 38",
+      "email": "fighter38@gmail.com",
+      "encrypted_password": "58f3907ef81dee7443834b0f76d247e5",
+      "referral_code": "FI4I1",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:08:11.849Z"
     }
   ],
   "withdrawals": [
