@@ -10647,11 +10647,12 @@
         "Khemsy",
         "Sarah ",
         "OSVMEDIA",
-        "Wahab"
+        "Wahab",
+        "Prospylove"
       ],
       "balance": 40,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -18816,7 +18817,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:07:16.492Z"
+      "joinDate": "2025-02-23T07:07:16.492Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Prospylove",
+      "email": "drihanna564@gmail.com",
+      "encrypted_password": "d8578edf8458ce06fbc5bb76a58c5ca4",
+      "referral_code": "PRQMG",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:07:36.090Z"
     }
   ],
   "withdrawals": [
