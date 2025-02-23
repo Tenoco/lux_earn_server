@@ -21486,13 +21486,15 @@
       "inviter_referral_code": "SH52B",
       "inviter_username": "Shamsudeen ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:49:31.604Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -21531,7 +21533,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:50:50.554Z"
+      "joinDate": "2025-02-23T09:50:50.554Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
