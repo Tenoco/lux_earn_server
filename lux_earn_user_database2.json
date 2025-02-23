@@ -20524,11 +20524,12 @@
       "inviter_referral_code": "HOEJH",
       "inviter_username": "Hoyadeji",
       "invited_users": [
-        "Daniel Hassan "
+        "Daniel Hassan ",
+        "Tokking"
       ],
       "balance": 10,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:39:08.886Z",
@@ -22033,7 +22034,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:29:11.201Z"
+      "joinDate": "2025-02-23T10:29:11.201Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tokking",
+      "email": "cletusjunior24@gmail.com",
+      "encrypted_password": "abfde69ffe8b7317941d1402e85d9e12",
+      "referral_code": "TODRS",
+      "inviter_referral_code": "BELHI",
+      "inviter_username": "Best",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:30:57.391Z"
     }
   ],
   "withdrawals": [
