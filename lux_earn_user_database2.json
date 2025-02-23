@@ -14749,11 +14749,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Emma003"
+        "Emma003",
+        "Josh Brezel "
       ],
       "balance": 1084,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:17:32.872Z",
@@ -18857,6 +18858,21 @@
       "joinDate": "2025-02-23T07:08:22.849Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Josh Brezel ",
+      "email": "joshejike021@gmail.com",
+      "encrypted_password": "7e6fe3270f2cc6095da1075625f5505b",
+      "referral_code": "JO5G6",
+      "inviter_referral_code": "KEKSN",
+      "inviter_username": "Kezie313",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:08:51.839Z"
     }
   ],
   "withdrawals": [
