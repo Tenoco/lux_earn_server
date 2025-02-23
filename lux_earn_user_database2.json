@@ -16772,7 +16772,7 @@
       "inviter_referral_code": "0s6af",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16780,7 +16780,8 @@
       "joinDate": "2025-02-23T01:58:48.896Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -16798,7 +16799,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T02:29:35.220Z",
-      "lastSpin": "2025-02-23T02:30:06.662Z",
       "completedMissions": [
         1,
         2,
@@ -16812,7 +16812,8 @@
         11,
         12,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-23T02:30:06.662Z"
     },
     {
       "username": "Muller1",
