@@ -20903,7 +20903,7 @@
       "inviter_referral_code": "OD7RC",
       "inviter_username": "Odubiyi nofiu",
       "invited_users": [],
-      "balance": 38,
+      "balance": 88,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20911,7 +20911,10 @@
       "joinDate": "2025-02-23T08:47:22.987Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        5,
+        6
       ],
       "lastSpin": "2025-02-23T16:37:13.208Z"
     },
@@ -28541,7 +28544,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Tomkid ",
