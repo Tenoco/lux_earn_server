@@ -25955,11 +25955,12 @@
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
       "invited_users": [
-        "Daniel"
+        "Daniel",
+        "Gifto 193"
       ],
       "balance": 170,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -26571,7 +26572,8 @@
       "joinDate": "2025-02-23T14:38:49.484Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Michael ltv",
@@ -26589,6 +26591,21 @@
       "joinDate": "2025-02-23T14:39:37.598Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gifto 193",
+      "email": "onyemaechibright174@gmail.com",
+      "encrypted_password": "aa00faf97d042c13a59da4d27eb32358",
+      "referral_code": "GILYA",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:40:19.020Z"
     }
   ],
   "withdrawals": [
