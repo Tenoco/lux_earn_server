@@ -9801,11 +9801,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Thank god"
+        "Thank god",
+        "Mechonation "
       ],
       "balance": 341,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -16592,14 +16593,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:17:19.330Z",
-      "lastSpin": "2025-02-23T01:17:37.250Z",
       "completedMissions": [
         2,
         4,
         9,
         8,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-23T01:17:37.250Z"
     },
     {
       "username": "Molarao",
@@ -16634,6 +16635,21 @@
       "joinDate": "2025-02-23T01:18:18.079Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mechonation ",
+      "email": "aregbesolamichael008@gmail.com",
+      "encrypted_password": "b2b3ac0899ba5d01a530ca6f4525248a",
+      "referral_code": "MEHZ9",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:25:07.661Z"
     }
   ],
   "withdrawals": [
