@@ -9811,11 +9811,12 @@
       "inviter_username": null,
       "invited_users": [
         "Thank god",
-        "Mechonation "
+        "Mechonation ",
+        "Oyinbo abosede"
       ],
       "balance": 341,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -17321,6 +17322,21 @@
       "joinDate": "2025-02-23T05:12:20.771Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oyinbo abosede",
+      "email": "oyinboabosede@gmail.com",
+      "encrypted_password": "e45d93f23358125d698d332e7b64dbef",
+      "referral_code": "OYYAS",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:13:07.879Z"
     }
   ],
   "withdrawals": [
