@@ -22180,7 +22180,7 @@
         "Ola",
         "Jay"
       ],
-      "balance": 160,
+      "balance": 180,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -22194,7 +22194,8 @@
         6,
         7,
         8,
-        9
+        9,
+        10
       ],
       "lastSpin": "2025-02-23T10:34:47.366Z"
     },
@@ -22348,7 +22349,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:42:40.293Z"
+      "joinDate": "2025-02-23T10:42:40.293Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
