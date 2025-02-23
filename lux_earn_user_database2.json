@@ -19522,11 +19522,12 @@
       "inviter_referral_code": "IBNG9",
       "inviter_username": null,
       "invited_users": [
-        "Mohmmed"
+        "Mohmmed",
+        "Usman"
       ],
       "balance": 252,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -28719,6 +28720,21 @@
       "joinDate": "2025-02-23T17:01:08.801Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Usman",
+      "email": "usmanmuh6389@gmail.com",
+      "encrypted_password": "adcfafb7cf2e4efd51c0776ce93b264a",
+      "referral_code": "USS4A",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:00:58.498Z"
     }
   ],
   "withdrawals": [
