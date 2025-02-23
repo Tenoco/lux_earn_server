@@ -30934,10 +30934,12 @@
       "referral_code": "IBPK8",
       "inviter_referral_code": "AN202",
       "inviter_username": "Anonymous12",
-      "invited_users": [],
+      "invited_users": [
+        "Hafsy"
+      ],
       "balance": 225,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:58:55.442Z",
@@ -31538,7 +31540,8 @@
         2,
         2,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Elliot Grant ",
@@ -31556,6 +31559,21 @@
       "joinDate": "2025-02-23T20:32:35.336Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hafsy",
+      "email": "umarsafhat@gmail.com",
+      "encrypted_password": "4dcc5fad3b29a1726e52a63f6f020a42",
+      "referral_code": "HARAR",
+      "inviter_referral_code": "IBPK8",
+      "inviter_username": "Ibn wakil001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:33:30.779Z"
     }
   ],
   "withdrawals": [
