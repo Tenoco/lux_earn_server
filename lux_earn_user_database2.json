@@ -31332,7 +31332,7 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31341,7 +31341,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        15
       ],
       "lastSpin": "2025-02-23T20:27:55.626Z"
     },
@@ -31648,7 +31649,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:34:59.633Z"
+      "joinDate": "2025-02-23T20:34:59.633Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
