@@ -21971,13 +21971,16 @@
       "inviter_referral_code": "QUNC3",
       "inviter_username": "Quadriano",
       "invited_users": [],
-      "balance": 15,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        11
+      ],
       "lastSpin": "2025-02-23T18:18:19.813Z"
     },
     {
@@ -29621,7 +29624,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:32:25.095Z"
+      "joinDate": "2025-02-23T18:32:25.095Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
