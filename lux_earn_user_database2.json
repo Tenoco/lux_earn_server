@@ -22979,7 +22979,7 @@
         "Natsume ",
         "Brainiac"
       ],
-      "balance": 120,
+      "balance": 160,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
@@ -22991,7 +22991,9 @@
         14,
         13,
         12,
-        10
+        10,
+        11,
+        4
       ],
       "lastSpin": "2025-02-23T09:09:48.047Z"
     },
@@ -23033,7 +23035,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
