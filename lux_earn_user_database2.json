@@ -18167,11 +18167,12 @@
         "Kidding ",
         "Baggy",
         "Binding ",
-        "Novice "
+        "Novice ",
+        "Yokeji"
       ],
       "balance": 272,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -19079,6 +19080,21 @@
       "joinDate": "2025-02-23T07:20:36.167Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yokeji",
+      "email": "infi@gmailchef.com",
+      "encrypted_password": "78d1fe0f0064cf6654940c87d99d4456",
+      "referral_code": "YOMWL",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:21:47.627Z"
     }
   ],
   "withdrawals": [
