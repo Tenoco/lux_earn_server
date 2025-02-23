@@ -12164,11 +12164,12 @@
       "inviter_referral_code": "GE3HR",
       "inviter_username": "Gennymk",
       "invited_users": [
-        "Kennymike "
+        "Kennymike ",
+        "Burrentcash"
       ],
       "balance": 201,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:16:49.770Z",
@@ -19054,6 +19055,21 @@
       "joinDate": "2025-02-23T07:17:10.705Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Burrentcash",
+      "email": "burrent12@gmail.com",
+      "encrypted_password": "b9203a956673e467d33c0e9d0178198e",
+      "referral_code": "BUTK6",
+      "inviter_referral_code": "HETAN",
+      "inviter_username": "Henry111",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:20:36.167Z"
     }
   ],
   "withdrawals": [
