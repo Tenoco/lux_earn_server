@@ -18591,14 +18591,28 @@
       "invited_users": [
         "Higguy"
       ],
-      "balance": 25,
+      "balance": 245,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:50:45.387Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2,
+        2,
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        11
       ],
       "lastSpin": "2025-02-23T06:52:12.133Z"
     },
@@ -19298,7 +19312,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:38:14.048Z"
+      "joinDate": "2025-02-23T07:38:14.048Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
