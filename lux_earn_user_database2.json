@@ -13920,11 +13920,12 @@
         "Zainabu",
         "Kehinde",
         "Omozeno ",
-        "tijjaniil "
+        "tijjaniil ",
+        "Dimeji"
       ],
       "balance": 0,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -33058,10 +33059,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:51:06.351Z",
-      "lastSpin": "2025-02-23T21:52:11.681Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:52:11.681Z"
     },
     {
       "username": "Focus ",
@@ -33079,6 +33080,21 @@
       "joinDate": "2025-02-23T21:53:26.394Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dimeji",
+      "email": "musamuhazzurm@gmail.com",
+      "encrypted_password": "608962f2b1a41311836aab6735a41a6e",
+      "referral_code": "DIKBN",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:56:30.672Z"
     }
   ],
   "withdrawals": [
