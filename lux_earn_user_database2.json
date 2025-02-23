@@ -14540,7 +14540,7 @@
       "inviter_referral_code": "ABYZO",
       "inviter_username": "Abiolag",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14548,7 +14548,8 @@
       "joinDate": "2025-02-22T20:54:01.335Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -19696,6 +19697,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:02:24.457Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T08:03:02.845Z"
     }
   ],
