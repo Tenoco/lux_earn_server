@@ -20580,10 +20580,12 @@
       "referral_code": "NI2UJ",
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
-      "invited_users": [],
+      "invited_users": [
+        "Olaxy12 "
+      ],
       "balance": 210,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:50:16.321Z",
@@ -20833,6 +20835,21 @@
         9
       ],
       "lastSpin": "2025-02-23T09:05:25.558Z"
+    },
+    {
+      "username": "Olaxy12 ",
+      "email": "qozeemibrahim45@gmail.com",
+      "encrypted_password": "981004cbffc424ee6416ae01abcaba49",
+      "referral_code": "OL2H6",
+      "inviter_referral_code": "NI2UJ",
+      "inviter_username": "Nimota12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:05:56.029Z"
     }
   ],
   "withdrawals": [
