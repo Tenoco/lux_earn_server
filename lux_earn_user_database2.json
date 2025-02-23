@@ -27135,10 +27135,12 @@
       "referral_code": "TI93N",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Vic7890"
+      ],
       "balance": 42,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:01:50.203Z",
@@ -27403,7 +27405,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:21:32.540Z"
+      "joinDate": "2025-02-23T15:21:32.540Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vic7890",
+      "email": "vky777544@gmail.com",
+      "encrypted_password": "09d048e6988228038bba0485ec391708",
+      "referral_code": "VIFW4",
+      "inviter_referral_code": "TI93N",
+      "inviter_username": "Tizzy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:22:42.201Z"
     }
   ],
   "withdrawals": [
