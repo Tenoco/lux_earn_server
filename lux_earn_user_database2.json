@@ -13535,11 +13535,12 @@
         "Wisdom chidiebere ",
         "Micho",
         "Sunny4404",
-        "Nagato "
+        "Nagato ",
+        "Priscycella"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -21108,11 +21109,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:15:05.467Z",
-      "lastSpin": "2025-02-23T09:15:22.992Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:15:22.992Z"
     },
     {
       "username": "Aminat",
@@ -21138,6 +21139,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Priscycella",
+      "email": "mosespriscillac@gmail.com",
+      "encrypted_password": "f9c5a7f5608de952c54f67285913fff1",
+      "referral_code": "PRZS9",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:19:49.143Z"
     }
   ],
   "withdrawals": [
