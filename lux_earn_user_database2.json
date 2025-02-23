@@ -27947,7 +27947,7 @@
       "inviter_referral_code": "COSCL",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27964,7 +27964,8 @@
         14,
         10,
         10,
-        10
+        10,
+        11
       ],
       "lastSpin": null
     },
@@ -28336,7 +28337,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:27:39.754Z"
+      "joinDate": "2025-02-23T16:27:39.754Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
