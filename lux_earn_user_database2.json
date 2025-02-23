@@ -18809,11 +18809,12 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": "Nabeelo",
       "invited_users": [
-        "Damilare51"
+        "Damilare51",
+        "Mhiztazee "
       ],
       "balance": 105,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:06:50.687Z",
@@ -24048,7 +24049,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:21:02.347Z"
+      "joinDate": "2025-02-23T12:21:02.347Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mhiztazee ",
+      "email": "odubiyiazeez3@gmail.com",
+      "encrypted_password": "e027b5a83590d82a5170dda4ee4407d5",
+      "referral_code": "MHXWQ",
+      "inviter_referral_code": "OD7RC",
+      "inviter_username": "Odubiyi nofiu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:21:20.666Z"
     }
   ],
   "withdrawals": [
