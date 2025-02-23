@@ -24785,7 +24785,8 @@
         12,
         13,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "PurityTope",
@@ -24847,6 +24848,26 @@
         2
       ],
       "lastSpin": "2025-02-21T09:41:33.179Z"
+    },
+    {
+      "username": "Danyarbawa",
+      "email": "rabiuabdulmalik224@gmail.com",
+      "encrypted_password": "38b75029d00b06c001de2081eca394d0",
+      "referral_code": "DACJU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 80,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:18:31.426Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T07:18:53.036Z"
     }
   ],
   "withdrawals": [
