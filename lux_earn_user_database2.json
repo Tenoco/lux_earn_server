@@ -3895,11 +3895,12 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": null,
       "invited_users": [
-        "Patient "
+        "Patient ",
+        "EmmanuellaOdun"
       ],
       "balance": 1010,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -28108,6 +28109,21 @@
       "joinDate": "2025-02-23T16:10:40.888Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T16:11:33.491Z"
+    },
+    {
+      "username": "EmmanuellaOdun",
+      "email": "eodunsi041@gmail.com",
+      "encrypted_password": "ae90135fd8973b79d7f13208ba17a685",
+      "referral_code": "EMWVP",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:12:11.167Z"
     }
   ],
   "withdrawals": [
