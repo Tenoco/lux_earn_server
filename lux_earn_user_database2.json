@@ -18678,11 +18678,12 @@
       "inviter_referral_code": "ADFOI",
       "inviter_username": "Adegboye12",
       "invited_users": [
-        "Abdullahi Olatunde "
+        "Abdullahi Olatunde ",
+        "taoheed Ade "
       ],
       "balance": 240,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31109,7 +31110,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:15:50.844Z"
+      "joinDate": "2025-02-23T20:15:50.844Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "taoheed Ade ",
+      "email": "taoheedade65@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "TABM3",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:16:17.603Z"
     }
   ],
   "withdrawals": [
