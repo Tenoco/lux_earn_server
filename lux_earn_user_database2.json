@@ -16236,11 +16236,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Rokeeb "
+        "Rokeeb ",
+        "Omotayo "
       ],
       "balance": 262,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:53:41.039Z",
@@ -16518,7 +16519,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:13:45.881Z"
+      "joinDate": "2025-02-23T01:13:45.881Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omotayo ",
+      "email": "liadirokeeb081@gmail.com",
+      "encrypted_password": "69b977ba51e5e7bd806436310a8f8b6d",
+      "referral_code": "OMWHV",
+      "inviter_referral_code": "OMDV9",
+      "inviter_username": "Omotayo01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:14:46.370Z"
     }
   ],
   "withdrawals": [
