@@ -21709,10 +21709,12 @@
       "referral_code": "BILPG",
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Joker "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T10:00:28.683Z",
@@ -21945,6 +21947,21 @@
       "joinDate": "2025-02-23T10:19:11.726Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joker ",
+      "email": "reubenadamu41@gmail.com",
+      "encrypted_password": "0375f527a07bba798944e5f92e9b2b05",
+      "referral_code": "JO7KT",
+      "inviter_referral_code": "BILPG",
+      "inviter_username": "Big Elix ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:20:33.887Z"
     }
   ],
   "withdrawals": [
