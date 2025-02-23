@@ -16586,14 +16586,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:17:19.330Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T01:17:37.250Z"
+      "lastSpin": "2025-02-23T01:17:37.250Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Molarao",
@@ -16625,7 +16627,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:18:18.079Z"
+      "joinDate": "2025-02-23T01:18:18.079Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
