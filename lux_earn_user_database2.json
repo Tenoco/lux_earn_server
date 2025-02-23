@@ -18892,7 +18892,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:10:26.860Z"
+      "joinDate": "2025-02-23T07:10:26.860Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jobby",
+      "email": "phocuscrun@gmail.com",
+      "encrypted_password": "dd4b21e9ef71e1291183a46b913ae6f2",
+      "referral_code": "JOO8Z",
+      "inviter_referral_code": "MOYC8 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:11:20.351Z"
     }
   ],
   "withdrawals": [
