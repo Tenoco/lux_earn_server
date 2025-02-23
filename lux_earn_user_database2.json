@@ -6423,11 +6423,12 @@
         "Franca5",
         "Michaelking36 ",
         "Olatunji kehinde Aderayo ",
-        "Thelmachidera"
+        "Thelmachidera",
+        "Presco"
       ],
       "balance": 138,
-      "refers": 62,
-      "referralBalance": 6200,
+      "refers": 63,
+      "referralBalance": 6300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27920,7 +27921,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:05:01.989Z"
+      "joinDate": "2025-02-23T16:05:01.989Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Presco",
+      "email": "adekunlepretty960@gmail.com",
+      "encrypted_password": "54e5c05b10111eb6b2cbe138f66c4a34",
+      "referral_code": "PRNVT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:04:49.035Z"
     }
   ],
   "withdrawals": [
