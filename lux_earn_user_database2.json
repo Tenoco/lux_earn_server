@@ -27299,11 +27299,12 @@
         "Eyrammm",
         "Omoking ",
         "vickysavage123",
-        "Leo179"
+        "Leo179",
+        "David78"
       ],
       "balance": 125,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -31963,7 +31964,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:43:01.981Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T20:43:25.913Z"
+    },
+    {
+      "username": "David78",
+      "email": "adekunledanieladetoro2305@gmail.com",
+      "encrypted_password": "55fc5b709962876903785fd64a6961e5",
+      "referral_code": "DAXN1",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:43:49.930Z"
     }
   ],
   "withdrawals": [
