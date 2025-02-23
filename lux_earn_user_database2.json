@@ -19602,7 +19602,7 @@
       "inviter_referral_code": "ODWXP ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 220,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19623,7 +19623,7 @@
         9,
         8
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T08:01:06.300Z"
     },
     {
       "username": "Afonat",
@@ -19672,7 +19672,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:03:45.034Z"
+      "joinDate": "2025-02-23T08:03:45.034Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
