@@ -20725,14 +20725,13 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:55:48.557Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:02:05.899Z"
     },
     {
       "username": "Sarafc",
@@ -20781,7 +20780,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:01:53.534Z"
+      "joinDate": "2025-02-23T09:01:53.534Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
