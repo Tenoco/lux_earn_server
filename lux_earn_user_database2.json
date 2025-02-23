@@ -11885,7 +11885,7 @@
       "inviter_referral_code": "WINHN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11893,7 +11893,10 @@
       "joinDate": "2025-02-22T19:06:02.382Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        5,
+        5
       ],
       "lastSpin": "2025-02-23T11:52:47.441Z"
     },
