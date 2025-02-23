@@ -19954,11 +19954,12 @@
         "Nat",
         "Marv766",
         "Omotayo647383726",
-        "Divine "
+        "Divine ",
+        "Best"
       ],
       "balance": 275,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -20406,6 +20407,21 @@
       "joinDate": "2025-02-21T08:13:06.718Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Best",
+      "email": "airaojef@gmail.com",
+      "encrypted_password": "ff531a5fd2edf5cc520acd148bf55891",
+      "referral_code": "BELHI",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:39:08.886Z"
     }
   ],
   "withdrawals": [
