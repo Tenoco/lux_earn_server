@@ -21714,13 +21714,15 @@
       "invited_users": [
         "Joker "
       ],
-      "balance": 18,
+      "balance": 28,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T10:00:28.683Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-23T10:21:55.887Z"
     },
     {
