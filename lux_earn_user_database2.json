@@ -337,11 +337,12 @@
       "inviter_referral_code": "vgh",
       "inviter_username": null,
       "invited_users": [
-        "John3"
+        "John3",
+        "CTO2"
       ],
       "balance": 152,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17209,7 +17210,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Faruk ",
@@ -17244,6 +17246,21 @@
       "joinDate": "2025-02-23T05:06:41.757Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "CTO2",
+      "email": "cynthiaodion@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "CTNSI",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:08:38.538Z"
     }
   ],
   "withdrawals": [
