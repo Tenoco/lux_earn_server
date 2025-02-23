@@ -23576,7 +23576,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:57:02.959Z"
+      "joinDate": "2025-02-23T11:57:02.959Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "FMUSK",
+      "email": "oluwafemi1516@gmail.com",
+      "encrypted_password": "e4afea8c979e72781fb1f1f3282697a0",
+      "referral_code": "FMUNN",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 270,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:45:39.664Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        5,
+        4
+      ],
+      "lastSpin": "2025-02-21T09:48:16.338Z"
     }
   ],
   "withdrawals": [
