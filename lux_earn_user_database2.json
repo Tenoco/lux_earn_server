@@ -15595,7 +15595,7 @@
       "invited_users": [
         "Geesnyder "
       ],
-      "balance": 370,
+      "balance": 410,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -15621,7 +15621,9 @@
         13,
         14,
         14,
-        14
+        14,
+        15,
+        15
       ],
       "lastSpin": "2025-02-23T05:20:37.287Z"
     },
@@ -27956,7 +27958,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:05:57.287Z"
+      "joinDate": "2025-02-23T16:05:57.287Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
