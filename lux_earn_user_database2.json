@@ -6263,11 +6263,12 @@
         "Quadri smart",
         "ChideraAkide",
         "Akanuji122",
-        "cimekgadis"
+        "cimekgadis",
+        "Afonat"
       ],
       "balance": 138,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -19590,6 +19591,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Afonat",
+      "email": "Afonat1407@gmail.com",
+      "encrypted_password": "8a2bfb25876b78cac126335c14a3b292",
+      "referral_code": "AFI8R",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:51:08.221Z"
     }
   ],
   "withdrawals": [
