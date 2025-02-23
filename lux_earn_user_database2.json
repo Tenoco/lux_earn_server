@@ -20167,14 +20167,15 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 25,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:24:45.100Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T08:25:53.478Z"
     },
@@ -20225,7 +20226,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:28:10.894Z"
+      "joinDate": "2025-02-23T08:28:10.894Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
