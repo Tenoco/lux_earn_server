@@ -21044,7 +21044,8 @@
         4,
         5,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Habosede2002",
@@ -21054,14 +21055,15 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:12:02.943Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
