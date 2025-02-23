@@ -29107,7 +29107,7 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 40,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29115,7 +29115,10 @@
       "joinDate": "2025-02-23T17:26:35.106Z",
       "completedMissions": [
         16,
-        15
+        15,
+        14,
+        15,
+        13
       ]
     },
     {
