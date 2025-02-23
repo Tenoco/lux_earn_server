@@ -6483,11 +6483,12 @@
         "Victors3450",
         "Idenyi20",
         "Estheretim",
-        "BigWAVE "
+        "BigWAVE ",
+        "Iamteevibez"
       ],
       "balance": 138,
-      "refers": 102,
-      "referralBalance": 10200,
+      "refers": 103,
+      "referralBalance": 10300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32635,6 +32636,21 @@
       "joinDate": "2025-02-23T21:21:11.352Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iamteevibez",
+      "email": "oluwatobim88@gmail.com",
+      "encrypted_password": "d6f9125772245286541090de4d2e1db9",
+      "referral_code": "IARYN",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:21:42.454Z"
     }
   ],
   "withdrawals": [
