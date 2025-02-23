@@ -6305,11 +6305,12 @@
         "Uzairu841",
         "gideonx",
         "Usman360",
-        "Destar"
+        "Destar",
+        "Bright"
       ],
       "balance": 138,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -22165,7 +22166,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:35:32.740Z"
+      "joinDate": "2025-02-23T10:35:32.740Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bright",
+      "email": "convicte35@gmail.com",
+      "encrypted_password": "305913ec7a1eebf89ccdf4f4d82d7c32",
+      "referral_code": "BRUA4",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:35:48.359Z"
     }
   ],
   "withdrawals": [
