@@ -26935,7 +26935,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:51:41.881Z"
+      "joinDate": "2025-02-23T14:51:41.881Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Noblegrafix",
+      "email": "noblegrafix.ng@gmail.com",
+      "encrypted_password": "ccfea2d490066f948f2cc4dcf205b6c6",
+      "referral_code": "NOXT0",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": "Luxearner",
+      "invited_users": [],
+      "balance": 260,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T01:17:28.154Z",
+      "completedMissions": [
+        1,
+        7,
+        8,
+        4,
+        5,
+        3,
+        2,
+        6
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
