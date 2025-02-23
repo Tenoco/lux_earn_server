@@ -6533,7 +6533,7 @@
       "inviter_referral_code": "BAL4n",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 95,
+      "balance": 156,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6544,9 +6544,12 @@
         1,
         4,
         4,
-        8
+        8,
+        13,
+        13,
+        5
       ],
-      "lastSpin": "2025-02-22T14:21:32.900Z"
+      "lastSpin": "2025-02-23T16:13:25.821Z"
     },
     {
       "username": "abdulsalam ",
@@ -28175,7 +28178,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:15:33.954Z"
+      "joinDate": "2025-02-23T16:15:33.954Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
