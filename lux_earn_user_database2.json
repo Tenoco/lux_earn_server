@@ -33384,6 +33384,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:22:53.868Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T22:27:42.404Z"
     },
     {
@@ -33446,6 +33447,21 @@
         9
       ],
       "lastSpin": "2025-02-23T22:27:35.970Z"
+    },
+    {
+      "username": "Nonnnnn",
+      "email": "umarkyw77@gmail.com",
+      "encrypted_password": "a9c27e18c273c95d759f9032b26152bd",
+      "referral_code": "NO709",
+      "inviter_referral_code": "MORM5",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:28:05.093Z"
     }
   ],
   "withdrawals": [
