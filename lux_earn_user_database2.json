@@ -27213,11 +27213,12 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [
-        "Dheevah"
+        "Dheevah",
+        "Skyler"
       ],
       "balance": 125,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -30568,6 +30569,21 @@
       "joinDate": "2025-02-23T19:37:56.580Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Skyler",
+      "email": "favourbalogun444@gmail.com",
+      "encrypted_password": "6d8c0845f2e050156803c35e7fb837ba",
+      "referral_code": "SKVXM",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:38:26.451Z"
     }
   ],
   "withdrawals": [
