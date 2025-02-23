@@ -23597,7 +23597,7 @@
       "inviter_referral_code": "DOAQQ",
       "inviter_username": "Donzanian",
       "invited_users": [],
-      "balance": 1400,
+      "balance": 1650,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23704,7 +23704,32 @@
         12,
         12,
         12,
-        12
+        12,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
       ],
       "lastSpin": null
     },
@@ -23786,7 +23811,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:04:00.451Z"
+      "joinDate": "2025-02-23T12:04:00.451Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
