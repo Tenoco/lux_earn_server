@@ -27563,14 +27563,13 @@
       "inviter_referral_code": "VAGJR",
       "inviter_username": "VanDijk",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:32:01.295Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T15:33:46.040Z"
     },
     {
       "username": "Editexdom ",
@@ -27585,7 +27584,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:33:35.308Z"
+      "joinDate": "2025-02-23T15:33:35.308Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
