@@ -2779,7 +2779,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1193,
+      "balance": 1218,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2799,7 +2799,7 @@
         13,
         14
       ],
-      "lastSpin": "2025-02-22T11:12:51.972Z"
+      "lastSpin": "2025-02-23T11:17:29.781Z"
     },
     {
       "username": "Samuelly",
@@ -22789,7 +22789,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:17:05.441Z"
+      "joinDate": "2025-02-23T11:17:05.441Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
