@@ -29862,21 +29862,22 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 121,
+      "balance": 131,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
+      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
         12,
         12,
         10,
-        7
-      ],
-      "lastSpin": "2025-02-23T18:57:09.349Z"
+        7,
+        6
+      ]
     },
     {
       "username": "Osung ",
