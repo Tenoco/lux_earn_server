@@ -21188,14 +21188,16 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 5,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:19:49.143Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T09:20:41.728Z"
+      "lastSpin": "2025-02-23T09:20:41.728Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Wilson",
@@ -21236,7 +21238,8 @@
         6,
         7,
         8
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "isaacubong414@gmail.com",
