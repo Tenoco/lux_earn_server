@@ -16855,7 +16855,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T02:53:42.195Z",
-      "lastSpin": "2025-02-23T02:56:13.223Z",
       "completedMissions": [
         1,
         2,
@@ -16865,7 +16864,8 @@
         6,
         8,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-23T02:56:13.223Z"
     },
     {
       "username": "Nimah",
@@ -16883,6 +16883,21 @@
       "joinDate": "2025-02-23T03:02:27.772Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chigbo Samuel tukwasi ",
+      "email": "Samuelchigbo479@gmail.com",
+      "encrypted_password": "953f37e41673974061fb1ff088965222",
+      "referral_code": "CHRMI",
+      "inviter_referral_code": "PE7YT",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T03:03:42.801Z"
     }
   ],
   "withdrawals": [
