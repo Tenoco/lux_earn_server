@@ -18633,14 +18633,15 @@
       "inviter_referral_code": "FALIV",
       "inviter_username": "Fawaz08",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:55:41.920Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     },
     {
