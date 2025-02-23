@@ -343,11 +343,12 @@
         "Mermer",
         "Rita70",
         "Ralphyla",
-        "Merchant"
+        "Merchant",
+        "Megaxplurs"
       ],
       "balance": 152,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17611,7 +17612,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:42:23.498Z"
+      "joinDate": "2025-02-23T05:42:23.498Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Megaxplurs",
+      "email": "megaxplurs@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "ME3WP",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:43:04.863Z"
     }
   ],
   "withdrawals": [
