@@ -6503,11 +6503,12 @@
         "Yusufsin12",
         "Dady0488",
         "Henr555",
-        "Annastasia"
+        "Annastasia",
+        "Oscar"
       ],
       "balance": 138,
-      "refers": 115,
-      "referralBalance": 11500,
+      "refers": 116,
+      "referralBalance": 11600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33909,6 +33910,21 @@
       "joinDate": "2025-02-23T23:05:13.519Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oscar",
+      "email": "divinejohn538@gmail.com",
+      "encrypted_password": "9babd965d0653a7f9250496b8936322b",
+      "referral_code": "OSXBY",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:05:27.459Z"
     }
   ],
   "withdrawals": [
