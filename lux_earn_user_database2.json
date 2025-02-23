@@ -6300,11 +6300,12 @@
         "Joshua ",
         "Uzairu841",
         "gideonx",
-        "Usman360"
+        "Usman360",
+        "Destar"
       ],
       "balance": 138,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -21718,6 +21719,21 @@
       "joinDate": "2025-02-23T10:02:33.892Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Destar",
+      "email": "estyanani@gmail.com",
+      "encrypted_password": "437e6aaf7b297994c17d51d631cce8e7",
+      "referral_code": "DEIMX",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:05:25.306Z"
     }
   ],
   "withdrawals": [
