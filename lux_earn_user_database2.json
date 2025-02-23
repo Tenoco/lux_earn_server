@@ -14060,11 +14060,12 @@
         "Jay24",
         "Thief",
         "Jonnyyy",
-        "Joker"
+        "Joker",
+        "Yomi"
       ],
       "balance": 230,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32759,6 +32760,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:28:21.647Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T21:29:53.455Z"
     },
     {
@@ -32777,6 +32779,21 @@
       "joinDate": "2025-02-23T21:29:00.105Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yomi",
+      "email": "tamigabriel@gmail.com",
+      "encrypted_password": "4096985b06f5ace0d551d7162e5c2e7f",
+      "referral_code": "YOUYS",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:30:29.225Z"
     }
   ],
   "withdrawals": [
