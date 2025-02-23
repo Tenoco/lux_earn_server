@@ -25985,11 +25985,12 @@
         "Gifto 193",
         "Thompson 37",
         "Emaculate36",
-        "Quan123"
+        "Quan123",
+        "Jodan105"
       ],
       "balance": 170,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27116,6 +27117,21 @@
       "joinDate": "2025-02-23T15:01:50.203Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jodan105",
+      "email": "marvins392@gmakl.com",
+      "encrypted_password": "dba0079f1cb3a3b56e102dd5e04fa2af",
+      "referral_code": "JOF7H",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:04:43.412Z"
     }
   ],
   "withdrawals": [
