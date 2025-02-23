@@ -21619,14 +21619,17 @@
       "inviter_referral_code": "VIBDL",
       "inviter_username": "Vikina",
       "invited_users": [],
-      "balance": 10,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:54:32.161Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        5
       ],
       "lastSpin": null
     },
@@ -22051,7 +22054,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:30:57.391Z"
+      "joinDate": "2025-02-23T10:30:57.391Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
