@@ -21025,7 +21025,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:11:41.509Z"
+      "joinDate": "2025-02-23T09:11:41.509Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Habosede2002",
+      "email": "ayeboabosede90@gmail.com",
+      "encrypted_password": "c9e6066c4061de484b711cb31f3a6170",
+      "referral_code": "HAJTE",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:12:02.943Z"
     }
   ],
   "withdrawals": [
