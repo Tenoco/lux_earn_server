@@ -16412,7 +16412,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:06:35.948Z"
+      "joinDate": "2025-02-23T01:06:35.948Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dollar666",
+      "email": "muyideengasali2024@gmail.com",
+      "encrypted_password": "d646348c7bb9efa9106c5aa0d7fb89b8",
+      "referral_code": "DO7I0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:07:23.972Z"
     }
   ],
   "withdrawals": [
