@@ -6449,11 +6449,12 @@
         "Osazuwa ",
         "Msani2520 ",
         "Oluwaexcess",
-        "Jobi'Lizzy "
+        "Jobi'Lizzy ",
+        "Beastfx"
       ],
       "balance": 138,
-      "refers": 78,
-      "referralBalance": 7800,
+      "refers": 79,
+      "referralBalance": 7900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29726,6 +29727,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Beastfx",
+      "email": "adetunjiaminat54@gmail.com",
+      "encrypted_password": "1e99a24df4edf90e11db28abe315b1a6",
+      "referral_code": "BE3MP",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:46:16.449Z"
     }
   ],
   "withdrawals": [
