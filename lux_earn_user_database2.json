@@ -32813,7 +32813,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:31:38.853Z"
+      "joinDate": "2025-02-23T21:31:38.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Etty",
+      "email": "mmesomachibueze189@gmail.com",
+      "encrypted_password": "3aad95d46a1ce1d2d1dd0cdb347604d9",
+      "referral_code": "ETEPX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 180,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:26:58.540Z",
+      "completedMissions": [
+        1,
+        3,
+        4,
+        2,
+        5,
+        6
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
