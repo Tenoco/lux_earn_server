@@ -6267,11 +6267,12 @@
         "cimekgadis",
         "Afonat",
         "Bevil",
-        "Jenny "
+        "Jenny ",
+        "Lucasmacas"
       ],
       "balance": 138,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20064,6 +20065,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Lucasmacas",
+      "email": "lucasotieno072@gmail.com",
+      "encrypted_password": "11e22e782ae89fa04511f10a932e88f5",
+      "referral_code": "LUE0E",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:19:20.710Z"
     }
   ],
   "withdrawals": [
