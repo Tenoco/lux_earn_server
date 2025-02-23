@@ -14059,11 +14059,12 @@
         "Jonnyy",
         "Jay24",
         "Thief",
-        "Jonnyyy"
+        "Jonnyyy",
+        "Joker"
       ],
       "balance": 230,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32243,7 +32244,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
@@ -32254,7 +32254,8 @@
         7,
         15,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32759,6 +32760,21 @@
       "joinDate": "2025-02-23T21:28:21.647Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joker",
+      "email": "jojedan@gmail.com",
+      "encrypted_password": "0a4bb474ebac7b520733030290cd5785",
+      "referral_code": "JO4P2",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:29:00.105Z"
     }
   ],
   "withdrawals": [
