@@ -25659,14 +25659,18 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 12,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:37:37.521Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T13:38:17.804Z"
+      "lastSpin": "2025-02-23T13:38:17.804Z",
+      "completedMissions": [
+        1,
+        2,
+        11
+      ]
     },
     {
       "username": "Mickey",
