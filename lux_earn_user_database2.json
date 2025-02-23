@@ -29631,7 +29631,7 @@
       "inviter_referral_code": "OD7RC",
       "inviter_username": "Odubiyi nofiu",
       "invited_users": [],
-      "balance": 70,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29642,7 +29642,9 @@
         2,
         2,
         4,
-        5
+        5,
+        6,
+        7
       ],
       "lastSpin": null
     },
@@ -29866,7 +29868,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
-      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
@@ -29874,7 +29875,8 @@
         12,
         10,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-23T18:57:09.349Z"
     },
     {
       "username": "Osung ",
