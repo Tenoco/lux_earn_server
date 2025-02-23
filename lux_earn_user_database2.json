@@ -17724,7 +17724,34 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:57:13.886Z"
+      "joinDate": "2025-02-23T05:57:13.886Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Slim-Mill",
+      "email": "patrickjohn199999@gmail.com",
+      "encrypted_password": "773cec913b43dbfbc04208af64b6b6fc",
+      "referral_code": "SLKK9",
+      "inviter_referral_code": "KIUD0",
+      "inviter_username": "Kingaleey1",
+      "invited_users": [],
+      "balance": 191,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:17:03.593Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-21T11:18:26.314Z"
     }
   ],
   "withdrawals": [
