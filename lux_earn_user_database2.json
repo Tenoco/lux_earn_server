@@ -9908,11 +9908,12 @@
         "Mechonation ",
         "Oyinbo abosede",
         "Samuel",
-        "Oyewmenosa "
+        "Oyewmenosa ",
+        "MrJinkin"
       ],
       "balance": 341,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -21110,12 +21111,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:15:05.467Z",
-      "lastSpin": "2025-02-23T09:15:22.992Z",
       "completedMissions": [
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:15:22.992Z"
     },
     {
       "username": "Aminat",
@@ -21175,6 +21176,21 @@
       "joinDate": "2025-02-20T23:27:02.853Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "MrJinkin",
+      "email": "jinkinwizshed@gmail.com",
+      "encrypted_password": "28897126a916dfc3dc9992345cc0418c",
+      "referral_code": "MRM5J",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:22:55.491Z"
     }
   ],
   "withdrawals": [
