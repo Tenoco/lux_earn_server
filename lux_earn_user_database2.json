@@ -6336,11 +6336,12 @@
         "Christiana Sunday ",
         "GIFTED ",
         "Emmrick",
-        "Ling smart"
+        "Ling smart",
+        "Muhd aminu"
       ],
       "balance": 138,
-      "refers": 39,
-      "referralBalance": 3900,
+      "refers": 40,
+      "referralBalance": 4000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24100,14 +24101,29 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:23:35.035Z",
-      "lastSpin": "2025-02-23T12:24:13.379Z",
       "completedMissions": [
         4,
         2,
         1,
         1,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-23T12:24:13.379Z"
+    },
+    {
+      "username": "Muhd aminu",
+      "email": "muhdaminuyusuf05@gmail.com",
+      "encrypted_password": "589b06762868d516399b626cc631da22",
+      "referral_code": "MUGRT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:26:25.820Z"
     }
   ],
   "withdrawals": [
