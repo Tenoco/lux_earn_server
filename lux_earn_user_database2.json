@@ -33208,11 +33208,12 @@
       "inviter_username": "BkGraphics001",
       "invited_users": [
         "Bawasa",
-        "Mage"
+        "Mage",
+        "Mai lafiya"
       ],
       "balance": 48,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:04:50.390Z",
@@ -33379,7 +33380,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T22:22:53.868Z"
+      "joinDate": "2025-02-23T22:22:53.868Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mai lafiya",
+      "email": "auwalshehu1965@gmail.com",
+      "encrypted_password": "a9c27e18c273c95d759f9032b26152bd",
+      "referral_code": "MA8PU",
+      "inviter_referral_code": "NORM5",
+      "inviter_username": "Noplay",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:23:33.332Z"
     }
   ],
   "withdrawals": [
