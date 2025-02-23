@@ -12324,11 +12324,12 @@
         "Bright13",
         "Fubara gv",
         "Taiwoajikobi",
-        "Oladapo Emmanuel "
+        "Oladapo Emmanuel ",
+        "Omowumi1"
       ],
       "balance": 232,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -28948,6 +28949,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Omowumi1",
+      "email": "elifasanya816@gmail.com",
+      "encrypted_password": "4c0813aff344079b070034c97938cf6b",
+      "referral_code": "OMRLZ",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:18:02.042Z"
     }
   ],
   "withdrawals": [
