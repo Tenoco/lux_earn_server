@@ -33992,7 +33992,7 @@
       "inviter_referral_code": "Lunh5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34000,7 +34000,8 @@
       "joinDate": "2025-02-23T23:06:22.943Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -34092,7 +34093,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
