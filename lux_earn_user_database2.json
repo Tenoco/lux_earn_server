@@ -32086,13 +32086,15 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:41:53.592Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -33543,7 +33545,8 @@
         13,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mark777",
