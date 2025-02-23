@@ -18024,11 +18024,12 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [
-        "Gabifez "
+        "Gabifez ",
+        "Felicity"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:13:07.879Z",
@@ -29606,6 +29607,21 @@
       "joinDate": "2025-02-23T18:28:37.287Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Felicity",
+      "email": "adiobasit95@gmail.com",
+      "encrypted_password": "4cb98882be884fc149f0c8e64aea3b4b",
+      "referral_code": "FEREA",
+      "inviter_referral_code": "OYYAS",
+      "inviter_username": "Oyinbo abosede",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:32:25.095Z"
     }
   ],
   "withdrawals": [
