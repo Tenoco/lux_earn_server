@@ -21348,14 +21348,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T09:37:57.908Z"
+      "lastSpin": "2025-02-23T09:37:57.908Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Kole147",
@@ -21370,7 +21372,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:38:07.079Z"
+      "joinDate": "2025-02-23T09:38:07.079Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
