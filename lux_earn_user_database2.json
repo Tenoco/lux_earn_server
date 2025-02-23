@@ -25092,11 +25092,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Kundiri "
+        "Kundiri ",
+        "Rukfah "
       ],
       "balance": 158,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:15:46.787Z",
@@ -25670,7 +25671,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:37:37.521Z",
-      "lastSpin": "2025-02-23T13:38:17.804Z",
       "completedMissions": [
         1,
         2,
@@ -25681,7 +25681,8 @@
         7,
         5,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-23T13:38:17.804Z"
     },
     {
       "username": "Mickey",
@@ -25783,6 +25784,21 @@
       "joinDate": "2025-02-23T13:44:17.437Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rukfah ",
+      "email": "farukwaziri6050@gmail.com",
+      "encrypted_password": "1d5e8a5f3c69f4184edce9080f8bc8fd",
+      "referral_code": "RUCE9",
+      "inviter_referral_code": "AN202",
+      "inviter_username": "Anonymous12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:45:20.008Z"
     }
   ],
   "withdrawals": [
