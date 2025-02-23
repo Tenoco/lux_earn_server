@@ -10054,11 +10054,12 @@
         "BLACKABANDO",
         "Victoria Emeshiobi ",
         "Idrisabdull ",
-        "Preshykwin "
+        "Preshykwin ",
+        "damilola420"
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:53.963Z",
@@ -23982,6 +23983,21 @@
       "joinDate": "2025-02-22T21:31:08.588Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "damilola420",
+      "email": "olayiwoladamilola420@gmail.com",
+      "encrypted_password": "7b093b1647b570e9ede547a956289cfa",
+      "referral_code": "DARND",
+      "inviter_referral_code": "HE020",
+      "inviter_username": "Herit207",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:17:59.855Z"
     }
   ],
   "withdrawals": [
