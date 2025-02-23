@@ -24616,7 +24616,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24628,9 +24628,9 @@
         4,
         5,
         6,
-        7
-      ],
-      "lastSpin": null
+        7,
+        12
+      ]
     },
     {
       "username": "Cam bro",
@@ -24662,7 +24662,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:03:02.321Z"
+      "joinDate": "2025-02-23T13:03:02.321Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
