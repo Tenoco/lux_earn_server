@@ -6485,11 +6485,12 @@
         "Estheretim",
         "BigWAVE ",
         "Iamteevibez",
-        "alfuhumy22"
+        "alfuhumy22",
+        "Sadeeq12"
       ],
       "balance": 138,
-      "refers": 104,
-      "referralBalance": 10400,
+      "refers": 105,
+      "referralBalance": 10500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32737,7 +32738,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:27:48.023Z"
+      "joinDate": "2025-02-23T21:27:48.023Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadeeq12",
+      "email": "muhdkurakani@gmail.com",
+      "encrypted_password": "5da15bc15ed2a9185af0ffd62ad8dd23",
+      "referral_code": "SAFDI",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:28:21.647Z"
     }
   ],
   "withdrawals": [
