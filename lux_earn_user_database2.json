@@ -27933,14 +27933,18 @@
       "inviter_referral_code": "COSCL",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:54:13.510Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5
+      ]
     },
     {
       "username": "Omojenny93",
