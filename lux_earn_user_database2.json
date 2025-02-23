@@ -13578,11 +13578,12 @@
         "Micho",
         "Sunny4404",
         "Nagato ",
-        "Priscycella"
+        "Priscycella",
+        "Iremide@03"
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -22465,6 +22466,21 @@
       "joinDate": "2025-02-23T10:49:51.492Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iremide@03",
+      "email": "omoyeleiremide1@gmail.com",
+      "encrypted_password": "64cf1b2e6995679467d8839869436103",
+      "referral_code": "IRHUF",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:52:11.988Z"
     }
   ],
   "withdrawals": [
