@@ -6392,11 +6392,12 @@
         "Aanuade",
         "Virty",
         "Anonymous12",
-        "Hamzahm"
+        "Hamzahm",
+        "olawuyii66"
       ],
       "balance": 138,
-      "refers": 46,
-      "referralBalance": 4600,
+      "refers": 47,
+      "referralBalance": 4700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -25805,6 +25806,21 @@
       "joinDate": "2025-02-23T13:45:20.008Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "olawuyii66",
+      "email": "olawuyii66@gmail.com",
+      "encrypted_password": "0ac1d9686ae5034b4104ac3b3d7dc8ac",
+      "referral_code": "OLNCJ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:47:58.996Z"
     }
   ],
   "withdrawals": [
