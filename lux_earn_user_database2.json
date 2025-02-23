@@ -23221,11 +23221,12 @@
         "Brainiac",
         "Manuel12",
         "rosylaura775",
-        "Peacechinonso"
+        "Peacechinonso",
+        "Benjazzy"
       ],
       "balance": 250,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -25889,7 +25890,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:53:57.218Z"
+      "joinDate": "2025-02-23T13:53:57.218Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Benjazzy",
+      "email": "hardewaleben21@gmail.com",
+      "encrypted_password": "be3ddd6837d32488e6c4a3640d2ab02e",
+      "referral_code": "BEGGL",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:54:05.396Z"
     }
   ],
   "withdrawals": [
