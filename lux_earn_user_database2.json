@@ -2940,13 +2940,16 @@
       "invited_users": [
         "Marvis blizz "
       ],
-      "balance": 1008,
+      "balance": 1028,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:55:56.594Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1
+      ],
       "lastSpin": "2025-02-22T10:58:02.627Z"
     },
     {
