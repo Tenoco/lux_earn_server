@@ -19547,11 +19547,12 @@
       "inviter_username": null,
       "invited_users": [
         "Mohmmed",
-        "Usman"
+        "Usman",
+        "Shafiyi "
       ],
       "balance": 252,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -29069,7 +29070,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:24:48.389Z"
+      "joinDate": "2025-02-23T17:24:48.389Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shafiyi ",
+      "email": "shafiyiusman8@gmail.com",
+      "encrypted_password": "adcfafb7cf2e4efd51c0776ce93b264a",
+      "referral_code": "SH9PG",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:25:19.645Z"
     }
   ],
   "withdrawals": [
