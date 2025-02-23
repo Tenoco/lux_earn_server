@@ -11098,12 +11098,11 @@
       "inviter_referral_code": "CHUQV",
       "inviter_username": null,
       "invited_users": [
-        "Basheet305",
-        "Aygold22"
+        "Basheet305"
       ],
-      "balance": 140,
-      "refers": 2,
-      "referralBalance": 200,
+      "balance": 160,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:31:00.998Z",
@@ -11117,7 +11116,7 @@
         12,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T14:30:34.812Z"
     },
     {
       "username": "Kate",
@@ -26382,7 +26381,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:30:07.796Z"
+      "joinDate": "2025-02-23T14:30:07.796Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
