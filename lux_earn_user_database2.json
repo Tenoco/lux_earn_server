@@ -16318,7 +16318,7 @@
       "inviter_referral_code": "WINNH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 31,
+      "balance": 51,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16328,7 +16328,8 @@
       "completedMissions": [
         1,
         1,
-        2
+        2,
+        4
       ]
     },
     {
