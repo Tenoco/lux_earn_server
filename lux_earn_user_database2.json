@@ -30224,7 +30224,7 @@
       "inviter_referral_code": "EM0O7",
       "inviter_username": "Emque",
       "invited_users": [],
-      "balance": 202,
+      "balance": 262,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30242,7 +30242,12 @@
         5,
         13,
         6,
-        6
+        6,
+        6,
+        6,
+        6,
+        6,
+        16
       ],
       "lastSpin": "2025-02-23T22:15:41.268Z"
     },
@@ -33313,7 +33318,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T22:18:47.367Z"
+      "joinDate": "2025-02-23T22:18:47.367Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
