@@ -19677,16 +19677,21 @@
       "inviter_referral_code": "JO5G6",
       "inviter_username": "Josh Brezel ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:03:45.034Z",
       "completedMissions": [
-        6
-      ],
-      "lastSpin": null
+        6,
+        7,
+        8,
+        8,
+        1,
+        5,
+        2
+      ]
     },
     {
       "username": "Kemi",
