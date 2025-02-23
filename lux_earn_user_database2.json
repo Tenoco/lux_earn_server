@@ -17015,7 +17015,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T04:38:54.463Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T04:39:28.181Z"
+    },
+    {
+      "username": "Shadrach ",
+      "email": "Shadrachshaibu079@gmail.com",
+      "encrypted_password": "6ebe6fe346b89da6f6f5266e89513b30",
+      "referral_code": "SH38Y",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T04:50:29.465Z"
     }
   ],
   "withdrawals": [
