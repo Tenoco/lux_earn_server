@@ -16904,7 +16904,7 @@
       "inviter_referral_code": "PE7YT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16912,7 +16912,10 @@
       "joinDate": "2025-02-23T03:03:42.801Z",
       "completedMissions": [
         12,
-        13
+        13,
+        10,
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T03:28:55.594Z"
     },
@@ -16946,7 +16949,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T03:30:02.319Z"
+      "joinDate": "2025-02-23T03:30:02.319Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
