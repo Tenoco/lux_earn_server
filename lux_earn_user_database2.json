@@ -26640,11 +26640,12 @@
         "annny0006",
         "Emmybest",
         "maroeone",
-        "Morgan299"
+        "Morgan299",
+        "Brodalateef"
       ],
       "balance": 192,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -32701,6 +32702,21 @@
       "joinDate": "2025-02-23T21:25:14.638Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Brodalateef",
+      "email": "idowuabdullateef463@gmail.com",
+      "encrypted_password": "f26c36c9c85e977c4fb97d7fef1e4fb6",
+      "referral_code": "BRHG5",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:27:04.302Z"
     }
   ],
   "withdrawals": [
