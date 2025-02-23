@@ -6421,11 +6421,12 @@
         "Agnes12",
         "Darahsimi",
         "Franca5",
-        "Michaelking36 "
+        "Michaelking36 ",
+        "Olatunji kehinde Aderayo "
       ],
       "balance": 138,
-      "refers": 60,
-      "referralBalance": 6000,
+      "refers": 61,
+      "referralBalance": 6100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27855,6 +27856,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Olatunji kehinde Aderayo ",
+      "email": "olatunjikehinde027@gmail.com",
+      "encrypted_password": "e77af4fdc4207502eb4a972caad497dc",
+      "referral_code": "OLD2O",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:00:48.965Z"
     }
   ],
   "withdrawals": [
