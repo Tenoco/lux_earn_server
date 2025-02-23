@@ -22684,10 +22684,12 @@
       "referral_code": "ADZ27",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Faithlove"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:12:22.713Z",
@@ -22855,7 +22857,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:22:14.643Z"
+      "joinDate": "2025-02-23T11:22:14.643Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faithlove",
+      "email": "lookingkindly260@gmail.com",
+      "encrypted_password": "2c29528779fdefe1aab9a5c6496228d4",
+      "referral_code": "FA7BO",
+      "inviter_referral_code": "ADZ27",
+      "inviter_username": "Adisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:22:19.628Z"
     }
   ],
   "withdrawals": [
