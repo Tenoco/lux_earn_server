@@ -20238,13 +20238,15 @@
       "inviter_referral_code": "MIODT",
       "inviter_username": "Micheal1#",
       "invited_users": [],
-      "balance": 5,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:28:10.894Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-23T08:28:28.575Z"
     },
     {
