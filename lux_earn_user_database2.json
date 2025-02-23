@@ -10893,10 +10893,12 @@
       "referral_code": "QUNC3",
       "inviter_referral_code": "CHUQV",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Basheet305"
+      ],
       "balance": 140,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:31:00.998Z",
@@ -18339,7 +18341,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:37:39.890Z"
+      "joinDate": "2025-02-23T06:37:39.890Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Basheet305",
+      "email": "kolaade498@gmail.com",
+      "encrypted_password": "5a7044e343f2ae6f98a4e4bef15cf6fd",
+      "referral_code": "BAVLP",
+      "inviter_referral_code": "QUNC3",
+      "inviter_username": "Quadriano",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:37:52.914Z"
     }
   ],
   "withdrawals": [
