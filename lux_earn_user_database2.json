@@ -26406,11 +26406,12 @@
         "Ziggy",
         "BLESSYN 33",
         "Bassey Anthonia ",
-        "Precyken"
+        "Precyken",
+        "Vheek"
       ],
       "balance": 192,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -29013,6 +29014,21 @@
       "joinDate": "2025-02-23T17:21:14.138Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vheek",
+      "email": "adevic101@gmail.com",
+      "encrypted_password": "4aededbc3b752a9e884c63847c367ed3",
+      "referral_code": "VHSJN",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:22:18.185Z"
     }
   ],
   "withdrawals": [
