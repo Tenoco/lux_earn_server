@@ -15046,10 +15046,12 @@
       "referral_code": "ANE1B",
       "inviter_referral_code": "NIMBV",
       "inviter_username": "Niffyperry",
-      "invited_users": [],
+      "invited_users": [
+        "Fuqun"
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:34:34.889Z",
@@ -18231,6 +18233,21 @@
         9
       ],
       "lastSpin": "2025-02-23T06:31:12.509Z"
+    },
+    {
+      "username": "Fuqun",
+      "email": "ojoomooba240@gmail.com",
+      "encrypted_password": "e92c72ab85c9f5d866cf6100d39de42f",
+      "referral_code": "FUCO0",
+      "inviter_referral_code": "ANE1B",
+      "inviter_username": "Anjolaoluwa ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:32:44.683Z"
     }
   ],
   "withdrawals": [
