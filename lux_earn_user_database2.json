@@ -18626,10 +18626,12 @@
       "referral_code": "JOFDD",
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "ayanwaleadewale14@gmail.com"
+      ],
       "balance": 160,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:51:22.896Z",
@@ -19390,7 +19392,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:41:14.576Z"
+      "joinDate": "2025-02-23T07:41:14.576Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ayanwaleadewale14@gmail.com",
+      "email": "ayanwaleadewale14@gmail.com",
+      "encrypted_password": "48a115696831fee83cbe4a749fa2de23",
+      "referral_code": "AY08N",
+      "inviter_referral_code": "JOFDD",
+      "inviter_username": "Jormah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:41:35.104Z"
     }
   ],
   "withdrawals": [
