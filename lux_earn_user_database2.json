@@ -32809,14 +32809,15 @@
       "inviter_referral_code": "BLDMQ",
       "inviter_username": "Blackjesus",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:31:38.853Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Etty",
@@ -32855,7 +32856,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:32:17.333Z"
+      "joinDate": "2025-02-23T21:32:17.333Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
