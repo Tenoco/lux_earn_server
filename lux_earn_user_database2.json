@@ -6391,11 +6391,12 @@
         "diniharunaali",
         "Aanuade",
         "Virty",
-        "Anonymous12"
+        "Anonymous12",
+        "Hamzahm"
       ],
       "balance": 138,
-      "refers": 45,
-      "referralBalance": 4500,
+      "refers": 46,
+      "referralBalance": 4600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -25639,6 +25640,21 @@
       "joinDate": "2025-02-23T13:36:47.777Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hamzahm",
+      "email": "hamzaibrahimgh332@gmail.com",
+      "encrypted_password": "03ac815cee6b1b3d1a24d93ff9352fe6",
+      "referral_code": "HA2G6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:37:37.521Z"
     }
   ],
   "withdrawals": [
