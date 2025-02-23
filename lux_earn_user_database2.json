@@ -18076,7 +18076,7 @@
       "inviter_referral_code": "ADFOI",
       "inviter_username": "Adegboye12",
       "invited_users": [],
-      "balance": 60,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18085,7 +18085,12 @@
       "completedMissions": [
         1,
         2,
-        14
+        14,
+        13,
+        12,
+        11,
+        10,
+        9
       ],
       "lastSpin": "2025-02-23T06:21:18.710Z"
     },
