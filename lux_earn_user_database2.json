@@ -23823,12 +23823,13 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:05:14.349Z"
+      "joinDate": "2025-02-23T12:05:14.349Z",
+      "lastSpin": "2025-02-23T12:05:57.113Z"
     }
   ],
   "withdrawals": [
