@@ -3676,11 +3676,12 @@
         "Adewumi5",
         "Miraydouglas",
         "Yull",
-        "Officialchrisjoel"
+        "Officialchrisjoel",
+        "darmylicious42"
       ],
       "balance": 1116,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -20334,6 +20335,21 @@
       "joinDate": "2025-02-23T08:31:02.753Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "darmylicious42",
+      "email": "darmylicious42@gmail.com",
+      "encrypted_password": "d979bfcb2ccf7799a2816300d8a70d85",
+      "referral_code": "DA5EK",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:31:50.118Z"
     }
   ],
   "withdrawals": [
