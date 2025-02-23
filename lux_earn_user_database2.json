@@ -26826,7 +26826,7 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26836,7 +26836,8 @@
         1,
         4,
         2,
-        5
+        5,
+        12
       ],
       "lastSpin": null
     },
