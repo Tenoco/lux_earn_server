@@ -16687,7 +16687,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Olahitun",
@@ -16722,6 +16723,21 @@
       "joinDate": "2025-02-23T01:50:51.140Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amoswise ",
+      "email": "atareamoswise002@gmail.com",
+      "encrypted_password": "65ee469641e81a43371b107c2f92031b",
+      "referral_code": "AMNJ6",
+      "inviter_referral_code": "DA2CY",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:56:15.198Z"
     }
   ],
   "withdrawals": [
