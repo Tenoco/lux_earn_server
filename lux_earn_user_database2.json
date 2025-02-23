@@ -22573,7 +22573,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 40,
+      "balance": 340,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22582,7 +22582,22 @@
       "completedMissions": [
         1,
         1,
-        2
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
       ],
       "lastSpin": "2025-02-23T11:09:04.963Z"
     },
@@ -22623,7 +22638,8 @@
         6,
         6,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kolawole ",
