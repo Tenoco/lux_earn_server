@@ -25629,10 +25629,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:36:32.558Z",
-      "lastSpin": "2025-02-23T13:39:54.307Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T13:39:54.307Z"
     },
     {
       "username": "Mercy4552",
@@ -25695,16 +25695,21 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:39:46.546Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ]
     }
   ],
   "withdrawals": [
