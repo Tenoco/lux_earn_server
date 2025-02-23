@@ -25992,11 +25992,12 @@
         "Quan123",
         "Jodan105",
         "Maxwell212",
-        "Pilot202"
+        "Pilot202",
+        "Union105"
       ],
       "balance": 170,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27330,6 +27331,21 @@
       "joinDate": "2025-02-23T15:14:37.264Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Union105",
+      "email": "onyemadelight174@gmail.com",
+      "encrypted_password": "a384b6463fc216a5f8ecb6670f86456a",
+      "referral_code": "UNP4H",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:17:30.117Z"
     }
   ],
   "withdrawals": [
