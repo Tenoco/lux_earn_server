@@ -6274,11 +6274,12 @@
         "Lucasmacas",
         "AYOMIDE078 ",
         "Zaiyat",
-        "Ibra224"
+        "Ibra224",
+        "LEOMEGAPLEX "
       ],
       "balance": 138,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20355,6 +20356,21 @@
       "joinDate": "2025-02-23T08:31:50.118Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "LEOMEGAPLEX ",
+      "email": "okolinues@gmail.com",
+      "encrypted_password": "748eb1aaf080ce477daa4f7b5572aa10",
+      "referral_code": "LE4GP",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:33:16.621Z"
     }
   ],
   "withdrawals": [
