@@ -16239,7 +16239,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T00:53:41.039Z"
+      "joinDate": "2025-02-23T00:53:41.039Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jagoceleb54",
+      "email": "jagoceleb@aol.com",
+      "encrypted_password": "a2ff22e12be70d4dd326be7e8df379dd",
+      "referral_code": "JAKYK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T00:54:59.857Z"
     }
   ],
   "withdrawals": [
