@@ -26161,11 +26161,12 @@
         "Uchepeace",
         "CrystalMediaTv",
         "Mikkolee1",
-        "Imewiser "
+        "Imewiser ",
+        "Comedianramadan"
       ],
       "balance": 192,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26729,7 +26730,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:44:09.889Z"
+      "joinDate": "2025-02-23T14:44:09.889Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Comedianramadan",
+      "email": "holatunji816@gmail.com",
+      "encrypted_password": "1fe520704821f8c97d29f8036514c2fc",
+      "referral_code": "CO2MT",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:44:18.248Z"
     }
   ],
   "withdrawals": [
