@@ -8893,11 +8893,12 @@
       "inviter_referral_code": "ST94T",
       "inviter_username": "starpotter",
       "invited_users": [
-        "Badxlucy "
+        "Badxlucy ",
+        "Me "
       ],
       "balance": 42,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:39:21.623Z",
@@ -30474,6 +30475,21 @@
         1
       ],
       "lastSpin": "2025-02-23T19:33:31.975Z"
+    },
+    {
+      "username": "Me ",
+      "email": "pifigir449@aptally.com",
+      "encrypted_password": "e2a771a4f009b836818c2aa31b844994",
+      "referral_code": "ME7OH",
+      "inviter_referral_code": "DO8DR",
+      "inviter_username": "Don Berry ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:34:11.140Z"
     }
   ],
   "withdrawals": [
