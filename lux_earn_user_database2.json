@@ -30231,7 +30231,7 @@
       "inviter_referral_code": "OADN6",
       "inviter_username": "Oadeoye123",
       "invited_users": [],
-      "balance": 85,
+      "balance": 105,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30241,7 +30241,8 @@
         1,
         2,
         4,
-        5
+        5,
+        11
       ],
       "lastSpin": "2025-02-23T19:14:34.487Z"
     },
@@ -30360,7 +30361,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:19:46.871Z"
+      "joinDate": "2025-02-23T19:19:46.871Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
