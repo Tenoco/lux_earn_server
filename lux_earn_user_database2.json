@@ -18112,14 +18112,16 @@
       "inviter_referral_code": "HO189",
       "inviter_username": "Holar",
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T06:23:14.396Z"
+      "lastSpin": "2025-02-23T06:23:14.396Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Sommy1996",
