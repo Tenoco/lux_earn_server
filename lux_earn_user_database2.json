@@ -12270,11 +12270,12 @@
       "invited_users": [
         "Angel997",
         "Bright13",
-        "Fubara gv"
+        "Fubara gv",
+        "Taiwoajikobi"
       ],
       "balance": 232,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -26696,6 +26697,21 @@
         7
       ],
       "lastSpin": "2025-02-22T04:11:29.420Z"
+    },
+    {
+      "username": "Taiwoajikobi",
+      "email": "ajikobism@gmail.com",
+      "encrypted_password": "3e3bf66c318c57500b272f79099173a5",
+      "referral_code": "TALBF",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:43:20.681Z"
     }
   ],
   "withdrawals": [
