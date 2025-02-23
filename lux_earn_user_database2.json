@@ -10486,11 +10486,12 @@
         "Boss1 ",
         "Nikki ",
         "Francis ",
-        "Godson"
+        "Godson",
+        "Hannah "
       ],
       "balance": 228,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -27612,6 +27613,21 @@
       "joinDate": "2025-02-23T15:36:41.513Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hannah ",
+      "email": "lookmannathalie@gmail.com",
+      "encrypted_password": "3e463386f6af42fe1ad0e9a210d9cca2",
+      "referral_code": "HACNU",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:37:39.106Z"
     }
   ],
   "withdrawals": [
