@@ -20288,11 +20288,12 @@
         "Divine ",
         "Best",
         "Khalifa111",
-        "Jojo"
+        "Jojo",
+        "Phavy"
       ],
       "balance": 275,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -27131,7 +27132,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:04:43.412Z"
+      "joinDate": "2025-02-23T15:04:43.412Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Phavy",
+      "email": "obasifavour815@gmail.com",
+      "encrypted_password": "9df487da767c2e0275cbc9c9a6ba0f23",
+      "referral_code": "PHV6X",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:05:08.070Z"
     }
   ],
   "withdrawals": [
