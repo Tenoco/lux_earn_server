@@ -10137,7 +10137,7 @@
         "ADAM'S 6542",
         "Powerjohn001"
       ],
-      "balance": 421,
+      "balance": 436,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -10161,7 +10161,7 @@
         14,
         14
       ],
-      "lastSpin": "2025-02-22T17:52:57.376Z"
+      "lastSpin": "2025-02-23T19:49:19.774Z"
     },
     {
       "username": "Poseidon",
@@ -30718,7 +30718,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:48:28.074Z"
+      "joinDate": "2025-02-23T19:48:28.074Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
