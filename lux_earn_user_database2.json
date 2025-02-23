@@ -25518,14 +25518,18 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:30:17.378Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-23T13:35:58.029Z"
     },
     {
       "username": "Spanky12 ",
@@ -25659,6 +25663,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:37:37.521Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T13:38:17.804Z"
     }
   ],
