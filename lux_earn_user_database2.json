@@ -28178,7 +28178,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28186,7 +28186,8 @@
       "joinDate": "2025-02-23T16:15:33.954Z",
       "completedMissions": [
         1,
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T16:17:48.918Z"
     },
@@ -28237,7 +28238,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:20:22.058Z"
+      "joinDate": "2025-02-23T16:20:22.058Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
