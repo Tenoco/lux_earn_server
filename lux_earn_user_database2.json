@@ -9167,14 +9167,18 @@
       "inviter_referral_code": "Ekw5E",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 92,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:54:16.634Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        5,
+        5
       ],
       "lastSpin": "2025-02-22T17:06:18.474Z"
     },
@@ -27605,7 +27609,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:36:41.513Z"
+      "joinDate": "2025-02-23T15:36:41.513Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
