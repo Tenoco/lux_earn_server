@@ -6319,11 +6319,12 @@
         "Adisa",
         "Olayinka 8",
         "EmmanuelOkechukwu ",
-        "Emmric"
+        "Emmric",
+        "@Adebimpe"
       ],
       "balance": 138,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23144,6 +23145,21 @@
       "joinDate": "2025-02-23T11:35:10.388Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T11:35:34.753Z"
+    },
+    {
+      "username": "@Adebimpe",
+      "email": "ibironkeadebimpe212@gmail.com",
+      "encrypted_password": "c15602924ac2118d86dbddbc20c40a9b",
+      "referral_code": "@ASON",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:37:22.232Z"
     }
   ],
   "withdrawals": [
