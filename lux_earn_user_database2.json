@@ -21428,14 +21428,15 @@
       "inviter_referral_code": "ADOAZ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:40:38.853Z",
       "completedMissions": [
-        2
+        2,
+        14
       ],
       "lastSpin": null
     },
