@@ -29628,7 +29628,7 @@
       "inviter_referral_code": "OD7RC",
       "inviter_username": "Odubiyi nofiu",
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29636,7 +29636,9 @@
       "joinDate": "2025-02-23T18:28:37.287Z",
       "completedMissions": [
         1,
-        2
+        2,
+        2,
+        4
       ],
       "lastSpin": null
     },
