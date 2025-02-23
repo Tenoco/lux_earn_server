@@ -17196,7 +17196,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:05:22.037Z"
+      "joinDate": "2025-02-23T05:05:22.037Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faruk ",
+      "email": "farukcharger@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "FABLH",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:05:33.808Z"
     }
   ],
   "withdrawals": [
