@@ -20782,21 +20782,22 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 128,
+      "balance": 138,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
+      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13,
         12,
         11,
         10,
-        9
-      ],
-      "lastSpin": "2025-02-23T09:02:58.099Z"
+        9,
+        7
+      ]
     },
     {
       "username": "Ibrahim salisu ",
@@ -20946,7 +20947,8 @@
       "joinDate": "2025-02-23T09:08:02.023Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Idrisabdull ",
