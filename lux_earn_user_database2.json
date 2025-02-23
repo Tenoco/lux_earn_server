@@ -24690,10 +24690,12 @@
       "referral_code": "HA4GL",
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
-      "invited_users": [],
+      "invited_users": [
+        "Job"
+      ],
       "balance": 172,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -25093,6 +25095,21 @@
         3
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Job",
+      "email": "jobmechanic@gmail.com",
+      "encrypted_password": "59ebea98dbc19dc3d84570e30234e68d",
+      "referral_code": "JOHWI",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:19:49.356Z"
     }
   ],
   "withdrawals": [
