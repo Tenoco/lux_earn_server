@@ -18638,7 +18638,7 @@
       "inviter_referral_code": "FALIV",
       "inviter_username": "Fawaz08",
       "invited_users": [],
-      "balance": 250,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18659,9 +18659,11 @@
         9,
         9,
         9,
+        10,
+        10,
         10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T07:08:45.312Z"
     },
     {
       "username": "Teetaiwo",
@@ -18852,7 +18854,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:08:22.849Z"
+      "joinDate": "2025-02-23T07:08:22.849Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
