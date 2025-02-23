@@ -7787,7 +7787,7 @@
         "Kaltume",
         "Goggo"
       ],
-      "balance": 168,
+      "balance": 188,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -7802,7 +7802,8 @@
         8,
         8,
         14,
-        11
+        11,
+        9
       ],
       "lastSpin": "2025-02-22T16:25:36.207Z"
     },
@@ -18055,7 +18056,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:17:21.895Z"
+      "joinDate": "2025-02-23T06:17:21.895Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
