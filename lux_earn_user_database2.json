@@ -20729,14 +20729,15 @@
       "inviter_referral_code": "Copy dis before clicking on the link oooo",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:54:11.064Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        5
+      ]
     },
     {
       "username": "Alabawealth",
