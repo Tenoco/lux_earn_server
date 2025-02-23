@@ -23266,14 +23266,15 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:42:29.178Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Phydorh ",
@@ -23305,7 +23306,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:43:00.827Z"
+      "joinDate": "2025-02-23T11:43:00.827Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
