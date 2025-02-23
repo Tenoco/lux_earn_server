@@ -6450,11 +6450,12 @@
         "Msani2520 ",
         "Oluwaexcess",
         "Jobi'Lizzy ",
-        "Beastfx"
+        "Beastfx",
+        "Divyzoe"
       ],
       "balance": 138,
-      "refers": 79,
-      "referralBalance": 7900,
+      "refers": 80,
+      "referralBalance": 8000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29744,6 +29745,21 @@
       "joinDate": "2025-02-23T18:46:16.449Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Divyzoe",
+      "email": "jdivinej01@gmail.com",
+      "encrypted_password": "b809be3aba671910b359b80fe53b55e8",
+      "referral_code": "DIOTA",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:47:24.991Z"
     }
   ],
   "withdrawals": [
