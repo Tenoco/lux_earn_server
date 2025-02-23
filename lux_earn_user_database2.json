@@ -26494,11 +26494,12 @@
         "Maryam",
         "samologi",
         "annny0006",
-        "Emmybest"
+        "Emmybest",
+        "maroeone"
       ],
       "balance": 192,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -30170,7 +30171,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:10:19.213Z"
+      "joinDate": "2025-02-23T19:10:19.213Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "maroeone",
+      "email": "elormaro@gmail.com",
+      "encrypted_password": "1d46a07fba7a194dd649e2307c73a9e6",
+      "referral_code": "MAGZ6",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:11:10.927Z"
     }
   ],
   "withdrawals": [
