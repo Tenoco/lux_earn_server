@@ -18169,11 +18169,12 @@
         "Alexia drums",
         "SMART4VTU",
         "Dannyboi",
-        "Davidson91"
+        "Davidson91",
+        "Fathia Abdulrafiu "
       ],
       "balance": 410,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -20181,7 +20182,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:25:09.952Z"
+      "joinDate": "2025-02-23T08:25:09.952Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fathia Abdulrafiu ",
+      "email": "fathiaabdulrafiu0@gmail.com",
+      "encrypted_password": "a5f1801f3f73a25eb28b7ab001602acb",
+      "referral_code": "FAMYZ",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:25:17.326Z"
     }
   ],
   "withdrawals": [
