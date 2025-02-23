@@ -6486,11 +6486,12 @@
         "BigWAVE ",
         "Iamteevibez",
         "alfuhumy22",
-        "Sadeeq12"
+        "Sadeeq12",
+        "Chima"
       ],
       "balance": 138,
-      "refers": 105,
-      "referralBalance": 10500,
+      "refers": 106,
+      "referralBalance": 10600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32897,7 +32898,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:36:36.320Z"
+      "joinDate": "2025-02-23T21:36:36.320Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chima",
+      "email": "danieljubril50@gmail.com",
+      "encrypted_password": "0c0976abdc308c4059c652a32701b12b",
+      "referral_code": "CHIBL",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:36:33.728Z"
     }
   ],
   "withdrawals": [
