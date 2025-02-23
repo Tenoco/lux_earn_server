@@ -6320,11 +6320,12 @@
         "Olayinka 8",
         "EmmanuelOkechukwu ",
         "Emmric",
-        "@Adebimpe"
+        "@Adebimpe",
+        "Emmanuel Okechukwu "
       ],
       "balance": 138,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23178,7 +23179,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Omomide1",
@@ -23236,6 +23238,21 @@
         11
       ],
       "lastSpin": "2025-02-21T14:30:24.581Z"
+    },
+    {
+      "username": "Emmanuel Okechukwu ",
+      "email": "xandernuel0@gmail.com",
+      "encrypted_password": "427aa37dc3c5771d87564ba2fb818874",
+      "referral_code": "EMSIT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:42:14.525Z"
     }
   ],
   "withdrawals": [
