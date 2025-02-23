@@ -6448,11 +6448,12 @@
         "Starboy",
         "Osazuwa ",
         "Msani2520 ",
-        "Oluwaexcess"
+        "Oluwaexcess",
+        "Jobi'Lizzy "
       ],
       "balance": 138,
-      "refers": 77,
-      "referralBalance": 7700,
+      "refers": 78,
+      "referralBalance": 7800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -29666,6 +29667,21 @@
       "joinDate": "2025-02-23T18:42:28.153Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jobi'Lizzy ",
+      "email": "orojobielizabeth@gmail.com",
+      "encrypted_password": "592dada754a790ea10c426080308ba18",
+      "referral_code": "JOYH6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:43:38.646Z"
     }
   ],
   "withdrawals": [
