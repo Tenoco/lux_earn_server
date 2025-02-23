@@ -9199,11 +9199,12 @@
         "Jarmar001",
         "Shadow",
         "ghgc",
-        "joluniyi99"
+        "joluniyi99",
+        "Malloy"
       ],
       "balance": 295,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -24081,6 +24082,21 @@
       "joinDate": "2025-02-23T12:21:20.666Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Malloy",
+      "email": "malloybritt82@gmail.com",
+      "encrypted_password": "e6b924720e1624077dddd5ab65ca32e3",
+      "referral_code": "MA2C5",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:23:35.035Z"
     }
   ],
   "withdrawals": [
