@@ -20780,19 +20780,20 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 88,
+      "balance": 108,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
+      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13,
         12,
-        11
-      ],
-      "lastSpin": "2025-02-23T09:02:58.099Z"
+        11,
+        10
+      ]
     },
     {
       "username": "Ibrahim salisu ",
