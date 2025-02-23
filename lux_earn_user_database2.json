@@ -28746,7 +28746,7 @@
       "inviter_referral_code": "CR114",
       "inviter_username": "Cresterfied",
       "invited_users": [],
-      "balance": 195,
+      "balance": 203,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28760,7 +28760,7 @@
         1,
         2
       ],
-      "lastSpin": "2025-02-21T07:25:23.761Z"
+      "lastSpin": "2025-02-23T17:03:03.604Z"
     },
     {
       "username": "Afeez olaniyi Asimiyu ",
@@ -28775,7 +28775,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:02:58.362Z"
+      "joinDate": "2025-02-23T17:02:58.362Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
