@@ -14541,7 +14541,7 @@
       "inviter_referral_code": "ABYZO",
       "inviter_username": "Abiolag",
       "invited_users": [],
-      "balance": 80,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14553,7 +14553,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "lastSpin": null
     },
@@ -19691,7 +19692,8 @@
         1,
         5,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kemi",
