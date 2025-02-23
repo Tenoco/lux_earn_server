@@ -21428,7 +21428,7 @@
       "inviter_referral_code": "ADOAZ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21436,7 +21436,8 @@
       "joinDate": "2025-02-23T09:40:38.853Z",
       "completedMissions": [
         2,
-        14
+        14,
+        13
       ],
       "lastSpin": null
     },
