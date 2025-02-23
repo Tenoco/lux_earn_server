@@ -16318,17 +16318,18 @@
       "inviter_referral_code": "WINNH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 21,
+      "balance": 31,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:00:12.347Z",
+      "lastSpin": "2025-02-23T01:01:24.704Z",
       "completedMissions": [
         1,
-        1
-      ],
-      "lastSpin": "2025-02-23T01:01:24.704Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Khadeejat001",
@@ -16377,7 +16378,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:04:49.457Z"
+      "joinDate": "2025-02-23T01:04:49.457Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
