@@ -23236,11 +23236,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Faithlove"
+        "Faithlove",
+        "Aina ayobami"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:12:22.713Z",
@@ -29935,7 +29936,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:01:21.627Z"
+      "joinDate": "2025-02-23T19:01:21.627Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aina ayobami",
+      "email": "ayobamiaina79@mail.com",
+      "encrypted_password": "8e5274ce945f2771843678609002091f",
+      "referral_code": "AIMAT",
+      "inviter_referral_code": "ADZ27",
+      "inviter_username": "Adisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:01:26.861Z"
     }
   ],
   "withdrawals": [
