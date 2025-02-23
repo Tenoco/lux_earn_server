@@ -339,11 +339,12 @@
       "invited_users": [
         "John3",
         "CTO2",
-        "Zoe"
+        "Zoe",
+        "Mermer"
       ],
       "balance": 152,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17228,6 +17229,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:05:33.808Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T05:10:12.563Z"
     },
     {
@@ -17280,6 +17282,21 @@
       "joinDate": "2025-02-23T05:09:54.492Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mermer",
+      "email": "mermer1@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "ME80N",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:10:56.329Z"
     }
   ],
   "withdrawals": [
