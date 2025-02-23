@@ -18121,11 +18121,12 @@
       "inviter_username": null,
       "invited_users": [
         "evileve23",
-        "dandilla"
+        "dandilla",
+        "Alexia drums"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -19353,7 +19354,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:40:21.700Z"
+      "joinDate": "2025-02-23T07:40:21.700Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Alexia drums",
+      "email": "alexisdrums33@gmail.com",
+      "encrypted_password": "a08372b70196c21a9229cf04db6b7ceb",
+      "referral_code": "ALRWA",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:40:27.716Z"
     }
   ],
   "withdrawals": [
