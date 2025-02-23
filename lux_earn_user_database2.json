@@ -9803,7 +9803,7 @@
       "invited_users": [
         "Thank god"
       ],
-      "balance": 321,
+      "balance": 341,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -9820,7 +9820,8 @@
         6,
         12,
         11,
-        10
+        10,
+        13
       ],
       "lastSpin": "2025-02-22T17:52:57.376Z"
     },
@@ -16222,6 +16223,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:39:02.688Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T00:40:22.270Z"
     }
   ],
