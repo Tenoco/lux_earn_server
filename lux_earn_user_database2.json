@@ -16255,7 +16255,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16269,7 +16269,10 @@
         5,
         6,
         6,
-        7
+        7,
+        8,
+        10,
+        9
       ]
     }
   ],
