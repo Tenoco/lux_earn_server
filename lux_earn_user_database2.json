@@ -26177,11 +26177,12 @@
         "Mikkolee1",
         "Imewiser ",
         "Comedianramadan",
-        "Blackjesus"
+        "Blackjesus",
+        "Ziggy"
       ],
       "balance": 192,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26843,6 +26844,21 @@
       "joinDate": "2025-02-23T14:47:23.746Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ziggy",
+      "email": "igwekamsi299@gmail.com",
+      "encrypted_password": "be07e04de578cf2662aa87bde5ac2122",
+      "referral_code": "ZIQS3",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:48:43.195Z"
     }
   ],
   "withdrawals": [
