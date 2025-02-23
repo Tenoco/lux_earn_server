@@ -20580,12 +20580,10 @@
       "referral_code": "NI2UJ",
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
-      "invited_users": [
-        "Olaxy12 "
-      ],
-      "balance": 210,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 230,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:50:16.321Z",
@@ -20601,7 +20599,8 @@
         8,
         8,
         8,
-        8
+        8,
+        12
       ],
       "lastSpin": "2025-02-23T08:58:22.835Z"
     },
