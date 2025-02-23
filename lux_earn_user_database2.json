@@ -23003,14 +23003,16 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 115,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:29:31.033Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T11:30:46.144Z"
+      "lastSpin": "2025-02-23T11:30:46.144Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "EmmanuelOkechukwu ",
@@ -23029,7 +23031,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
