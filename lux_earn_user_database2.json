@@ -6317,11 +6317,12 @@
         "Kelly osarenkhoe ",
         "miguel411",
         "Adisa",
-        "Olayinka 8"
+        "Olayinka 8",
+        "EmmanuelOkechukwu "
       ],
       "balance": 138,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23003,7 +23004,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:29:31.033Z"
+      "joinDate": "2025-02-23T11:29:31.033Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "EmmanuelOkechukwu ",
+      "email": "nuelxander22@gmail.com",
+      "encrypted_password": "427aa37dc3c5771d87564ba2fb818874",
+      "referral_code": "EMUDA",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:30:23.409Z"
     }
   ],
   "withdrawals": [
