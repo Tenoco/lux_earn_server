@@ -16904,7 +16904,7 @@
       "inviter_referral_code": "PE7YT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 140,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16917,7 +16917,9 @@
         1,
         2,
         4,
-        5
+        5,
+        6,
+        6
       ],
       "lastSpin": "2025-02-23T03:28:55.594Z"
     },
