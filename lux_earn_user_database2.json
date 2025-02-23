@@ -14044,13 +14044,15 @@
         "Trey",
         "Jonnyy"
       ],
-      "balance": 0,
+      "balance": 10,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
