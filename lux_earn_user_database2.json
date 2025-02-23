@@ -16644,12 +16644,15 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:25:07.661Z"
+      "joinDate": "2025-02-23T01:25:07.661Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
