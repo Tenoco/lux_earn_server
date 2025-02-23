@@ -24975,7 +24975,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 130,
+      "balance": 140,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24990,7 +24990,8 @@
         11,
         12,
         14,
-        10
+        10,
+        7
       ],
       "lastSpin": null
     },
@@ -25142,7 +25143,8 @@
       "joinDate": "2025-02-23T13:20:44.238Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VanDijk",
