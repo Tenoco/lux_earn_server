@@ -10886,7 +10886,7 @@
       "inviter_referral_code": "CHUQV",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10896,7 +10896,8 @@
         1,
         2,
         4,
-        5
+        5,
+        14
       ],
       "lastSpin": null
     },
