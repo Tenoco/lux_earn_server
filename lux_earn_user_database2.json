@@ -27609,7 +27609,7 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27620,9 +27620,9 @@
         2,
         4,
         5,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "Hannah ",
@@ -27671,7 +27671,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:41:33.998Z"
+      "joinDate": "2025-02-23T15:41:33.998Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
