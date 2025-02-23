@@ -16771,14 +16771,15 @@
       "inviter_referral_code": "0s6af",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:58:48.896Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
