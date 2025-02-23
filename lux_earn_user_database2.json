@@ -21654,13 +21654,15 @@
       "inviter_referral_code": "ID8YH",
       "inviter_username": "Idrisabdull ",
       "invited_users": [],
-      "balance": 8,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:56:27.978Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-23T10:01:23.123Z"
     },
     {
