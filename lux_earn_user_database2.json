@@ -14339,10 +14339,12 @@
       "referral_code": "MUP61",
       "inviter_referral_code": "heo20",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "TIZZY001"
+      ],
       "balance": 50,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:25:26.405Z",
@@ -32248,7 +32250,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
@@ -32263,7 +32264,8 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32881,6 +32883,21 @@
       "joinDate": "2025-02-23T21:35:31.000Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "TIZZY001",
+      "email": "Oyewoletobiloba579@gmail.com",
+      "encrypted_password": "cb779aaba8790214ae43193d68c860f8",
+      "referral_code": "TIB5W",
+      "inviter_referral_code": "MUP61",
+      "inviter_username": "Musty monie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:36:36.320Z"
     }
   ],
   "withdrawals": [
