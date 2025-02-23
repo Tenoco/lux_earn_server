@@ -31079,7 +31079,7 @@
         "Ogbe",
         "Oladaz"
       ],
-      "balance": 230,
+      "balance": 340,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -31093,7 +31093,12 @@
         4,
         5,
         9,
-        14
+        14,
+        13,
+        12,
+        12,
+        11,
+        11
       ],
       "lastSpin": null
     },
@@ -31127,7 +31132,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:16:17.603Z"
+      "joinDate": "2025-02-23T20:16:17.603Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
