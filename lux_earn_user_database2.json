@@ -22985,11 +22985,12 @@
         "Omomide1",
         "wisdom",
         "Natsume ",
-        "Brainiac"
+        "Brainiac",
+        "Manuel12"
       ],
       "balance": 250,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -23252,7 +23253,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:42:14.525Z"
+      "joinDate": "2025-02-23T11:42:14.525Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Manuel12",
+      "email": "adekolajay4@gmail.com",
+      "encrypted_password": "bebbc196b58593cddd7a300b394626f8",
+      "referral_code": "MA5K1",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:42:29.178Z"
     }
   ],
   "withdrawals": [
