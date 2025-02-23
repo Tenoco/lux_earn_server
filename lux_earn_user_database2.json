@@ -26590,14 +26590,16 @@
       "inviter_referral_code": "CRWGK",
       "inviter_username": "CrystalMediaTv",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:39:37.598Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -26665,7 +26667,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:42:40.082Z"
+      "joinDate": "2025-02-23T14:42:40.082Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
