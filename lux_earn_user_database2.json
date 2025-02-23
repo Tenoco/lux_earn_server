@@ -26160,11 +26160,12 @@
       "invited_users": [
         "Uchepeace",
         "CrystalMediaTv",
-        "Mikkolee1"
+        "Mikkolee1",
+        "Imewiser "
       ],
       "balance": 192,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26711,7 +26712,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:43:20.681Z"
+      "joinDate": "2025-02-23T14:43:20.681Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Imewiser ",
+      "email": "emywiser7@gmail.com",
+      "encrypted_password": "189c6f4882f7fea9205e2a052c4ec875",
+      "referral_code": "IMZG7",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:44:09.889Z"
     }
   ],
   "withdrawals": [
