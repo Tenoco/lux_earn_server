@@ -24343,6 +24343,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:36:53.968Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T12:40:39.554Z"
     },
     {
@@ -24361,6 +24362,21 @@
       "joinDate": "2025-02-23T12:40:40.883Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "BNBFUND ",
+      "email": "danielchikelu4567@gmail.com",
+      "encrypted_password": "9151bc63be6866ee7e67cd4ec11a463a",
+      "referral_code": "BNSFP",
+      "inviter_referral_code": "AS6AA",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:41:25.278Z"
     }
   ],
   "withdrawals": [
