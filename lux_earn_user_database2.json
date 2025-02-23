@@ -26481,11 +26481,12 @@
         "Vheek",
         "Maryam",
         "samologi",
-        "annny0006"
+        "annny0006",
+        "Emmybest"
       ],
       "balance": 192,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -29794,7 +29795,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:54:24.995Z"
+      "joinDate": "2025-02-23T18:54:24.995Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmybest",
+      "email": "emmanueloanih5@gmail.com",
+      "encrypted_password": "ea2bef522654c6e7e08fe0f57af87bd3",
+      "referral_code": "EMKVC",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:54:29.727Z"
     }
   ],
   "withdrawals": [
