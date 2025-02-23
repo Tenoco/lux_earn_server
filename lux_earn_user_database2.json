@@ -6334,11 +6334,12 @@
         "vvvvv",
         "Brazeel01",
         "Christiana Sunday ",
-        "GIFTED "
+        "GIFTED ",
+        "Emmrick"
       ],
       "balance": 138,
-      "refers": 37,
-      "referralBalance": 3700,
+      "refers": 38,
+      "referralBalance": 3800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -23914,6 +23915,21 @@
         6
       ],
       "lastSpin": "2025-02-21T11:17:52.739Z"
+    },
+    {
+      "username": "Emmrick",
+      "email": "ezeanochiennennaimmaculate@gmail.com",
+      "encrypted_password": "e2891a3da7d4b3431f3bdf63485f5858",
+      "referral_code": "EMANI",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:14:44.881Z"
     }
   ],
   "withdrawals": [
