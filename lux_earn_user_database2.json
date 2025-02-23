@@ -9932,10 +9932,12 @@
       "referral_code": "KOLPW",
       "inviter_referral_code": "ZE0YR",
       "inviter_username": "Zeemah",
-      "invited_users": [],
+      "invited_users": [
+        "Sophiat"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:54:07.110Z",
@@ -20000,6 +20002,21 @@
       "joinDate": "2025-02-23T08:10:18.704Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sophiat",
+      "email": "sophiatfolashade@gmail.com",
+      "encrypted_password": "a3bedab6c8185b3da3a4978c014a8f02",
+      "referral_code": "SOOSW",
+      "inviter_referral_code": "KOLPW",
+      "inviter_username": "Koozzboy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:11:35.582Z"
     }
   ],
   "withdrawals": [
