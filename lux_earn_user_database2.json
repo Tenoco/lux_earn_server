@@ -1152,7 +1152,7 @@
       "inviter_referral_code": "AD5OT ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 215,
+      "balance": 235,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1172,7 +1172,8 @@
         11,
         12,
         13,
-        8
+        8,
+        14
       ],
       "lastSpin": "2025-02-22T18:51:09.575Z"
     },
@@ -30509,6 +30510,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:34:32.025Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T19:35:10.816Z"
     }
   ],
