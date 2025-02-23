@@ -19215,7 +19215,7 @@
       "inviter_referral_code": "LUX EARN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 52,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19223,7 +19223,8 @@
       "joinDate": "2025-02-23T07:31:07.534Z",
       "completedMissions": [
         1,
-        14
+        14,
+        2
       ],
       "lastSpin": "2025-02-23T07:31:50.713Z"
     },
@@ -19334,7 +19335,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:39:50.360Z"
+      "joinDate": "2025-02-23T07:39:50.360Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
