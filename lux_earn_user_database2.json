@@ -21254,6 +21254,33 @@
       "joinDate": "2025-02-23T09:28:38.084Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vinzy",
+      "email": "johnvin489@gmail.com",
+      "encrypted_password": "9254802b07adf7e76fd2f216cb38b70c",
+      "referral_code": "VIKQR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 270,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:11:18.042Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
