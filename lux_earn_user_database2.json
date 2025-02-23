@@ -338,11 +338,12 @@
       "inviter_username": null,
       "invited_users": [
         "John3",
-        "CTO2"
+        "CTO2",
+        "Zoe"
       ],
       "balance": 152,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17260,7 +17261,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:08:38.538Z"
+      "joinDate": "2025-02-23T05:08:38.538Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zoe",
+      "email": "zoe@gmail.com",
+      "encrypted_password": "803bfae0ae49198c3b8911e1e0d47f45",
+      "referral_code": "ZOWV7",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:09:54.492Z"
     }
   ],
   "withdrawals": [
