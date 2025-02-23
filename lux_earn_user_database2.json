@@ -18679,11 +18679,12 @@
       "inviter_username": "Adegboye12",
       "invited_users": [
         "Abdullahi Olatunde ",
-        "taoheed Ade "
+        "taoheed Ade ",
+        "TAOHEED ADIO "
       ],
       "balance": 240,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31175,6 +31176,21 @@
         10
       ],
       "lastSpin": "2025-02-21T14:53:39.767Z"
+    },
+    {
+      "username": "TAOHEED ADIO ",
+      "email": "taoheedadio344@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "TA161",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:18:19.917Z"
     }
   ],
   "withdrawals": [
