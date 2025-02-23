@@ -16312,7 +16312,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:00:12.347Z"
+      "joinDate": "2025-02-23T01:00:12.347Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Khadeejat001",
+      "email": "omitogunkhadeejat@gmail.com",
+      "encrypted_password": "d68a9722e863906047166f286a561a8f",
+      "referral_code": "KH1UN",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:00:20.878Z"
     }
   ],
   "withdrawals": [
