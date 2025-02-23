@@ -19585,7 +19585,7 @@
       "inviter_referral_code": "ODWXP ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19593,7 +19593,8 @@
       "joinDate": "2025-02-23T07:49:03.196Z",
       "completedMissions": [
         1,
-        12
+        12,
+        13
       ],
       "lastSpin": null
     },
