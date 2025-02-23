@@ -26163,11 +26163,12 @@
         "Peter503",
         "Peace 34",
         "Rejoice love",
-        "Ritaaa"
+        "Ritaaa",
+        "Yogan1"
       ],
       "balance": 170,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -28797,7 +28798,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:03:50.924Z"
+      "joinDate": "2025-02-23T17:03:50.924Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yogan1",
+      "email": "jonny307@gmail.com",
+      "encrypted_password": "1e01ba3e07ac48cbdab2d3284d1dd0fa",
+      "referral_code": "YOKLR",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:04:01.757Z"
     }
   ],
   "withdrawals": [
