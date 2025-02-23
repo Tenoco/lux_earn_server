@@ -13881,11 +13881,12 @@
         "E_square55",
         "Zainabu",
         "Kehinde",
-        "Omozeno "
+        "Omozeno ",
+        "tijjaniil "
       ],
       "balance": 0,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -30997,6 +30998,21 @@
       "joinDate": "2025-02-23T20:04:32.669Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "tijjaniil ",
+      "email": "tijjania771@gmail.com",
+      "encrypted_password": "bbd2a988dbe50e9338493fed849ebca4",
+      "referral_code": "TIOMW",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:08:44.406Z"
     }
   ],
   "withdrawals": [
