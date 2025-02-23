@@ -18065,11 +18065,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [
-        "evileve23"
+        "evileve23",
+        "dandilla"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -18213,7 +18214,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
-      "lastSpin": "2025-02-23T06:29:16.973Z",
       "completedMissions": [
         2,
         1,
@@ -18225,7 +18225,8 @@
         4,
         11,
         8
-      ]
+      ],
+      "lastSpin": "2025-02-23T06:29:16.973Z"
     },
     {
       "username": "Wisdom024",
@@ -18362,6 +18363,21 @@
       "joinDate": "2025-02-23T06:37:52.914Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "dandilla",
+      "email": "zubynshiegbe@gmail.com",
+      "encrypted_password": "044d2812fe0e164394555a4b3cf361f6",
+      "referral_code": "DA21V",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:38:34.364Z"
     }
   ],
   "withdrawals": [
