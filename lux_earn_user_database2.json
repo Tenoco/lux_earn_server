@@ -28878,7 +28878,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:10:43.793Z"
+      "joinDate": "2025-02-23T17:10:43.793Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Girlbossdera ",
+      "email": "mlee052389@gmail.com",
+      "encrypted_password": "9fe64306e7b36da454d69938a1244572",
+      "referral_code": "GIG0O",
+      "inviter_referral_code": "2525",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:11:23.918Z"
     }
   ],
   "withdrawals": [
