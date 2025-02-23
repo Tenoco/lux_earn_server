@@ -14044,11 +14044,12 @@
       "invited_users": [
         "Gifts",
         "Trey",
-        "Jonnyy"
+        "Jonnyy",
+        "Jay24"
       ],
       "balance": 230,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32216,6 +32217,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
@@ -32234,6 +32236,21 @@
       "joinDate": "2025-02-23T20:59:28.040Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jay24",
+      "email": "tomigabriel@gmail.com",
+      "encrypted_password": "32a85aa9411a428caf85b22926b47835",
+      "referral_code": "JAUCD",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:01:01.157Z"
     }
   ],
   "withdrawals": [
