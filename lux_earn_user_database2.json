@@ -12263,11 +12263,12 @@
       "inviter_username": "Quadriano ",
       "invited_users": [
         "Angel997",
-        "Bright13"
+        "Bright13",
+        "Fubara gv"
       ],
       "balance": 232,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -26238,6 +26239,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Fubara gv",
+      "email": "masifde10@gmail.com",
+      "encrypted_password": "b7bb59021db6c0c4d2884b87343896d9",
+      "referral_code": "FUBTX",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:20:11.192Z"
     }
   ],
   "withdrawals": [
