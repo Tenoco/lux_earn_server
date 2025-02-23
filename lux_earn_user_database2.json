@@ -10487,11 +10487,12 @@
         "Nikki ",
         "Francis ",
         "Godson",
-        "Hannah "
+        "Hannah ",
+        "Gordon"
       ],
       "balance": 228,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:43:27.946Z",
@@ -27618,7 +27619,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hannah ",
@@ -27636,6 +27638,21 @@
       "joinDate": "2025-02-23T15:37:39.106Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gordon",
+      "email": "gordonmalachi65@gmail.com",
+      "encrypted_password": "17ba90a2dd9d7dfe7e910566054a5d70",
+      "referral_code": "GOG79",
+      "inviter_referral_code": "GBAFX",
+      "inviter_username": "Gboymartins",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:40:17.429Z"
     }
   ],
   "withdrawals": [
