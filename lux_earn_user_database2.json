@@ -2207,7 +2207,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1220,
+      "balance": 1240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2226,7 +2226,8 @@
         8,
         10,
         10,
-        9
+        9,
+        14
       ],
       "lastSpin": "2025-02-22T09:54:58.432Z"
     },
@@ -19731,7 +19732,8 @@
         13,
         14,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kemi",
