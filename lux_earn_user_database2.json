@@ -30211,13 +30211,21 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:11:10.927Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        13,
+        11,
+        11,
+        10,
+        14
+      ],
       "lastSpin": null
     },
     {
