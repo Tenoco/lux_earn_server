@@ -25990,11 +25990,12 @@
         "Thompson 37",
         "Emaculate36",
         "Quan123",
-        "Jodan105"
+        "Jodan105",
+        "Maxwell212"
       ],
       "balance": 170,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27233,6 +27234,21 @@
       "joinDate": "2025-02-23T15:09:47.101Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Maxwell212",
+      "email": "brightudo7@gmail.com",
+      "encrypted_password": "c4ded2b85cc5be82fa1d2464eba9a7d3",
+      "referral_code": "MA21H",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:10:43.806Z"
     }
   ],
   "withdrawals": [
