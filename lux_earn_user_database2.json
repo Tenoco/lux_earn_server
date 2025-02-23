@@ -6502,11 +6502,12 @@
         "Lekkxygold",
         "Yusufsin12",
         "Dady0488",
-        "Henr555"
+        "Henr555",
+        "Annastasia"
       ],
       "balance": 138,
-      "refers": 114,
-      "referralBalance": 11400,
+      "refers": 115,
+      "referralBalance": 11500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33890,6 +33891,21 @@
       "joinDate": "2025-02-23T23:03:36.644Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Annastasia",
+      "email": "raphaelannastasia222@gmail.com",
+      "encrypted_password": "59d4f9a7f5b3425faeb64c2b61c6031c",
+      "referral_code": "ANNXE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:05:13.519Z"
     }
   ],
   "withdrawals": [
