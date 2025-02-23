@@ -27580,14 +27580,15 @@
       "inviter_referral_code": "BLIOB",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:33:35.308Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11
+      ]
     }
   ],
   "withdrawals": [
