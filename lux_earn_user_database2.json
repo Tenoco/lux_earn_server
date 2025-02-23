@@ -26393,11 +26393,12 @@
         "Esther10",
         "Ritajj3",
         "Edithudo",
-        "Joben4"
+        "Joben4",
+        "Peller68"
       ],
       "balance": 170,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -32340,7 +32341,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:04:40.940Z"
+      "joinDate": "2025-02-23T21:04:40.940Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peller68",
+      "email": "pellertitta00@gmail.com",
+      "encrypted_password": "0be9931c0d23634d0c70934bbbeb06b5",
+      "referral_code": "PEIXR",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:06:12.808Z"
     }
   ],
   "withdrawals": [
