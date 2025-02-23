@@ -342,11 +342,12 @@
         "Zoe",
         "Mermer",
         "Rita70",
-        "Ralphyla"
+        "Ralphyla",
+        "Merchant"
       ],
       "balance": 152,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17579,6 +17580,21 @@
       "joinDate": "2025-02-23T05:37:33.039Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Merchant",
+      "email": "merchant@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "MEM0F",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:41:37.457Z"
     }
   ],
   "withdrawals": [
