@@ -6420,11 +6420,12 @@
         "Tizzy",
         "Agnes12",
         "Darahsimi",
-        "Franca5"
+        "Franca5",
+        "Michaelking36 "
       ],
       "balance": 138,
-      "refers": 59,
-      "referralBalance": 5900,
+      "refers": 60,
+      "referralBalance": 6000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27755,6 +27756,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Michaelking36 ",
+      "email": "zistusmichael@gmail.com",
+      "encrypted_password": "c915facdc0c959d0202acfc6bdadd41d",
+      "referral_code": "MIBUF",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:50:05.829Z"
     }
   ],
   "withdrawals": [
