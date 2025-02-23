@@ -24664,7 +24664,7 @@
       "inviter_referral_code": "JOKPS",
       "inviter_username": "Josephine ",
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24675,7 +24675,8 @@
         1,
         5,
         4,
-        2
+        2,
+        6
       ],
       "lastSpin": null
     },
@@ -24769,7 +24770,8 @@
       "joinDate": "2025-02-23T13:06:04.031Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "PurityTope",
