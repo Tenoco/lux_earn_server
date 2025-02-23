@@ -20100,14 +20100,15 @@
       "inviter_referral_code": "KOLPW",
       "inviter_username": "Koozzboy",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:11:35.582Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
