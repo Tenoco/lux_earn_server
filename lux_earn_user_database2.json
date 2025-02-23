@@ -32231,13 +32231,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32527,14 +32527,16 @@
       "inviter_referral_code": "Bkfs9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:13:31.032Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T21:14:02.536Z"
+      "lastSpin": "2025-02-23T21:14:02.536Z",
+      "completedMissions": [
+        14
+      ]
     },
     {
       "username": "Estheretim",
