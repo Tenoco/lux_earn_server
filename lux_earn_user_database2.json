@@ -19010,11 +19010,12 @@
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
       "invited_users": [
-        "Vikina"
+        "Vikina",
+        "Chuksibo21"
       ],
       "balance": 250,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:08:51.839Z",
@@ -20089,6 +20090,21 @@
       "joinDate": "2025-02-23T08:19:20.710Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Chuksibo21",
+      "email": "chuksdera2018@gmail.com",
+      "encrypted_password": "1cf2413cedd1bd9ae7ffd268c4de6ed6",
+      "referral_code": "CHC9S",
+      "inviter_referral_code": "JO5G6",
+      "inviter_username": "Josh Brezel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:21:09.434Z"
     }
   ],
   "withdrawals": [
