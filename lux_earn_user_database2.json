@@ -18152,11 +18152,12 @@
         "dandilla",
         "Alexia drums",
         "SMART4VTU",
-        "Dannyboi"
+        "Dannyboi",
+        "Davidson91"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -19753,6 +19754,21 @@
       "joinDate": "2025-02-22T04:34:07.417Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Davidson91",
+      "email": "davidsonjudge05@gmail.com",
+      "encrypted_password": "b1721c75e233870d1f65c59dc313245e",
+      "referral_code": "DAFZN",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:04:40.419Z"
     }
   ],
   "withdrawals": [
