@@ -24770,11 +24770,12 @@
       "inviter_username": "Josephine ",
       "invited_users": [
         "Job",
-        "Akabi"
+        "Akabi",
+        "Jokercool"
       ],
       "balance": 172,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -25555,6 +25556,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Jokercool",
+      "email": "balkjke45@gmail.com",
+      "encrypted_password": "46d045ff5190f6ea93739da6c0aa19bc",
+      "referral_code": "JOHPG",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:34:40.185Z"
     }
   ],
   "withdrawals": [
