@@ -31495,7 +31495,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 380,
+      "balance": 385,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31541,7 +31541,7 @@
         2,
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T20:33:47.530Z"
     },
     {
       "username": "Elliot Grant ",
@@ -31573,7 +31573,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:33:30.779Z"
+      "joinDate": "2025-02-23T20:33:30.779Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
