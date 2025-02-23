@@ -6425,11 +6425,12 @@
         "Michaelking36 ",
         "Olatunji kehinde Aderayo ",
         "Thelmachidera",
-        "Presco"
+        "Presco",
+        "EmmaXchange "
       ],
       "balance": 138,
-      "refers": 63,
-      "referralBalance": 6300,
+      "refers": 64,
+      "referralBalance": 6400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27949,7 +27950,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Omojenny93",
@@ -28182,6 +28184,21 @@
       "joinDate": "2025-02-23T16:15:33.954Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "EmmaXchange ",
+      "email": "oemmanuelndubisi@gmail.com",
+      "encrypted_password": "c0d02af26baf663d6b136b0d0121bbf4",
+      "referral_code": "EM8VO",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:17:46.658Z"
     }
   ],
   "withdrawals": [
