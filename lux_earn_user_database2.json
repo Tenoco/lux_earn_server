@@ -6491,11 +6491,12 @@
         "Sadeeq12",
         "Chima",
         "Chimobi",
-        "Lekewebo"
+        "Lekewebo",
+        "El-Jamzouri001"
       ],
       "balance": 138,
-      "refers": 108,
-      "referralBalance": 10800,
+      "refers": 109,
+      "referralBalance": 10900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33364,6 +33365,21 @@
       "joinDate": "2025-02-23T22:21:45.092Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "El-Jamzouri001",
+      "email": "abdulqoyumoyedokunjamzouri@gmail.com",
+      "encrypted_password": "cefdd57e58a4fd730a677a50899002f1",
+      "referral_code": "ELNFT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:22:53.868Z"
     }
   ],
   "withdrawals": [
