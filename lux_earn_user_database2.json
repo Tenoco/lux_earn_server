@@ -7054,7 +7054,7 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 233,
+      "balance": 253,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7074,7 +7074,8 @@
         10,
         11,
         12,
-        13
+        13,
+        14
       ],
       "lastSpin": "2025-02-22T15:22:33.016Z"
     },
@@ -25343,7 +25344,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:26:29.738Z"
+      "joinDate": "2025-02-23T13:26:29.738Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
