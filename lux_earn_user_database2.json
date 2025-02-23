@@ -7104,10 +7104,12 @@
       "referral_code": "DH8AZ",
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oluwaseun001"
+      ],
       "balance": 80,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:09:39.463Z",
@@ -22773,6 +22775,21 @@
         8
       ],
       "lastSpin": "2025-02-21T07:35:19.789Z"
+    },
+    {
+      "username": "Oluwaseun001",
+      "email": "oluwaseuno75594142@gmail.com",
+      "encrypted_password": "70c994c2d1368377b7cfacdc80b2d56b",
+      "referral_code": "OLTAI",
+      "inviter_referral_code": "DH8AZ",
+      "inviter_username": "Dhaselisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:17:05.441Z"
     }
   ],
   "withdrawals": [
