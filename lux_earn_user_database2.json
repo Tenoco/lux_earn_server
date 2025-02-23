@@ -26008,11 +26008,12 @@
         "Maxwell212",
         "Pilot202",
         "Union105",
-        "Peter503"
+        "Peter503",
+        "Peace 34"
       ],
       "balance": 170,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27620,7 +27621,8 @@
         4,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hannah ",
@@ -27655,6 +27657,21 @@
       "joinDate": "2025-02-23T15:40:17.429Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peace 34",
+      "email": "michealjohn122@gmail.com",
+      "encrypted_password": "376c43878878ac04e05946ec1dd7a55f",
+      "referral_code": "PEB4P",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:41:33.998Z"
     }
   ],
   "withdrawals": [
