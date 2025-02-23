@@ -27212,7 +27212,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 160,
+      "balance": 161,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27231,7 +27231,7 @@
         10,
         11
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T15:12:08.418Z"
     },
     {
       "username": "Dacksonzup234#@",
@@ -27297,7 +27297,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:11:51.091Z"
+      "joinDate": "2025-02-23T15:11:51.091Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
