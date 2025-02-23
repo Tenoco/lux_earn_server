@@ -6493,11 +6493,12 @@
         "Chima",
         "Chimobi",
         "Lekewebo",
-        "El-Jamzouri001"
+        "El-Jamzouri001",
+        "Esther "
       ],
       "balance": 138,
-      "refers": 109,
-      "referralBalance": 10900,
+      "refers": 110,
+      "referralBalance": 11000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -33472,6 +33473,21 @@
       "joinDate": "2025-02-23T22:28:05.093Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esther ",
+      "email": "oriyomiolayiwola219@gmail.com",
+      "encrypted_password": "d855dee332563a7a677f43c524951c20",
+      "referral_code": "ESA52",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:31:46.693Z"
     }
   ],
   "withdrawals": [
