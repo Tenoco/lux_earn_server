@@ -27404,11 +27404,12 @@
         "David78",
         "Temmy04",
         "Capacity ",
-        "Miracle 3"
+        "Miracle 3",
+        "Abrahamicgrace1 "
       ],
       "balance": 125,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -34036,6 +34037,21 @@
         2
       ],
       "lastSpin": "2025-02-23T23:14:24.829Z"
+    },
+    {
+      "username": "Abrahamicgrace1 ",
+      "email": "abrahamogbolo@gmail.com",
+      "encrypted_password": "81755770ca46666025bd23e52d22e665",
+      "referral_code": "ABC4E",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:20:48.956Z"
     }
   ],
   "withdrawals": [
