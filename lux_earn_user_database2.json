@@ -30729,7 +30729,7 @@
       "inviter_referral_code": "BLDMQ",
       "inviter_username": "Blackjesus",
       "invited_users": [],
-      "balance": 60,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30739,9 +30739,9 @@
         1,
         2,
         4,
-        16
-      ],
-      "lastSpin": null
+        16,
+        6
+      ]
     },
     {
       "username": "Ufuoskzoo ",
@@ -30790,7 +30790,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:53:14.743Z"
+      "joinDate": "2025-02-23T19:53:14.743Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
