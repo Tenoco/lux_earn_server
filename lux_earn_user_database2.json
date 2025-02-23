@@ -9197,11 +9197,12 @@
         "Micheally1234",
         "Jarmar001",
         "Shadow",
-        "ghgc"
+        "ghgc",
+        "joluniyi99"
       ],
       "balance": 295,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -23963,6 +23964,21 @@
         9
       ],
       "lastSpin": "2025-02-21T09:47:21.983Z"
+    },
+    {
+      "username": "joluniyi99",
+      "email": "joluniyi82@gmail.com",
+      "encrypted_password": "e6b924720e1624077dddd5ab65ca32e3",
+      "referral_code": "JOCRT",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T21:31:08.588Z"
     }
   ],
   "withdrawals": [
