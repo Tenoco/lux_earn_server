@@ -29538,14 +29538,15 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:25:31.333Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Oluwaexcess",
@@ -29561,6 +29562,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:26:08.335Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T18:26:28.834Z"
     }
   ],
