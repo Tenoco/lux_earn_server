@@ -17912,7 +17912,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:07:49.488Z"
+      "joinDate": "2025-02-23T06:07:49.488Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haruna@77",
+      "email": "abuldanbaba@gmail.com",
+      "encrypted_password": "fc8d153329e2e519fe5d67ce25bad038",
+      "referral_code": "HALS8",
+      "inviter_referral_code": "369085",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:08:03.390Z"
     }
   ],
   "withdrawals": [
