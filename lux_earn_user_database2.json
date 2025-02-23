@@ -6468,11 +6468,12 @@
         "Israel temitope ",
         "Bsmart7 ",
         "Bilkisu001",
-        "Uniquexkid "
+        "Uniquexkid ",
+        "Nwuba "
       ],
       "balance": 138,
-      "refers": 95,
-      "referralBalance": 9500,
+      "refers": 96,
+      "referralBalance": 9600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -31478,6 +31479,21 @@
         9
       ],
       "lastSpin": "2025-02-21T06:57:06.712Z"
+    },
+    {
+      "username": "Nwuba ",
+      "email": "emmanuelnwuba2010@gmail.com",
+      "encrypted_password": "8502fc1f3ed4e72b4ea1e15fcd3c4a3b",
+      "referral_code": "NWB8D",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:30:36.627Z"
     }
   ],
   "withdrawals": [
