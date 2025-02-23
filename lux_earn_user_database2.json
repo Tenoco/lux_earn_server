@@ -6481,11 +6481,12 @@
         "Timothy1",
         "Victors3450",
         "Idenyi20",
-        "Estheretim"
+        "Estheretim",
+        "BigWAVE "
       ],
       "balance": 138,
-      "refers": 101,
-      "referralBalance": 10100,
+      "refers": 102,
+      "referralBalance": 10200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32616,6 +32617,21 @@
       "joinDate": "2025-02-23T21:18:13.492Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "BigWAVE ",
+      "email": "ntienseabasiuwah01@gmail.com",
+      "encrypted_password": "5c7c3a5deab9e390a299ffdd8d8be269",
+      "referral_code": "BIKP4",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:21:11.352Z"
     }
   ],
   "withdrawals": [
