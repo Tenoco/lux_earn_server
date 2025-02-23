@@ -32225,18 +32225,19 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 55,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
+      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": "2025-02-23T21:00:19.439Z"
+        4,
+        16
+      ]
     },
     {
       "username": "stellamarris90",
