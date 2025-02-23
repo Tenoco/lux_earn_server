@@ -18710,11 +18710,12 @@
         "Elliot Grant ",
         "ECOM Legend ",
         "Pro Mary ",
-        "Adegboye najim90"
+        "Adegboye najim90",
+        "Clinton Evalsam1w"
       ],
       "balance": 240,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31908,6 +31909,21 @@
       "joinDate": "2025-02-23T20:39:36.413Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Clinton Evalsam1w",
+      "email": "clintonevalsam@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "CLQ0B",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:41:25.615Z"
     }
   ],
   "withdrawals": [
