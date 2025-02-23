@@ -6335,11 +6335,12 @@
         "Brazeel01",
         "Christiana Sunday ",
         "GIFTED ",
-        "Emmrick"
+        "Emmrick",
+        "Ling smart"
       ],
       "balance": 138,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24015,6 +24016,21 @@
       "joinDate": "2025-02-23T12:17:59.855Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ling smart",
+      "email": "lingsmart102008@gmail.com",
+      "encrypted_password": "a21d8921d71b43e56a99d5cdf7668f78",
+      "referral_code": "LIZQA",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:20:53.022Z"
     }
   ],
   "withdrawals": [
