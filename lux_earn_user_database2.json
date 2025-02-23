@@ -18515,7 +18515,7 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": "Nabeelo",
       "invited_users": [],
-      "balance": 50,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18523,7 +18523,9 @@
       "joinDate": "2025-02-21T12:06:50.687Z",
       "completedMissions": [
         3,
-        5
+        5,
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -18681,7 +18683,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:58:22.504Z"
+      "joinDate": "2025-02-23T06:58:22.504Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
