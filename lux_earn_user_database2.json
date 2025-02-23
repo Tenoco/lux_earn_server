@@ -9760,7 +9760,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9770,7 +9770,9 @@
         1,
         2,
         5,
-        11
+        11,
+        10,
+        9
       ],
       "lastSpin": null
     },
