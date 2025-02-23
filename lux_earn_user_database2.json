@@ -29811,14 +29811,16 @@
       "inviter_referral_code": "AN3DP",
       "inviter_username": "Annabel",
       "invited_users": [],
-      "balance": 0,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:54:24.995Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T18:57:41.295Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Emmybest",
@@ -29868,7 +29870,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
-      "lastSpin": "2025-02-23T18:57:09.349Z",
       "completedMissions": [
         14,
         11,
@@ -29877,7 +29878,8 @@
         10,
         7,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-23T18:57:09.349Z"
     },
     {
       "username": "Osung ",
