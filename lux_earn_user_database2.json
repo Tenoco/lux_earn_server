@@ -6434,11 +6434,12 @@
         "@abdullahyy ",
         "Sowley joel",
         "adedapofaishat@gmail.com",
-        "Kareem "
+        "Kareem ",
+        "Haryor_Richie"
       ],
       "balance": 138,
-      "refers": 70,
-      "referralBalance": 7000,
+      "refers": 71,
+      "referralBalance": 7100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -28833,7 +28834,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:04:46.719Z"
+      "joinDate": "2025-02-23T17:04:46.719Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Haryor_Richie",
+      "email": "lawalrichie540@gmail.com",
+      "encrypted_password": "194081eebf8437a3402eacf584fefbce",
+      "referral_code": "HAX8K",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:05:08.724Z"
     }
   ],
   "withdrawals": [
