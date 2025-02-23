@@ -27230,11 +27230,12 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [
-        "Victor 4"
+        "Victor 4",
+        "Tosin "
       ],
       "balance": 161,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:08:04.031Z",
@@ -27385,7 +27386,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:20:18.140Z"
+      "joinDate": "2025-02-23T15:20:18.140Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tosin ",
+      "email": "blessingarowolo07@gmail.com",
+      "encrypted_password": "090c3eff32183bc0939b1f83395d5ff9",
+      "referral_code": "TOGDH",
+      "inviter_referral_code": "BLMXT",
+      "inviter_username": "BLESSYN 33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:21:32.540Z"
     }
   ],
   "withdrawals": [
