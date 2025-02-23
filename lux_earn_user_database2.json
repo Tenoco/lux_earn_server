@@ -15209,13 +15209,15 @@
       "inviter_referral_code": "Nimbv ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T21:39:58.642Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-22T21:41:43.915Z"
     },
     {
@@ -18872,7 +18874,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:08:51.839Z"
+      "joinDate": "2025-02-23T07:08:51.839Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
