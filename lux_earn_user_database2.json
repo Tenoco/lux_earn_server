@@ -32703,13 +32703,15 @@
       "inviter_referral_code": "FRRKL",
       "inviter_username": "Freshglow",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:25:14.638Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -32793,7 +32795,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:30:29.225Z"
+      "joinDate": "2025-02-23T21:30:29.225Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
