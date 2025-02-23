@@ -21102,14 +21102,16 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:15:05.467Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:15:22.992Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Aminat",
