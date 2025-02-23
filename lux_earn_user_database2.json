@@ -25541,7 +25541,7 @@
       "inviter_referral_code": "CHDBE",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 42,
+      "balance": 82,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25550,7 +25550,10 @@
       "completedMissions": [
         1,
         1,
-        2
+        2,
+        2,
+        2,
+        5
       ],
       "lastSpin": "2025-02-23T13:39:59.445Z"
     },
@@ -25798,7 +25801,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:45:20.008Z"
+      "joinDate": "2025-02-23T13:45:20.008Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
