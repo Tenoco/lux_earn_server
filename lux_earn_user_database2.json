@@ -25055,10 +25055,12 @@
       "referral_code": "AN202",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Kundiri "
+      ],
       "balance": 158,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:15:46.787Z",
@@ -25573,6 +25575,21 @@
       "joinDate": "2025-02-23T13:34:40.185Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kundiri ",
+      "email": "arabwal691@gmail.com",
+      "encrypted_password": "3b3c2dce76c0db9b4ebddbe12a0a4019",
+      "referral_code": "KUSZF",
+      "inviter_referral_code": "AN202",
+      "inviter_username": "Anonymous12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:36:32.558Z"
     }
   ],
   "withdrawals": [
