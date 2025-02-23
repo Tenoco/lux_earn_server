@@ -31851,14 +31851,15 @@
       "inviter_referral_code": "OLDLO",
       "inviter_username": "Oluwaexcess",
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:36:57.636Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T20:38:49.937Z"
     },
@@ -31943,7 +31944,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:41:53.592Z"
+      "joinDate": "2025-02-23T20:41:53.592Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
