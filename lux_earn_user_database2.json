@@ -18038,10 +18038,12 @@
       "referral_code": "BADL5",
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "evileve23"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -18064,6 +18066,21 @@
       "joinDate": "2025-02-23T06:17:21.895Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "evileve23",
+      "email": "rasheedatahmed7@gmail.com",
+      "encrypted_password": "d306b9ac2f76283bfc1599a1b3cf0d5e",
+      "referral_code": "EV0TP",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:21:19.519Z"
     }
   ],
   "withdrawals": [
