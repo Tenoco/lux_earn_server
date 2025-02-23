@@ -6825,7 +6825,7 @@
         "Ayomidey ",
         "Moses24 "
       ],
-      "balance": 503,
+      "balance": 543,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -6866,7 +6866,9 @@
         10,
         13,
         13,
-        13
+        13,
+        14,
+        14
       ],
       "lastSpin": "2025-02-22T15:07:41.808Z"
     },
@@ -22454,7 +22456,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:49:51.492Z"
+      "joinDate": "2025-02-23T10:49:51.492Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
