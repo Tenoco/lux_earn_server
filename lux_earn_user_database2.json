@@ -16660,7 +16660,23 @@
         13,
         12,
         5
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Kruzlee",
+      "email": "sammiekruzly@gmail.com",
+      "encrypted_password": "46a62165ad839aa5075422b826db4669",
+      "referral_code": "KR92G",
+      "inviter_referral_code": "CO4PD ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:46:39.614Z"
     }
   ],
   "withdrawals": [
