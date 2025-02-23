@@ -23050,11 +23050,12 @@
         "wisdom",
         "Natsume ",
         "Brainiac",
-        "Manuel12"
+        "Manuel12",
+        "rosylaura775"
       ],
       "balance": 250,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
@@ -24132,6 +24133,21 @@
       "joinDate": "2025-02-23T12:26:25.820Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "rosylaura775",
+      "email": "rosylaura775@gmail.com",
+      "encrypted_password": "1e01279c4727d1677e484acaf458975b",
+      "referral_code": "ROA8Y",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:27:52.552Z"
     }
   ],
   "withdrawals": [
