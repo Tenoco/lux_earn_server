@@ -26332,11 +26332,12 @@
         "Comedianramadan",
         "Blackjesus",
         "Ziggy",
-        "BLESSYN 33"
+        "BLESSYN 33",
+        "Bassey Anthonia "
       ],
       "balance": 192,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -28222,6 +28223,21 @@
       "joinDate": "2025-02-23T16:18:30.396Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bassey Anthonia ",
+      "email": "basseyanthonia14@gmail.com",
+      "encrypted_password": "af1c913c9d387ce92ed5ee6f976b7961",
+      "referral_code": "BAI4O",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:20:22.058Z"
     }
   ],
   "withdrawals": [
