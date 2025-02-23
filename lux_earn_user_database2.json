@@ -16422,11 +16422,12 @@
         "Omotayo ",
         "Rokeeb omotayo ",
         "Molarao",
-        "Olahitun"
+        "Olahitun",
+        "Ali"
       ],
       "balance": 262,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:53:41.039Z",
@@ -18210,7 +18211,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:26:54.337Z",
-      "lastSpin": "2025-02-23T06:29:16.973Z",
       "completedMissions": [
         2,
         1,
@@ -18221,7 +18221,8 @@
         12,
         4,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-23T06:29:16.973Z"
     },
     {
       "username": "Wisdom024",
@@ -18324,6 +18325,21 @@
       "joinDate": "2025-02-23T06:35:44.316Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ali",
+      "email": "haryormidey11@gmail.com",
+      "encrypted_password": "69b977ba51e5e7bd806436310a8f8b6d",
+      "referral_code": "ALPMP",
+      "inviter_referral_code": "OMDV9",
+      "inviter_username": "Omotayo01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:37:39.890Z"
     }
   ],
   "withdrawals": [
