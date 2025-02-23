@@ -2329,11 +2329,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Setemi"
+        "Setemi",
+        "Setemi1"
       ],
       "balance": 1110,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:48:36.200Z",
@@ -29298,7 +29299,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T17:51:24.065Z"
+      "joinDate": "2025-02-23T17:51:24.065Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Setemi1",
+      "email": "Maryadenike78@gmail.com",
+      "encrypted_password": "efbf1eb09d62abd303f12835086e5465",
+      "referral_code": "SE93W",
+      "inviter_referral_code": "PIYZI",
+      "inviter_username": "Pinkyponky",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:51:52.863Z"
     }
   ],
   "withdrawals": [
