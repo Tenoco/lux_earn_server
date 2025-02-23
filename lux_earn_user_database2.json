@@ -29929,10 +29929,12 @@
       "referral_code": "OADN6",
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
-      "invited_users": [],
+      "invited_users": [
+        "Usman123"
+      ],
       "balance": 201,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:56:45.436Z",
@@ -30215,6 +30217,21 @@
       "joinDate": "2025-02-23T19:12:34.413Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Usman123",
+      "email": "adeoyeo433@gmail.com",
+      "encrypted_password": "023525ede49d786738018875163c5b72",
+      "referral_code": "USTJB",
+      "inviter_referral_code": "OADN6",
+      "inviter_username": "Oadeoye123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:13:32.788Z"
     }
   ],
   "withdrawals": [
