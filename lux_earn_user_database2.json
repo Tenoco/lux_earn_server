@@ -26823,14 +26823,15 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:33:33.617Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": null
     },
