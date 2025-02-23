@@ -24162,7 +24162,7 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24170,7 +24170,8 @@
       "joinDate": "2025-02-23T12:27:52.552Z",
       "completedMissions": [
         1,
-        11
+        11,
+        10
       ],
       "lastSpin": null
     },
