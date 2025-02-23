@@ -21986,11 +21986,12 @@
       "inviter_referral_code": "QUNC3",
       "inviter_username": "Quadriano",
       "invited_users": [
-        "Ajoke44"
+        "Ajoke44",
+        "Oadeoye123"
       ],
       "balance": 75,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -29834,7 +29835,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:56:33.374Z"
+      "joinDate": "2025-02-23T18:56:33.374Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oadeoye123",
+      "email": "oadeoye051@gmail.com",
+      "encrypted_password": "4b8ba4f398a565474ab7a4b99dcae2ac",
+      "referral_code": "OADN6",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:56:45.436Z"
     }
   ],
   "withdrawals": [
