@@ -18687,11 +18687,12 @@
         "TAOHEED ADIO ",
         "Ade taoh",
         "Taoheed Ade taoh ",
-        "Adegboye spark "
+        "Adegboye spark ",
+        "Ecom Taoheed "
       ],
       "balance": 240,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31379,6 +31380,21 @@
       "joinDate": "2025-02-23T20:26:03.589Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ecom Taoheed ",
+      "email": "ecomtaoheed@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "ECZ0N",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:26:37.880Z"
     }
   ],
   "withdrawals": [
