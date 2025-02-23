@@ -11334,7 +11334,7 @@
       "invited_users": [
         "LUME"
       ],
-      "balance": 145,
+      "balance": 165,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -11347,7 +11347,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-21T14:33:39.024Z"
+      "lastSpin": "2025-02-23T15:24:40.628Z"
     },
     {
       "username": "Comfortchris",
@@ -27458,7 +27458,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:24:32.670Z"
+      "joinDate": "2025-02-23T15:24:32.670Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
