@@ -18591,7 +18591,7 @@
       "invited_users": [
         "Higguy"
       ],
-      "balance": 245,
+      "balance": 265,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -18612,7 +18612,8 @@
         9,
         10,
         11,
-        11
+        11,
+        12
       ],
       "lastSpin": "2025-02-23T06:52:12.133Z"
     },
@@ -19282,7 +19283,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "mustard",
