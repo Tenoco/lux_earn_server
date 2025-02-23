@@ -28177,14 +28177,17 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:15:33.954Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-23T16:17:48.918Z"
     },
     {
       "username": "EmmaXchange ",
@@ -28216,7 +28219,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T16:18:30.396Z"
+      "joinDate": "2025-02-23T16:18:30.396Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
