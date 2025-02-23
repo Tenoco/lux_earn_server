@@ -17881,7 +17881,7 @@
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
       "invited_users": [],
-      "balance": 260,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17895,7 +17895,8 @@
         5,
         7,
         6,
-        8
+        8,
+        14
       ],
       "lastSpin": null
     },
@@ -17963,7 +17964,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T06:10:18.073Z"
+      "joinDate": "2025-02-23T06:10:18.073Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
