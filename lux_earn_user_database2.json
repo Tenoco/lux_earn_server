@@ -19142,10 +19142,12 @@
       "referral_code": "ZUQ0Y",
       "inviter_referral_code": "IBNG9",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Mohmmed"
+      ],
       "balance": 202,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -19908,6 +19910,21 @@
         4
       ],
       "lastSpin": "2025-02-20T23:48:13.432Z"
+    },
+    {
+      "username": "Mohmmed",
+      "email": "mdkwaba001@gmail.com",
+      "encrypted_password": "9432142ad13115079af5ce1495d79446",
+      "referral_code": "MO56N",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:10:02.810Z"
     }
   ],
   "withdrawals": [
