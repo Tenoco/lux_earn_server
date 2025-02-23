@@ -30884,6 +30884,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:58:43.007Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T20:03:02.319Z"
     },
     {
@@ -30894,7 +30895,7 @@
       "inviter_referral_code": "AN202",
       "inviter_username": "Anonymous12",
       "invited_users": [],
-      "balance": 45,
+      "balance": 225,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30902,7 +30903,18 @@
       "joinDate": "2025-02-23T19:58:55.442Z",
       "completedMissions": [
         2,
-        1
+        1,
+        4,
+        16,
+        5,
+        6,
+        7,
+        15,
+        10,
+        11,
+        12,
+        13,
+        14
       ],
       "lastSpin": "2025-02-23T19:59:42.686Z"
     },
