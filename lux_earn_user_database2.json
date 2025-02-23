@@ -13795,11 +13795,12 @@
         "Iremide@03",
         "Remeh",
         "Graceysparks",
-        "E_square55"
+        "E_square55",
+        "Zainabu"
       ],
       "balance": 0,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -28677,6 +28678,21 @@
         6
       ],
       "lastSpin": "2025-02-21T15:01:54.150Z"
+    },
+    {
+      "username": "Zainabu",
+      "email": "ajakanadeeyah@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "ZAO7S",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:59:26.425Z"
     }
   ],
   "withdrawals": [
