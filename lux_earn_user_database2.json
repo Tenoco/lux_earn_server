@@ -21391,7 +21391,30 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:40:38.853Z"
+      "joinDate": "2025-02-23T09:40:38.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Avwero",
+      "email": "avwerosuoikako@gmail.com",
+      "encrypted_password": "67d46ec7d84ba284982e634970c5b7df",
+      "referral_code": "AV5TO",
+      "inviter_referral_code": "SU4B5",
+      "inviter_username": "SuccessfulEhdee ",
+      "invited_users": [],
+      "balance": 110,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:46:11.082Z",
+      "completedMissions": [
+        3,
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-21T12:11:12.101Z"
     }
   ],
   "withdrawals": [
