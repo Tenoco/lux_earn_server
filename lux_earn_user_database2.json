@@ -16320,20 +16320,21 @@
       "inviter_referral_code": "WINNH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 71,
+      "balance": 91,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T01:00:12.347Z",
+      "lastSpin": "2025-02-23T01:01:24.704Z",
       "completedMissions": [
         1,
         1,
         2,
         4,
-        4
-      ],
-      "lastSpin": "2025-02-23T01:01:24.704Z"
+        4,
+        5
+      ]
     },
     {
       "username": "Khadeejat001",
