@@ -22618,6 +22618,32 @@
       "joinDate": "2025-02-23T11:10:27.072Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kolawole ",
+      "email": "abdulmujeebkolawole00@gmail.com",
+      "encrypted_password": "75d9636ef5b3916aae4dd6e3aa719ef7",
+      "referral_code": "KO70L",
+      "inviter_referral_code": "LI407",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 130,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:29:24.395Z",
+      "completedMissions": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
