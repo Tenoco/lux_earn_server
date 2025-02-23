@@ -336,10 +336,12 @@
       "referral_code": "CHN20",
       "inviter_referral_code": "vgh",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "John3"
+      ],
       "balance": 152,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17200,7 +17202,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Faruk ",
@@ -17218,6 +17221,21 @@
       "joinDate": "2025-02-23T05:05:33.808Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "John3",
+      "email": "john3@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "JO7LF",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:06:41.757Z"
     }
   ],
   "withdrawals": [
