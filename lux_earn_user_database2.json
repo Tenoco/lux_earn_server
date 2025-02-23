@@ -29983,14 +29983,15 @@
       "inviter_referral_code": "EM0O7",
       "inviter_username": "Emque",
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:01:21.627Z",
       "completedMissions": [
-        12
+        12,
+        11
       ],
       "lastSpin": null
     },
