@@ -26409,7 +26409,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:33:22.057Z"
+      "joinDate": "2025-02-23T14:33:22.057Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dauda",
+      "email": "daudadaudadewale@gmail.com",
+      "encrypted_password": "13864f9ffab1441817ecf7772b277202",
+      "referral_code": "DAMQI",
+      "inviter_referral_code": "DA1ZN",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:33:33.617Z"
     }
   ],
   "withdrawals": [
