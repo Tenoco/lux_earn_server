@@ -10593,7 +10593,7 @@
       "invited_users": [
         "Elizabeth "
       ],
-      "balance": 290,
+      "balance": 298,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10614,7 +10614,7 @@
         7,
         6
       ],
-      "lastSpin": "2025-02-22T18:14:48.699Z"
+      "lastSpin": "2025-02-23T18:25:53.256Z"
     },
     {
       "username": "Fareedat",
@@ -29542,7 +29542,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:25:31.333Z"
+      "joinDate": "2025-02-23T18:25:31.333Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
