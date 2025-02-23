@@ -26478,10 +26478,12 @@
       "referral_code": "CRWGK",
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
-      "invited_users": [],
+      "invited_users": [
+        "Michael ltv"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:34:55.978Z",
@@ -26560,7 +26562,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:38:49.484Z"
+      "joinDate": "2025-02-23T14:38:49.484Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Michael ltv",
+      "email": "ritaatah@gmail.com",
+      "encrypted_password": "ada446e4082ac26c936a0ac14ef1dad9",
+      "referral_code": "MIAOQ",
+      "inviter_referral_code": "CRWGK",
+      "inviter_username": "CrystalMediaTv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:39:37.598Z"
     }
   ],
   "withdrawals": [
