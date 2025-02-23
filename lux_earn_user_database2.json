@@ -20583,7 +20583,7 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
       "invited_users": [],
-      "balance": 250,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20603,7 +20603,8 @@
         8,
         8,
         12,
-        13
+        13,
+        14
       ],
       "lastSpin": "2025-02-23T08:58:22.835Z"
     },
@@ -20788,7 +20789,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:01:53.534Z",
-      "lastSpin": "2025-02-23T09:02:58.099Z",
       "completedMissions": [
         14,
         13,
@@ -20797,7 +20797,8 @@
         10,
         9,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-23T09:02:58.099Z"
     },
     {
       "username": "Ibrahim salisu ",
