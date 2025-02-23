@@ -5851,7 +5851,7 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 170,
+      "balance": 228,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5867,9 +5867,11 @@
         10,
         9,
         9,
-        6
+        6,
+        16,
+        16
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T21:13:26.866Z"
     },
     {
       "username": "Adeekoprevail",
