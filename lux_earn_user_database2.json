@@ -17647,7 +17647,34 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:44:13.027Z"
+      "joinDate": "2025-02-23T05:44:13.027Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Talented22",
+      "email": "sthankgod860@gmail.com",
+      "encrypted_password": "382282865b58b3d680720ffd9b2347be",
+      "referral_code": "TAU99",
+      "inviter_referral_code": "2244",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 140,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T23:38:07.192Z",
+      "completedMissions": [
+        3,
+        5,
+        1,
+        2,
+        6,
+        7,
+        4
+      ],
+      "lastSpin": "2025-02-21T23:44:15.804Z"
     }
   ],
   "withdrawals": [
