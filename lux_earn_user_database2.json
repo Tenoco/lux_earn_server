@@ -18966,10 +18966,12 @@
       "referral_code": "JO5G6",
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
-      "invited_users": [],
+      "invited_users": [
+        "Vikina"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:08:51.839Z",
@@ -19656,6 +19658,21 @@
       "joinDate": "2025-02-23T07:56:16.188Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Vikina",
+      "email": "vallahnanan@gmail.com",
+      "encrypted_password": "585cba740df0837bb747524777415d83",
+      "referral_code": "VIBDL",
+      "inviter_referral_code": "JO5G6",
+      "inviter_username": "Josh Brezel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:03:45.034Z"
     }
   ],
   "withdrawals": [
