@@ -26376,7 +26376,7 @@
       "inviter_referral_code": "HEF6Q",
       "inviter_username": "Hephzi",
       "invited_users": [],
-      "balance": 310,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26391,7 +26391,8 @@
         5,
         7,
         8,
-        11
+        11,
+        10
       ],
       "lastSpin": "2025-02-23T14:06:33.578Z"
     },
@@ -29449,7 +29450,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T18:10:40.513Z"
+      "joinDate": "2025-02-23T18:10:40.513Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
