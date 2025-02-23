@@ -29746,13 +29746,21 @@
       "inviter_referral_code": "OYYAS",
       "inviter_username": "Oyinbo abosede",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:32:25.095Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        8,
+        7
+      ],
       "lastSpin": null
     },
     {
