@@ -25993,11 +25993,12 @@
         "Jodan105",
         "Maxwell212",
         "Pilot202",
-        "Union105"
+        "Union105",
+        "Peter503"
       ],
       "balance": 170,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -27141,11 +27142,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:01:50.203Z",
-      "lastSpin": "2025-02-23T15:09:52.332Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T15:09:52.332Z"
     },
     {
       "username": "Jodan105",
@@ -27370,6 +27371,21 @@
       "joinDate": "2025-02-23T15:18:41.511Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peter503",
+      "email": "kelechijoe12@gmail.com",
+      "encrypted_password": "0a86b4bced6e00c5da011e3974469652",
+      "referral_code": "PEOCE",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:20:18.140Z"
     }
   ],
   "withdrawals": [
