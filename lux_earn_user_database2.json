@@ -21886,11 +21886,12 @@
         "Mitando ",
         "Johnny",
         "Esiaga ",
-        "Wedone"
+        "Wedone",
+        "Mama"
       ],
       "balance": 370,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:03:04.703Z",
@@ -22480,7 +22481,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:52:11.988Z"
+      "joinDate": "2025-02-23T10:52:11.988Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mama",
+      "email": "mama345@gmail.com",
+      "encrypted_password": "43c2e4016018d3f919155be82827cef7",
+      "referral_code": "MA7Q5",
+      "inviter_referral_code": "SAHU4",
+      "inviter_username": "Saint ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:53:20.341Z"
     }
   ],
   "withdrawals": [
