@@ -22764,10 +22764,12 @@
       "referral_code": "MIU0C",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Bright253"
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -25047,6 +25049,21 @@
       "joinDate": "2025-02-23T13:16:57.615Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bright253",
+      "email": "victorpri23@gmail.com",
+      "encrypted_password": "f2c1929453310c7a86b0987db52c73fe",
+      "referral_code": "BR4RW",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:17:54.931Z"
     }
   ],
   "withdrawals": [
