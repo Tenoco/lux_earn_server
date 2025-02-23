@@ -9097,13 +9097,18 @@
       "inviter_referral_code": "MAQXF",
       "inviter_username": "Matthew",
       "invited_users": [],
-      "balance": 0,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:57:49.025Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5
+      ],
       "lastSpin": null
     },
     {
@@ -21401,7 +21406,8 @@
       "joinDate": "2025-02-23T09:40:38.853Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Avwero",
