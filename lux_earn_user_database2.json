@@ -2940,7 +2940,7 @@
       "invited_users": [
         "Marvis blizz "
       ],
-      "balance": 1028,
+      "balance": 1038,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2948,7 +2948,8 @@
       "joinDate": "2025-02-22T10:55:56.594Z",
       "completedMissions": [
         1,
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-22T10:58:02.627Z"
     },
@@ -20713,7 +20714,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T08:55:48.557Z"
+      "joinDate": "2025-02-23T08:55:48.557Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
