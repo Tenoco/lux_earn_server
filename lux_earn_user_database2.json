@@ -19734,7 +19734,8 @@
         11,
         10,
         9
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kemi",
@@ -20006,7 +20007,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20014,9 +20015,10 @@
       "joinDate": "2025-02-23T08:10:18.704Z",
       "completedMissions": [
         1,
-        4
-      ],
-      "lastSpin": null
+        4,
+        2,
+        5
+      ]
     },
     {
       "username": "Sophiat",
