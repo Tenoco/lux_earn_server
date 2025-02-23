@@ -18840,11 +18840,12 @@
         "labdullahu",
         "musac",
         "abdulrahmanu",
-        "mustard"
+        "mustard",
+        "mustar"
       ],
       "balance": 91,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -19280,7 +19281,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T07:37:13.671Z"
+      "joinDate": "2025-02-23T07:37:13.671Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "mustar",
+      "email": "abdulrahmanhabeebodo814@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "MUKHB",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:38:14.048Z"
     }
   ],
   "withdrawals": [
