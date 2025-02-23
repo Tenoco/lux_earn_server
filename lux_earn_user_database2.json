@@ -21379,10 +21379,12 @@
       "referral_code": "GIW62",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Allowance"
+      ],
       "balance": 235,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
@@ -21692,6 +21694,21 @@
       "joinDate": "2025-02-23T10:00:28.683Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Allowance",
+      "email": "allowancegoal@gmail.com",
+      "encrypted_password": "68a93bfbf68957910ab3a8dad2e84b16",
+      "referral_code": "ALU6X",
+      "inviter_referral_code": "GIW62",
+      "inviter_username": "gideonx",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:02:33.892Z"
     }
   ],
   "withdrawals": [
