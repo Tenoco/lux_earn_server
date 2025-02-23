@@ -30532,11 +30532,12 @@
       "inviter_referral_code": "SI8L7",
       "inviter_username": "Sirblack",
       "invited_users": [
-        "Sir white "
+        "Sir white ",
+        "jindu497"
       ],
       "balance": 430,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:44:39.391Z",
@@ -33900,10 +33901,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T23:03:36.644Z",
-      "lastSpin": "2025-02-23T23:05:39.384Z",
       "completedMissions": [
         16
-      ]
+      ],
+      "lastSpin": "2025-02-23T23:05:39.384Z"
     },
     {
       "username": "Annastasia",
@@ -33975,6 +33976,21 @@
       "joinDate": "2025-02-23T23:06:22.943Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "jindu497",
+      "email": "chijinduonuh@gmail.com",
+      "encrypted_password": "e73cd06c621fad975d6a54036f2a5f58",
+      "referral_code": "JI4L8",
+      "inviter_referral_code": "ANY61",
+      "inviter_username": "Ani2005",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:08:56.104Z"
     }
   ],
   "withdrawals": [
