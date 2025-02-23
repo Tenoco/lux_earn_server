@@ -31048,14 +31048,17 @@
       "inviter_referral_code": "Aim",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:10:52.477Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T20:11:23.462Z"
+      "lastSpin": "2025-02-23T20:11:23.462Z",
+      "completedMissions": [
+        4,
+        2
+      ]
     },
     {
       "username": "Chidera",
