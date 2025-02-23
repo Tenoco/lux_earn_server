@@ -7179,10 +7179,12 @@
       "referral_code": "UG8OH",
       "inviter_referral_code": "CAKGY",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "greathumble"
+      ],
       "balance": 253,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:05:24.630Z",
@@ -30857,6 +30859,21 @@
       "joinDate": "2025-02-23T19:58:23.241Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "greathumble",
+      "email": "obikelukingsley2468@gmail.com",
+      "encrypted_password": "60c4ed332906ed95ab4cae5827f60376",
+      "referral_code": "GRZDW",
+      "inviter_referral_code": "UG8OH",
+      "inviter_username": "Ugochukwu1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:58:43.007Z"
     }
   ],
   "withdrawals": [
