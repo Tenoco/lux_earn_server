@@ -28972,13 +28972,15 @@
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:18:02.042Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -28997,7 +28999,8 @@
       "joinDate": "2025-02-23T17:20:07.720Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Adeniyi Adeola Hephzibah",
