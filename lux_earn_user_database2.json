@@ -26655,11 +26655,12 @@
         "Morgan299",
         "Brodalateef",
         "mgdollars1",
-        "Angel "
+        "Angel ",
+        "Noplay"
       ],
       "balance": 192,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -33146,6 +33147,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Noplay",
+      "email": "sulaimanharunakyw7@gmail.com",
+      "encrypted_password": "a9c27e18c273c95d759f9032b26152bd",
+      "referral_code": "NORM5",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T22:04:50.390Z"
     }
   ],
   "withdrawals": [
