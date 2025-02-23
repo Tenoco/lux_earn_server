@@ -28288,14 +28288,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 18,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:23:01.002Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T16:26:30.762Z"
     },
