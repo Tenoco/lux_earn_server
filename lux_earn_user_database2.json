@@ -6093,7 +6093,7 @@
       "invited_users": [
         "CUTECEO"
       ],
-      "balance": 50,
+      "balance": 115,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -6102,9 +6102,11 @@
       "completedMissions": [
         1,
         4,
-        5
+        5,
+        10,
+        10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T05:20:25.252Z"
     },
     {
       "username": "Eromomene",
