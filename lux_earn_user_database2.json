@@ -30890,13 +30890,16 @@
       "inviter_referral_code": "AN202",
       "inviter_username": "Anonymous12",
       "invited_users": [],
-      "balance": 25,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:58:55.442Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        1
+      ],
       "lastSpin": "2025-02-23T19:59:42.686Z"
     },
     {
@@ -30929,7 +30932,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T19:59:26.494Z"
+      "joinDate": "2025-02-23T19:59:26.494Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
