@@ -21654,17 +21654,14 @@
       "referral_code": "YE656",
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
-      "invited_users": [
-        "Jedo Clara Oluwatosin"
-      ],
-      "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 1,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:55:26.591Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T10:19:11.411Z"
     },
     {
       "username": "SCIBAB",
@@ -21940,7 +21937,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:19:11.726Z"
+      "joinDate": "2025-02-23T10:19:11.726Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
