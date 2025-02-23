@@ -16987,14 +16987,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T04:15:50.588Z",
       "completedMissions": [
-        12
+        12,
+        1,
+        2
       ]
     }
   ],
