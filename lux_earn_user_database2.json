@@ -10702,11 +10702,12 @@
         "Sarah ",
         "OSVMEDIA",
         "Wahab",
-        "Prospylove"
+        "Prospylove",
+        "Yemcee"
       ],
       "balance": 40,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -21603,6 +21604,21 @@
       "joinDate": "2025-02-23T09:54:47.003Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yemcee",
+      "email": "olawoleoluwayemisi909@gmail.com",
+      "encrypted_password": "b9a10b0ce1e89af6981d2421bd317008",
+      "referral_code": "YE656",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:55:26.591Z"
     }
   ],
   "withdrawals": [
