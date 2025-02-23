@@ -5851,7 +5851,7 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 228,
+      "balance": 268,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5869,7 +5869,9 @@
         9,
         6,
         16,
-        16
+        16,
+        13,
+        12
       ],
       "lastSpin": "2025-02-23T21:13:26.866Z"
     },
@@ -32231,7 +32233,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
@@ -32239,7 +32240,8 @@
         16,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
