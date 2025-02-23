@@ -22212,14 +22212,15 @@
       "inviter_referral_code": "Vote ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 25,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T10:35:32.740Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-23T10:42:21.589Z"
     },
@@ -22373,7 +22374,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:46:22.011Z"
+      "joinDate": "2025-02-23T10:46:22.011Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
