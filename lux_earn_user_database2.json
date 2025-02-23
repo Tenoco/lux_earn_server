@@ -6459,11 +6459,12 @@
         "Freshglow",
         "Olaade ",
         "Nomcy25",
-        "Ayo"
+        "Ayo",
+        "igiegbowa Victoria "
       ],
       "balance": 138,
-      "refers": 87,
-      "referralBalance": 8700,
+      "refers": 88,
+      "referralBalance": 8800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30661,6 +30662,21 @@
       "joinDate": "2025-02-23T19:46:03.419Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "igiegbowa Victoria ",
+      "email": "igiegbowavictoria@gmail.com",
+      "encrypted_password": "f9d7a51be361ea75eae17fccd30bcbf4",
+      "referral_code": "IG8FL",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:46:24.297Z"
     }
   ],
   "withdrawals": [
