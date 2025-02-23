@@ -18896,11 +18896,12 @@
       "inviter_username": null,
       "invited_users": [
         "ayanwaleadewale14@gmail.com",
-        "Sarafc"
+        "Sarafc",
+        "Poplysky"
       ],
       "balance": 240,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:51:22.896Z",
@@ -24559,7 +24560,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:49:47.250Z"
+      "joinDate": "2025-02-23T12:49:47.250Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Poplysky",
+      "email": "popolyskey@gmail.com",
+      "encrypted_password": "dd0203d3ed6c2f307045d4581fa1315c",
+      "referral_code": "PO0AW",
+      "inviter_referral_code": "JOFDD",
+      "inviter_username": "Jormah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:50:05.564Z"
     }
   ],
   "withdrawals": [
