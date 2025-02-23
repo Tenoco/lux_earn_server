@@ -26176,11 +26176,12 @@
         "CrystalMediaTv",
         "Mikkolee1",
         "Imewiser ",
-        "Comedianramadan"
+        "Comedianramadan",
+        "Blackjesus"
       ],
       "balance": 192,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -26823,6 +26824,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Blackjesus",
+      "email": "dola25936@gmail.com",
+      "encrypted_password": "1de486f8c048c28029699199851cc71e",
+      "referral_code": "BLDMQ",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:47:23.746Z"
     }
   ],
   "withdrawals": [
