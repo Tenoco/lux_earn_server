@@ -19958,11 +19958,12 @@
         "Marv766",
         "Omotayo647383726",
         "Divine ",
-        "Best"
+        "Best",
+        "Khalifa111"
       ],
       "balance": 275,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:02:21.760Z",
@@ -20478,6 +20479,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Khalifa111",
+      "email": "saheediabdulkareem@gmail.com",
+      "encrypted_password": "512c18e498422cefea4e6763936f278c",
+      "referral_code": "KHXN2",
+      "inviter_referral_code": "HOEJH",
+      "inviter_username": "Hoyadeji",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:45:19.019Z"
     }
   ],
   "withdrawals": [
