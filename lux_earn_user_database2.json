@@ -11791,7 +11791,7 @@
         "donwise",
         "Oderinde Daniel"
       ],
-      "balance": 241,
+      "balance": 263,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -11813,7 +11813,7 @@
         9,
         8
       ],
-      "lastSpin": "2025-02-22T19:18:49.129Z"
+      "lastSpin": "2025-02-23T23:20:57.901Z"
     },
     {
       "username": "Haywhy",
@@ -34051,7 +34051,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T23:20:48.956Z"
+      "joinDate": "2025-02-23T23:20:48.956Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
