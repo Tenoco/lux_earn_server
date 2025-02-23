@@ -13809,11 +13809,12 @@
         "Remeh",
         "Graceysparks",
         "E_square55",
-        "Zainabu"
+        "Zainabu",
+        "Kehinde"
       ],
       "balance": 0,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -29094,6 +29095,21 @@
       "joinDate": "2025-02-23T17:25:19.645Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kehinde",
+      "email": "oyekehinde6@gmail.com",
+      "encrypted_password": "d916b8aefcb6c41a645ecce6c6890c91",
+      "referral_code": "KEKXW",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:26:35.106Z"
     }
   ],
   "withdrawals": [
