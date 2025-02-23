@@ -26919,11 +26919,12 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [
-        "Adeniyi Adeola Hephzibah"
+        "Adeniyi Adeola Hephzibah",
+        "Ebunoluwa "
       ],
       "balance": 180,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:38:49.484Z",
@@ -30426,6 +30427,21 @@
       "joinDate": "2025-02-23T19:28:09.748Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ebunoluwa ",
+      "email": "adekoyaebunlomo@gmail.com",
+      "encrypted_password": "df2a0a74f18eaee98ec579d7946d6acf",
+      "referral_code": "EBU1X",
+      "inviter_referral_code": "MIA7Z",
+      "inviter_username": "Mikkolee1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:30:16.274Z"
     }
   ],
   "withdrawals": [
