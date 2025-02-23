@@ -16258,11 +16258,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Chris43415"
+        "Chris43415",
+        "John4333"
       ],
       "balance": 230,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16334,6 +16335,21 @@
       "joinDate": "2025-02-23T01:00:20.878Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T01:01:34.138Z"
+    },
+    {
+      "username": "John4333",
+      "email": "charlotteden@gmail.com",
+      "encrypted_password": "ec5a25dc67d48d534cfeb762e522e8da",
+      "referral_code": "JOKQ0",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:01:59.836Z"
     }
   ],
   "withdrawals": [
