@@ -23021,11 +23021,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "mikumoosamu"
+        "mikumoosamu",
+        "hhhhh"
       ],
       "balance": 285,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:29:31.033Z",
@@ -23434,6 +23435,21 @@
       "joinDate": "2025-02-23T11:47:25.713Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "hhhhh",
+      "email": "olanide81@gmail.com",
+      "encrypted_password": "5d793fc5b00a2348c3fb9ab59e5ca98a",
+      "referral_code": "HHQL4",
+      "inviter_referral_code": "GHPUW",
+      "inviter_username": "ghgc",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:50:31.504Z"
     }
   ],
   "withdrawals": [
