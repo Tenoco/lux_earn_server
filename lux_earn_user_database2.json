@@ -10487,11 +10487,12 @@
       "invited_users": [
         "Khemsy",
         "Sarah ",
-        "OSVMEDIA"
+        "OSVMEDIA",
+        "Wahab"
       ],
       "balance": 40,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -16931,6 +16932,21 @@
       "joinDate": "2025-02-23T03:05:39.724Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T03:07:38.969Z"
+    },
+    {
+      "username": "Wahab",
+      "email": "qwahab59@gmail.com",
+      "encrypted_password": "2c016676e3744dc75aa38a1ee55c5860",
+      "referral_code": "WA31C",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T03:30:02.319Z"
     }
   ],
   "withdrawals": [
