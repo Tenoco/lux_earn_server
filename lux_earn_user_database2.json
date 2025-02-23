@@ -13534,11 +13534,12 @@
         "ChocoMarley ",
         "Wisdom chidiebere ",
         "Micho",
-        "Sunny4404"
+        "Sunny4404",
+        "Nagato "
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -21042,7 +21043,8 @@
         2,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Habosede2002",
@@ -21077,6 +21079,21 @@
       "joinDate": "2025-02-23T09:14:27.570Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nagato ",
+      "email": "akpanpatrick028@gmail.com",
+      "encrypted_password": "5a95bec28154ea956aa1824e612aee27",
+      "referral_code": "NAFFQ",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:15:05.467Z"
     }
   ],
   "withdrawals": [
