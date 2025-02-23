@@ -33414,7 +33414,7 @@
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
       "invited_users": [],
-      "balance": 182,
+      "balance": 212,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33431,7 +33431,9 @@
         15,
         10,
         11,
-        12
+        12,
+        13,
+        14
       ],
       "lastSpin": "2025-02-23T22:25:26.528Z"
     },
@@ -33539,7 +33541,8 @@
         1,
         14,
         13
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mark777",
