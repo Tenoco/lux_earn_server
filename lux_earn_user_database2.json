@@ -10090,7 +10090,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 540,
+      "balance": 580,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10133,7 +10133,9 @@
         8,
         8,
         8,
-        8
+        8,
+        9,
+        9
       ],
       "lastSpin": null
     },
