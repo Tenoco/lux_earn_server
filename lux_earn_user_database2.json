@@ -6464,11 +6464,12 @@
         "Ufuoskzoo ",
         "Fyne",
         "Ayomide timilehin ",
-        "Israel temitope "
+        "Israel temitope ",
+        "Bsmart7 "
       ],
       "balance": 138,
-      "refers": 92,
-      "referralBalance": 9200,
+      "refers": 93,
+      "referralBalance": 9300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30884,10 +30885,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:58:43.007Z",
-      "lastSpin": "2025-02-23T20:03:02.319Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-23T20:03:02.319Z"
     },
     {
       "username": "Ibn wakil001",
@@ -30975,6 +30976,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Bsmart7 ",
+      "email": "ovohkeukrakpo@gmail.com",
+      "encrypted_password": "c6d828c9ac5eacdb373c8ee8f77d4532",
+      "referral_code": "BS1R4",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:04:32.669Z"
     }
   ],
   "withdrawals": [
