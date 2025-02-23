@@ -27211,13 +27211,25 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:08:04.031Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        6,
+        7,
+        12,
+        14,
+        10,
+        11
+      ],
       "lastSpin": null
     },
     {
@@ -27267,7 +27279,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:11:08.582Z"
+      "joinDate": "2025-02-23T15:11:08.582Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
