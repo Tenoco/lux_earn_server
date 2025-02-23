@@ -26620,14 +26620,14 @@
       "inviter_referral_code": "HELL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:36:53.436Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T15:34:56.847Z"
     },
     {
       "username": "Mikkolee1",
@@ -27569,6 +27569,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:32:01.295Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T15:33:46.040Z"
     },
     {
