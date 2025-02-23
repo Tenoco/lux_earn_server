@@ -31744,7 +31744,7 @@
       "inviter_referral_code": "IBPK8",
       "inviter_username": "Ibn wakil001",
       "invited_users": [],
-      "balance": 70,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31755,7 +31755,8 @@
         6,
         5,
         16,
-        4
+        4,
+        15
       ],
       "lastSpin": null
     },
@@ -31897,7 +31898,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:39:36.413Z"
+      "joinDate": "2025-02-23T20:39:36.413Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
