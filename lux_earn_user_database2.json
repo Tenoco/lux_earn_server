@@ -6475,11 +6475,12 @@
         "Casmirdaniel",
         "Timothy1",
         "Victors3450",
-        "Idenyi20"
+        "Idenyi20",
+        "Estheretim"
       ],
       "balance": 138,
-      "refers": 100,
-      "referralBalance": 10000,
+      "refers": 101,
+      "referralBalance": 10100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32228,11 +32229,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32528,6 +32529,21 @@
       "joinDate": "2025-02-23T21:13:31.032Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T21:14:02.536Z"
+    },
+    {
+      "username": "Estheretim",
+      "email": "etimesther356@gmail.com",
+      "encrypted_password": "93cba5f96307c8d577785a0e339cce41",
+      "referral_code": "ESK7N",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:14:33.013Z"
     }
   ],
   "withdrawals": [
