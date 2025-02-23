@@ -24882,7 +24882,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 303,
+      "balance": 363,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24899,7 +24899,10 @@
         2,
         11,
         10,
-        14
+        14,
+        14,
+        14,
+        12
       ],
       "lastSpin": "2025-02-23T13:10:01.252Z"
     },
@@ -25168,7 +25171,8 @@
         5,
         4,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "VanDijk",
