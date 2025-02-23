@@ -2005,10 +2005,12 @@
       "referral_code": "IBNZI",
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "skylord ozovehe"
+      ],
       "balance": 42,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 1000,
       "status": "active",
       "joinDate": "2025-02-22T09:23:08.886Z",
@@ -26861,7 +26863,8 @@
         6,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ziggy",
@@ -26966,6 +26969,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "skylord ozovehe",
+      "email": "ibrahimabubakarozovehe@gmail.com",
+      "encrypted_password": "69cdcfc3141df84ae115cf86dce2447f",
+      "referral_code": "SKF3F",
+      "inviter_referral_code": "IBNZI",
+      "inviter_username": "Ibrahim Abubakar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:52:31.652Z"
     }
   ],
   "withdrawals": [
