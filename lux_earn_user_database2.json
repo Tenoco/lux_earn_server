@@ -23821,11 +23821,12 @@
         "Mike",
         "Princess hope ",
         "Quincy ",
-        "Oluwasimi1234"
+        "Oluwasimi1234",
+        "Elijah"
       ],
       "balance": 191,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:58:59.778Z",
@@ -27282,6 +27283,21 @@
       "joinDate": "2025-02-23T15:11:08.582Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Elijah",
+      "email": "oluwaseunadesua33@gmail.com",
+      "encrypted_password": "e3de43c761e77f850501b0013514f009",
+      "referral_code": "EL6RI",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:11:51.091Z"
     }
   ],
   "withdrawals": [
