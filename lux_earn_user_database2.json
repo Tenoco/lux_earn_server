@@ -26309,10 +26309,12 @@
       "referral_code": "GOFOU",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Njideka "
+      ],
       "balance": 120,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -27251,6 +27253,21 @@
       "joinDate": "2025-02-23T15:10:43.806Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Njideka ",
+      "email": "maryyardly@gmail.com",
+      "encrypted_password": "9952258fe47b1574b4a0b963b4e1b3bc",
+      "referral_code": "NJ9MU",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:11:08.582Z"
     }
   ],
   "withdrawals": [
