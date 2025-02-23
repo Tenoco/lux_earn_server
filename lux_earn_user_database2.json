@@ -33418,7 +33418,35 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:24:59.607Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T22:25:26.528Z"
+    },
+    {
+      "username": "Leo",
+      "email": "lesstray87@gmail.com",
+      "encrypted_password": "d258547a2afd1438d13768aad79f8cce",
+      "referral_code": "LE4C8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 270,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:54:04.219Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-21T09:01:24.996Z"
     }
   ],
   "withdrawals": [
