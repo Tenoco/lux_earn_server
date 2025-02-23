@@ -26581,7 +26581,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 40,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26590,9 +26590,16 @@
       "completedMissions": [
         1,
         2,
-        4
-      ],
-      "lastSpin": null
+        4,
+        5,
+        5,
+        6,
+        7,
+        12,
+        14,
+        14,
+        10
+      ]
     },
     {
       "username": "Michael ltv",
@@ -26746,7 +26753,8 @@
       "joinDate": "2025-02-23T14:44:09.889Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Comedianramadan",
