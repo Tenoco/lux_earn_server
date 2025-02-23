@@ -2105,7 +2105,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1170,
+      "balance": 1195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2123,7 +2123,7 @@
         9,
         10
       ],
-      "lastSpin": "2025-02-22T09:30:10.776Z"
+      "lastSpin": "2025-02-23T15:44:10.119Z"
     },
     {
       "username": "Mannyrichie ",
@@ -27690,7 +27690,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:44:01.831Z"
+      "joinDate": "2025-02-23T15:44:01.831Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
