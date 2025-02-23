@@ -18387,13 +18387,15 @@
       "inviter_referral_code": "QUNC3",
       "inviter_username": "Quadriano",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:37:52.914Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14
+      ],
       "lastSpin": null
     },
     {
