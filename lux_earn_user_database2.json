@@ -18870,14 +18870,15 @@
       "inviter_referral_code": "KEKSN",
       "inviter_username": "Kezie313",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:08:51.839Z",
       "completedMissions": [
-        5
+        5,
+        11
       ]
     },
     {
