@@ -24337,14 +24337,13 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:36:53.968Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T12:40:39.554Z"
     },
     {
       "username": "Gabifez ",
@@ -24359,7 +24358,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T12:40:40.883Z"
+      "joinDate": "2025-02-23T12:40:40.883Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
