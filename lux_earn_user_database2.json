@@ -6285,11 +6285,12 @@
         "Godschild",
         "Victorpara",
         "@Browndy",
-        "Banny"
+        "Banny",
+        "Makelemibrilliamt"
       ],
       "balance": 138,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -20992,6 +20993,21 @@
         9
       ],
       "lastSpin": "2025-02-21T10:31:21.359Z"
+    },
+    {
+      "username": "Makelemibrilliamt",
+      "email": "bellsmaxwell7@gmail.com",
+      "encrypted_password": "eb852354a3ca6b470c35c6f2cb9b8f81",
+      "referral_code": "MAGVZ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:11:02.842Z"
     }
   ],
   "withdrawals": [
