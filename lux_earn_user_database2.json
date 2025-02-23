@@ -21841,7 +21841,7 @@
         "Emmanuelemmzy",
         "Marc"
       ],
-      "balance": 270,
+      "balance": 290,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -21856,7 +21856,8 @@
         6,
         7,
         8,
-        9
+        9,
+        14
       ],
       "lastSpin": null
     },
@@ -21873,7 +21874,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:15:37.179Z"
+      "joinDate": "2025-02-23T10:15:37.179Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
