@@ -14061,11 +14061,12 @@
         "Thief",
         "Jonnyyy",
         "Joker",
-        "Yomi"
+        "Yomi",
+        "Trevore"
       ],
       "balance": 230,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:12:17.460Z",
@@ -32840,6 +32841,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Trevore",
+      "email": "trevokill@gmail.com",
+      "encrypted_password": "d801a0b4701f64a0eae5f71f44f8d83f",
+      "referral_code": "TR2JS",
+      "inviter_referral_code": "JIZUB",
+      "inviter_username": "Jijang ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:32:17.333Z"
     }
   ],
   "withdrawals": [
