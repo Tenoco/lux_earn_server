@@ -24438,11 +24438,12 @@
       "inviter_username": null,
       "invited_users": [
         "Cam bro",
-        "Dvex gee"
+        "Dvex gee",
+        "Jee dem"
       ],
       "balance": 140,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:41:25.278Z",
@@ -25025,6 +25026,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Jee dem",
+      "email": "chikboy60@gmail.com",
+      "encrypted_password": "555fd4aa37a7618f482e6ad0c5baeb37",
+      "referral_code": "JED52",
+      "inviter_referral_code": "BNSFP",
+      "inviter_username": "BNBFUND ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:16:57.615Z"
     }
   ],
   "withdrawals": [
