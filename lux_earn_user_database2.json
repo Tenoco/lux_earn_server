@@ -20227,7 +20227,29 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:28:10.894Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T08:28:28.575Z"
+    },
+    {
+      "username": "Alim",
+      "email": "mustaphahaleem8@gmail.com",
+      "encrypted_password": "c7d15d30b961acd6d599f52868cd26fe",
+      "referral_code": "ALIC1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Lekan"
+      ],
+      "balance": 52,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:02:50.659Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-21T11:03:15.520Z"
     }
   ],
   "withdrawals": [
