@@ -28526,7 +28526,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 20,
+      "balance": 142,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28534,9 +28534,14 @@
       "joinDate": "2025-02-23T16:36:25.003Z",
       "completedMissions": [
         1,
-        2
+        2,
+        16,
+        15,
+        13,
+        14,
+        14
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T16:44:12.926Z"
     },
     {
       "username": "Kareem ",
