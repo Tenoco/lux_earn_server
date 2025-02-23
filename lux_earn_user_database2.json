@@ -20906,7 +20906,7 @@
       "inviter_referral_code": "RAA8G",
       "inviter_username": "Rashmoney",
       "invited_users": [],
-      "balance": 288,
+      "balance": 318,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20924,7 +20924,7 @@
         2,
         3
       ],
-      "lastSpin": "2025-02-21T09:11:38.226Z"
+      "lastSpin": "2025-02-23T09:07:55.910Z"
     },
     {
       "username": "Oyewmenosa ",
@@ -20939,7 +20939,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:08:02.023Z"
+      "joinDate": "2025-02-23T09:08:02.023Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
