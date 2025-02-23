@@ -24445,11 +24445,12 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": null,
       "invited_users": [
-        "Hallelujah "
+        "Hallelujah ",
+        "Beatrix"
       ],
       "balance": 1,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:05:14.349Z",
@@ -31615,6 +31616,21 @@
       "joinDate": "2025-02-23T20:34:07.942Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Beatrix",
+      "email": "beatricefamoriyo@gmail.com",
+      "encrypted_password": "d26e0ac97c938847d20ad08b9bd8c063",
+      "referral_code": "BEB4I",
+      "inviter_referral_code": "JOKPS",
+      "inviter_username": "Josephine ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:34:44.335Z"
     }
   ],
   "withdrawals": [
