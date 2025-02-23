@@ -33413,14 +33413,16 @@
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
       "invited_users": [],
-      "balance": 22,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:24:59.607Z",
       "completedMissions": [
-        2
+        2,
+        1,
+        4
       ],
       "lastSpin": "2025-02-23T22:25:26.528Z"
     },
@@ -33487,7 +33489,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T22:31:46.693Z"
+      "joinDate": "2025-02-23T22:31:46.693Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
