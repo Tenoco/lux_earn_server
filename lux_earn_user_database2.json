@@ -13087,11 +13087,12 @@
         "Nosarex0",
         "danky",
         "fmdollar",
-        "Bigmatix"
+        "Bigmatix",
+        "mahnbullet"
       ],
       "balance": 112,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:05.111Z",
@@ -23371,6 +23372,21 @@
         11
       ],
       "lastSpin": null
+    },
+    {
+      "username": "mahnbullet",
+      "email": "abubakaraduwa702@gmail.com",
+      "encrypted_password": "1c599702af6d3399c824ad2914ea5077",
+      "referral_code": "MAQIO",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": "kingrroggis",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:46:19.159Z"
     }
   ],
   "withdrawals": [
