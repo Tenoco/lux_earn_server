@@ -6342,11 +6342,12 @@
         "Emmrick",
         "Ling smart",
         "Muhd aminu",
-        "Tochek"
+        "Tochek",
+        "diniharunaali"
       ],
       "balance": 138,
-      "refers": 41,
-      "referralBalance": 4100,
+      "refers": 42,
+      "referralBalance": 4200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24561,6 +24562,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:49:47.250Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T12:51:02.741Z"
     },
     {
@@ -24579,6 +24581,21 @@
       "joinDate": "2025-02-23T12:50:05.564Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "diniharunaali",
+      "email": "diniharunaali@gmail.com",
+      "encrypted_password": "ac257c7a290d75d29208a45f3873d72f",
+      "referral_code": "DISRA",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:52:20.110Z"
     }
   ],
   "withdrawals": [
