@@ -26522,11 +26522,12 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [
-        "Hellah"
+        "Hellah",
+        "Enndybrown"
       ],
       "balance": 130,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T05:04:28.825Z",
@@ -26605,7 +26606,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:40:19.020Z"
+      "joinDate": "2025-02-23T14:40:19.020Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Enndybrown",
+      "email": "ibukunenoch16@gmail.com",
+      "encrypted_password": "a9616678cef60d8a57b9c8ae4cf2ae1c",
+      "referral_code": "ENQV5",
+      "inviter_referral_code": "FIDTX",
+      "inviter_username": "Firstmanoneart",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:41:02.522Z"
     }
   ],
   "withdrawals": [
