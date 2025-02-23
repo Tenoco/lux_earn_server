@@ -23547,7 +23547,7 @@
         "Quincy ",
         "Oluwasimi1234"
       ],
-      "balance": 121,
+      "balance": 131,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -23559,7 +23559,8 @@
         10,
         4,
         8,
-        5
+        5,
+        11
       ],
       "lastSpin": "2025-02-22T12:54:20.361Z"
     },
@@ -23588,7 +23589,8 @@
         1,
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "FMUSK",
