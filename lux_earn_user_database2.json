@@ -25361,11 +25361,12 @@
       "inviter_username": "Davolee001",
       "invited_users": [
         "Jessiewest",
-        "AZAMAN "
+        "AZAMAN ",
+        "Tofunmi 1"
       ],
       "balance": 160,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:28:52.257Z",
@@ -27548,7 +27549,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:31:09.062Z"
+      "joinDate": "2025-02-23T15:31:09.062Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tofunmi 1",
+      "email": "emmanueltopeagbaje@gmail.com",
+      "encrypted_password": "8cec10bc9dda138c4549a3f2e0ee5b0c",
+      "referral_code": "TO38T",
+      "inviter_referral_code": "VAGJR",
+      "inviter_username": "VanDijk",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:32:01.295Z"
     }
   ],
   "withdrawals": [
