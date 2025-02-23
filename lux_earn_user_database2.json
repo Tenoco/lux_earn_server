@@ -27531,7 +27531,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T15:31:24.774Z"
+      "joinDate": "2025-02-23T15:31:24.774Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomide ",
+      "email": "ayomideadebayo2609@gmail.com",
+      "encrypted_password": "e025f20118ad3fc42ed6f7ab2fb7a570",
+      "referral_code": "AY9AI",
+      "inviter_referral_code": "LUTF3",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:31:09.062Z"
     }
   ],
   "withdrawals": [
