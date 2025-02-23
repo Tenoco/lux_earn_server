@@ -13663,11 +13663,12 @@
         "Nagato ",
         "Priscycella",
         "Iremide@03",
-        "Remeh"
+        "Remeh",
+        "Graceysparks"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -24313,6 +24314,21 @@
         3
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Graceysparks",
+      "email": "samuelgrace391@gmail.com",
+      "encrypted_password": "8a821d8cf0bfed306882cf5ce0407462",
+      "referral_code": "GR2LM",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:36:53.968Z"
     }
   ],
   "withdrawals": [
