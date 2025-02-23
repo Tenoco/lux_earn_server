@@ -20440,7 +20440,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20449,9 +20449,9 @@
       "completedMissions": [
         2,
         2,
-        1
-      ],
-      "lastSpin": null
+        1,
+        4
+      ]
     },
     {
       "username": "Tikiabtc",
