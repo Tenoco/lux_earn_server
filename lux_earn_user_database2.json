@@ -14554,7 +14554,7 @@
       "inviter_referral_code": "NNY48",
       "inviter_username": "Nne",
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14566,7 +14566,8 @@
         2,
         4,
         5,
-        16
+        16,
+        15
       ],
       "lastSpin": null
     },
