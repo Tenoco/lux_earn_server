@@ -20503,10 +20503,12 @@
       "referral_code": "GOFXX",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Kole147"
+      ],
       "balance": 150,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:44:34.470Z",
@@ -21352,7 +21354,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T09:37:57.908Z"
+    },
+    {
+      "username": "Kole147",
+      "email": "ajiegbe12345@gmail.com",
+      "encrypted_password": "e1e91fce31b24351e265af889b94ba03",
+      "referral_code": "KOE03",
+      "inviter_referral_code": "GOFXX",
+      "inviter_username": "Godschild",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:38:07.079Z"
     }
   ],
   "withdrawals": [
