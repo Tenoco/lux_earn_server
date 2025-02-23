@@ -19641,14 +19641,17 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
       "invited_users": [],
-      "balance": 11,
+      "balance": 61,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:41:41.922Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        5
       ],
       "lastSpin": "2025-02-23T08:31:58.426Z"
     },
@@ -21604,7 +21607,8 @@
       "joinDate": "2025-02-23T09:54:47.003Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yemcee",
