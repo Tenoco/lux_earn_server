@@ -18139,7 +18139,7 @@
       "inviter_referral_code": "HO189",
       "inviter_username": "Holar",
       "invited_users": [],
-      "balance": 32,
+      "balance": 152,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18147,7 +18147,14 @@
       "joinDate": "2025-02-23T06:22:42.402Z",
       "completedMissions": [
         2,
-        1
+        1,
+        5,
+        6,
+        7,
+        8,
+        9,
+        9,
+        10
       ],
       "lastSpin": "2025-02-23T06:23:14.396Z"
     },
@@ -18384,7 +18391,8 @@
       "joinDate": "2025-02-23T06:38:34.364Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
