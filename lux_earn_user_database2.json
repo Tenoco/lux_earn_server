@@ -32877,7 +32877,7 @@
       "inviter_referral_code": "BLDMQ",
       "inviter_username": "Blackjesus",
       "invited_users": [],
-      "balance": 170,
+      "balance": 192,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32896,7 +32896,7 @@
         12,
         13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T21:52:13.615Z"
     },
     {
       "username": "TIZZY001",
@@ -33056,7 +33056,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:51:06.351Z"
+      "joinDate": "2025-02-23T21:51:06.351Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
