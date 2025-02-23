@@ -22938,6 +22938,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:25:22.556Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T11:27:58.967Z"
     },
     {
@@ -22956,6 +22957,35 @@
       "joinDate": "2025-02-21T08:34:06.891Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T11:26:30.532Z"
+    },
+    {
+      "username": "SuccessfulEhdee ",
+      "email": "successfulehdee234@gmail.com",
+      "encrypted_password": "97a442bac82eab1ac565114ac8223d7a",
+      "referral_code": "SU4B5",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Aibeeyusufk",
+        "Avwero",
+        "Bigmide1912",
+        "Omomide1",
+        "wisdom",
+        "Natsume ",
+        "Brainiac"
+      ],
+      "balance": 60,
+      "refers": 7,
+      "referralBalance": 700,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:18:55.507Z",
+      "completedMissions": [
+        1,
+        2,
+        14
+      ],
+      "lastSpin": "2025-02-23T09:09:48.047Z"
     }
   ],
   "withdrawals": [
