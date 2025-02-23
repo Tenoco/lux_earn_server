@@ -344,11 +344,12 @@
         "Rita70",
         "Ralphyla",
         "Merchant",
-        "Megaxplurs"
+        "Megaxplurs",
+        "Efosa45"
       ],
       "balance": 152,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T07:02:08.022Z",
@@ -17629,7 +17630,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:43:04.863Z"
+      "joinDate": "2025-02-23T05:43:04.863Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Efosa45",
+      "email": "efosa45@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "EF6CI",
+      "inviter_referral_code": "CHN20",
+      "inviter_username": "Chosenralph",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T05:44:13.027Z"
     }
   ],
   "withdrawals": [
