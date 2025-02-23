@@ -19728,7 +19728,8 @@
         2,
         4,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kemi",
@@ -20019,6 +20020,26 @@
       "status": "active",
       "joinDate": "2025-02-23T08:11:35.582Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Moses money ",
+      "email": "juniormoses255@gmail.com",
+      "encrypted_password": "809d7aea9eacf339b2e35e3c8ae0a57c",
+      "referral_code": "MOG30",
+      "inviter_referral_code": "COS2L",
+      "inviter_username": "CoachNick",
+      "invited_users": [],
+      "balance": 60,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:35:05.002Z",
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     }
   ],
