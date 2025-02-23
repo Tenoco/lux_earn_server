@@ -16740,7 +16740,23 @@
       "joinDate": "2025-02-23T01:56:15.198Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Esume12",
+      "email": "esumerichard458@gmail.com",
+      "encrypted_password": "58b4e38f66bcdb546380845d6af27187",
+      "referral_code": "ES26Y",
+      "inviter_referral_code": "0s6af",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:58:48.896Z"
     }
   ],
   "withdrawals": [
