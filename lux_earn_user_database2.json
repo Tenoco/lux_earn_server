@@ -6339,11 +6339,12 @@
         "GIFTED ",
         "Emmrick",
         "Ling smart",
-        "Muhd aminu"
+        "Muhd aminu",
+        "Tochek"
       ],
       "balance": 138,
-      "refers": 40,
-      "referralBalance": 4000,
+      "refers": 41,
+      "referralBalance": 4100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -24240,6 +24241,21 @@
         11
       ],
       "lastSpin": "2025-02-22T12:59:54.315Z"
+    },
+    {
+      "username": "Tochek",
+      "email": "okereketochek@gmail.com",
+      "encrypted_password": "f6ff319b2c047cf017fbfcc298ce3d21",
+      "referral_code": "TOZ8D",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T12:34:35.207Z"
     }
   ],
   "withdrawals": [
