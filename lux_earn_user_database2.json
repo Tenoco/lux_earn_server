@@ -6506,11 +6506,12 @@
         "Henr555",
         "Annastasia",
         "Oscar",
-        "Chinasa "
+        "Chinasa ",
+        "Option "
       ],
       "balance": 138,
-      "refers": 117,
-      "referralBalance": 11700,
+      "refers": 118,
+      "referralBalance": 11800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34117,6 +34118,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Option ",
+      "email": "chikitofair@gmail.com",
+      "encrypted_password": "40c8ce053697d1c94c1232a8f2574350",
+      "referral_code": "OPQEE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:27:58.832Z"
     }
   ],
   "withdrawals": [
