@@ -9909,11 +9909,12 @@
         "Oyinbo abosede",
         "Samuel",
         "Oyewmenosa ",
-        "MrJinkin"
+        "MrJinkin",
+        "moruff"
       ],
       "balance": 341,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -21232,6 +21233,21 @@
       "joinDate": "2025-02-23T09:24:06.916Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T09:24:35.831Z"
+    },
+    {
+      "username": "moruff",
+      "email": "oyekunlemoruff495@gmail.com",
+      "encrypted_password": "00ce848d4b353275420bf6636a9fca51",
+      "referral_code": "MOQWG",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:28:38.084Z"
     }
   ],
   "withdrawals": [
