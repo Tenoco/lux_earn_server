@@ -29339,7 +29339,7 @@
       "inviter_referral_code": "BKSF9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29352,7 +29352,8 @@
         5,
         6,
         7,
-        14
+        14,
+        10
       ],
       "lastSpin": null
     },
