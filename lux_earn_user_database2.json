@@ -3897,11 +3897,12 @@
       "invited_users": [
         "Patient ",
         "EmmanuellaOdun",
-        "innocent69"
+        "innocent69",
+        "Marvis"
       ],
       "balance": 1010,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -28863,6 +28864,21 @@
       "joinDate": "2025-02-23T17:05:08.724Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Marvis",
+      "email": "okoromarvelous290@gmail.com",
+      "encrypted_password": "694aadff4e3e4cefdf93d7bd3f1d57bb",
+      "referral_code": "MAXWO",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:10:43.793Z"
     }
   ],
   "withdrawals": [
