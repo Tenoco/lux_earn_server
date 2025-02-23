@@ -33052,14 +33052,16 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 11,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:51:06.351Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T21:52:11.681Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Focus ",
@@ -33074,7 +33076,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:53:26.394Z"
+      "joinDate": "2025-02-23T21:53:26.394Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
