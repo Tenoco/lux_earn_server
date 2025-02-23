@@ -18716,11 +18716,12 @@
         "ECOM Legend ",
         "Pro Mary ",
         "Adegboye najim90",
-        "Clinton Evalsam1w"
+        "Clinton Evalsam1w",
+        "ecom legend0"
       ],
       "balance": 240,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -32019,6 +32020,21 @@
       "joinDate": "2025-02-23T20:45:07.367Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ecom legend0",
+      "email": "ecomlegend080@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "EC9KR",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:46:09.333Z"
     }
   ],
   "withdrawals": [
