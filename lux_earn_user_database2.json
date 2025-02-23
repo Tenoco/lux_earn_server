@@ -12252,11 +12252,12 @@
       "inviter_referral_code": "QURTI",
       "inviter_username": "Quadriano ",
       "invited_users": [
-        "Angel997"
+        "Angel997",
+        "Bright13"
       ],
       "balance": 232,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:14:28.503Z",
@@ -25912,6 +25913,21 @@
       "joinDate": "2025-02-23T13:54:05.396Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bright13",
+      "email": "brightoloh7@gmail.com",
+      "encrypted_password": "9b656c1d3c3b34b8f4c99564ef8a0e6b",
+      "referral_code": "BRIEW",
+      "inviter_referral_code": "AY4HA",
+      "inviter_username": "Ayanwole",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:55:29.775Z"
     }
   ],
   "withdrawals": [
