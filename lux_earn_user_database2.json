@@ -26565,14 +26565,15 @@
       "inviter_referral_code": "DA1ZN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:34:59.658Z",
       "completedMissions": [
-        1
+        1,
+        11
       ],
       "lastSpin": "2025-02-23T14:38:27.671Z"
     },
