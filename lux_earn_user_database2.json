@@ -6473,11 +6473,12 @@
         "Uniquexkid ",
         "Nwuba ",
         "Casmirdaniel",
-        "Timothy1"
+        "Timothy1",
+        "Victors3450"
       ],
       "balance": 138,
-      "refers": 98,
-      "referralBalance": 9800,
+      "refers": 99,
+      "referralBalance": 9900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32193,7 +32194,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:58:21.176Z"
+      "joinDate": "2025-02-23T20:58:21.176Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Victors3450",
+      "email": "enjoyrelationship12@gmail.com",
+      "encrypted_password": "bfc091f833b3ead0a0599c89eb714a03",
+      "referral_code": "VIUB7",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:59:04.996Z"
     }
   ],
   "withdrawals": [
