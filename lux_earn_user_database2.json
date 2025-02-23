@@ -18572,7 +18572,8 @@
         9,
         5,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dandee ",
@@ -18633,7 +18634,7 @@
       "inviter_referral_code": "FALIV",
       "inviter_username": "Fawaz08",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18641,9 +18642,9 @@
       "joinDate": "2025-02-23T06:55:41.920Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Teetaiwo",
