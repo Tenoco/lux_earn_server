@@ -18792,11 +18792,12 @@
         "abdul",
         "abdulra",
         "labdullahu",
-        "musac"
+        "musac",
+        "abdulrahmanu"
       ],
       "balance": 91,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T00:19:47.092Z",
@@ -18887,7 +18888,8 @@
         4,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "labdullahu",
@@ -18956,6 +18958,21 @@
       "joinDate": "2025-02-23T07:14:06.808Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "abdulrahmanu",
+      "email": "abdulrahmanhabeeb809@gmail.com",
+      "encrypted_password": "467b617fec4d9fcb63505734ee224851",
+      "referral_code": "ABQ0R",
+      "inviter_referral_code": "ABCKI",
+      "inviter_username": "abdulrahman ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:15:31.542Z"
     }
   ],
   "withdrawals": [
