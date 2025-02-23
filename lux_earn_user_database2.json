@@ -20919,7 +20919,7 @@
       "inviter_referral_code": "Copy dis before clicking on the link oooo",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20927,7 +20927,8 @@
       "joinDate": "2025-02-23T08:54:11.064Z",
       "completedMissions": [
         5,
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
