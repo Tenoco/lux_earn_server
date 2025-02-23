@@ -6259,11 +6259,12 @@
         "Hsjsndjdndndjd4",
         "Hdhdjdjdur30",
         "Fawaz08",
-        "Toyin Gatta "
+        "Toyin Gatta ",
+        "Quadri smart"
       ],
       "balance": 138,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -18569,7 +18570,8 @@
         2,
         9,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dandee ",
@@ -18706,6 +18708,21 @@
       "joinDate": "2025-02-23T07:00:26.825Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T07:00:43.046Z"
+    },
+    {
+      "username": "Quadri smart",
+      "email": "quadrikamorudeen416@gmail.com",
+      "encrypted_password": "5379884c5ec4e06879f7400fd40be0d9",
+      "referral_code": "QU52E",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T07:01:30.929Z"
     }
   ],
   "withdrawals": [
