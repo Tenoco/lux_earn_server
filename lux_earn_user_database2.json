@@ -24236,10 +24236,12 @@
       "referral_code": "ROA8Y",
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
-      "invited_users": [],
+      "invited_users": [
+        "Anita"
+      ],
       "balance": 30,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:27:52.552Z",
@@ -25300,6 +25302,21 @@
         7
       ],
       "lastSpin": "2025-02-21T07:59:34.267Z"
+    },
+    {
+      "username": "Anita",
+      "email": "Aiyamenkhueanita0@gmail.com",
+      "encrypted_password": "a907d9fc0bdb1df203b89f0a1955ced3",
+      "referral_code": "ANT1V",
+      "inviter_referral_code": "ROA8Y",
+      "inviter_username": "rosylaura775",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:24:51.843Z"
     }
   ],
   "withdrawals": [
