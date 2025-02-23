@@ -20893,7 +20893,37 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T09:07:20.179Z"
+      "joinDate": "2025-02-23T09:07:20.179Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kamo23",
+      "email": "kamorudeenmodupe2@gmail.com",
+      "encrypted_password": "84a89e710b9491bfa61d080f3b060b66",
+      "referral_code": "KA0TC",
+      "inviter_referral_code": "RAA8G",
+      "inviter_username": "Rashmoney",
+      "invited_users": [],
+      "balance": 288,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:09:26.254Z",
+      "completedMissions": [
+        9,
+        8,
+        8,
+        7,
+        6,
+        5,
+        4,
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-21T09:11:38.226Z"
     }
   ],
   "withdrawals": [
