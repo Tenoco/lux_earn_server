@@ -26077,7 +26077,7 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 502,
+      "balance": 552,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26110,7 +26110,10 @@
         10,
         11,
         16,
-        15
+        15,
+        15,
+        15,
+        13
       ],
       "lastSpin": "2025-02-23T19:43:09.210Z"
     },
