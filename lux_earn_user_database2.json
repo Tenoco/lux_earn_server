@@ -25401,11 +25401,12 @@
       "invited_users": [
         "Kundiri ",
         "Rukfah ",
-        "AADANNA "
+        "AADANNA ",
+        "WIS_DOM_JR"
       ],
       "balance": 158,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:15:46.787Z",
@@ -29509,6 +29510,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "WIS_DOM_JR",
+      "email": "kolomuhammadmusa001@gmail.com",
+      "encrypted_password": "e0a4a7776e5830eaf96f2ed39a0de912",
+      "referral_code": "WIDYE",
+      "inviter_referral_code": "AN202",
+      "inviter_username": "Anonymous12",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:23:42.652Z"
     }
   ],
   "withdrawals": [
