@@ -26097,7 +26097,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 290,
+      "balance": 302,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -26114,7 +26114,7 @@
         3,
         5
       ],
-      "lastSpin": "2025-02-21T13:18:09.292Z"
+      "lastSpin": "2025-02-23T14:08:20.932Z"
     },
     {
       "username": "BkGraphics001",
@@ -26129,7 +26129,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:07:59.285Z"
+      "joinDate": "2025-02-23T14:07:59.285Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
