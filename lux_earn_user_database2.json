@@ -11877,14 +11877,14 @@
       "inviter_referral_code": "WINHN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:06:02.382Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T11:52:47.441Z"
     },
     {
       "username": "Uytrrtuu",
@@ -23485,7 +23485,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T11:52:44.511Z"
+      "joinDate": "2025-02-23T11:52:44.511Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
