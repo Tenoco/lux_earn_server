@@ -6484,11 +6484,12 @@
         "Idenyi20",
         "Estheretim",
         "BigWAVE ",
-        "Iamteevibez"
+        "Iamteevibez",
+        "alfuhumy22"
       ],
       "balance": 138,
-      "refers": 103,
-      "referralBalance": 10300,
+      "refers": 104,
+      "referralBalance": 10400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -32241,7 +32242,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:59:04.996Z",
-      "lastSpin": "2025-02-23T21:00:19.439Z",
       "completedMissions": [
         1,
         2,
@@ -32251,7 +32251,8 @@
         6,
         7,
         15
-      ]
+      ],
+      "lastSpin": "2025-02-23T21:00:19.439Z"
     },
     {
       "username": "stellamarris90",
@@ -32722,6 +32723,21 @@
       "joinDate": "2025-02-23T09:27:04.302Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "alfuhumy22",
+      "email": "alfuhumyabdulsalam@gmail.com",
+      "encrypted_password": "260df645f3f516f3623229fa07ac70eb",
+      "referral_code": "ALCCH",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:27:48.023Z"
     }
   ],
   "withdrawals": [
