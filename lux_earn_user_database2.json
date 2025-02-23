@@ -11308,11 +11308,12 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [
-        "Abubakar123"
+        "Abubakar123",
+        "Ibrahim salisu "
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -20784,6 +20785,21 @@
       "joinDate": "2025-02-23T09:01:53.534Z",
       "completedMissions": [],
       "lastSpin": "2025-02-23T09:02:58.099Z"
+    },
+    {
+      "username": "Ibrahim salisu ",
+      "email": "salisibrahim665@gmail.com",
+      "encrypted_password": "76f3c5ffe7dcfd0b14841e7926dd832b",
+      "referral_code": "IBOJU",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:04:12.806Z"
     }
   ],
   "withdrawals": [
