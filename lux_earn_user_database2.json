@@ -26344,11 +26344,26 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:23:58.169Z",
-      "lastSpin": "2025-02-23T14:24:52.711Z",
       "completedMissions": [
         4,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-23T14:24:52.711Z"
+    },
+    {
+      "username": "Isaeyah",
+      "email": "pstbant@gmail.com",
+      "encrypted_password": "b3b615db9d6212aec7277d334a075cda",
+      "referral_code": "ISRJJ",
+      "inviter_referral_code": "Thelight200",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:29:04.508Z"
     }
   ],
   "withdrawals": [
