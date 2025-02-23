@@ -22364,14 +22364,16 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T10:42:40.293Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": null
     },
