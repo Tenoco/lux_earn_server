@@ -12767,7 +12767,7 @@
         "Set26",
         "Aycash"
       ],
-      "balance": 302,
+      "balance": 322,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -12783,7 +12783,8 @@
         6,
         7,
         8,
-        9
+        9,
+        13
       ],
       "lastSpin": "2025-02-21T07:05:31.173Z"
     },
@@ -21794,7 +21795,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T10:07:15.738Z"
+      "joinDate": "2025-02-23T10:07:15.738Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
