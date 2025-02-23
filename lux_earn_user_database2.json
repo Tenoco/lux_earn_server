@@ -30370,10 +30370,12 @@
       "referral_code": "FRRKL",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Zolanihun "
+      ],
       "balance": 90,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:10:19.213Z",
@@ -32680,6 +32682,21 @@
       "joinDate": "2025-02-23T21:22:03.298Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zolanihun ",
+      "email": "meshachayoolaolanihun@gmail.com",
+      "encrypted_password": "a7529af13dddac888066aeb414cc7d8a",
+      "referral_code": "ZOG42",
+      "inviter_referral_code": "FRRKL",
+      "inviter_username": "Freshglow",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:25:14.638Z"
     }
   ],
   "withdrawals": [
