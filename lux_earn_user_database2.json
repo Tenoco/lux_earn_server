@@ -28483,14 +28483,23 @@
       "inviter_referral_code": "FEFKW",
       "inviter_username": "Fearless ",
       "invited_users": [],
-      "balance": 5,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T16:34:27.033Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-23T16:34:46.340Z"
+      "lastSpin": "2025-02-23T16:34:46.340Z",
+      "completedMissions": [
+        2,
+        1,
+        10,
+        5,
+        5,
+        4,
+        6,
+        7
+      ]
     },
     {
       "username": "adedapofaishat@gmail.com",
