@@ -24420,11 +24420,12 @@
       "inviter_referral_code": "AS6AA",
       "inviter_username": null,
       "invited_users": [
-        "Cam bro"
+        "Cam bro",
+        "Dvex gee"
       ],
       "balance": 140,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:41:25.278Z",
@@ -24917,7 +24918,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T13:12:49.527Z"
+      "joinDate": "2025-02-23T13:12:49.527Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dvex gee",
+      "email": "chiboy360@gmail.com",
+      "encrypted_password": "9ecb51614280fd377808db41acae08d4",
+      "referral_code": "DV5M1",
+      "inviter_referral_code": "BNSFP",
+      "inviter_username": "BNBFUND ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:13:10.317Z"
     }
   ],
   "withdrawals": [
