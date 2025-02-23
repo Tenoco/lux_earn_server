@@ -26454,7 +26454,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:34:55.978Z"
+      "joinDate": "2025-02-23T14:34:55.978Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Valentine100",
+      "email": "ezemeniavalentineuchenna@gmail.com",
+      "encrypted_password": "6b4311b91b47cedf2aa815a553b031f5",
+      "referral_code": "VA0XR",
+      "inviter_referral_code": "DA1ZN",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:34:59.658Z"
     }
   ],
   "withdrawals": [
