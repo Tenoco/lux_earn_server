@@ -9277,11 +9277,12 @@
         "ghgc",
         "joluniyi99",
         "Malloy",
-        "BkGraphics001"
+        "BkGraphics001",
+        "Kossymma "
       ],
       "balance": 295,
-      "refers": 30,
-      "referralBalance": 3000,
+      "refers": 31,
+      "referralBalance": 3100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -26304,7 +26305,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T14:23:07.218Z"
+      "joinDate": "2025-02-23T14:23:07.218Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kossymma ",
+      "email": "kossyable@gmail.com",
+      "encrypted_password": "dfa7d209e67268a3aaf1dc4557f68cda",
+      "referral_code": "KOFBS",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:23:42.624Z"
     }
   ],
   "withdrawals": [
