@@ -26388,11 +26388,12 @@
         "Rejoice love",
         "Ritaaa",
         "Yogan1",
-        "Esther10"
+        "Esther10",
+        "Ritajj3"
       ],
       "balance": 170,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -32250,7 +32251,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:01:01.157Z"
+      "joinDate": "2025-02-23T21:01:01.157Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ritajj3",
+      "email": "onyedikachi174@gmail.com",
+      "encrypted_password": "a587ff74bee3206013d68176dfd31a79",
+      "referral_code": "RIFJM",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:01:41.663Z"
     }
   ],
   "withdrawals": [
