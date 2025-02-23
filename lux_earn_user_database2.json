@@ -16849,12 +16849,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T02:53:42.195Z",
+      "lastSpin": "2025-02-23T02:56:13.223Z",
       "completedMissions": [
         1,
         2,
@@ -16862,9 +16863,9 @@
         5,
         13,
         6,
-        8
-      ],
-      "lastSpin": "2025-02-23T02:56:13.223Z"
+        8,
+        7
+      ]
     },
     {
       "username": "Nimah",
@@ -16879,7 +16880,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T03:02:27.772Z"
+      "joinDate": "2025-02-23T03:02:27.772Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
