@@ -32454,7 +32454,43 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T21:10:08.889Z"
+      "joinDate": "2025-02-23T21:10:08.889Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blessingivy",
+      "email": "blessingpolycap5@gmail.com",
+      "encrypted_password": "709e6386f72661376e8469de7d43f83a",
+      "referral_code": "BLNJL",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [
+        "Favourivy",
+        "Gabriel",
+        "Davidson",
+        "Josephine",
+        "Yohanna",
+        "Princess",
+        "Meshack",
+        "Lucyivy"
+      ],
+      "balance": 210,
+      "refers": 8,
+      "referralBalance": 800,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:57:57.433Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-21T12:40:04.204Z"
     }
   ],
   "withdrawals": [
