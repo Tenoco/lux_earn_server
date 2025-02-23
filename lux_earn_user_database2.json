@@ -17222,14 +17222,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T05:05:33.808Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T05:10:12.563Z"
     },
     {
       "username": "John3",
@@ -17278,7 +17277,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T05:09:54.492Z"
+      "joinDate": "2025-02-23T05:09:54.492Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
