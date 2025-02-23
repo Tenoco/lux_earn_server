@@ -21612,7 +21612,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yemcee",
@@ -21656,14 +21657,14 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:56:59.874Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-23T09:59:38.215Z"
     }
   ],
   "withdrawals": [
