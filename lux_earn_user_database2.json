@@ -18706,11 +18706,12 @@
         "Elite prosper",
         "Elliot Grant ",
         "ECOM Legend ",
-        "Pro Mary "
+        "Pro Mary ",
+        "Adegboye najim90"
       ],
       "balance": 240,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:17:21.895Z",
@@ -31747,7 +31748,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T20:36:57.636Z"
+      "joinDate": "2025-02-23T20:36:57.636Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adegboye najim90",
+      "email": "adegboyenajim90@gmail.com",
+      "encrypted_password": "8761c20645a342a0405ba43a7405d32a",
+      "referral_code": "AD5BB",
+      "inviter_referral_code": "TA8J3",
+      "inviter_username": "Taoheed  Ade ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:37:15.821Z"
     }
   ],
   "withdrawals": [
