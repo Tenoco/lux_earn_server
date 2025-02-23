@@ -6458,11 +6458,12 @@
         "Awwal",
         "Freshglow",
         "Olaade ",
-        "Nomcy25"
+        "Nomcy25",
+        "Ayo"
       ],
       "balance": 138,
-      "refers": 86,
-      "referralBalance": 8600,
+      "refers": 87,
+      "referralBalance": 8700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -30634,6 +30635,21 @@
       "joinDate": "2025-02-23T19:41:16.583Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayo",
+      "email": "odion3072@gmail.com",
+      "encrypted_password": "3c0b0cc8df7ab9202c862f3f1116625c",
+      "referral_code": "AY5YZ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:46:03.419Z"
     }
   ],
   "withdrawals": [
