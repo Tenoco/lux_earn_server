@@ -16975,7 +16975,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T04:13:37.893Z"
+      "joinDate": "2025-02-23T04:13:37.893Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuel ",
+      "email": "e81047532@gmail.com",
+      "encrypted_password": "0e253041de725c9e8175639f2f7b4fc8",
+      "referral_code": "EMSNQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T04:15:50.588Z"
     }
   ],
   "withdrawals": [
