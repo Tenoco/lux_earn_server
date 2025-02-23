@@ -27439,11 +27439,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Vic7890"
+        "Vic7890",
+        "NchekwubeEmmanuel "
       ],
       "balance": 42,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:01:50.203Z",
@@ -30397,6 +30398,21 @@
       "joinDate": "2025-02-23T19:25:51.836Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "NchekwubeEmmanuel ",
+      "email": "nchekwubechinedu204@gmail.com",
+      "encrypted_password": "6304a7c759410137bc9e6b81f62f4c71",
+      "referral_code": "NCE9I",
+      "inviter_referral_code": "TI93N",
+      "inviter_username": "Tizzy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:28:09.748Z"
     }
   ],
   "withdrawals": [
