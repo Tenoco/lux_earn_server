@@ -19373,7 +19373,7 @@
       "invited_users": [
         "Mohmmed"
       ],
-      "balance": 202,
+      "balance": 222,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -19390,7 +19390,8 @@
         7,
         6,
         5,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-23T07:19:32.028Z"
     },
@@ -24511,6 +24512,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T12:46:37.037Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T12:47:32.702Z"
     }
   ],
