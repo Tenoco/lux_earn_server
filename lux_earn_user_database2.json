@@ -2326,14 +2326,19 @@
       "invited_users": [
         "Setemi"
       ],
-      "balance": 1020,
+      "balance": 1100,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T09:48:36.200Z",
       "completedMissions": [
-        1
+        1,
+        5,
+        14,
+        11,
+        10,
+        12
       ],
       "lastSpin": "2025-02-22T18:20:27.203Z"
     },
