@@ -6417,11 +6417,12 @@
         "Nnabuihe5",
         "First FC ",
         "Kemmzy ",
-        "Tizzy"
+        "Tizzy",
+        "Agnes12"
       ],
       "balance": 138,
-      "refers": 56,
-      "referralBalance": 5600,
+      "refers": 57,
+      "referralBalance": 5700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -27443,6 +27444,21 @@
       "joinDate": "2025-02-20T23:16:41.735Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Agnes12",
+      "email": "linusagnes33@gmail.com",
+      "encrypted_password": "c2f2172f86699762b2663f32d34b4a9b",
+      "referral_code": "AGOOS",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:24:32.670Z"
     }
   ],
   "withdrawals": [
