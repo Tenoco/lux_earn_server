@@ -27093,10 +27093,12 @@
       "referral_code": "CO2MT",
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
-      "invited_users": [],
+      "invited_users": [
+        "Ladytee"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:18.248Z",
@@ -29627,6 +29629,21 @@
       "joinDate": "2025-02-23T18:32:25.095Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ladytee",
+      "email": "Tolujoseph80@gmail.com",
+      "encrypted_password": "33b051e2968910be02216db10fd3b945",
+      "referral_code": "LAH42",
+      "inviter_referral_code": "CO2MT",
+      "inviter_username": "Comedianramadan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:36:14.952Z"
     }
   ],
   "withdrawals": [
