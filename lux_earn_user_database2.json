@@ -27340,11 +27340,12 @@
         "Omoking ",
         "vickysavage123",
         "Leo179",
-        "David78"
+        "David78",
+        "Temmy04"
       ],
       "balance": 125,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -32491,6 +32492,21 @@
         7
       ],
       "lastSpin": "2025-02-21T12:40:04.204Z"
+    },
+    {
+      "username": "Temmy04",
+      "email": "mhizholuwashikemmy@gmail.com",
+      "encrypted_password": "bd2fd797fa03010b949c3148a97679b9",
+      "referral_code": "TEM56",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T21:11:57.265Z"
     }
   ],
   "withdrawals": [
