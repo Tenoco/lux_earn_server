@@ -16273,11 +16273,12 @@
         "John4333",
         "Mark562",
         "Chrislian455",
-        "Bello55443"
+        "Bello55443",
+        "Amanoghena6777"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:54:59.857Z",
@@ -16481,7 +16482,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-23T01:11:36.158Z"
+      "joinDate": "2025-02-23T01:11:36.158Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amanoghena6777",
+      "email": "amanoghen@gmail.com",
+      "encrypted_password": "13a6947b1fc340cfa3d2245e1fd35b2e",
+      "referral_code": "AMMTL",
+      "inviter_referral_code": "JAKYK",
+      "inviter_username": "Jagoceleb54",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:11:47.231Z"
     }
   ],
   "withdrawals": [
