@@ -34960,7 +34960,32 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T05:12:22.126Z"
+      "joinDate": "2025-02-24T05:12:22.126Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emma1234",
+      "email": "oodoemmanuel108@gmail.com",
+      "encrypted_password": "0e253041de725c9e8175639f2f7b4fc8",
+      "referral_code": "EMGX6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 230,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:25:40.462Z",
+      "completedMissions": [
+        8,
+        3,
+        1,
+        2,
+        7
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
