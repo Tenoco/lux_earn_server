@@ -36216,7 +36216,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsco89927",
@@ -36371,6 +36372,21 @@
       "joinDate": "2025-02-24T07:55:03.587Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godspower5",
+      "email": "anichukwugodspower@gmail.com",
+      "encrypted_password": "5ccb3da8b20f458764adeca1458bc750",
+      "referral_code": "GOMB7",
+      "inviter_referral_code": "luxearn",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:55:59.299Z"
     }
   ],
   "withdrawals": [
