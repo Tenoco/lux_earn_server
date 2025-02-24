@@ -23107,11 +23107,12 @@
         "Kaykay",
         "Kaykaykay",
         "Ola",
-        "Jay"
+        "Jay",
+        "Opayemi"
       ],
       "balance": 285,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -37086,6 +37087,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Opayemi",
+      "email": "opeyemi23@gmail.com",
+      "encrypted_password": "ce941319b3d8a271d78ceac59d550682",
+      "referral_code": "OP4YO",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T21:06:28.261Z"
     }
   ],
   "withdrawals": [
