@@ -7307,20 +7307,25 @@
     },
     {
       "username": "John ",
-      "email": "johninebui08@gmail.com",
-      "encrypted_password": "160af97e7207eb9ad6c6d4668edf340e",
-      "referral_code": "JOL81",
-      "inviter_referral_code": "PRSLP",
-      "inviter_username": "Prosper",
+      "email": "morrisdaniel436@gmail.com",
+      "encrypted_password": "e25056aafadb8a64ad4457d28ca41311",
+      "referral_code": "JOKP6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T15:06:50.943Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "joinDate": "2025-02-21T05:19:40.059Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lastSpin": "2025-02-24T06:31:04.780Z"
     },
     {
       "username": "Abee_001",
@@ -35530,7 +35535,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:31:01.212Z"
+      "joinDate": "2025-02-24T06:31:01.212Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
