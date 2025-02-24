@@ -31897,7 +31897,7 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 140,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31912,7 +31912,7 @@
         13,
         11
       ],
-      "lastSpin": "2025-02-23T20:27:55.626Z"
+      "lastSpin": "2025-02-24T20:41:27.977Z"
     },
     {
       "username": "Taoheed Ade taoh ",
@@ -36989,7 +36989,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:40:03.847Z"
+      "joinDate": "2025-02-24T20:40:03.847Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
