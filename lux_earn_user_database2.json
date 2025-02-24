@@ -36931,6 +36931,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T20:33:52.744Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T20:36:07.252Z"
     },
     {
@@ -36948,6 +36949,25 @@
       "status": "active",
       "joinDate": "2025-02-24T20:34:18.074Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Damflex23 ",
+      "email": "damilolamoses555@gmail.com",
+      "encrypted_password": "8c4e826c61ea3c5174d03c6d6ed9f628",
+      "referral_code": "DA8V0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 30,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T15:43:36.396Z",
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     }
   ],
