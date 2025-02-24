@@ -32941,14 +32941,16 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:22:03.298Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-24T06:56:11.978Z"
     },
     {
       "username": "Zolanihun ",
@@ -35815,7 +35817,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:56:59.341Z"
+      "joinDate": "2025-02-24T06:56:59.341Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
