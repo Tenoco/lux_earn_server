@@ -27430,11 +27430,12 @@
         "Ladytee",
         "Ademola opeyemi",
         "Opeyemi ",
-        "Damilex"
+        "Damilex",
+        "Okafor nkiru peace "
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:44:18.248Z",
@@ -35114,6 +35115,21 @@
         13
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Okafor nkiru peace ",
+      "email": "okaforpeace157@gmail.com",
+      "encrypted_password": "052665e4799391457c37ab0847d99f4a",
+      "referral_code": "OKREE",
+      "inviter_referral_code": "CO2MT",
+      "inviter_username": "Comedianramadan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:38:17.699Z"
     }
   ],
   "withdrawals": [
