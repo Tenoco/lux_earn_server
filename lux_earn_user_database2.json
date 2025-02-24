@@ -37365,14 +37365,14 @@
       "inviter_referral_code": "CAKGY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:33:07.202Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T09:35:22.556Z"
     },
     {
       "username": "Stonerboi ",
@@ -37387,7 +37387,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:34:39.042Z"
+      "joinDate": "2025-02-24T09:34:39.042Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
