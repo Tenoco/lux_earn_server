@@ -27006,11 +27006,12 @@
         "Angel ",
         "Noplay",
         "Josslala",
-        "Macalister "
+        "Macalister ",
+        "Venus"
       ],
       "balance": 192,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -36237,7 +36238,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T18:57:19.783Z"
+      "joinDate": "2025-02-24T18:57:19.783Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Venus",
+      "email": "omotoyosialimi41@gmail.com",
+      "encrypted_password": "3beae6fc0b91357106b33f0f7d92f617",
+      "referral_code": "VEZ58",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:57:47.687Z"
     }
   ],
   "withdrawals": [
