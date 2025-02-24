@@ -34912,14 +34912,17 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T15:59:06.947Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        4
+      ]
     },
     {
       "username": "Fatimah",
@@ -34934,7 +34937,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:04:34.993Z"
+      "joinDate": "2025-02-24T16:04:34.993Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
