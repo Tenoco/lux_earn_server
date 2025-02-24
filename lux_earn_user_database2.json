@@ -34479,7 +34479,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T01:15:30.099Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T01:17:11.435Z"
+    },
+    {
+      "username": "Fawastaju028 ",
+      "email": "ayomideade525@gmail.com",
+      "encrypted_password": "223bf6e0876a407a3c8d86605658fc75",
+      "referral_code": "FAC14",
+      "inviter_referral_code": "CAKGY ND",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:28:11.428Z"
     }
   ],
   "withdrawals": [
