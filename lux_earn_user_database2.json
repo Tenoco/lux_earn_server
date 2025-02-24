@@ -13209,11 +13209,12 @@
         "Modupe22",
         "Ola75",
         "Set26",
-        "Aycash"
+        "Aycash",
+        "Extreme"
       ],
       "balance": 434,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:01:44.687Z",
@@ -36778,7 +36779,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:25:06.136Z"
+      "joinDate": "2025-02-24T08:25:06.136Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Extreme",
+      "email": "pelu52769@gmail.com",
+      "encrypted_password": "28df659fe383c010f0cfac031a41eb21",
+      "referral_code": "EXC8M",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": "Pearl",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:26:00.177Z"
     }
   ],
   "withdrawals": [
