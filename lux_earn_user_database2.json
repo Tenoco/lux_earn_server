@@ -30151,11 +30151,12 @@
       "inviter_username": "Odubiyi nofiu",
       "invited_users": [
         "teddybear57733",
-        "Teddsxjinvdd"
+        "Teddsxjinvdd",
+        "Njsdbdbsmzkxs"
       ],
       "balance": 155,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:28:37.287Z",
@@ -37391,7 +37392,8 @@
       "joinDate": "2025-02-24T09:34:39.042Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mutari",
@@ -37409,6 +37411,21 @@
       "joinDate": "2025-02-24T09:36:05.483Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Njsdbdbsmzkxs",
+      "email": "sammiegold2@gmail.com",
+      "encrypted_password": "ec239fa8d419f6ee5868d0de020f03a7",
+      "referral_code": "NJY6J",
+      "inviter_referral_code": "TE6DS",
+      "inviter_username": "Teddybear0863",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:40:56.319Z"
     }
   ],
   "withdrawals": [
