@@ -36373,11 +36373,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Justice1472",
-        "Jhgdd225"
+        "Jhgdd225",
+        "Nsnbsbsvd8"
       ],
       "balance": 230,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:54:22.128Z",
@@ -36635,6 +36636,21 @@
       "joinDate": "2025-02-24T08:15:02.433Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nsnbsbsvd8",
+      "email": "ubahjustice2008@gmail.com",
+      "encrypted_password": "9733d12ab644037406a367a461b5f2ec",
+      "referral_code": "NSG8V",
+      "inviter_referral_code": "ONTJ9",
+      "inviter_username": "Onyii1914",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:16:18.955Z"
     }
   ],
   "withdrawals": [
