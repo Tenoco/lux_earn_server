@@ -31848,7 +31848,7 @@
         "Tobi123",
         "Tommie"
       ],
-      "balance": 365,
+      "balance": 485,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -31867,7 +31867,13 @@
         3,
         2,
         1,
-        11
+        11,
+        12,
+        13,
+        14,
+        17,
+        10,
+        15
       ],
       "lastSpin": "2025-02-23T20:26:16.707Z"
     },
@@ -36818,7 +36824,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:13:28.397Z"
+      "joinDate": "2025-02-24T20:13:28.397Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
