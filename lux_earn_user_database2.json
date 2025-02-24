@@ -34927,14 +34927,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T05:01:36.502Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T05:03:21.265Z",
+      "completedMissions": [
+        16
+      ]
     }
   ],
   "withdrawals": [
