@@ -33056,7 +33056,7 @@
       "inviter_referral_code": "BLDMQ",
       "inviter_username": "Blackjesus",
       "invited_users": [],
-      "balance": 192,
+      "balance": 202,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33073,7 +33073,8 @@
         10,
         11,
         12,
-        13
+        13,
+        2
       ],
       "lastSpin": "2025-02-23T21:52:13.615Z"
     },
@@ -34873,7 +34874,8 @@
       "joinDate": "2025-02-24T04:45:06.627Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
