@@ -35617,7 +35617,7 @@
       "inviter_referral_code": "DA29N",
       "inviter_username": "Dady0488",
       "invited_users": [],
-      "balance": 20,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35625,7 +35625,10 @@
       "joinDate": "2025-02-24T06:45:40.282Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        16,
+        5
       ]
     },
     {
