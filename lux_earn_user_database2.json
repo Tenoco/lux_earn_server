@@ -26600,11 +26600,12 @@
         "Fighter 38",
         "Uniroed67g@gmail.com",
         "David 34",
-        "Hadija 21"
+        "Hadija 21",
+        "Danny45"
       ],
       "balance": 170,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35631,7 +35632,8 @@
         5,
         6,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hadija 21",
@@ -35649,6 +35651,21 @@
       "joinDate": "2025-02-24T06:45:47.579Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danny45",
+      "email": "daniel1024@gmail.com",
+      "encrypted_password": "9ea5e6f10d48803ae38499c0d5e6d93f",
+      "referral_code": "DAX77",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:47:22.849Z"
     }
   ],
   "withdrawals": [
