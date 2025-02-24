@@ -36350,7 +36350,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:54:22.128Z"
+      "joinDate": "2025-02-24T07:54:22.128Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Somtochukwu ",
+      "email": "prosperonyejekwe5@gmail.com",
+      "encrypted_password": "1cafe3917e5e1387c553675aa4a632a7",
+      "referral_code": "SO6B6",
+      "inviter_referral_code": "Optipnal",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:55:03.587Z"
     }
   ],
   "withdrawals": [
