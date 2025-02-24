@@ -6685,11 +6685,12 @@
         "Pop Hizy",
         "Efeereloo",
         "Muekara ",
-        "Rex"
+        "Rex",
+        "Benjamin "
       ],
       "balance": 138,
-      "refers": 135,
-      "referralBalance": 13500,
+      "refers": 136,
+      "referralBalance": 13600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35965,6 +35966,21 @@
       "joinDate": "2025-02-24T17:59:35.862Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Benjamin ",
+      "email": "benjaminofeimu35@gmail.com",
+      "encrypted_password": "fd08ca4bf139770f8b9fd5d7c485324a",
+      "referral_code": "BEN4E",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:01:27.631Z"
     }
   ],
   "withdrawals": [
