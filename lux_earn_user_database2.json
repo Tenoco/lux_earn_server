@@ -35435,7 +35435,7 @@
         "Ifygold",
         "Abanise"
       ],
-      "balance": 565,
+      "balance": 605,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -35468,7 +35468,9 @@
         9,
         9,
         9,
-        9
+        9,
+        16,
+        16
       ],
       "lastSpin": "2025-02-20T23:51:40.510Z"
     },
@@ -35486,6 +35488,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:12:12.050Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T17:12:26.688Z"
     }
   ],
