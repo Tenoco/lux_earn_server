@@ -11710,11 +11710,12 @@
       "inviter_username": "kingrroggis",
       "invited_users": [
         "Realme",
-        "Basman "
+        "Basman ",
+        "Godwin "
       ],
       "balance": 210,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -35057,6 +35058,21 @@
       "joinDate": "2025-02-24T05:21:45.877Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godwin ",
+      "email": "dallasallyass@gmail.com",
+      "encrypted_password": "a8698009bce6d1b8c2128eddefc25aad",
+      "referral_code": "GO62K",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:30:15.671Z"
     }
   ],
   "withdrawals": [
