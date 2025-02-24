@@ -36781,13 +36781,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:25:06.136Z",
-      "lastSpin": "2025-02-24T08:25:57.341Z",
       "completedMissions": [
         1,
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": "2025-02-24T08:25:57.341Z"
     },
     {
       "username": "Extreme",
@@ -36814,14 +36814,13 @@
       "inviter_referral_code": "BRIEW",
       "inviter_username": "Bright13",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:26:57.193Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T08:28:05.755Z"
     }
   ],
   "withdrawals": [
