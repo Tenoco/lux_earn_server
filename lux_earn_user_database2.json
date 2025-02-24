@@ -2915,11 +2915,12 @@
         "Oladeji123",
         "Don Berry ",
         "Rofiat morenike",
-        "Kawuu"
+        "Kawuu",
+        "Griffin"
       ],
       "balance": 1030,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T10:46:44.883Z",
@@ -34423,6 +34424,21 @@
         14
       ],
       "lastSpin": "2025-02-24T00:50:36.782Z"
+    },
+    {
+      "username": "Griffin",
+      "email": "buzznetchunk@gmail.com",
+      "encrypted_password": "992a64ca6c20838eb968b752bf887511",
+      "referral_code": "GRHO3",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:02:17.301Z"
     }
   ],
   "withdrawals": [
