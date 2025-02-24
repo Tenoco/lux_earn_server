@@ -6525,11 +6525,12 @@
         "Itzempress ",
         "Hemkay44",
         "Jenify",
-        "Oge victor "
+        "Oge victor ",
+        "Fosammy1"
       ],
       "balance": 138,
-      "refers": 126,
-      "referralBalance": 12600,
+      "refers": 127,
+      "referralBalance": 12700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34957,7 +34958,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:12:48.140Z"
+      "joinDate": "2025-02-24T16:12:48.140Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fosammy1",
+      "email": "uharidada@gmail.com",
+      "encrypted_password": "23fd39ff76b42fc4c79f88bbc4ff2d02",
+      "referral_code": "FO07Y",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:13:17.975Z"
     }
   ],
   "withdrawals": [
