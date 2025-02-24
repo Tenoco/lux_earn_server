@@ -31978,14 +31978,15 @@
       "inviter_referral_code": "SO1Q8",
       "inviter_username": "SonofGod",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T20:29:29.317Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
