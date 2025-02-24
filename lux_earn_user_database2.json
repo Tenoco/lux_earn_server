@@ -13537,11 +13537,12 @@
         "PeterPan",
         "Ijeomanwokocha",
         "Uche Ada ",
-        "Smallie"
+        "Smallie",
+        "prince5445"
       ],
       "balance": 352,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:36:17.889Z",
@@ -37064,6 +37065,21 @@
         17
       ],
       "lastSpin": "2025-02-24T20:49:03.626Z"
+    },
+    {
+      "username": "prince5445",
+      "email": "Uchep2025@gmail.com",
+      "encrypted_password": "212ad137029dfa825186d55b782b3bb8",
+      "referral_code": "PRFIA",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:54:51.184Z"
     }
   ],
   "withdrawals": [
