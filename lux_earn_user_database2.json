@@ -36005,7 +36005,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:15:24.740Z"
+      "joinDate": "2025-02-24T07:15:24.740Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "phydorh ",
+      "email": "fiddu6620@gmail.com",
+      "encrypted_password": "75f34b5502bec3c609734fdf4d37fa5c",
+      "referral_code": "PHAXM",
+      "inviter_referral_code": "UMT08",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:16:39.340Z"
     }
   ],
   "withdrawals": [
