@@ -35124,12 +35124,16 @@
       "inviter_referral_code": "CO2MT",
       "inviter_username": "Comedianramadan",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T05:38:17.699Z"
+      "joinDate": "2025-02-24T05:38:17.699Z",
+      "completedMissions": [
+        1,
+        2
+      ]
     }
   ],
   "withdrawals": [
