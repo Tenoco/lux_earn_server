@@ -36188,7 +36188,8 @@
         1,
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsco89927",
@@ -36215,14 +36216,13 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:40:04.612Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T07:40:23.559Z"
     }
   ],
   "withdrawals": [
