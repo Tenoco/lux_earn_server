@@ -37324,13 +37324,15 @@
       "inviter_referral_code": "0S6AF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 5,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:29:01.672Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-24T09:30:23.214Z"
     },
     {
