@@ -14619,7 +14619,7 @@
       "inviter_referral_code": "ORXQ6",
       "inviter_username": "OROBO",
       "invited_users": [],
-      "balance": 330,
+      "balance": 360,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14644,7 +14644,7 @@
         14,
         14
       ],
-      "lastSpin": "2025-02-23T09:30:08.933Z"
+      "lastSpin": "2025-02-24T20:35:57.861Z"
     },
     {
       "username": "Musty monie ",
@@ -36947,7 +36947,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:34:18.074Z"
+      "joinDate": "2025-02-24T20:34:18.074Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
