@@ -18919,11 +18919,12 @@
         "Baggy",
         "Binding ",
         "Novice ",
-        "Yokeji"
+        "Yokeji",
+        "Jokky"
       ],
       "balance": 372,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -35304,7 +35305,8 @@
         14,
         13,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mjsilent ",
@@ -35360,6 +35362,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Jokky",
+      "email": "phocuscruchy@gmail.com",
+      "encrypted_password": "cff11e4a26b06ffb5a6e0db4b821a33e",
+      "referral_code": "JOLUF",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:05:20.719Z"
     }
   ],
   "withdrawals": [
