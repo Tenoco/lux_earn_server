@@ -34301,13 +34301,15 @@
       "inviter_referral_code": "ANY61",
       "inviter_username": "Ani2005",
       "invited_users": [],
-      "balance": 22,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T00:02:41.543Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14
+      ],
       "lastSpin": "2025-02-24T00:05:12.657Z"
     },
     {
