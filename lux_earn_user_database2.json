@@ -36149,7 +36149,7 @@
       "inviter_referral_code": "TOXNF",
       "inviter_username": "Tochek",
       "invited_users": [],
-      "balance": 120,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36158,7 +36158,9 @@
       "completedMissions": [
         1,
         2,
-        9
+        9,
+        4,
+        16
       ],
       "lastSpin": "2025-02-24T18:37:27.409Z"
     }
