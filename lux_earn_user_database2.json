@@ -19907,11 +19907,12 @@
       "invited_users": [
         "Mohmmed",
         "Usman",
-        "Shafiyi "
+        "Shafiyi ",
+        "Yahaya umar"
       ],
       "balance": 252,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -36917,7 +36918,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:40:51.290Z"
+      "joinDate": "2025-02-24T08:40:51.290Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yahaya umar",
+      "email": "u07225768@gmail.com",
+      "encrypted_password": "745a7f7a58988588b54774d15a8c93de",
+      "referral_code": "YALIC",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:41:11.159Z"
     }
   ],
   "withdrawals": [
