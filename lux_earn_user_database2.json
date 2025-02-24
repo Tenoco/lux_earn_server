@@ -36438,7 +36438,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:04:24.703Z"
+      "joinDate": "2025-02-24T08:04:24.703Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajibola",
+      "email": "yusrotajibola15@gmail.com",
+      "encrypted_password": "9885b11d4af75f5a8204e7b5e89c3003",
+      "referral_code": "AJFYM",
+      "inviter_referral_code": "ODWXP",
+      "inviter_username": "Odera",
+      "invited_users": [
+        "Opemiposi045",
+        "Akorede"
+      ],
+      "balance": 190,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T13:42:02.652Z",
+      "completedMissions": [
+        2,
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "lastSpin": "2025-02-21T14:24:44.664Z"
     }
   ],
   "withdrawals": [
