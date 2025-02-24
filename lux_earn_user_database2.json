@@ -17647,7 +17647,7 @@
       "inviter_referral_code": "0s6af",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 222,
+      "balance": 252,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17667,7 +17667,7 @@
         12,
         13
       ],
-      "lastSpin": "2025-02-23T02:46:28.810Z"
+      "lastSpin": "2025-02-24T02:54:32.549Z"
     },
     {
       "username": "MasterMind",
@@ -34678,7 +34678,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T02:47:45.606Z"
+      "joinDate": "2025-02-24T02:47:45.606Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
