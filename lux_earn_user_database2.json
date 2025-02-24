@@ -26627,11 +26627,12 @@
         "Tunde",
         "Fordlinkjoe",
         "Peaceosado",
-        "Gloryjob"
+        "Gloryjob",
+        "Fortune golden"
       ],
       "balance": 170,
-      "refers": 30,
-      "referralBalance": 3000,
+      "refers": 31,
+      "referralBalance": 3100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -36423,6 +36424,21 @@
       "joinDate": "2025-02-24T07:55:59.299Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fortune golden",
+      "email": "gloriousdelight475@gmajl.com",
+      "encrypted_password": "e9fd92b4e8a79b1c0b046ec770197f60",
+      "referral_code": "FOF7I",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:04:24.703Z"
     }
   ],
   "withdrawals": [
