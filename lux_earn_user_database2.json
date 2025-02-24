@@ -14089,11 +14089,12 @@
         "Kehinde",
         "Omozeno ",
         "tijjaniil ",
-        "Dimeji"
+        "Dimeji",
+        "Mike"
       ],
       "balance": 0,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:08:39.976Z",
@@ -37588,7 +37589,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:51:07.487Z"
+      "joinDate": "2025-02-24T09:51:07.487Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mike",
+      "email": "jacobmike736@gmail.com",
+      "encrypted_password": "2b47dc1deba46e1ee52ca2b0fb3035f8",
+      "referral_code": "MIXUF",
+      "inviter_referral_code": "OS6AF",
+      "inviter_username": "OSVMEDIA",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:51:36.590Z"
     }
   ],
   "withdrawals": [
