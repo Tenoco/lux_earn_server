@@ -35422,14 +35422,15 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T06:09:26.799Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
