@@ -36208,14 +36208,17 @@
       "inviter_referral_code": "ANY61",
       "inviter_username": "Ani2005",
       "invited_users": [],
-      "balance": 0,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:44:01.691Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        4
+      ],
+      "lastSpin": "2025-02-24T18:47:27.944Z"
     }
   ],
   "withdrawals": [
