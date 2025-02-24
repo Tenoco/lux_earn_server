@@ -36888,14 +36888,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T20:28:56.171Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Rabiu Umar ",
@@ -36910,7 +36911,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:30:39.570Z"
+      "joinDate": "2025-02-24T20:30:39.570Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
