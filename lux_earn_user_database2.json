@@ -32960,14 +32960,17 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 15,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T21:22:03.298Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        5
       ],
       "lastSpin": "2025-02-24T06:56:11.978Z"
     },
@@ -36195,7 +36198,8 @@
         16,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsco89927",
