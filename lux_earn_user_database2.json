@@ -36406,14 +36406,17 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 32,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:19:55.381Z",
       "completedMissions": [
-        1
+        1,
+        1,
+        2,
+        2
       ],
       "lastSpin": "2025-02-24T19:22:40.903Z"
     },
