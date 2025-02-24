@@ -18972,7 +18972,7 @@
         "Luiz emzy",
         "Desmond "
       ],
-      "balance": 385,
+      "balance": 455,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -18991,7 +18991,10 @@
         10,
         11,
         14,
-        13
+        13,
+        12,
+        15,
+        15
       ],
       "lastSpin": "2025-02-23T06:25:00.148Z"
     },
@@ -35090,7 +35093,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T05:33:13.436Z"
+      "joinDate": "2025-02-24T05:33:13.436Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
