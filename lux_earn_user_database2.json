@@ -30147,10 +30147,12 @@
       "referral_code": "TE6DS",
       "inviter_referral_code": "OD7RC",
       "inviter_username": "Odubiyi nofiu",
-      "invited_users": [],
+      "invited_users": [
+        "teddybear57733"
+      ],
       "balance": 155,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:28:37.287Z",
@@ -37282,7 +37284,23 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "teddybear57733",
+      "email": "teddybear081066@gmail.com",
+      "encrypted_password": "248a656bffe5525089e206984e0be8b2",
+      "referral_code": "TEHT6",
+      "inviter_referral_code": "TE6DS",
+      "inviter_username": "Teddybear0863",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:20:54.550Z"
     }
   ],
   "withdrawals": [
