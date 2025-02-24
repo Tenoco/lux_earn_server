@@ -36240,11 +36240,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Ola"
+        "Ola",
+        "Mide"
       ],
       "balance": 35,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -36283,7 +36284,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:01:49.419Z"
+      "joinDate": "2025-02-24T19:01:49.419Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mide",
+      "email": "easyspring71@gmail.com",
+      "encrypted_password": "115cb53deea1f407b6a4d3513fc492b0",
+      "referral_code": "MI48N",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:04:13.783Z"
     }
   ],
   "withdrawals": [
