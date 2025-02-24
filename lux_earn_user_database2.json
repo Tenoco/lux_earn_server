@@ -12771,7 +12771,7 @@
       "inviter_referral_code": "OL6TF ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 360,
+      "balance": 390,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12791,7 +12791,7 @@
         11,
         10
       ],
-      "lastSpin": "2025-02-22T19:16:28.516Z"
+      "lastSpin": "2025-02-24T19:28:14.312Z"
     },
     {
       "username": "Bakoree",
@@ -36459,7 +36459,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:27:33.226Z"
+      "joinDate": "2025-02-24T19:27:33.226Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
