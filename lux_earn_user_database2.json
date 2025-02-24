@@ -36582,11 +36582,12 @@
       "invited_users": [
         "Hioboial",
         "Bihilia",
-        "Holidia"
+        "Holidia",
+        "Adolphus "
       ],
       "balance": 260,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -36785,6 +36786,21 @@
       "joinDate": "2025-02-24T20:11:49.597Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adolphus ",
+      "email": "adolphuswisdom234@gmail.com",
+      "encrypted_password": "91fedbbb7e7f44a9f471f8e8592bbd91",
+      "referral_code": "ADPXZ",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:12:09.662Z"
     }
   ],
   "withdrawals": [
