@@ -23108,11 +23108,12 @@
         "Kaykaykay",
         "Ola",
         "Jay",
-        "Opayemi"
+        "Opayemi",
+        "ajoke"
       ],
       "balance": 285,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -37101,7 +37102,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T21:06:28.261Z"
+      "joinDate": "2025-02-24T21:06:28.261Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ajoke",
+      "email": "ajoke2348@gmail.com",
+      "encrypted_password": "7e3fa739a128b6add91c4712ab0ab2b9",
+      "referral_code": "AJANM",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T21:08:06.591Z"
     }
   ],
   "withdrawals": [
