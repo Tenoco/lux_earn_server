@@ -36564,7 +36564,7 @@
         "Patience ",
         "Victory"
       ],
-      "balance": 380,
+      "balance": 400,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -36583,7 +36583,8 @@
         14,
         15,
         11,
-        12
+        12,
+        16
       ],
       "lastSpin": "2025-02-20T23:16:35.584Z"
     },
@@ -36724,7 +36725,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:20:14.867Z"
+      "joinDate": "2025-02-24T08:20:14.867Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
