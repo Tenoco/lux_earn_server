@@ -36212,7 +36212,7 @@
       "inviter_referral_code": "ANY61",
       "inviter_username": "Ani2005",
       "invited_users": [],
-      "balance": 75,
+      "balance": 95,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36221,7 +36221,8 @@
       "completedMissions": [
         1,
         4,
-        16
+        16,
+        17
       ],
       "lastSpin": "2025-02-24T18:47:27.944Z"
     },
@@ -36241,7 +36242,8 @@
       "joinDate": "2025-02-24T18:57:19.783Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Venus",
