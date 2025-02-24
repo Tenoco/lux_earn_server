@@ -26953,11 +26953,12 @@
         "mgdollars1",
         "Angel ",
         "Noplay",
-        "Josslala"
+        "Josslala",
+        "Macalister "
       ],
       "balance": 192,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -35671,7 +35672,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:22:32.527Z"
+      "joinDate": "2025-02-24T17:22:32.527Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Macalister ",
+      "email": "michealpro479@gmail.com",
+      "encrypted_password": "24f2f36c30472032da9a9d0e26a7d05d",
+      "referral_code": "MAV3N",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:23:39.716Z"
     }
   ],
   "withdrawals": [
