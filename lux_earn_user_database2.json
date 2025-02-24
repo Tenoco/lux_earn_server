@@ -26849,11 +26849,12 @@
         "Angel ",
         "Noplay",
         "Josslala",
-        "Khadijatb"
+        "Khadijatb",
+        "TheoEmmy "
       ],
       "balance": 192,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -35990,6 +35991,21 @@
       "joinDate": "2025-02-24T07:12:36.753Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "TheoEmmy ",
+      "email": "emmauneltheodora50@gmail.com",
+      "encrypted_password": "d47121f2a801b3ef973bba9be997cc0b",
+      "referral_code": "THM1B",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:15:24.740Z"
     }
   ],
   "withdrawals": [
