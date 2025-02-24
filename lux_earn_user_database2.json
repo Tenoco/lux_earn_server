@@ -36935,7 +36935,30 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:41:11.159Z"
+      "joinDate": "2025-02-24T08:41:11.159Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aminatjumai",
+      "email": "aminatochuwa3@gmail.com",
+      "encrypted_password": "3d3ac7a5c6ac9004f2749c27668a92f1",
+      "referral_code": "AM5CM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 102,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:45:06.366Z",
+      "completedMissions": [
+        3,
+        4,
+        1
+      ],
+      "lastSpin": "2025-02-21T05:51:37.756Z"
     }
   ],
   "withdrawals": [
