@@ -6511,11 +6511,12 @@
         "Chinasa ",
         "Option ",
         "Vickymonet ",
-        "Tegaboy "
+        "Tegaboy ",
+        "simplicity"
       ],
       "balance": 138,
-      "refers": 120,
-      "referralBalance": 12000,
+      "refers": 121,
+      "referralBalance": 12100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34544,7 +34545,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T01:50:43.751Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T01:52:46.353Z"
+    },
+    {
+      "username": "simplicity",
+      "email": "Ogechianayo358@gmail.com",
+      "encrypted_password": "d1c20371a2f835d7ce0ac4e59ce06ca6",
+      "referral_code": "SI6DM",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:54:06.877Z"
     }
   ],
   "withdrawals": [
