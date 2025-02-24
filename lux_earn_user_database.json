@@ -1645,7 +1645,7 @@
         "Solamighty ",
         "09063846211"
       ],
-      "balance": 205,
+      "balance": 195,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -1655,8 +1655,7 @@
         8,
         7,
         3,
-        2,
-        1
+        2
       ],
       "lastSpin": null
     },
@@ -1732,7 +1731,7 @@
         "Joe",
         "sammie2"
       ],
-      "balance": 240,
+      "balance": 220,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -1746,7 +1745,7 @@
         5,
         8
       ],
-      "lastSpin": "2025-02-24T02:04:11.972Z"
+      "lastSpin": "2025-02-20T23:13:48.206Z"
     },
     {
       "username": "FINIX ",
@@ -1795,6 +1794,60 @@
         7
       ],
       "lastSpin": "2025-02-20T23:22:16.561Z"
+    },
+    {
+      "username": "Bright side ",
+      "email": "brightmarvellous82@gmail.com",
+      "encrypted_password": "305913ec7a1eebf89ccdf4f4d82d7c32",
+      "referral_code": "BRLEJ",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [
+        "Cosmos "
+      ],
+      "balance": 980,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:13:26.804Z",
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        10,
+        10,
+        10,
+        8,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "lastSpin": "2025-02-21T06:15:41.072Z"
     },
     {
       "username": "Elizabeth ",
@@ -2699,7 +2752,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 295,
+      "balance": 275,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2715,7 +2768,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-23T16:41:12.740Z"
+      "lastSpin": "2025-02-20T23:35:38.337Z"
     },
     {
       "username": "Starcakesandmore",
@@ -6002,7 +6055,7 @@
         "BiggyArewa",
         "Slim-Mill"
       ],
-      "balance": 168,
+      "balance": 358,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -6021,7 +6074,7 @@
         7,
         9
       ],
-      "lastSpin": "2025-02-23T07:20:15.984Z"
+      "lastSpin": "2025-02-21T07:02:25.156Z"
     },
     {
       "username": "JuNifa",
@@ -8932,7 +8985,7 @@
         "Sammy4022",
         "Deraboy22 "
       ],
-      "balance": 15,
+      "balance": 315,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -14290,17 +14343,16 @@
         "Natsume ",
         "Brainiac"
       ],
-      "balance": 40,
+      "balance": 25,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:18:55.507Z",
       "completedMissions": [
-        1,
-        2
+        1
       ],
-      "lastSpin": "2025-02-23T09:09:48.047Z"
+      "lastSpin": "2025-02-21T08:54:51.492Z"
     },
     {
       "username": "Itoro ",
@@ -16033,7 +16085,7 @@
       "inviter_referral_code": "TERYC",
       "inviter_username": "Temmie336",
       "invited_users": [],
-      "balance": 360,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16046,13 +16098,9 @@
         4,
         5,
         6,
-        9,
-        11,
-        10,
-        7,
-        8
+        9
       ],
-      "lastSpin": "2025-02-23T18:25:13.656Z"
+      "lastSpin": null
     },
     {
       "username": "Bliss ",
@@ -16163,7 +16211,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 112,
+      "balance": 102,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16174,7 +16222,7 @@
         2,
         3
       ],
-      "lastSpin": "2025-02-23T19:05:46.238Z"
+      "lastSpin": "2025-02-21T06:57:40.024Z"
     },
     {
       "username": "Thiago",
@@ -16413,14 +16461,14 @@
       "inviter_referral_code": "KIUD0",
       "inviter_username": "Kingaleey1",
       "invited_users": [],
-      "balance": 20,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:52:54.942Z",
       "completedMissions": [],
-      "lastSpin": "2025-02-23T19:57:02.768Z"
+      "lastSpin": null
     },
     {
       "username": "Goodnessogachi",
@@ -17330,7 +17378,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 311,
+      "balance": 281,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17348,7 +17396,7 @@
         9,
         8
       ],
-      "lastSpin": "2025-02-23T23:58:50.903Z"
+      "lastSpin": "2025-02-21T07:18:39.858Z"
     },
     {
       "username": "Lily",
@@ -17754,7 +17802,7 @@
         "David312",
         "Praise098"
       ],
-      "balance": 290,
+      "balance": 270,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -17771,7 +17819,7 @@
         9,
         8
       ],
-      "lastSpin": "2025-02-24T06:36:51.261Z"
+      "lastSpin": "2025-02-21T07:21:07.537Z"
     },
     {
       "username": "Merrysmart",
@@ -19147,7 +19195,7 @@
       "invited_users": [
         "Pelumi"
       ],
-      "balance": 287,
+      "balance": 242,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -19161,10 +19209,9 @@
         5,
         6,
         7,
-        8,
-        9
+        8
       ],
-      "lastSpin": "2025-02-23T13:14:00.577Z"
+      "lastSpin": "2025-02-21T07:50:01.299Z"
     },
     {
       "username": "Ifeoluwa",
@@ -20108,7 +20155,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 330,
+      "balance": 310,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20127,7 +20174,7 @@
         8,
         9
       ],
-      "lastSpin": "2025-02-23T21:15:53.301Z"
+      "lastSpin": null
     },
     {
       "username": "Abdulhameed ",
@@ -23149,29 +23196,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 430,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:16:27.713Z",
-      "completedMissions": [
-        1,
-        1,
-        2,
-        3,
-        3,
-        3,
-        4,
-        4,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        9
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -33999,23 +34030,13 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": "Nabeelo",
       "invited_users": [],
-      "balance": 250,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:13:56.553Z",
-      "completedMissions": [
-        1,
-        2,
-        3,
-        9,
-        4,
-        8,
-        5,
-        6,
-        7
-      ],
+      "completedMissions": [],
       "lastSpin": null
     },
     {
@@ -38983,56 +39004,6 @@
       "phoneNumber": "08107021004",
       "amount": 100,
       "timestamp": "2025-02-21T13:45:04.697Z",
-      "status": "pending"
-    },
-    {
-      "username": "Kingaleey1",
-      "email": "aliyusmanbarasa@gmail.com",
-      "type": "airtime",
-      "network": "mtn",
-      "phoneNumber": "09068612558",
-      "amount": 100,
-      "timestamp": "2025-02-23T07:21:21.841Z",
-      "status": "pending"
-    },
-    {
-      "username": "Kingaleey1",
-      "email": "aliyusmanbarasa@gmail.com",
-      "type": "airtime",
-      "network": "mtn",
-      "phoneNumber": "09068612558",
-      "amount": 100,
-      "timestamp": "2025-02-23T07:21:31.078Z",
-      "status": "pending"
-    },
-    {
-      "username": "Sammy4021",
-      "email": "samuelademosu7@gmail.com",
-      "type": "airtime",
-      "network": "mtn",
-      "phoneNumber": "07049248029",
-      "amount": 100,
-      "timestamp": "2025-02-24T13:18:47.421Z",
-      "status": "pending"
-    },
-    {
-      "username": "Sammy4021",
-      "email": "samuelademosu7@gmail.com",
-      "type": "airtime",
-      "network": "mtn",
-      "phoneNumber": "07049248029",
-      "amount": 100,
-      "timestamp": "2025-02-24T13:19:26.035Z",
-      "status": "pending"
-    },
-    {
-      "username": "Sammy4021",
-      "email": "samuelademosu7@gmail.com",
-      "type": "airtime",
-      "network": "mtn",
-      "phoneNumber": "07049248029",
-      "amount": 100,
-      "timestamp": "2025-02-24T13:20:20.289Z",
       "status": "pending"
     }
   ]
