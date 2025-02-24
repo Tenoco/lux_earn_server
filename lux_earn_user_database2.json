@@ -26604,11 +26604,12 @@
         "Danny45",
         "Israelkelvin",
         "Favour Augustine ",
-        "Tunde"
+        "Tunde",
+        "Fordlinkjoe"
       ],
       "balance": 170,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35890,7 +35891,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:03:59.370Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T07:04:22.222Z"
+    },
+    {
+      "username": "Fordlinkjoe",
+      "email": "joeforderly1@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "FOU2H",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:05:45.652Z"
     }
   ],
   "withdrawals": [
