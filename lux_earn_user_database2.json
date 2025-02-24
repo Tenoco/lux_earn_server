@@ -19969,11 +19969,12 @@
         "Mohmmed",
         "Usman",
         "Shafiyi ",
-        "Yahaya umar"
+        "Yahaya umar",
+        "Mutari"
       ],
       "balance": 252,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -37390,6 +37391,21 @@
       "joinDate": "2025-02-24T09:34:39.042Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mutari",
+      "email": "kudumutari@gmail.com",
+      "encrypted_password": "baa9ded7a77a4881a0d722ea2eac159a",
+      "referral_code": "MU53S",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:36:05.483Z"
     }
   ],
   "withdrawals": [
