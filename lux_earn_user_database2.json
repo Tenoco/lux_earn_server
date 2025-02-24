@@ -11905,11 +11905,12 @@
         "Maryamsalihu",
         "Saifullah ",
         "Shamsullah",
-        "Zakha001"
+        "Zakha001",
+        "Rabiu Umar "
       ],
       "balance": 0,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -36892,7 +36893,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:28:56.171Z"
+      "joinDate": "2025-02-24T20:28:56.171Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rabiu Umar ",
+      "email": "rabiuumar07064@gmail.com",
+      "encrypted_password": "1bb793e3592b5ba4c888df2677d0da03",
+      "referral_code": "RAEDQ",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:30:39.570Z"
     }
   ],
   "withdrawals": [
