@@ -36254,11 +36254,12 @@
       "invited_users": [
         "Ola",
         "Mide",
-        "Lami"
+        "Lami",
+        "Mick "
       ],
       "balance": 255,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -36403,7 +36404,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:19:55.381Z"
+      "joinDate": "2025-02-24T19:19:55.381Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mick ",
+      "email": "aweisaiah217@gmail.com",
+      "encrypted_password": "c3bf1ccbf78489182ec6e800f4ff1fd9",
+      "referral_code": "MIKSW",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:20:04.145Z"
     }
   ],
   "withdrawals": [
