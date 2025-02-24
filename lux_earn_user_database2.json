@@ -8622,10 +8622,12 @@
       "referral_code": "NIS14",
       "inviter_referral_code": "OLDAF",
       "inviter_username": "Oluwajoy",
-      "invited_users": [],
+      "invited_users": [
+        "deenpeter8"
+      ],
       "balance": 335,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
@@ -34662,6 +34664,21 @@
         4
       ],
       "lastSpin": "2025-02-24T02:30:18.620Z"
+    },
+    {
+      "username": "deenpeter8",
+      "email": "deenpeter8@gmail.com",
+      "encrypted_password": "7bcdefe96e48d1c9680d57dedcfc7ddf",
+      "referral_code": "DEHQ3",
+      "inviter_referral_code": "NIS14",
+      "inviter_username": "Nicefaith",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T02:47:45.606Z"
     }
   ],
   "withdrawals": [
