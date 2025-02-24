@@ -28394,10 +28394,12 @@
       "referral_code": "NAIWW",
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
-      "invited_users": [],
+      "invited_users": [
+        "Mryaminu "
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
@@ -37042,7 +37044,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:48:10.767Z"
+      "joinDate": "2025-02-24T08:48:10.767Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mryaminu ",
+      "email": "maryamaminu3142@gmail.com",
+      "encrypted_password": "56b07ba3f68fd17622a4f45d59cf94f6",
+      "referral_code": "MR90P",
+      "inviter_referral_code": "NAIWW",
+      "inviter_username": "Nasmatu Haruna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:50:11.904Z"
     }
   ],
   "withdrawals": [
