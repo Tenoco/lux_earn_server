@@ -34679,16 +34679,17 @@
       "inviter_referral_code": "NIS14",
       "inviter_username": "Nicefaith",
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T02:47:45.606Z",
+      "lastSpin": "2025-02-24T03:00:15.271Z",
       "completedMissions": [
-        15
-      ],
-      "lastSpin": "2025-02-24T03:00:15.271Z"
+        15,
+        10
+      ]
     }
   ],
   "withdrawals": [
