@@ -36375,11 +36375,12 @@
         "Justice1472",
         "Jhgdd225",
         "Nsnbsbsvd8",
-        "Nzjshshggg5"
+        "Nzjshshggg5",
+        "Kdjdhheg52"
       ],
       "balance": 230,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:54:22.128Z",
@@ -36688,7 +36689,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:18:38.987Z"
+      "joinDate": "2025-02-24T08:18:38.987Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kdjdhheg52",
+      "email": "kdjsjhsgfeb@gmail.com",
+      "encrypted_password": "9733d12ab644037406a367a461b5f2ec",
+      "referral_code": "KDGY3",
+      "inviter_referral_code": "ONTJ9",
+      "inviter_username": "Onyii1914",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:18:58.171Z"
     }
   ],
   "withdrawals": [
