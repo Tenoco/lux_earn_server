@@ -34409,12 +34409,14 @@
       "inviter_referral_code": "MRFZZ",
       "inviter_username": "Mr T ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T00:49:24.019Z"
+      "joinDate": "2025-02-24T00:49:24.019Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-24T00:50:36.782Z"
     }
   ],
   "withdrawals": [
