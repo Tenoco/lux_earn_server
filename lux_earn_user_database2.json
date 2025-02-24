@@ -36369,10 +36369,12 @@
       "referral_code": "ONTJ9",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Justice1472"
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:54:22.128Z",
@@ -36572,6 +36574,21 @@
         6
       ],
       "lastSpin": "2025-02-20T23:16:35.584Z"
+    },
+    {
+      "username": "Justice1472",
+      "email": "onyedika1914@gmail.com",
+      "encrypted_password": "9733d12ab644037406a367a461b5f2ec",
+      "referral_code": "JUPU4",
+      "inviter_referral_code": "ONTJ9",
+      "inviter_username": "Onyii1914",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:11:56.768Z"
     }
   ],
   "withdrawals": [
