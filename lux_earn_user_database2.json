@@ -11845,11 +11845,12 @@
         "Abubakar123",
         "Ibrahim salisu ",
         "Maryamsalihu",
-        "Saifullah "
+        "Saifullah ",
+        "Shamsullah"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -35364,6 +35365,21 @@
       "joinDate": "2025-02-24T16:59:30.050Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shamsullah",
+      "email": "shamsullah60085@gmail.com",
+      "encrypted_password": "557ea60e9a4e3bd2108c645708b729e0",
+      "referral_code": "SHBQZ",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:02:04.536Z"
     }
   ],
   "withdrawals": [
