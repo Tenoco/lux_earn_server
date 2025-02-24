@@ -35393,11 +35393,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Diddy ",
-        "Rechard"
+        "Rechard",
+        "Hazel"
       ],
       "balance": 12,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35531,6 +35532,21 @@
       "joinDate": "2025-02-24T17:14:20.260Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T17:14:34.502Z"
+    },
+    {
+      "username": "Hazel",
+      "email": "hazel@gmail.con",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "HAE0H",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:15:40.739Z"
     }
   ],
   "withdrawals": [
