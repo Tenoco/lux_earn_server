@@ -6563,11 +6563,12 @@
         "Damsel2",
         "Mimirado",
         "Onyii1914",
-        "Ayoness"
+        "Ayoness",
+        "Chibuike "
       ],
       "balance": 138,
-      "refers": 134,
-      "referralBalance": 13400,
+      "refers": 135,
+      "referralBalance": 13500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36900,7 +36901,23 @@
       "joinDate": "2025-02-24T08:39:31.890Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Chibuike ",
+      "email": "abiyochibuikebenedict@gmail.com",
+      "encrypted_password": "bca5f9efdd6df07be3928907005fd51b",
+      "referral_code": "CH850",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:40:51.290Z"
     }
   ],
   "withdrawals": [
