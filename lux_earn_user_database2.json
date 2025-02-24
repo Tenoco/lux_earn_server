@@ -22243,11 +22243,12 @@
       "invited_users": [
         "Ajoke44",
         "Oadeoye123",
-        "olaade126"
+        "olaade126",
+        "ADESOLA VERACITY"
       ],
       "balance": 75,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -34855,6 +34856,21 @@
         10
       ],
       "lastSpin": "2025-02-24T04:44:58.547Z"
+    },
+    {
+      "username": "ADESOLA VERACITY",
+      "email": "kilaniseriffdeen001@gmail.com",
+      "encrypted_password": "63cd830bf3a2d6fbd83198f4562f6145",
+      "referral_code": "ADUNL",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T04:45:06.627Z"
     }
   ],
   "withdrawals": [
