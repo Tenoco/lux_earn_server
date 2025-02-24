@@ -6521,11 +6521,12 @@
         "Tegaboy ",
         "simplicity",
         "Itzy",
-        "Itzempress "
+        "Itzempress ",
+        "Hemkay44"
       ],
       "balance": 138,
-      "refers": 123,
-      "referralBalance": 12300,
+      "refers": 124,
+      "referralBalance": 12400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34876,6 +34877,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Hemkay44",
+      "email": "Olarewajuharyomide8@gmail.com",
+      "encrypted_password": "5fa87119c82fb0098cc7d0dcbbb6f164",
+      "referral_code": "HEL9G",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T15:57:51.560Z"
     }
   ],
   "withdrawals": [
