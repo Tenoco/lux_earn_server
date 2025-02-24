@@ -36250,14 +36250,16 @@
       "inviter_referral_code": "HA4GL",
       "inviter_username": "Hallelujah ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:44:45.669Z",
       "completedMissions": [
-        1
+        1,
+        4,
+        2
       ],
       "lastSpin": null
     }
