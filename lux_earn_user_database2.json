@@ -35391,10 +35391,12 @@
       "referral_code": "CRX7S",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Diddy "
+      ],
       "balance": 12,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35469,6 +35471,21 @@
         9
       ],
       "lastSpin": "2025-02-20T23:51:40.510Z"
+    },
+    {
+      "username": "Diddy ",
+      "email": "dauda@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "DI3VX",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:12:12.050Z"
     }
   ],
   "withdrawals": [
