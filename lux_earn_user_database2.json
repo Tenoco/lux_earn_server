@@ -6556,11 +6556,12 @@
         "Goodness ",
         "Damsel2",
         "Mimirado",
-        "Onyii1914"
+        "Onyii1914",
+        "Ayoness"
       ],
       "balance": 138,
-      "refers": 133,
-      "referralBalance": 13300,
+      "refers": 134,
+      "referralBalance": 13400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36503,6 +36504,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Ayoness",
+      "email": "ayonessp127@gmail.com",
+      "encrypted_password": "195febf83e7d3b1c30d588054e3b951b",
+      "referral_code": "AYUAA",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:07:44.494Z"
     }
   ],
   "withdrawals": [
