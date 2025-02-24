@@ -30574,11 +30574,12 @@
       "inviter_username": "Sirblack",
       "invited_users": [
         "Sir white ",
-        "jindu497"
+        "jindu497",
+        "Fredrick2005"
       ],
       "balance": 430,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:44:39.391Z",
@@ -34291,6 +34292,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Fredrick2005",
+      "email": "onwuzuligbochiemelie9@gmail.com",
+      "encrypted_password": "0455c9c2854f2670ea534b5856e50ca9",
+      "referral_code": "FRJVR",
+      "inviter_referral_code": "ANY61",
+      "inviter_username": "Ani2005",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T00:02:41.543Z"
     }
   ],
   "withdrawals": [
