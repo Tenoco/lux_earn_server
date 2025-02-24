@@ -11197,11 +11197,12 @@
       "invited_users": [
         "Abu006",
         "Precious",
-        "Peterly"
+        "Peterly",
+        "James "
       ],
       "balance": 130,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -35100,7 +35101,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:44:19.424Z"
+      "joinDate": "2025-02-24T16:44:19.424Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "James ",
+      "email": "ogwuchejames483@gmail.com",
+      "encrypted_password": "f2bb1ec492cb1d8963498174d133b8cf",
+      "referral_code": "JA3YY",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:44:41.903Z"
     }
   ],
   "withdrawals": [
