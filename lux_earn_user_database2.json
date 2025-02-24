@@ -26846,11 +26846,12 @@
         "mgdollars1",
         "Angel ",
         "Noplay",
-        "Josslala"
+        "Josslala",
+        "Khadijatb"
       ],
       "balance": 192,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -35970,6 +35971,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Khadijatb",
+      "email": "khadijatnasiru24@gmail.com",
+      "encrypted_password": "76caecc4025bc07296c17c532fe9e658",
+      "referral_code": "KHB4Q",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:12:36.753Z"
     }
   ],
   "withdrawals": [
