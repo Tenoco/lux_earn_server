@@ -31503,7 +31503,7 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 175,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31518,7 +31518,8 @@
         15,
         10,
         11,
-        12
+        12,
+        2
       ],
       "lastSpin": "2025-02-23T20:00:55.162Z"
     },
@@ -36502,7 +36503,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:36:50.495Z"
+      "joinDate": "2025-02-24T19:36:50.495Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
