@@ -34490,13 +34490,15 @@
       "inviter_referral_code": "CAKGY ND",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T01:28:11.428Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-24T01:29:11.039Z"
     }
   ],
