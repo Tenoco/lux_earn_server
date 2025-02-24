@@ -36576,11 +36576,12 @@
       "inviter_username": null,
       "invited_users": [
         "Hioboial",
-        "Bihilia"
+        "Bihilia",
+        "Holidia"
       ],
       "balance": 260,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -36709,6 +36710,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Holidia",
+      "email": "royalgodgify@gmail.com",
+      "encrypted_password": "1f661eaf747f98b0e0fec6961d6c8154",
+      "referral_code": "HOFZM",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:08:14.258Z"
     }
   ],
   "withdrawals": [
