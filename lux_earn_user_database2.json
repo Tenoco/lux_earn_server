@@ -36907,14 +36907,15 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:39:31.890Z",
       "completedMissions": [
-        1
+        1,
+        12
       ],
       "lastSpin": null
     },
