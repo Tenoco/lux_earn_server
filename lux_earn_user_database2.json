@@ -6576,11 +6576,12 @@
         "Mimirado",
         "Onyii1914",
         "Ayoness",
-        "Chibuike "
+        "Chibuike ",
+        "Fadhilat"
       ],
       "balance": 138,
-      "refers": 135,
-      "referralBalance": 13500,
+      "refers": 136,
+      "referralBalance": 13600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36996,6 +36997,21 @@
       "joinDate": "2025-02-24T08:41:54.616Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Fadhilat",
+      "email": "micahjason111@gmail.com",
+      "encrypted_password": "ac9519f1dc8212e51fb35cfa9e3ab847",
+      "referral_code": "FAZ9G",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:46:07.919Z"
     }
   ],
   "withdrawals": [
