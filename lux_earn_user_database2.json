@@ -35825,7 +35825,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35834,9 +35834,9 @@
       "completedMissions": [
         10,
         1,
-        5
-      ],
-      "lastSpin": null
+        5,
+        12
+      ]
     },
     {
       "username": "Muekara ",
