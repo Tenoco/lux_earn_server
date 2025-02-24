@@ -12075,7 +12075,7 @@
       "inviter_referral_code": "ESMUF",
       "inviter_username": "Esther",
       "invited_users": [],
-      "balance": 221,
+      "balance": 231,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12096,7 +12096,7 @@
         12,
         13
       ],
-      "lastSpin": "2025-02-22T18:58:49.130Z"
+      "lastSpin": "2025-02-24T09:07:45.107Z"
     },
     {
       "username": "Lizzybee",
@@ -37182,7 +37182,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:06:56.735Z"
+      "joinDate": "2025-02-24T09:06:56.735Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
