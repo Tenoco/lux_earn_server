@@ -36239,10 +36239,12 @@
       "referral_code": "TEBD4",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Ola"
+      ],
       "balance": 35,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -36267,6 +36269,21 @@
       "joinDate": "2025-02-24T18:57:47.687Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ola",
+      "email": "stella5678455@gmail.com",
+      "encrypted_password": "a04b62c98f6b957b8db18ceb1efe05eb",
+      "referral_code": "OLSQW",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:01:49.419Z"
     }
   ],
   "withdrawals": [
