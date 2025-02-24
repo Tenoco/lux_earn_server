@@ -34054,11 +34054,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Kaka009"
+        "Kaka009",
+        "Kaka0099"
       ],
       "balance": 230,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:59:39.227Z",
@@ -35674,6 +35675,21 @@
       "joinDate": "2025-02-24T06:47:22.849Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaka0099",
+      "email": "fatimaaliyu0488@gmail.com",
+      "encrypted_password": "a0a0fef4ff653847e0dbe7d2edcd8595",
+      "referral_code": "KA5MM",
+      "inviter_referral_code": "DA29N",
+      "inviter_username": "Dady0488",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:49:36.277Z"
     }
   ],
   "withdrawals": [
