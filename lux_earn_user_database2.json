@@ -20378,7 +20378,7 @@
       "inviter_referral_code": "ODWXP ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 240,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20397,7 +20397,8 @@
         11,
         10,
         9,
-        8
+        8,
+        16
       ],
       "lastSpin": "2025-02-23T08:01:06.300Z"
     },
@@ -35296,7 +35297,8 @@
       "joinDate": "2025-02-24T05:57:18.835Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mjsilent ",
