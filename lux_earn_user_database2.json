@@ -37061,7 +37061,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:50:11.904Z"
+      "joinDate": "2025-02-24T08:50:11.904Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Face",
+      "email": "27ajiatunde@gmail.com",
+      "encrypted_password": "528147cfba32aebfe0250aaa1ea51ee9",
+      "referral_code": "FAWTN",
+      "inviter_referral_code": "EM0o7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:51:52.603Z"
     }
   ],
   "withdrawals": [
