@@ -37440,14 +37440,13 @@
       "inviter_referral_code": "SEFZA",
       "inviter_username": "Semilore ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:42:30.259Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T09:43:12.170Z"
     },
     {
       "username": "Mkksnsnakas",
@@ -37462,7 +37461,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:42:50.844Z"
+      "joinDate": "2025-02-24T09:42:50.844Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
