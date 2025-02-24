@@ -6522,11 +6522,12 @@
         "simplicity",
         "Itzy",
         "Itzempress ",
-        "Courage "
+        "Courage ",
+        "Salzzy"
       ],
       "balance": 138,
-      "refers": 124,
-      "referralBalance": 12400,
+      "refers": 125,
+      "referralBalance": 12500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34909,6 +34910,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Salzzy",
+      "email": "salvationexodus920@gmail.com",
+      "encrypted_password": "ecfa099d042bc6411c8c8f6eabb414aa",
+      "referral_code": "SAWFP",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:01:36.502Z"
     }
   ],
   "withdrawals": [
