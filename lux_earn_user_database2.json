@@ -6681,11 +6681,12 @@
         "Goodness ",
         "Kennyblue",
         "Sonofalion",
-        "Crystalex "
+        "Crystalex ",
+        "Pop Hizy"
       ],
       "balance": 138,
-      "refers": 131,
-      "referralBalance": 13100,
+      "refers": 132,
+      "referralBalance": 13200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35757,6 +35758,21 @@
       "joinDate": "2025-02-24T17:26:04.295Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pop Hizy",
+      "email": "pophizy1@gmail.com",
+      "encrypted_password": "3f2636bd9cc0dea850a034708d4e417e",
+      "referral_code": "POWW5",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:28:09.327Z"
     }
   ],
   "withdrawals": [
