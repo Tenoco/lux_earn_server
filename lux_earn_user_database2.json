@@ -35438,7 +35438,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nasiru lawal ",
@@ -35456,6 +35457,21 @@
       "joinDate": "2025-02-24T06:18:59.720Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Valentine ",
+      "email": "novacash51@gmail.com",
+      "encrypted_password": "930795357d0bb1acecd8b186d241c2fb",
+      "referral_code": "VAQP7",
+      "inviter_referral_code": "UG8oH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:21:54.749Z"
     }
   ],
   "withdrawals": [
