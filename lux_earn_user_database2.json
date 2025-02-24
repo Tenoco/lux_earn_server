@@ -37275,7 +37275,7 @@
       "inviter_referral_code": "SMNQI",
       "inviter_username": "SMART4VTU",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37283,9 +37283,9 @@
       "joinDate": "2025-02-24T09:18:40.305Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        16
+      ]
     },
     {
       "username": "teddybear57733",
@@ -37300,7 +37300,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:20:54.550Z"
+      "joinDate": "2025-02-24T09:20:54.550Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
