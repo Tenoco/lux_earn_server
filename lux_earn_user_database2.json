@@ -34051,10 +34051,12 @@
       "referral_code": "DA29N",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Kaka009"
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:59:39.227Z",
@@ -35605,6 +35607,21 @@
         15
       ],
       "lastSpin": "2025-02-24T06:44:43.770Z"
+    },
+    {
+      "username": "Kaka009",
+      "email": "yusufaminu04888@gmail.com",
+      "encrypted_password": "899a3a1cd07efbadfe9ff942e728d52d",
+      "referral_code": "KACSA",
+      "inviter_referral_code": "DA29N",
+      "inviter_username": "Dady0488",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:45:40.282Z"
     }
   ],
   "withdrawals": [
