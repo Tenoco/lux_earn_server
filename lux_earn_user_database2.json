@@ -34720,7 +34720,7 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34728,7 +34728,9 @@
       "joinDate": "2025-02-24T03:39:24.346Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        16
       ],
       "lastSpin": null
     }
