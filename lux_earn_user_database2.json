@@ -26602,11 +26602,12 @@
         "David 34",
         "Hadija 21",
         "Danny45",
-        "Israelkelvin"
+        "Israelkelvin",
+        "Favour Augustine "
       ],
       "balance": 170,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35779,7 +35780,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:56:23.344Z"
+      "joinDate": "2025-02-24T06:56:23.344Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Favour Augustine ",
+      "email": "favouraugustine11@gmail.com",
+      "encrypted_password": "82cc921c6a5c6707e1d6e6862ba3201a",
+      "referral_code": "FAJ1X",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:56:29.047Z"
     }
   ],
   "withdrawals": [
