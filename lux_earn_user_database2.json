@@ -17179,7 +17179,7 @@
         "Ali",
         "Hammed "
       ],
-      "balance": 262,
+      "balance": 282,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
@@ -17202,7 +17202,7 @@
         6,
         6
       ],
-      "lastSpin": "2025-02-23T01:10:51.887Z"
+      "lastSpin": "2025-02-24T08:32:44.454Z"
     },
     {
       "username": "Jagoceleb54",
@@ -36844,7 +36844,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:32:06.068Z"
+      "joinDate": "2025-02-24T08:32:06.068Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
