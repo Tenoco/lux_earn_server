@@ -35969,11 +35969,12 @@
       "inviter_username": null,
       "invited_users": [
         "Onug7 ",
-        "Bolachris"
+        "Bolachris",
+        "Josephineop"
       ],
       "balance": 105,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T20:09:04.523Z",
@@ -36135,7 +36136,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:31:43.181Z"
+      "joinDate": "2025-02-24T07:31:43.181Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Josephineop",
+      "email": "richiefavour650@gmail.com",
+      "encrypted_password": "15afbc36b6f0a7d92e75f56f0d30f507",
+      "referral_code": "JO6W0",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": "Max",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:32:26.233Z"
     }
   ],
   "withdrawals": [
