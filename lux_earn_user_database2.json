@@ -35275,7 +35275,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "HarYhorMhiDhey",
@@ -35292,6 +35293,34 @@
       "status": "active",
       "joinDate": "2025-02-24T05:57:18.835Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mjsilent ",
+      "email": "abdulmajeedjamiu8@gmail.com",
+      "encrypted_password": "11bccf5992c2d1b786b07822eb3b786d",
+      "referral_code": "MJWJ9",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 205,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:30:29.624Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        4,
+        6,
+        7,
+        8,
+        9,
+        5
+      ],
       "lastSpin": null
     }
   ],
