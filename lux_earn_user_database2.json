@@ -36524,7 +36524,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Angel Emma ",
@@ -36542,6 +36543,35 @@
       "joinDate": "2025-02-24T08:08:28.398Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T08:08:40.372Z"
+    },
+    {
+      "username": "Revival",
+      "email": "jamesjackson66890@gmail.com",
+      "encrypted_password": "f6355b866e68067da7d7b8743ab3b618",
+      "referral_code": "RET0G",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Patience ",
+        "Victory"
+      ],
+      "balance": 270,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:01:51.502Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        7,
+        5,
+        6
+      ],
+      "lastSpin": "2025-02-20T23:16:35.584Z"
     }
   ],
   "withdrawals": [
