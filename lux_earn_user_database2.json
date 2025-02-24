@@ -17177,11 +17177,12 @@
         "Molarao",
         "Olahitun",
         "Ali",
-        "Hammed "
+        "Hammed ",
+        "Rokeeb01"
       ],
       "balance": 282,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:53:41.039Z",
@@ -36847,6 +36848,21 @@
       "joinDate": "2025-02-24T08:32:06.068Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rokeeb01",
+      "email": "rokeebmuhammad5@gmail.com",
+      "encrypted_password": "8231bac083a475734b4942e9d402b2a4",
+      "referral_code": "ROE8L",
+      "inviter_referral_code": "OMDV9",
+      "inviter_username": "Omotayo01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:34:53.668Z"
     }
   ],
   "withdrawals": [
