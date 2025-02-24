@@ -26538,11 +26538,12 @@
         "Joben4",
         "Peller68",
         "Fighter 38",
-        "Uniroed67g@gmail.com"
+        "Uniroed67g@gmail.com",
+        "David 34"
       ],
       "balance": 170,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -34806,6 +34807,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "David 34",
+      "email": "sectrum456@gmail.com",
+      "encrypted_password": "8d2d83875b296a05a90929b6fa5fd43d",
+      "referral_code": "DA8O2",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T04:43:49.443Z"
     }
   ],
   "withdrawals": [
