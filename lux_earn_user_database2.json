@@ -6548,11 +6548,12 @@
         "Miracool",
         "Covenant1",
         "Officialstainless ",
-        "Ifeanyichukwu "
+        "Ifeanyichukwu ",
+        "Goodness "
       ],
       "balance": 138,
-      "refers": 129,
-      "referralBalance": 12900,
+      "refers": 130,
+      "referralBalance": 13000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36163,6 +36164,21 @@
       "joinDate": "2025-02-24T07:32:26.233Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goodness ",
+      "email": "bjoy6434@gmail.com",
+      "encrypted_password": "e51e96cd948e6851e69d6fa4feca910d",
+      "referral_code": "GOHAR",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:35:40.956Z"
     }
   ],
   "withdrawals": [
