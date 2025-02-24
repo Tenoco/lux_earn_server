@@ -20391,10 +20391,12 @@
       "referral_code": "SMNQI",
       "inviter_referral_code": "BADL5",
       "inviter_username": "Bambam09",
-      "invited_users": [],
+      "invited_users": [
+        "JOSIMA4VTU"
+      ],
       "balance": 61,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:41:41.922Z",
@@ -37262,6 +37264,21 @@
         15
       ],
       "lastSpin": null
+    },
+    {
+      "username": "JOSIMA4VTU",
+      "email": "joshuaagbosamson@gmail.com",
+      "encrypted_password": "f6cea16b781a0135b0532b50d7915fb1",
+      "referral_code": "JOQBM",
+      "inviter_referral_code": "SMNQI",
+      "inviter_username": "SMART4VTU",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:18:40.305Z"
     }
   ],
   "withdrawals": [
