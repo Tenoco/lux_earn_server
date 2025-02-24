@@ -6716,11 +6716,12 @@
         "Jennifer ",
         "Gynen",
         "Patkig",
-        "Sweetie66"
+        "Sweetie66",
+        "Chioma"
       ],
       "balance": 138,
-      "refers": 148,
-      "referralBalance": 14800,
+      "refers": 149,
+      "referralBalance": 14900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36974,6 +36975,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Chioma",
+      "email": "anyorahchigozie884@gmail.com",
+      "encrypted_password": "0434963df28616c0c801f4133da7d380",
+      "referral_code": "CH3OO",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:40:03.847Z"
     }
   ],
   "withdrawals": [
