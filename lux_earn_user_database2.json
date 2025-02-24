@@ -21108,7 +21108,7 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 115,
+      "balance": 123,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21123,7 +21123,7 @@
         7,
         8
       ],
-      "lastSpin": "2025-02-23T08:25:53.478Z"
+      "lastSpin": "2025-02-24T20:10:05.527Z"
     },
     {
       "username": "Zaiyat",
@@ -36762,7 +36762,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:09:11.891Z"
+      "joinDate": "2025-02-24T20:09:11.891Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
