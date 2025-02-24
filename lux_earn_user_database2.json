@@ -6522,11 +6522,12 @@
         "simplicity",
         "Itzy",
         "Itzempress ",
-        "Hemkay44"
+        "Hemkay44",
+        "Jenify"
       ],
       "balance": 138,
-      "refers": 124,
-      "referralBalance": 12400,
+      "refers": 125,
+      "referralBalance": 12500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34891,7 +34892,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T15:57:51.560Z"
+      "joinDate": "2025-02-24T15:57:51.560Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jenify",
+      "email": "jenifyc9@gmail.com",
+      "encrypted_password": "11ec4950b4925ba2c36659db25686717",
+      "referral_code": "JE3X5",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T15:59:06.947Z"
     }
   ],
   "withdrawals": [
