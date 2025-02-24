@@ -9672,14 +9672,14 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T17:02:31.198Z",
       "completedMissions": [],
-      "lastSpin": "2025-02-22T17:03:39.483Z"
+      "lastSpin": "2025-02-24T18:00:00.235Z"
     },
     {
       "username": "benjaminblessing032@gmail.com",
@@ -35962,7 +35962,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:59:35.862Z"
+      "joinDate": "2025-02-24T17:59:35.862Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
