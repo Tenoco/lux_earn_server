@@ -36610,11 +36610,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [
-        "Olarenwaju "
+        "Olarenwaju ",
+        "DAMILAREGOLD"
       ],
       "balance": 28,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:36:24.496Z",
@@ -36670,7 +36671,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:17:34.425Z"
+      "joinDate": "2025-02-24T08:17:34.425Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "DAMILAREGOLD",
+      "email": "laycondamilare95@gmail.com",
+      "encrypted_password": "00fc16739de7869e56739c447af56999",
+      "referral_code": "DA1L8",
+      "inviter_referral_code": "OLAUF",
+      "inviter_username": "Olexprezzy1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:18:38.987Z"
     }
   ],
   "withdrawals": [
