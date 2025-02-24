@@ -6541,11 +6541,12 @@
         "Jenify",
         "Oge victor ",
         "Fosammy1",
-        "Goodness "
+        "Goodness ",
+        "Kennyblue"
       ],
       "balance": 138,
-      "refers": 128,
-      "referralBalance": 12800,
+      "refers": 129,
+      "referralBalance": 12900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35130,6 +35131,21 @@
       "joinDate": "2025-02-24T16:44:41.903Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kennyblue",
+      "email": "hassanaishamotunrayo@gmail.com",
+      "encrypted_password": "baf67a383635732760b3310b8b8bf2f7",
+      "referral_code": "KE893",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:47:14.029Z"
     }
   ],
   "withdrawals": [
