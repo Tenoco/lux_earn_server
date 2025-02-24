@@ -36698,7 +36698,7 @@
       "inviter_referral_code": "MAGEQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36707,7 +36707,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16
       ],
       "lastSpin": null
     },
@@ -36724,7 +36725,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:08:14.258Z"
+      "joinDate": "2025-02-24T20:08:14.258Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
