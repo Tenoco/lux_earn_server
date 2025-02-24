@@ -6715,11 +6715,12 @@
         "Melody ",
         "Jennifer ",
         "Gynen",
-        "Patkig"
+        "Patkig",
+        "Sweetie66"
       ],
       "balance": 138,
-      "refers": 147,
-      "referralBalance": 14700,
+      "refers": 148,
+      "referralBalance": 14800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36915,6 +36916,21 @@
       "joinDate": "2025-02-24T20:30:39.570Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sweetie66",
+      "email": "ayoojeifo44@gmail.com",
+      "encrypted_password": "307907db1cc8a1030487ed7bee3bdf58",
+      "referral_code": "SWEYT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:33:52.744Z"
     }
   ],
   "withdrawals": [
