@@ -36547,13 +36547,15 @@
       "inviter_referral_code": " ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
-      "completedMissions": [],
+      "completedMissions": [
+        4
+      ],
       "lastSpin": null
     },
     {
@@ -36569,7 +36571,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:47:03.746Z"
+      "joinDate": "2025-02-24T19:47:03.746Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
