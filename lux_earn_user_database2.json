@@ -8305,11 +8305,12 @@
         "Blessingivy",
         "GTNice ",
         "Sofia",
-        "Adedokun29"
+        "Adedokun29",
+        "HarYhorMhiDhey"
       ],
       "balance": 198,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:21:20.233Z",
@@ -35259,7 +35260,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T05:56:49.369Z"
+      "joinDate": "2025-02-24T05:56:49.369Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "HarYhorMhiDhey",
+      "email": "sodiqibraheem42@gmail.com",
+      "encrypted_password": "61db65584ce328e26ef0c008838dd749",
+      "referral_code": "HAJQR",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:57:18.835Z"
     }
   ],
   "withdrawals": [
