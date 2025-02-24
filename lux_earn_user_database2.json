@@ -19197,14 +19197,14 @@
       "inviter_referral_code": "OMDV9",
       "inviter_username": "Omotayo01 ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:37:39.890Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T07:23:45.044Z"
     },
     {
       "username": "Basheet305",
@@ -36063,7 +36063,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:22:08.194Z"
+      "joinDate": "2025-02-24T07:22:08.194Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
