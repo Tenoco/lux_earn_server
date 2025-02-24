@@ -34061,11 +34061,12 @@
         "Kaka0093",
         "Kaka009@",
         "Hhjshwg",
-        "Nksjehsh"
+        "Nksjehsh",
+        "Vbbbvv"
       ],
       "balance": 230,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T22:59:39.227Z",
@@ -35797,7 +35798,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:56:29.047Z"
+      "joinDate": "2025-02-24T06:56:29.047Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vbbbvv",
+      "email": "vxxava@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "VBR1B",
+      "inviter_referral_code": "DA29N",
+      "inviter_username": "Dady0488",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:56:59.341Z"
     }
   ],
   "withdrawals": [
