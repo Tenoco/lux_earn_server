@@ -35395,11 +35395,12 @@
       "invited_users": [
         "Diddy ",
         "Rechard",
-        "Hazel"
+        "Hazel",
+        "Tilia "
       ],
       "balance": 12,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35563,6 +35564,21 @@
       "joinDate": "2025-02-24T17:15:40.739Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tilia ",
+      "email": "theleo@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "TINK4",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:16:59.533Z"
     }
   ],
   "withdrawals": [
