@@ -35415,11 +35415,12 @@
         "Danny",
         "Rema",
         "Dudu",
-        "Wilson "
+        "Wilson ",
+        "Wilsonfx"
       ],
       "balance": 12,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35736,6 +35737,21 @@
       "joinDate": "2025-02-24T17:23:38.500Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wilsonfx",
+      "email": "wilson@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "WI59R",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:26:04.295Z"
     }
   ],
   "withdrawals": [
