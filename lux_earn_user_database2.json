@@ -3631,7 +3631,7 @@
         "rot",
         "goatty"
       ],
-      "balance": 1275,
+      "balance": 1290,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -3656,7 +3656,7 @@
         13,
         14
       ],
-      "lastSpin": "2025-02-22T11:47:09.886Z"
+      "lastSpin": "2025-02-24T17:22:19.638Z"
     },
     {
       "username": "Samfx",
@@ -35654,6 +35654,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:21:18.002Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T17:21:27.684Z"
     }
   ],
