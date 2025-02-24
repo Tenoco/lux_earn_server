@@ -6555,11 +6555,12 @@
         "Ifeanyichukwu ",
         "Goodness ",
         "Damsel2",
-        "Mimirado"
+        "Mimirado",
+        "Onyii1914"
       ],
       "balance": 138,
-      "refers": 132,
-      "referralBalance": 13200,
+      "refers": 133,
+      "referralBalance": 13300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36335,6 +36336,21 @@
         7
       ],
       "lastSpin": "2025-02-24T07:53:27.381Z"
+    },
+    {
+      "username": "Onyii1914",
+      "email": "justiceubah1472@gmail.com",
+      "encrypted_password": "9733d12ab644037406a367a461b5f2ec",
+      "referral_code": "ONTJ9",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:54:22.128Z"
     }
   ],
   "withdrawals": [
