@@ -36680,7 +36680,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:03:40.489Z"
+      "joinDate": "2025-02-24T20:03:40.489Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aishakeer",
+      "email": "talk2aishamaliyu@gmail.com",
+      "encrypted_password": "ea79f61702cb224355bbac0c116ec26c",
+      "referral_code": "AIIHF",
+      "inviter_referral_code": "MAGEQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:04:00.058Z"
     }
   ],
   "withdrawals": [
