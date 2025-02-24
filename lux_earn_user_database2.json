@@ -6670,11 +6670,12 @@
         "Oge victor ",
         "Fosammy1",
         "Goodness ",
-        "Kennyblue"
+        "Kennyblue",
+        "Sonofalion"
       ],
       "balance": 138,
-      "refers": 129,
-      "referralBalance": 12900,
+      "refers": 130,
+      "referralBalance": 13000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35297,6 +35298,21 @@
       "joinDate": "2025-02-24T16:51:04.451Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sonofalion",
+      "email": "ondugbeonyeke@gmail.com",
+      "encrypted_password": "e05d098f8e52360c5271a0a0cb3f2f6c",
+      "referral_code": "SO7KE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:58:02.199Z"
     }
   ],
   "withdrawals": [
