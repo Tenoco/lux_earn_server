@@ -37338,11 +37338,12 @@
       "inviter_referral_code": "0S6AF",
       "inviter_username": null,
       "invited_users": [
-        "Willi jay "
+        "Willi jay ",
+        "Andrewmedia"
       ],
       "balance": 15,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:29:01.672Z",
@@ -37570,7 +37571,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:50:31.748Z"
+      "joinDate": "2025-02-24T09:50:31.748Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Andrewmedia",
+      "email": "a42245047@gmail.com",
+      "encrypted_password": "ca991941ed5f95d231dfa26d0041f495",
+      "referral_code": "ANC31",
+      "inviter_referral_code": "SEFZA",
+      "inviter_username": "Semilore ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:51:07.487Z"
     }
   ],
   "withdrawals": [
