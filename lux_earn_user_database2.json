@@ -36378,11 +36378,12 @@
         "Nzjshshggg5",
         "Kdjdhheg52",
         "Krjehdhdg8",
-        "Ndjdhdhdbg7"
+        "Ndjdhdhdbg7",
+        "Msnsnsbdb58"
       ],
       "balance": 230,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:54:22.128Z",
@@ -36743,7 +36744,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:21:33.208Z"
+      "joinDate": "2025-02-24T08:21:33.208Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Msnsnsbdb58",
+      "email": "fjjfbfhfuxhdbrg@gmail.com",
+      "encrypted_password": "9733d12ab644037406a367a461b5f2ec",
+      "referral_code": "MS6N3",
+      "inviter_referral_code": "ONTJ9",
+      "inviter_username": "Onyii1914",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:22:38.661Z"
     }
   ],
   "withdrawals": [
