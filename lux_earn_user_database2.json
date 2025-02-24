@@ -3800,11 +3800,12 @@
         "Miraydouglas",
         "Yull",
         "Officialchrisjoel",
-        "Vickymone"
+        "Vickymone",
+        "Amzzy "
       ],
       "balance": 1216,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:42:15.570Z",
@@ -37135,6 +37136,21 @@
       "joinDate": "2025-02-24T08:59:49.072Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amzzy ",
+      "email": "amzzy967@gmail.com",
+      "encrypted_password": "175cd73752c433117086178fa7618812",
+      "referral_code": "AMRDC",
+      "inviter_referral_code": "BAL4N",
+      "inviter_username": "Bayonets",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:02:59.143Z"
     }
   ],
   "withdrawals": [
