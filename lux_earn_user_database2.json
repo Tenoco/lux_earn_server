@@ -2376,7 +2376,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 330,
+      "balance": 335,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2397,7 +2397,7 @@
         6,
         10
       ],
-      "lastSpin": "2025-02-23T07:40:48.377Z"
+      "lastSpin": "2025-02-24T20:56:08.954Z"
     },
     {
       "username": "Morenikeji",
@@ -37079,7 +37079,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:54:51.184Z"
+      "joinDate": "2025-02-24T20:54:51.184Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
