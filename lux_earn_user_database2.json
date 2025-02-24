@@ -6687,11 +6687,12 @@
         "Muekara ",
         "Rex",
         "Benjamin ",
-        "Sumaila"
+        "Sumaila",
+        "kemkem"
       ],
       "balance": 138,
-      "refers": 137,
-      "referralBalance": 13700,
+      "refers": 138,
+      "referralBalance": 13800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36083,7 +36084,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T18:33:53.556Z"
+      "joinDate": "2025-02-24T18:33:53.556Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "kemkem",
+      "email": "omololaoluwakemipop@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "KE4T2",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:34:59.655Z"
     }
   ],
   "withdrawals": [
