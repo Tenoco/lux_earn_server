@@ -36249,7 +36249,7 @@
         "Mide",
         "Lami"
       ],
-      "balance": 65,
+      "balance": 85,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -36258,7 +36258,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16
       ],
       "lastSpin": "2025-02-24T18:59:48.676Z"
     },
