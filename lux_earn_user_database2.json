@@ -34306,7 +34306,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T00:02:41.543Z"
+      "joinDate": "2025-02-24T00:02:41.543Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shemzy",
+      "email": "generalbusiness43@gmail.com",
+      "encrypted_password": "2ad268542c67e32b5fed59fb3b88bc22",
+      "referral_code": "SH2QK",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T01:02:40.986Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
