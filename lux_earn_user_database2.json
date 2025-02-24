@@ -14991,7 +14991,7 @@
       "inviter_referral_code": "HEDTV",
       "inviter_username": "Henry5@6",
       "invited_users": [],
-      "balance": 273,
+      "balance": 293,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15010,7 +15010,8 @@
         12,
         10,
         11,
-        9
+        9,
+        17
       ],
       "lastSpin": "2025-02-24T03:12:18.409Z"
     },
@@ -35546,7 +35547,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:15:40.739Z"
+      "joinDate": "2025-02-24T17:15:40.739Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
