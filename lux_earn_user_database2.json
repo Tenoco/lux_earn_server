@@ -35325,7 +35325,7 @@
       "inviter_referral_code": "MOTO9",
       "inviter_username": "moloreofe",
       "invited_users": [],
-      "balance": 320,
+      "balance": 340,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35343,7 +35343,8 @@
         9,
         7,
         7,
-        8
+        8,
+        16
       ],
       "lastSpin": null
     },
@@ -35360,7 +35361,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:59:30.050Z"
+      "joinDate": "2025-02-24T16:59:30.050Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
