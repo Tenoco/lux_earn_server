@@ -28573,7 +28573,7 @@
       "invited_users": [
         "Som"
       ],
-      "balance": 195,
+      "balance": 253,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -28595,9 +28595,11 @@
         11,
         10,
         7,
-        16
+        16,
+        17,
+        17
       ],
-      "lastSpin": "2025-02-23T15:53:18.007Z"
+      "lastSpin": "2025-02-24T17:32:35.459Z"
     },
     {
       "username": "Michaelking36 ",
@@ -35816,7 +35818,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:32:35.940Z"
+      "joinDate": "2025-02-24T17:32:35.940Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
