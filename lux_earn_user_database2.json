@@ -6686,11 +6686,12 @@
         "Efeereloo",
         "Muekara ",
         "Rex",
-        "Benjamin "
+        "Benjamin ",
+        "Sumaila"
       ],
       "balance": 138,
-      "refers": 136,
-      "referralBalance": 13600,
+      "refers": 137,
+      "referralBalance": 13700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36007,6 +36008,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Sumaila",
+      "email": "sumailahabib7@gmail.com",
+      "encrypted_password": "abae9cfdc27e6a7fd13404b5e970e9f9",
+      "referral_code": "SUNJY",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:03:22.623Z"
     }
   ],
   "withdrawals": [
