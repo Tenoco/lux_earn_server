@@ -35013,12 +35013,14 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:33:11.942Z"
+      "joinDate": "2025-02-24T16:33:11.942Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-24T16:36:52.211Z"
     }
   ],
   "withdrawals": [
