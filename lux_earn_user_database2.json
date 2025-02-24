@@ -35393,13 +35393,15 @@
       "inviter_referral_code": "EMISH ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 12,
+      "balance": 42,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T16:51:04.451Z",
-      "completedMissions": [],
+      "completedMissions": [
+        12
+      ],
       "lastSpin": "2025-02-24T18:31:07.232Z"
     },
     {
