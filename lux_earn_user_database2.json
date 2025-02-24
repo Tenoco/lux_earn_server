@@ -26633,11 +26633,12 @@
         "Peaceosado",
         "Gloryjob",
         "Fortune golden",
-        "Angel Emma "
+        "Angel Emma ",
+        "Tuborto"
       ],
       "balance": 170,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -36780,10 +36781,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:25:06.136Z",
-      "lastSpin": "2025-02-24T08:25:57.341Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-24T08:25:57.341Z"
     },
     {
       "username": "Extreme",
@@ -36801,6 +36802,21 @@
       "joinDate": "2025-02-24T08:26:00.177Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tuborto",
+      "email": "Tuborto10@gmail.com",
+      "encrypted_password": "a98f6f64e6cdfac22ab2ffd15a7241e3",
+      "referral_code": "TUS2C",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:26:57.193Z"
     }
   ],
   "withdrawals": [
