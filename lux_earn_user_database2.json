@@ -27022,11 +27022,12 @@
         "Noplay",
         "Josslala",
         "Macalister ",
-        "Venus"
+        "Venus",
+        "Favefx"
       ],
       "balance": 192,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -36623,7 +36624,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:59:41.680Z"
+      "joinDate": "2025-02-24T19:59:41.680Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Favefx",
+      "email": "favouruti608@gmail.com",
+      "encrypted_password": "7b23f7d776aeebde416a166031642f89",
+      "referral_code": "FAB0C",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:00:45.411Z"
     }
   ],
   "withdrawals": [
