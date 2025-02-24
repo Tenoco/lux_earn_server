@@ -11714,7 +11714,7 @@
         "Godwin ",
         "Godwinlee"
       ],
-      "balance": 210,
+      "balance": 230,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -11733,7 +11733,8 @@
         9,
         8,
         13,
-        14
+        14,
+        16
       ],
       "lastSpin": null
     },
@@ -35136,7 +35137,8 @@
         4,
         16,
         5
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
