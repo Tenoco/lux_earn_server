@@ -6510,11 +6510,12 @@
         "Oscar",
         "Chinasa ",
         "Option ",
-        "Vickymonet "
+        "Vickymonet ",
+        "Tegaboy "
       ],
       "balance": 138,
-      "refers": 119,
-      "referralBalance": 11900,
+      "refers": 120,
+      "referralBalance": 12000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34463,6 +34464,21 @@
       "joinDate": "2025-02-21T07:31:26.894Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tegaboy ",
+      "email": "c33841763@gmail.com",
+      "encrypted_password": "f646584eaa31a6e1366e45e28dcf5180",
+      "referral_code": "TEC98",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:15:30.099Z"
     }
   ],
   "withdrawals": [
