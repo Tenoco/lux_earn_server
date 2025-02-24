@@ -6671,11 +6671,12 @@
         "Fosammy1",
         "Goodness ",
         "Kennyblue",
-        "Sonofalion"
+        "Sonofalion",
+        "Crystalex "
       ],
       "balance": 138,
-      "refers": 130,
-      "referralBalance": 13000,
+      "refers": 131,
+      "referralBalance": 13100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35379,7 +35380,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:02:04.536Z"
+      "joinDate": "2025-02-24T17:02:04.536Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Crystalex ",
+      "email": "crystalexwork@outlook.com",
+      "encrypted_password": "2c716f406ea97fc9ff186dacd6d9d8a9",
+      "referral_code": "CRX7S",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:03:07.458Z"
     }
   ],
   "withdrawals": [
