@@ -6705,11 +6705,12 @@
         "Rex",
         "Benjamin ",
         "Sumaila",
-        "kemkem"
+        "kemkem",
+        "Tee boy"
       ],
       "balance": 138,
-      "refers": 138,
-      "referralBalance": 13800,
+      "refers": 139,
+      "referralBalance": 13900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36222,6 +36223,21 @@
         16
       ],
       "lastSpin": "2025-02-24T18:47:27.944Z"
+    },
+    {
+      "username": "Tee boy",
+      "email": "taiwo68424@gmail.com",
+      "encrypted_password": "dcaaa148d67b1e57d87723e379b1f012",
+      "referral_code": "TEBD4",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:57:19.783Z"
     }
   ],
   "withdrawals": [
