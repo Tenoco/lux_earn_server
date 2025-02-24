@@ -35429,7 +35429,7 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 240,
+      "balance": 260,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35452,7 +35452,7 @@
         14,
         14
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T06:39:20.673Z"
     },
     {
       "username": "Miracool",
@@ -35563,7 +35563,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:38:48.053Z"
+      "joinDate": "2025-02-24T06:38:48.053Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
