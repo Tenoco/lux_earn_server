@@ -3930,11 +3930,12 @@
         "Marvis",
         "UniqueSlug ",
         "MaxPuppi ",
-        "REZ123"
+        "REZ123",
+        "Debright"
       ],
       "balance": 1010,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -35707,7 +35708,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:24:38.278Z"
+      "joinDate": "2025-02-24T17:24:38.278Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Debright",
+      "email": "Brightshedrack01@gmail.com",
+      "encrypted_password": "3083f2f1f263fd54a791da2d87e9c97e",
+      "referral_code": "DEP90",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:23:38.500Z"
     }
   ],
   "withdrawals": [
