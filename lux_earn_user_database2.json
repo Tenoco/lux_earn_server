@@ -35392,11 +35392,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Diddy "
+        "Diddy ",
+        "Rechard"
       ],
       "balance": 12,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35490,6 +35491,21 @@
       "joinDate": "2025-02-24T17:12:12.050Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T17:12:26.688Z"
+    },
+    {
+      "username": "Rechard",
+      "email": "rechard@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "REK5L",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:14:20.260Z"
     }
   ],
   "withdrawals": [
