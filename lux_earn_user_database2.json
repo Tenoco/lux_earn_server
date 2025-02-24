@@ -36514,14 +36514,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:07:44.494Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Angel Emma ",
@@ -36537,6 +36539,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:08:28.398Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T08:08:40.372Z"
     }
   ],
