@@ -36564,10 +36564,12 @@
       "referral_code": "BO35X",
       "inviter_referral_code": " ",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Hioboial"
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -36607,6 +36609,21 @@
       "joinDate": "2025-02-24T19:47:03.746Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hioboial",
+      "email": "godgiftdarlyn@gmail.com",
+      "encrypted_password": "8f30fa5e80898c83cfd4bb53bea6a600",
+      "referral_code": "HIUE4",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:59:41.680Z"
     }
   ],
   "withdrawals": [
