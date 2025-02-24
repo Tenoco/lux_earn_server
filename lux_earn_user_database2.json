@@ -6547,11 +6547,12 @@
         "Salzzy",
         "Miracool",
         "Covenant1",
-        "Officialstainless "
+        "Officialstainless ",
+        "Ifeanyichukwu "
       ],
       "balance": 138,
-      "refers": 128,
-      "referralBalance": 12800,
+      "refers": 129,
+      "referralBalance": 12900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36120,6 +36121,21 @@
         11
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Ifeanyichukwu ",
+      "email": "Chikaodo09@gmail.com",
+      "encrypted_password": "95b4d8776fa3567febfd7d03dd74beca",
+      "referral_code": "IFFS8",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:31:43.181Z"
     }
   ],
   "withdrawals": [
