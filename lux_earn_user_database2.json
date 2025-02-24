@@ -18847,11 +18847,12 @@
         "Dannyboi",
         "Davidson91",
         "Fathia Abdulrafiu ",
-        "Nimota12"
+        "Nimota12",
+        "Harleeymah"
       ],
       "balance": 410,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:13:08.083Z",
@@ -36874,6 +36875,21 @@
       "joinDate": "2025-02-24T08:34:53.668Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Harleeymah",
+      "email": "mukailahalima2@gmail.com",
+      "encrypted_password": "383d22941f2b8f892db9bdb7ac2d2bb5",
+      "referral_code": "HAE4K",
+      "inviter_referral_code": "BADL5",
+      "inviter_username": "Bambam09",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:39:31.890Z"
     }
   ],
   "withdrawals": [
