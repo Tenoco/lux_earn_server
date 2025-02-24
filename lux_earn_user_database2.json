@@ -36247,14 +36247,15 @@
         "Mide",
         "Lami"
       ],
-      "balance": 35,
+      "balance": 45,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-24T18:59:48.676Z"
     },
