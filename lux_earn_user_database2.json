@@ -26605,11 +26605,12 @@
         "Israelkelvin",
         "Favour Augustine ",
         "Tunde",
-        "Fordlinkjoe"
+        "Fordlinkjoe",
+        "Peaceosado"
       ],
       "balance": 170,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35907,7 +35908,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:05:45.652Z"
+      "joinDate": "2025-02-24T07:05:45.652Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peaceosado",
+      "email": "peaceosado12@gmail.com",
+      "encrypted_password": "4693fbb215b8ca15a6900f0cfa164cdc",
+      "referral_code": "PEH3Z",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:07:49.988Z"
     }
   ],
   "withdrawals": [
