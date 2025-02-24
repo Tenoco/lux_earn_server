@@ -28571,7 +28571,7 @@
       "invited_users": [
         "Som"
       ],
-      "balance": 175,
+      "balance": 195,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -28592,7 +28592,8 @@
         12,
         11,
         10,
-        7
+        7,
+        16
       ],
       "lastSpin": "2025-02-23T15:53:18.007Z"
     },
@@ -35772,7 +35773,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:28:09.327Z"
+      "joinDate": "2025-02-24T17:28:09.327Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
