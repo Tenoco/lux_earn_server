@@ -36353,7 +36353,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36362,7 +36362,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16
       ],
       "lastSpin": null
     },
