@@ -30855,11 +30855,12 @@
       "invited_users": [
         "Sir white ",
         "jindu497",
-        "Fredrick2005"
+        "Fredrick2005",
+        "Henry "
       ],
       "balance": 430,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:44:39.391Z",
@@ -36175,6 +36176,21 @@
         17
       ],
       "lastSpin": "2025-02-24T18:37:27.409Z"
+    },
+    {
+      "username": "Henry ",
+      "email": "chiemelie2088@gmail.com",
+      "encrypted_password": "3740a1940db3b375cd74cad6c03f2885",
+      "referral_code": "HELT8",
+      "inviter_referral_code": "ANY61",
+      "inviter_username": "Ani2005",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:44:01.691Z"
     }
   ],
   "withdrawals": [
