@@ -26606,11 +26606,12 @@
         "Favour Augustine ",
         "Tunde",
         "Fordlinkjoe",
-        "Peaceosado"
+        "Peaceosado",
+        "Gloryjob"
       ],
       "balance": 170,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35925,7 +35926,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:07:49.988Z"
+      "joinDate": "2025-02-24T07:07:49.988Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gloryjob",
+      "email": "gloriousdelight@gmajl.com",
+      "encrypted_password": "8620005ac78d8257435d490058c643dd",
+      "referral_code": "GLHN2",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:09:14.440Z"
     }
   ],
   "withdrawals": [
