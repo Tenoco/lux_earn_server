@@ -37074,14 +37074,15 @@
       "inviter_referral_code": "EM0o7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:51:52.603Z",
       "completedMissions": [
-        1
+        1,
+        10
       ],
       "lastSpin": null
     },
@@ -37099,6 +37100,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:54:39.373Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T08:55:14.680Z"
     }
   ],
