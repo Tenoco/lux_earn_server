@@ -37827,6 +37827,26 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Frañko",
+      "email": "akamigbochinonso14@gmail.com",
+      "encrypted_password": "5cc06467a2296475367b8dd99906bddc",
+      "referral_code": "FR1TE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 40,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T10:02:48.000Z",
+      "completedMissions": [
+        5,
+        6,
+        14
+      ]
     }
   ],
   "withdrawals": [
