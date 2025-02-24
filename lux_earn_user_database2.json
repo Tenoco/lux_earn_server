@@ -30770,11 +30770,12 @@
       "invited_users": [
         "Sir white ",
         "jindu497",
-        "Fredrick2005"
+        "Fredrick2005",
+        "Ozi115@"
       ],
       "balance": 430,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T03:44:39.391Z",
@@ -37027,6 +37028,21 @@
       "joinDate": "2025-02-24T08:46:07.919Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ozi115@",
+      "email": "joh2mich.446@gmail.com",
+      "encrypted_password": "7b374aa0e3db4efd82c91d152d9f5391",
+      "referral_code": "OZYRT",
+      "inviter_referral_code": "ANY61",
+      "inviter_username": "Ani2005",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:48:10.767Z"
     }
   ],
   "withdrawals": [
