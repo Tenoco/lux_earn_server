@@ -11714,11 +11714,12 @@
         "Godwin ",
         "Godwinlee",
         "Fauseer",
-        "Olaitan"
+        "Olaitan",
+        "Pamela"
       ],
       "balance": 230,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -35244,6 +35245,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Pamela",
+      "email": "basitafunlehin@gmail.com",
+      "encrypted_password": "a8698009bce6d1b8c2128eddefc25aad",
+      "referral_code": "PAC8O",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:56:49.369Z"
     }
   ],
   "withdrawals": [
