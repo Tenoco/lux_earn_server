@@ -37591,13 +37591,15 @@
       "inviter_referral_code": "SEFZA",
       "inviter_username": "Semilore ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:51:07.487Z",
-      "completedMissions": [],
+      "completedMissions": [
+        16
+      ],
       "lastSpin": null
     },
     {
@@ -37753,7 +37755,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:58:55.120Z"
+      "joinDate": "2025-02-24T09:58:55.120Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
