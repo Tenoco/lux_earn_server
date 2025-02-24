@@ -36775,16 +36775,17 @@
       "inviter_referral_code": " BAL4N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:25:06.136Z",
+      "lastSpin": "2025-02-24T08:25:57.341Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-24T08:25:57.341Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Extreme",
@@ -36816,7 +36817,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:26:57.193Z"
+      "joinDate": "2025-02-24T08:26:57.193Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
