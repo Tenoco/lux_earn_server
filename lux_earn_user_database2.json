@@ -35567,7 +35567,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "iamdriller23",
@@ -35586,7 +35587,7 @@
         "Favour48",
         "Hamsterkombat"
       ],
-      "balance": 285,
+      "balance": 305,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -35600,7 +35601,8 @@
         5,
         6,
         8,
-        9
+        9,
+        15
       ],
       "lastSpin": null
     }
