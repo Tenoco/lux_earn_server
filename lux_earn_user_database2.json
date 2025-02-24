@@ -34332,13 +34332,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:02:40.986Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14
+      ],
       "lastSpin": null
     }
   ],
