@@ -6521,11 +6521,12 @@
         "Tegaboy ",
         "simplicity",
         "Itzy",
-        "Itzempress "
+        "Itzempress ",
+        "Courage "
       ],
       "balance": 138,
-      "refers": 123,
-      "referralBalance": 12300,
+      "refers": 124,
+      "referralBalance": 12400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -34876,6 +34877,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Courage ",
+      "email": "couragegabrielle18@gmail.com",
+      "encrypted_password": "87808a6a0497e4771ad5280f68823ebb",
+      "referral_code": "CO4WI",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T04:55:17.939Z"
     }
   ],
   "withdrawals": [
