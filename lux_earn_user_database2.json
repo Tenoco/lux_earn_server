@@ -35164,7 +35164,7 @@
         "Donpor",
         "Chris120"
       ],
-      "balance": 70,
+      "balance": 71,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -35175,7 +35175,7 @@
         2,
         3
       ],
-      "lastSpin": "2025-02-20T23:55:31.038Z"
+      "lastSpin": "2025-02-24T05:49:14.195Z"
     },
     {
       "username": "Fauseer",
@@ -35190,7 +35190,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T05:48:42.585Z"
+      "joinDate": "2025-02-24T05:48:42.585Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
