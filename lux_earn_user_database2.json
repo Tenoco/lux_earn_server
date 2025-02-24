@@ -22270,11 +22270,12 @@
         "Ajoke44",
         "Oadeoye123",
         "olaade126",
-        "ADESOLA VERACITY"
+        "ADESOLA VERACITY",
+        "Toyin"
       ],
       "balance": 195,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -35386,6 +35387,21 @@
       "joinDate": "2025-02-24T06:05:20.719Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Toyin",
+      "email": "olujobioluwatoyin0@gmail.com",
+      "encrypted_password": "7ed040dd11164667ddb2ed0492d3a717",
+      "referral_code": "TO5UE",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:09:26.799Z"
     }
   ],
   "withdrawals": [
