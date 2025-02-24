@@ -30166,11 +30166,12 @@
         "Rfckkifcvnn",
         "Cddfesxcvnjk",
         "Nsnsmsmkaka",
-        "Nksoananana"
+        "Nksoananana",
+        "Nsksjsnsmaala"
       ],
       "balance": 155,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:28:37.287Z",
@@ -37702,7 +37703,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Nsnsmsmkaka",
@@ -37737,6 +37739,21 @@
       "joinDate": "2025-02-24T09:57:27.863Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nsksjsnsmaala",
+      "email": "sammiegold15@gmail.com",
+      "encrypted_password": "ec239fa8d419f6ee5868d0de020f03a7",
+      "referral_code": "NS7U1",
+      "inviter_referral_code": "TE6DS",
+      "inviter_username": "Teddybear0863",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:58:55.120Z"
     }
   ],
   "withdrawals": [
