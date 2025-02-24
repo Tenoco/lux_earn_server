@@ -3950,11 +3950,12 @@
         "Marvis",
         "UniqueSlug ",
         "MaxPuppi ",
-        "REZ123"
+        "REZ123",
+        "alex1234"
       ],
       "balance": 1010,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -37446,6 +37447,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T09:42:30.259Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T09:43:12.170Z"
     },
     {
@@ -37464,6 +37466,21 @@
       "joinDate": "2025-02-24T09:42:50.844Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "alex1234",
+      "email": "bellywatt6@gmail.com",
+      "encrypted_password": "b135c64936a97d5cf0e36c93a1714b82",
+      "referral_code": "ALP5T",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:44:28.386Z"
     }
   ],
   "withdrawals": [
