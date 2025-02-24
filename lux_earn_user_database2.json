@@ -25464,11 +25464,12 @@
       "invited_users": [
         "Job",
         "Akabi",
-        "Jokercool"
+        "Jokercool",
+        "Rayo"
       ],
       "balance": 172,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -36191,7 +36192,8 @@
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kingsco89927",
@@ -36226,6 +36228,21 @@
       "joinDate": "2025-02-24T07:40:04.612Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T07:40:23.559Z"
+    },
+    {
+      "username": "Rayo",
+      "email": "mariamshittu69@gmail.com",
+      "encrypted_password": "353b68d3bb29643f4cb9206638fa1848",
+      "referral_code": "RAYB1",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:44:45.669Z"
     }
   ],
   "withdrawals": [
