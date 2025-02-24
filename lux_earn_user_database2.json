@@ -26599,11 +26599,12 @@
         "Peller68",
         "Fighter 38",
         "Uniroed67g@gmail.com",
-        "David 34"
+        "David 34",
+        "Hadija 21"
       ],
       "balance": 170,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35621,7 +35622,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:45:40.282Z"
+      "joinDate": "2025-02-24T06:45:40.282Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hadija 21",
+      "email": "hadijayusuf12721@gmail.com",
+      "encrypted_password": "c96e3d164cfd5185b4fa408ed3778c15",
+      "referral_code": "HASXN",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:45:47.579Z"
     }
   ],
   "withdrawals": [
