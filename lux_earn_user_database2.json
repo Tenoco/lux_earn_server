@@ -36101,7 +36101,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T18:34:59.655Z"
+      "joinDate": "2025-02-24T18:34:59.655Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jojo mark",
+      "email": "jojoera2000@gmail.com",
+      "encrypted_password": "fc66563ad4367872bce2e7a4ae1db910",
+      "referral_code": "JOZ6L",
+      "inviter_referral_code": "KIHF9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T18:36:07.741Z"
     }
   ],
   "withdrawals": [
