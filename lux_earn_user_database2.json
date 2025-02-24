@@ -35863,12 +35863,16 @@
       "inviter_referral_code": "USTJB",
       "inviter_username": "Usman123",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:41:43.973Z"
+      "joinDate": "2025-02-24T17:41:43.973Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
