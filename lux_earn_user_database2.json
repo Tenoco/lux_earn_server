@@ -35043,14 +35043,18 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T16:39:47.850Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        4,
+        16
       ],
       "lastSpin": "2025-02-24T16:42:00.334Z"
     },
@@ -35118,7 +35122,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:44:41.903Z"
+      "joinDate": "2025-02-24T16:44:41.903Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
