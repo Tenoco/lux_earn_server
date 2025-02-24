@@ -37005,14 +37005,14 @@
       "inviter_referral_code": "OLAUF",
       "inviter_username": "Olexprezzy1",
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:41:54.616Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T08:52:21.934Z"
     },
     {
       "username": "Fadhilat",
@@ -37078,7 +37078,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:51:52.603Z"
+      "joinDate": "2025-02-24T08:51:52.603Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
