@@ -34887,10 +34887,12 @@
       "referral_code": "CO4WI",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "glory"
+      ],
       "balance": 415,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T04:55:17.939Z",
@@ -34944,6 +34946,21 @@
         6
       ],
       "lastSpin": "2025-02-24T05:03:21.265Z"
+    },
+    {
+      "username": "glory",
+      "email": "gloryeyetsemitan@gmail.com",
+      "encrypted_password": "91cb19014f9bc30eb7d2566779d3fbbd",
+      "referral_code": "GL5GG",
+      "inviter_referral_code": "CO4WI",
+      "inviter_username": "Courage ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:12:22.126Z"
     }
   ],
   "withdrawals": [
