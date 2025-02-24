@@ -9634,7 +9634,7 @@
         "Chibuzor",
         "demmy"
       ],
-      "balance": 210,
+      "balance": 220,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
@@ -9647,7 +9647,7 @@
         1,
         8
       ],
-      "lastSpin": "2025-02-22T17:07:51.752Z"
+      "lastSpin": "2025-02-24T06:51:52.053Z"
     },
     {
       "username": "Rofiat morenike",
@@ -35707,7 +35707,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:51:01.456Z"
+      "joinDate": "2025-02-24T06:51:01.456Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
