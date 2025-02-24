@@ -34510,14 +34510,45 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 0,
+      "balance": 552,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T23:56:00.120Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        4,
+        4,
+        16,
+        16,
+        5,
+        6,
+        15,
+        15,
+        7,
+        10,
+        10,
+        10,
+        11,
+        12,
+        12,
+        12,
+        13,
+        13,
+        13,
+        13,
+        14,
+        14,
+        14,
+        14,
+        17,
+        17
+      ],
+      "lastSpin": "2025-02-24T17:45:05.080Z"
     },
     {
       "username": "Martins1736",
@@ -35837,7 +35868,8 @@
         5,
         12,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Muekara ",
