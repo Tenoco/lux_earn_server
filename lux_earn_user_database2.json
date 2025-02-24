@@ -35402,11 +35402,12 @@
         "Tilia ",
         "Sharon ",
         "Victoriax",
-        "Danny"
+        "Danny",
+        "Rema"
       ],
       "balance": 12,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35638,6 +35639,21 @@
       "joinDate": "2025-02-24T17:19:37.142Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rema",
+      "email": "oghenephillip@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "RE65C",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:21:18.002Z"
     }
   ],
   "withdrawals": [
