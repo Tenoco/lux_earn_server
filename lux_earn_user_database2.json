@@ -37273,12 +37273,15 @@
       "inviter_referral_code": "SMNQI",
       "inviter_username": "SMART4VTU",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:18:40.305Z"
+      "joinDate": "2025-02-24T09:18:40.305Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
