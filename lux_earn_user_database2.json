@@ -27470,11 +27470,12 @@
         "Temmy04",
         "Capacity ",
         "Miracle 3",
-        "Abrahamicgrace1 "
+        "Abrahamicgrace1 ",
+        "Favorite222"
       ],
       "balance": 125,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:47:23.746Z",
@@ -34375,6 +34376,21 @@
         14
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Favorite222",
+      "email": "mosespeace045@gmail.com",
+      "encrypted_password": "cc6403956fb638c2f2c91fd557cad988",
+      "referral_code": "FAAED",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T00:37:36.951Z"
     }
   ],
   "withdrawals": [
