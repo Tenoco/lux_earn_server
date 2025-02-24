@@ -34526,7 +34526,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T01:42:27.840Z"
+      "joinDate": "2025-02-24T01:42:27.840Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "P777",
+      "email": "okoyeogano5@gmail.com",
+      "encrypted_password": "565bde49f5f1128a6b99e7810dcde055",
+      "referral_code": "P7VKX",
+      "inviter_referral_code": "P777",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:50:43.751Z"
     }
   ],
   "withdrawals": [
