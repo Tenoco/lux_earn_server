@@ -34538,12 +34538,13 @@
       "inviter_referral_code": "P777",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T01:50:43.751Z"
+      "joinDate": "2025-02-24T01:50:43.751Z",
+      "lastSpin": "2025-02-24T01:52:46.353Z"
     }
   ],
   "withdrawals": [
