@@ -35618,7 +35618,7 @@
       "inviter_referral_code": "DA29N",
       "inviter_username": "Dady0488",
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35631,9 +35631,9 @@
         16,
         5,
         6,
-        7
-      ],
-      "lastSpin": null
+        7,
+        15
+      ]
     },
     {
       "username": "Hadija 21",
@@ -35665,7 +35665,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:47:22.849Z"
+      "joinDate": "2025-02-24T06:47:22.849Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
