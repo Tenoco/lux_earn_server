@@ -6707,11 +6707,12 @@
         "Benjamin ",
         "Sumaila",
         "kemkem",
-        "Tee boy"
+        "Tee boy",
+        "Abdis "
       ],
       "balance": 138,
-      "refers": 139,
-      "referralBalance": 13900,
+      "refers": 140,
+      "referralBalance": 14000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36369,6 +36370,21 @@
         9
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Abdis ",
+      "email": "afolabibdlrhmn@gmail.com",
+      "encrypted_password": "bb5955f8fb69dc5ad4a7437ddd159adf",
+      "referral_code": "ABF2N",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:18:18.366Z"
     }
   ],
   "withdrawals": [
