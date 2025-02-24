@@ -6683,11 +6683,12 @@
         "Sonofalion",
         "Crystalex ",
         "Pop Hizy",
-        "Efeereloo"
+        "Efeereloo",
+        "Muekara "
       ],
       "balance": 138,
-      "refers": 133,
-      "referralBalance": 13300,
+      "refers": 134,
+      "referralBalance": 13400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35801,6 +35802,21 @@
       "joinDate": "2025-02-24T17:30:57.590Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muekara ",
+      "email": "luckymuekarag@gmail.com",
+      "encrypted_password": "88a31140595282dccdcec3af81a2a1b2",
+      "referral_code": "MUDQS",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:32:35.940Z"
     }
   ],
   "withdrawals": [
