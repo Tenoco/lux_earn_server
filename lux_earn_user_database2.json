@@ -11895,11 +11895,12 @@
         "Ibrahim salisu ",
         "Maryamsalihu",
         "Saifullah ",
-        "Shamsullah"
+        "Shamsullah",
+        "Zakha001"
       ],
       "balance": 0,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -36444,6 +36445,21 @@
       "joinDate": "2025-02-24T19:20:04.145Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Zakha001",
+      "email": "zakariyyaismail2003@gmail.com",
+      "encrypted_password": "ad5316c5a2edf18080fb81cc499298a6",
+      "referral_code": "ZA6UY",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:27:33.226Z"
     }
   ],
   "withdrawals": [
