@@ -15919,7 +15919,7 @@
       "invited_users": [
         "Geesnyder "
       ],
-      "balance": 410,
+      "balance": 415,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -15949,7 +15949,7 @@
         15,
         15
       ],
-      "lastSpin": "2025-02-23T05:20:37.287Z"
+      "lastSpin": "2025-02-24T07:13:47.921Z"
     },
     {
       "username": "Billionsking",
@@ -35985,7 +35985,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:12:36.753Z"
+      "joinDate": "2025-02-24T07:12:36.753Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
