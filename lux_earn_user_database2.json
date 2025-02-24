@@ -36090,6 +36090,26 @@
       "joinDate": "2025-02-24T07:25:12.145Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Itoro ",
+      "email": "louisitoro739@gmail.com",
+      "encrypted_password": "3eea780137c688a3ac8ad09143cf0d90",
+      "referral_code": "IT8XA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 20,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:19:06.762Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
