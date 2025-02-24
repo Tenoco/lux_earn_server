@@ -22262,7 +22262,7 @@
         "olaade126",
         "ADESOLA VERACITY"
       ],
-      "balance": 75,
+      "balance": 115,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -22271,7 +22271,9 @@
       "completedMissions": [
         11,
         11,
-        4
+        4,
+        15,
+        15
       ],
       "lastSpin": "2025-02-23T18:18:19.813Z"
     },
@@ -35235,7 +35237,8 @@
         7,
         15,
         10
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
