@@ -6682,11 +6682,12 @@
         "Kennyblue",
         "Sonofalion",
         "Crystalex ",
-        "Pop Hizy"
+        "Pop Hizy",
+        "Efeereloo"
       ],
       "balance": 138,
-      "refers": 132,
-      "referralBalance": 13200,
+      "refers": 133,
+      "referralBalance": 13300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35780,7 +35781,23 @@
       "joinDate": "2025-02-24T17:28:09.327Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Efeereloo",
+      "email": "Lovedayfavy@gmail.com",
+      "encrypted_password": "08d9c081cc29c74b2be6852d2a507721",
+      "referral_code": "EFAAD",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:30:57.590Z"
     }
   ],
   "withdrawals": [
