@@ -6711,11 +6711,12 @@
         "Abdis ",
         "Mene",
         "Dadohs",
-        "Danyrex "
+        "Danyrex ",
+        "Melody "
       ],
       "balance": 138,
-      "refers": 143,
-      "referralBalance": 14300,
+      "refers": 144,
+      "referralBalance": 14400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36803,6 +36804,21 @@
       "joinDate": "2025-02-24T20:12:09.662Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Melody ",
+      "email": "jenniferibrahim110@gmail",
+      "encrypted_password": "515a3ed3a6845e8d27f4696ea731db56",
+      "referral_code": "MEC3Y",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:13:28.397Z"
     }
   ],
   "withdrawals": [
