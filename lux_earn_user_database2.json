@@ -6710,11 +6710,12 @@
         "Tee boy",
         "Abdis ",
         "Mene",
-        "Dadohs"
+        "Dadohs",
+        "Danyrex "
       ],
       "balance": 138,
-      "refers": 142,
-      "referralBalance": 14200,
+      "refers": 143,
+      "referralBalance": 14300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36551,7 +36552,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:46:09.720Z"
+      "joinDate": "2025-02-24T19:46:09.720Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danyrex ",
+      "email": "dcharlse949@gmail.com",
+      "encrypted_password": "a7d714acfaba7647cc5aab358844b351",
+      "referral_code": "DAYA9",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:47:03.746Z"
     }
   ],
   "withdrawals": [
