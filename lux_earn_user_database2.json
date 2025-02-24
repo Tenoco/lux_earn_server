@@ -11742,11 +11742,12 @@
         "Godwinlee",
         "Fauseer",
         "Olaitan",
-        "Pamela"
+        "Pamela",
+        "Picker"
       ],
       "balance": 230,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -35548,6 +35549,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Picker",
+      "email": "timothyreal21@gmail.com",
+      "encrypted_password": "396f7965b46d360121761c3ae10f9ff3",
+      "referral_code": "PICQO",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:38:48.053Z"
     }
   ],
   "withdrawals": [
