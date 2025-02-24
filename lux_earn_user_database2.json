@@ -6717,11 +6717,12 @@
         "Gynen",
         "Patkig",
         "Sweetie66",
-        "Chioma"
+        "Chioma",
+        "Bethel "
       ],
       "balance": 138,
-      "refers": 149,
-      "referralBalance": 14900,
+      "refers": 150,
+      "referralBalance": 15000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36992,6 +36993,21 @@
       "joinDate": "2025-02-24T20:40:03.847Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bethel ",
+      "email": "ojeabulubethel8@gmail.com",
+      "encrypted_password": "a8955173b5f291ae0b74d3c259fc965a",
+      "referral_code": "BE2LP",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:41:47.090Z"
     }
   ],
   "withdrawals": [
