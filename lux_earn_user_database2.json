@@ -6684,11 +6684,12 @@
         "Crystalex ",
         "Pop Hizy",
         "Efeereloo",
-        "Muekara "
+        "Muekara ",
+        "Rex"
       ],
       "balance": 138,
-      "refers": 134,
-      "referralBalance": 13400,
+      "refers": 135,
+      "referralBalance": 13500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35944,7 +35945,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:58:11.274Z"
+      "joinDate": "2025-02-24T17:58:11.274Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rex",
+      "email": "miracleedet838@gmail.com",
+      "encrypted_password": "c41d06ed4ba1bb81b284ca4563742b08",
+      "referral_code": "RE3G1",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:59:35.862Z"
     }
   ],
   "withdrawals": [
