@@ -6540,11 +6540,12 @@
         "Hemkay44",
         "Jenify",
         "Oge victor ",
-        "Fosammy1"
+        "Fosammy1",
+        "Goodness "
       ],
       "balance": 138,
-      "refers": 127,
-      "referralBalance": 12700,
+      "refers": 128,
+      "referralBalance": 12800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35082,7 +35083,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T16:44:09.059Z"
+      "joinDate": "2025-02-24T16:44:09.059Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goodness ",
+      "email": "ayotundegoodness148@gmail.com",
+      "encrypted_password": "4a09c27a03b8df96510846cd37468079",
+      "referral_code": "GOG0A",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:44:19.424Z"
     }
   ],
   "withdrawals": [
