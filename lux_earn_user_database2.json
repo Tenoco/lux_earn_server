@@ -27130,7 +27130,7 @@
       "invited_users": [
         "Njideka "
       ],
-      "balance": 160,
+      "balance": 180,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -27147,7 +27147,8 @@
         7,
         12,
         17,
-        14
+        14,
+        13
       ],
       "lastSpin": null
     },
@@ -36384,7 +36385,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T19:18:18.366Z"
+      "joinDate": "2025-02-24T19:18:18.366Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
