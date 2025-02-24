@@ -11844,11 +11844,12 @@
       "invited_users": [
         "Abubakar123",
         "Ibrahim salisu ",
-        "Maryamsalihu"
+        "Maryamsalihu",
+        "Saifullah "
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -35345,6 +35346,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Saifullah ",
+      "email": "saifullah60085@gmail.com",
+      "encrypted_password": "f6b322986b3d5554e01b1e59f8590f2f",
+      "referral_code": "SA1D3",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:59:30.050Z"
     }
   ],
   "withdrawals": [
