@@ -6543,11 +6543,12 @@
         "Itzempress ",
         "Courage ",
         "Salzzy",
-        "Miracool"
+        "Miracool",
+        "Covenant1"
       ],
       "balance": 138,
-      "refers": 126,
-      "referralBalance": 12600,
+      "refers": 127,
+      "referralBalance": 12700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -35515,6 +35516,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Covenant1",
+      "email": "okoncovenant35@gmail.com",
+      "encrypted_password": "b9391f8f11be0f88c0ad172d1a252a39",
+      "referral_code": "COI42",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:31:01.212Z"
     }
   ],
   "withdrawals": [
