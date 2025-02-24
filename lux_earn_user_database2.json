@@ -7652,7 +7652,7 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 370,
+      "balance": 430,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7678,9 +7678,11 @@
         10,
         10,
         11,
-        14
+        14,
+        15,
+        16
       ],
-      "lastSpin": "2025-02-22T15:32:18.277Z"
+      "lastSpin": "2025-02-24T17:59:55.780Z"
     },
     {
       "username": "Divyaswee",
@@ -36022,7 +36024,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T18:03:22.623Z"
+      "joinDate": "2025-02-24T18:03:22.623Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
