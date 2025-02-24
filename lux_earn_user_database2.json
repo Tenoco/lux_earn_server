@@ -35946,7 +35946,7 @@
       "inviter_referral_code": "OLDAF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35954,7 +35954,8 @@
       "joinDate": "2025-02-24T17:58:11.274Z",
       "completedMissions": [
         1,
-        11
+        11,
+        12
       ],
       "lastSpin": null
     },
