@@ -35219,14 +35219,18 @@
       "inviter_referral_code": "FMKRW",
       "inviter_username": "fmdollar",
       "invited_users": [],
-      "balance": 10,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T05:53:09.349Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        16,
+        5
       ]
     }
   ],
