@@ -37100,13 +37100,15 @@
       "inviter_referral_code": "NAIWW",
       "inviter_username": "Nasmatu Haruna",
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T08:50:11.904Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-24T09:00:11.987Z"
     },
     {
@@ -37253,7 +37255,8 @@
         12,
         14,
         11
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
