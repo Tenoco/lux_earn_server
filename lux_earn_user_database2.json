@@ -6582,11 +6582,12 @@
         "Ayoness",
         "Chibuike ",
         "Fadhilat",
-        "Gabsonofficial01"
+        "Gabsonofficial01",
+        "sundayukeme"
       ],
       "balance": 138,
-      "refers": 137,
-      "referralBalance": 13700,
+      "refers": 138,
+      "referralBalance": 13800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37167,6 +37168,21 @@
       "joinDate": "2025-02-24T09:02:59.143Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "sundayukeme",
+      "email": "sundayukeme632@gmail.com",
+      "encrypted_password": "2cbd715c0d40fd1612397594173dce4f",
+      "referral_code": "SU4ZJ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:06:56.735Z"
     }
   ],
   "withdrawals": [
