@@ -26629,11 +26629,12 @@
         "Fordlinkjoe",
         "Peaceosado",
         "Gloryjob",
-        "Fortune golden"
+        "Fortune golden",
+        "Angel Emma "
       ],
       "balance": 170,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -36518,7 +36519,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T08:07:44.494Z"
+      "joinDate": "2025-02-24T08:07:44.494Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Angel Emma ",
+      "email": "angelemma123@gmail.com",
+      "encrypted_password": "93279e3308bdbbeed946fc965017f67a",
+      "referral_code": "ANH05",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:08:28.398Z"
     }
   ],
   "withdrawals": [
