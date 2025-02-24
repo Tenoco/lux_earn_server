@@ -26601,11 +26601,12 @@
         "Uniroed67g@gmail.com",
         "David 34",
         "Hadija 21",
-        "Danny45"
+        "Danny45",
+        "Israelkelvin"
       ],
       "balance": 170,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -35710,6 +35711,21 @@
       "joinDate": "2025-02-24T06:51:01.456Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Israelkelvin",
+      "email": "israelkelvin09@gmail.com",
+      "encrypted_password": "3f8454b7f2c12cebb1622b6b0dfd1021",
+      "referral_code": "ISHP0",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T06:53:08.220Z"
     }
   ],
   "withdrawals": [
