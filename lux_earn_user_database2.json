@@ -6552,11 +6552,12 @@
         "Officialstainless ",
         "Ifeanyichukwu ",
         "Goodness ",
-        "Damsel2"
+        "Damsel2",
+        "Mimirado"
       ],
       "balance": 138,
-      "refers": 131,
-      "referralBalance": 13100,
+      "refers": 132,
+      "referralBalance": 13200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36278,7 +36279,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:48:38.569Z"
+      "joinDate": "2025-02-24T07:48:38.569Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mimirado",
+      "email": "aromiracle9@gmail.com",
+      "encrypted_password": "ad8eda41ff14b2a904a883d11eb82b20",
+      "referral_code": "MI87D",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T07:49:25.000Z"
     }
   ],
   "withdrawals": [
