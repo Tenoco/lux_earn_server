@@ -6714,11 +6714,12 @@
         "Danyrex ",
         "Melody ",
         "Jennifer ",
-        "Gynen"
+        "Gynen",
+        "Patkig"
       ],
       "balance": 138,
-      "refers": 146,
-      "referralBalance": 14600,
+      "refers": 147,
+      "referralBalance": 14700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -36875,7 +36876,23 @@
       "joinDate": "2025-02-24T20:25:44.409Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Patkig",
+      "email": "patiencekigbu22@gmail.com",
+      "encrypted_password": "a09862836d65b5f0f9336bec3c5975c9",
+      "referral_code": "PAJER",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:28:56.171Z"
     }
   ],
   "withdrawals": [
