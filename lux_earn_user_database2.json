@@ -34711,6 +34711,21 @@
       "joinDate": "2025-02-21T02:50:40.109Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "James",
+      "email": "sylvatecheng@gmail.com",
+      "encrypted_password": "d25fac2c21ad04df228a98b022794a2b",
+      "referral_code": "JADFY",
+      "inviter_referral_code": "BE30N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T03:39:24.346Z"
     }
   ],
   "withdrawals": [
