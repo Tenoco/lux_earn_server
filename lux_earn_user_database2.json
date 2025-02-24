@@ -27918,7 +27918,7 @@
         "Vic7890",
         "NchekwubeEmmanuel "
       ],
-      "balance": 42,
+      "balance": 62,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -27926,7 +27926,8 @@
       "joinDate": "2025-02-23T15:01:50.203Z",
       "completedMissions": [
         1,
-        2
+        2,
+        13
       ],
       "lastSpin": "2025-02-23T15:09:52.332Z"
     },
@@ -35597,6 +35598,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:17:59.527Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-24T17:18:11.033Z"
     }
   ],
