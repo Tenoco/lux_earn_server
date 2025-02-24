@@ -35396,11 +35396,12 @@
         "Diddy ",
         "Rechard",
         "Hazel",
-        "Tilia "
+        "Tilia ",
+        "Sharon "
       ],
       "balance": 12,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35578,7 +35579,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:16:59.533Z"
+      "joinDate": "2025-02-24T17:16:59.533Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sharon ",
+      "email": "girajin@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "SHVQP",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:17:59.527Z"
     }
   ],
   "withdrawals": [
