@@ -31842,11 +31842,12 @@
       "inviter_username": null,
       "invited_users": [
         "Miposi",
-        "Tobi123"
+        "Tobi123",
+        "Tommie"
       ],
       "balance": 345,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:45:14.499Z",
@@ -36744,7 +36745,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:08:49.737Z"
+      "joinDate": "2025-02-24T20:08:49.737Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tommie",
+      "email": "oluwatomifemioladejo@gmail.com",
+      "encrypted_password": "9c917c139d00eec5f1ba7e9f357832de",
+      "referral_code": "TOZ75",
+      "inviter_referral_code": "HAVDL",
+      "inviter_username": "Hay_bee291",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:09:11.891Z"
     }
   ],
   "withdrawals": [
