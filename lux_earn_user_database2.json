@@ -35980,7 +35980,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T18:01:27.631Z"
+      "joinDate": "2025-02-24T18:01:27.631Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Benjamin",
+      "email": "benjaminofeimu35@gmail.com",
+      "encrypted_password": "fd08ca4bf139770f8b9fd5d7c485324a",
+      "referral_code": "BESE3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 180,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:03:53.439Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
