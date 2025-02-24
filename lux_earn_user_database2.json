@@ -36640,11 +36640,12 @@
       "inviter_username": "Bella",
       "invited_users": [
         "Olarenwaju ",
-        "DAMILAREGOLD"
+        "DAMILAREGOLD",
+        "Jay"
       ],
       "balance": 28,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T03:36:24.496Z",
@@ -36959,6 +36960,21 @@
         1
       ],
       "lastSpin": "2025-02-21T05:51:37.756Z"
+    },
+    {
+      "username": "Jay",
+      "email": "joyaizenabor590@gmail.com",
+      "encrypted_password": "2af337b25ef78328b31005f19f489c70",
+      "referral_code": "JAIBS",
+      "inviter_referral_code": "OLAUF",
+      "inviter_username": "Olexprezzy1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T08:41:54.616Z"
     }
   ],
   "withdrawals": [
