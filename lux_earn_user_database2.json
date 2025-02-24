@@ -35721,14 +35721,13 @@
       "inviter_referral_code": "BRIEW",
       "inviter_username": "Bright13",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T06:53:08.220Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-24T06:54:29.407Z"
     },
     {
       "username": "Kaka009@",
@@ -35743,7 +35742,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:54:23.257Z"
+      "joinDate": "2025-02-24T06:54:23.257Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
