@@ -36197,7 +36197,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36215,9 +36215,9 @@
         15,
         10,
         11,
-        12
-      ],
-      "lastSpin": null
+        12,
+        13
+      ]
     },
     {
       "username": "Kingsco89927",
@@ -36386,7 +36386,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T07:55:59.299Z"
+      "joinDate": "2025-02-24T07:55:59.299Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
