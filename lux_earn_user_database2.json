@@ -35291,7 +35291,7 @@
       "inviter_referral_code": "REKOU",
       "inviter_username": "Rebecca",
       "invited_users": [],
-      "balance": 110,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35304,9 +35304,12 @@
         16,
         14,
         13,
-        5
-      ],
-      "lastSpin": null
+        5,
+        6,
+        12,
+        11,
+        10
+      ]
     },
     {
       "username": "Mjsilent ",
@@ -35376,7 +35379,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T06:05:20.719Z"
+      "joinDate": "2025-02-24T06:05:20.719Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
