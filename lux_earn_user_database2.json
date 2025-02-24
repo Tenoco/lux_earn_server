@@ -34888,11 +34888,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "glory"
+        "glory",
+        "Sunny"
       ],
       "balance": 415,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T04:55:17.939Z",
@@ -34986,6 +34987,21 @@
         7
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Sunny",
+      "email": "suneye42@gmail.com",
+      "encrypted_password": "02c1b1b217c020fc8f7fd1f8446957ee",
+      "referral_code": "SUMK0",
+      "inviter_referral_code": "CO4WI",
+      "inviter_username": "Courage ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:17:47.818Z"
     }
   ],
   "withdrawals": [
