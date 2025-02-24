@@ -36001,13 +36001,19 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T07:12:36.753Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14,
+        13,
+        12,
+        11,
+        10
+      ],
       "lastSpin": null
     },
     {
