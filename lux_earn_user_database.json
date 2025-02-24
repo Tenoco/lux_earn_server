@@ -8932,7 +8932,7 @@
         "Sammy4022",
         "Deraboy22 "
       ],
-      "balance": 215,
+      "balance": 115,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -39013,6 +39013,16 @@
       "phoneNumber": "07049248029",
       "amount": 100,
       "timestamp": "2025-02-24T13:18:47.421Z",
+      "status": "pending"
+    },
+    {
+      "username": "Sammy4021",
+      "email": "samuelademosu7@gmail.com",
+      "type": "airtime",
+      "network": "mtn",
+      "phoneNumber": "07049248029",
+      "amount": 100,
+      "timestamp": "2025-02-24T13:19:26.035Z",
       "status": "pending"
     }
   ]
