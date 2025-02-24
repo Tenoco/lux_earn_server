@@ -6718,11 +6718,12 @@
         "Patkig",
         "Sweetie66",
         "Chioma",
-        "Bethel "
+        "Bethel ",
+        "Olavibz"
       ],
       "balance": 138,
-      "refers": 150,
-      "referralBalance": 15000,
+      "refers": 151,
+      "referralBalance": 15100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37123,6 +37124,21 @@
       "joinDate": "2025-02-24T21:08:06.591Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olavibz",
+      "email": "Olamidejulius98@gmail.com",
+      "encrypted_password": "cb3f57cdeee20d8d2edf209f9f1376d6",
+      "referral_code": "OLROX",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T21:16:31.282Z"
     }
   ],
   "withdrawals": [
