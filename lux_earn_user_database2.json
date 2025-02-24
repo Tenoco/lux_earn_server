@@ -34539,7 +34539,7 @@
       "inviter_referral_code": "P777",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 38,
+      "balance": 58,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34548,7 +34548,8 @@
       "lastSpin": "2025-02-24T01:52:46.353Z",
       "completedMissions": [
         16,
-        2
+        2,
+        4
       ]
     },
     {
