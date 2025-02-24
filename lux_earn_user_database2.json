@@ -36570,11 +36570,12 @@
       "inviter_referral_code": " ",
       "inviter_username": null,
       "invited_users": [
-        "Hioboial"
+        "Hioboial",
+        "Bihilia"
       ],
       "balance": 260,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -36662,7 +36663,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T20:03:10.157Z"
+      "joinDate": "2025-02-24T20:03:10.157Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bihilia",
+      "email": "bossloliagodgift@gmail.com",
+      "encrypted_password": "1f661eaf747f98b0e0fec6961d6c8154",
+      "referral_code": "BI9F7",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:03:40.489Z"
     }
   ],
   "withdrawals": [
