@@ -3952,7 +3952,7 @@
       "inviter_referral_code": "GOUP2",
       "inviter_username": "goat0987yr",
       "invited_users": [],
-      "balance": 192,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3969,9 +3969,10 @@
         8,
         9,
         10,
-        10
+        10,
+        15
       ],
-      "lastSpin": "2025-02-22T11:51:01.730Z"
+      "lastSpin": "2025-02-24T17:23:55.203Z"
     },
     {
       "username": "hamxation",
@@ -35725,7 +35726,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T17:23:38.500Z"
+      "joinDate": "2025-02-24T17:23:38.500Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
