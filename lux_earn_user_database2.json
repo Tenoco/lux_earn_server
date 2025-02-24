@@ -35398,11 +35398,12 @@
         "Rechard",
         "Hazel",
         "Tilia ",
-        "Sharon "
+        "Sharon ",
+        "Victoriax"
       ],
       "balance": 12,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:03:07.458Z",
@@ -35600,6 +35601,21 @@
       "joinDate": "2025-02-24T17:17:59.527Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T17:18:11.033Z"
+    },
+    {
+      "username": "Victoriax",
+      "email": "victoriaogaga@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "VIWTZ",
+      "inviter_referral_code": "CRX7S",
+      "inviter_username": "Crystalex ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:19:02.904Z"
     }
   ],
   "withdrawals": [
