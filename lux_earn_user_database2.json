@@ -37081,7 +37081,7 @@
       "inviter_referral_code": "EM0o7",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 140,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37095,7 +37095,9 @@
         4,
         6,
         14,
-        12
+        12,
+        13,
+        7
       ],
       "lastSpin": null
     },
@@ -37150,7 +37152,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:02:59.143Z"
+      "joinDate": "2025-02-24T09:02:59.143Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
