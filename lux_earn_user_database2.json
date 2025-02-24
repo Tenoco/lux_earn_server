@@ -11713,11 +11713,12 @@
         "Basman ",
         "Godwin ",
         "Godwinlee",
-        "Fauseer"
+        "Fauseer",
+        "Olaitan"
       ],
       "balance": 230,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T01:43:21.551Z",
@@ -35207,6 +35208,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Olaitan",
+      "email": "rolawale084@gmail.com",
+      "encrypted_password": "c33367701511b4f6020ec61ded352059",
+      "referral_code": "OLGY2",
+      "inviter_referral_code": "FMKRW",
+      "inviter_username": "fmdollar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T05:53:09.349Z"
     }
   ],
   "withdrawals": [
