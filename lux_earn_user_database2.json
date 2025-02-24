@@ -35493,6 +35493,28 @@
       "joinDate": "2025-02-24T06:21:54.749Z",
       "completedMissions": [],
       "lastSpin": "2025-02-24T06:27:30.385Z"
+    },
+    {
+      "username": "John ",
+      "email": "morrisdaniel436@gmail.com",
+      "encrypted_password": "e25056aafadb8a64ad4457d28ca41311",
+      "referral_code": "JOKP6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 90,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:19:40.059Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
