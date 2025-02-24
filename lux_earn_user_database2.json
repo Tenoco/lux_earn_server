@@ -35088,7 +35088,7 @@
       "inviter_referral_code": "FMKRW",
       "inviter_username": "fmdollar",
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -35101,7 +35101,9 @@
         4,
         16,
         5,
-        6
+        6,
+        6,
+        7
       ],
       "lastSpin": null
     }
