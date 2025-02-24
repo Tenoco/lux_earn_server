@@ -26759,11 +26759,12 @@
         "Brodalateef",
         "mgdollars1",
         "Angel ",
-        "Noplay"
+        "Noplay",
+        "Josslala"
       ],
       "balance": 192,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -34511,6 +34512,21 @@
         13
       ],
       "lastSpin": "2025-02-24T01:29:11.039Z"
+    },
+    {
+      "username": "Josslala",
+      "email": "fnmoluwaseyi@gmail.com",
+      "encrypted_password": "2b71a62eeb1f1baedd859c4038a848de",
+      "referral_code": "JO4N2",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T01:42:27.840Z"
     }
   ],
   "withdrawals": [
