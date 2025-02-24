@@ -16856,7 +16856,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16874,7 +16874,8 @@
         10,
         11,
         12,
-        13
+        13,
+        16
       ],
       "lastSpin": "2025-02-22T23:32:05.015Z"
     },
@@ -34922,7 +34923,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Fatimah",
