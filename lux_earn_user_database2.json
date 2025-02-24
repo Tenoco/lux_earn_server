@@ -37678,7 +37678,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-24T09:54:44.471Z"
+      "joinDate": "2025-02-24T09:54:44.471Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "himshop",
+      "email": "gayajoel00@gmail.com",
+      "encrypted_password": "2f9cd56184f6ac8d82321408784b29a2",
+      "referral_code": "HI8G2",
+      "inviter_referral_code": "LEUPH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T09:56:02.022Z"
     }
   ],
   "withdrawals": [
