@@ -36985,7 +36985,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 170,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37000,7 +37000,9 @@
         11,
         1,
         2,
-        4
+        4,
+        16,
+        5
       ],
       "lastSpin": null
     },
