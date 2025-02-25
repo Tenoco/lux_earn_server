@@ -10365,7 +10365,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:54:28.913Z"
+      "joinDate": "2025-02-25T20:54:28.913Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rexi112",
+      "email": "israelizzyrexi@gmail.com",
+      "encrypted_password": "dbe00ac3c189a7f7858f524bfae5f663",
+      "referral_code": "REU0E",
+      "inviter_referral_code": "KllO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:56:09.773Z"
     }
   ],
   "withdrawals": [
