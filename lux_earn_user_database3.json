@@ -10609,7 +10609,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 345,
+      "balance": 380,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10627,9 +10627,10 @@
         9,
         10,
         14,
-        12
+        12,
+        18
       ],
-      "lastSpin": "2025-02-23T11:13:28.197Z"
+      "lastSpin": "2025-02-25T23:22:10.257Z"
     },
     {
       "username": "Temmy tee ",
@@ -12456,7 +12457,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:22:12.341Z"
+      "joinDate": "2025-02-25T23:22:12.341Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
