@@ -5794,11 +5794,12 @@
         "Yet you can get ",
         "First bank ",
         "Mujeeb ballo",
-        "Try to get another job "
+        "Try to get another job ",
+        "Tulip bulbs "
       ],
       "balance": 18,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -10399,7 +10400,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:56:28.117Z"
+      "joinDate": "2025-02-25T20:56:28.117Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tulip bulbs ",
+      "email": "datrjcjnhfd@gmail.com",
+      "encrypted_password": "4135c292f42d3572a7726458c36ce232",
+      "referral_code": "TUT7F",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:57:14.478Z"
     }
   ],
   "withdrawals": [
