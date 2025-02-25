@@ -8754,7 +8754,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:25:40.526Z"
+      "joinDate": "2025-02-25T18:25:40.526Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marvelous00",
+      "email": "anazodomarvelous01@gmail.com",
+      "encrypted_password": "f096ae92099a905893fed5928cb90651",
+      "referral_code": "MAEWQ",
+      "inviter_referral_code": "MA6NM",
+      "inviter_username": "Marvelous0",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:38:03.295Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
