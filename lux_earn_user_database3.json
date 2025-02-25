@@ -3207,7 +3207,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:03:36.968Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T10:04:26.110Z"
+    },
+    {
+      "username": "BLESSEDME",
+      "email": "okochieblessing@gmail.com",
+      "encrypted_password": "ae99678516e4d8c2facbbbe4d0af9450",
+      "referral_code": "BL95C",
+      "inviter_referral_code": "SHNDD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:05:14.866Z"
     }
   ],
   "withdrawals": [
