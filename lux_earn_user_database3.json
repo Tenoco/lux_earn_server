@@ -7723,11 +7723,12 @@
         "Lekan5",
         "Teniola1",
         "Darasimi",
-        "Bidemi"
+        "Bidemi",
+        "Seun"
       ],
       "balance": 242,
-      "refers": 41,
-      "referralBalance": 4100,
+      "refers": 42,
+      "referralBalance": 4200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -13166,7 +13167,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:54:16.160Z"
+      "joinDate": "2025-02-25T23:54:16.160Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Seun",
+      "email": "igbayilolaadeyiga304@gmail.com",
+      "encrypted_password": "3e75dde6c5aa6b4483b5c70f6a9141c5",
+      "referral_code": "SEM4R",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:55:08.169Z"
     }
   ],
   "withdrawals": [
