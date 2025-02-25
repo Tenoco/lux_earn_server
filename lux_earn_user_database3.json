@@ -5768,11 +5768,12 @@
         "Mueez gamawa",
         "Yakuhb Nana ",
         "Evening and then ",
-        "Yet you can get "
+        "Yet you can get ",
+        "First bank "
       ],
       "balance": 18,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -9182,7 +9183,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:57:00.238Z"
+      "joinDate": "2025-02-25T18:57:00.238Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "First bank ",
+      "email": "hjkjfigfu@gmail.com",
+      "encrypted_password": "d3a9f1b277b6b6fcdefb1095349ada68",
+      "referral_code": "FISVR",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:57:04.131Z"
     }
   ],
   "withdrawals": [
