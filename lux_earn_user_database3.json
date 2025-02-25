@@ -4502,7 +4502,8 @@
         16,
         5,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Oguzie ",
@@ -4861,6 +4862,21 @@
         13
       ],
       "lastSpin": "2025-02-24T16:48:09.155Z"
+    },
+    {
+      "username": "Olarenwaju2",
+      "email": "goodnewsadetunji94@gmail.com",
+      "encrypted_password": "695f985da6fc0f0510ed57993bf7c5b9",
+      "referral_code": "OLAX2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T12:55:45.843Z"
     }
   ],
   "withdrawals": [
