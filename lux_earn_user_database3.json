@@ -2127,7 +2127,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T08:25:27.838Z"
+      "joinDate": "2025-02-25T08:25:27.838Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omoshile ",
+      "email": "mercyolamide419@gmail.com",
+      "encrypted_password": "d3b7a5e0d81e7317ba2963a5494377e4",
+      "referral_code": "OME4O",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 182,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:30:04.151Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "lastSpin": "2025-02-23T09:11:12.182Z"
     }
   ],
   "withdrawals": [
