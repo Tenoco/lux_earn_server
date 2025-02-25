@@ -7878,7 +7878,7 @@
       "inviter_referral_code": "BL7KC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7887,9 +7887,9 @@
       "completedMissions": [
         1,
         2,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4
+      ]
     },
     {
       "username": "Kezie313",
