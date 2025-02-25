@@ -3309,7 +3309,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Benjamin Frank ",
@@ -3363,6 +3364,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Udoye434",
+      "email": "amakummnl@gmail.com",
+      "encrypted_password": "17d35b04978417855d30aa9bd9fbf434",
+      "referral_code": "UD0FQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:19:39.270Z"
     }
   ],
   "withdrawals": [
