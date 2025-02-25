@@ -4343,11 +4343,12 @@
         "Goodluck ",
         "cute54",
         "Clavert ",
-        "Emeka34"
+        "Emeka34",
+        "Abuchi43"
       ],
       "balance": 250,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -9318,7 +9319,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:06:52.469Z"
+      "joinDate": "2025-02-25T19:06:52.469Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abuchi43",
+      "email": "abuchiwisdom@gmail.com",
+      "encrypted_password": "16c9657bb9e820d5110d1b615095b9a4",
+      "referral_code": "AB7NY",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:07:29.545Z"
     }
   ],
   "withdrawals": [
