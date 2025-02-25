@@ -8081,7 +8081,8 @@
         1,
         11,
         17
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Debbie love",
@@ -8174,6 +8175,21 @@
         6
       ],
       "lastSpin": "2025-02-25T04:31:33.429Z"
+    },
+    {
+      "username": "BabatundeE ",
+      "email": "babatundeelisha01@gmail.com",
+      "encrypted_password": "1df6b746e21818c29848446702bf1c83",
+      "referral_code": "BAHLM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:36:07.368Z"
     }
   ],
   "withdrawals": [
