@@ -3600,6 +3600,32 @@
       "joinDate": "2025-02-25T10:53:10.983Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T10:53:30.723Z"
+    },
+    {
+      "username": "8113625211",
+      "email": "g95366757@gmail.com",
+      "encrypted_password": "379ae525709c00fac7a30f38aa6bc622",
+      "referral_code": "81L26",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 260,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:43:45.203Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
