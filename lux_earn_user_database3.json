@@ -8088,11 +8088,12 @@
       "inviter_referral_code": "TEBD4",
       "inviter_username": "Tee boy",
       "invited_users": [
-        "Emmanuel"
+        "Emmanuel",
+        "Emperor "
       ],
       "balance": 350,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
@@ -11262,6 +11263,21 @@
       "joinDate": "2025-02-25T21:55:59.259Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emperor ",
+      "email": "yakubamod8@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "EMM8K",
+      "inviter_referral_code": "ALX1V",
+      "inviter_username": "alofeprecious",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:56:38.120Z"
     }
   ],
   "withdrawals": [
