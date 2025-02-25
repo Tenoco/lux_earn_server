@@ -378,11 +378,12 @@
         "Ifemi",
         "Budemi",
         "Juwon",
-        "dylandjunior "
+        "dylandjunior ",
+        "alofeprecious"
       ],
       "balance": 255,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -7964,7 +7965,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:23:22.451Z"
+      "joinDate": "2025-02-25T17:23:22.451Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "alofeprecious",
+      "email": "alofeprecious86@gmail.com",
+      "encrypted_password": "2bb1db925f627c61bac9c972de759fa2",
+      "referral_code": "ALX1V",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:23:38.494Z"
     }
   ],
   "withdrawals": [
