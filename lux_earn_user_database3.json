@@ -3218,11 +3218,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:03:36.968Z",
-      "lastSpin": "2025-02-25T10:04:26.110Z",
       "completedMissions": [
         17,
         14
-      ]
+      ],
+      "lastSpin": "2025-02-25T10:04:26.110Z"
     },
     {
       "username": "BLESSEDME",
@@ -3232,16 +3232,17 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:05:14.866Z",
+      "lastSpin": "2025-02-25T10:05:36.197Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-25T10:05:36.197Z"
+        1,
+        2
+      ]
     }
   ],
   "withdrawals": [
