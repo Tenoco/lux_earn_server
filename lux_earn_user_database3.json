@@ -10137,11 +10137,12 @@
       "inviter_referral_code": "heo20",
       "inviter_username": null,
       "invited_users": [
-        "TIZZY001"
+        "TIZZY001",
+        "Mohyinhohluhwah "
       ],
       "balance": 68,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:25:26.405Z",
@@ -11596,6 +11597,21 @@
         4
       ],
       "lastSpin": "2025-02-21T07:09:26.650Z"
+    },
+    {
+      "username": "Mohyinhohluhwah ",
+      "email": "oluwafunmito858@gmail.com",
+      "encrypted_password": "853cc2fb0aa09954953b364f12535729",
+      "referral_code": "MOMMS",
+      "inviter_referral_code": "MUP61",
+      "inviter_username": "Musty monie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:15:18.131Z"
     }
   ],
   "withdrawals": [
