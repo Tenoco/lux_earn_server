@@ -504,7 +504,7 @@
       "inviter_referral_code": "QUNC3",
       "inviter_username": "Quadriano",
       "invited_users": [],
-      "balance": 180,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -519,7 +519,8 @@
         1,
         2,
         4,
-        5
+        5,
+        17
       ],
       "lastSpin": "2025-02-25T06:08:57.751Z"
     }
