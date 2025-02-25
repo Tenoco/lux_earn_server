@@ -10635,10 +10635,12 @@
       "referral_code": "EMAXY",
       "inviter_referral_code": "ALX1V",
       "inviter_username": "alofeprecious",
-      "invited_users": [],
+      "invited_users": [
+        "Babalola"
+      ],
       "balance": 18,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -10847,6 +10849,21 @@
       "joinDate": "2025-02-25T21:26:23.955Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Babalola",
+      "email": "babalolatijani338@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "BABM1",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:28:06.278Z"
     }
   ],
   "withdrawals": [
