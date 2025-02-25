@@ -841,11 +841,12 @@
       "invited_users": [
         "Damilare51",
         "Mhiztazee ",
-        "Teddybear0863"
+        "Teddybear0863",
+        "Odubiyi sherifat "
       ],
       "balance": 155,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:06:50.687Z",
@@ -3582,6 +3583,21 @@
         12
       ],
       "lastSpin": "2025-02-23T19:50:03.542Z"
+    },
+    {
+      "username": "Odubiyi sherifat ",
+      "email": "odubiyisherifat@gmail.com",
+      "encrypted_password": "a652187a23a2a07c9650956c029876dd",
+      "referral_code": "ODXAW",
+      "inviter_referral_code": "OD7RC",
+      "inviter_username": "Odubiyi nofiu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:53:10.983Z"
     }
   ],
   "withdrawals": [
