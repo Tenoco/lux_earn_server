@@ -5401,7 +5401,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T14:15:00.093Z"
+      "joinDate": "2025-02-25T14:15:00.093Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adedokun29",
+      "email": "luminadroptik@gmail.com",
+      "encrypted_password": "03e152d75100a9e512f227a523f54930",
+      "referral_code": "AD4IU",
+      "inviter_referral_code": "REKOU",
+      "inviter_username": "Rebecca",
+      "invited_users": [],
+      "balance": 22,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:48:09.040Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-22T22:49:09.996Z"
     }
   ],
   "withdrawals": [
