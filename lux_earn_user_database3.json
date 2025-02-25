@@ -3032,7 +3032,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T09:48:08.123Z"
+      "joinDate": "2025-02-25T09:48:08.123Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marvelous",
+      "email": "marvelousshinaayo@gmail.com",
+      "encrypted_password": "91d2669294b9a18542d39fea1e2aae07",
+      "referral_code": "MAL2T",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:48:19.413Z"
     }
   ],
   "withdrawals": [
