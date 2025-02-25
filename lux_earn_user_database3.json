@@ -12042,7 +12042,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12053,9 +12053,9 @@
         2,
         4,
         16,
-        5
-      ],
-      "lastSpin": null
+        5,
+        6
+      ]
     },
     {
       "username": "Ayobami",
@@ -12138,7 +12138,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:52:41.275Z"
+      "joinDate": "2025-02-25T22:52:41.275Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
