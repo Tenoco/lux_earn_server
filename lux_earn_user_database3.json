@@ -964,7 +964,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T06:40:07.094Z"
+      "joinDate": "2025-02-25T06:40:07.094Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "U2529",
+      "email": "usainamustapha6571@gmail.com",
+      "encrypted_password": "1cde357c503dd8b1f8a3ac51e58edfde",
+      "referral_code": "U2JGB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T06:40:18.973Z"
     }
   ],
   "withdrawals": [
