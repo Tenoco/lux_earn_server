@@ -6720,11 +6720,12 @@
         "Chioma",
         "Bethel ",
         "Olajobi001",
-        "Ibrahim "
+        "Ibrahim ",
+        "Udoye434"
       ],
       "balance": 138,
-      "refers": 152,
-      "referralBalance": 15200,
+      "refers": 153,
+      "referralBalance": 15300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37363,6 +37364,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Udoye434",
+      "email": "chigozirim517@gmail.com",
+      "encrypted_password": "17d35b04978417855d30aa9bd9fbf434",
+      "referral_code": "UDU9K",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:54:06.169Z"
     }
   ],
   "withdrawals": [
