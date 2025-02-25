@@ -11550,7 +11550,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:13:22.229Z"
+      "joinDate": "2025-02-25T22:13:22.229Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Polo",
+      "email": "grace69@gmail.com",
+      "encrypted_password": "9f2788a951100afe63326ea54ce835ce",
+      "referral_code": "POPCO",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:14:25.709Z"
     }
   ],
   "withdrawals": [
