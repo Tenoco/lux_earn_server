@@ -8342,7 +8342,7 @@
       "inviter_referral_code": "DEPDT ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8358,9 +8358,9 @@
         15,
         10,
         11,
-        12
-      ],
-      "lastSpin": null
+        12,
+        13
+      ]
     },
     {
       "username": "Horlaryinkah",
@@ -8426,7 +8426,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:58:04.282Z"
+      "joinDate": "2025-02-25T17:58:04.282Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
