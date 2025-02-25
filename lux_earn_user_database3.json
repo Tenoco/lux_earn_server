@@ -8339,7 +8339,7 @@
       "inviter_referral_code": "DEPDT ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8347,7 +8347,8 @@
       "joinDate": "2025-02-25T17:53:50.821Z",
       "completedMissions": [
         2,
-        4
+        4,
+        16
       ]
     },
     {
