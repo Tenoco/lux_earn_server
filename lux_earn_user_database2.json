@@ -36341,11 +36341,12 @@
         "Mide",
         "Lami",
         "Mick ",
-        "Lamide"
+        "Lamide",
+        "Ifemi"
       ],
       "balance": 255,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -37076,6 +37077,21 @@
       "joinDate": "2025-02-25T05:03:29.368Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ifemi",
+      "email": "jide3863@gmail.com",
+      "encrypted_password": "eeafbf4d9b3957b139da7b7f2e7f2d4a",
+      "referral_code": "IFJB5",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T05:10:34.185Z"
     }
   ],
   "withdrawals": [
