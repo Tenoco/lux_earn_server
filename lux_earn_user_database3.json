@@ -7465,7 +7465,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 300,
+      "balance": 330,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7485,7 +7485,7 @@
         9,
         10
       ],
-      "lastSpin": "2025-02-21T09:40:01.942Z"
+      "lastSpin": "2025-02-25T16:58:43.866Z"
     },
     {
       "username": "Jojo mark",
@@ -7528,7 +7528,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:58:36.203Z"
+      "joinDate": "2025-02-25T16:58:36.203Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
