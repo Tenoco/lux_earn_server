@@ -8431,10 +8431,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:58:04.282Z",
-      "lastSpin": "2025-02-25T18:00:44.104Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-25T18:00:44.104Z"
     },
     {
       "username": "Edesiri95",
@@ -8452,6 +8452,21 @@
       "joinDate": "2025-02-25T18:01:12.882Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "SIRABK ",
+      "email": "abdullahisah015@gmail.com",
+      "encrypted_password": "c076cf7f8b8820a64f71cbad80aeb678",
+      "referral_code": "SI7H4",
+      "inviter_referral_code": "MOKK4 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:04:09.034Z"
     }
   ],
   "withdrawals": [
