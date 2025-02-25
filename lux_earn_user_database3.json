@@ -2807,11 +2807,12 @@
         "ADAM'S 6542",
         "Powerjohn001",
         "freedom",
-        "Destiny"
+        "Destiny",
+        "Destiny "
       ],
       "balance": 476,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -7323,7 +7324,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:45:06.679Z"
+      "joinDate": "2025-02-25T16:45:06.679Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Destiny ",
+      "email": "niced9501@gmail.com",
+      "encrypted_password": "2aa0794c912e98bd05432eda224f0ea2",
+      "referral_code": "DE7B3",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:45:09.663Z"
     }
   ],
   "withdrawals": [
