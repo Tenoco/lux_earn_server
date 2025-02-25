@@ -2805,11 +2805,12 @@
         "moruff",
         "ADAM'S 6542",
         "Powerjohn001",
-        "freedom"
+        "freedom",
+        "Destiny"
       ],
       "balance": 476,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -5289,6 +5290,21 @@
         15
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Destiny",
+      "email": "mgbakogudestiny@gmail.com",
+      "encrypted_password": "44acee4acaeeeef827428dde0c84b2f2",
+      "referral_code": "DER54",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T14:02:34.996Z"
     }
   ],
   "withdrawals": [
