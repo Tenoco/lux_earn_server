@@ -6719,11 +6719,12 @@
         "Sweetie66",
         "Chioma",
         "Bethel ",
-        "Olajobi001"
+        "Olajobi001",
+        "Ibrahim "
       ],
       "balance": 138,
-      "refers": 151,
-      "referralBalance": 15100,
+      "refers": 152,
+      "referralBalance": 15200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37112,6 +37113,21 @@
       "joinDate": "2025-02-25T05:16:47.256Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ibrahim ",
+      "email": "ibrahimrabiumuhd9@gmail.com",
+      "encrypted_password": "8d7c026aff445dacf0d61c7ba03a69c9",
+      "referral_code": "IBBRB",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T05:30:56.142Z"
     }
   ],
   "withdrawals": [
