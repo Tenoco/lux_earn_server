@@ -341,11 +341,12 @@
         "Mick ",
         "Lamide",
         "Ifemi",
-        "Budemi"
+        "Budemi",
+        "Juwon"
       ],
       "balance": 255,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -523,6 +524,21 @@
         17
       ],
       "lastSpin": "2025-02-25T06:08:57.751Z"
+    },
+    {
+      "username": "Juwon",
+      "email": "tboystar98@gmail.com",
+      "encrypted_password": "2f723ff8866628293bd951e35e5a3eb2",
+      "referral_code": "JUWOP",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T06:10:39.775Z"
     }
   ],
   "withdrawals": [
