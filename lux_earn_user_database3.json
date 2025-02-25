@@ -7705,11 +7705,12 @@
         "Adekoya",
         "Akeyo",
         "Yusuf",
-        "Igedu"
+        "Igedu",
+        "Igbemud"
       ],
       "balance": 242,
-      "refers": 33,
-      "referralBalance": 3300,
+      "refers": 34,
+      "referralBalance": 3400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12808,6 +12809,21 @@
       "joinDate": "2025-02-25T23:37:50.398Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Igbemud",
+      "email": "igbayilolaadeyiga04@gmail.com",
+      "encrypted_password": "6a9757cd5388c22b0e5af3bf268666bb",
+      "referral_code": "IGKPR",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:40:17.098Z"
     }
   ],
   "withdrawals": [
