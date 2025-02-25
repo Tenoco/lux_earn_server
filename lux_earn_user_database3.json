@@ -9242,7 +9242,31 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:02:34.956Z"
+      "joinDate": "2025-02-25T19:02:34.956Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goody",
+      "email": "olamilekanflorence8@gmail.com",
+      "encrypted_password": "80bfd0ddd8066508850a727efb51f8f9",
+      "referral_code": "GOI2P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 60,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:52:43.633Z",
+      "completedMissions": [
+        2,
+        1,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
