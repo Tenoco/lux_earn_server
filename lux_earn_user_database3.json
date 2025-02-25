@@ -8773,7 +8773,7 @@
       "inviter_referral_code": "MA6NM",
       "inviter_username": "Marvelous0",
       "invited_users": [],
-      "balance": 1260,
+      "balance": 1261,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8797,7 +8797,7 @@
         17,
         18
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T18:32:32.941Z"
     },
     {
       "username": "Mercy ",
@@ -8880,7 +8880,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:32:34.450Z"
+      "joinDate": "2025-02-25T18:32:34.450Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
