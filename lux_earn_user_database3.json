@@ -3106,10 +3106,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:53:31.507Z",
-      "lastSpin": "2025-02-25T09:53:50.069Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": "2025-02-25T09:53:50.069Z"
     },
     {
       "username": "Aisha@06",
@@ -3191,6 +3191,21 @@
         13
       ],
       "lastSpin": "2025-02-23T22:14:19.229Z"
+    },
+    {
+      "username": "Aniekwe Daniel Onyedika",
+      "email": "aniekwed08@gmail.com",
+      "encrypted_password": "27564ee0f1b9796a036bccdec0e28f2d",
+      "referral_code": "ANZWK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:03:36.968Z"
     }
   ],
   "withdrawals": [
