@@ -7701,11 +7701,12 @@
         "Uche",
         "Bose",
         "Adekoya",
-        "Akeyo"
+        "Akeyo",
+        "Yusuf"
       ],
       "balance": 242,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12697,7 +12698,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:32:59.194Z"
+      "joinDate": "2025-02-25T23:32:59.194Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yusuf",
+      "email": "igbayilolaadeyiga310@gmail.com",
+      "encrypted_password": "1c37f0d208bfa7ba7b3c347989f93585",
+      "referral_code": "YUQMH",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:34:27.544Z"
     }
   ],
   "withdrawals": [
