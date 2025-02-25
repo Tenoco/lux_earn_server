@@ -7725,11 +7725,12 @@
         "Teniola1",
         "Darasimi",
         "Bidemi",
-        "Seun"
+        "Seun",
+        "Faith"
       ],
       "balance": 242,
-      "refers": 42,
-      "referralBalance": 4200,
+      "refers": 43,
+      "referralBalance": 4300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -13202,7 +13203,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:55:28.516Z"
+      "joinDate": "2025-02-25T23:55:28.516Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faith",
+      "email": "igbayilolaadeyiga2956@gmail.com",
+      "encrypted_password": "afee5cda7e1778e6cc6d31458efd8063",
+      "referral_code": "FAGDK",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:56:22.582Z"
     }
   ],
   "withdrawals": [
