@@ -10089,7 +10089,7 @@
       "invited_users": [
         "TIZZY001"
       ],
-      "balance": 58,
+      "balance": 68,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10098,7 +10098,8 @@
       "completedMissions": [
         1,
         4,
-        16
+        16,
+        5
       ],
       "lastSpin": "2025-02-25T20:30:07.104Z"
     },
@@ -10256,7 +10257,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:38:41.859Z"
+      "joinDate": "2025-02-25T20:38:41.859Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
