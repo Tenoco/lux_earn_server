@@ -10145,12 +10145,13 @@
       "inviter_referral_code": "BRIEW",
       "inviter_username": "Bright13",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:30:22.037Z"
+      "joinDate": "2025-02-25T20:30:22.037Z",
+      "lastSpin": "2025-02-25T20:30:30.665Z"
     }
   ],
   "withdrawals": [
