@@ -4337,11 +4337,12 @@
         "Emeka ",
         "Mercy ",
         "Goodluck ",
-        "cute54"
+        "cute54",
+        "Clavert "
       ],
       "balance": 250,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8918,6 +8919,21 @@
       "joinDate": "2025-02-21T08:34:06.891Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T18:33:34.821Z"
+    },
+    {
+      "username": "Clavert ",
+      "email": "agbasiifunaya@gmail.com",
+      "encrypted_password": "3765973f9467886b2df0ad310d49f1db",
+      "referral_code": "CL5IX",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:33:55.874Z"
     }
   ],
   "withdrawals": [
