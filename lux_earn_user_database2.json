@@ -37041,13 +37041,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T04:19:59.758Z",
-      "lastSpin": "2025-02-25T04:23:02.978Z"
+      "lastSpin": "2025-02-25T04:23:02.978Z",
+      "completedMissions": [
+        2
+      ]
     }
   ],
   "withdrawals": [
