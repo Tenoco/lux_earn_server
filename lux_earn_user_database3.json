@@ -6999,11 +6999,12 @@
         "Gee",
         "Lime ",
         "Namessub",
-        "Community "
+        "Community ",
+        "Honey pie"
       ],
       "balance": 232,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7547,6 +7548,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:19.952Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T17:01:07.246Z"
     },
     {
@@ -7565,6 +7567,21 @@
       "joinDate": "2025-02-25T17:00:54.941Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Honey pie",
+      "email": "honeypie77@gmail.com",
+      "encrypted_password": "e7eddb326e41ad25e7ea7188c438ba20",
+      "referral_code": "HOSPT",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:02:18.930Z"
     }
   ],
   "withdrawals": [
