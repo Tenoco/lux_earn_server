@@ -926,11 +926,12 @@
         "Kaykay",
         "Kaykaykay",
         "Ola",
-        "Jay"
+        "Jay",
+        "Abike"
       ],
       "balance": 282,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:53:25.765Z",
@@ -981,7 +982,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T06:40:18.973Z"
+      "joinDate": "2025-02-25T06:40:18.973Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abike",
+      "email": "kateremon5493@gmail.com",
+      "encrypted_password": "6ba22eb337d4be4319401acf0b3a77c4",
+      "referral_code": "ABQ9J",
+      "inviter_referral_code": "KA9N3",
+      "inviter_username": "Kaypomping ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T06:41:06.637Z"
     }
   ],
   "withdrawals": [
