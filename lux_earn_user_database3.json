@@ -6645,14 +6645,16 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:11:06.055Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": null
     },
