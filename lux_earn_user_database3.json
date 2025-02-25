@@ -4311,11 +4311,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Njideka ",
-        "Santos"
+        "Santos",
+        "Marvice "
       ],
       "balance": 250,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -6409,6 +6410,21 @@
       "joinDate": "2025-02-25T15:19:27.217Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Marvice ",
+      "email": "ogechiagbasi@gmail.com",
+      "encrypted_password": "9c0e151c1cdb19f65a272a622279cadb",
+      "referral_code": "MA7KF",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:21:46.053Z"
     }
   ],
   "withdrawals": [
