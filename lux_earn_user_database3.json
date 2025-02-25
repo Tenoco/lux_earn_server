@@ -4361,7 +4361,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 360,
+      "balance": 415,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4389,8 +4389,11 @@
         14,
         14,
         17,
+        17,
+        17,
         17
-      ]
+      ],
+      "lastSpin": "2025-02-25T12:41:16.719Z"
     },
     {
       "username": "toyosi23",
