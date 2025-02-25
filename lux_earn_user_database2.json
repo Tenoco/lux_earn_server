@@ -11526,7 +11526,7 @@
       "invited_users": [
         "Basheet305"
       ],
-      "balance": 160,
+      "balance": 170,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -11542,7 +11542,7 @@
         12,
         10
       ],
-      "lastSpin": "2025-02-23T14:30:34.812Z"
+      "lastSpin": "2025-02-25T05:08:12.061Z"
     },
     {
       "username": "Kate",
@@ -37073,7 +37073,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T05:03:29.368Z"
+      "joinDate": "2025-02-25T05:03:29.368Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
