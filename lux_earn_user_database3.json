@@ -4384,7 +4384,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "toyosi23",
@@ -4426,6 +4427,34 @@
         14
       ],
       "lastSpin": "2025-02-25T12:32:37.634Z"
+    },
+    {
+      "username": "Nimah",
+      "email": "nimatadewunmi418@gmail.com",
+      "encrypted_password": "d98ef6e4e0c481217670ed8a06cfa473",
+      "referral_code": "NIZQF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 202,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T03:02:27.772Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "lastSpin": "2025-02-23T03:06:32.482Z"
     }
   ],
   "withdrawals": [
