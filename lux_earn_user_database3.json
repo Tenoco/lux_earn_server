@@ -5504,7 +5504,8 @@
         6,
         5,
         7
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hdjjnrjntn3",
@@ -5596,14 +5597,17 @@
       "inviter_referral_code": "PSXBI",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:29:41.809Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T14:29:57.562Z",
+      "completedMissions": [
+        1,
+        2
+      ]
     },
     {
       "username": "Jdndjdndkkjdjdnd34",
