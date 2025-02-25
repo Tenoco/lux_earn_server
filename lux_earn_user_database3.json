@@ -5795,11 +5795,12 @@
         "First bank ",
         "Mujeeb ballo",
         "Try to get another job ",
-        "Tulip bulbs "
+        "Tulip bulbs ",
+        "They're not in the country "
       ],
       "balance": 18,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -10386,6 +10387,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:09.773Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T20:58:31.539Z"
     },
     {
@@ -10421,6 +10423,21 @@
       "joinDate": "2025-02-25T20:57:14.478Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "They're not in the country ",
+      "email": "asdgjllmnbv@gmail.com",
+      "encrypted_password": "6eea9b7ef19179a06954edd0f6c05ceb",
+      "referral_code": "TH1KD",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:59:00.074Z"
     }
   ],
   "withdrawals": [
