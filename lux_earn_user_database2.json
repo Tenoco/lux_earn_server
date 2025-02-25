@@ -9464,7 +9464,7 @@
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
       "invited_users": [],
-      "balance": 348,
+      "balance": 368,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9491,7 +9491,7 @@
         6,
         6
       ],
-      "lastSpin": "2025-02-24T04:28:46.596Z"
+      "lastSpin": "2025-02-25T04:31:33.429Z"
     },
     {
       "username": "Perour",
@@ -37048,11 +37048,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T04:19:59.758Z",
-      "lastSpin": "2025-02-25T04:23:02.978Z",
       "completedMissions": [
         2,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-25T04:23:02.978Z"
     }
   ],
   "withdrawals": [
