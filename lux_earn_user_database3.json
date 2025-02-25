@@ -4370,7 +4370,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "toyosi23",
@@ -4380,7 +4381,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 542,
+      "balance": 562,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4406,7 +4407,8 @@
         13,
         13,
         15,
-        15
+        15,
+        17
       ],
       "lastSpin": "2025-02-25T12:32:37.634Z"
     }
