@@ -3801,7 +3801,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 230,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3819,7 +3819,9 @@
         15,
         10,
         11,
-        12
+        12,
+        13,
+        14
       ],
       "lastSpin": null
     },
@@ -3896,7 +3898,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:30:11.989Z",
-      "lastSpin": "2025-02-25T11:30:29.668Z",
       "completedMissions": [
         1,
         2,
@@ -3913,7 +3914,8 @@
         12,
         11,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-25T11:30:29.668Z"
     },
     {
       "username": "Debade",
