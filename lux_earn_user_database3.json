@@ -1825,10 +1825,12 @@
       "referral_code": "HAX8K",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Lawal_ayomide"
+      ],
       "balance": 85,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:05:08.724Z",
@@ -1970,6 +1972,21 @@
       "joinDate": "2025-02-22T18:42:14.889Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lawal_ayomide",
+      "email": "asquarejackson@gmail.com",
+      "encrypted_password": "194081eebf8437a3402eacf584fefbce",
+      "referral_code": "LAJ2Z",
+      "inviter_referral_code": "HAX8K",
+      "inviter_username": "Haryor_Richie",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T07:59:00.373Z"
     }
   ],
   "withdrawals": [
