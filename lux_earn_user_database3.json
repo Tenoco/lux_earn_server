@@ -7715,11 +7715,12 @@
         "Igbemud",
         "Igbemude",
         "Elijah",
-        "Niaja"
+        "Niaja",
+        "Lekan5"
       ],
       "balance": 242,
-      "refers": 37,
-      "referralBalance": 3700,
+      "refers": 38,
+      "referralBalance": 3800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -13022,7 +13023,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:47:46.600Z"
+      "joinDate": "2025-02-25T23:47:46.600Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lekan5",
+      "email": "igbayilolaadeyiga259@gmail.com",
+      "encrypted_password": "4370a4ce62c141ba3f90ac39ca920d3a",
+      "referral_code": "LE9PA",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:48:25.886Z"
     }
   ],
   "withdrawals": [
