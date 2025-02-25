@@ -6645,7 +6645,7 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6654,7 +6654,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        6,
+        15
       ],
       "lastSpin": null
     },
