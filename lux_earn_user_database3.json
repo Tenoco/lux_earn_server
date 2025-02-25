@@ -12644,7 +12644,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:31:22.924Z"
+      "joinDate": "2025-02-25T23:31:22.924Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Excel0018 ",
+      "email": "sundaycoach711@gmail.com",
+      "encrypted_password": "27bda0833e7f5edb6525a766c869fb67",
+      "referral_code": "EX2P4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:32:24.715Z"
     }
   ],
   "withdrawals": [
