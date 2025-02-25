@@ -7319,14 +7319,13 @@
       "inviter_referral_code": "USTJB",
       "inviter_username": "Usman123",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:45:06.679Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T16:45:40.962Z"
     },
     {
       "username": "Destiny ",
@@ -7341,7 +7340,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:45:09.663Z"
+      "joinDate": "2025-02-25T16:45:09.663Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
