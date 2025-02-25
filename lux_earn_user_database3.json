@@ -4335,11 +4335,12 @@
         "Marvice ",
         "Steve ",
         "Emeka ",
-        "Mercy "
+        "Mercy ",
+        "Goodluck "
       ],
       "balance": 250,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8798,6 +8799,21 @@
       "joinDate": "2025-02-25T18:29:30.900Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Goodluck ",
+      "email": "chimaobuzowuru18@gmail.com",
+      "encrypted_password": "667e5f0e9f100b9cc5d3dbf23e2d026d",
+      "referral_code": "GOUAM",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:31:08.140Z"
     }
   ],
   "withdrawals": [
