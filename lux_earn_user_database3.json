@@ -7290,7 +7290,7 @@
       "inviter_referral_code": "COSCL",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 235,
+      "balance": 255,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7313,7 +7313,7 @@
         15,
         16
       ],
-      "lastSpin": "2025-02-23T16:40:13.721Z"
+      "lastSpin": "2025-02-25T16:48:48.207Z"
     },
     {
       "username": "Demilade",
@@ -7399,6 +7399,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:48:11.953Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T16:48:20.027Z"
     }
   ],
