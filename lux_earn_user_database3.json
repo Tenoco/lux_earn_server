@@ -10087,7 +10087,7 @@
       "invited_users": [
         "TIZZY001"
       ],
-      "balance": 50,
+      "balance": 58,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -10098,7 +10098,7 @@
         4,
         16
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T20:30:07.104Z"
     },
     {
       "username": "Bwiocruz",
@@ -10133,6 +10133,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:28:20.545Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T20:29:08.780Z"
     }
   ],
