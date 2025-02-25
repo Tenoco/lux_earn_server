@@ -6633,7 +6633,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:09:06.698Z"
+      "joinDate": "2025-02-25T16:09:06.698Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "EngrGold",
+      "email": "engineerakingbadeolatundegold@gmail.com",
+      "encrypted_password": "1a62d600055f8b1d673125b478b3dffd",
+      "referral_code": "ENW69",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:11:06.055Z"
     }
   ],
   "withdrawals": [
