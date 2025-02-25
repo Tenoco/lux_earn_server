@@ -2577,7 +2577,7 @@
       "invited_users": [
         "Basheet305"
       ],
-      "balance": 170,
+      "balance": 190,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2591,7 +2591,8 @@
         14,
         13,
         12,
-        10
+        10,
+        18
       ],
       "lastSpin": "2025-02-25T05:08:12.061Z"
     },
@@ -11464,7 +11465,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:07:35.211Z"
+      "joinDate": "2025-02-25T22:07:35.211Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
