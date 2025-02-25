@@ -7677,11 +7677,12 @@
         "Igbayilola45",
         "Money",
         "Igbeku ",
-        "Ilemu"
+        "Ilemu",
+        "Samson"
       ],
       "balance": 242,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -11833,7 +11834,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:35:14.934Z"
+      "joinDate": "2025-02-25T22:35:14.934Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samson",
+      "email": "omoolowoigbayilola45@gmail.com",
+      "encrypted_password": "6225be3c977966402c083fad96241cdd",
+      "referral_code": "SA338",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:35:45.422Z"
     }
   ],
   "withdrawals": [
