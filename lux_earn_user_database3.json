@@ -7640,7 +7640,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:04:18.199Z",
-      "lastSpin": "2025-02-25T17:04:39.589Z",
       "completedMissions": [
         1,
         1,
@@ -7649,7 +7648,8 @@
         14,
         12,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:04:39.589Z"
     },
     {
       "username": "Ekene123",
@@ -7701,7 +7701,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 154,
+      "balance": 164,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7710,7 +7710,8 @@
       "completedMissions": [
         2,
         13,
-        4
+        4,
+        5
       ],
       "lastSpin": "2025-02-25T17:07:41.291Z"
     }
