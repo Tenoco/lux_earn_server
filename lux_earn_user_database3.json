@@ -2067,7 +2067,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2076,9 +2076,9 @@
       "completedMissions": [
         2,
         12,
-        5
-      ],
-      "lastSpin": null
+        5,
+        16
+      ]
     },
     {
       "username": "Godstime47",
