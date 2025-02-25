@@ -5574,11 +5574,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ayomidey ",
-        "Moses24 "
+        "Moses24 ",
+        "Innocent "
       ],
       "balance": 695,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:53:43.834Z",
@@ -6568,6 +6569,21 @@
         16
       ],
       "lastSpin": "2025-02-23T20:56:14.954Z"
+    },
+    {
+      "username": "Innocent ",
+      "email": "idowuogunjobi22@gmail.com",
+      "encrypted_password": "61b27825c3c15f18dacf2e692e8319fb",
+      "referral_code": "INCAE",
+      "inviter_referral_code": "HO189",
+      "inviter_username": "Holar",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:37:28.990Z"
     }
   ],
   "withdrawals": [
