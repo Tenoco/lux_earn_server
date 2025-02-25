@@ -1097,14 +1097,16 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 32,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:09:41.101Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": "2025-02-25T06:45:45.991Z"
     },
