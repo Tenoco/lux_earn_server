@@ -7650,7 +7650,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:04:18.199Z",
-      "lastSpin": "2025-02-25T17:04:39.589Z",
       "completedMissions": [
         1,
         1,
@@ -7660,7 +7659,8 @@
         12,
         12,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:04:39.589Z"
     },
     {
       "username": "Ekene123",
@@ -7725,6 +7725,28 @@
         5
       ],
       "lastSpin": "2025-02-25T17:07:41.291Z"
+    },
+    {
+      "username": "Bolaji550",
+      "email": "bolajiaina550@gmail.com",
+      "encrypted_password": "8d256ee589a382ca580c4956f54e6f44",
+      "referral_code": "BO603",
+      "inviter_referral_code": "Leuph",
+      "inviter_username": null,
+      "invited_users": [
+        "Cynthia"
+      ],
+      "balance": 35,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:10:26.775Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-22T12:11:29.427Z"
     }
   ],
   "withdrawals": [
