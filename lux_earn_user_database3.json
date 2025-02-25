@@ -130,7 +130,7 @@
       "invited_users": [
         "Omoyni123"
       ],
-      "balance": 235,
+      "balance": 240,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -150,7 +150,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-23T19:14:34.487Z"
+      "lastSpin": "2025-02-25T05:51:21.689Z"
     },
     {
       "username": "Gracefavour",
@@ -165,7 +165,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T05:51:07.249Z"
+      "joinDate": "2025-02-25T05:51:07.249Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
