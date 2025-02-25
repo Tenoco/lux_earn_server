@@ -2872,11 +2872,12 @@
         "Uniroed67g@gmail.com",
         "David 34",
         "Blogger12",
-        "Debby29"
+        "Debby29",
+        "Success5"
       ],
       "balance": 180,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -3069,7 +3070,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T09:51:08.538Z"
+      "joinDate": "2025-02-25T09:51:08.538Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Success5",
+      "email": "successudo5@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "SUSR6",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:53:05.602Z"
     }
   ],
   "withdrawals": [
