@@ -5303,11 +5303,12 @@
         "Bihilia",
         "Holidia",
         "Adolphus ",
-        "Royal"
+        "Royal",
+        "Helait"
       ],
       "balance": 290,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -9827,7 +9828,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:57:19.370Z"
+      "joinDate": "2025-02-25T19:57:19.370Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Helait",
+      "email": "helaitrobby5@gmail.com",
+      "encrypted_password": "1f661eaf747f98b0e0fec6961d6c8154",
+      "referral_code": "HE0OD",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:57:53.790Z"
     }
   ],
   "withdrawals": [
