@@ -10885,7 +10885,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:29:35.702Z"
+      "joinDate": "2025-02-25T21:29:35.702Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ukeje",
+      "email": "ukejesunday43@gmail.com",
+      "encrypted_password": "c06968358f4970ebd2424a673e37cca2",
+      "referral_code": "UKLUH",
+      "inviter_referral_code": "NEISI",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:29:50.571Z"
     }
   ],
   "withdrawals": [
