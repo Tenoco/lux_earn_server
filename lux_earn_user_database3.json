@@ -12064,7 +12064,8 @@
         13,
         14,
         18
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ayobami",
@@ -12150,6 +12151,21 @@
       "joinDate": "2025-02-25T22:52:41.275Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Smartkid",
+      "email": "smartkid084@gmail.com",
+      "encrypted_password": "f882df47f2f479f679aa3de2a183e5dc",
+      "referral_code": "SM36U",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:00:52.090Z"
     }
   ],
   "withdrawals": [
