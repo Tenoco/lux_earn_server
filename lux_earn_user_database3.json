@@ -10767,7 +10767,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:22:54.522Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T21:23:15.216Z"
+    },
+    {
+      "username": "@jago1122",
+      "email": "chiemeriechi6@gmail.com",
+      "encrypted_password": "aab3883ae5babfacad082a0bb023914c",
+      "referral_code": "@JZ59",
+      "inviter_referral_code": "FIDTX",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:23:38.483Z"
     }
   ],
   "withdrawals": [
