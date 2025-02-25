@@ -7276,11 +7276,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:43:55.956Z",
-      "lastSpin": "2025-02-25T16:44:46.393Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-25T16:44:46.393Z"
     },
     {
       "username": "Risky01",
@@ -7356,10 +7356,12 @@
       "referral_code": "HAWSL",
       "inviter_referral_code": "HA4GL",
       "inviter_username": "Hallelujah ",
-      "invited_users": [],
+      "invited_users": [
+        "Productfake"
+      ],
       "balance": 20,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:46:13.799Z",
@@ -7382,6 +7384,21 @@
       "joinDate": "2025-02-25T16:46:48.564Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Productfake",
+      "email": "productfake@gmail.com",
+      "encrypted_password": "f5bf48aa40cad7891eb709fcf1fde128",
+      "referral_code": "PRZ4D",
+      "inviter_referral_code": "HAWSL",
+      "inviter_username": "Hagga",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:48:11.953Z"
     }
   ],
   "withdrawals": [
