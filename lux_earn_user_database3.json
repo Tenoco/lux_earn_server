@@ -5121,7 +5121,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T13:38:53.879Z"
+      "joinDate": "2025-02-25T13:38:53.879Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Spelumi",
+      "email": "spelumi985@gmail.com",
+      "encrypted_password": "407d3fd753d84edb0d788488f3f7e421",
+      "referral_code": "SPHBY",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T13:39:37.233Z"
     }
   ],
   "withdrawals": [
