@@ -663,7 +663,7 @@
       "inviter_referral_code": "AN202",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 120,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -678,9 +678,12 @@
         6,
         7,
         15,
-        10
-      ],
-      "lastSpin": null
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
     },
     {
       "username": "Solo",
