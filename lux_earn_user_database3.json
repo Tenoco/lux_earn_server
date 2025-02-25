@@ -5085,11 +5085,12 @@
         "MaxPuppi ",
         "REZ123",
         "Debright",
-        "Omofonmwan favour "
+        "Omofonmwan favour ",
+        "Favour33"
       ],
       "balance": 1035,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -7900,7 +7901,8 @@
         11,
         12,
         13
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kezie313",
@@ -8020,6 +8022,21 @@
       "joinDate": "2025-02-25T17:25:06.249Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Favour33",
+      "email": "favourodeleye33@gmail.com",
+      "encrypted_password": "158025a534e6a599d4320c1a3a47e05b",
+      "referral_code": "FAHNP",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:26:42.956Z"
     }
   ],
   "withdrawals": [
