@@ -5823,11 +5823,12 @@
         "Flagg you doing today ",
         "Tifhgjgvjh",
         "Thfhccgj",
-        "Yuggjft"
+        "Yuggjft",
+        "Ttttigjv"
       ],
       "balance": 18,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -11728,7 +11729,8 @@
       "completedMissions": [
         1,
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Yuggjft",
@@ -11763,6 +11765,21 @@
       "joinDate": "2025-02-25T22:32:27.776Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ttttigjv",
+      "email": "hgjgcdd@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "TTRH7",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:33:32.643Z"
     }
   ],
   "withdrawals": [
