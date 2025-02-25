@@ -11567,7 +11567,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:14:25.709Z"
+      "joinDate": "2025-02-25T22:14:25.709Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Prince harry",
+      "email": "abiodunh630@gmail.com",
+      "encrypted_password": "5a253088c4f68bdeb994bce973e6e703",
+      "referral_code": "PRKU8",
+      "inviter_referral_code": "KII01",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:08:25.742Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "lastSpin": "2025-02-21T07:09:26.650Z"
     }
   ],
   "withdrawals": [
