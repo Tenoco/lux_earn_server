@@ -6994,11 +6994,12 @@
         "Job",
         "Akabi",
         "Jokercool",
-        "Hagga"
+        "Hagga",
+        "Paparazzi "
       ],
       "balance": 232,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7401,6 +7402,21 @@
       "joinDate": "2025-02-25T16:48:11.953Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T16:48:20.027Z"
+    },
+    {
+      "username": "Paparazzi ",
+      "email": "halleluja826hcool@gmail.com",
+      "encrypted_password": "ae90236bc04e5beea44908e8b9d7e345",
+      "referral_code": "PA84O",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:51:32.513Z"
     }
   ],
   "withdrawals": [
