@@ -2911,11 +2911,12 @@
         "Obidiah3",
         "Benjamin Frank ",
         "Francis 28",
-        "Gerald 4"
+        "Gerald 4",
+        "Timothy "
       ],
       "balance": 220,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -10190,6 +10191,21 @@
         14
       ],
       "lastSpin": "2025-02-22T15:22:33.016Z"
+    },
+    {
+      "username": "Timothy ",
+      "email": "timothysimon38@gmail.com",
+      "encrypted_password": "a7c471cfd3c42dc6d6a8552ac2c0a22c",
+      "referral_code": "TIMIA",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:32:06.620Z"
     }
   ],
   "withdrawals": [
