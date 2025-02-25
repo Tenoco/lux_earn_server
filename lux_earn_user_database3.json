@@ -10730,11 +10730,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Eeeee"
+        "Eeeee",
+        "Delighted123"
       ],
       "balance": 1,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:20:40.883Z",
@@ -10825,6 +10826,21 @@
       "joinDate": "2025-02-25T21:25:05.929Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Delighted123",
+      "email": "Gshshsh@gmail.com",
+      "encrypted_password": "b59c67bf196a4758191e42f76670ceba",
+      "referral_code": "DE33Y",
+      "inviter_referral_code": "DEI2O",
+      "inviter_username": "DELIGHTED ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:26:23.955Z"
     }
   ],
   "withdrawals": [
