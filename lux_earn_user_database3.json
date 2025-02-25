@@ -3950,7 +3950,7 @@
         "Anjolaoluwa ",
         "Precious1"
       ],
-      "balance": 220,
+      "balance": 230,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -3969,7 +3969,7 @@
         14,
         5
       ],
-      "lastSpin": "2025-02-22T19:39:12.600Z"
+      "lastSpin": "2025-02-25T11:38:48.460Z"
     },
     {
       "username": "Azzypopo01",
@@ -3984,7 +3984,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T11:38:40.240Z"
+      "joinDate": "2025-02-25T11:38:40.240Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
