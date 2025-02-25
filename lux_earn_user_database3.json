@@ -5402,7 +5402,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:15:00.093Z",
-      "lastSpin": "2025-02-25T14:18:48.394Z",
       "completedMissions": [
         1,
         1,
@@ -5414,7 +5413,8 @@
         7,
         15,
         10
-      ]
+      ],
+      "lastSpin": "2025-02-25T14:18:48.394Z"
     },
     {
       "username": "Adedokun29",
@@ -5550,7 +5550,7 @@
         "Ayomidey ",
         "Moses24 "
       ],
-      "balance": 683,
+      "balance": 695,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -5602,7 +5602,7 @@
         15,
         17
       ],
-      "lastSpin": "2025-02-22T15:07:41.808Z"
+      "lastSpin": "2025-02-25T14:37:43.997Z"
     },
     {
       "username": "Adeleke10",
