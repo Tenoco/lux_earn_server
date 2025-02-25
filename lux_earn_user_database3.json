@@ -7692,11 +7692,12 @@
         "Favour",
         "Igbedi",
         "KGB ",
-        "Oyin"
+        "Oyin",
+        "Uche"
       ],
       "balance": 242,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12519,6 +12520,21 @@
       "joinDate": "2025-02-25T23:26:01.088Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Uche",
+      "email": "igbayilolaadeyiga90@gmail.com",
+      "encrypted_password": "3262ba992feaa048468760b19199a6f3",
+      "referral_code": "UCFY1",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:27:09.949Z"
     }
   ],
   "withdrawals": [
