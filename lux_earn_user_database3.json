@@ -7272,7 +7272,42 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:43:55.956Z"
+      "joinDate": "2025-02-25T16:43:55.956Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Risky01",
+      "email": "darasimiibrahim918@gmail.com",
+      "encrypted_password": "5179c2cfa34ba8f90e0bf74c5676cd1d",
+      "referral_code": "RIK3K",
+      "inviter_referral_code": "COSCL",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 235,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:54:13.510Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        12,
+        14,
+        10,
+        10,
+        10,
+        11,
+        13,
+        15,
+        16
+      ],
+      "lastSpin": "2025-02-23T16:40:13.721Z"
     }
   ],
   "withdrawals": [
