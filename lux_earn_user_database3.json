@@ -5214,7 +5214,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T13:54:27.893Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T13:55:08.635Z"
+    },
+    {
+      "username": "Globby",
+      "email": "animashaunmoses130@gmail.com",
+      "encrypted_password": "f96f688f2345e3d442e75fb611212c0c",
+      "referral_code": "GL8F9",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T13:57:23.819Z"
     }
   ],
   "withdrawals": [
