@@ -7678,11 +7678,12 @@
         "Money",
         "Igbeku ",
         "Ilemu",
-        "Samson"
+        "Samson",
+        "Nigga"
       ],
       "balance": 242,
-      "refers": 16,
-      "referralBalance": 1600,
+      "refers": 17,
+      "referralBalance": 1700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -11851,7 +11852,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:35:45.422Z"
+      "joinDate": "2025-02-25T22:35:45.422Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nigga",
+      "email": "adeyigabamitale46@gmail.com",
+      "encrypted_password": "762ff815581f991774a328f3a7493d0f",
+      "referral_code": "NI4VT",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:36:28.034Z"
     }
   ],
   "withdrawals": [
