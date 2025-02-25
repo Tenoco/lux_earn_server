@@ -7617,11 +7617,12 @@
         "Igbayilola57",
         "Igbayilola67",
         "Igbayilola37",
-        "Igbayilola45"
+        "Igbayilola45",
+        "Money"
       ],
       "balance": 242,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -9282,7 +9283,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:05:41.757Z"
+      "joinDate": "2025-02-25T19:05:41.757Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Money",
+      "email": "ayobamiadeyiga6@gmail.com",
+      "encrypted_password": "1863d739714e52e289a60e1fc581b1d6",
+      "referral_code": "MOFUD",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:06:18.839Z"
     }
   ],
   "withdrawals": [
