@@ -11779,7 +11779,45 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:33:32.643Z"
+      "joinDate": "2025-02-25T22:33:32.643Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kidding ",
+      "email": "cfmskin@ola.com",
+      "encrypted_password": "1bbd886460827015e5d605ed44252251",
+      "referral_code": "KIGXH",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [
+        "Higguy"
+      ],
+      "balance": 265,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:50:45.387Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        11,
+        12
+      ],
+      "lastSpin": "2025-02-23T06:52:12.133Z"
     }
   ],
   "withdrawals": [
