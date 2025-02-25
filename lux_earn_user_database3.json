@@ -6054,7 +6054,7 @@
       "inviter_referral_code": "MOKK4",
       "inviter_username": "Momewing ",
       "invited_users": [],
-      "balance": 210,
+      "balance": 230,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6073,9 +6073,9 @@
         11,
         12,
         13,
-        14
-      ],
-      "lastSpin": null
+        14,
+        17
+      ]
     },
     {
       "username": "Dhhnjvjk0",
@@ -6443,7 +6443,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T15:23:13.763Z"
+      "joinDate": "2025-02-25T15:23:13.763Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
