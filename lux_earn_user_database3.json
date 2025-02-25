@@ -5854,7 +5854,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T14:45:07.387Z"
+      "joinDate": "2025-02-25T14:45:07.387Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Brown ",
+      "email": "imafidontessy490@gmail.com",
+      "encrypted_password": "dfe7eb27b3782f3090106021e4147415",
+      "referral_code": "BROD6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T14:46:03.721Z"
     }
   ],
   "withdrawals": [
