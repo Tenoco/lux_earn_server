@@ -4131,7 +4131,51 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T12:13:31.756Z"
+      "joinDate": "2025-02-25T12:13:31.756Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jijang ",
+      "email": "bissalajijang233@gmail.com",
+      "encrypted_password": "528d6f947db1451477636423307301fa",
+      "referral_code": "JIZUB",
+      "inviter_referral_code": "NIMRV",
+      "inviter_username": null,
+      "invited_users": [
+        "Gifts",
+        "Trey",
+        "Jonnyy",
+        "Jay24",
+        "Thief",
+        "Jonnyyy",
+        "Joker",
+        "Yomi",
+        "Trevore"
+      ],
+      "balance": 230,
+      "refers": 9,
+      "referralBalance": 900,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:12:17.460Z",
+      "completedMissions": [
+        1,
+        12,
+        11,
+        11,
+        10,
+        15,
+        7,
+        16,
+        4,
+        2,
+        5,
+        6,
+        13,
+        14
+      ],
+      "lastSpin": "2025-02-23T20:55:49.683Z"
     }
   ],
   "withdrawals": [
