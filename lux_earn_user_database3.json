@@ -5395,10 +5395,12 @@
       "referral_code": "MOKK4",
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ozimama001"
+      ],
       "balance": 258,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:15:00.093Z",
@@ -6016,7 +6018,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T15:01:50.853Z"
+      "joinDate": "2025-02-25T15:01:50.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ozimama001",
+      "email": "aminuohineusman@gmail.com",
+      "encrypted_password": "99b330f77cbb4f47d0b4537aac4ef775",
+      "referral_code": "OZ7IX",
+      "inviter_referral_code": "MOKK4",
+      "inviter_username": "Momewing ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:02:45.873Z"
     }
   ],
   "withdrawals": [
