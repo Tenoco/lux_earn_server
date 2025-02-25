@@ -8769,14 +8769,16 @@
       "inviter_referral_code": "MA6NM",
       "inviter_username": "Marvelous0",
       "invited_users": [],
-      "balance": 1010,
+      "balance": 1040,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T08:38:03.295Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4
       ],
       "lastSpin": null
     },
