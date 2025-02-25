@@ -7878,14 +7878,16 @@
       "inviter_referral_code": "BL7KC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:18:17.445Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2
       ]
     }
   ],
