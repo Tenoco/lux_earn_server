@@ -10783,7 +10783,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:23:38.483Z"
+      "joinDate": "2025-02-25T21:23:38.483Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zainoor112",
+      "email": "zainoor193752@gmail.com",
+      "encrypted_password": "05deab19800f7cdc743d0d9af1ca85e6",
+      "referral_code": "ZATLU",
+      "inviter_referral_code": "Kllo1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:24:23.248Z"
     }
   ],
   "withdrawals": [
