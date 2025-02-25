@@ -4114,7 +4114,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T12:03:43.918Z"
+      "joinDate": "2025-02-25T12:03:43.918Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Oumnoor",
+      "email": "hauwausulyman96@gmail.com",
+      "encrypted_password": "0feda45e45deac5fe7962e2a3542da1c",
+      "referral_code": "OU51P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T12:13:31.756Z"
     }
   ],
   "withdrawals": [
