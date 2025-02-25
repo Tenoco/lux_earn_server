@@ -5845,11 +5845,12 @@
         "Uishdidgsiudd dhdfdh",
         "Hsihsidhsgdhdihd7777",
         "Gudhdhdhdudhgdh",
-        "Yugsjhsgshd5666"
+        "Yugsjhsgshd5666",
+        "Gidgsudggdigs"
       ],
       "balance": 18,
-      "refers": 52,
-      "referralBalance": 5200,
+      "refers": 53,
+      "referralBalance": 5300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -13238,7 +13239,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:57:01.647Z"
+      "joinDate": "2025-02-25T23:57:01.647Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gidgsudggdigs",
+      "email": "abdulqudustintig01@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "GIHGN",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:58:19.896Z"
     }
   ],
   "withdrawals": [
