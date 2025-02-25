@@ -7970,7 +7970,8 @@
       "joinDate": "2025-02-25T17:23:22.451Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "alofeprecious",
@@ -7980,14 +7981,17 @@
       "inviter_referral_code": "TEBD4",
       "inviter_username": "Tee boy",
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-25T17:23:51.072Z"
+      "lastSpin": "2025-02-25T17:23:51.072Z",
+      "completedMissions": [
+        1,
+        1
+      ]
     }
   ],
   "withdrawals": [
