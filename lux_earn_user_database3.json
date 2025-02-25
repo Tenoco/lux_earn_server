@@ -8701,7 +8701,44 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:24:48.634Z"
+      "joinDate": "2025-02-25T18:24:48.634Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marvelous0",
+      "email": "gloryf149@gmail.com",
+      "encrypted_password": "f096ae92099a905893fed5928cb90651",
+      "referral_code": "MA6NM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Marvelous00"
+      ],
+      "balance": 252,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 1000,
+      "status": "active",
+      "joinDate": "2025-02-22T08:22:28.723Z",
+      "completedMissions": [
+        9,
+        9,
+        9,
+        9,
+        10,
+        8,
+        7,
+        6,
+        1,
+        2,
+        4,
+        5,
+        12,
+        14,
+        11
+      ],
+      "lastSpin": "2025-02-23T12:12:00.436Z"
     }
   ],
   "withdrawals": [
