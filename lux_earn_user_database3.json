@@ -5081,11 +5081,12 @@
         "UniqueSlug ",
         "MaxPuppi ",
         "REZ123",
-        "Debright"
+        "Debright",
+        "Omofonmwan favour "
       ],
       "balance": 1035,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -6531,13 +6532,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T15:28:51.998Z",
-      "lastSpin": "2025-02-25T15:30:36.890Z",
       "completedMissions": [
         2,
         1,
         16,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-25T15:30:36.890Z"
     },
     {
       "username": "Omojenny93",
@@ -6591,6 +6592,21 @@
       "joinDate": "2025-02-25T15:37:28.990Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Omofonmwan favour ",
+      "email": "cgifts409@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "OMJ4S",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:40:19.066Z"
     }
   ],
   "withdrawals": [
