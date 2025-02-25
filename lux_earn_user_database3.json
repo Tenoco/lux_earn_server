@@ -7689,11 +7689,12 @@
         "Bamitale",
         "Igbayilola",
         "Madamcash",
-        "Favour"
+        "Favour",
+        "Igbedi"
       ],
       "balance": 242,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12438,7 +12439,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:21:01.830Z"
+      "joinDate": "2025-02-25T23:21:01.830Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igbedi",
+      "email": "igbayilolaadeyiga32@gmail.com",
+      "encrypted_password": "f3b6478ba612e5648ab8a7cecae13207",
+      "referral_code": "IG7DJ",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:22:12.341Z"
     }
   ],
   "withdrawals": [
