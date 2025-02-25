@@ -8343,7 +8343,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:53:50.821Z"
+      "joinDate": "2025-02-25T17:53:50.821Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Horlaryinkah",
+      "email": "jewoolabukunmi@gmail.com",
+      "encrypted_password": "60acbf6a5dc4d4114cb254daee4fe070",
+      "referral_code": "HOFGE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:54:33.021Z"
     }
   ],
   "withdrawals": [
