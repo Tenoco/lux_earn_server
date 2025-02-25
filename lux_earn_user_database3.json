@@ -2135,7 +2135,7 @@
       "inviter_referral_code": "DA2CY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2143,7 +2143,8 @@
       "joinDate": "2025-02-25T08:25:27.838Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ],
       "lastSpin": "2025-02-25T11:08:14.489Z"
     },
