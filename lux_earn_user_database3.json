@@ -3100,17 +3100,21 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:53:31.507Z",
+      "lastSpin": "2025-02-25T09:53:50.069Z",
       "completedMissions": [
         2,
-        4
-      ],
-      "lastSpin": "2025-02-25T09:53:50.069Z"
+        4,
+        16,
+        5,
+        6,
+        7
+      ]
     },
     {
       "username": "Aisha@06",
@@ -3224,6 +3228,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:05:14.866Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T10:05:36.197Z"
     }
   ],
