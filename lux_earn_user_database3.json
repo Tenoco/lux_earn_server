@@ -4334,11 +4334,12 @@
         "Santos",
         "Marvice ",
         "Steve ",
-        "Emeka "
+        "Emeka ",
+        "Mercy "
       ],
       "balance": 250,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8774,6 +8775,21 @@
       "joinDate": "2025-02-22T08:38:03.295Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mercy ",
+      "email": "agbasimercy158@gmail.com",
+      "encrypted_password": "e3eb24451881a044cfbddf66c2430c01",
+      "referral_code": "ME6HI",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:29:30.900Z"
     }
   ],
   "withdrawals": [
