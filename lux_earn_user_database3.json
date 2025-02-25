@@ -6526,19 +6526,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 75,
+      "balance": 85,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T15:28:51.998Z",
+      "lastSpin": "2025-02-25T15:30:36.890Z",
       "completedMissions": [
         2,
         1,
         16,
-        5
-      ],
-      "lastSpin": "2025-02-25T15:30:36.890Z"
+        5,
+        6
+      ]
     },
     {
       "username": "Omojenny93",
@@ -6606,7 +6607,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T15:40:19.066Z"
+      "joinDate": "2025-02-25T15:40:19.066Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
