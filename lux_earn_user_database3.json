@@ -8321,14 +8321,16 @@
       "inviter_referral_code": "IGE9G",
       "inviter_username": "Igbayilola1",
       "invited_users": [],
-      "balance": 0,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:46:15.455Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-25T18:53:48.069Z"
     },
     {
       "username": "Olajobi001",
