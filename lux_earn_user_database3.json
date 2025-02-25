@@ -8322,14 +8322,15 @@
       "inviter_referral_code": "IGE9G",
       "inviter_username": "Igbayilola1",
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:46:15.455Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-25T18:53:48.069Z"
     },
@@ -9128,7 +9129,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:55:34.349Z"
+      "joinDate": "2025-02-25T18:55:34.349Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
