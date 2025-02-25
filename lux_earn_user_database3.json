@@ -11403,7 +11403,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:04:19.341Z"
+      "joinDate": "2025-02-25T22:04:19.341Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rabiu Umar ",
+      "email": "rabiuumar07064@gmail.com",
+      "encrypted_password": "1bb793e3592b5ba4c888df2677d0da03",
+      "referral_code": "RAEDQ",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:30:39.570Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
