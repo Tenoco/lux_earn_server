@@ -5759,11 +5759,12 @@
         "Hanike",
         "Mubarak raji",
         "Mueez gamawa",
-        "Yakuhb Nana "
+        "Yakuhb Nana ",
+        "Evening and then "
       ],
       "balance": 18,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -8883,6 +8884,21 @@
       "joinDate": "2025-02-25T18:32:34.450Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Evening and then ",
+      "email": "fatimahhamzahadenike1@gmail.com",
+      "encrypted_password": "219e56aa9addcf9a64d2a21ef7e88f34",
+      "referral_code": "EVMTP",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:32:43.578Z"
     }
   ],
   "withdrawals": [
