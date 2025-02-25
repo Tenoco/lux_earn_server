@@ -4306,11 +4306,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Njideka "
+        "Njideka ",
+        "Santos"
       ],
       "balance": 250,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -4333,6 +4334,21 @@
         16
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Santos",
+      "email": "agbasisantos@gmail.com",
+      "encrypted_password": "23058876d3c33c388815bf7808f2631c",
+      "referral_code": "SA2PB",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T12:30:15.449Z"
     }
   ],
   "withdrawals": [
