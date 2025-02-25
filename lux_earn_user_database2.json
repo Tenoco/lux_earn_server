@@ -6718,11 +6718,12 @@
         "Patkig",
         "Sweetie66",
         "Chioma",
-        "Bethel "
+        "Bethel ",
+        "Olajobi001"
       ],
       "balance": 138,
-      "refers": 150,
-      "referralBalance": 15000,
+      "refers": 151,
+      "referralBalance": 15100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37031,6 +37032,21 @@
         16
       ],
       "lastSpin": "2025-02-24T20:49:03.626Z"
+    },
+    {
+      "username": "Olajobi001",
+      "email": "maleekbadmus75@gmail.com",
+      "encrypted_password": "7eea4a6cc3262c7fe9383e321beaaac1",
+      "referral_code": "OLPFZ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T04:19:59.758Z"
     }
   ],
   "withdrawals": [
