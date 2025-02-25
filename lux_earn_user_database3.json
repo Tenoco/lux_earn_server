@@ -87,7 +87,38 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T04:34:29.063Z"
+      "joinDate": "2025-02-25T04:34:29.063Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joshua money ",
+      "email": "elizabethjoshua516@gmail.com",
+      "encrypted_password": "3697c78be80c8f09a38a824e24f265ad",
+      "referral_code": "JOCQP",
+      "inviter_referral_code": "SON2K",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 187,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:20:28.239Z",
+      "completedMissions": [
+        2,
+        4,
+        1,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "lastSpin": "2025-02-22T12:32:55.372Z"
     }
   ],
   "withdrawals": [
