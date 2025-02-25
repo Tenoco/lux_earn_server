@@ -5330,11 +5330,12 @@
         "Adolphus ",
         "Royal",
         "Helait",
-        "Purity"
+        "Purity",
+        "Debby"
       ],
       "balance": 290,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -12123,6 +12124,21 @@
       "joinDate": "2025-02-24T20:03:40.489Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Debby",
+      "email": "debbyroyal@gmail.com",
+      "encrypted_password": "f426b6a270323e4cf72e45c699c8b861",
+      "referral_code": "DE84M",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:52:41.275Z"
     }
   ],
   "withdrawals": [
