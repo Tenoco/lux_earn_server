@@ -7561,16 +7561,17 @@
       "inviter_referral_code": "OLXTY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
+      "lastSpin": "2025-02-25T17:02:51.265Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-25T17:02:51.265Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Honey pie",
