@@ -2318,6 +2318,21 @@
         16
       ],
       "lastSpin": "2025-02-25T08:42:39.584Z"
+    },
+    {
+      "username": "Victor234",
+      "email": "beckyswatom@gmail.com",
+      "encrypted_password": "4d0d91fe34539cc065ab937ad3779ec2",
+      "referral_code": "VITI1",
+      "inviter_referral_code": "OLDAF",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T08:44:33.010Z"
     }
   ],
   "withdrawals": [
