@@ -10347,7 +10347,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10359,7 +10359,9 @@
         4,
         16,
         16,
-        16
+        16,
+        12,
+        18
       ],
       "lastSpin": null
     },
