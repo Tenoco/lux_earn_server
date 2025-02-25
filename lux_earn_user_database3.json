@@ -1965,11 +1965,12 @@
         "Saifullah ",
         "Shamsullah",
         "Zakha001",
-        "Rabiu Umar "
+        "Rabiu Umar ",
+        "Fatimatu sani"
       ],
       "balance": 0,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -4099,6 +4100,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Fatimatu sani",
+      "email": "fatimatu60085@gmail.com",
+      "encrypted_password": "09d3651a4035c3431a10a80511ab6c86",
+      "referral_code": "FAM4C",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T12:03:43.918Z"
     }
   ],
   "withdrawals": [
