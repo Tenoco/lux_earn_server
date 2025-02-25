@@ -6198,7 +6198,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 98,
+      "balance": 188,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6210,7 +6210,11 @@
         16,
         5,
         4,
-        6
+        6,
+        14,
+        13,
+        12,
+        11
       ],
       "lastSpin": "2025-02-25T15:16:08.493Z"
     },
@@ -6457,7 +6461,8 @@
         15,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abbunana",
