@@ -10576,7 +10576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:08:36.989Z"
+      "joinDate": "2025-02-25T21:08:36.989Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Daniel",
+      "email": "danieeffiong95@gmail.com",
+      "encrypted_password": "5b242dde3f06c1db3ec4842415fce3f9",
+      "referral_code": "DA1AU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:09:17.915Z"
     }
   ],
   "withdrawals": [
