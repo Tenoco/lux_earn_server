@@ -1173,6 +1173,21 @@
         8
       ],
       "lastSpin": "2025-02-23T08:01:06.300Z"
+    },
+    {
+      "username": "CJ",
+      "email": "convenantiloba22@gmail.com",
+      "encrypted_password": "bf9eeb6625b113b0151fb3713e7d40b5",
+      "referral_code": "CJWT6",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T06:50:14.591Z"
     }
   ],
   "withdrawals": [
