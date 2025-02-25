@@ -38598,12 +38598,15 @@
       "inviter_referral_code": "JA47F",
       "inviter_username": "jaytee037",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T04:43:22.356Z"
+      "joinDate": "2025-02-25T04:43:22.356Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
