@@ -5077,11 +5077,12 @@
         "UniqueSlug ",
         "MaxPuppi ",
         "REZ123",
-        "Debright"
+        "Debright",
+        "Adeola"
       ],
       "balance": 1010,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -5089,6 +5090,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Adeola",
+      "email": "oluwasindaraajewunmi@gmail.com",
+      "encrypted_password": "0e33446bae09b42ccf38c5a00c41262e",
+      "referral_code": "ADZPE",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T13:33:47.295Z"
     }
   ],
   "withdrawals": [
