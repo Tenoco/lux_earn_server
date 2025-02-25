@@ -1635,6 +1635,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T07:22:20.792Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T07:24:08.637Z"
     },
     {
@@ -1645,14 +1646,13 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T07:23:41.008Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T07:24:16.514Z"
     }
   ],
   "withdrawals": [
