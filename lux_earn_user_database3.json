@@ -11208,7 +11208,7 @@
       "inviter_referral_code": "OS6AF",
       "inviter_username": "OSVMEDIA",
       "invited_users": [],
-      "balance": 205,
+      "balance": 225,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11227,7 +11227,7 @@
         2,
         16
       ],
-      "lastSpin": "2025-02-23T20:00:55.162Z"
+      "lastSpin": "2025-02-25T21:54:10.686Z"
     },
     {
       "username": "Wahab you doing ",
@@ -11259,7 +11259,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:55:59.259Z"
+      "joinDate": "2025-02-25T21:55:59.259Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
