@@ -2870,11 +2870,12 @@
         "Peller68",
         "Fighter 38",
         "Uniroed67g@gmail.com",
-        "David 34"
+        "David 34",
+        "Blogger12"
       ],
       "balance": 180,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -2926,6 +2927,21 @@
         17
       ],
       "lastSpin": "2025-02-24T16:39:27.589Z"
+    },
+    {
+      "username": "Blogger12",
+      "email": "adammaola5@gmail.com",
+      "encrypted_password": "9c1252fa60c847783a5281273c8a5d0c",
+      "referral_code": "BL2H7",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:43:47.688Z"
     }
   ],
   "withdrawals": [
