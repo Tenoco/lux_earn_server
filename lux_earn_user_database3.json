@@ -2875,11 +2875,12 @@
         "Blogger12",
         "Debby29",
         "Success5",
-        "Obidiah3"
+        "Obidiah3",
+        "Benjamin Frank "
       ],
       "balance": 180,
-      "refers": 26,
-      "referralBalance": 2600,
+      "refers": 27,
+      "referralBalance": 2700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -3304,7 +3305,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T10:15:07.588Z"
+      "joinDate": "2025-02-25T10:15:07.588Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Benjamin Frank ",
+      "email": "benjaminfranklin12@gmail.com",
+      "encrypted_password": "cd6e0598565a8f8362a377e5e511a66d",
+      "referral_code": "BECY9",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:15:26.700Z"
     }
   ],
   "withdrawals": [
