@@ -10349,7 +10349,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10363,7 +10363,8 @@
         16,
         16,
         12,
-        18
+        18,
+        5
       ],
       "lastSpin": null
     },
@@ -10623,7 +10624,8 @@
       "joinDate": "2025-02-25T21:11:43.924Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Mac Iyke",
