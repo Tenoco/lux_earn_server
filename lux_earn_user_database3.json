@@ -178,14 +178,15 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T05:53:52.979Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-25T05:59:57.570Z"
     },
