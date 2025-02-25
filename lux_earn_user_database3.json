@@ -7393,12 +7393,13 @@
       "inviter_referral_code": "HAWSL",
       "inviter_username": "Hagga",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:48:11.953Z"
+      "joinDate": "2025-02-25T16:48:11.953Z",
+      "lastSpin": "2025-02-25T16:48:20.027Z"
     }
   ],
   "withdrawals": [
