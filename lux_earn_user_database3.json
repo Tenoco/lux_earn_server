@@ -9089,7 +9089,28 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:55:15.020Z"
+      "joinDate": "2025-02-25T18:55:15.020Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sweetie66",
+      "email": "ayoojeifo44@gmail.com",
+      "encrypted_password": "307907db1cc8a1030487ed7bee3bdf58",
+      "referral_code": "SWEYT",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 28,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:33:52.744Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-24T20:36:07.252Z"
     }
   ],
   "withdrawals": [
