@@ -3238,11 +3238,40 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:05:14.866Z",
-      "lastSpin": "2025-02-25T10:05:36.197Z",
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-25T10:05:36.197Z"
+    },
+    {
+      "username": "Dodi",
+      "email": "dodovibes1@gmail.com",
+      "encrypted_password": "3132b1236a95e01c295d909c30cdb5f6",
+      "referral_code": "DORTO",
+      "inviter_referral_code": "JE7LQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 160,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:39:47.850Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        16,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-24T16:42:00.334Z"
     }
   ],
   "withdrawals": [
