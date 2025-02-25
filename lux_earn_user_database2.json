@@ -6721,11 +6721,12 @@
         "Bethel ",
         "Olajobi001",
         "Ibrahim ",
-        "Udoye434"
+        "Udoye434",
+        "Aaron33"
       ],
       "balance": 138,
-      "refers": 153,
-      "referralBalance": 15300,
+      "refers": 154,
+      "referralBalance": 15400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -37929,6 +37930,21 @@
         6
       ],
       "lastSpin": "2025-02-20T23:37:17.599Z"
+    },
+    {
+      "username": "Aaron33",
+      "email": "iluobeaaron19@gmail.com",
+      "encrypted_password": "8926dbbf91c8fb279960861c70d60cc1",
+      "referral_code": "AA0HB",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:28:22.978Z"
     }
   ],
   "withdrawals": [
