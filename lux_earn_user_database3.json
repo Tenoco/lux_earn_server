@@ -5302,11 +5302,12 @@
         "Hioboial",
         "Bihilia",
         "Holidia",
-        "Adolphus "
+        "Adolphus ",
+        "Royal"
       ],
       "balance": 290,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -9444,6 +9445,21 @@
         5
       ],
       "lastSpin": "2025-02-25T19:13:26.367Z"
+    },
+    {
+      "username": "Royal",
+      "email": "royalgift1979@gmail.com",
+      "encrypted_password": "e65b13bb30aa0262018003bdb9d29ed2",
+      "referral_code": "ROZWB",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:16:01.987Z"
     }
   ],
   "withdrawals": [
