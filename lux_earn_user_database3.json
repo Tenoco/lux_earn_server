@@ -5801,11 +5801,12 @@
         "Plot of the story you doing ",
         "Black Friday deals ",
         "Bread and beans",
-        "Jodo you doing today "
+        "Jodo you doing today ",
+        "Thunders you doing "
       ],
       "balance": 18,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -10971,6 +10972,21 @@
         14
       ],
       "lastSpin": "2025-02-23T19:59:42.686Z"
+    },
+    {
+      "username": "Thunders you doing ",
+      "email": "tundrruijb@gmail.com",
+      "encrypted_password": "d8578edf8458ce06fbc5bb76a58c5ca4",
+      "referral_code": "THT5C",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:34:03.210Z"
     }
   ],
   "withdrawals": [
