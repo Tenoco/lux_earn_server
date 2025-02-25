@@ -7567,10 +7567,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
-      "lastSpin": "2025-02-25T17:02:51.265Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:02:51.265Z"
     },
     {
       "username": "Honey pie",
@@ -7631,14 +7631,16 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:04:18.199Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-25T17:04:39.589Z"
+      "lastSpin": "2025-02-25T17:04:39.589Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Ekene123",
