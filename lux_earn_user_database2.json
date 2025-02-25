@@ -20368,7 +20368,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 220,
+      "balance": 235,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20389,7 +20389,7 @@
         7,
         6
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T16:32:58.344Z"
     },
     {
       "username": "mustard",
@@ -37949,7 +37949,8 @@
         1,
         4,
         5
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
