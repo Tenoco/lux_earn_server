@@ -38598,7 +38598,7 @@
       "inviter_referral_code": "JA47F",
       "inviter_username": "jaytee037",
       "invited_users": [],
-      "balance": 60,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38608,7 +38608,9 @@
         1,
         2,
         3,
-        5
+        5,
+        4,
+        6
       ]
     }
   ],
