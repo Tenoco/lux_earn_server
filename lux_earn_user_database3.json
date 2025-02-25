@@ -495,6 +495,33 @@
       "joinDate": "2025-02-25T06:07:00.196Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Basheet305",
+      "email": "kolaade498@gmail.com",
+      "encrypted_password": "5a7044e343f2ae6f98a4e4bef15cf6fd",
+      "referral_code": "BAVLP",
+      "inviter_referral_code": "QUNC3",
+      "inviter_username": "Quadriano",
+      "invited_users": [],
+      "balance": 160,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:37:52.914Z",
+      "completedMissions": [
+        14,
+        13,
+        12,
+        11,
+        10,
+        1,
+        2,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
