@@ -381,7 +381,7 @@
         "dylandjunior ",
         "alofeprecious"
       ],
-      "balance": 255,
+      "balance": 275,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -403,7 +403,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-24T18:59:48.676Z"
+      "lastSpin": "2025-02-25T21:09:49.111Z"
     },
     {
       "username": "Sonofalion",
@@ -10593,7 +10593,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:09:17.915Z"
+      "joinDate": "2025-02-25T21:09:17.915Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
