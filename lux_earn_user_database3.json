@@ -3818,7 +3818,7 @@
       "inviter_referral_code": "Day2x",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 95,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3827,7 +3827,8 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        14
       ],
       "lastSpin": "2025-02-21T11:52:38.845Z"
     }
