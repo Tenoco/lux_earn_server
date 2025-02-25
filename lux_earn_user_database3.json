@@ -9165,7 +9165,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:56:48.849Z"
+      "joinDate": "2025-02-25T18:56:48.849Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Temitope ",
+      "email": "qasimabdulqawiyy@gmail.com",
+      "encrypted_password": "5ca0217471397f104e53632db1745399",
+      "referral_code": "TEZTZ",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:57:00.238Z"
     }
   ],
   "withdrawals": [
