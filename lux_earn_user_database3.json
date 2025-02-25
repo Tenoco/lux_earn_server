@@ -7602,11 +7602,12 @@
         "Igbayilola ",
         "Johnny",
         "Floshebi",
-        "Adeyiga"
+        "Adeyiga",
+        "Adekogbe"
       ],
       "balance": 242,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8969,7 +8970,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:34:57.466Z"
+      "joinDate": "2025-02-25T18:34:57.466Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adekogbe",
+      "email": "igbayilolaadeyiga29@gmail.com",
+      "encrypted_password": "9202186af6dcf84556303ddf0e58ba52",
+      "referral_code": "ADTNS",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:35:58.647Z"
     }
   ],
   "withdrawals": [
