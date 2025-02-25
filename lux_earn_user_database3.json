@@ -4070,7 +4070,7 @@
         "Ajayibobola53",
         "Ibchucks1"
       ],
-      "balance": 353,
+      "balance": 373,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -4093,7 +4093,8 @@
         14,
         13,
         12,
-        5
+        5,
+        16
       ],
       "lastSpin": "2025-02-25T22:22:12.584Z"
     },
@@ -11740,7 +11741,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:31:25.950Z"
+      "joinDate": "2025-02-25T22:31:25.950Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
