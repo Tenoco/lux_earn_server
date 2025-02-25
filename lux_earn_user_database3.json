@@ -3704,16 +3704,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 25,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:07:25.581Z",
+      "lastSpin": "2025-02-25T11:08:04.189Z",
       "completedMissions": [
-        4
-      ],
-      "lastSpin": "2025-02-25T11:08:04.189Z"
+        4,
+        16
+      ]
     },
     {
       "username": "Mickeyolaoluwa",
