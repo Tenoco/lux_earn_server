@@ -589,7 +589,7 @@
       "invited_users": [
         "Francis Amauche "
       ],
-      "balance": 307,
+      "balance": 327,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -610,7 +610,8 @@
         9,
         8,
         17,
-        18
+        18,
+        16
       ],
       "lastSpin": "2025-02-24T20:25:08.832Z"
     },
@@ -9336,7 +9337,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:07:29.545Z"
+      "joinDate": "2025-02-25T19:07:29.545Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
