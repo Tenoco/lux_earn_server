@@ -12524,7 +12524,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12532,9 +12532,10 @@
       "joinDate": "2025-02-25T23:26:01.088Z",
       "completedMissions": [
         1,
-        4
+        4,
+        18
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T23:38:16.689Z"
     },
     {
       "username": "Uche",
@@ -12804,7 +12805,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:37:50.398Z"
+      "joinDate": "2025-02-25T23:37:50.398Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
