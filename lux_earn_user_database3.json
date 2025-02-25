@@ -11767,14 +11767,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T22:32:27.776Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T22:38:13.372Z"
     },
     {
       "username": "Ttttigjv",
@@ -11893,7 +11893,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:37:53.458Z"
+      "joinDate": "2025-02-25T22:37:53.458Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
