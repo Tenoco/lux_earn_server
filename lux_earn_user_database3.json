@@ -7981,7 +7981,7 @@
       "inviter_referral_code": "TEBD4",
       "inviter_username": "Tee boy",
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7989,6 +7989,7 @@
       "joinDate": "2025-02-25T17:23:38.494Z",
       "lastSpin": "2025-02-25T17:23:51.072Z",
       "completedMissions": [
+        1,
         1,
         1
       ]
