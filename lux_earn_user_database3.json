@@ -5396,7 +5396,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 28,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5404,6 +5404,7 @@
       "joinDate": "2025-02-25T14:15:00.093Z",
       "lastSpin": "2025-02-25T14:18:48.394Z",
       "completedMissions": [
+        1,
         1
       ]
     },
