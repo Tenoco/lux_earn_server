@@ -10356,7 +10356,7 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 200,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10373,7 +10373,12 @@
         18,
         5,
         15,
-        15
+        15,
+        13,
+        13,
+        13,
+        6,
+        6
       ],
       "lastSpin": null
     },
@@ -10817,7 +10822,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:25:05.929Z"
+      "joinDate": "2025-02-25T21:25:05.929Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
