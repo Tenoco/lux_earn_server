@@ -5800,11 +5800,12 @@
         "Long Beaches you doing ",
         "Plot of the story you doing ",
         "Black Friday deals ",
-        "Bread and beans"
+        "Bread and beans",
+        "Jodo you doing today "
       ],
       "balance": 18,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -10915,6 +10916,21 @@
       "joinDate": "2025-02-25T21:29:50.571Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jodo you doing today ",
+      "email": "tinhklgdrg@gmail.com",
+      "encrypted_password": "bcb759b5b8ab63b06295c7434345d7a5",
+      "referral_code": "JOO6Z",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:32:47.032Z"
     }
   ],
   "withdrawals": [
