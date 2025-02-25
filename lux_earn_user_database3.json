@@ -7362,7 +7362,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:46:13.799Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T16:46:26.624Z"
+    },
+    {
+      "username": "Jane ",
+      "email": "abrussian29@gmail.com",
+      "encrypted_password": "a8a05da727671e05797bf2df125d7beb",
+      "referral_code": "JAAG4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:46:48.564Z"
     }
   ],
   "withdrawals": [
