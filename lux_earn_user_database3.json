@@ -4126,7 +4126,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 110,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4140,9 +4140,9 @@
         16,
         5,
         6,
-        6
-      ],
-      "lastSpin": null
+        6,
+        7
+      ]
     },
     {
       "username": "Jijang ",
@@ -4199,7 +4199,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T12:19:35.584Z"
+      "joinDate": "2025-02-25T12:19:35.584Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
