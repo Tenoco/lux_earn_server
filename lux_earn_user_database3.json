@@ -679,7 +679,8 @@
         7,
         15,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Solo",
@@ -758,7 +759,7 @@
       "inviter_referral_code": "PRSLP",
       "inviter_username": "Prosper",
       "invited_users": [],
-      "balance": 1222,
+      "balance": 1223,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -778,7 +779,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-22T17:23:26.924Z"
+      "lastSpin": "2025-02-25T06:32:34.609Z"
     },
     {
       "username": "Ebigud",
