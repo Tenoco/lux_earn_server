@@ -3105,7 +3105,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:53:31.507Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T09:53:50.069Z"
+    },
+    {
+      "username": "Aisha@06",
+      "email": "nanainternational06@gmail.com",
+      "encrypted_password": "1f0533fd647366bdbdec71751b9b986b",
+      "referral_code": "AIWJ4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:54:21.183Z"
     }
   ],
   "withdrawals": [
