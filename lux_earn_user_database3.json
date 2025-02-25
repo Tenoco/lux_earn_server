@@ -3710,10 +3710,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:07:25.581Z",
-      "lastSpin": "2025-02-25T11:08:04.189Z",
       "completedMissions": [
         4
-      ]
+      ],
+      "lastSpin": "2025-02-25T11:08:04.189Z"
     },
     {
       "username": "Mickeyolaoluwa",
@@ -3731,6 +3731,53 @@
       "joinDate": "2025-02-25T11:07:41.350Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alim",
+      "email": "mustaphahaleem8@gmail.com",
+      "encrypted_password": "c7d15d30b961acd6d599f52868cd26fe",
+      "referral_code": "ALIC1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Lekan"
+      ],
+      "balance": 457,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T11:02:50.659Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        16,
+        5,
+        5,
+        6,
+        7,
+        7,
+        7,
+        7,
+        15,
+        15,
+        15,
+        10,
+        11,
+        11,
+        13,
+        12,
+        12,
+        14
+      ],
+      "lastSpin": "2025-02-24T00:13:13.337Z"
     }
   ],
   "withdrawals": [
