@@ -7447,12 +7447,13 @@
       "inviter_referral_code": "HA4GL",
       "inviter_username": "Hallelujah ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:55:16.422Z"
+      "joinDate": "2025-02-25T16:55:16.422Z",
+      "lastSpin": "2025-02-25T16:55:26.463Z"
     }
   ],
   "withdrawals": [
