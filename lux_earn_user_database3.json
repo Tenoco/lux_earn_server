@@ -6205,7 +6205,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 60,
+      "balance": 130,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6216,9 +6216,11 @@
         2,
         4,
         6,
-        5
-      ],
-      "lastSpin": null
+        5,
+        16,
+        12,
+        11
+      ]
     },
     {
       "username": "Kaddi",
@@ -6267,7 +6269,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T15:15:03.777Z"
+      "joinDate": "2025-02-25T15:15:03.777Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
