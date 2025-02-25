@@ -7881,7 +7881,7 @@
       "inviter_referral_code": "BL7KC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 220,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7901,9 +7901,9 @@
         11,
         12,
         13,
-        14
-      ],
-      "lastSpin": null
+        14,
+        17
+      ]
     },
     {
       "username": "Kezie313",
@@ -7997,7 +7997,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
-      "lastSpin": "2025-02-25T17:23:51.072Z",
       "completedMissions": [
         1,
         1,
@@ -8009,7 +8008,8 @@
         16,
         5,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:23:51.072Z"
     },
     {
       "username": "Ridwan olawale",
