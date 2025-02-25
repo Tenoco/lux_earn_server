@@ -5402,7 +5402,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:15:00.093Z",
-      "lastSpin": "2025-02-25T14:18:48.394Z",
       "completedMissions": [
         1,
         1,
@@ -5411,7 +5410,8 @@
         16,
         5,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-25T14:18:48.394Z"
     },
     {
       "username": "Adedokun29",
@@ -5608,17 +5608,23 @@
       "inviter_referral_code": "PSXBI",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 32,
+      "balance": 122,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:29:41.809Z",
+      "lastSpin": "2025-02-25T14:29:57.562Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": "2025-02-25T14:29:57.562Z"
+        2,
+        4,
+        16,
+        16,
+        5,
+        6,
+        7
+      ]
     },
     {
       "username": "Jdndjdndkkjdjdnd34",
