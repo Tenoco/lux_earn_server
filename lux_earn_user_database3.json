@@ -7704,11 +7704,12 @@
         "Bose",
         "Adekoya",
         "Akeyo",
-        "Yusuf"
+        "Yusuf",
+        "Igedu"
       ],
       "balance": 242,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12769,7 +12770,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:36:36.696Z"
+      "joinDate": "2025-02-25T23:36:36.696Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igedu",
+      "email": "igbayilolaadeyiga3554@gmail.com",
+      "encrypted_password": "31f23ba6e971170f63781be4d88b3ceb",
+      "referral_code": "IGW5H",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:36:42.897Z"
     }
   ],
   "withdrawals": [
