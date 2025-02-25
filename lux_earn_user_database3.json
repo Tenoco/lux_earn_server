@@ -11545,10 +11545,12 @@
       "referral_code": "YHFQD",
       "inviter_referral_code": "TE6DS",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Dfgghhb"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T22:13:22.229Z",
@@ -11611,7 +11613,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:15:18.131Z"
+      "joinDate": "2025-02-25T22:15:18.131Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dfgghhb",
+      "email": "sammiegold21@gmail.com",
+      "encrypted_password": "ec239fa8d419f6ee5868d0de020f03a7",
+      "referral_code": "DFSTB",
+      "inviter_referral_code": "YHFQD",
+      "inviter_username": "Yhjjhgddxvnjcxh",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:15:24.318Z"
     }
   ],
   "withdrawals": [
