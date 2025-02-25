@@ -3892,7 +3892,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:30:11.989Z",
-      "lastSpin": "2025-02-25T11:30:29.668Z",
       "completedMissions": [
         1,
         2,
@@ -3901,7 +3900,29 @@
         5,
         6,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-25T11:30:29.668Z"
+    },
+    {
+      "username": "Debade",
+      "email": "sodiqjibola553@gmail.com",
+      "encrypted_password": "d661e7ea4d42243973345405a8c38fdb",
+      "referral_code": "DEYKM",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 181,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:25:11.110Z",
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": "2025-02-23T05:56:49.390Z"
     }
   ],
   "withdrawals": [
