@@ -8426,17 +8426,18 @@
       "inviter_referral_code": "FAHNP",
       "inviter_username": "Favour33",
       "invited_users": [],
-      "balance": 45,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:58:04.282Z",
+      "lastSpin": "2025-02-25T18:00:44.104Z",
       "completedMissions": [
         2,
-        4
-      ],
-      "lastSpin": "2025-02-25T18:00:44.104Z"
+        4,
+        16
+      ]
     },
     {
       "username": "Edesiri95",
