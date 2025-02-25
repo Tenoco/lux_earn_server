@@ -10127,12 +10127,13 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:28:20.545Z"
+      "joinDate": "2025-02-25T20:28:20.545Z",
+      "lastSpin": "2025-02-25T20:29:08.780Z"
     }
   ],
   "withdrawals": [
