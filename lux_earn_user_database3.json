@@ -5871,7 +5871,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T14:46:03.721Z"
+      "joinDate": "2025-02-25T14:46:03.721Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sammyty",
+      "email": "sundaysalami05@gmail.com",
+      "encrypted_password": "fded123de8685e6f679bb53467e660cd",
+      "referral_code": "SAHOT",
+      "inviter_referral_code": "BKSF9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 138,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T17:56:48.234Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        14,
+        10,
+        11
+      ],
+      "lastSpin": "2025-02-23T18:13:56.868Z"
     }
   ],
   "withdrawals": [
