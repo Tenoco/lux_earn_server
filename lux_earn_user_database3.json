@@ -868,11 +868,12 @@
         "Ajoke44",
         "Oadeoye123",
         "olaade126",
-        "ADESOLA VERACITY"
+        "ADESOLA VERACITY",
+        "Azeemaboidub "
       ],
       "balance": 75,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -1633,7 +1634,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T07:22:20.792Z"
+      "joinDate": "2025-02-25T07:22:20.792Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Azeemaboidub ",
+      "email": "Azeemaboidub@gmail.com",
+      "encrypted_password": "55ee62bce610f31cf0d03f6f43cacc1c",
+      "referral_code": "AZ0ML",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T07:23:41.008Z"
     }
   ],
   "withdrawals": [
