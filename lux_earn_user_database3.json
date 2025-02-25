@@ -10724,10 +10724,12 @@
       "referral_code": "DEI2O",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Eeeee"
+      ],
       "balance": 1,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:20:40.883Z",
@@ -10747,7 +10749,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:21:55.677Z"
+      "joinDate": "2025-02-25T21:21:55.677Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Eeeee",
+      "email": "oladeletaiwo77@gmail.com",
+      "encrypted_password": "58d2eeb08d4e339138727553b3c4336b",
+      "referral_code": "EEXA0",
+      "inviter_referral_code": "DEI2O",
+      "inviter_username": "DELIGHTED ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:22:54.522Z"
     }
   ],
   "withdrawals": [
