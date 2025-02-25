@@ -1885,7 +1885,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T07:40:11.573Z"
+      "joinDate": "2025-02-25T07:40:11.573Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kasim",
+      "email": "2007abukasim@gmail.com",
+      "encrypted_password": "6c708539c1357444da301c14b65f6b63",
+      "referral_code": "KA9A5",
+      "inviter_referral_code": "DAM6B",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T07:41:08.621Z"
     }
   ],
   "withdrawals": [
