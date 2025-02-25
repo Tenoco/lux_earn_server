@@ -11728,7 +11728,7 @@
       "inviter_referral_code": "Khalil ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 160,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -11745,7 +11745,8 @@
         6,
         18,
         18,
-        18
+        18,
+        2
       ],
       "lastSpin": null
     },
@@ -12166,7 +12167,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T23:00:52.090Z",
-      "lastSpin": "2025-02-25T23:01:19.305Z",
       "completedMissions": [
         18,
         17,
@@ -12175,7 +12175,8 @@
         4,
         16,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-25T23:01:19.305Z"
     }
   ],
   "withdrawals": [
