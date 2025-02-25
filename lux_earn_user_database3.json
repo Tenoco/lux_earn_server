@@ -2135,14 +2135,14 @@
       "inviter_referral_code": "DA2CY",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T08:25:27.838Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T11:08:14.489Z"
     },
     {
       "username": "Omoshile ",
@@ -3710,6 +3710,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:07:25.581Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T11:08:04.189Z"
     },
     {
