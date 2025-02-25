@@ -5798,11 +5798,12 @@
         "Tulip bulbs ",
         "They're not in the country ",
         "Long Beaches you doing ",
-        "Plot of the story you doing "
+        "Plot of the story you doing ",
+        "Black Friday deals "
       ],
       "balance": 18,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -10649,6 +10650,21 @@
       "joinDate": "2025-02-22T22:53:10.702Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Black Friday deals ",
+      "email": "blackfriday@gmail.com",
+      "encrypted_password": "a152e841783914146e4bcd4f39100686",
+      "referral_code": "BLONE",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:16:04.711Z"
     }
   ],
   "withdrawals": [
