@@ -7541,14 +7541,13 @@
       "inviter_referral_code": "HA4GL",
       "inviter_username": "Hallelujah ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 73,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:19.952Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T17:01:07.246Z"
     },
     {
       "username": "Igbayilola1",
@@ -7563,7 +7562,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:00:54.941Z"
+      "joinDate": "2025-02-25T17:00:54.941Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
