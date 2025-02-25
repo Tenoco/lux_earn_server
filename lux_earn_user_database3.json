@@ -10437,7 +10437,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:59:00.074Z"
+      "joinDate": "2025-02-25T20:59:00.074Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lilmedoo",
+      "email": "ahmedyusuf3048@gmail.com",
+      "encrypted_password": "3c9777a7006b62c75d6233ec79d6f2a1",
+      "referral_code": "LIVPL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:00:38.023Z"
     }
   ],
   "withdrawals": [
