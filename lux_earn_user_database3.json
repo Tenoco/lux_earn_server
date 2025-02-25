@@ -10128,14 +10128,16 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:28:20.545Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-25T20:29:08.780Z"
+      "lastSpin": "2025-02-25T20:29:08.780Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Gerald 4",
@@ -10151,6 +10153,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:30:22.037Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T20:30:30.665Z"
     }
   ],
