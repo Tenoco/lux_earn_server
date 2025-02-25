@@ -7644,12 +7644,13 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 190,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:04:18.199Z",
+      "lastSpin": "2025-02-25T17:04:39.589Z",
       "completedMissions": [
         1,
         1,
@@ -7658,9 +7659,9 @@
         14,
         12,
         12,
-        11
-      ],
-      "lastSpin": "2025-02-25T17:04:39.589Z"
+        11,
+        2
+      ]
     },
     {
       "username": "Ekene123",
