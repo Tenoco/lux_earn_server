@@ -12020,6 +12020,21 @@
         17
       ],
       "lastSpin": "2025-02-24T16:00:10.758Z"
+    },
+    {
+      "username": "Ahmad Anka",
+      "email": "ahmadanka@gmail.com",
+      "encrypted_password": "7e66c1c64f45aaf93529e0a14838718e",
+      "referral_code": "AHH72",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:44:24.950Z"
     }
   ],
   "withdrawals": [
