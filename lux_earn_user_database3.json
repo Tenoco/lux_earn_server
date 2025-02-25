@@ -2803,11 +2803,12 @@
         "MrJinkin",
         "moruff",
         "ADAM'S 6542",
-        "Powerjohn001"
+        "Powerjohn001",
+        "freedom"
       ],
       "balance": 476,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -3988,6 +3989,21 @@
       "joinDate": "2025-02-25T11:38:40.240Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "freedom",
+      "email": "freedomose359@gmail.com",
+      "encrypted_password": "26231162520c611ccabfb18b5ae4dff2",
+      "referral_code": "FREGG",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T11:46:18.620Z"
     }
   ],
   "withdrawals": [
