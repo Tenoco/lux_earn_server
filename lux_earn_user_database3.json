@@ -4338,11 +4338,12 @@
         "Mercy ",
         "Goodluck ",
         "cute54",
-        "Clavert "
+        "Clavert ",
+        "Emeka34"
       ],
       "balance": 250,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8933,7 +8934,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:33:55.874Z"
+      "joinDate": "2025-02-25T18:33:55.874Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emeka34",
+      "email": "emekaduru@gmail.com",
+      "encrypted_password": "fd8c57ebf8dc1edfbbf71a4430635bfc",
+      "referral_code": "EMISY",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:34:47.996Z"
     }
   ],
   "withdrawals": [
