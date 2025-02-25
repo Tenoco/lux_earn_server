@@ -6996,11 +6996,12 @@
         "Jokercool",
         "Hagga",
         "Paparazzi ",
-        "Gee"
+        "Gee",
+        "Lime "
       ],
       "balance": 232,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7435,7 +7436,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:53:26.525Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T16:53:31.285Z"
+    },
+    {
+      "username": "Lime ",
+      "email": "pastquestionslim@gmail.com",
+      "encrypted_password": "4ae72c0c457b82a54003afa5dd6fb3b4",
+      "referral_code": "LIQNO",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:55:16.422Z"
     }
   ],
   "withdrawals": [
