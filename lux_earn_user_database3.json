@@ -7609,11 +7609,12 @@
         "Adeyiga",
         "Adekogbe",
         "Malik ",
-        "Igbayilola57"
+        "Igbayilola57",
+        "Igbayilola67"
       ],
       "balance": 242,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -9113,6 +9114,21 @@
         1
       ],
       "lastSpin": "2025-02-24T20:36:07.252Z"
+    },
+    {
+      "username": "Igbayilola67",
+      "email": "ajetumobisamuel@gmail.com",
+      "encrypted_password": "4f218af88567798a4e560e2928b8c4d2",
+      "referral_code": "IGX97",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:55:34.349Z"
     }
   ],
   "withdrawals": [
