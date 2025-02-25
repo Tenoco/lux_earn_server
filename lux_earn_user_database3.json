@@ -3640,7 +3640,31 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T10:59:18.329Z"
+      "joinDate": "2025-02-25T10:59:18.329Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bethel ",
+      "email": "ojeabulubethel8@gmail.com",
+      "encrypted_password": "a8955173b5f291ae0b74d3c259fc965a",
+      "referral_code": "BE2LP",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 61,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:41:47.090Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        16
+      ],
+      "lastSpin": "2025-02-24T20:49:03.626Z"
     }
   ],
   "withdrawals": [
