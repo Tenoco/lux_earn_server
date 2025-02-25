@@ -7564,10 +7564,12 @@
       "referral_code": "IGE9G",
       "inviter_referral_code": "OLXTY",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Emmanuelasdf "
+      ],
       "balance": 242,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8189,7 +8191,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:36:07.368Z"
+      "joinDate": "2025-02-25T17:36:07.368Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuelasdf ",
+      "email": "chinuzoe@gmail.com",
+      "encrypted_password": "6cf1b84eaf71742952ad1e00fef77304",
+      "referral_code": "EMJFJ",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:37:29.076Z"
     }
   ],
   "withdrawals": [
