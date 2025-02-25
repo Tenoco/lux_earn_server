@@ -3100,14 +3100,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:53:31.507Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-25T09:53:50.069Z"
+      "lastSpin": "2025-02-25T09:53:50.069Z",
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "Aisha@06",
