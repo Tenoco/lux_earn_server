@@ -8770,7 +8770,7 @@
       "inviter_referral_code": "MA6NM",
       "inviter_username": "Marvelous0",
       "invited_users": [],
-      "balance": 1040,
+      "balance": 1070,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8779,7 +8779,9 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16,
+        5
       ],
       "lastSpin": null
     },
@@ -8813,7 +8815,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:31:08.140Z"
+      "joinDate": "2025-02-25T18:31:08.140Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
