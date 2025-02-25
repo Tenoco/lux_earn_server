@@ -7617,7 +7617,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:04:09.781Z"
+      "joinDate": "2025-02-25T17:04:09.781Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "aishatu018",
+      "email": "aishatubabayo018@gmail.com",
+      "encrypted_password": "c66975057d28cf317f96d2ff46fa3797",
+      "referral_code": "AICE1",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:04:18.199Z"
     }
   ],
   "withdrawals": [
