@@ -7690,11 +7690,12 @@
         "Igbayilola",
         "Madamcash",
         "Favour",
-        "Igbedi"
+        "Igbedi",
+        "KGB "
       ],
       "balance": 242,
-      "refers": 25,
-      "referralBalance": 2500,
+      "refers": 26,
+      "referralBalance": 2600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12461,6 +12462,21 @@
       "joinDate": "2025-02-25T23:22:12.341Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "KGB ",
+      "email": "igbayilolaadeyiga195@gmail.com",
+      "encrypted_password": "b3bd0411e25faf8c9013564c7565e6ef",
+      "referral_code": "KG506",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:24:01.279Z"
     }
   ],
   "withdrawals": [
