@@ -12178,7 +12178,7 @@
       "inviter_referral_code": "SAX07",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 190,
+      "balance": 195,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12196,7 +12196,7 @@
         14,
         4
       ],
-      "lastSpin": "2025-02-22T18:55:06.135Z"
+      "lastSpin": "2025-02-25T18:28:06.869Z"
     },
     {
       "username": "Valentine1p",
@@ -38009,7 +38009,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:13:05.028Z"
+      "joinDate": "2025-02-25T18:13:05.028Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
