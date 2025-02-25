@@ -5231,7 +5231,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T13:57:23.819Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T13:57:39.339Z"
+    },
+    {
+      "username": "Kemi",
+      "email": "kemioyetunji64@gmail.com",
+      "encrypted_password": "b4146da820512239e9ada8453d364af3",
+      "referral_code": "KELKV",
+      "inviter_referral_code": "ANE1B",
+      "inviter_username": "Anjolaoluwa ",
+      "invited_users": [],
+      "balance": 18,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:02:24.457Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-23T08:03:02.845Z"
     }
   ],
   "withdrawals": [
