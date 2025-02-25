@@ -7589,11 +7589,12 @@
       "invited_users": [
         "Emmanuelasdf ",
         "Diba",
-        "Igbayilola "
+        "Igbayilola ",
+        "Johnny"
       ],
       "balance": 242,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8683,7 +8684,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:23:48.616Z"
+      "joinDate": "2025-02-25T18:23:48.616Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Johnny",
+      "email": "jasoncreg6@gmail.com",
+      "encrypted_password": "f744954c96a9758b13c048f7371561b3",
+      "referral_code": "JOOO4",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:24:48.634Z"
     }
   ],
   "withdrawals": [
