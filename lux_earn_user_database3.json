@@ -8666,7 +8666,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:22:48.533Z"
+      "joinDate": "2025-02-25T18:22:48.533Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ugwu ",
+      "email": "ugwuv594@gmail.com",
+      "encrypted_password": "4cfafd3664d294dcdeca0001357b148f",
+      "referral_code": "UGS4D",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:23:48.616Z"
     }
   ],
   "withdrawals": [
