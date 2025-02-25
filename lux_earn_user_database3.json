@@ -1971,11 +1971,12 @@
         "Shamsullah",
         "Zakha001",
         "Rabiu Umar ",
-        "Fatimatu sani"
+        "Fatimatu sani",
+        "Abubakar123"
       ],
       "balance": 0,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -11017,6 +11018,21 @@
       "joinDate": "2025-02-25T21:36:09.745Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abubakar123",
+      "email": "abubakaribrahim081092@gmail.com",
+      "encrypted_password": "7284e0ed3e0a2fafb7ab3b9217e91bee",
+      "referral_code": "ABB17",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:37:50.181Z"
     }
   ],
   "withdrawals": [
