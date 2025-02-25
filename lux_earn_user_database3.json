@@ -3890,12 +3890,13 @@
       "inviter_referral_code": "TO8QD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 122,
+      "balance": 162,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:30:11.989Z",
+      "lastSpin": "2025-02-25T11:30:29.668Z",
       "completedMissions": [
         1,
         2,
@@ -3904,9 +3905,10 @@
         5,
         6,
         6,
-        7
-      ],
-      "lastSpin": "2025-02-25T11:30:29.668Z"
+        7,
+        15,
+        14
+      ]
     },
     {
       "username": "Debade",
