@@ -7595,11 +7595,12 @@
         "Emmanuelasdf ",
         "Diba",
         "Igbayilola ",
-        "Johnny"
+        "Johnny",
+        "Floshebi"
       ],
       "balance": 242,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8829,6 +8830,21 @@
       "joinDate": "2025-02-25T18:31:08.140Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Floshebi",
+      "email": "florenceibi200@gmail.com",
+      "encrypted_password": "37991cb7fb8a1119cb4076c443ed836f",
+      "referral_code": "FLB7H",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:31:55.145Z"
     }
   ],
   "withdrawals": [
