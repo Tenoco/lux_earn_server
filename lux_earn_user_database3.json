@@ -11704,7 +11704,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:29:11.390Z"
+      "joinDate": "2025-02-25T22:29:11.390Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim adamu ",
+      "email": "ia6099953@gmail.com",
+      "encrypted_password": "820bd32b69fae4e3f065b24ee8263150",
+      "referral_code": "IB6QV",
+      "inviter_referral_code": "Khalil ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:30:26.744Z"
     }
   ],
   "withdrawals": [
