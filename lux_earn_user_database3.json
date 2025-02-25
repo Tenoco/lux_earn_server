@@ -7575,11 +7575,12 @@
       "inviter_username": null,
       "invited_users": [
         "Emmanuelasdf ",
-        "Diba"
+        "Diba",
+        "Igbayilola "
       ],
       "balance": 242,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8356,7 +8357,8 @@
         10,
         11,
         12
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Horlaryinkah",
@@ -8391,6 +8393,21 @@
       "joinDate": "2025-02-25T17:55:09.338Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Igbayilola ",
+      "email": "iart91003@gmail.com",
+      "encrypted_password": "4cccb94fc8b939827fe11d5b34a4f3dd",
+      "referral_code": "IGHQ8",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:57:40.435Z"
     }
   ],
   "withdrawals": [
