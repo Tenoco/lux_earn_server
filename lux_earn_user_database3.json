@@ -10382,7 +10382,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:56:09.773Z"
+      "joinDate": "2025-02-25T20:56:09.773Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Infinite ",
+      "email": "victorogunlade47@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "IN8FM",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:56:28.117Z"
     }
   ],
   "withdrawals": [
