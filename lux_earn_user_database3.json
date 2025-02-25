@@ -2605,11 +2605,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:10:38.609Z",
-      "lastSpin": "2025-02-25T09:13:22.148Z",
       "completedMissions": [
         6,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-25T09:13:22.148Z"
     },
     {
       "username": "Leo",
@@ -2644,6 +2644,21 @@
         17
       ],
       "lastSpin": "2025-02-25T09:14:48.939Z"
+    },
+    {
+      "username": "Horlah",
+      "email": "aderonkeadekunle661@gmail.com",
+      "encrypted_password": "fca328bc38d2103b3bf1fbc06497652d",
+      "referral_code": "HOI8S",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:20:43.501Z"
     }
   ],
   "withdrawals": [
