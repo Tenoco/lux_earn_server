@@ -2327,7 +2327,7 @@
       "inviter_referral_code": "OLDAF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 170,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -2345,6 +2345,7 @@
         10,
         10,
         11,
+        12,
         12
       ]
     },
