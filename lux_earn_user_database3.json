@@ -7902,7 +7902,8 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Kezie313",
@@ -7990,21 +7991,23 @@
       "inviter_referral_code": "TEBD4",
       "inviter_username": "Tee boy",
       "invited_users": [],
-      "balance": 110,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
+      "lastSpin": "2025-02-25T17:23:51.072Z",
       "completedMissions": [
         1,
         1,
         1,
         2,
         4,
-        4
-      ],
-      "lastSpin": "2025-02-25T17:23:51.072Z"
+        4,
+        16,
+        16
+      ]
     },
     {
       "username": "Ridwan olawale",
