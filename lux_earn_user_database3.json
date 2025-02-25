@@ -6049,7 +6049,8 @@
         4,
         16,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dhhnjvjk0",
@@ -6188,14 +6189,15 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T15:10:30.083Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Kaddi",
