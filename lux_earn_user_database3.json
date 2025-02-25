@@ -8225,14 +8225,15 @@
       "inviter_referral_code": "Cowoa",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:32:12.402Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
