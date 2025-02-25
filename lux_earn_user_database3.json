@@ -8228,7 +8228,7 @@
       "inviter_referral_code": "Cowoa",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 380,
+      "balance": 390,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8255,7 +8255,8 @@
         15,
         15,
         7,
-        10
+        10,
+        6
       ],
       "lastSpin": null
     },
@@ -11012,7 +11013,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:36:09.745Z"
+      "joinDate": "2025-02-25T21:36:09.745Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
