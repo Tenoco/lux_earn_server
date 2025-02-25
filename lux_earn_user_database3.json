@@ -3212,16 +3212,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:03:36.968Z",
+      "lastSpin": "2025-02-25T10:04:26.110Z",
       "completedMissions": [
-        17
-      ],
-      "lastSpin": "2025-02-25T10:04:26.110Z"
+        17,
+        14
+      ]
     },
     {
       "username": "BLESSEDME",
@@ -3237,10 +3238,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:05:14.866Z",
-      "lastSpin": "2025-02-25T10:05:36.197Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-25T10:05:36.197Z"
     }
   ],
   "withdrawals": [
