@@ -756,7 +756,7 @@
       "inviter_referral_code": "PRSLP",
       "inviter_username": "Prosper",
       "invited_users": [],
-      "balance": 1072,
+      "balance": 1082,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -766,7 +766,8 @@
         2,
         1,
         4,
-        16
+        16,
+        5
       ],
       "lastSpin": "2025-02-22T17:23:26.924Z"
     },
