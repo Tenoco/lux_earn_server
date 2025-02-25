@@ -4008,7 +4008,39 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Abiolag",
+      "email": "ganiyatabiola575@gmail.com",
+      "encrypted_password": "4b383ede4a8aa9aa675e812237c3639d",
+      "referral_code": "ABYZO",
+      "inviter_referral_code": "Co4PD ",
+      "inviter_username": null,
+      "invited_users": [
+        "Sage jnr",
+        "Ajayibobola53",
+        "Ibchucks1"
+      ],
+      "balance": 168,
+      "refers": 3,
+      "referralBalance": 300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:36:50.473Z",
+      "completedMissions": [
+        2,
+        1,
+        4,
+        10,
+        9,
+        8,
+        7,
+        6,
+        11
+      ],
+      "lastSpin": "2025-02-24T18:56:24.696Z"
     }
   ],
   "withdrawals": [
