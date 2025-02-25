@@ -7998,7 +7998,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
-      "lastSpin": "2025-02-25T17:23:51.072Z",
       "completedMissions": [
         1,
         1,
@@ -8020,7 +8019,8 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:23:51.072Z"
     },
     {
       "username": "Ridwan olawale",
@@ -8057,6 +8057,42 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Debbie love",
+      "email": "adebayoblessingmoyinoluwa@gmail.com",
+      "encrypted_password": "dfa3e68cd21aab0945ca072d0d3ed631",
+      "referral_code": "DEPDT",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 335,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:34:51.889Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        5,
+        6,
+        6,
+        8,
+        9,
+        10,
+        10,
+        12,
+        12,
+        12,
+        12,
+        13,
+        13,
+        14
+      ],
+      "lastSpin": "2025-02-23T16:38:20.276Z"
     }
   ],
   "withdrawals": [
