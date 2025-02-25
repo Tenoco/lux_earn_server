@@ -7709,11 +7709,12 @@
         "Yusuf",
         "Igedu",
         "Igbemud",
-        "Igbemude"
+        "Igbemude",
+        "Elijah"
       ],
       "balance": 242,
-      "refers": 35,
-      "referralBalance": 3500,
+      "refers": 36,
+      "referralBalance": 3600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12880,7 +12881,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:43:41.216Z"
+      "joinDate": "2025-02-25T23:43:41.216Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elijah",
+      "email": "igbayilolaadeyiga3584@gmail.com",
+      "encrypted_password": "a6ebe407fa6e2337cb2deb573d17791e",
+      "referral_code": "ELBQB",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:44:08.067Z"
     }
   ],
   "withdrawals": [
