@@ -7880,7 +7880,7 @@
       "inviter_referral_code": "BL7KC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 130,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7896,9 +7896,9 @@
         6,
         7,
         15,
-        10
-      ],
-      "lastSpin": null
+        10,
+        11
+      ]
     },
     {
       "username": "Kezie313",
@@ -7974,7 +7974,8 @@
       "completedMissions": [
         1,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "alofeprecious",
