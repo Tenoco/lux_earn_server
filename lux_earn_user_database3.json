@@ -9717,7 +9717,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:35:57.984Z"
+      "joinDate": "2025-02-25T19:35:57.984Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "David78",
+      "email": "adekunledanieladetoro2305@gmail.com",
+      "encrypted_password": "55fc5b709962876903785fd64a6961e5",
+      "referral_code": "DAXN1",
+      "inviter_referral_code": "BLDMQ",
+      "inviter_username": "Blackjesus",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:43:49.930Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
