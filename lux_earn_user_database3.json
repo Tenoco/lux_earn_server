@@ -10679,11 +10679,12 @@
       "inviter_referral_code": "ALX1V",
       "inviter_username": "alofeprecious",
       "invited_users": [
-        "Babalola"
+        "Babalola",
+        "Damilola"
       ],
       "balance": 18,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -11671,6 +11672,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Damilola",
+      "email": "danimashaun74@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "DAFNL",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:25:59.220Z"
     }
   ],
   "withdrawals": [
