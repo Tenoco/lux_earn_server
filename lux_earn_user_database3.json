@@ -6205,7 +6205,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6222,7 +6222,9 @@
         11,
         10,
         15,
-        13
+        13,
+        14,
+        17
       ]
     },
     {
