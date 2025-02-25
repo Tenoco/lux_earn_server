@@ -129,11 +129,12 @@
       "inviter_username": "Oadeoye123",
       "invited_users": [
         "Omoyni123",
-        "Adeoye123"
+        "Adeoye123",
+        "Demilade"
       ],
       "balance": 240,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:13:32.788Z",
@@ -7273,6 +7274,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:43:55.956Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T16:44:46.393Z"
     },
     {
@@ -7307,6 +7309,21 @@
         16
       ],
       "lastSpin": "2025-02-23T16:40:13.721Z"
+    },
+    {
+      "username": "Demilade",
+      "email": "olayinkaiyabo63@gmail.com",
+      "encrypted_password": "221eb6adcfab763b3244be06b79c1939",
+      "referral_code": "DEHF8",
+      "inviter_referral_code": "USTJB",
+      "inviter_username": "Usman123",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:45:06.679Z"
     }
   ],
   "withdrawals": [
