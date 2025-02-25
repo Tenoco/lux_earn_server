@@ -1921,7 +1921,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 180,
+      "balance": 210,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1938,7 +1938,9 @@
         10,
         15,
         7,
-        6
+        6,
+        5,
+        16
       ]
     }
   ],
