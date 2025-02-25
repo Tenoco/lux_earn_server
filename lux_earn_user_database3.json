@@ -5402,14 +5402,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:15:00.093Z",
-      "lastSpin": "2025-02-25T14:18:48.394Z",
       "completedMissions": [
         1,
         1,
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": "2025-02-25T14:18:48.394Z"
     },
     {
       "username": "Adedokun29",
@@ -5427,6 +5427,23 @@
       "joinDate": "2025-02-22T22:48:09.040Z",
       "completedMissions": [],
       "lastSpin": "2025-02-22T22:49:09.996Z"
+    },
+    {
+      "username": "Hdhdnrjdjdh307",
+      "email": "nsuebdhhd@gmail.com",
+      "encrypted_password": "cd1ac7576a99005225e99ae984f7e610",
+      "referral_code": "HDUYK",
+      "inviter_referral_code": "AB6L2",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:12:40.210Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
