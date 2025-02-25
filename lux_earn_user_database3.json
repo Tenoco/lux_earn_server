@@ -10205,7 +10205,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:32:06.620Z"
+      "joinDate": "2025-02-25T20:32:06.620Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomide 123@",
+      "email": "kolawoleolarewaju2022@gmail.com",
+      "encrypted_password": "b391ee2f44b3c702bb565af28ccae8a3",
+      "referral_code": "AYAB1",
+      "inviter_referral_code": "Heo20",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:33:15.102Z"
     }
   ],
   "withdrawals": [
