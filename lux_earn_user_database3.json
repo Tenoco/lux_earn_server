@@ -10273,7 +10273,7 @@
         "Setemi",
         "Setemi1"
       ],
-      "balance": 1250,
+      "balance": 1255,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -10296,7 +10296,7 @@
         17,
         18
       ],
-      "lastSpin": "2025-02-22T18:20:27.203Z"
+      "lastSpin": "2025-02-25T20:51:19.025Z"
     },
     {
       "username": "greathumble",
@@ -10330,7 +10330,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:51:20.217Z"
+      "joinDate": "2025-02-25T20:51:20.217Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
