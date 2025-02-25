@@ -9682,7 +9682,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:33:02.252Z"
+      "joinDate": "2025-02-25T19:33:02.252Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aisha ",
+      "email": "yushauisahaisha@gmail.com",
+      "encrypted_password": "3456a7c6e06103d6cc5960ba94fd39ef",
+      "referral_code": "AIK4B",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:33:38.899Z"
     }
   ],
   "withdrawals": [
