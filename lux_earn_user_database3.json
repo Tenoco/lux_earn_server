@@ -5733,11 +5733,12 @@
         "Abdulfatai7 ",
         "Fatimah",
         "Dada",
-        "Ridwan olawale"
+        "Ridwan olawale",
+        "Hanike"
       ],
       "balance": 18,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -8232,6 +8233,21 @@
         2
       ],
       "lastSpin": "2025-02-25T17:38:28.418Z"
+    },
+    {
+      "username": "Hanike",
+      "email": "fh5484304@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "HAOSK",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:39:43.526Z"
     }
   ],
   "withdrawals": [
