@@ -12053,7 +12053,8 @@
         4,
         16,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Ayobami",
@@ -12105,6 +12106,23 @@
       "joinDate": "2025-02-21T07:01:02.685Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T22:51:13.350Z"
+    },
+    {
+      "username": "Bihilia",
+      "email": "bossloliagodgift@gmail.com",
+      "encrypted_password": "1f661eaf747f98b0e0fec6961d6c8154",
+      "referral_code": "BI9F7",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T20:03:40.489Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
