@@ -4361,7 +4361,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 230,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4383,9 +4383,10 @@
         10,
         10,
         11,
-        12
-      ],
-      "lastSpin": null
+        12,
+        12,
+        13
+      ]
     },
     {
       "username": "toyosi23",
@@ -4469,7 +4470,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T12:40:21.184Z"
+      "joinDate": "2025-02-25T12:40:21.184Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
