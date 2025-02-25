@@ -7637,10 +7637,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:04:18.199Z",
-      "lastSpin": "2025-02-25T17:04:39.589Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:04:39.589Z"
     },
     {
       "username": "Ekene123",
@@ -7683,6 +7683,27 @@
         17
       ],
       "lastSpin": "2025-02-24T17:59:55.780Z"
+    },
+    {
+      "username": "Esther042",
+      "email": "estherkelechi244@gmail.com",
+      "encrypted_password": "bfb264e9d3e46d7426ceb802588d84a6",
+      "referral_code": "ES3UL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 153,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:12:54.930Z",
+      "completedMissions": [
+        2,
+        13,
+        4
+      ],
+      "lastSpin": "2025-02-22T19:42:49.861Z"
     }
   ],
   "withdrawals": [
