@@ -6750,7 +6750,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:15:55.343Z"
+      "joinDate": "2025-02-25T16:15:55.343Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aaronoladepo",
+      "email": "aaronoladepo9@gmail.co",
+      "encrypted_password": "49e002daf1a61415f813a00837d21a7c",
+      "referral_code": "AAHJB",
+      "inviter_referral_code": "CR114",
+      "inviter_username": "Cresterfied",
+      "invited_users": [],
+      "balance": 223,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:23:54.753Z",
+      "completedMissions": [
+        6,
+        6,
+        1,
+        1,
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-25T16:17:33.413Z"
     }
   ],
   "withdrawals": [
