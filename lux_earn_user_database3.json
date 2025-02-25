@@ -9043,7 +9043,37 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:53:00.703Z"
+      "joinDate": "2025-02-25T18:53:00.703Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kingobillions",
+      "email": "oeitafoh@gmail.com",
+      "encrypted_password": "afaa827b182beee3dbc307225f9f7d8a",
+      "referral_code": "KI704",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 183,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:47:33.568Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        7,
+        6,
+        12,
+        11,
+        14,
+        10,
+        5
+      ],
+      "lastSpin": "2025-02-23T19:06:49.420Z"
     }
   ],
   "withdrawals": [
