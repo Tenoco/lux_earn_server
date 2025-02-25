@@ -12198,7 +12198,7 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12211,7 +12211,8 @@
         16,
         5,
         6,
-        7
+        7,
+        18
       ],
       "lastSpin": null
     },
@@ -12476,7 +12477,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:24:01.279Z"
+      "joinDate": "2025-02-25T23:24:01.279Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
