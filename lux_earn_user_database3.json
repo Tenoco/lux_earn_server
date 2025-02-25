@@ -3087,7 +3087,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T09:53:05.602Z"
+      "joinDate": "2025-02-25T09:53:05.602Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Beenaleeyou",
+      "email": "abdulrrahmanaliyuinuwa@gmail.com",
+      "encrypted_password": "378ffc2a5981ab0902d71d26c23a6c7d",
+      "referral_code": "BESMS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:53:31.507Z"
     }
   ],
   "withdrawals": [
