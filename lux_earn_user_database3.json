@@ -3710,13 +3710,13 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:07:25.581Z",
-      "lastSpin": "2025-02-25T11:08:04.189Z",
       "completedMissions": [
         4,
         16,
         16,
         5
-      ]
+      ],
+      "lastSpin": "2025-02-25T11:08:04.189Z"
     },
     {
       "username": "Mickeyolaoluwa",
@@ -3781,6 +3781,21 @@
         14
       ],
       "lastSpin": "2025-02-24T00:13:13.337Z"
+    },
+    {
+      "username": "Plutomalay",
+      "email": "jw425687@gmail.com",
+      "encrypted_password": "e9fa67a9b4a5cb81ff2e23dd93b38ac3",
+      "referral_code": "PLWRA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T11:15:13.968Z"
     }
   ],
   "withdrawals": [
