@@ -961,14 +961,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T06:40:07.094Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": "2025-02-25T06:41:22.429Z"
     },
     {
       "username": "U2529",
@@ -1017,7 +1019,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T06:42:18.091Z"
+      "joinDate": "2025-02-25T06:42:18.091Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
