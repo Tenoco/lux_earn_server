@@ -23686,11 +23686,12 @@
         "Mercy4552",
         "Favour41fa*",
         "Mayorzip34#@",
-        "Dacksonzup234#@"
+        "Dacksonzup234#@",
+        "kingitari45@gmail.com"
       ],
       "balance": 255,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:10:27.072Z",
@@ -37378,7 +37379,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T09:54:06.169Z"
+      "joinDate": "2025-02-25T09:54:06.169Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "kingitari45@gmail.com",
+      "email": "itariwisdom3@gmail.com",
+      "encrypted_password": "634a55292bb56eebec7ec2c46e23cc32",
+      "referral_code": "KIKON",
+      "inviter_referral_code": "MIU0C",
+      "inviter_username": "miguel411",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:15:49.523Z"
     }
   ],
   "withdrawals": [
