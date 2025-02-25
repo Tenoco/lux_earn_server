@@ -5614,7 +5614,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:29:41.809Z",
-      "lastSpin": "2025-02-25T14:29:57.562Z",
       "completedMissions": [
         1,
         2,
@@ -5625,7 +5624,8 @@
         6,
         7,
         15
-      ]
+      ],
+      "lastSpin": "2025-02-25T14:29:57.562Z"
     },
     {
       "username": "Jdndjdndkkjdjdnd34",
@@ -5676,6 +5676,28 @@
       "status": "active",
       "joinDate": "2025-02-25T14:35:29.994Z",
       "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tintini ",
+      "email": "abdulqudustintini001@gmail.com",
+      "encrypted_password": "c7782de0c687cf484c6c043ddff03653",
+      "referral_code": "TIME4",
+      "inviter_referral_code": "ADIVS",
+      "inviter_username": null,
+      "invited_users": [
+        "Abdulfatai7 ",
+        "Fatimah"
+      ],
+      "balance": 10,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T12:18:33.943Z",
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     }
   ],
