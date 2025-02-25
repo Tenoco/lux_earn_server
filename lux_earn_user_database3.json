@@ -4019,7 +4019,8 @@
         13,
         14,
         17
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Abiolag",
@@ -4078,6 +4079,26 @@
         10
       ],
       "lastSpin": "2025-02-23T13:10:27.995Z"
+    },
+    {
+      "username": "Tesseyde12",
+      "email": "hammedibukunodunayo2022@gmail.com",
+      "encrypted_password": "e8f6712146e452ad57ae21378fa04dcd",
+      "referral_code": "TEP9T",
+      "inviter_referral_code": "ST94T",
+      "inviter_username": "starpotter",
+      "invited_users": [],
+      "balance": 1030,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T11:27:19.186Z",
+      "completedMissions": [
+        1,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
