@@ -178,7 +178,7 @@
       "inviter_referral_code": "BADL5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 598,
+      "balance": 698,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -222,7 +222,17 @@
         5,
         5,
         5,
-        5
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
       ],
       "lastSpin": "2025-02-25T05:59:57.570Z"
     },
@@ -453,7 +463,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T06:07:00.196Z"
+      "joinDate": "2025-02-25T06:07:00.196Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
