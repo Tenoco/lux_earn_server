@@ -5208,12 +5208,13 @@
       "inviter_referral_code": "00000",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T13:54:27.893Z"
+      "joinDate": "2025-02-25T13:54:27.893Z",
+      "lastSpin": "2025-02-25T13:55:08.635Z"
     }
   ],
   "withdrawals": [
