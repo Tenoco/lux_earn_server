@@ -8247,7 +8247,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:39:43.526Z"
+      "joinDate": "2025-02-25T17:39:43.526Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayokunmi1234",
+      "email": "odeleyefolashade13@gmail.com",
+      "encrypted_password": "053c40d0a7acce81d6257272766f8837",
+      "referral_code": "AYQ0X",
+      "inviter_referral_code": "FANHP",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:41:31.171Z"
     }
   ],
   "withdrawals": [
