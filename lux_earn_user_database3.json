@@ -7001,11 +7001,12 @@
         "Namessub",
         "Community ",
         "Honey pie",
-        "Sugarbby"
+        "Sugarbby",
+        "Emmanuelle "
       ],
       "balance": 232,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7599,7 +7600,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:03:10.546Z"
+      "joinDate": "2025-02-25T17:03:10.546Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Emmanuelle ",
+      "email": "emmaunel68@gmail.com",
+      "encrypted_password": "21ae4d2ce8fffd356de19201ec31ebfe",
+      "referral_code": "EMY3Y",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:04:09.781Z"
     }
   ],
   "withdrawals": [
