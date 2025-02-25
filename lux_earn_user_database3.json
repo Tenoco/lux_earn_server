@@ -4332,11 +4332,12 @@
       "invited_users": [
         "Njideka ",
         "Santos",
-        "Marvice "
+        "Marvice ",
+        "Steve "
       ],
       "balance": 250,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8651,6 +8652,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Steve ",
+      "email": "agbasinnamdi@gmail.com",
+      "encrypted_password": "c28618697deef3e1e375fec3a74d3946",
+      "referral_code": "STT0R",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:22:48.533Z"
     }
   ],
   "withdrawals": [
