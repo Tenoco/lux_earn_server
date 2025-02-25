@@ -6995,11 +6995,12 @@
         "Akabi",
         "Jokercool",
         "Hagga",
-        "Paparazzi "
+        "Paparazzi ",
+        "Gee"
       ],
       "balance": 232,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7416,7 +7417,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:51:32.513Z"
+      "joinDate": "2025-02-25T16:51:32.513Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gee",
+      "email": "geegangan@gmail.com",
+      "encrypted_password": "10421ab2fe5264d0ce95832dd0fbcf10",
+      "referral_code": "GE0O2",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:53:26.525Z"
     }
   ],
   "withdrawals": [
