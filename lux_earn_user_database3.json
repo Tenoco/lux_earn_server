@@ -10072,7 +10072,31 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:25:10.105Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T20:25:28.408Z"
+    },
+    {
+      "username": "Musty monie ",
+      "email": "Mustaphadurojaye009@gmail.com",
+      "encrypted_password": "6572bdaff799084b973320f43f09b363",
+      "referral_code": "MUP61",
+      "inviter_referral_code": "heo20",
+      "inviter_username": null,
+      "invited_users": [
+        "TIZZY001"
+      ],
+      "balance": 50,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:25:26.405Z",
+      "completedMissions": [
+        1,
+        4,
+        16
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
