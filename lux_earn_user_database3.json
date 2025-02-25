@@ -7682,11 +7682,12 @@
         "Ilemu",
         "Samson",
         "Nigga",
-        "Adegoke"
+        "Adegoke",
+        "Ayobami"
       ],
       "balance": 242,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12047,6 +12048,21 @@
       "joinDate": "2025-02-25T22:44:24.950Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ayobami",
+      "email": "omoolowoigbayilola3@gmail.com",
+      "encrypted_password": "a0ac12a8666a9c4f706adb0200fa513b",
+      "referral_code": "AYO3F",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:47:11.288Z"
     }
   ],
   "withdrawals": [
