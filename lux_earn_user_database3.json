@@ -5872,6 +5872,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:46:03.721Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T14:47:40.224Z"
     },
     {
@@ -5900,6 +5901,29 @@
         11
       ],
       "lastSpin": "2025-02-25T14:46:22.451Z"
+    },
+    {
+      "username": "Ola75",
+      "email": "jaiyeolamaureen8@gmail.com",
+      "encrypted_password": "411aa6b95a14ab98bc3cf4a8293ce760",
+      "referral_code": "OL20G",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": "Pearl",
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:31:21.756Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
