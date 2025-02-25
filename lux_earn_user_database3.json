@@ -7698,11 +7698,12 @@
         "KGB ",
         "Oyin",
         "Uche",
-        "Bose"
+        "Bose",
+        "Adekoya"
       ],
       "balance": 242,
-      "refers": 29,
-      "referralBalance": 2900,
+      "refers": 30,
+      "referralBalance": 3000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12626,7 +12627,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:30:58.245Z"
+      "joinDate": "2025-02-25T23:30:58.245Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adekoya",
+      "email": "igbayilolaadeyiga3@gmail.com",
+      "encrypted_password": "4cccb94fc8b939827fe11d5b34a4f3dd",
+      "referral_code": "ADPZX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:31:22.924Z"
     }
   ],
   "withdrawals": [
