@@ -7722,11 +7722,12 @@
         "Niaja",
         "Lekan5",
         "Teniola1",
-        "Darasimi"
+        "Darasimi",
+        "Bidemi"
       ],
       "balance": 242,
-      "refers": 40,
-      "referralBalance": 4000,
+      "refers": 41,
+      "referralBalance": 4100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -13148,7 +13149,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:52:54.404Z"
+      "joinDate": "2025-02-25T23:52:54.404Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bidemi",
+      "email": "igbayilolaadeyiga2@gmail.com",
+      "encrypted_password": "7caee6752592d145653a6daa8c49e7b5",
+      "referral_code": "BIHRR",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:54:16.160Z"
     }
   ],
   "withdrawals": [
