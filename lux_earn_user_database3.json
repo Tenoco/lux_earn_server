@@ -3998,14 +3998,15 @@
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:46:18.620Z",
       "completedMissions": [
-        1
+        1,
+        2
       ]
     }
   ],
