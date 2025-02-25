@@ -6074,7 +6074,8 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dhhnjvjk0",
@@ -6428,6 +6429,21 @@
       "joinDate": "2025-02-25T15:21:46.053Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emerald04",
+      "email": "akinhanmiatinuke@gmail.com",
+      "encrypted_password": "3831ffd63c68a49955252be3a383c326",
+      "referral_code": "EMM4P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:23:13.763Z"
     }
   ],
   "withdrawals": [
