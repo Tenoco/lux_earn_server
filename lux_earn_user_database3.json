@@ -7679,11 +7679,12 @@
         "Igbeku ",
         "Ilemu",
         "Samson",
-        "Nigga"
+        "Nigga",
+        "Adegoke"
       ],
       "balance": 242,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -11878,6 +11879,21 @@
       "joinDate": "2025-02-25T22:36:28.034Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Adegoke",
+      "email": "igbayilolaadeyiga9@gmail.com",
+      "encrypted_password": "996ce291c85f45f8ec438148836f9ed3",
+      "referral_code": "ADWZG",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:37:53.458Z"
     }
   ],
   "withdrawals": [
