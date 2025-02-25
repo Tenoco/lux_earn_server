@@ -7000,11 +7000,12 @@
         "Lime ",
         "Namessub",
         "Community ",
-        "Honey pie"
+        "Honey pie",
+        "Sugarbby"
       ],
       "balance": 232,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7565,6 +7566,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T17:02:51.265Z"
     },
     {
@@ -7583,6 +7585,21 @@
       "joinDate": "2025-02-25T17:02:18.930Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sugarbby",
+      "email": "sugar@gmail.com",
+      "encrypted_password": "982ddf00fbc411a7d0f104203626896c",
+      "referral_code": "SUXIP",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:03:10.546Z"
     }
   ],
   "withdrawals": [
