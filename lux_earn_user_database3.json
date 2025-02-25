@@ -5804,11 +5804,12 @@
         "Bread and beans",
         "Jodo you doing today ",
         "Thunders you doing ",
-        "Tyuohgfu you doing "
+        "Tyuohgfu you doing ",
+        "Ftreuf vbkgf"
       ],
       "balance": 18,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:18:33.943Z",
@@ -11071,6 +11072,21 @@
         17
       ],
       "lastSpin": "2025-02-24T18:24:39.860Z"
+    },
+    {
+      "username": "Ftreuf vbkgf",
+      "email": "adulqudustintkog01@gmail.com",
+      "encrypted_password": "53b76cc34444f5b08f9a0a333437e32d",
+      "referral_code": "FTYOR",
+      "inviter_referral_code": "TIME4",
+      "inviter_username": "Tintini ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:38:35.752Z"
     }
   ],
   "withdrawals": [
