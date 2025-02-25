@@ -1097,7 +1097,7 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 92,
+      "balance": 112,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1108,7 +1108,9 @@
         2,
         4,
         16,
-        5
+        5,
+        6,
+        7
       ],
       "lastSpin": "2025-02-25T06:45:45.991Z"
     },
