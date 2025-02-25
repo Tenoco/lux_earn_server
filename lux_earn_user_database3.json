@@ -6033,14 +6033,15 @@
       "inviter_referral_code": "MOKK4",
       "inviter_username": "Momewing ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T15:02:45.873Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Dhhnjvjk0",
