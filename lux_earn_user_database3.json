@@ -3562,7 +3562,7 @@
         "Kskkdjffnb",
         "Jsshdjfkfj"
       ],
-      "balance": 222,
+      "balance": 240,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -3582,7 +3582,7 @@
         10,
         12
       ],
-      "lastSpin": "2025-02-23T19:50:03.542Z"
+      "lastSpin": "2025-02-25T10:53:53.528Z"
     },
     {
       "username": "Odubiyi sherifat ",
@@ -3598,6 +3598,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:53:10.983Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T10:53:30.723Z"
     }
   ],
