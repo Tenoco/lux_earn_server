@@ -3885,16 +3885,18 @@
       "inviter_referral_code": "TO8QD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 32,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T11:30:11.989Z",
+      "lastSpin": "2025-02-25T11:30:29.668Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-25T11:30:29.668Z"
+        1,
+        2,
+        4
+      ]
     }
   ],
   "withdrawals": [
