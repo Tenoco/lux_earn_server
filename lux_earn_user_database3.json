@@ -2478,11 +2478,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "aygold2022",
-        "Nony"
+        "Nony",
+        "Nathymos "
       ],
       "balance": 55,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:26:08.335Z",
@@ -3272,6 +3273,21 @@
         7
       ],
       "lastSpin": "2025-02-24T16:42:00.334Z"
+    },
+    {
+      "username": "Nathymos ",
+      "email": "nathanieludo305@gmail.com",
+      "encrypted_password": "544e363c9d301f01c1fef1656d26d747",
+      "referral_code": "NA26L",
+      "inviter_referral_code": "OLDLO",
+      "inviter_username": "Oluwaexcess",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:13:51.464Z"
     }
   ],
   "withdrawals": [
