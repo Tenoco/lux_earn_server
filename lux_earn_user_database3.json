@@ -3287,7 +3287,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T10:13:51.464Z"
+      "joinDate": "2025-02-25T10:13:51.464Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nazeer",
+      "email": "abdullahif813@gmail.com",
+      "encrypted_password": "38c5847c911cf36a20751d2ee3bbba24",
+      "referral_code": "NAUMY",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T10:15:07.588Z"
     }
   ],
   "withdrawals": [
