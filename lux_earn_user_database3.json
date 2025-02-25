@@ -2491,7 +2491,7 @@
         "Nony",
         "Nathymos "
       ],
-      "balance": 115,
+      "balance": 125,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -2501,7 +2501,8 @@
         1,
         2,
         4,
-        16
+        16,
+        5
       ],
       "lastSpin": "2025-02-25T08:55:42.482Z"
     },
@@ -8287,7 +8288,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:46:15.455Z"
+      "joinDate": "2025-02-25T17:46:15.455Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
