@@ -7684,11 +7684,12 @@
         "Samson",
         "Nigga",
         "Adegoke",
-        "Ayobami"
+        "Ayobami",
+        "Kayode"
       ],
       "balance": 242,
-      "refers": 19,
-      "referralBalance": 1900,
+      "refers": 20,
+      "referralBalance": 2000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12259,6 +12260,21 @@
         5
       ],
       "lastSpin": "2025-02-25T23:09:12.873Z"
+    },
+    {
+      "username": "Kayode",
+      "email": "igbayilolaadeyiga@gmail.com",
+      "encrypted_password": "dafedc1af5595bc41ef8ff4aa2297061",
+      "referral_code": "KALW0",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:14:46.913Z"
     }
   ],
   "withdrawals": [
