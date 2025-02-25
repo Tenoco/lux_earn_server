@@ -52,7 +52,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:57:33.465Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-23T15:57:42.514Z"
+    },
+    {
+      "username": "Lots9",
+      "email": "twigw@gmaik.dom",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "LOW5O",
+      "inviter_referral_code": "TEQZ9",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:37:23.029Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
