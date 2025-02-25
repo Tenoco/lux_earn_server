@@ -8048,16 +8048,17 @@
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:26:42.956Z",
       "completedMissions": [
-        2
-      ],
-      "lastSpin": null
+        2,
+        16,
+        5
+      ]
     },
     {
       "username": "Debbie love",
@@ -8108,7 +8109,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:32:12.402Z"
+      "joinDate": "2025-02-25T17:32:12.402Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
