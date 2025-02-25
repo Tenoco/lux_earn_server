@@ -6154,7 +6154,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T15:09:14.083Z"
+      "joinDate": "2025-02-25T15:09:14.083Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nehemiah ",
+      "email": "johnpboy56@gmail.com",
+      "encrypted_password": "320be435608f85c46fe4904057901df9",
+      "referral_code": "NE1SI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:09:33.068Z"
     }
   ],
   "withdrawals": [
