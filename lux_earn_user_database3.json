@@ -8326,7 +8326,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:53:25.387Z"
+      "joinDate": "2025-02-25T17:53:25.387Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Opesanfavour ",
+      "email": "opesanfavour46@gmail.com",
+      "encrypted_password": "0cbcbb49b0a8c76fc8968de60e7b23da",
+      "referral_code": "OPBUO",
+      "inviter_referral_code": "DEPDT ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:53:50.821Z"
     }
   ],
   "withdrawals": [
