@@ -376,11 +376,12 @@
         "Lamide",
         "Ifemi",
         "Budemi",
-        "Juwon"
+        "Juwon",
+        "dylandjunior "
       ],
       "balance": 255,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T18:57:19.783Z",
@@ -1652,7 +1653,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T07:23:41.008Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T07:24:16.514Z"
+    },
+    {
+      "username": "dylandjunior ",
+      "email": "danieloluwagbemi2@gmail.com",
+      "encrypted_password": "dbb2f066faba1ff15cf8c190ba3d2381",
+      "referral_code": "DYX88",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T07:25:22.335Z"
     }
   ],
   "withdrawals": [
