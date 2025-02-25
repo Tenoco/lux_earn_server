@@ -2491,13 +2491,16 @@
         "Nony",
         "Nathymos "
       ],
-      "balance": 55,
+      "balance": 75,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T18:26:08.335Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": "2025-02-25T08:55:42.482Z"
     },
     {
@@ -8264,7 +8267,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:41:31.171Z"
+      "joinDate": "2025-02-25T17:41:31.171Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
