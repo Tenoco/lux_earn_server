@@ -5138,7 +5138,48 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T13:39:37.233Z"
+      "joinDate": "2025-02-25T13:39:37.233Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kaz4455",
+      "email": "azubairkhadija@gmail.com",
+      "encrypted_password": "62beb67019b9b9eb6599818bc4f36a51",
+      "referral_code": "KAQ0P",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Zuubi",
+        "Fudal",
+        "Fattee",
+        "Hajjo",
+        "Waddiyya",
+        "Fatiti",
+        "Hiudu",
+        "Lawwesa",
+        "Kaltume",
+        "Goggo"
+      ],
+      "balance": 188,
+      "refers": 10,
+      "referralBalance": 1000,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:02:08.449Z",
+      "completedMissions": [
+        1,
+        2,
+        5,
+        4,
+        13,
+        8,
+        8,
+        14,
+        11,
+        9
+      ],
+      "lastSpin": "2025-02-22T16:25:36.207Z"
     }
   ],
   "withdrawals": [
