@@ -3300,7 +3300,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3309,7 +3309,8 @@
       "completedMissions": [
         1,
         2,
-        17
+        17,
+        14
       ]
     },
     {
