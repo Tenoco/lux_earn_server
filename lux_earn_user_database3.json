@@ -7718,11 +7718,12 @@
         "Igbemude",
         "Elijah",
         "Niaja",
-        "Lekan5"
+        "Lekan5",
+        "Teniola1"
       ],
       "balance": 242,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -13076,7 +13077,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:50:08.019Z"
+      "joinDate": "2025-02-25T23:50:08.019Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Teniola1",
+      "email": "bamitaleayobami111@gmail.com",
+      "encrypted_password": "c12418f7e036f2c445b96edf0592fe2e",
+      "referral_code": "TEC9O",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:50:31.688Z"
     }
   ],
   "withdrawals": [
