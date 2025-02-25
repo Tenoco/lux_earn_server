@@ -10222,7 +10222,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T20:33:15.102Z"
+      "joinDate": "2025-02-25T20:33:15.102Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ola4life ",
+      "email": "olatunjiolaitan721@gmail.com",
+      "encrypted_password": "fcae5d0c23128610d301a1f07a74176b",
+      "referral_code": "OLR7F",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:37:54.497Z"
     }
   ],
   "withdrawals": [
