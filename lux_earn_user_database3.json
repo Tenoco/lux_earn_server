@@ -9416,6 +9416,28 @@
         16
       ],
       "lastSpin": "2025-02-23T17:29:31.148Z"
+    },
+    {
+      "username": "Sowley joel",
+      "email": "sowleyjoel@gmail.com",
+      "encrypted_password": "c4f682380fdeefc97bbeb020e85d8869",
+      "referral_code": "SOL89",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 60,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T16:27:39.754Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
