@@ -10352,7 +10352,8 @@
       "joinDate": "2025-02-25T20:53:33.588Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Try to get another job ",
@@ -10379,14 +10380,13 @@
       "inviter_referral_code": "KllO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:09.773Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-25T20:58:31.539Z"
     },
     {
       "username": "Infinite ",
