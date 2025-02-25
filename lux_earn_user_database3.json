@@ -10258,6 +10258,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:38:41.859Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T20:42:31.562Z"
     },
     {
@@ -10271,7 +10272,7 @@
         "Setemi",
         "Setemi1"
       ],
-      "balance": 1110,
+      "balance": 1120,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -10284,7 +10285,8 @@
         11,
         10,
         12,
-        7
+        7,
+        2
       ],
       "lastSpin": "2025-02-22T18:20:27.203Z"
     }
