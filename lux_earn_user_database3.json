@@ -12787,7 +12787,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:36:42.897Z"
+      "joinDate": "2025-02-25T23:36:42.897Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jimohmuhammad",
+      "email": "jimohmuhammadhadi@gmail.com",
+      "encrypted_password": "da4ca13f53cdc7800a0d3ffc6cb83301",
+      "referral_code": "JISSP",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:37:50.398Z"
     }
   ],
   "withdrawals": [
