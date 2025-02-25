@@ -5304,11 +5304,12 @@
         "Holidia",
         "Adolphus ",
         "Royal",
-        "Helait"
+        "Helait",
+        "Purity"
       ],
       "balance": 290,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -9845,7 +9846,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:57:53.790Z"
+      "joinDate": "2025-02-25T19:57:53.790Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Purity",
+      "email": "puritygibson@gmail.com",
+      "encrypted_password": "044fb594e58ae3d76b524261dc8e4701",
+      "referral_code": "PUH17",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:59:05.692Z"
     }
   ],
   "withdrawals": [
