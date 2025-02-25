@@ -4336,11 +4336,12 @@
         "Steve ",
         "Emeka ",
         "Mercy ",
-        "Goodluck "
+        "Goodluck ",
+        "cute54"
       ],
       "balance": 250,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8862,7 +8863,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:32:28.513Z"
+      "joinDate": "2025-02-25T18:32:28.513Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "cute54",
+      "email": "cutejess6@gmail.com",
+      "encrypted_password": "11cea6d5267e2c920494b6fd5113a491",
+      "referral_code": "CUAKT",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:32:34.450Z"
     }
   ],
   "withdrawals": [
