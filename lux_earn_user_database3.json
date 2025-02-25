@@ -10587,7 +10587,8 @@
         18,
         17,
         14
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Daniel",
@@ -10620,6 +10621,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mac Iyke",
+      "email": "uchemikekamsi@gmail.com",
+      "encrypted_password": "85ed0720f2c2a65e83056afcac39251a",
+      "referral_code": "MA3QU",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T22:53:10.702Z",
       "completedMissions": [],
       "lastSpin": null
     }
