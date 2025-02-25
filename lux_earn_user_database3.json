@@ -7546,7 +7546,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:00:19.952Z"
+      "joinDate": "2025-02-25T17:00:19.952Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igbayilola1",
+      "email": "igbayilolaadeyiga10@gmail.com",
+      "encrypted_password": "915e621a7952eaa9d81c5602d13f4cd4",
+      "referral_code": "IGE9G",
+      "inviter_referral_code": "OLXTY",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:00:54.941Z"
     }
   ],
   "withdrawals": [
