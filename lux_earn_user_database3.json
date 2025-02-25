@@ -6998,11 +6998,12 @@
         "Paparazzi ",
         "Gee",
         "Lime ",
-        "Namessub"
+        "Namessub",
+        "Community "
       ],
       "balance": 232,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7529,7 +7530,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:58:36.203Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T16:58:48.639Z"
+    },
+    {
+      "username": "Community ",
+      "email": "communitydd63@gmail.com",
+      "encrypted_password": "df628491f00ab785b6abfc6b68065ad0",
+      "referral_code": "COT66",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:00:19.952Z"
     }
   ],
   "withdrawals": [
