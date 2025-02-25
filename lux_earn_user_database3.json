@@ -5303,10 +5303,12 @@
       "referral_code": "DER54",
       "inviter_referral_code": "MDZYH",
       "inviter_username": "MDFELIX",
-      "invited_users": [],
+      "invited_users": [
+        "destiny "
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:02:34.996Z",
@@ -7205,6 +7207,21 @@
         2
       ],
       "lastSpin": "2025-02-25T16:36:44.625Z"
+    },
+    {
+      "username": "destiny ",
+      "email": "divineokesamson@gmail.com",
+      "encrypted_password": "720dd8b4e63d97efa2dac14dc63c6f0e",
+      "referral_code": "DE4KH",
+      "inviter_referral_code": "DER54",
+      "inviter_username": "Destiny",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:39:56.908Z"
     }
   ],
   "withdrawals": [
