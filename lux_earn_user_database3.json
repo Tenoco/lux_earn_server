@@ -7613,11 +7613,12 @@
         "Malik ",
         "Igbayilola57",
         "Igbayilola67",
-        "Igbayilola37"
+        "Igbayilola37",
+        "Igbayilola45"
       ],
       "balance": 242,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -9205,6 +9206,21 @@
       "joinDate": "2025-02-25T18:57:04.131Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Igbayilola45",
+      "email": "omoolowoigbayilola@gmail.com",
+      "encrypted_password": "9b336a2fddc853470128254608e45b92",
+      "referral_code": "IG1RA",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:58:19.998Z"
     }
   ],
   "withdrawals": [
