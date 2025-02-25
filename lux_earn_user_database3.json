@@ -7685,11 +7685,12 @@
         "Nigga",
         "Adegoke",
         "Ayobami",
-        "Kayode"
+        "Kayode",
+        "Bamitale"
       ],
       "balance": 242,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12366,6 +12367,21 @@
         11
       ],
       "lastSpin": "2025-02-25T08:14:12.244Z"
+    },
+    {
+      "username": "Bamitale",
+      "email": "bamitaleayobami1@gmail.com",
+      "encrypted_password": "e002c77183028b979037d14b276b7419",
+      "referral_code": "BA5DX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:17:16.194Z"
     }
   ],
   "withdrawals": [
