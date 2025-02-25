@@ -4333,11 +4333,12 @@
         "Njideka ",
         "Santos",
         "Marvice ",
-        "Steve "
+        "Steve ",
+        "Emeka "
       ],
       "balance": 250,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:16:43.840Z",
@@ -8739,6 +8740,21 @@
         11
       ],
       "lastSpin": "2025-02-23T12:12:00.436Z"
+    },
+    {
+      "username": "Emeka ",
+      "email": "agbasiroma58@gmail.com",
+      "encrypted_password": "ff7ba04c4e7cbe90167a9943c7b3241e",
+      "referral_code": "EM759",
+      "inviter_referral_code": "GOFOU",
+      "inviter_username": "Goldden",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:25:40.526Z"
     }
   ],
   "withdrawals": [
