@@ -2871,11 +2871,12 @@
         "Fighter 38",
         "Uniroed67g@gmail.com",
         "David 34",
-        "Blogger12"
+        "Blogger12",
+        "Debby29"
       ],
       "balance": 180,
-      "refers": 23,
-      "referralBalance": 2300,
+      "refers": 24,
+      "referralBalance": 2400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -3035,7 +3036,8 @@
       "joinDate": "2025-02-25T09:48:08.123Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Marvelous",
@@ -3053,6 +3055,21 @@
       "joinDate": "2025-02-25T09:48:19.413Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Debby29",
+      "email": "deborah128@gmail.com",
+      "encrypted_password": "a384b6463fc216a5f8ecb6670f86456a",
+      "referral_code": "DE03E",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T09:51:08.538Z"
     }
   ],
   "withdrawals": [
