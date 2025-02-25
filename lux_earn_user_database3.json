@@ -8607,7 +8607,7 @@
       "inviter_referral_code": "AY4HA",
       "inviter_username": "Ayanwole",
       "invited_users": [],
-      "balance": 30,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8616,7 +8616,8 @@
       "completedMissions": [
         1,
         2,
-        2
+        2,
+        4
       ],
       "lastSpin": null
     },
@@ -9359,7 +9360,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:10:05.821Z"
+      "joinDate": "2025-02-25T19:10:05.821Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
