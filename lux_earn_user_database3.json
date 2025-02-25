@@ -6993,11 +6993,12 @@
       "invited_users": [
         "Job",
         "Akabi",
-        "Jokercool"
+        "Jokercool",
+        "Hagga"
       ],
       "balance": 232,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:03:02.321Z",
@@ -7275,10 +7276,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:43:55.956Z",
-      "lastSpin": "2025-02-25T16:44:46.393Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-25T16:44:46.393Z"
     },
     {
       "username": "Risky01",
@@ -7346,6 +7347,21 @@
       "joinDate": "2025-02-25T16:45:09.663Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Hagga",
+      "email": "haggabright@gail.com",
+      "encrypted_password": "5f281a31cee73e4f30c1c462c75f0621",
+      "referral_code": "HAWSL",
+      "inviter_referral_code": "HA4GL",
+      "inviter_username": "Hallelujah ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T16:46:13.799Z"
     }
   ],
   "withdrawals": [
