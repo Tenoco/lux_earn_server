@@ -10615,14 +10615,15 @@
       "inviter_referral_code": "ALX1V",
       "inviter_username": "alofeprecious",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Mac Iyke",
