@@ -2491,7 +2491,7 @@
         "Nony",
         "Nathymos "
       ],
-      "balance": 125,
+      "balance": 135,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -2502,7 +2502,8 @@
         2,
         4,
         16,
-        5
+        5,
+        6
       ],
       "lastSpin": "2025-02-25T08:55:42.482Z"
     },
@@ -8431,11 +8432,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:58:04.282Z",
-      "lastSpin": "2025-02-25T18:00:44.104Z",
       "completedMissions": [
         2,
         4
-      ]
+      ],
+      "lastSpin": "2025-02-25T18:00:44.104Z"
     },
     {
       "username": "Edesiri95",
