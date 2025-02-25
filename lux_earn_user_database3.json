@@ -7881,7 +7881,7 @@
       "inviter_referral_code": "BL7KC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 200,
+      "balance": 220,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7900,9 +7900,9 @@
         10,
         11,
         12,
-        13
-      ],
-      "lastSpin": null
+        13,
+        14
+      ]
     },
     {
       "username": "Kezie313",
@@ -8036,7 +8036,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T17:26:42.956Z"
+      "joinDate": "2025-02-25T17:26:42.956Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
