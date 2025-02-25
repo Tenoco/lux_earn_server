@@ -7270,16 +7270,17 @@
       "inviter_referral_code": "FIDTX",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 35,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T16:43:55.956Z",
+      "lastSpin": "2025-02-25T16:44:46.393Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-25T16:44:46.393Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Risky01",
@@ -7378,7 +7379,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T16:46:48.564Z"
+      "joinDate": "2025-02-25T16:46:48.564Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
