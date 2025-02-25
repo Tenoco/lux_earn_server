@@ -62,15 +62,32 @@
       "referral_code": "LOW5O",
       "inviter_referral_code": "TEQZ9",
       "inviter_username": null,
+      "invited_users": [
+        "Code"
+      ],
+      "balance": 0,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T06:37:23.029Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Code",
+      "email": "code@gmail.com",
+      "encrypted_password": "202cb962ac59075b964b07152d234b70",
+      "referral_code": "COO45",
+      "inviter_referral_code": "LOW5O",
+      "inviter_username": "Lots9",
       "invited_users": [],
       "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-22T06:37:23.029Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "joinDate": "2025-02-25T04:34:29.063Z"
     }
   ],
   "withdrawals": [
