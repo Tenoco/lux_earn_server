@@ -10741,11 +10741,12 @@
       "inviter_username": null,
       "invited_users": [
         "Eeeee",
-        "Delighted123"
+        "Delighted123",
+        "Wwrwr"
       ],
       "balance": 1,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:20:40.883Z",
@@ -10870,6 +10871,21 @@
       "joinDate": "2025-02-25T21:28:06.278Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wwrwr",
+      "email": "ghghghg@gmail.com",
+      "encrypted_password": "3bad6af0fa4b8b330d162e19938ee981",
+      "referral_code": "WW7A5",
+      "inviter_referral_code": "DEI2O",
+      "inviter_username": "DELIGHTED ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T21:29:35.702Z"
     }
   ],
   "withdrawals": [
