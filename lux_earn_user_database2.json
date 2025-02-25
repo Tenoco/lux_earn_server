@@ -37541,6 +37541,33 @@
       "joinDate": "2025-02-21T15:23:54.861Z",
       "completedMissions": [],
       "lastSpin": "2025-02-21T15:24:39.147Z"
+    },
+    {
+      "username": "Tong",
+      "email": "tongshinanjulius@gmail.com",
+      "encrypted_password": "7c04cac87083d4263942f9b10927bad7",
+      "referral_code": "TO8QD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Satshak ",
+        "Long"
+      ],
+      "balance": 180,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:08:40.842Z",
+      "completedMissions": [
+        1,
+        1,
+        4,
+        3,
+        2,
+        5
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
