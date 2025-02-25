@@ -9863,7 +9863,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T19:59:05.692Z"
+      "joinDate": "2025-02-25T19:59:05.692Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Angel ",
+      "email": "olabodeglover85@gmail.com",
+      "encrypted_password": "668206be5bbc78141b3be2d40fed61e1",
+      "referral_code": "ANYMB",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T19:59:40.532Z"
     }
   ],
   "withdrawals": [
