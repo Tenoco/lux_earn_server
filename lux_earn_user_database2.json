@@ -37478,6 +37478,31 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Johnny ",
+      "email": "adeyemojohn2004@gmail.com",
+      "encrypted_password": "d92d054fdb1b38a8dcec253d59a04e9d",
+      "referral_code": "JO38K",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Tope"
+      ],
+      "balance": 198,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:22:04.593Z",
+      "completedMissions": [
+        1,
+        9,
+        2,
+        3,
+        4
+      ],
+      "lastSpin": "2025-02-22T12:47:56.815Z"
     }
   ],
   "withdrawals": [
