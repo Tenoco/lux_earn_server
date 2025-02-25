@@ -2658,7 +2658,43 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T09:20:43.501Z"
+      "joinDate": "2025-02-25T09:20:43.501Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "gideonx",
+      "email": "somefungideon@gmail.com",
+      "encrypted_password": "68a93bfbf68957910ab3a8dad2e84b16",
+      "referral_code": "GIW62",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [
+        "Allowance",
+        "Joy"
+      ],
+      "balance": 235,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:36:39.495Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        12,
+        11,
+        7,
+        6
+      ],
+      "lastSpin": "2025-02-23T09:37:57.908Z"
     }
   ],
   "withdrawals": [
