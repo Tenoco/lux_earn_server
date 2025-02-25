@@ -6069,7 +6069,8 @@
         15,
         10,
         11
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dhhnjvjk0",
@@ -6342,6 +6343,28 @@
       "joinDate": "2025-02-25T15:17:47.800Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ibrahim Abubakar",
+      "email": "abubakarozovehe57@gmail.com",
+      "encrypted_password": "69cdcfc3141df84ae115cf86dce2447f",
+      "referral_code": "IBNZI",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": null,
+      "invited_users": [
+        "skylord ozovehe"
+      ],
+      "balance": 42,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 1000,
+      "status": "active",
+      "joinDate": "2025-02-22T09:23:08.886Z",
+      "completedMissions": [
+        1,
+        11
+      ],
+      "lastSpin": "2025-02-23T09:03:46.043Z"
     }
   ],
   "withdrawals": [
