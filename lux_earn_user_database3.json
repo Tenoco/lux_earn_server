@@ -63,7 +63,7 @@
       "inviter_referral_code": "TEQZ9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1000,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -94,6 +94,17 @@
       "amount": 4100,
       "totalBalance": 4000,
       "timestamp": "2025-02-23T07:35:04.755Z",
+      "status": "pending"
+    },
+    {
+      "username": "Lots9",
+      "email": "twigw@gmaik.dom",
+      "accountName": "16626",
+      "accountNumber": "62663663",
+      "bank": "Opay",
+      "amount": 1000,
+      "totalBalance": 1000,
+      "timestamp": "2025-02-25T04:32:39.514Z",
       "status": "pending"
     }
   ],
