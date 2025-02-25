@@ -674,7 +674,8 @@
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Solo",
@@ -743,6 +744,27 @@
         13
       ],
       "lastSpin": "2025-02-25T06:20:39.946Z"
+    },
+    {
+      "username": "Mikel ",
+      "email": "mikelstar36@gmail.com",
+      "encrypted_password": "1233fec65d7e73526bd07cdfc838729e",
+      "referral_code": "MI9J9",
+      "inviter_referral_code": "PRSLP",
+      "inviter_username": "Prosper",
+      "invited_users": [],
+      "balance": 1052,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:39:28.700Z",
+      "completedMissions": [
+        2,
+        1,
+        4
+      ],
+      "lastSpin": "2025-02-22T17:23:26.924Z"
     }
   ],
   "withdrawals": [
