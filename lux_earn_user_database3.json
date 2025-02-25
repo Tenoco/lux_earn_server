@@ -11032,7 +11032,45 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:37:50.181Z"
+      "joinDate": "2025-02-25T21:37:50.181Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jormah",
+      "email": "abdullahsobitan@gmail.com",
+      "encrypted_password": "19b3627e61065b254b928740feed504f",
+      "referral_code": "JOFDD",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": null,
+      "invited_users": [
+        "ayanwaleadewale14@gmail.com",
+        "Sarafc",
+        "Poplysky"
+      ],
+      "balance": 261,
+      "refers": 3,
+      "referralBalance": 300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T06:51:22.896Z",
+      "completedMissions": [
+        1,
+        1,
+        1,
+        2,
+        9,
+        5,
+        11,
+        14,
+        13,
+        4,
+        8,
+        10,
+        12,
+        17
+      ],
+      "lastSpin": "2025-02-24T18:24:39.860Z"
     }
   ],
   "withdrawals": [
