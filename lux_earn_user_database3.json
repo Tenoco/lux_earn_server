@@ -2909,11 +2909,12 @@
         "Debby29",
         "Success5",
         "Obidiah3",
-        "Benjamin Frank "
+        "Benjamin Frank ",
+        "Francis 28"
       ],
       "balance": 220,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -10056,6 +10057,21 @@
       "joinDate": "2025-02-25T20:18:54.616Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T20:20:52.646Z"
+    },
+    {
+      "username": "Francis 28",
+      "email": "francisuwakwe28@gmail.com",
+      "encrypted_password": "ff2f24f8b6d253bb5a8bc55728ca7372",
+      "referral_code": "FRR7K",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:25:10.105Z"
     }
   ],
   "withdrawals": [
