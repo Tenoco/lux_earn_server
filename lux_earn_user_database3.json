@@ -4141,7 +4141,8 @@
         5,
         6,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Jijang ",
@@ -4184,6 +4185,21 @@
         14
       ],
       "lastSpin": "2025-02-25T12:16:52.099Z"
+    },
+    {
+      "username": "Teegrace",
+      "email": "temiloluwagraceomope@gmail.com",
+      "encrypted_password": "5c49f15f2d8bdf96bed474ab4e653503",
+      "referral_code": "TE6N8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T12:19:35.584Z"
     }
   ],
   "withdrawals": [
