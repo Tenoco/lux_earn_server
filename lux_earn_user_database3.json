@@ -7596,11 +7596,12 @@
         "Diba",
         "Igbayilola ",
         "Johnny",
-        "Floshebi"
+        "Floshebi",
+        "Adeyiga"
       ],
       "balance": 242,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8844,7 +8845,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:31:55.145Z"
+      "joinDate": "2025-02-25T18:31:55.145Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeyiga",
+      "email": "igbayilolaadeyiga354@gmail.com",
+      "encrypted_password": "d40a4b393977afec5235cf78854ba182",
+      "referral_code": "ADRDX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:32:28.513Z"
     }
   ],
   "withdrawals": [
