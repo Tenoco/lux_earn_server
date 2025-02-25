@@ -11630,7 +11630,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:15:24.318Z"
+      "joinDate": "2025-02-25T22:15:24.318Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mimoo",
+      "email": "michaeladuragbemi869@gmail.com",
+      "encrypted_password": "06212c9818142bdf1be438a694f07f5c",
+      "referral_code": "MI1PQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:16:09.058Z"
     }
   ],
   "withdrawals": [
