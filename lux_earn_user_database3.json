@@ -7998,7 +7998,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:23:38.494Z",
-      "lastSpin": "2025-02-25T17:23:51.072Z",
       "completedMissions": [
         1,
         1,
@@ -8021,7 +8020,8 @@
         13,
         14,
         17
-      ]
+      ],
+      "lastSpin": "2025-02-25T17:23:51.072Z"
     },
     {
       "username": "Ridwan olawale",
@@ -8094,6 +8094,21 @@
         14
       ],
       "lastSpin": "2025-02-23T16:38:20.276Z"
+    },
+    {
+      "username": "Renny333 ",
+      "email": "princeeffiong333@gmail.com",
+      "encrypted_password": "a2ff02ecbaff4aefc5fcc186eadf5a67",
+      "referral_code": "REQOT",
+      "inviter_referral_code": "Cowoa",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:32:12.402Z"
     }
   ],
   "withdrawals": [
