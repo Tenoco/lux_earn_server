@@ -7687,11 +7687,12 @@
         "Ayobami",
         "Kayode",
         "Bamitale",
-        "Igbayilola"
+        "Igbayilola",
+        "Madamcash"
       ],
       "balance": 242,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -12405,6 +12406,21 @@
       "joinDate": "2025-02-25T23:18:30.543Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Madamcash",
+      "email": "bamitaleayobami17@gmail.com",
+      "encrypted_password": "069b30db06d047a398f9eb0940d3279c",
+      "referral_code": "MAWRX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T23:19:44.885Z"
     }
   ],
   "withdrawals": [
