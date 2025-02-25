@@ -10575,7 +10575,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10583,9 +10583,9 @@
       "joinDate": "2025-02-25T21:08:36.989Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        18
+      ]
     },
     {
       "username": "Daniel",
@@ -10617,7 +10617,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T21:11:43.924Z"
+      "joinDate": "2025-02-25T21:11:43.924Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
