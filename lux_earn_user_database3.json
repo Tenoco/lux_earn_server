@@ -7571,11 +7571,12 @@
       "inviter_referral_code": "OLXTY",
       "inviter_username": null,
       "invited_users": [
-        "Emmanuelasdf "
+        "Emmanuelasdf ",
+        "Diba"
       ],
       "balance": 242,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -8272,6 +8273,21 @@
       "joinDate": "2025-02-25T17:41:31.171Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Diba",
+      "email": "johnndigwe159@gmail.com",
+      "encrypted_password": "87293161eccb39ace386c2d37d2dcb1f",
+      "referral_code": "DIOBY",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T17:46:15.455Z"
     }
   ],
   "withdrawals": [
