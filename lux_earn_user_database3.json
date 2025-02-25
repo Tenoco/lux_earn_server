@@ -5162,11 +5162,12 @@
         "Hiudu",
         "Lawwesa",
         "Kaltume",
-        "Goggo"
+        "Goggo",
+        "Kaddi"
       ],
       "balance": 189,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:02:08.449Z",
@@ -6047,7 +6048,8 @@
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Dhhnjvjk0",
@@ -6194,6 +6196,21 @@
       "joinDate": "2025-02-25T15:10:30.083Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kaddi",
+      "email": "kaddi@gmail.com",
+      "encrypted_password": "b7a2c3b25c9441b0a38d0a874ace268b",
+      "referral_code": "KASA6",
+      "inviter_referral_code": "KAQ0P",
+      "inviter_username": "Kaz4455",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T15:11:23.178Z"
     }
   ],
   "withdrawals": [
