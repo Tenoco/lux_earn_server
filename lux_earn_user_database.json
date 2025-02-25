@@ -38598,7 +38598,7 @@
       "inviter_referral_code": "JA47F",
       "inviter_username": "jaytee037",
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38606,7 +38606,8 @@
       "joinDate": "2025-02-25T04:43:22.356Z",
       "completedMissions": [
         1,
-        2
+        2,
+        3
       ]
     }
   ],
