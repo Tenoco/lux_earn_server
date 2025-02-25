@@ -3323,7 +3323,44 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:15:26.700Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-25T10:15:35.340Z"
+    },
+    {
+      "username": "starpotter",
+      "email": "powolabi053@gmail.com",
+      "encrypted_password": "fd7d78a8233c581ccd6191e9402d021b",
+      "referral_code": "ST94T",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [
+        "Izzypluto24 ",
+        "Oluwabukola256",
+        "Genizzy",
+        "Layish",
+        "Tesseyde12",
+        "Tesseyde11",
+        "FortyEight048",
+        "Kikebabe22",
+        "Jonaholuji1",
+        "Oladeji123",
+        "Don Berry ",
+        "Rofiat morenike",
+        "Kawuu",
+        "Griffin"
+      ],
+      "balance": 1030,
+      "refers": 14,
+      "referralBalance": 1400,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:46:44.883Z",
+      "completedMissions": [
+        1,
+        1,
+        2
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
