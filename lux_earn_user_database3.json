@@ -5783,7 +5783,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T14:41:17.163Z"
+      "joinDate": "2025-02-25T14:41:17.163Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim khalil",
+      "email": "ibrahimsansanibrahim@gmail.com",
+      "encrypted_password": "37fe7751cfef5030dd0881ccc5f2616f",
+      "referral_code": "IBUVV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T14:41:30.440Z"
     }
   ],
   "withdrawals": [
