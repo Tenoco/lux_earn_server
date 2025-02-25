@@ -5958,7 +5958,49 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T14:57:27.461Z"
+      "joinDate": "2025-02-25T14:57:27.461Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Darahnny",
+      "email": "osiyemioluwadarasimi@gmail.com",
+      "encrypted_password": "1914f0cdc49242d3384a404e316c2fd4",
+      "referral_code": "DA1ZN",
+      "inviter_referral_code": "ltsekl",
+      "inviter_username": null,
+      "invited_users": [
+        "Prosperity",
+        "Cyfer4pf",
+        "UMARFARUQ "
+      ],
+      "balance": 475,
+      "refers": 3,
+      "referralBalance": 300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:39:35.343Z",
+      "completedMissions": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        7,
+        8,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10
+      ],
+      "lastSpin": "2025-02-21T10:11:02.545Z"
     }
   ],
   "withdrawals": [
