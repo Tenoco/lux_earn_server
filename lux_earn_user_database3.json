@@ -5396,12 +5396,13 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 168,
+      "balance": 218,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T14:15:00.093Z",
+      "lastSpin": "2025-02-25T14:18:48.394Z",
       "completedMissions": [
         1,
         1,
@@ -5413,9 +5414,10 @@
         7,
         15,
         10,
-        11
-      ],
-      "lastSpin": "2025-02-25T14:18:48.394Z"
+        11,
+        13,
+        12
+      ]
     },
     {
       "username": "Adedokun29",
