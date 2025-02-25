@@ -684,7 +684,8 @@
         13,
         14,
         17
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Solo",
@@ -854,6 +855,32 @@
         4
       ],
       "lastSpin": "2025-02-23T07:45:25.488Z"
+    },
+    {
+      "username": "Aygold22",
+      "email": "olujobidammy6@gmail.com",
+      "encrypted_password": "efda2a5150872519719e58cd148cbfc9",
+      "referral_code": "AYT8B",
+      "inviter_referral_code": "QUNC3",
+      "inviter_username": "Quadriano",
+      "invited_users": [
+        "Ajoke44",
+        "Oadeoye123",
+        "olaade126",
+        "ADESOLA VERACITY"
+      ],
+      "balance": 75,
+      "refers": 4,
+      "referralBalance": 400,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T09:50:50.554Z",
+      "completedMissions": [
+        11,
+        11,
+        4
+      ],
+      "lastSpin": "2025-02-23T18:18:19.813Z"
     }
   ],
   "withdrawals": [
