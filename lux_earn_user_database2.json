@@ -37156,6 +37156,26 @@
       "joinDate": "2025-02-25T05:34:01.242Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Michael",
+      "email": "michaelterungwa35@gmail.com",
+      "encrypted_password": "339fbb2efdbd5e3b0b18e934bb5e984b",
+      "referral_code": "MIF46",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [],
+      "balance": 75,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:22:40.263Z",
+      "completedMissions": [
+        2,
+        9
+      ],
+      "lastSpin": "2025-02-21T08:23:03.194Z"
     }
   ],
   "withdrawals": [
