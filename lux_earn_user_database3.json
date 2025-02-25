@@ -5077,17 +5077,17 @@
         "UniqueSlug ",
         "MaxPuppi ",
         "REZ123",
-        "Debright",
-        "Adeola"
+        "Debright"
       ],
-      "balance": 1010,
-      "refers": 9,
-      "referralBalance": 900,
+      "balance": 1020,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
       "completedMissions": [
-        2
+        2,
+        10
       ],
       "lastSpin": null
     },
@@ -5104,7 +5104,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T13:33:47.295Z"
+      "joinDate": "2025-02-25T13:33:47.295Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
