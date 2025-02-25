@@ -8432,12 +8432,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:58:04.282Z",
-      "lastSpin": "2025-02-25T18:00:44.104Z",
       "completedMissions": [
         2,
         4,
         16
-      ]
+      ],
+      "lastSpin": "2025-02-25T18:00:44.104Z"
     },
     {
       "username": "Edesiri95",
@@ -8447,13 +8447,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T18:01:12.882Z",
-      "completedMissions": [],
+      "completedMissions": [
+        4
+      ],
       "lastSpin": null
     },
     {
