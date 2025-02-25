@@ -12062,7 +12062,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T22:47:11.288Z"
+      "joinDate": "2025-02-25T22:47:11.288Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ambassador559",
+      "email": "abdullahiabdulmumin559@gmail.com",
+      "encrypted_password": "2fe7ed34bac61f0ca00c84177d10606c",
+      "referral_code": "AMQHK",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T22:47:30.748Z"
     }
   ],
   "withdrawals": [
