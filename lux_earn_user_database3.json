@@ -2910,11 +2910,12 @@
         "Success5",
         "Obidiah3",
         "Benjamin Frank ",
-        "Francis 28"
+        "Francis 28",
+        "Gerald 4"
       ],
       "balance": 220,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -10135,6 +10136,21 @@
       "joinDate": "2025-02-25T20:28:20.545Z",
       "completedMissions": [],
       "lastSpin": "2025-02-25T20:29:08.780Z"
+    },
+    {
+      "username": "Gerald 4",
+      "email": "heraldfedrick@gmail.com",
+      "encrypted_password": "3d2172418ce305c7d16d4b05597c6a59",
+      "referral_code": "GEQSB",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T20:30:22.037Z"
     }
   ],
   "withdrawals": [
