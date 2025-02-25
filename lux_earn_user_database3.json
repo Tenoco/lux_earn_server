@@ -7606,11 +7606,12 @@
         "Johnny",
         "Floshebi",
         "Adeyiga",
-        "Adekogbe"
+        "Adekogbe",
+        "Malik "
       ],
       "balance": 242,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -9007,7 +9008,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T18:50:22.329Z"
+      "joinDate": "2025-02-25T18:50:22.329Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Malik ",
+      "email": "igbayilolaadeyiga34@gmail.com",
+      "encrypted_password": "509be06cafd68d7e0f860ee4f3bae66b",
+      "referral_code": "MA153",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-25T18:51:17.385Z"
     }
   ],
   "withdrawals": [
