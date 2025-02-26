@@ -22490,14 +22490,16 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 20,
+      "balance": 48,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:23:39.716Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-24T19:43:21.321Z"
+      "completedMissions": [
+        16
+      ],
+      "lastSpin": "2025-02-26T21:30:39.175Z"
     }
   ],
   "withdrawals": [
