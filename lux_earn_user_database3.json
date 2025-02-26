@@ -461,7 +461,7 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
       "invited_users": [],
-      "balance": 263,
+      "balance": 271,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -484,7 +484,7 @@
         4,
         1
       ],
-      "lastSpin": "2025-02-25T06:01:21.070Z"
+      "lastSpin": "2025-02-26T08:51:53.538Z"
     },
     {
       "username": "Ayools20",
@@ -17506,7 +17506,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:51:07.569Z"
+      "joinDate": "2025-02-26T08:51:07.569Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
