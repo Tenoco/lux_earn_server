@@ -19403,7 +19403,7 @@
       "inviter_referral_code": " TER48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 212,
+      "balance": 217,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19422,7 +19422,7 @@
         5,
         6
       ],
-      "lastSpin": "2025-02-24T20:26:38.133Z"
+      "lastSpin": "2025-02-26T13:04:33.931Z"
     },
     {
       "username": "Yearofstory",
@@ -19437,7 +19437,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:04:27.732Z"
+      "joinDate": "2025-02-26T13:04:27.732Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
