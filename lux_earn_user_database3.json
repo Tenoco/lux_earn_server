@@ -7813,11 +7813,12 @@
         "Abbey",
         "Ibrahim1",
         "Favour ",
-        "Agboto"
+        "Agboto",
+        "Daniel12"
       ],
       "balance": 242,
-      "refers": 63,
-      "referralBalance": 6300,
+      "refers": 64,
+      "referralBalance": 6400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17164,6 +17165,21 @@
       "joinDate": "2025-02-26T08:18:15.113Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Daniel12",
+      "email": "maryroland8@gmail.com",
+      "encrypted_password": "aa47f8215c6f30a0dcdb2a36a9f4168e",
+      "referral_code": "DAXIU",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:19:51.572Z"
     }
   ],
   "withdrawals": [
