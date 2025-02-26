@@ -18038,7 +18038,7 @@
       "inviter_referral_code": "JOX2B",
       "inviter_username": "John5210",
       "invited_users": [],
-      "balance": 140,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18050,7 +18050,9 @@
         3,
         4,
         16,
-        5
+        5,
+        6,
+        7
       ],
       "lastSpin": null
     }
