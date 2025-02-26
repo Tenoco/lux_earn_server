@@ -18948,7 +18948,7 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18957,7 +18957,8 @@
       "lastSpin": "2025-02-26T11:27:18.804Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4
       ]
     },
     {
