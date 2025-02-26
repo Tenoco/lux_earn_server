@@ -15247,14 +15247,15 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 44,
+      "balance": 74,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:25:22.556Z",
       "completedMissions": [
-        2
+        2,
+        12
       ],
       "lastSpin": "2025-02-26T05:47:51.059Z"
     }
