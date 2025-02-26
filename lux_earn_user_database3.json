@@ -19445,11 +19445,12 @@
         "Mother225",
         "Judek",
         "James090",
-        "Tosin"
+        "Tosin",
+        "Amosing"
       ],
       "balance": 217,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20152,6 +20153,21 @@
       "joinDate": "2025-02-26T14:43:14.618Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:43:25.297Z"
+    },
+    {
+      "username": "Amosing",
+      "email": "amosing030@gmail.com",
+      "encrypted_password": "9b4a6e756bc5f5a8a352b3144079b3c5",
+      "referral_code": "AM4PR",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:46:10.785Z"
     }
   ],
   "withdrawals": [
