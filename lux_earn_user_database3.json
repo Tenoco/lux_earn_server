@@ -13376,7 +13376,7 @@
         "habeebu",
         "habib"
       ],
-      "balance": 101,
+      "balance": 121,
       "refers": 20,
       "referralBalance": 2000,
       "withdrawalBalance": 0,
@@ -13393,7 +13393,7 @@
         6,
         7
       ],
-      "lastSpin": "2025-02-23T07:54:20.586Z"
+      "lastSpin": "2025-02-26T00:05:41.432Z"
     },
     {
       "username": "Hjdhdhidhdkgdhr777888",
@@ -13425,7 +13425,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T00:05:28.478Z"
+      "joinDate": "2025-02-26T00:05:28.478Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
