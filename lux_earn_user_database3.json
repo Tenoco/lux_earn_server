@@ -22649,7 +22649,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T21:57:00.393Z"
+      "joinDate": "2025-02-26T21:57:00.393Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marcusein ",
+      "email": "marcusiniemem@gmail.com",
+      "encrypted_password": "4fadcfb2c787add14346238a6173e7ab",
+      "referral_code": "MAXVZ",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": "Sadiqmkyari",
+      "invited_users": [],
+      "balance": 255,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:22:25.626Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-21T08:22:56.088Z"
     }
   ],
   "withdrawals": [
