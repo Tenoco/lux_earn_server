@@ -16454,6 +16454,29 @@
       "joinDate": "2025-02-26T07:19:34.310Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ifeanyivictor ",
+      "email": "ifeanyivictor497@gmail.com",
+      "encrypted_password": "e45143a06ec73e51c88f414f5cd3d42f",
+      "referral_code": "IFEY3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1110,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:41:43.711Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        9
+      ],
+      "lastSpin": "2025-02-22T09:45:12.806Z"
     }
   ],
   "withdrawals": [
