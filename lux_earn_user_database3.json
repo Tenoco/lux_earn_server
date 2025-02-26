@@ -14469,7 +14469,28 @@
       "joinDate": "2025-02-26T04:27:58.571Z",
       "completedMissions": [
         4
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Adisa",
+      "email": "patrickafita0@gmail.com",
+      "encrypted_password": "25a89c5687131d307d10669db26764b1",
+      "referral_code": "ADZ27",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [
+        "Faithlove",
+        "Aina ayobami"
+      ],
+      "balance": 0,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:12:22.713Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
