@@ -21894,7 +21894,31 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T19:39:38.656Z"
+      "joinDate": "2025-02-26T19:39:38.656Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "KaydeeX",
+      "email": "saizacharmian@gmail.com",
+      "encrypted_password": "6a25530a9b59692d9b2276c3bde3cceb",
+      "referral_code": "KATBU",
+      "inviter_referral_code": "ZYRZQ",
+      "inviter_username": "ZYY",
+      "invited_users": [],
+      "balance": 152,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:35:56.096Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        4
+      ],
+      "lastSpin": "2025-02-20T23:41:13.103Z"
     }
   ],
   "withdrawals": [
