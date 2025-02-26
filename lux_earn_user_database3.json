@@ -7809,11 +7809,12 @@
         "Mary",
         "Luxury",
         "Divine ",
-        "Abbey"
+        "Abbey",
+        "Ibrahim1"
       ],
       "balance": 242,
-      "refers": 60,
-      "referralBalance": 6000,
+      "refers": 61,
+      "referralBalance": 6100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17032,7 +17033,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:11:47.655Z"
+      "joinDate": "2025-02-26T08:11:47.655Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim1",
+      "email": "maryroland5@gmail.com",
+      "encrypted_password": "f1c083e61b32d3a9be76bc21266b0648",
+      "referral_code": "IBDKU",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:12:08.825Z"
     }
   ],
   "withdrawals": [
