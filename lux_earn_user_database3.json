@@ -13274,7 +13274,34 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-25T23:59:17.354Z"
+      "joinDate": "2025-02-25T23:59:17.354Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shittu27 ",
+      "email": "princetiti530@gmail.com",
+      "encrypted_password": "9b31643af5257a1d4e326f257e72c000",
+      "referral_code": "SHORD",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "CUTECEO"
+      ],
+      "balance": 115,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T14:02:10.566Z",
+      "completedMissions": [
+        1,
+        4,
+        5,
+        10,
+        10
+      ],
+      "lastSpin": "2025-02-23T05:20:25.252Z"
     }
   ],
   "withdrawals": [
