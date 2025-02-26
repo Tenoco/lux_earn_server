@@ -10429,11 +10429,12 @@
       "inviter_username": null,
       "invited_users": [
         "TIZZY001",
-        "Mohyinhohluhwah "
+        "Mohyinhohluhwah ",
+        "Samchris "
       ],
       "balance": 68,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:25:26.405Z",
@@ -21857,6 +21858,21 @@
       "joinDate": "2025-02-26T19:19:01.182Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samchris ",
+      "email": "akanosamuel001@gmail.com",
+      "encrypted_password": "1cd7856408d04c055ba273205e90e768",
+      "referral_code": "SA9O9",
+      "inviter_referral_code": "MUP61",
+      "inviter_username": "Musty monie ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:35:18.650Z"
     }
   ],
   "withdrawals": [
