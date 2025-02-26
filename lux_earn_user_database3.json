@@ -460,10 +460,12 @@
       "referral_code": "MIF46",
       "inviter_referral_code": "JA9WU",
       "inviter_username": "JamesCharles",
-      "invited_users": [],
+      "invited_users": [
+        "Latex "
+      ],
       "balance": 271,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:40.263Z",
@@ -20399,6 +20401,21 @@
       "joinDate": "2025-02-21T12:32:56.332Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Latex ",
+      "email": "louisfekaangaliambee@gmail.com",
+      "encrypted_password": "3a4e19284bc4d5a74d57c29a8953e651",
+      "referral_code": "LAQ2J",
+      "inviter_referral_code": "MIF46",
+      "inviter_username": "Michael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T15:46:52.990Z"
     }
   ],
   "withdrawals": [
