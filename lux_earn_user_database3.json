@@ -19440,11 +19440,12 @@
       "invited_users": [
         "Sunday225",
         "Mother225",
-        "Judek"
+        "Judek",
+        "James090"
       ],
       "balance": 217,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20098,6 +20099,21 @@
       "joinDate": "2025-02-26T14:28:17.666Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:28:31.961Z"
+    },
+    {
+      "username": "James090",
+      "email": "james090@gmail.com",
+      "encrypted_password": "b55faf786adefdac1f4bfa48f848d125",
+      "referral_code": "JAUDU",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:37:59.829Z"
     }
   ],
   "withdrawals": [
