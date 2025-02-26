@@ -22763,7 +22763,7 @@
         "Mak23",
         "Max81"
       ],
-      "balance": 301,
+      "balance": 321,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -22780,7 +22780,8 @@
         7,
         8,
         9,
-        10
+        10,
+        16
       ],
       "lastSpin": "2025-02-21T12:23:04.583Z"
     },
@@ -22797,7 +22798,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T22:06:23.261Z"
+      "joinDate": "2025-02-26T22:06:23.261Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
