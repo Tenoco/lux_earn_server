@@ -2458,11 +2458,12 @@
       "inviter_username": "Anna10",
       "invited_users": [
         "Luiz emzy",
-        "Desmond "
+        "Desmond ",
+        "Celebobo"
       ],
       "balance": 427,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T14:42:16.048Z",
@@ -13681,7 +13682,23 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Celebobo",
+      "email": "celebobo2027@gmail.com",
+      "encrypted_password": "54e04c0abd9205e062407244874330fc",
+      "referral_code": "CELLG",
+      "inviter_referral_code": "LA2FX",
+      "inviter_username": "Laskid037 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T01:11:41.592Z"
     }
   ],
   "withdrawals": [
