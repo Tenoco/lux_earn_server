@@ -1060,11 +1060,12 @@
       "inviter_referral_code": "SI2MH",
       "inviter_username": null,
       "invited_users": [
-        "odunayo12"
+        "odunayo12",
+        "Ade"
       ],
       "balance": 861,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:04:23.298Z",
@@ -16630,6 +16631,21 @@
       "joinDate": "2025-02-26T07:46:33.530Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ade",
+      "email": "ayenievidence@gmail.com",
+      "encrypted_password": "36cf04c123db946163e66b469efc903b",
+      "referral_code": "ADGBO",
+      "inviter_referral_code": "AY8J4",
+      "inviter_username": "AyoRichee ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T07:48:00.436Z"
     }
   ],
   "withdrawals": [
