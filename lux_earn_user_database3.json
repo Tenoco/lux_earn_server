@@ -19494,7 +19494,7 @@
         "billionsbillions0",
         "Successfuldrillion"
       ],
-      "balance": 320,
+      "balance": 340,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -19513,7 +19513,8 @@
         10,
         11,
         12,
-        13
+        13,
+        14
       ],
       "lastSpin": null
     },
@@ -19596,7 +19597,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:17:38.872Z"
+      "joinDate": "2025-02-26T13:17:38.872Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
