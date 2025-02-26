@@ -18364,10 +18364,12 @@
       "referral_code": "KH5ZT",
       "inviter_referral_code": "Or",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Khalifangw21"
+      ],
       "balance": 390,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:08:43.214Z",
@@ -20456,7 +20458,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T15:55:34.939Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T15:55:53.154Z"
+    },
+    {
+      "username": "Khalifangw21",
+      "email": "auwalhadimuhammad@gmail.com",
+      "encrypted_password": "8988b6d4ecaeaed54b9c98b45eb226fe",
+      "referral_code": "KHF54",
+      "inviter_referral_code": "KH5ZT",
+      "inviter_username": "Khalifangw",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T15:59:13.799Z"
     }
   ],
   "withdrawals": [
