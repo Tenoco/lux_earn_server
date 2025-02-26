@@ -7757,11 +7757,12 @@
         "Obanijesu12 ",
         "Dorcas",
         "Igbayilola609",
-        "Igbanu"
+        "Igbanu",
+        "Igberin"
       ],
       "balance": 242,
-      "refers": 48,
-      "referralBalance": 4800,
+      "refers": 49,
+      "referralBalance": 4900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15602,7 +15603,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:14:58.447Z"
+      "joinDate": "2025-02-26T06:14:58.447Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igberin",
+      "email": "igbayilolaadeyiga357@gmail.com",
+      "encrypted_password": "c2edf65902cc3f032e0c51bb7249511d",
+      "referral_code": "IGSL0",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:15:08.071Z"
     }
   ],
   "withdrawals": [
