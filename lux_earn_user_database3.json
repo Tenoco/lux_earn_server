@@ -7753,11 +7753,12 @@
         "Faith",
         "Tumoni",
         "Obanijesu12 ",
-        "Dorcas"
+        "Dorcas",
+        "Igbayilola609"
       ],
       "balance": 242,
-      "refers": 46,
-      "referralBalance": 4600,
+      "refers": 47,
+      "referralBalance": 4700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15530,7 +15531,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:11:37.372Z"
+      "joinDate": "2025-02-26T06:11:37.372Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igbayilola609",
+      "email": "igbayilolaadeyiga495@gmail.com",
+      "encrypted_password": "69a1a806547e8648af618e937b899d33",
+      "referral_code": "IGHRJ",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:12:27.775Z"
     }
   ],
   "withdrawals": [
