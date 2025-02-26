@@ -19766,7 +19766,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 576,
+      "balance": 656,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19803,7 +19803,11 @@
         14,
         14,
         15,
-        15
+        15,
+        15,
+        16,
+        16,
+        16
       ],
       "lastSpin": "2025-02-25T21:12:11.697Z"
     },
@@ -22121,7 +22125,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T20:21:14.422Z"
+      "joinDate": "2025-02-26T20:21:14.422Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
