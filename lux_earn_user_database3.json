@@ -10195,11 +10195,12 @@
         "Ok na ",
         "Fuckme",
         "Jelly",
-        "Hello "
+        "Hello ",
+        "Police you "
       ],
       "balance": 292,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -20605,7 +20606,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T16:33:34.097Z"
+      "joinDate": "2025-02-26T16:33:34.097Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Police you ",
+      "email": "youareascammer33@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "POXSQ",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T16:34:50.132Z"
     }
   ],
   "withdrawals": [
