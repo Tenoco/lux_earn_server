@@ -19180,7 +19180,7 @@
         "Sunnychi",
         "Esthychi"
       ],
-      "balance": 50,
+      "balance": 80,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -19188,7 +19188,8 @@
       "joinDate": "2025-02-22T18:21:30.976Z",
       "completedMissions": [
         4,
-        5
+        5,
+        12
       ],
       "lastSpin": "2025-02-26T11:59:53.526Z"
     },
@@ -20285,7 +20286,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T15:08:17.922Z",
-      "lastSpin": "2025-02-26T15:08:32.290Z",
       "completedMissions": [
         18,
         18,
@@ -20328,7 +20328,8 @@
         17,
         17,
         17
-      ]
+      ],
+      "lastSpin": "2025-02-26T15:08:32.290Z"
     }
   ],
   "withdrawals": [
