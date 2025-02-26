@@ -327,11 +327,12 @@
       "invited_users": [
         "Saviour",
         "Zick",
-        "Jick"
+        "Jick",
+        "Look"
       ],
       "balance": 1027,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:58.027Z",
@@ -21616,7 +21617,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:53:17.958Z"
+      "joinDate": "2025-02-26T18:53:17.958Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Look",
+      "email": "freddickon54@gmail.com",
+      "encrypted_password": "c9b756284d239102cde402427f476a8a",
+      "referral_code": "LOGWE",
+      "inviter_referral_code": "VIM4T",
+      "inviter_username": "Vice11",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:53:28.703Z"
     }
   ],
   "withdrawals": [
