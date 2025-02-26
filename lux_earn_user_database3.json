@@ -20711,7 +20711,38 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T16:49:48.132Z"
+      "joinDate": "2025-02-26T16:49:48.132Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Soviet",
+      "email": "sobiechstone@gmail.com",
+      "encrypted_password": "98d8e7e3788e3a474e0405f9f556a1d7",
+      "referral_code": "SO3R4",
+      "inviter_referral_code": "Burberry ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1155,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:06:04.031Z",
+      "completedMissions": [
+        2,
+        6,
+        7,
+        10,
+        9,
+        8,
+        5,
+        11,
+        12,
+        13,
+        1
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
