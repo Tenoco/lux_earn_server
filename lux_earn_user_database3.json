@@ -2924,11 +2924,12 @@
         "Stanley ",
         "Joyce26",
         "Esther 13",
-        "Juliet 3"
+        "Juliet 3",
+        "MichaelP"
       ],
       "balance": 220,
-      "refers": 34,
-      "referralBalance": 3400,
+      "refers": 35,
+      "referralBalance": 3500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15458,7 +15459,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:08:39.673Z"
+      "joinDate": "2025-02-26T06:08:39.673Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "MichaelP",
+      "email": "michaelpeter1@gmai.com",
+      "encrypted_password": "b59c67bf196a4758191e42f76670ceba",
+      "referral_code": "MIWFI",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:09:13.207Z"
     }
   ],
   "withdrawals": [
