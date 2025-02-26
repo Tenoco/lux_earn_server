@@ -20474,7 +20474,45 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T15:59:13.799Z"
+      "joinDate": "2025-02-26T15:59:13.799Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Princesspromise",
+      "email": "ezinnepromise92@gmail.com",
+      "encrypted_password": "2316ac8e3aeb3571d219b8ba47ddfb5b",
+      "referral_code": "PRFPU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Flexxdee",
+        "Emmabtc ",
+        "YoungLite",
+        "fatimahag01"
+      ],
+      "balance": 340,
+      "refers": 4,
+      "referralBalance": 400,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:04:01.875Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
