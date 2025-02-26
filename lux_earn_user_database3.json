@@ -13873,7 +13873,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:23:49.428Z",
-      "lastSpin": "2025-02-26T02:24:08.261Z",
       "completedMissions": [
         1,
         4,
@@ -13901,7 +13900,8 @@
         14,
         14,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-26T02:24:08.261Z"
     },
     {
       "username": "Jobrighy",
@@ -13919,6 +13919,42 @@
       "joinDate": "2025-02-26T02:29:04.229Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T02:29:20.535Z"
+    },
+    {
+      "username": "Annastasia",
+      "email": "raphaelannastasia222@gmail.com",
+      "encrypted_password": "59d4f9a7f5b3425faeb64c2b61c6031c",
+      "referral_code": "ANNXE",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 337,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T23:05:13.519Z",
+      "completedMissions": [
+        14,
+        13,
+        1,
+        2,
+        6,
+        5,
+        4,
+        4,
+        12,
+        12,
+        10,
+        10,
+        10,
+        15,
+        11,
+        16,
+        7,
+        17
+      ],
+      "lastSpin": "2025-02-25T04:42:58.204Z"
     }
   ],
   "withdrawals": [
