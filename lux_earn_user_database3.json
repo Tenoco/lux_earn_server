@@ -13694,7 +13694,7 @@
       "inviter_referral_code": "LA2FX",
       "inviter_username": "Laskid037 ",
       "invited_users": [],
-      "balance": 150,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13711,7 +13711,8 @@
         6,
         7,
         15,
-        10
+        10,
+        11
       ],
       "lastSpin": null
     },
@@ -13755,7 +13756,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T01:23:42.298Z"
+      "joinDate": "2025-02-26T01:23:42.298Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
