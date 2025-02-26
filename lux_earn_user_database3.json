@@ -19773,7 +19773,7 @@
       "inviter_referral_code": "BR0H3",
       "inviter_username": "Brjude",
       "invited_users": [],
-      "balance": 65,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19782,7 +19782,11 @@
       "completedMissions": [
         16,
         5,
-        4
+        4,
+        1,
+        2,
+        18,
+        17
       ],
       "lastSpin": "2025-02-26T13:47:13.802Z"
     },
