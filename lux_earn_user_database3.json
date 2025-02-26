@@ -8709,7 +8709,7 @@
       "inviter_referral_code": "DEPDT ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 260,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8729,7 +8729,8 @@
         13,
         14,
         17,
-        18
+        18,
+        1
       ],
       "lastSpin": "2025-02-25T17:59:03.362Z"
     },
@@ -20168,6 +20169,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:46:10.785Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T14:46:23.552Z"
     }
   ],
