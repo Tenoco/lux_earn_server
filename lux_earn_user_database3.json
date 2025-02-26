@@ -16572,7 +16572,41 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T07:41:51.730Z"
+      "joinDate": "2025-02-26T07:41:51.730Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adedoyin1999",
+      "email": "adedoyinawofal@gmail.com",
+      "encrypted_password": "2094f24822611fc65c5c6c68208389a6",
+      "referral_code": "AD5OT",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [
+        "Hannah27 ",
+        "Wummighty "
+      ],
+      "balance": 345,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:15:49.927Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        14
+      ],
+      "lastSpin": "2025-02-20T23:16:35.140Z"
     }
   ],
   "withdrawals": [
