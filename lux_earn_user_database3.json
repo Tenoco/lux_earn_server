@@ -7845,11 +7845,12 @@
         "Yetunde",
         "Yewande",
         "Lookings",
-        "Fuwaz"
+        "Fuwaz",
+        "IFEOLUWA "
       ],
       "balance": 242,
-      "refers": 79,
-      "referralBalance": 7900,
+      "refers": 80,
+      "referralBalance": 8000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17748,7 +17749,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:12:03.603Z"
+      "joinDate": "2025-02-26T09:12:03.603Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "IFEOLUWA ",
+      "email": "igbayilolaadeyiga1045@gmail.com",
+      "encrypted_password": "ab89100f7d1f3cf35455e92704bd8416",
+      "referral_code": "IFYYF",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:13:49.514Z"
     }
   ],
   "withdrawals": [
