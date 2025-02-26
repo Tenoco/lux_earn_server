@@ -4010,11 +4010,12 @@
       "inviter_username": null,
       "invited_users": [
         "Anjolaoluwa ",
-        "Precious1"
+        "Precious1",
+        "Godgiftrobert1 "
       ],
       "balance": 250,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:58:27.278Z",
@@ -17347,6 +17348,21 @@
       "joinDate": "2025-02-26T08:36:52.707Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Godgiftrobert1 ",
+      "email": "godgiftrobertgodgift@gmail.com",
+      "encrypted_password": "619d8ade556b679b8ac166552703ef30",
+      "referral_code": "GO55U",
+      "inviter_referral_code": "NIMBV",
+      "inviter_username": "Niffyperry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:39:27.365Z"
     }
   ],
   "withdrawals": [
