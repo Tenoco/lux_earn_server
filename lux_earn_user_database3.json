@@ -22929,14 +22929,16 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1,
+      "balance": 11,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:44:16.708Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-26T23:45:16.004Z"
+      "lastSpin": "2025-02-26T23:45:16.004Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Gentle soul ",
@@ -22951,7 +22953,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T23:49:56.179Z"
+      "joinDate": "2025-02-26T23:49:56.179Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
