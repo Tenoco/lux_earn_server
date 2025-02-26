@@ -20694,7 +20694,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T16:47:36.557Z"
+      "joinDate": "2025-02-26T16:47:36.557Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rugged69 ",
+      "email": "spesboy01@gmail.com",
+      "encrypted_password": "2a9684c9b45af8971d43f24a724e8147",
+      "referral_code": "RUBGP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T16:49:48.132Z"
     }
   ],
   "withdrawals": [
