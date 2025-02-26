@@ -2949,11 +2949,12 @@
         "Christian 27",
         "Nneka Boniface 4",
         "Victoria chukwuma",
-        "Nicholas dave"
+        "Nicholas dave",
+        "Stephanie Israel "
       ],
       "balance": 240,
-      "refers": 41,
-      "referralBalance": 4100,
+      "refers": 42,
+      "referralBalance": 4200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -19244,6 +19245,21 @@
       "joinDate": "2025-02-26T12:15:49.294Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Stephanie Israel ",
+      "email": "stephanieisrael47@gmail.com",
+      "encrypted_password": "e3f6b97aa1bd0b8f9c5ebd679cff6367",
+      "referral_code": "STHHB",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:28:13.796Z"
     }
   ],
   "withdrawals": [
