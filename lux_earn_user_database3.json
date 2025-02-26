@@ -2926,11 +2926,12 @@
         "Esther 13",
         "Juliet 3",
         "MichaelP",
-        "Daniel uche"
+        "Daniel uche",
+        "Wisdom09"
       ],
       "balance": 220,
-      "refers": 36,
-      "referralBalance": 3600,
+      "refers": 37,
+      "referralBalance": 3700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15587,6 +15588,21 @@
       "joinDate": "2025-02-26T06:13:47.037Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Wisdom09",
+      "email": "duruwisdom09@gmail.com",
+      "encrypted_password": "4a7d1ed414474e4033ac29ccb8653d9b",
+      "referral_code": "WIIL1",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:14:58.447Z"
     }
   ],
   "withdrawals": [
