@@ -13530,7 +13530,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T00:16:41.238Z"
+      "joinDate": "2025-02-26T00:16:41.238Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Michael22",
+      "email": "chigozief961@gmail.com",
+      "encrypted_password": "4c59f85bb647c30543109e5d78af3693",
+      "referral_code": "MIPJR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T00:18:05.798Z"
     }
   ],
   "withdrawals": [
