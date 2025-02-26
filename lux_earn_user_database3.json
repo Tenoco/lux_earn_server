@@ -17179,7 +17179,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:19:51.572Z"
+      "joinDate": "2025-02-26T08:19:51.572Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Marve j@",
+      "email": "corneliusalao065@gmail.com",
+      "encrypted_password": "8464932bfa811dff04ecc88556d0ed78",
+      "referral_code": "MAO17",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:21:03.191Z"
     }
   ],
   "withdrawals": [
