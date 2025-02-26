@@ -7883,11 +7883,12 @@
         "Yewande",
         "Lookings",
         "Fuwaz",
-        "IFEOLUWA "
+        "IFEOLUWA ",
+        "Motto"
       ],
       "balance": 262,
-      "refers": 80,
-      "referralBalance": 8000,
+      "refers": 81,
+      "referralBalance": 8100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21410,7 +21411,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:42:16.821Z"
+      "joinDate": "2025-02-26T18:42:16.821Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Motto",
+      "email": "igbayilolaadeyiga35@gmail.com",
+      "encrypted_password": "ed4a63c58420c5ba86a17cd84a32cf89",
+      "referral_code": "MOGMX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:43:19.847Z"
     }
   ],
   "withdrawals": [
