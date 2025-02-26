@@ -14601,7 +14601,7 @@
         "John ",
         "Ak gang"
       ],
-      "balance": 1210,
+      "balance": 1240,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -14618,7 +14618,8 @@
         9,
         8,
         8,
-        6
+        6,
+        12
       ],
       "lastSpin": "2025-02-22T10:09:57.922Z"
     },
@@ -14635,7 +14636,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T04:48:43.921Z"
+      "joinDate": "2025-02-26T04:48:43.921Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
