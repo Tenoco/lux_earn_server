@@ -17492,11 +17492,12 @@
       "inviter_username": null,
       "invited_users": [
         "Olajumoke",
-        "muhammad jamiu"
+        "muhammad jamiu",
+        "MARY LYNN "
       ],
       "balance": 68,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:48:26.981Z",
@@ -18119,6 +18120,21 @@
         6
       ],
       "lastSpin": "2025-02-23T07:31:50.713Z"
+    },
+    {
+      "username": "MARY LYNN ",
+      "email": "balloranking841@gmail.com",
+      "encrypted_password": "7b06bb718a38f23e400a2e579402fd47",
+      "referral_code": "MA4GA",
+      "inviter_referral_code": "SUX3R",
+      "inviter_username": "Sunusi muhisiaq ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:55:24.055Z"
     }
   ],
   "withdrawals": [
