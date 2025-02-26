@@ -14055,14 +14055,15 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:56:32.725Z",
       "completedMissions": [
-        5
+        5,
+        2
       ],
       "lastSpin": "2025-02-26T02:59:22.172Z"
     }
