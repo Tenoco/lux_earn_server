@@ -2948,11 +2948,12 @@
         "Wisdom09",
         "Christian 27",
         "Nneka Boniface 4",
-        "Victoria chukwuma"
+        "Victoria chukwuma",
+        "Nicholas dave"
       ],
       "balance": 220,
-      "refers": 40,
-      "referralBalance": 4000,
+      "refers": 41,
+      "referralBalance": 4100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -19223,7 +19224,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T12:13:56.576Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T12:14:15.162Z"
+    },
+    {
+      "username": "Nicholas dave",
+      "email": "nicholasdavid11@gmail.com",
+      "encrypted_password": "047ecab4065ce2e1fbcaf7f981f5dcf6",
+      "referral_code": "NIWJD",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:15:49.294Z"
     }
   ],
   "withdrawals": [
