@@ -14461,12 +14461,15 @@
       "inviter_referral_code": "NAN3U",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T04:27:58.571Z"
+      "joinDate": "2025-02-26T04:27:58.571Z",
+      "completedMissions": [
+        4
+      ]
     }
   ],
   "withdrawals": [
