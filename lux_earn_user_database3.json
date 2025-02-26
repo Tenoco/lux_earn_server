@@ -21599,7 +21599,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:52:34.477Z"
+      "joinDate": "2025-02-26T18:52:34.477Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Egases ",
+      "email": "egasesunday3@gmail.com",
+      "encrypted_password": "c318fb816b7e84490caccefa68279a73",
+      "referral_code": "EGFLF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:53:17.958Z"
     }
   ],
   "withdrawals": [
