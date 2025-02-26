@@ -7836,11 +7836,12 @@
         "Taiwo",
         "Teniola",
         "Samodu",
-        "Naomi "
+        "Naomi ",
+        "Kayode11"
       ],
       "balance": 242,
-      "refers": 72,
-      "referralBalance": 7200,
+      "refers": 73,
+      "referralBalance": 7300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17565,6 +17566,21 @@
       "joinDate": "2025-02-26T08:56:32.789Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kayode11",
+      "email": "igbayilolaadeyiga101@gmail.com",
+      "encrypted_password": "f4d4ba9f78ca4d9ec1db63ad1d7f6372",
+      "referral_code": "KATP0",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:57:55.575Z"
     }
   ],
   "withdrawals": [
