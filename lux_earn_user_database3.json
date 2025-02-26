@@ -3519,7 +3519,7 @@
         "Zainab01",
         "Horlarmeeday09"
       ],
-      "balance": 82,
+      "balance": 94,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -3533,7 +3533,7 @@
         6,
         7
       ],
-      "lastSpin": "2025-02-25T10:37:12.701Z"
+      "lastSpin": "2025-02-26T19:23:44.213Z"
     },
     {
       "username": "Temy",
@@ -21841,7 +21841,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T19:19:01.182Z"
+      "joinDate": "2025-02-26T19:19:01.182Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
