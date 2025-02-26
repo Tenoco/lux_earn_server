@@ -19448,11 +19448,12 @@
         "James090",
         "Tosin",
         "Amosing",
-        "Eest070"
+        "Eest070",
+        "Marisart"
       ],
       "balance": 217,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20197,6 +20198,21 @@
       "joinDate": "2025-02-26T14:48:51.833Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:48:59.459Z"
+    },
+    {
+      "username": "Marisart",
+      "email": "marisart090@gmail.com",
+      "encrypted_password": "329dc479ec41a1150475ab255f889148",
+      "referral_code": "MAYOK",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:51:43.439Z"
     }
   ],
   "withdrawals": [
