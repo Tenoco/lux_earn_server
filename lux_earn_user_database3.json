@@ -11697,11 +11697,12 @@
         "Yolo",
         "Popo",
         "Yuyu",
-        "Quip "
+        "Quip ",
+        "Quick "
       ],
       "balance": 251,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15075,7 +15076,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:31:16.609Z"
+      "joinDate": "2025-02-26T05:31:16.609Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Quick ",
+      "email": "azaz@gmail.com",
+      "encrypted_password": "1595dbf090a365d07618699d1b2c0974",
+      "referral_code": "QU8NZ",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:31:55.100Z"
     }
   ],
   "withdrawals": [
