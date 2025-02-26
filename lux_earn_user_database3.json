@@ -19742,7 +19742,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T13:41:17.903Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T13:41:44.009Z"
+    },
+    {
+      "username": "Ramat777",
+      "email": "ramatuabubakar777@gmail.com",
+      "encrypted_password": "77b3e6926e7295494dd3be91c6934899",
+      "referral_code": "RA9IP",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T13:41:56.297Z"
     }
   ],
   "withdrawals": [
