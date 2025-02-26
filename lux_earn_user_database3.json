@@ -18736,7 +18736,43 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:01:17.558Z"
+      "joinDate": "2025-02-26T11:01:17.558Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Licia88",
+      "email": "enwerefeliciac@gmail.com",
+      "encrypted_password": "e05193221b657bb26f188ce538dd46d6",
+      "referral_code": "LIUC0",
+      "inviter_referral_code": "DABAC",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 308,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:26:03.908Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        5,
+        10,
+        9,
+        9,
+        6,
+        16,
+        16,
+        13,
+        12,
+        14,
+        11
+      ],
+      "lastSpin": "2025-02-23T21:13:26.866Z"
     }
   ],
   "withdrawals": [
