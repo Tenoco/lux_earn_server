@@ -7810,11 +7810,12 @@
         "Luxury",
         "Divine ",
         "Abbey",
-        "Ibrahim1"
+        "Ibrahim1",
+        "Favour "
       ],
       "balance": 242,
-      "refers": 61,
-      "referralBalance": 6100,
+      "refers": 62,
+      "referralBalance": 6200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17093,6 +17094,21 @@
         11
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Favour ",
+      "email": "maryroland6@gmail.com",
+      "encrypted_password": "ffead8f75bff3df51f1a81bcc8e15945",
+      "referral_code": "FAKU8",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:16:06.153Z"
     }
   ],
   "withdrawals": [
