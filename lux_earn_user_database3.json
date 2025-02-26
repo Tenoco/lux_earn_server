@@ -19953,7 +19953,7 @@
       "inviter_referral_code": "BR0H3",
       "inviter_username": "Brjude",
       "invited_users": [],
-      "balance": 58,
+      "balance": 88,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19963,7 +19963,9 @@
       "completedMissions": [
         5,
         16,
-        4
+        4,
+        2,
+        15
       ]
     }
   ],
