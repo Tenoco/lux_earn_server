@@ -2951,7 +2951,7 @@
         "Victoria chukwuma",
         "Nicholas dave"
       ],
-      "balance": 220,
+      "balance": 240,
       "refers": 41,
       "referralBalance": 4100,
       "withdrawalBalance": 0,
@@ -2969,7 +2969,8 @@
         10,
         11,
         15,
-        16
+        16,
+        17
       ],
       "lastSpin": "2025-02-25T09:39:20.759Z"
     },
@@ -19240,7 +19241,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T12:15:49.294Z"
+      "joinDate": "2025-02-26T12:15:49.294Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
