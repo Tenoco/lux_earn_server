@@ -11689,10 +11689,12 @@
       "referral_code": "PRKU8",
       "inviter_referral_code": "KII01",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Yolo"
+      ],
       "balance": 251,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -14999,7 +15001,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T05:24:27.452Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T05:25:03.331Z"
+    },
+    {
+      "username": "Yolo",
+      "email": "guyyvak@gmail.com",
+      "encrypted_password": "80ef61a9478f668711adb7df30543230",
+      "referral_code": "YO2QG",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:25:47.910Z"
     }
   ],
   "withdrawals": [
