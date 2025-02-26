@@ -21081,13 +21081,17 @@
       "inviter_referral_code": "AYR1W",
       "inviter_username": "aygold2022",
       "invited_users": [],
-      "balance": 22,
+      "balance": 52,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T17:44:44.189Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        1,
+        2
+      ],
       "lastSpin": "2025-02-26T17:46:41.405Z"
     },
     {
