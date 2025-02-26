@@ -14806,7 +14806,33 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:02:57.686Z"
+      "joinDate": "2025-02-26T05:02:57.686Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Blaze08",
+      "email": "oluwatunmiseonasile@gmail.com",
+      "encrypted_password": "9f7eb7f9bf04894c70e719a9eed6bad1",
+      "referral_code": "BL7KC",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 180,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:15:31.608Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
