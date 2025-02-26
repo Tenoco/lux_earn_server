@@ -17065,6 +17065,34 @@
       "joinDate": "2025-02-26T08:12:08.825Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dominic001",
+      "email": "johnpaulokonkwo952@gmail.com",
+      "encrypted_password": "7ba2b9e5bf0ce890d5fe4d30b5cfc046",
+      "referral_code": "DOUNQ",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T14:04:31.228Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        6,
+        7,
+        14,
+        12,
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
