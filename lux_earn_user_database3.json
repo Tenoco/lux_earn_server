@@ -20380,7 +20380,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T15:31:29.822Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T15:32:36.545Z"
+    },
+    {
+      "username": "ibiyoyo",
+      "email": "ibiyoyo538@gmail.com",
+      "encrypted_password": "19190574af888f2e5b36f252ac19dafa",
+      "referral_code": "IBE1V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:32:56.332Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
