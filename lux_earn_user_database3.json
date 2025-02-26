@@ -19473,7 +19473,37 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:08:02.928Z"
+      "joinDate": "2025-02-26T13:08:02.928Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "danieldy",
+      "email": "billionsbillions0@gmail.com",
+      "encrypted_password": "2ba68e35d59a7cc5fcac5d137411c28b",
+      "referral_code": "DAZJF",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [
+        "billionsbillions0",
+        "Successfuldrillion"
+      ],
+      "balance": 210,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:23:38.402Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        9,
+        8
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
