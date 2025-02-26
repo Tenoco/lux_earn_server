@@ -14774,11 +14774,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Faithlove",
-        "Aina ayobami"
+        "Aina ayobami",
+        "Premo1234"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:12:22.713Z",
@@ -22329,7 +22330,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:15:20.126Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T21:16:36.813Z"
+    },
+    {
+      "username": "Premo1234",
+      "email": "adeniyiprecious124@gmail.com",
+      "encrypted_password": "6f66ac72d37de5c9034b6971b12cb8a5",
+      "referral_code": "PRG85",
+      "inviter_referral_code": "ADZ27",
+      "inviter_username": "Adisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:17:40.125Z"
     }
   ],
   "withdrawals": [
