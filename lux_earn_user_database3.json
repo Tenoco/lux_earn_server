@@ -10134,7 +10134,7 @@
         "Mercy",
         "Ogoluwa"
       ],
-      "balance": 1183,
+      "balance": 1208,
       "refers": 11,
       "referralBalance": 1100,
       "withdrawalBalance": 0,
@@ -10152,7 +10152,7 @@
         7,
         5
       ],
-      "lastSpin": "2025-02-23T18:46:28.235Z"
+      "lastSpin": "2025-02-26T05:02:05.568Z"
     },
     {
       "username": "Mona_lee",
@@ -14788,7 +14788,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:01:34.995Z"
+      "joinDate": "2025-02-26T05:01:34.995Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
