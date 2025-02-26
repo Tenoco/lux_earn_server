@@ -10900,11 +10900,12 @@
         "Ajoke",
         "Rasaq",
         "Mayowa",
-        "Jsjehggg"
+        "Jsjehggg",
+        "H8higviiv"
       ],
       "balance": 18,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -17848,6 +17849,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "H8higviiv",
+      "email": "bananaisland574@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "H89WD",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:21:57.958Z"
     }
   ],
   "withdrawals": [
