@@ -22144,7 +22144,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T20:24:18.130Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T20:24:47.601Z"
+    },
+    {
+      "username": "Bellacruze9",
+      "email": "bellacruze9@gmail.com",
+      "encrypted_password": "a3c40709fe93efb7809af331b18d348b",
+      "referral_code": "BE5BQ",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T20:25:05.695Z"
     }
   ],
   "withdrawals": [
