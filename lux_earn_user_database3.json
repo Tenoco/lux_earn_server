@@ -2925,11 +2925,12 @@
         "Joyce26",
         "Esther 13",
         "Juliet 3",
-        "MichaelP"
+        "MichaelP",
+        "Daniel uche"
       ],
       "balance": 220,
-      "refers": 35,
-      "referralBalance": 3500,
+      "refers": 36,
+      "referralBalance": 3600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15548,7 +15549,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:12:27.775Z"
+      "joinDate": "2025-02-26T06:12:27.775Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Daniel uche",
+      "email": "uchedaniel@gmail.com",
+      "encrypted_password": "dbc4d84bfcfe2284ba11beffb853a8c4",
+      "referral_code": "DAHOH",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:13:24.508Z"
     }
   ],
   "withdrawals": [
