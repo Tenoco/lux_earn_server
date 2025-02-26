@@ -10142,11 +10142,12 @@
         "Temmy gold",
         "Thiago",
         "Mercy",
-        "Ogoluwa"
+        "Ogoluwa",
+        "Phonee"
       ],
       "balance": 1208,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15339,6 +15340,21 @@
         1
       ],
       "lastSpin": "2025-02-20T23:39:42.526Z"
+    },
+    {
+      "username": "Phonee",
+      "email": "allisoncart2@gmail.com",
+      "encrypted_password": "899425d3ddecbe5879d4761ba16af9ea",
+      "referral_code": "PHRPE",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:00:57.861Z"
     }
   ],
   "withdrawals": [
