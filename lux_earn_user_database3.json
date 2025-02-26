@@ -13978,7 +13978,40 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:31:42.623Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T02:32:18.608Z"
+    },
+    {
+      "username": "Pop Hizy",
+      "email": "pophizy1@gmail.com",
+      "encrypted_password": "3f2636bd9cc0dea850a034708d4e417e",
+      "referral_code": "POWW5",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 235,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:28:09.327Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        16,
+        5,
+        6,
+        7,
+        15,
+        10,
+        11,
+        12,
+        13,
+        14,
+        17
+      ],
+      "lastSpin": "2025-02-24T17:37:20.424Z"
     }
   ],
   "withdrawals": [
