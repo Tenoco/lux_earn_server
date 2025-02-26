@@ -7815,11 +7815,12 @@
         "Favour ",
         "Agboto",
         "Daniel12",
-        "Deborah"
+        "Deborah",
+        "Kehinde"
       ],
       "balance": 242,
-      "refers": 65,
-      "referralBalance": 6500,
+      "refers": 66,
+      "referralBalance": 6600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17308,7 +17309,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:31:43.360Z"
+      "joinDate": "2025-02-26T08:31:43.360Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kehinde",
+      "email": "maryroland10@gmail.com",
+      "encrypted_password": "6c65932df242e8f24d275db008a309e6",
+      "referral_code": "KE5SR",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:35:34.087Z"
     }
   ],
   "withdrawals": [
