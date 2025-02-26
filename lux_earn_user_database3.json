@@ -19778,7 +19778,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T13:46:47.118Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T13:47:13.802Z"
+    },
+    {
+      "username": "cims001",
+      "email": "nwanigodswill658@gmail.com",
+      "encrypted_password": "cbef5f85c0172c599e1b613c25e771f3",
+      "referral_code": "CIGSI",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T13:51:37.125Z"
     }
   ],
   "withdrawals": [
