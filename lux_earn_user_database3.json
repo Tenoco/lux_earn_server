@@ -17488,10 +17488,12 @@
       "referral_code": "SUX3R",
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Olajumoke"
+      ],
       "balance": 58,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:48:26.981Z",
@@ -17929,6 +17931,21 @@
         15
       ],
       "lastSpin": "2025-02-26T09:27:07.136Z"
+    },
+    {
+      "username": "Olajumoke",
+      "email": "akanbiwasiu554@gmail.com",
+      "encrypted_password": "e989336e266437c299d23abbb7f477d3",
+      "referral_code": "OLPM8",
+      "inviter_referral_code": "SUX3R",
+      "inviter_username": "Sunusi muhisiaq ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:29:54.827Z"
     }
   ],
   "withdrawals": [
