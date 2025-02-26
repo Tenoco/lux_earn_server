@@ -325,11 +325,12 @@
       "inviter_referral_code": "PEPVK",
       "inviter_username": null,
       "invited_users": [
-        "Saviour"
+        "Saviour",
+        "Zick"
       ],
       "balance": 1027,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:58.027Z",
@@ -21491,7 +21492,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:47:59.124Z"
+      "joinDate": "2025-02-26T18:47:59.124Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zick",
+      "email": "dogohappy225@gmail.com",
+      "encrypted_password": "50c927e5f17adb9341381991ac2a999f",
+      "referral_code": "ZIT1W",
+      "inviter_referral_code": "VIM4T",
+      "inviter_username": "Vice11",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:48:19.249Z"
     }
   ],
   "withdrawals": [
