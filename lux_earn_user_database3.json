@@ -10548,11 +10548,12 @@
         "Mercyog",
         "Victorog",
         "Omolara",
-        "Daniels"
+        "Daniels",
+        "Testimony "
       ],
       "balance": 20,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14770,7 +14771,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:00:52.985Z"
+      "joinDate": "2025-02-26T05:00:52.985Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Testimony ",
+      "email": "medicineinfinite61@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "TE1XF",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:01:34.995Z"
     }
   ],
   "withdrawals": [
