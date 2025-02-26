@@ -19177,11 +19177,12 @@
         "Prospylove",
         "Yemcee",
         "Tobiizik ",
-        "Sunnychi"
+        "Sunnychi",
+        "Esthychi"
       ],
       "balance": 50,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -20252,6 +20253,21 @@
       "joinDate": "2025-02-26T14:54:14.815Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:54:30.336Z"
+    },
+    {
+      "username": "Esthychi",
+      "email": "omijiewisdom276@gmail.com",
+      "encrypted_password": "a70f700a5d5cb6861e29a8fcca7452ad",
+      "referral_code": "ESYMT",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T15:05:51.131Z"
     }
   ],
   "withdrawals": [
