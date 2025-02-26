@@ -21428,7 +21428,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:43:19.847Z"
+      "joinDate": "2025-02-26T18:43:19.847Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lucky",
+      "email": "akinladenuadeyemi0@gmail.com",
+      "encrypted_password": "0815bbd07c613ecd15adb4429028075f",
+      "referral_code": "LUNTS",
+      "inviter_referral_code": "OLDAF",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 190,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T17:58:11.274Z",
+      "completedMissions": [
+        1,
+        11,
+        12,
+        17,
+        14,
+        13,
+        10,
+        15,
+        2
+      ],
+      "lastSpin": "2025-02-24T18:16:54.520Z"
     }
   ],
   "withdrawals": [
