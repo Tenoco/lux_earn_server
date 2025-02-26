@@ -10144,11 +10144,12 @@
         "Thiago",
         "Mercy",
         "Ogoluwa",
-        "Phonee"
+        "Phonee",
+        "Papa p"
       ],
       "balance": 1208,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15422,7 +15423,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:05:48.075Z"
+      "joinDate": "2025-02-26T06:05:48.075Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Papa p",
+      "email": "aliciacart62@gmail.com",
+      "encrypted_password": "07ce631d4e6a508bae7a2cc379a4d984",
+      "referral_code": "PAZ0H",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:06:54.559Z"
     }
   ],
   "withdrawals": [
