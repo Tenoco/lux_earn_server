@@ -16782,7 +16782,38 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:00:28.047Z"
+      "joinDate": "2025-02-26T08:00:28.047Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wilson007",
+      "email": "wilsonnwoye@gmail.com",
+      "encrypted_password": "d1b95318451c91f164275cdfe3db502f",
+      "referral_code": "WIPG4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1213,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T10:53:44.937Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11,
+        13,
+        12,
+        14
+      ],
+      "lastSpin": "2025-02-23T22:10:13.894Z"
     }
   ],
   "withdrawals": [
