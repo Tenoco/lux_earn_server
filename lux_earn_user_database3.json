@@ -15355,7 +15355,34 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T06:00:57.861Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T06:01:04.149Z"
+    },
+    {
+      "username": "Akugbe ",
+      "email": "ikponmwonbacisqo@gmail.com",
+      "encrypted_password": "14a39bf9e815c4a01a9022d527420fcb",
+      "referral_code": "AK8FK",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 240,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:21:28.717Z",
+      "completedMissions": [
+        3,
+        3,
+        2,
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-25T05:22:33.423Z"
     }
   ],
   "withdrawals": [
