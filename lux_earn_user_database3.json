@@ -17438,7 +17438,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:46:35.479Z"
+      "joinDate": "2025-02-26T08:46:35.479Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sunusi muhisiaq ",
+      "email": "panicz716@gmail.com",
+      "encrypted_password": "4576fab1c9fda15dfdf185f52a9e99c1",
+      "referral_code": "SUX3R",
+      "inviter_referral_code": "BIAWR",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:48:26.981Z"
     }
   ],
   "withdrawals": [
