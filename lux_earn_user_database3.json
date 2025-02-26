@@ -17098,11 +17098,12 @@
         "Jhjjkg",
         "Jjkkkk",
         "Mnohd",
-        "Njbv"
+        "Njbv",
+        "Kkgov"
       ],
       "balance": 20,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -22613,7 +22614,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T21:54:09.565Z"
+      "joinDate": "2025-02-26T21:54:09.565Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kkgov",
+      "email": "jugb@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "KK4V9",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:54:59.439Z"
     }
   ],
   "withdrawals": [
