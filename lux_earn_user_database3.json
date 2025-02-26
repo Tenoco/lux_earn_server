@@ -18948,16 +18948,17 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T11:25:17.380Z",
+      "lastSpin": "2025-02-26T11:27:18.804Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-26T11:27:18.804Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Gkgh",
