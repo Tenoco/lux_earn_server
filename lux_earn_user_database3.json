@@ -7749,11 +7749,12 @@
         "Darasimi",
         "Bidemi",
         "Seun",
-        "Faith"
+        "Faith",
+        "Tumoni"
       ],
       "balance": 242,
-      "refers": 43,
-      "referralBalance": 4300,
+      "refers": 44,
+      "referralBalance": 4400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15441,7 +15442,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T06:06:54.559Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T06:07:04.504Z"
+    },
+    {
+      "username": "Tumoni",
+      "email": "igbayilolaadeyiga254@gmail.com",
+      "encrypted_password": "dc802ca9ea421d0eff004f467a45ccd6",
+      "referral_code": "TUHFX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:08:39.673Z"
     }
   ],
   "withdrawals": [
