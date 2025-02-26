@@ -7844,11 +7844,12 @@
         "Luxury1",
         "Yetunde",
         "Yewande",
-        "Lookings"
+        "Lookings",
+        "Fuwaz"
       ],
       "balance": 242,
-      "refers": 78,
-      "referralBalance": 7800,
+      "refers": 79,
+      "referralBalance": 7900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17730,7 +17731,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:09:57.306Z"
+      "joinDate": "2025-02-26T09:09:57.306Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Fuwaz",
+      "email": "igbayilolaadeyiga134@gmail.com",
+      "encrypted_password": "c299be4a029f82262c396a67e13036a6",
+      "referral_code": "FUCXZ",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:12:03.603Z"
     }
   ],
   "withdrawals": [
