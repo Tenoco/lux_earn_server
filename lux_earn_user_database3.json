@@ -17553,7 +17553,7 @@
         "muhammad jamiu",
         "MARY LYNN "
       ],
-      "balance": 68,
+      "balance": 78,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -17563,7 +17563,8 @@
         4,
         16,
         1,
-        2
+        2,
+        5
       ],
       "lastSpin": "2025-02-26T08:50:42.850Z"
     },
@@ -19957,6 +19958,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:12:39.385Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T14:13:04.178Z"
     }
   ],
