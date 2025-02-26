@@ -11403,7 +11403,7 @@
         "Sarafc",
         "Poplysky"
       ],
-      "balance": 303,
+      "balance": 323,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -11424,7 +11424,8 @@
         10,
         12,
         17,
-        18
+        18,
+        19
       ],
       "lastSpin": "2025-02-25T21:39:38.675Z"
     },
@@ -22294,7 +22295,8 @@
         11,
         11,
         10
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
