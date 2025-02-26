@@ -22911,17 +22911,17 @@
       "referral_code": "RYG0I",
       "inviter_referral_code": "None",
       "inviter_username": null,
-      "invited_users": [
-        "Mikeys "
-      ],
-      "balance": 1,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 10,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:22:34.861Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-26T23:47:04.346Z"
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": null
     },
     {
       "username": "James22",
@@ -22937,7 +22937,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:44:16.708Z",
-      "lastSpin": "2025-02-26T23:45:16.004Z",
       "completedMissions": [
         1,
         4,
@@ -22949,7 +22948,8 @@
         15,
         10,
         11
-      ]
+      ],
+      "lastSpin": "2025-02-26T23:45:16.004Z"
     },
     {
       "username": "Gentle soul ",
