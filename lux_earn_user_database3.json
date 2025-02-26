@@ -19282,7 +19282,8 @@
         1,
         2,
         4
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Khadijatu ",
@@ -19300,6 +19301,21 @@
       "joinDate": "2025-02-26T12:41:11.895Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Skyboss ",
+      "email": "anoziebrendan9@gmail.com",
+      "encrypted_password": "5cf3a817f7d75fa144254180350142c2",
+      "referral_code": "SK596",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:44:37.288Z"
     }
   ],
   "withdrawals": [
