@@ -7840,11 +7840,12 @@
         "Naomi ",
         "Kayode11",
         "Igbnu",
-        "Luxury1"
+        "Luxury1",
+        "Yetunde"
       ],
       "balance": 242,
-      "refers": 75,
-      "referralBalance": 7500,
+      "refers": 76,
+      "referralBalance": 7600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17643,6 +17644,21 @@
       "joinDate": "2025-02-26T09:01:43.822Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yetunde",
+      "email": "igbayilolaadeyiga910@gmail.com",
+      "encrypted_password": "b8284650440a8e32b5189e1bcb3e94d8",
+      "referral_code": "YE5NX",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:05:02.973Z"
     }
   ],
   "withdrawals": [
