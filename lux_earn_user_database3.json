@@ -9906,7 +9906,7 @@
         "Olahitun",
         "Ali"
       ],
-      "balance": 280,
+      "balance": 340,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -9927,7 +9927,10 @@
         7,
         7,
         6,
-        6
+        6,
+        18,
+        17,
+        14
       ],
       "lastSpin": "2025-02-25T19:52:02.550Z"
     },
@@ -15292,6 +15295,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T05:55:04.547Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T05:55:16.876Z"
     }
   ],
