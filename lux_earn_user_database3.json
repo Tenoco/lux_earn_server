@@ -13854,7 +13854,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T02:05:08.268Z"
+      "joinDate": "2025-02-26T02:05:08.268Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tracole ",
+      "email": "olajideomowunmi720@gmail.com",
+      "encrypted_password": "768baf473c5a558c380e68c04d8255da",
+      "referral_code": "TRYOX",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T02:23:49.428Z"
     }
   ],
   "withdrawals": [
