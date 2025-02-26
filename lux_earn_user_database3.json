@@ -7751,11 +7751,12 @@
         "Bidemi",
         "Seun",
         "Faith",
-        "Tumoni"
+        "Tumoni",
+        "Obanijesu12 "
       ],
       "balance": 242,
-      "refers": 44,
-      "referralBalance": 4400,
+      "refers": 45,
+      "referralBalance": 4500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15477,7 +15478,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T06:09:13.207Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T06:09:33.711Z"
+    },
+    {
+      "username": "Obanijesu12 ",
+      "email": "igbayilolaadeyiga503@gmail.com",
+      "encrypted_password": "8e4c7ab226f15d69ee30401870987b6d",
+      "referral_code": "OBQR7",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:10:01.327Z"
     }
   ],
   "withdrawals": [
