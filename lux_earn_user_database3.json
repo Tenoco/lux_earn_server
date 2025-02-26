@@ -2923,11 +2923,12 @@
         "Timothy ",
         "Stanley ",
         "Joyce26",
-        "Esther 13"
+        "Esther 13",
+        "Juliet 3"
       ],
       "balance": 220,
-      "refers": 33,
-      "referralBalance": 3300,
+      "refers": 34,
+      "referralBalance": 3400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15407,6 +15408,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Juliet 3",
+      "email": "julietigwe3@gmail.com",
+      "encrypted_password": "7f914ecaa9a2e6eafb781559b7adc692",
+      "referral_code": "JUWF1",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:05:48.075Z"
     }
   ],
   "withdrawals": [
