@@ -17096,11 +17096,12 @@
         "Jgjhjhhcx",
         "Gkgh",
         "Jhjjkg",
-        "Jjkkkk"
+        "Jjkkkk",
+        "Mnohd"
       ],
       "balance": 20,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -22580,6 +22581,21 @@
         11
       ],
       "lastSpin": "2025-02-26T21:52:38.359Z"
+    },
+    {
+      "username": "Mnohd",
+      "email": "Mjjkrdhriihrhjohdijjj@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "MNXPL",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:53:04.032Z"
     }
   ],
   "withdrawals": [
