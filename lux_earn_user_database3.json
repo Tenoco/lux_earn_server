@@ -19960,7 +19960,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:12:39.385Z",
-      "lastSpin": "2025-02-26T14:13:04.178Z",
       "completedMissions": [
         5,
         16,
@@ -19973,7 +19972,8 @@
         14,
         13,
         1
-      ]
+      ],
+      "lastSpin": "2025-02-26T14:13:04.178Z"
     },
     {
       "username": "Sunnychi",
@@ -19991,6 +19991,21 @@
       "joinDate": "2025-02-26T14:15:58.061Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "TigerDavid",
+      "email": "shimanaaondosoo@gmail.com",
+      "encrypted_password": "8663542bda3228d766c2a2dce3310878",
+      "referral_code": "TIUW7",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:16:23.864Z"
     }
   ],
   "withdrawals": [
