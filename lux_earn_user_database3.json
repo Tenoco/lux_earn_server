@@ -7841,11 +7841,12 @@
         "Kayode11",
         "Igbnu",
         "Luxury1",
-        "Yetunde"
+        "Yetunde",
+        "Yewande"
       ],
       "balance": 242,
-      "refers": 76,
-      "referralBalance": 7600,
+      "refers": 77,
+      "referralBalance": 7700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17658,7 +17659,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:05:02.973Z"
+      "joinDate": "2025-02-26T09:05:02.973Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yewande",
+      "email": "igbayilolaadeyiga735@gmail.com",
+      "encrypted_password": "24c56ae68137903725d16a0c67965a68",
+      "referral_code": "YEEEL",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:06:29.803Z"
     }
   ],
   "withdrawals": [
