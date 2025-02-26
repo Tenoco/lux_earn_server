@@ -5412,7 +5412,7 @@
       "invited_users": [
         "destiny "
       ],
-      "balance": 255,
+      "balance": 263,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -5434,7 +5434,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-25T14:24:34.108Z"
+      "lastSpin": "2025-02-26T15:20:01.820Z"
     },
     {
       "username": "Luxearner",
@@ -20346,7 +20346,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T15:14:11.393Z",
-      "lastSpin": "2025-02-26T15:14:22.027Z",
       "completedMissions": [
         18,
         18,
@@ -20364,7 +20363,8 @@
         18,
         18,
         18
-      ]
+      ],
+      "lastSpin": "2025-02-26T15:14:22.027Z"
     }
   ],
   "withdrawals": [
