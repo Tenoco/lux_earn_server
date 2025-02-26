@@ -21547,7 +21547,8 @@
         4,
         15,
         6
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Igba",
@@ -21684,6 +21685,21 @@
       "joinDate": "2025-02-26T18:56:13.993Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akadiksa",
+      "email": "musaabubakarsadiq292@gmail.com",
+      "encrypted_password": "9e2c546cb56decb48322755d8f52201a",
+      "referral_code": "AKQ9O",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:57:54.557Z"
     }
   ],
   "withdrawals": [
