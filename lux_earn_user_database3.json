@@ -11703,11 +11703,12 @@
         "Weam",
         "Gola",
         "Point ",
-        "Really "
+        "Really ",
+        "Coc"
       ],
       "balance": 251,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15217,7 +15218,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:42:40.899Z"
+      "joinDate": "2025-02-26T05:42:40.899Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Coc",
+      "email": "drop@gmail.com",
+      "encrypted_password": "d6581d542c7eaf801284f084478b5fcc",
+      "referral_code": "COSUY",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:43:23.337Z"
     }
   ],
   "withdrawals": [
