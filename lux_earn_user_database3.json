@@ -20885,7 +20885,31 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T17:07:10.376Z"
+      "joinDate": "2025-02-26T17:07:10.376Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Debby030",
+      "email": "Debbydeborah048@gmail.com",
+      "encrypted_password": "5eb94a33d52242224449a99e4b01cbbe",
+      "referral_code": "DECIC",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Wisdom024",
+        "Mr_Nobody",
+        "Laycon",
+        "Joshua010"
+      ],
+      "balance": 18,
+      "refers": 4,
+      "referralBalance": 400,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:27:18.893Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-21T08:34:46.447Z"
     }
   ],
   "withdrawals": [
