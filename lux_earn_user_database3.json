@@ -18452,12 +18452,14 @@
       "inviter_referral_code": "KI8GE",
       "inviter_username": "KingDavis001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T10:38:07.308Z"
+      "joinDate": "2025-02-26T10:38:07.308Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-26T10:38:35.112Z"
     }
   ],
   "withdrawals": [
