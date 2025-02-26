@@ -2921,11 +2921,12 @@
         "Francis 28",
         "Gerald 4",
         "Timothy ",
-        "Stanley "
+        "Stanley ",
+        "Joyce26"
       ],
       "balance": 220,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15274,7 +15275,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T05:52:41.172Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T05:52:47.183Z"
+    },
+    {
+      "username": "Joyce26",
+      "email": "joyemmanuel26@gmail.com",
+      "encrypted_password": "c2c8e798aecbc26d86e4805114b03c51",
+      "referral_code": "JOLF7",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:55:04.547Z"
     }
   ],
   "withdrawals": [
