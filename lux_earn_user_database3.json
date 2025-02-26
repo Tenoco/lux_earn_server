@@ -18390,7 +18390,7 @@
       "inviter_referral_code": "ANYMB",
       "inviter_username": "Angel ",
       "invited_users": [],
-      "balance": 45,
+      "balance": 65,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18400,7 +18400,8 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16
       ]
     }
   ],
