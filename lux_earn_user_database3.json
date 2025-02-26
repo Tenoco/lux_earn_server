@@ -20025,10 +20025,12 @@
       "referral_code": "AYR1W",
       "inviter_referral_code": "OLDLO",
       "inviter_username": "Oluwaexcess",
-      "invited_users": [],
+      "invited_users": [
+        "Akinmusere Michael "
+      ],
       "balance": 280,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:47:16.534Z",
@@ -21067,7 +21069,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T17:44:08.224Z"
+      "joinDate": "2025-02-26T17:44:08.224Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akinmusere Michael ",
+      "email": "charllotteparker@gimail.com",
+      "encrypted_password": "56cf01f6edfe9598b5e23407fe290990",
+      "referral_code": "AK03J",
+      "inviter_referral_code": "AYR1W",
+      "inviter_username": "aygold2022",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T17:44:44.189Z"
     }
   ],
   "withdrawals": [
