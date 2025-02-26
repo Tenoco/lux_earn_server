@@ -19272,10 +19272,12 @@
       "referral_code": "OLINO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Busolami"
+      ],
       "balance": 230,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T12:39:19.922Z",
@@ -19454,7 +19456,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:05:06.439Z"
+      "joinDate": "2025-02-26T13:05:06.439Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Busolami",
+      "email": "busolaa45@gmail.com",
+      "encrypted_password": "b47c2dddfc3d88838afff37d6d6f41ab",
+      "referral_code": "BUETI",
+      "inviter_referral_code": "OLINO",
+      "inviter_username": "Olakemi1 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T13:08:02.928Z"
     }
   ],
   "withdrawals": [
