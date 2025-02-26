@@ -13122,14 +13122,15 @@
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T23:37:50.398Z",
       "completedMissions": [
-        16
+        16,
+        1
       ],
       "lastSpin": null
     },
