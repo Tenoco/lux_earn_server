@@ -17797,7 +17797,7 @@
       "inviter_referral_code": "ANJQD",
       "inviter_username": "Anna10",
       "invited_users": [],
-      "balance": 470,
+      "balance": 490,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17821,7 +17821,8 @@
         10,
         11,
         12,
-        13
+        13,
+        14
       ],
       "lastSpin": "2025-02-21T11:15:48.987Z"
     },
@@ -17863,7 +17864,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:21:57.958Z"
+      "joinDate": "2025-02-26T09:21:57.958Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
