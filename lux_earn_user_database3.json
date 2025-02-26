@@ -10902,11 +10902,12 @@
         "Mayowa",
         "Jsjehggg",
         "H8higviiv",
-        "Tttffgguj"
+        "Tttffgguj",
+        "Jsjshshshdy"
       ],
       "balance": 18,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -17945,7 +17946,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:29:54.827Z"
+      "joinDate": "2025-02-26T09:29:54.827Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jsjshshshdy",
+      "email": "mrbull955@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "JS4OY",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:31:14.288Z"
     }
   ],
   "withdrawals": [
