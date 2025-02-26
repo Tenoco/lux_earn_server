@@ -7887,11 +7887,12 @@
         "IFEOLUWA ",
         "Motto",
         "Sewal",
-        "Chirles"
+        "Chirles",
+        "Igba"
       ],
       "balance": 262,
-      "refers": 83,
-      "referralBalance": 8300,
+      "refers": 84,
+      "referralBalance": 8400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21528,7 +21529,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:50:17.296Z"
+      "joinDate": "2025-02-26T18:50:17.296Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igba",
+      "email": "igbayilolaadeyiga51@gmail.com",
+      "encrypted_password": "93c535d1ec8718ae407e744a0fa219fd",
+      "referral_code": "IG5TR",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:50:47.894Z"
     }
   ],
   "withdrawals": [
