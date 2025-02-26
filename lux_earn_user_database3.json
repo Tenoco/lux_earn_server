@@ -6453,11 +6453,12 @@
         "Baggy",
         "Binding ",
         "Novice ",
-        "Yokeji"
+        "Yokeji",
+        "Jobrighy"
       ],
       "balance": 464,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T06:22:42.402Z",
@@ -13872,7 +13873,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:23:49.428Z",
-      "lastSpin": "2025-02-26T02:24:08.261Z",
       "completedMissions": [
         1,
         4,
@@ -13888,7 +13888,23 @@
         7,
         11,
         12
-      ]
+      ],
+      "lastSpin": "2025-02-26T02:24:08.261Z"
+    },
+    {
+      "username": "Jobrighy",
+      "email": "abduljannijin@gmail.com",
+      "encrypted_password": "278351527ff35839f262a59c449b0f95",
+      "referral_code": "JOSQD",
+      "inviter_referral_code": "MOYC8",
+      "inviter_username": "Moses24 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T02:29:04.229Z"
     }
   ],
   "withdrawals": [
