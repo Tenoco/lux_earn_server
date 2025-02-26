@@ -16973,11 +16973,12 @@
         "famousmayor",
         "Famous001",
         "Famous002",
-        "Famoumsayor003"
+        "Famoumsayor003",
+        "Famous"
       ],
       "balance": 20,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -18721,6 +18722,21 @@
         5
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Famous",
+      "email": "gighjhjghhjhh@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "FAM7K",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:01:17.558Z"
     }
   ],
   "withdrawals": [
