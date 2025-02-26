@@ -16952,7 +16952,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:06:53.536Z"
+      "joinDate": "2025-02-26T08:06:53.536Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goodness ",
+      "email": "ayotundegoodness148@gmail.com",
+      "encrypted_password": "4a09c27a03b8df96510846cd37468079",
+      "referral_code": "GOG0A",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T16:44:19.424Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
