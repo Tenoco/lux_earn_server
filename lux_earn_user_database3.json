@@ -13618,7 +13618,43 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T00:21:22.845Z"
+      "joinDate": "2025-02-26T00:21:22.845Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sam1204",
+      "email": "olaleyesamuel153@gmail.com",
+      "encrypted_password": "1fc3e12324e65a65e9988abf2c3b195c",
+      "referral_code": "SAX07",
+      "inviter_referral_code": "JA9WU",
+      "inviter_username": "JamesCharles",
+      "invited_users": [
+        "jaytee037",
+        "Mark777",
+        "Victor1227",
+        "Abdul1752",
+        "Akugbe ",
+        "Leotop"
+      ],
+      "balance": 262,
+      "refers": 6,
+      "referralBalance": 600,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:55:55.488Z",
+      "completedMissions": [
+        1,
+        3,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-21T06:57:06.712Z"
     }
   ],
   "withdrawals": [
