@@ -7814,11 +7814,12 @@
         "Ibrahim1",
         "Favour ",
         "Agboto",
-        "Daniel12"
+        "Daniel12",
+        "Deborah"
       ],
       "balance": 242,
-      "refers": 64,
-      "referralBalance": 6400,
+      "refers": 65,
+      "referralBalance": 6500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17293,6 +17294,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Deborah",
+      "email": "maryroland9@gmail.com",
+      "encrypted_password": "51977f38bb3afdf634dd8162c7a33691",
+      "referral_code": "DEY5Y",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:31:43.360Z"
     }
   ],
   "withdrawals": [
