@@ -7893,11 +7893,12 @@
         "Igba",
         "Nazzy",
         "Bet9ja",
-        "Igbani"
+        "Igbani",
+        "Isreal1"
       ],
       "balance": 262,
-      "refers": 87,
-      "referralBalance": 8700,
+      "refers": 88,
+      "referralBalance": 8800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21712,6 +21713,21 @@
         16
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Isreal1",
+      "email": "maryroland22@gmail.com",
+      "encrypted_password": "7f9da57c427a35652c042c01d5ff0f46",
+      "referral_code": "IS5Z4",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:01:11.898Z"
     }
   ],
   "withdrawals": [
