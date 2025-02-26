@@ -21618,14 +21618,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:53:17.958Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T18:54:43.538Z"
     },
     {
       "username": "Look",
@@ -21657,7 +21656,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:54:05.102Z"
+      "joinDate": "2025-02-26T18:54:05.102Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
