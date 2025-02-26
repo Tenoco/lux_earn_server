@@ -1527,10 +1527,12 @@
       "referral_code": "DEP90",
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
-      "invited_users": [],
+      "invited_users": [
+        "Sunnycool"
+      ],
       "balance": 235,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:23:38.500Z",
@@ -17541,6 +17543,21 @@
       "joinDate": "2025-02-26T08:52:51.556Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sunnycool",
+      "email": "sundayabraham638@gmail.com",
+      "encrypted_password": "ffc7e0c782234b328658699ce20c1e66",
+      "referral_code": "SUOUN",
+      "inviter_referral_code": "DEP90",
+      "inviter_username": "Debright",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:56:32.789Z"
     }
   ],
   "withdrawals": [
