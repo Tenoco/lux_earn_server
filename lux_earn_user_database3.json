@@ -19719,14 +19719,14 @@
       "inviter_referral_code": " TER48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T13:40:45.289Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T13:43:21.370Z"
     },
     {
       "username": "Amara666",
@@ -19758,7 +19758,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:41:56.297Z"
+      "joinDate": "2025-02-26T13:41:56.297Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
