@@ -22917,7 +22917,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T23:22:34.861Z"
+      "joinDate": "2025-02-26T23:22:34.861Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "James22",
+      "email": "lastniggi629@gmail.com",
+      "encrypted_password": "e82c397c93dfdd7a40760a05f87554f0",
+      "referral_code": "JAI07",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T23:44:16.708Z"
     }
   ],
   "withdrawals": [
