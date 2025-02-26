@@ -19441,11 +19441,12 @@
         "Sunday225",
         "Mother225",
         "Judek",
-        "James090"
+        "James090",
+        "Tosin"
       ],
       "balance": 217,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20128,6 +20129,21 @@
       "joinDate": "2025-02-26T14:37:59.829Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:38:12.469Z"
+    },
+    {
+      "username": "Tosin",
+      "email": "tosining090@gmail.com",
+      "encrypted_password": "3f914212d34bcf1d15111c7364ce6d54",
+      "referral_code": "TOUOU",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:43:14.618Z"
     }
   ],
   "withdrawals": [
