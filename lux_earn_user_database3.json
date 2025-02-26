@@ -19449,11 +19449,12 @@
         "Tosin",
         "Amosing",
         "Eest070",
-        "Marisart"
+        "Marisart",
+        "Chioma"
       ],
       "balance": 217,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20213,7 +20214,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:51:43.439Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T14:51:50.657Z"
+    },
+    {
+      "username": "Chioma",
+      "email": "chiomai@gmail.com",
+      "encrypted_password": "043fb9f22b6aff1248b5d08d87ff7cfc",
+      "referral_code": "CHNPJ",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:54:14.815Z"
     }
   ],
   "withdrawals": [
