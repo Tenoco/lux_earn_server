@@ -10854,11 +10854,12 @@
       "inviter_username": "alofeprecious",
       "invited_users": [
         "Babalola",
-        "Damilola"
+        "Damilola",
+        "Ajoke"
       ],
       "balance": 18,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -16828,7 +16829,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:01:49.055Z"
+      "joinDate": "2025-02-26T08:01:49.055Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ajoke",
+      "email": "ajokeologe8@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "AJTJA",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:02:36.048Z"
     }
   ],
   "withdrawals": [
