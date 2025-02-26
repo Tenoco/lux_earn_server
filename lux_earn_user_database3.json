@@ -7837,11 +7837,12 @@
         "Teniola",
         "Samodu",
         "Naomi ",
-        "Kayode11"
+        "Kayode11",
+        "Igbnu"
       ],
       "balance": 242,
-      "refers": 73,
-      "referralBalance": 7300,
+      "refers": 74,
+      "referralBalance": 7400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17584,6 +17585,21 @@
       "joinDate": "2025-02-26T08:57:55.575Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Igbnu",
+      "email": "igbayilolaadeyiga1011@gmail.com",
+      "encrypted_password": "93c535d1ec8718ae407e744a0fa219fd",
+      "referral_code": "IGZD9",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:59:12.216Z"
     }
   ],
   "withdrawals": [
