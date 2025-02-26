@@ -10090,11 +10090,12 @@
         "Rokeeb omotayo ",
         "Molarao",
         "Olahitun",
-        "Ali"
+        "Ali",
+        "Oluwadamilare210904"
       ],
       "balance": 380,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T00:53:41.039Z",
@@ -22128,6 +22129,21 @@
       "joinDate": "2025-02-26T20:21:14.422Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oluwadamilare210904",
+      "email": "abdullaholaposi1@gmail.com",
+      "encrypted_password": "402e28e5bdc6be1dd337672eb1a2e342",
+      "referral_code": "OLZ5Y",
+      "inviter_referral_code": "OMDV9",
+      "inviter_username": "Omotayo01 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T20:24:18.130Z"
     }
   ],
   "withdrawals": [
