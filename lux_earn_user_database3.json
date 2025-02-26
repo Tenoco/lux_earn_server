@@ -22312,7 +22312,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:12:21.622Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T21:12:57.985Z"
+    },
+    {
+      "username": "Yakubu0",
+      "email": "yakubuabbas1234@gmail.com",
+      "encrypted_password": "29d8303b0aed8129e3b42d644a142632",
+      "referral_code": "YAMWT",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:15:20.126Z"
     }
   ],
   "withdrawals": [
