@@ -7967,7 +7967,7 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 485,
+      "balance": 505,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7997,7 +7997,8 @@
         15,
         16,
         12,
-        17
+        17,
+        18
       ],
       "lastSpin": "2025-02-26T09:59:30.480Z"
     },
@@ -18194,6 +18195,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T09:59:45.793Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T10:00:09.185Z"
     }
   ],
