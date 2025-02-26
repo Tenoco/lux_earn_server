@@ -21086,7 +21086,43 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T17:44:44.189Z"
+      "joinDate": "2025-02-26T17:44:44.189Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Anonymous12",
+      "email": "Auwalhussaini302@gmail.com",
+      "encrypted_password": "c1cb6aaadffa94158cfdf70ff69bd561",
+      "referral_code": "AN202",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [
+        "Kundiri ",
+        "Rukfah ",
+        "AADANNA ",
+        "WIS_DOM_JR",
+        "Ibn wakil001"
+      ],
+      "balance": 158,
+      "refers": 5,
+      "referralBalance": 500,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T13:15:46.787Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        11,
+        12,
+        14,
+        10,
+        7
+      ],
+      "lastSpin": "2025-02-23T13:22:44.554Z"
     }
   ],
   "withdrawals": [
