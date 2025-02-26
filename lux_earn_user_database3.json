@@ -11695,11 +11695,12 @@
       "inviter_username": null,
       "invited_users": [
         "Yolo",
-        "Popo"
+        "Popo",
+        "Yuyu"
       ],
       "balance": 251,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15042,6 +15043,21 @@
       "joinDate": "2025-02-26T05:27:49.658Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yuyu",
+      "email": "quarr@gmail.com",
+      "encrypted_password": "7ac25943d2a6668004fdbdfb10bdaf08",
+      "referral_code": "YUJSC",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:30:18.547Z"
     }
   ],
   "withdrawals": [
