@@ -14517,7 +14517,7 @@
       "inviter_referral_code": "DH8AZ",
       "inviter_username": "Dhaselisa",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14525,7 +14525,8 @@
       "joinDate": "2025-02-23T11:17:05.441Z",
       "completedMissions": [
         1,
-        7
+        7,
+        10
       ],
       "lastSpin": null
     }
