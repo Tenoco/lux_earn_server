@@ -7824,11 +7824,12 @@
         "Rufia",
         "Mubarak ",
         "Taiwo",
-        "Teniola"
+        "Teniola",
+        "Samodu"
       ],
       "balance": 242,
-      "refers": 70,
-      "referralBalance": 7000,
+      "refers": 71,
+      "referralBalance": 7100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17491,6 +17492,21 @@
         9
       ],
       "lastSpin": "2025-02-21T11:58:01.116Z"
+    },
+    {
+      "username": "Samodu",
+      "email": "maryroland15@gmail.com",
+      "encrypted_password": "9f5a44a734ac9e43b5968d0f3b71d69b",
+      "referral_code": "SAH51",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:51:07.569Z"
     }
   ],
   "withdrawals": [
