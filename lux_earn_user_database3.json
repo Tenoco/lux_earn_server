@@ -19937,7 +19937,7 @@
       "inviter_referral_code": "P17FM3XT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19945,7 +19945,8 @@
       "joinDate": "2025-02-26T14:11:14.889Z",
       "completedMissions": [
         14,
-        14
+        14,
+        17
       ],
       "lastSpin": null
     },
