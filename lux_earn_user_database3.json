@@ -17100,11 +17100,12 @@
         "Mnohd",
         "Njbv",
         "Kkgov",
-        "Kbh"
+        "Kbh",
+        "yyyyyuiuiu"
       ],
       "balance": 20,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -22679,6 +22680,21 @@
         9
       ],
       "lastSpin": "2025-02-21T08:22:56.088Z"
+    },
+    {
+      "username": "yyyyyuiuiu",
+      "email": "koloibjjbbboioi@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "YYWE8",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:58:42.185Z"
     }
   ],
   "withdrawals": [
