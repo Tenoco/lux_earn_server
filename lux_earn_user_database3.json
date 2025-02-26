@@ -16105,7 +16105,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:59:59.660Z"
+      "joinDate": "2025-02-26T06:59:59.660Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Victorpara",
+      "email": "aliuvictor600@gmail.com",
+      "encrypted_password": "51c4be67121f2cb6b6966eb12c01ca45",
+      "referral_code": "VIESF",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 18,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:50:40.638Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-23T08:51:57.526Z"
     }
   ],
   "withdrawals": [
