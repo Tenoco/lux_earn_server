@@ -19724,7 +19724,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:40:45.289Z"
+      "joinDate": "2025-02-26T13:40:45.289Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Amara666",
+      "email": "gloryogah606@gmail.com",
+      "encrypted_password": "625a05b27da4ff9874634f536010aba0",
+      "referral_code": "AM9Z1",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T13:41:17.903Z"
     }
   ],
   "withdrawals": [
