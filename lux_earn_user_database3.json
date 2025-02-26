@@ -19867,7 +19867,8 @@
         4,
         16,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "McallScott ",
@@ -19902,6 +19903,23 @@
         15
       ],
       "lastSpin": "2025-02-22T00:27:54.061Z"
+    },
+    {
+      "username": "aygold2022",
+      "email": "aygold2022@gmail.com",
+      "encrypted_password": "4be7f2cc95bfefc32d242cfed7e9e966",
+      "referral_code": "AYR1W",
+      "inviter_referral_code": "OLDLO",
+      "inviter_username": "Oluwaexcess",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:47:16.534Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
