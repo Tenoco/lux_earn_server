@@ -16935,7 +16935,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:05:57.524Z"
+      "joinDate": "2025-02-26T08:05:57.524Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Beauty Queen",
+      "email": "emenikequeen35@gmail.com",
+      "encrypted_password": "413488d1b369355d409eb55997817b0f",
+      "referral_code": "BEL23",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:06:53.536Z"
     }
   ],
   "withdrawals": [
