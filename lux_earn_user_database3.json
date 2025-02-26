@@ -21568,14 +21568,14 @@
       "inviter_referral_code": "Online",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:51:04.316Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T18:56:21.700Z"
     },
     {
       "username": "Jick",
@@ -21675,7 +21675,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:56:13.993Z"
+      "joinDate": "2025-02-26T18:56:13.993Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
