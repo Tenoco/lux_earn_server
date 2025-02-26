@@ -10547,13 +10547,15 @@
         "Ogunlade1",
         "Mercyog"
       ],
-      "balance": 0,
+      "balance": 20,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
-      "completedMissions": [],
+      "completedMissions": [
+        18
+      ],
       "lastSpin": null
     },
     {
@@ -14714,7 +14716,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T04:54:20.127Z"
+      "joinDate": "2025-02-26T04:54:20.127Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
