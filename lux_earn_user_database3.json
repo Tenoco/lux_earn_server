@@ -1133,7 +1133,7 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 252,
+      "balance": 253,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1155,7 +1155,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-25T06:45:45.991Z"
+      "lastSpin": "2025-02-26T23:03:04.985Z"
     },
     {
       "username": "SMART4VTU",
@@ -22878,7 +22878,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T23:01:53.704Z"
+      "joinDate": "2025-02-26T23:01:53.704Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
