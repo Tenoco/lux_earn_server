@@ -13867,12 +13867,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 475,
+      "balance": 505,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:23:49.428Z",
+      "lastSpin": "2025-02-26T02:24:08.261Z",
       "completedMissions": [
         1,
         4,
@@ -13899,9 +13900,10 @@
         17,
         14,
         14,
-        13
-      ],
-      "lastSpin": "2025-02-26T02:24:08.261Z"
+        13,
+        13,
+        5
+      ]
     },
     {
       "username": "Jobrighy",
