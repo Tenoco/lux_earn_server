@@ -16701,7 +16701,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T07:56:14.052Z"
+      "joinDate": "2025-02-26T07:56:14.052Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Michaelzhiri",
+      "email": "michaeluchenna755@gmail.com",
+      "encrypted_password": "73a1c19bdc760ba0542ac59b79a97f1d",
+      "referral_code": "MIRN0",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 148,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T19:11:48.915Z",
+      "completedMissions": [
+        2,
+        5,
+        6,
+        7,
+        9,
+        11,
+        13,
+        1,
+        4
+      ],
+      "lastSpin": "2025-02-22T19:20:25.865Z"
     }
   ],
   "withdrawals": [
