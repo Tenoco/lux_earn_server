@@ -10857,11 +10857,12 @@
       "invited_users": [
         "Babalola",
         "Damilola",
-        "Ajoke"
+        "Ajoke",
+        "Rasaq"
       ],
       "balance": 18,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -16902,6 +16903,21 @@
       "joinDate": "2025-02-26T08:04:37.943Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Rasaq",
+      "email": "adebayorasaq606@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "RAEOW",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:05:35.879Z"
     }
   ],
   "withdrawals": [
