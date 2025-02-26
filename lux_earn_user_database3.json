@@ -7765,11 +7765,12 @@
         "Ikerin",
         "Marvelous ",
         "Adekogbe1",
-        "Igbayilola23"
+        "Igbayilola23",
+        "Kletus"
       ],
       "balance": 242,
-      "refers": 54,
-      "referralBalance": 5400,
+      "refers": 55,
+      "referralBalance": 5500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15746,7 +15747,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:21:30.079Z"
+      "joinDate": "2025-02-26T06:21:30.079Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kletus",
+      "email": "igbayilolaadeyiga019@gmail.com",
+      "encrypted_password": "bd8e710a39a45a35513767af207ca134",
+      "referral_code": "KL47Z",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:22:51.204Z"
     }
   ],
   "withdrawals": [
