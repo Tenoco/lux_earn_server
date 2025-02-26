@@ -19447,11 +19447,12 @@
         "Judek",
         "James090",
         "Tosin",
-        "Amosing"
+        "Amosing",
+        "Eest070"
       ],
       "balance": 217,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20171,6 +20172,21 @@
       "joinDate": "2025-02-26T14:46:10.785Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T14:46:23.552Z"
+    },
+    {
+      "username": "Eest070",
+      "email": "eest070070@gmail.com",
+      "encrypted_password": "256b16215d9ab8619810026ff2ffb9ba",
+      "referral_code": "EEZFD",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:48:51.833Z"
     }
   ],
   "withdrawals": [
