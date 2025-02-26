@@ -7059,7 +7059,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 188,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7080,7 +7080,7 @@
         13,
         15
       ],
-      "lastSpin": "2025-02-25T16:22:38.103Z"
+      "lastSpin": "2025-02-26T20:26:45.662Z"
     },
     {
       "username": "Moranalice038",
@@ -22160,7 +22160,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T20:25:05.695Z"
+      "joinDate": "2025-02-26T20:25:05.695Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
