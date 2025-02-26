@@ -7885,11 +7885,12 @@
         "Fuwaz",
         "IFEOLUWA ",
         "Motto",
-        "Sewal"
+        "Sewal",
+        "Chirles"
       ],
       "balance": 262,
-      "refers": 82,
-      "referralBalance": 8200,
+      "refers": 83,
+      "referralBalance": 8300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21473,7 +21474,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:46:36.811Z"
+      "joinDate": "2025-02-26T18:46:36.811Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chirles",
+      "email": "maryroland18@gmail.com",
+      "encrypted_password": "1e6086b705c7161eeb93a8b249a5ca7c",
+      "referral_code": "CHMQI",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:47:59.124Z"
     }
   ],
   "withdrawals": [
