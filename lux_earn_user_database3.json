@@ -20025,12 +20025,10 @@
       "referral_code": "AYR1W",
       "inviter_referral_code": "OLDLO",
       "inviter_username": "Oluwaexcess",
-      "invited_users": [
-        "Akinmusere Michael "
-      ],
-      "balance": 280,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 292,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:47:16.534Z",
@@ -20053,7 +20051,7 @@
         12,
         13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T17:49:02.420Z"
     },
     {
       "username": "Momohngw",
@@ -21072,7 +21070,8 @@
       "joinDate": "2025-02-26T17:44:08.224Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Akinmusere Michael ",
