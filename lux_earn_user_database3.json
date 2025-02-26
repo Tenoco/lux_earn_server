@@ -18825,7 +18825,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:12:40.952Z"
+      "joinDate": "2025-02-26T11:12:40.952Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Joy",
+      "email": "kennyjoy280@gmail.com",
+      "encrypted_password": "68a93bfbf68957910ab3a8dad2e84b16",
+      "referral_code": "JO9RG",
+      "inviter_referral_code": "GIW62",
+      "inviter_username": "gideonx",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T10:11:51.169Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
