@@ -17473,7 +17473,7 @@
       "invited_users": [
         "deenpeter8"
       ],
-      "balance": 335,
+      "balance": 380,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -17490,9 +17490,10 @@
         5,
         7,
         8,
-        9
+        9,
+        12
       ],
-      "lastSpin": "2025-02-21T11:58:01.116Z"
+      "lastSpin": "2025-02-26T08:52:18.672Z"
     },
     {
       "username": "Samodu",
@@ -17524,7 +17525,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:52:51.556Z"
+      "joinDate": "2025-02-26T08:52:51.556Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
