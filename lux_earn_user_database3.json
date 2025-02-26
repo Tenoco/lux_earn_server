@@ -7762,11 +7762,12 @@
         "Igberin",
         "Igbayilola5",
         "Ikerin",
-        "Marvelous "
+        "Marvelous ",
+        "Adekogbe1"
       ],
       "balance": 242,
-      "refers": 52,
-      "referralBalance": 5200,
+      "refers": 53,
+      "referralBalance": 5300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15692,7 +15693,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:18:44.842Z"
+      "joinDate": "2025-02-26T06:18:44.842Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adekogbe1",
+      "email": "igbayilolaadeyiga274@gmail.com",
+      "encrypted_password": "a2543f4d886564a38ed0007448fac25c",
+      "referral_code": "ADZTM",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:20:06.570Z"
     }
   ],
   "withdrawals": [
