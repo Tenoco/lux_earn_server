@@ -11702,11 +11702,12 @@
         "Pool ",
         "Weam",
         "Gola",
-        "Point "
+        "Point ",
+        "Really "
       ],
       "balance": 251,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15199,7 +15200,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:41:17.777Z"
+      "joinDate": "2025-02-26T05:41:17.777Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Really ",
+      "email": "polop@gmail.com",
+      "encrypted_password": "d6581d542c7eaf801284f084478b5fcc",
+      "referral_code": "REKCG",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:42:40.899Z"
     }
   ],
   "withdrawals": [
