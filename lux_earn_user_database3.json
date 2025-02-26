@@ -21896,13 +21896,15 @@
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T19:39:38.656Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-26T19:49:05.116Z"
     },
     {
