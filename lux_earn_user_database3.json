@@ -7768,11 +7768,12 @@
         "Igbayilola23",
         "Kletus",
         "Olamide ",
-        "Mary"
+        "Mary",
+        "Luxury"
       ],
       "balance": 242,
-      "refers": 57,
-      "referralBalance": 5700,
+      "refers": 58,
+      "referralBalance": 5800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15800,7 +15801,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:25:31.395Z"
+      "joinDate": "2025-02-26T06:25:31.395Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Luxury",
+      "email": "maryroland2@gmail.com",
+      "encrypted_password": "bc9a3b4a271a2024fc489e1e5fa35fb7",
+      "referral_code": "LU4HI",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:26:35.112Z"
     }
   ],
   "withdrawals": [
