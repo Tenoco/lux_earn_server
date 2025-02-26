@@ -21529,7 +21529,7 @@
       "inviter_referral_code": "NWDAS",
       "inviter_username": "Nwobi ",
       "invited_users": [],
-      "balance": 150,
+      "balance": 160,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21546,9 +21546,9 @@
         17,
         4,
         15,
-        6
-      ],
-      "lastSpin": null
+        6,
+        10
+      ]
     },
     {
       "username": "Igba",
@@ -21699,7 +21699,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:57:54.557Z"
+      "joinDate": "2025-02-26T18:57:54.557Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
