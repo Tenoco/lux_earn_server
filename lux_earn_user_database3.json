@@ -22139,14 +22139,16 @@
       "inviter_referral_code": "OMDV9",
       "inviter_username": "Omotayo01 ",
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T20:24:18.130Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-26T20:24:47.601Z"
+      "lastSpin": "2025-02-26T20:24:47.601Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Bellacruze9",
