@@ -21703,16 +21703,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:57:54.557Z",
       "completedMissions": [
-        16
-      ],
-      "lastSpin": null
+        16,
+        11
+      ]
     },
     {
       "username": "Isreal1",
@@ -21727,7 +21727,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T19:01:11.898Z"
+      "joinDate": "2025-02-26T19:01:11.898Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
