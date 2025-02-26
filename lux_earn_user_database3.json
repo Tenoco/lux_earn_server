@@ -327,7 +327,7 @@
       "invited_users": [
         "Saviour"
       ],
-      "balance": 903,
+      "balance": 1027,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -360,7 +360,7 @@
         16,
         16
       ],
-      "lastSpin": "2025-02-24T16:23:13.839Z"
+      "lastSpin": "2025-02-26T08:05:20.151Z"
     },
     {
       "username": "Tee boy",
@@ -16899,7 +16899,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:04:37.943Z"
+      "joinDate": "2025-02-26T08:04:37.943Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
