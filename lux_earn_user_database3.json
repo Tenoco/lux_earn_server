@@ -21747,13 +21747,16 @@
       "inviter_referral_code": "JO4QJ",
       "inviter_username": "Jonahegbe",
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T19:05:19.160Z",
-      "lastSpin": "2025-02-26T19:10:13.965Z"
+      "lastSpin": "2025-02-26T19:10:13.965Z",
+      "completedMissions": [
+        7
+      ]
     },
     {
       "username": "Igberin1",
