@@ -10148,11 +10148,12 @@
         "Mercy",
         "Ogoluwa",
         "Phonee",
-        "Papa p"
+        "Papa p",
+        "Mama j"
       ],
       "balance": 1208,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:01:48.142Z",
@@ -15494,7 +15495,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:10:01.327Z"
+      "joinDate": "2025-02-26T06:10:01.327Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mama j",
+      "email": "allisonwealth7@gmail.com",
+      "encrypted_password": "f28610b4eaede207369e8fbf0f4dd2ff",
+      "referral_code": "MASH4",
+      "inviter_referral_code": "MIVBP",
+      "inviter_username": "Milkmentjnr3",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:10:44.303Z"
     }
   ],
   "withdrawals": [
