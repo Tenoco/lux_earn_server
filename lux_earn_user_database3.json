@@ -16588,7 +16588,7 @@
         "Hannah27 ",
         "Wummighty "
       ],
-      "balance": 405,
+      "balance": 415,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -16608,7 +16608,8 @@
         14,
         18,
         17,
-        15
+        15,
+        10
       ],
       "lastSpin": "2025-02-20T23:16:35.140Z"
     },
@@ -16625,7 +16626,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T07:46:33.530Z"
+      "joinDate": "2025-02-26T07:46:33.530Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
