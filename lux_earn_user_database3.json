@@ -22912,14 +22912,14 @@
       "inviter_referral_code": "None",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:22:34.861Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T23:47:04.346Z"
     },
     {
       "username": "James22",
@@ -22935,6 +22935,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:44:16.708Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T23:45:16.004Z"
     }
   ],
