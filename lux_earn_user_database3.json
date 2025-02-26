@@ -1989,11 +1989,12 @@
         "Zakha001",
         "Rabiu Umar ",
         "Fatimatu sani",
-        "Abubakar123"
+        "Abubakar123",
+        "Khadijatu "
       ],
       "balance": 0,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:42:14.889Z",
@@ -19276,7 +19277,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T12:39:19.922Z"
+      "joinDate": "2025-02-26T12:39:19.922Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Khadijatu ",
+      "email": "isamaikasuwkhadijah@gmail.com",
+      "encrypted_password": "9523a4eb5043a9230f36282abca27bfd",
+      "referral_code": "KHR3Z",
+      "inviter_referral_code": "RI48E",
+      "inviter_username": "Ridwanullah",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:41:11.895Z"
     }
   ],
   "withdrawals": [
