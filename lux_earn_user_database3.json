@@ -16983,11 +16983,12 @@
         "Fjhhgg",
         "Kgjvj",
         "Jgjhjhhcx",
-        "Gkgh"
+        "Gkgh",
+        "Jhjjkg"
       ],
       "balance": 20,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -18967,7 +18968,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:26:02.130Z"
+      "joinDate": "2025-02-26T11:26:02.130Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jhjjkg",
+      "email": "jjjjjjjjkkkkkkkk@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "JH8XX",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:27:18.200Z"
     }
   ],
   "withdrawals": [
