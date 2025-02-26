@@ -16661,7 +16661,7 @@
       "inviter_referral_code": "AY8J4",
       "inviter_username": "AyoRichee ",
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16669,7 +16669,9 @@
       "joinDate": "2025-02-26T07:48:00.436Z",
       "completedMissions": [
         1,
-        2
+        2,
+        4,
+        16
       ],
       "lastSpin": null
     },
