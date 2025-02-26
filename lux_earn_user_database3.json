@@ -20267,7 +20267,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T15:05:51.131Z"
+      "joinDate": "2025-02-26T15:05:51.131Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Please ",
+      "email": "paulgoku20@gmail.com",
+      "encrypted_password": "e3ceb5881a0a1fdaad01296d7554868d",
+      "referral_code": "PLV0Y",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T15:08:17.922Z"
     }
   ],
   "withdrawals": [
