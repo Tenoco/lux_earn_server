@@ -19143,11 +19143,12 @@
         "Wahab",
         "Prospylove",
         "Yemcee",
-        "Tobiizik "
+        "Tobiizik ",
+        "Sunnychi"
       ],
       "balance": 50,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -19959,7 +19960,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:12:39.385Z",
-      "lastSpin": "2025-02-26T14:13:04.178Z",
       "completedMissions": [
         5,
         16,
@@ -19971,7 +19971,23 @@
         12,
         14,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-26T14:13:04.178Z"
+    },
+    {
+      "username": "Sunnychi",
+      "email": "sundaychukwuma970@gmail.com",
+      "encrypted_password": "2be59b16003ac387c18fe63dda1e7341",
+      "referral_code": "SU5DS",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:15:58.061Z"
     }
   ],
   "withdrawals": [
