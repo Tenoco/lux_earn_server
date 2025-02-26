@@ -2549,7 +2549,7 @@
       "invited_users": [
         "Olasmatt"
       ],
-      "balance": 227,
+      "balance": 239,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2566,7 +2566,7 @@
         10,
         18
       ],
-      "lastSpin": "2025-02-25T09:04:20.999Z"
+      "lastSpin": "2025-02-26T11:20:30.550Z"
     },
     {
       "username": "Jorexdee",
@@ -18896,7 +18896,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:18:22.058Z"
+      "joinDate": "2025-02-26T11:18:22.058Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
