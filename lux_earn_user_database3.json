@@ -19855,7 +19855,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 80,
+      "balance": 142,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19866,9 +19866,13 @@
         2,
         4,
         16,
-        16
+        16,
+        5,
+        6,
+        7,
+        15
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-26T14:09:01.370Z"
     },
     {
       "username": "McallScott ",
