@@ -2927,11 +2927,12 @@
         "Juliet 3",
         "MichaelP",
         "Daniel uche",
-        "Wisdom09"
+        "Wisdom09",
+        "Christian 27"
       ],
       "balance": 220,
-      "refers": 37,
-      "referralBalance": 3700,
+      "refers": 38,
+      "referralBalance": 3800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15656,7 +15657,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:16:59.862Z"
+      "joinDate": "2025-02-26T06:16:59.862Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Christian 27",
+      "email": "igwechristian27@gmail.com",
+      "encrypted_password": "6074c6aa3488f3c2dddff2a7ca821aab",
+      "referral_code": "CHWHE",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:17:51.193Z"
     }
   ],
   "withdrawals": [
