@@ -21408,10 +21408,12 @@
       "referral_code": "NWDAS",
       "inviter_referral_code": "BL956",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Vickson "
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:42:16.821Z",
@@ -21509,7 +21511,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:48:19.249Z"
+      "joinDate": "2025-02-26T18:48:19.249Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vickson ",
+      "email": "johnjohnwinner8@gmail.com",
+      "encrypted_password": "36f5b4c7becff16aea7923cb952d2aa1",
+      "referral_code": "VI6Y2",
+      "inviter_referral_code": "NWDAS",
+      "inviter_username": "Nwobi ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:50:17.296Z"
     }
   ],
   "withdrawals": [
