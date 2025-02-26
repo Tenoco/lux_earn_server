@@ -10550,11 +10550,12 @@
         "Omolara",
         "Daniels",
         "Testimony ",
-        "Mercy'ss"
+        "Mercy'ss",
+        "202441251473IA"
       ],
       "balance": 20,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14833,6 +14834,21 @@
         6
       ],
       "lastSpin": null
+    },
+    {
+      "username": "202441251473IA",
+      "email": "drinfinite376@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "20J8Q",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:11:44.574Z"
     }
   ],
   "withdrawals": [
