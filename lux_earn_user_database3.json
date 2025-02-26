@@ -16661,13 +16661,15 @@
       "inviter_referral_code": "AY8J4",
       "inviter_username": "AyoRichee ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T07:48:00.436Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     },
     {
@@ -17197,11 +17199,11 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:21:03.191Z",
-      "lastSpin": "2025-02-26T08:21:40.687Z",
       "completedMissions": [
         12,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-26T08:21:40.687Z"
     },
     {
       "username": "IamRock",
