@@ -19459,7 +19459,8 @@
       "joinDate": "2025-02-26T13:05:06.439Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Busolami",
@@ -19505,6 +19506,38 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Christy",
+      "email": "christybanky0@gmail.com",
+      "encrypted_password": "37b4158e8e1b8e5e0ce6437113ac6eb5",
+      "referral_code": "CHGX2",
+      "inviter_referral_code": "HEDTV",
+      "inviter_username": "Henry5@6",
+      "invited_users": [],
+      "balance": 293,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T20:43:37.037Z",
+      "completedMissions": [
+        2,
+        4,
+        5,
+        5,
+        6,
+        1,
+        8,
+        14,
+        13,
+        12,
+        10,
+        11,
+        9,
+        17
+      ],
+      "lastSpin": "2025-02-24T03:12:18.409Z"
     }
   ],
   "withdrawals": [
