@@ -19954,12 +19954,13 @@
       "inviter_referral_code": "BR0H3",
       "inviter_username": "Brjude",
       "invited_users": [],
-      "balance": 188,
+      "balance": 198,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:12:39.385Z",
+      "lastSpin": "2025-02-26T14:13:04.178Z",
       "completedMissions": [
         5,
         16,
@@ -19970,9 +19971,9 @@
         11,
         12,
         14,
-        13
-      ],
-      "lastSpin": "2025-02-26T14:13:04.178Z"
+        13,
+        1
+      ]
     },
     {
       "username": "Sunnychi",
@@ -19987,7 +19988,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T14:15:58.061Z"
+      "joinDate": "2025-02-26T14:15:58.061Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
