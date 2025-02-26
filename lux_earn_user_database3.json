@@ -11699,11 +11699,12 @@
         "Yuyu",
         "Quip ",
         "Quick ",
-        "Pool "
+        "Pool ",
+        "Weam"
       ],
       "balance": 251,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15148,6 +15149,21 @@
         14
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Weam",
+      "email": "winne@gmail.com",
+      "encrypted_password": "d6581d542c7eaf801284f084478b5fcc",
+      "referral_code": "WE8HR",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:39:07.893Z"
     }
   ],
   "withdrawals": [
