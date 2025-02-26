@@ -18749,7 +18749,7 @@
       "inviter_referral_code": "DABAC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 308,
+      "balance": 328,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18771,7 +18771,8 @@
         13,
         12,
         14,
-        11
+        11,
+        18
       ],
       "lastSpin": "2025-02-23T21:13:26.866Z"
     },
@@ -18788,7 +18789,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:05:23.486Z"
+      "joinDate": "2025-02-26T11:05:23.486Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
