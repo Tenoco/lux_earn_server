@@ -8503,10 +8503,12 @@
       "referral_code": "OLPFZ",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Gregory001"
+      ],
       "balance": 300,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T04:19:59.758Z",
@@ -13873,7 +13875,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T02:23:49.428Z",
-      "lastSpin": "2025-02-26T02:24:08.261Z",
       "completedMissions": [
         1,
         4,
@@ -13907,7 +13908,8 @@
         16,
         2,
         2
-      ]
+      ],
+      "lastSpin": "2025-02-26T02:24:08.261Z"
     },
     {
       "username": "Jobrighy",
@@ -13961,6 +13963,21 @@
         17
       ],
       "lastSpin": "2025-02-25T04:42:58.204Z"
+    },
+    {
+      "username": "Gregory001",
+      "email": "gregoryreeves123@gmail.com",
+      "encrypted_password": "f46ff92fed7834ad6e500aa121816a48",
+      "referral_code": "GRVJI",
+      "inviter_referral_code": "OLPFZ",
+      "inviter_username": "Olajobi001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T02:31:42.623Z"
     }
   ],
   "withdrawals": [
