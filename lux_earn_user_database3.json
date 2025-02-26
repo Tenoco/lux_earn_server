@@ -21546,7 +21546,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:50:47.894Z"
+      "joinDate": "2025-02-26T18:50:47.894Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ben11",
+      "email": "rpelumi158@gmail.com",
+      "encrypted_password": "8dd7a69d67cee7eebb2befabd618a59c",
+      "referral_code": "BE1B1",
+      "inviter_referral_code": "Online",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:51:04.316Z"
     }
   ],
   "withdrawals": [
