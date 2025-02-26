@@ -10542,10 +10542,12 @@
       "referral_code": "IN8FM",
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ogunlade"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14619,6 +14621,21 @@
         6
       ],
       "lastSpin": "2025-02-22T10:09:57.922Z"
+    },
+    {
+      "username": "Ogunlade",
+      "email": "medinfinite1@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "OG7ZP",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T04:48:43.921Z"
     }
   ],
   "withdrawals": [
