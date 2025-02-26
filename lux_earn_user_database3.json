@@ -2920,11 +2920,12 @@
         "Benjamin Frank ",
         "Francis 28",
         "Gerald 4",
-        "Timothy "
+        "Timothy ",
+        "Stanley "
       ],
       "balance": 220,
-      "refers": 30,
-      "referralBalance": 3000,
+      "refers": 31,
+      "referralBalance": 3100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15258,6 +15259,21 @@
         12
       ],
       "lastSpin": "2025-02-26T05:47:51.059Z"
+    },
+    {
+      "username": "Stanley ",
+      "email": "stanley242@gmail.con",
+      "encrypted_password": "c7656ce3fbb462c82bad4e11fc7f4165",
+      "referral_code": "STBR5",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:52:41.172Z"
     }
   ],
   "withdrawals": [
