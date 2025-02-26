@@ -10147,11 +10147,12 @@
         "Oyinkansola ",
         "Higkk",
         "Hshs",
-        "Shadow 2"
+        "Shadow 2",
+        "Ok na "
       ],
       "balance": 292,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -18378,6 +18379,21 @@
         6
       ],
       "lastSpin": "2025-02-22T23:26:10.262Z"
+    },
+    {
+      "username": "Ok na ",
+      "email": "oyinkansolaolamideakinyemi@gmail.com",
+      "encrypted_password": "2e1178d2fccf9f0c4ee0d0bc21db6bd8",
+      "referral_code": "OKTW1",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T10:21:51.688Z"
     }
   ],
   "withdrawals": [
