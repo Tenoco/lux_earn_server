@@ -10132,11 +10132,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Oyinkansola "
+        "Oyinkansola ",
+        "Higkk"
       ],
       "balance": 292,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -18177,6 +18178,21 @@
       "joinDate": "2025-02-26T09:57:21.665Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T09:57:53.235Z"
+    },
+    {
+      "username": "Higkk",
+      "email": "gabbykiki08@gmail.com",
+      "encrypted_password": "59cbb875fe05de7e3baaecf602086bd8",
+      "referral_code": "HIG0E",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:59:45.793Z"
     }
   ],
   "withdrawals": [
