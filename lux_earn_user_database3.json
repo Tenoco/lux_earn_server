@@ -13872,11 +13872,12 @@
         "Oyekunle ",
         "Oyinkansola ",
         "Tolase ",
-        "olubunmi%"
+        "olubunmi%",
+        "NUGGET "
       ],
       "balance": 556,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:34:09.149Z",
@@ -21753,7 +21754,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T19:05:19.160Z",
-      "lastSpin": "2025-02-26T19:10:13.965Z",
       "completedMissions": [
         7,
         15,
@@ -21763,7 +21763,8 @@
         16,
         17,
         14
-      ]
+      ],
+      "lastSpin": "2025-02-26T19:10:13.965Z"
     },
     {
       "username": "Igberin1",
@@ -21826,6 +21827,21 @@
       "joinDate": "2025-02-26T19:09:34.130Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "NUGGET ",
+      "email": "adebiyit54@gmail.com",
+      "encrypted_password": "01aad587db006aa0961b24e7d16bc8e8",
+      "referral_code": "NUTJZ",
+      "inviter_referral_code": "TA077",
+      "inviter_username": "Taiwo star",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:19:01.182Z"
     }
   ],
   "withdrawals": [
