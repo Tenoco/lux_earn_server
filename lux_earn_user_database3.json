@@ -2723,11 +2723,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Allowance",
-        "Joy"
+        "Joy",
+        "Viera"
       ],
       "balance": 277,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
@@ -18807,7 +18808,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:07:20.420Z"
+      "joinDate": "2025-02-26T11:07:20.420Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Viera",
+      "email": "linkviera215@gmail.com",
+      "encrypted_password": "099c573bc8703bb7475eb6be4d7b34e6",
+      "referral_code": "VIRQ9",
+      "inviter_referral_code": "GIW62",
+      "inviter_username": "gideonx",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:12:40.952Z"
     }
   ],
   "withdrawals": [
