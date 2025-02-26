@@ -16971,11 +16971,12 @@
       "inviter_username": null,
       "invited_users": [
         "famousmayor",
-        "Famous001"
+        "Famous001",
+        "Famous002"
       ],
       "balance": 20,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -18442,6 +18443,21 @@
         16
       ],
       "lastSpin": "2025-02-26T10:22:02.585Z"
+    },
+    {
+      "username": "Famous002",
+      "email": "famousmayor003@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "FALK6",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T10:38:07.308Z"
     }
   ],
   "withdrawals": [
