@@ -18029,6 +18029,27 @@
       "joinDate": "2025-02-23T04:38:54.463Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T09:44:51.299Z"
+    },
+    {
+      "username": "Felix Chinonso",
+      "email": "ngwuchinonso08@gmail.com",
+      "encrypted_password": "b2b18aa5fe44ad7e92ca2f408f06e9ec",
+      "referral_code": "FEJGG",
+      "inviter_referral_code": "JOX2B",
+      "inviter_username": "John5210",
+      "invited_users": [],
+      "balance": 90,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:23:36.597Z",
+      "completedMissions": [
+        1,
+        2,
+        3
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
