@@ -17491,11 +17491,12 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [
-        "Olajumoke"
+        "Olajumoke",
+        "muhammad jamiu"
       ],
       "balance": 58,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:48:26.981Z",
@@ -17981,7 +17982,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:31:54.175Z"
+      "joinDate": "2025-02-26T09:31:54.175Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "muhammad jamiu",
+      "email": "muhammadjamiu07039@gmail.com",
+      "encrypted_password": "d727f98f868c02eadb5c2706a7a3e89b",
+      "referral_code": "MUJ2F",
+      "inviter_referral_code": "SUX3R",
+      "inviter_username": "Sunusi muhisiaq ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:34:21.715Z"
     }
   ],
   "withdrawals": [
