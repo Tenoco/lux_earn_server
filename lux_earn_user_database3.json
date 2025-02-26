@@ -14866,7 +14866,39 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:12:50.365Z"
+      "joinDate": "2025-02-26T05:12:50.365Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hafsy",
+      "email": "umarsafhat@gmail.com",
+      "encrypted_password": "4dcc5fad3b29a1726e52a63f6f020a42",
+      "referral_code": "HARAR",
+      "inviter_referral_code": "IBPK8",
+      "inviter_username": "Ibn wakil001",
+      "invited_users": [],
+      "balance": 190,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T20:33:30.779Z",
+      "completedMissions": [
+        1,
+        6,
+        5,
+        16,
+        4,
+        15,
+        10,
+        11,
+        12,
+        13,
+        14,
+        2
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
