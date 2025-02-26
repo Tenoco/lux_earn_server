@@ -10146,11 +10146,12 @@
       "invited_users": [
         "Oyinkansola ",
         "Higkk",
-        "Hshs"
+        "Hshs",
+        "Shadow 2"
       ],
       "balance": 292,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -18239,7 +18240,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T10:05:33.179Z"
+      "joinDate": "2025-02-26T10:05:33.179Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shadow 2",
+      "email": "efootballa030@gmail.com",
+      "encrypted_password": "8205458df0330f3985fcc32cb32096fb",
+      "referral_code": "SHT3Q",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T10:06:18.423Z"
     }
   ],
   "withdrawals": [
