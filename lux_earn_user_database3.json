@@ -22344,14 +22344,16 @@
       "inviter_referral_code": "ADZ27",
       "inviter_username": "Adisa",
       "invited_users": [],
-      "balance": 25,
+      "balance": 35,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:17:40.125Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-26T21:23:36.809Z"
+      "lastSpin": "2025-02-26T21:23:36.809Z",
+      "completedMissions": [
+        1
+      ]
     },
     {
       "username": "Tmamagirl03",
