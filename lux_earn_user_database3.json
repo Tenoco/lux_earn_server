@@ -13866,12 +13866,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T02:23:49.428Z"
+      "joinDate": "2025-02-26T02:23:49.428Z",
+      "lastSpin": "2025-02-26T02:24:08.261Z"
     }
   ],
   "withdrawals": [
