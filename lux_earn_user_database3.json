@@ -22793,14 +22793,15 @@
       "inviter_referral_code": "HAGNN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T22:06:23.261Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-26T22:08:57.887Z"
     }
