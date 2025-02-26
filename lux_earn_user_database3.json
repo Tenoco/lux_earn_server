@@ -21529,7 +21529,7 @@
       "inviter_referral_code": "NWDAS",
       "inviter_username": "Nwobi ",
       "invited_users": [],
-      "balance": 40,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21539,9 +21539,13 @@
         1,
         2,
         5,
-        5
-      ],
-      "lastSpin": null
+        5,
+        7,
+        7,
+        17,
+        17,
+        4
+      ]
     },
     {
       "username": "Igba",
