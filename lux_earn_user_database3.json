@@ -18932,7 +18932,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:23:43.676Z"
+      "joinDate": "2025-02-26T11:23:43.676Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omotara2",
+      "email": "elizabethsanyaolu66@gmail.com",
+      "encrypted_password": "0d3ddb367adf63d954cc84613bb5cc1a",
+      "referral_code": "OMF2Z",
+      "inviter_referral_code": "PEHXW",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:25:17.380Z"
     }
   ],
   "withdrawals": [
