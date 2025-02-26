@@ -22935,7 +22935,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:44:16.708Z",
-      "lastSpin": "2025-02-26T23:45:16.004Z",
       "completedMissions": [
         1,
         4,
@@ -22943,7 +22942,8 @@
         16,
         5,
         7
-      ]
+      ],
+      "lastSpin": "2025-02-26T23:45:16.004Z"
     },
     {
       "username": "Gentle soul ",
@@ -22953,14 +22953,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:49:56.179Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        4,
+        4,
+        4
       ],
       "lastSpin": null
     }
