@@ -7818,11 +7818,12 @@
         "Daniel12",
         "Deborah",
         "Kehinde",
-        "Rufia"
+        "Rufia",
+        "Mubarak "
       ],
       "balance": 242,
-      "refers": 67,
-      "referralBalance": 6700,
+      "refers": 68,
+      "referralBalance": 6800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17362,7 +17363,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:39:27.365Z"
+      "joinDate": "2025-02-26T08:39:27.365Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mubarak ",
+      "email": "maryroland12@gmail.com",
+      "encrypted_password": "3917b35f95ac2cf0ec9f71224ee1d0f3",
+      "referral_code": "MUCKF",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:39:45.590Z"
     }
   ],
   "withdrawals": [
