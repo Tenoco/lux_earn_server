@@ -10131,10 +10131,12 @@
       "referral_code": "ANYMB",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Oyinkansola "
+      ],
       "balance": 292,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -18156,6 +18158,21 @@
       "joinDate": "2025-02-21T05:30:34.573Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Oyinkansola ",
+      "email": "okikiolaglover@gmail.com",
+      "encrypted_password": "488c2128e72667e7bb0fb27d56d38b59",
+      "referral_code": "OYAC3",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:57:21.665Z"
     }
   ],
   "withdrawals": [
