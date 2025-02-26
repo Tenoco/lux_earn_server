@@ -11696,11 +11696,12 @@
       "invited_users": [
         "Yolo",
         "Popo",
-        "Yuyu"
+        "Yuyu",
+        "Quip "
       ],
       "balance": 251,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15057,7 +15058,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:30:18.547Z"
+      "joinDate": "2025-02-26T05:30:18.547Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Quip ",
+      "email": "raymo@gmail.com",
+      "encrypted_password": "dd02b1bfd214a89e4efb780754fd23b9",
+      "referral_code": "QU9WB",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:31:16.609Z"
     }
   ],
   "withdrawals": [
