@@ -47,11 +47,12 @@
         "Kingobillions",
         "Lopezcat1",
         "STICKZ",
-        "Pinkyponky"
+        "Pinkyponky",
+        "Stephen Phillips "
       ],
       "balance": 5503,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-18T21:33:22.513Z",
@@ -38618,6 +38619,21 @@
         6
       ],
       "lastSpin": "2025-02-25T04:45:49.426Z"
+    },
+    {
+      "username": "Stephen Phillips ",
+      "email": "ojiakuemmanuel32@gmail.com",
+      "encrypted_password": "bebbc196b58593cddd7a300b394626f8",
+      "referral_code": "ST55W",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:35:58.968Z"
     }
   ],
   "withdrawals": [
