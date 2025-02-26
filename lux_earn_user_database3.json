@@ -10543,11 +10543,12 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [
-        "Ogunlade"
+        "Ogunlade",
+        "Ogunlade1"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14680,6 +14681,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Ogunlade1",
+      "email": "vickeysmatt@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "OG35D",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T04:52:33.855Z"
     }
   ],
   "withdrawals": [
