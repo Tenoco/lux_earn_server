@@ -38755,6 +38755,28 @@
       "joinDate": "2025-02-21T12:32:56.332Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joseph",
+      "email": "ughejoseph@gmail.com",
+      "encrypted_password": "0162f8656df7b666dfed630cc7956da7",
+      "referral_code": "JONA1",
+      "inviter_referral_code": "SAIOY",
+      "inviter_username": "Sammycoded18",
+      "invited_users": [],
+      "balance": 120,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:24:56.716Z",
+      "completedMissions": [
+        1,
+        1,
+        3,
+        3
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
