@@ -19817,12 +19817,13 @@
       "inviter_referral_code": "Abake123",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 25,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:55:50.088Z"
+      "joinDate": "2025-02-26T13:55:50.088Z",
+      "lastSpin": "2025-02-26T13:56:10.252Z"
     }
   ],
   "withdrawals": [
