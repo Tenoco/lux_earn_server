@@ -20998,7 +20998,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T17:25:49.968Z"
+      "joinDate": "2025-02-26T17:25:49.968Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Osung ",
+      "email": "francisosung60@gmail.com",
+      "encrypted_password": "aa6fa94e4d8e042781c1d339e9c9fd70",
+      "referral_code": "OSJ00",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:58:43.099Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
