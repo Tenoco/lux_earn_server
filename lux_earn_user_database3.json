@@ -17197,7 +17197,34 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:21:03.191Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T08:21:40.687Z"
+    },
+    {
+      "username": "IamRock",
+      "email": "atandateslim123@gmail.com",
+      "encrypted_password": "7ece54bfeb1f6746580e1fbd1d8b79d0",
+      "referral_code": "IAAJS",
+      "inviter_referral_code": "I1BQ6",
+      "inviter_username": "I12Livebig",
+      "invited_users": [],
+      "balance": 252,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T10:12:49.649Z",
+      "completedMissions": [
+        1,
+        5,
+        4,
+        2,
+        8,
+        9,
+        3,
+        6
+      ],
+      "lastSpin": "2025-02-23T10:35:12.609Z"
     }
   ],
   "withdrawals": [
