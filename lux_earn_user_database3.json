@@ -5377,11 +5377,12 @@
         "Royal",
         "Helait",
         "Purity",
-        "Debby"
+        "Debby",
+        "Godgift"
       ],
       "balance": 290,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T19:46:09.720Z",
@@ -20867,7 +20868,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T17:06:54.964Z"
+      "joinDate": "2025-02-26T17:06:54.964Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Godgift",
+      "email": "godgiftboes@gmail.com",
+      "encrypted_password": "c4bb408471eb7727e59e11385b0a8c19",
+      "referral_code": "GOAI1",
+      "inviter_referral_code": "BO35X",
+      "inviter_username": "Boss",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T17:07:10.376Z"
     }
   ],
   "withdrawals": [
