@@ -8334,11 +8334,12 @@
       "inviter_referral_code": "LUNH5",
       "inviter_username": "Luckyprosper091 ",
       "invited_users": [
-        "Ayo1234 "
+        "Ayo1234 ",
+        "Foyo"
       ],
       "balance": 478,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:26:42.956Z",
@@ -17712,7 +17713,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:08:51.162Z"
+      "joinDate": "2025-02-26T09:08:51.162Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Foyo",
+      "email": "fayooluwaseun12@gmail.com",
+      "encrypted_password": "30ff3b3b35c85e5c186e299ed84842eb",
+      "referral_code": "FOCBC",
+      "inviter_referral_code": "FAHNP",
+      "inviter_username": "Favour33",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:09:57.306Z"
     }
   ],
   "withdrawals": [
