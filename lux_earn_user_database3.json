@@ -10899,11 +10899,12 @@
         "Damilola",
         "Ajoke",
         "Rasaq",
-        "Mayowa"
+        "Mayowa",
+        "Jsjehggg"
       ],
       "balance": 18,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -17766,7 +17767,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T09:13:49.514Z"
+      "joinDate": "2025-02-26T09:13:49.514Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jsjehggg",
+      "email": "bananaisland400@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "JSLES",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:15:18.364Z"
     }
   ],
   "withdrawals": [
