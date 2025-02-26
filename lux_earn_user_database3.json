@@ -7838,11 +7838,12 @@
         "Samodu",
         "Naomi ",
         "Kayode11",
-        "Igbnu"
+        "Igbnu",
+        "Luxury1"
       ],
       "balance": 242,
-      "refers": 74,
-      "referralBalance": 7400,
+      "refers": 75,
+      "referralBalance": 7500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17599,7 +17600,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:59:12.216Z"
+      "joinDate": "2025-02-26T08:59:12.216Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Luxury1",
+      "email": "igbayilolaadeyiga909@gmail.com",
+      "encrypted_password": "d877c55797fd430ce8150363cd86058f",
+      "referral_code": "LUP2H",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T09:00:47.198Z"
     }
   ],
   "withdrawals": [
