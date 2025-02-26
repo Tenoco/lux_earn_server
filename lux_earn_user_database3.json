@@ -19405,10 +19405,12 @@
       "referral_code": "BR0H3",
       "inviter_referral_code": " TER48",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Sunday225"
+      ],
       "balance": 217,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -19761,6 +19763,21 @@
       "joinDate": "2025-02-26T13:41:56.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sunday225",
+      "email": "sunday09136@gmail.com",
+      "encrypted_password": "64ed3d5f9d630fa33b806cee973ed706",
+      "referral_code": "SUC6S",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T13:46:47.118Z"
     }
   ],
   "withdrawals": [
