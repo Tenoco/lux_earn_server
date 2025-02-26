@@ -19451,7 +19451,7 @@
       "inviter_referral_code": "B3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19460,9 +19460,9 @@
       "completedMissions": [
         1,
         14,
-        14
-      ],
-      "lastSpin": null
+        14,
+        2
+      ]
     },
     {
       "username": "Busolami",
@@ -19554,7 +19554,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:12:17.734Z"
+      "joinDate": "2025-02-26T13:12:17.734Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
