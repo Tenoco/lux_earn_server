@@ -7524,10 +7524,12 @@
       "referral_code": "RIK3K",
       "inviter_referral_code": "COSCL",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Zeo"
+      ],
       "balance": 255,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:54:13.510Z",
@@ -20851,6 +20853,21 @@
         15
       ],
       "lastSpin": "2025-02-22T20:19:07.333Z"
+    },
+    {
+      "username": "Zeo",
+      "email": "andypeace356@gmail.com",
+      "encrypted_password": "5179c2cfa34ba8f90e0bf74c5676cd1d",
+      "referral_code": "ZEDTS",
+      "inviter_referral_code": "RIK3K",
+      "inviter_username": "Risky01",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T17:06:54.964Z"
     }
   ],
   "withdrawals": [
