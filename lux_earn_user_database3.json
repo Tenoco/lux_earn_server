@@ -326,11 +326,12 @@
       "inviter_username": null,
       "invited_users": [
         "Saviour",
-        "Zick"
+        "Zick",
+        "Jick"
       ],
       "balance": 1027,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T06:51:58.027Z",
@@ -21563,7 +21564,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:51:04.316Z"
+      "joinDate": "2025-02-26T18:51:04.316Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jick",
+      "email": "joeljohmson23@gmail.com",
+      "encrypted_password": "8f662babb45d0430125d467e1823557c",
+      "referral_code": "JIUMP",
+      "inviter_referral_code": "VIM4T",
+      "inviter_username": "Vice11",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:51:43.069Z"
     }
   ],
   "withdrawals": [
