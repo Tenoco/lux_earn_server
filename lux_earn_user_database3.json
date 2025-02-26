@@ -16862,10 +16862,12 @@
       "referral_code": "KI8GE",
       "inviter_referral_code": "PEHXW",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "famousmayor"
+      ],
       "balance": 10,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -16987,7 +16989,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:08:05.824Z"
+      "joinDate": "2025-02-26T08:08:05.824Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "famousmayor",
+      "email": "famousmayor001@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "FAPOB",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:08:47.991Z"
     }
   ],
   "withdrawals": [
