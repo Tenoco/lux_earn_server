@@ -7894,11 +7894,12 @@
         "Nazzy",
         "Bet9ja",
         "Igbani",
-        "Isreal1"
+        "Isreal1",
+        "Igberin1"
       ],
       "balance": 262,
-      "refers": 88,
-      "referralBalance": 8800,
+      "refers": 89,
+      "referralBalance": 8900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21751,7 +21752,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T19:05:19.160Z"
+      "joinDate": "2025-02-26T19:05:19.160Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Igberin1",
+      "email": "maryroland23@gmail.com",
+      "encrypted_password": "42eaded35fcc569eeb440167e03a5fd0",
+      "referral_code": "IGJEI",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:06:19.533Z"
     }
   ],
   "withdrawals": [
