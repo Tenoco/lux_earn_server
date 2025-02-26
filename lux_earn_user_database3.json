@@ -2922,11 +2922,12 @@
         "Gerald 4",
         "Timothy ",
         "Stanley ",
-        "Joyce26"
+        "Joyce26",
+        "Esther 13"
       ],
       "balance": 220,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15297,6 +15298,21 @@
       "joinDate": "2025-02-26T05:55:04.547Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T05:55:16.876Z"
+    },
+    {
+      "username": "Esther 13",
+      "email": "Estherwisdom13@gmail.com",
+      "encrypted_password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "referral_code": "ES8UY",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:00:25.669Z"
     }
   ],
   "withdrawals": [
