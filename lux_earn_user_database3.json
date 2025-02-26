@@ -2947,11 +2947,12 @@
         "Daniel uche",
         "Wisdom09",
         "Christian 27",
-        "Nneka Boniface 4"
+        "Nneka Boniface 4",
+        "Victoria chukwuma"
       ],
       "balance": 220,
-      "refers": 39,
-      "referralBalance": 3900,
+      "refers": 40,
+      "referralBalance": 4000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -19205,7 +19206,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T12:11:31.870Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T12:12:12.118Z"
+    },
+    {
+      "username": "Victoria chukwuma",
+      "email": "chukwumavic@gmail.com",
+      "encrypted_password": "e7fa247e6c6f772b9bc2e93da1550c64",
+      "referral_code": "VIK0D",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:13:56.576Z"
     }
   ],
   "withdrawals": [
