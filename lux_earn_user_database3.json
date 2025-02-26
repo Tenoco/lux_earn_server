@@ -11690,11 +11690,12 @@
       "inviter_referral_code": "KII01",
       "inviter_username": null,
       "invited_users": [
-        "Yolo"
+        "Yolo",
+        "Popo"
       ],
       "balance": 251,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -15018,7 +15019,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T05:25:47.910Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T05:26:07.808Z"
+    },
+    {
+      "username": "Popo",
+      "email": "yuyup@gmail.com",
+      "encrypted_password": "7ac25943d2a6668004fdbdfb10bdaf08",
+      "referral_code": "POHGI",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:27:49.658Z"
     }
   ],
   "withdrawals": [
