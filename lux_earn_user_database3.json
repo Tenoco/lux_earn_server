@@ -10860,11 +10860,12 @@
         "Babalola",
         "Damilola",
         "Ajoke",
-        "Rasaq"
+        "Rasaq",
+        "Mayowa"
       ],
       "balance": 18,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T21:11:43.924Z",
@@ -17017,6 +17018,21 @@
       "joinDate": "2025-02-26T08:08:47.991Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mayowa",
+      "email": "mayowaanimashaun195@gmail.com",
+      "encrypted_password": "1ad868264c3b643bdf639a8ddc0d6ddf",
+      "referral_code": "MAVP6",
+      "inviter_referral_code": "EMAXY",
+      "inviter_username": "Emmanuel",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:11:47.655Z"
     }
   ],
   "withdrawals": [
