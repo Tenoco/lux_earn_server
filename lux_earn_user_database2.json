@@ -6722,11 +6722,12 @@
         "Olajobi001",
         "Ibrahim ",
         "Udoye434",
-        "Aaron33"
+        "Aaron33",
+        "CalmAyodeji"
       ],
       "balance": 138,
-      "refers": 154,
-      "referralBalance": 15400,
+      "refers": 155,
+      "referralBalance": 15500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -38591,6 +38592,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "CalmAyodeji",
+      "email": "calmayodeji@gmail.com",
+      "encrypted_password": "2678ccda45dcc639049ab28c2fb0f2f9",
+      "referral_code": "CA6F0",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:47:48.010Z"
     }
   ],
   "withdrawals": [
