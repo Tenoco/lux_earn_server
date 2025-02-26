@@ -15313,7 +15313,32 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T06:00:25.669Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T06:00:30.581Z"
+    },
+    {
+      "username": "Turkey ",
+      "email": "oluwakemio541@gmail.com",
+      "encrypted_password": "3578799bedbd1830593cc50421fccad8",
+      "referral_code": "TUHBZ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 266,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:38:44.333Z",
+      "completedMissions": [
+        8,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-20T23:39:42.526Z"
     }
   ],
   "withdrawals": [
