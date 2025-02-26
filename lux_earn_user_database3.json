@@ -15286,12 +15286,13 @@
       "inviter_referral_code": "BRIEW",
       "inviter_username": "Bright13",
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:55:04.547Z"
+      "joinDate": "2025-02-26T05:55:04.547Z",
+      "lastSpin": "2025-02-26T05:55:16.876Z"
     }
   ],
   "withdrawals": [
