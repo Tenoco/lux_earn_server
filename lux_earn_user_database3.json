@@ -10549,11 +10549,12 @@
         "Victorog",
         "Omolara",
         "Daniels",
-        "Testimony "
+        "Testimony ",
+        "Mercy'ss"
       ],
       "balance": 20,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14791,6 +14792,21 @@
       "joinDate": "2025-02-26T05:01:34.995Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Mercy'ss",
+      "email": "drinfinite89@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "MEZM7",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:02:57.686Z"
     }
   ],
   "withdrawals": [
