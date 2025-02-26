@@ -20024,13 +20024,15 @@
       "inviter_referral_code": "OLDLO",
       "inviter_username": "Oluwaexcess",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T19:47:16.534Z",
-      "completedMissions": [],
+      "completedMissions": [
+        5
+      ],
       "lastSpin": null
     },
     {
