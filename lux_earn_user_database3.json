@@ -19451,16 +19451,17 @@
       "inviter_referral_code": "B3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T13:05:06.439Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        14,
+        14
+      ]
     },
     {
       "username": "Busolami",
