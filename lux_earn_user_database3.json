@@ -15235,7 +15235,28 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:43:23.337Z"
+      "joinDate": "2025-02-26T05:43:23.337Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olayinka 8",
+      "email": "olaroze7@gmail.com",
+      "encrypted_password": "9f0b2121ab81dc15c7cc02656f3d6133",
+      "referral_code": "OLIL6",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 32,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:25:22.556Z",
+      "completedMissions": [
+        2
+      ],
+      "lastSpin": "2025-02-23T11:27:58.967Z"
     }
   ],
   "withdrawals": [
