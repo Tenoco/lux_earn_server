@@ -10547,11 +10547,12 @@
         "Ogunlade1",
         "Mercyog",
         "Victorog",
-        "Omolara"
+        "Omolara",
+        "Daniels"
       ],
       "balance": 20,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14752,7 +14753,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:00:07.207Z"
+      "joinDate": "2025-02-26T05:00:07.207Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Daniels",
+      "email": "victorsmart089@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "DAYS8",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:00:52.985Z"
     }
   ],
   "withdrawals": [
