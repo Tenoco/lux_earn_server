@@ -7884,11 +7884,12 @@
         "Lookings",
         "Fuwaz",
         "IFEOLUWA ",
-        "Motto"
+        "Motto",
+        "Sewal"
       ],
       "balance": 262,
-      "refers": 81,
-      "referralBalance": 8100,
+      "refers": 82,
+      "referralBalance": 8200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21458,6 +21459,21 @@
         2
       ],
       "lastSpin": "2025-02-24T18:16:54.520Z"
+    },
+    {
+      "username": "Sewal",
+      "email": "maryroland17@gmail.com",
+      "encrypted_password": "35c87c75796a6d9f8cb34090a933cf9d",
+      "referral_code": "SERQ3",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:46:36.811Z"
     }
   ],
   "withdrawals": [
