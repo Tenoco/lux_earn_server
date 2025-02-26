@@ -7766,11 +7766,12 @@
         "Marvelous ",
         "Adekogbe1",
         "Igbayilola23",
-        "Kletus"
+        "Kletus",
+        "Olamide "
       ],
       "balance": 242,
-      "refers": 55,
-      "referralBalance": 5500,
+      "refers": 56,
+      "referralBalance": 5600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15764,7 +15765,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:22:51.204Z"
+      "joinDate": "2025-02-26T06:22:51.204Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olamide ",
+      "email": "oladipupoogunbowale@gmail.com",
+      "encrypted_password": "6a9757cd5388c22b0e5af3bf268666bb",
+      "referral_code": "OLR0Z",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:24:06.612Z"
     }
   ],
   "withdrawals": [
