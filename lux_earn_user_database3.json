@@ -7752,11 +7752,12 @@
         "Seun",
         "Faith",
         "Tumoni",
-        "Obanijesu12 "
+        "Obanijesu12 ",
+        "Dorcas"
       ],
       "balance": 242,
-      "refers": 45,
-      "referralBalance": 4500,
+      "refers": 46,
+      "referralBalance": 4600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15513,7 +15514,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T06:10:44.303Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T06:10:54.122Z"
+    },
+    {
+      "username": "Dorcas",
+      "email": "igbayilolaadeyiga068@gmail.com",
+      "encrypted_password": "4919ef6bb945013c03d28cfe68f3cb46",
+      "referral_code": "DOCB5",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:11:37.372Z"
     }
   ],
   "withdrawals": [
