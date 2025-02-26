@@ -17094,11 +17094,12 @@
         "Kgjvj",
         "Jgjhjhhcx",
         "Gkgh",
-        "Jhjjkg"
+        "Jhjjkg",
+        "Jjkkkk"
       ],
       "balance": 20,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -22531,6 +22532,21 @@
         14
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Jjkkkk",
+      "email": "kvioevrirrkorrorr@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "JJCNK",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:50:41.078Z"
     }
   ],
   "withdrawals": [
