@@ -4605,7 +4605,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 6138,
+      "balance": 6178,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4951,7 +4951,9 @@
         13,
         13,
         13,
-        13
+        13,
+        18,
+        18
       ],
       "lastSpin": "2025-02-24T16:48:09.155Z"
     },
@@ -18952,10 +18954,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T11:25:17.380Z",
-      "lastSpin": "2025-02-26T11:27:18.804Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-26T11:27:18.804Z"
     },
     {
       "username": "Gkgh",
