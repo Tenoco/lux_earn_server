@@ -18954,7 +18954,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T11:25:17.380Z",
-      "lastSpin": "2025-02-26T11:27:18.804Z",
       "completedMissions": [
         1,
         2,
@@ -18974,7 +18973,8 @@
         14,
         17,
         18
-      ]
+      ],
+      "lastSpin": "2025-02-26T11:27:18.804Z"
     },
     {
       "username": "Gkgh",
@@ -19036,6 +19036,21 @@
         9
       ],
       "lastSpin": "2025-02-26T11:34:50.974Z"
+    },
+    {
+      "username": "Abubakar 427",
+      "email": "aasadiq427@gmail.com",
+      "encrypted_password": "5c2931fb82b7813c9b485a6438d78ca0",
+      "referral_code": "ABMOE",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:42:07.357Z"
     }
   ],
   "withdrawals": [
