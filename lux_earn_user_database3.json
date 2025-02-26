@@ -17097,11 +17097,12 @@
         "Gkgh",
         "Jhjjkg",
         "Jjkkkk",
-        "Mnohd"
+        "Mnohd",
+        "Njbv"
       ],
       "balance": 20,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:02:45.524Z",
@@ -22595,7 +22596,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T21:53:04.032Z"
+      "joinDate": "2025-02-26T21:53:04.032Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Njbv",
+      "email": "yyyyyy6yyy@gmail.com",
+      "encrypted_password": "962c77bf1485b7ee782a7b98e4405e97",
+      "referral_code": "NJNEE",
+      "inviter_referral_code": "KI8GE",
+      "inviter_username": "KingDavis001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T21:54:09.565Z"
     }
   ],
   "withdrawals": [
