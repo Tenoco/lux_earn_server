@@ -19435,11 +19435,12 @@
       "inviter_username": null,
       "invited_users": [
         "Sunday225",
-        "Mother225"
+        "Mother225",
+        "Judek"
       ],
       "balance": 217,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -20076,6 +20077,21 @@
         15
       ],
       "lastSpin": "2025-02-26T14:25:29.450Z"
+    },
+    {
+      "username": "Judek",
+      "email": "okekejude030@gmail.com",
+      "encrypted_password": "a61c6c83a8b78cfe8e3b2a5268a7cfa1",
+      "referral_code": "JUE5M",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:28:17.666Z"
     }
   ],
   "withdrawals": [
