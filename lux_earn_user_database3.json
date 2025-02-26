@@ -7821,11 +7821,12 @@
         "Kehinde",
         "Rufia",
         "Mubarak ",
-        "Taiwo"
+        "Taiwo",
+        "Teniola"
       ],
       "balance": 242,
-      "refers": 69,
-      "referralBalance": 6900,
+      "refers": 70,
+      "referralBalance": 7000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17423,6 +17424,21 @@
       "joinDate": "2025-02-26T08:41:43.543Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Teniola",
+      "email": "maryroland14@gmail.com",
+      "encrypted_password": "010ef083044f92e553f5447b5b8b7958",
+      "referral_code": "TEAPW",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:46:35.479Z"
     }
   ],
   "withdrawals": [
