@@ -17191,14 +17191,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 8,
+      "balance": 38,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:21:03.191Z",
-      "completedMissions": [],
-      "lastSpin": "2025-02-26T08:21:40.687Z"
+      "lastSpin": "2025-02-26T08:21:40.687Z",
+      "completedMissions": [
+        12
+      ]
     },
     {
       "username": "IamRock",
