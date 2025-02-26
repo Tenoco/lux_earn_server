@@ -19407,11 +19407,12 @@
       "inviter_referral_code": " TER48",
       "inviter_username": null,
       "invited_users": [
-        "Sunday225"
+        "Sunday225",
+        "Mother225"
       ],
       "balance": 217,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:45:33.916Z",
@@ -19938,7 +19939,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T14:11:14.889Z"
+      "joinDate": "2025-02-26T14:11:14.889Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mother225",
+      "email": "judeokeke030@gmail.com",
+      "encrypted_password": "1016ad9512af14557d4225a92fbbbc1d",
+      "referral_code": "MOYHV",
+      "inviter_referral_code": "BR0H3",
+      "inviter_username": "Brjude",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T14:12:39.385Z"
     }
   ],
   "withdrawals": [
