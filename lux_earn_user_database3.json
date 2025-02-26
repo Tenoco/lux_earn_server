@@ -10551,11 +10551,12 @@
         "Daniels",
         "Testimony ",
         "Mercy'ss",
-        "202441251473IA"
+        "202441251473IA",
+        "8104639067"
       ],
       "balance": 20,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14848,7 +14849,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T05:11:44.574Z"
+      "joinDate": "2025-02-26T05:11:44.574Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "8104639067",
+      "email": "infinitevictor171@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "817S7",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T05:12:50.365Z"
     }
   ],
   "withdrawals": [
