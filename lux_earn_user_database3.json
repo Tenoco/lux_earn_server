@@ -10193,11 +10193,12 @@
         "Hshs",
         "Shadow 2",
         "Ok na ",
-        "Fuckme"
+        "Fuckme",
+        "Jelly"
       ],
       "balance": 292,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -20540,7 +20541,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T16:20:52.528Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T16:21:11.550Z"
+    },
+    {
+      "username": "Jelly",
+      "email": "rasheedtawa26@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "JE87N",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T16:23:52.404Z"
     }
   ],
   "withdrawals": [
