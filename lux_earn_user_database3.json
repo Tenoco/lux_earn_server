@@ -22911,10 +22911,12 @@
       "referral_code": "RYG0I",
       "inviter_referral_code": "None",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Mikeys "
+      ],
       "balance": 1,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:22:34.861Z",
@@ -22968,6 +22970,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Mikeys ",
+      "email": "mathewmarkusado@gmail.com",
+      "encrypted_password": "b24a2643b7d4ef4d23f827706afc23ac",
+      "referral_code": "MIRCD",
+      "inviter_referral_code": "RYG0I",
+      "inviter_username": "Rymics",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T23:55:53.425Z"
     }
   ],
   "withdrawals": [
