@@ -19772,13 +19772,16 @@
       "inviter_referral_code": "BR0H3",
       "inviter_username": "Brjude",
       "invited_users": [],
-      "balance": 15,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T13:46:47.118Z",
-      "completedMissions": [],
+      "completedMissions": [
+        16,
+        5
+      ],
       "lastSpin": "2025-02-26T13:47:13.802Z"
     },
     {
@@ -19794,7 +19797,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T13:51:37.125Z"
+      "joinDate": "2025-02-26T13:51:37.125Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
