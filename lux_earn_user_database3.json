@@ -11459,11 +11459,12 @@
         "korex56",
         "Samuel1 ",
         "Dommy ",
-        "Igbaisaac"
+        "Igbaisaac",
+        "Peller uc "
       ],
       "balance": 186,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -21717,7 +21718,8 @@
         14,
         17,
         18
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Isreal1",
@@ -21735,6 +21737,21 @@
       "joinDate": "2025-02-26T19:01:11.898Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Peller uc ",
+      "email": "pelleruc028@gmail.com",
+      "encrypted_password": "76fcafa34f21be1e5fbd02fa93c82caf",
+      "referral_code": "PE8N3",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:05:19.160Z"
     }
   ],
   "withdrawals": [
