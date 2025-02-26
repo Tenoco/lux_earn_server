@@ -2928,11 +2928,12 @@
         "MichaelP",
         "Daniel uche",
         "Wisdom09",
-        "Christian 27"
+        "Christian 27",
+        "Nneka Boniface 4"
       ],
       "balance": 220,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T13:55:29.775Z",
@@ -15710,7 +15711,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:20:06.570Z"
+      "joinDate": "2025-02-26T06:20:06.570Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nneka Boniface 4",
+      "email": "bonifacenneka@gmail.com",
+      "encrypted_password": "d79c8788088c2193f0244d8f1f36d2db",
+      "referral_code": "NN8GX",
+      "inviter_referral_code": "BRIEW",
+      "inviter_username": "Bright13",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:20:39.343Z"
     }
   ],
   "withdrawals": [
