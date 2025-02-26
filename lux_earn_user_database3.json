@@ -22929,12 +22929,13 @@
       "inviter_referral_code": "CO4PD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T23:44:16.708Z"
+      "joinDate": "2025-02-26T23:44:16.708Z",
+      "lastSpin": "2025-02-26T23:45:16.004Z"
     }
   ],
   "withdrawals": [
