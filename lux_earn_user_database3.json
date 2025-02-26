@@ -10554,14 +10554,15 @@
         "202441251473IA",
         "8104639067"
       ],
-      "balance": 45,
+      "balance": 55,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
       "completedMissions": [
-        18
+        18,
+        2
       ],
       "lastSpin": "2025-02-26T05:18:15.252Z"
     },
