@@ -9010,7 +9010,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 410,
+      "balance": 430,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9032,7 +9032,7 @@
         10,
         9
       ],
-      "lastSpin": "2025-02-23T05:45:45.199Z"
+      "lastSpin": "2025-02-26T21:18:05.096Z"
     },
     {
       "username": "ADESOLA VERACITY",
@@ -22346,7 +22346,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T21:17:40.125Z"
+      "joinDate": "2025-02-26T21:17:40.125Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
