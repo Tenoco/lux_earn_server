@@ -22350,6 +22350,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:17:40.125Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T21:23:36.809Z"
     },
     {
@@ -22360,13 +22361,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": null
     }
   ],
