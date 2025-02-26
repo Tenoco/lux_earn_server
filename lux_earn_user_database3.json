@@ -7889,11 +7889,12 @@
         "Motto",
         "Sewal",
         "Chirles",
-        "Igba"
+        "Igba",
+        "Nazzy"
       ],
       "balance": 262,
-      "refers": 84,
-      "referralBalance": 8400,
+      "refers": 85,
+      "referralBalance": 8500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21581,7 +21582,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T18:51:43.069Z"
+      "joinDate": "2025-02-26T18:51:43.069Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nazzy",
+      "email": "maryroland19@gmail.com",
+      "encrypted_password": "b973fd0a932188e9fe400c69b6c9e251",
+      "referral_code": "NATA4",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:52:34.477Z"
     }
   ],
   "withdrawals": [
