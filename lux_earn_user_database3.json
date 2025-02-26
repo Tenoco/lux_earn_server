@@ -7770,11 +7770,12 @@
         "Olamide ",
         "Mary",
         "Luxury",
-        "Divine "
+        "Divine ",
+        "Abbey"
       ],
       "balance": 242,
-      "refers": 59,
-      "referralBalance": 5900,
+      "refers": 60,
+      "referralBalance": 6000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -15836,7 +15837,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T06:27:51.765Z"
+      "joinDate": "2025-02-26T06:27:51.765Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abbey",
+      "email": "maryroland4@gmail.com",
+      "encrypted_password": "937615f88364f88a83ad266a5771d7fd",
+      "referral_code": "ABURH",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T06:29:13.219Z"
     }
   ],
   "withdrawals": [
