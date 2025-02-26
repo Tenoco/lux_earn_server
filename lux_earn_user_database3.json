@@ -10196,11 +10196,12 @@
         "Fuckme",
         "Jelly",
         "Hello ",
-        "Police you "
+        "Police you ",
+        "Your welcome "
       ],
       "balance": 292,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:59:40.532Z",
@@ -20623,7 +20624,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T16:34:50.132Z"
+      "joinDate": "2025-02-26T16:34:50.132Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Your welcome ",
+      "email": "gloverolabode9@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "YOSTT",
+      "inviter_referral_code": "ANYMB",
+      "inviter_username": "Angel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T16:35:53.626Z"
     }
   ],
   "withdrawals": [
