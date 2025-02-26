@@ -21769,7 +21769,37 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T19:06:19.533Z"
+      "joinDate": "2025-02-26T19:06:19.533Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Teddybear0863",
+      "email": "samueloladeji39@gmail.com",
+      "encrypted_password": "248a656bffe5525089e206984e0be8b2",
+      "referral_code": "TE6DS",
+      "inviter_referral_code": "OD7RC",
+      "inviter_username": "Odubiyi nofiu",
+      "invited_users": [],
+      "balance": 155,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T18:28:37.287Z",
+      "completedMissions": [
+        1,
+        2,
+        2,
+        4,
+        5,
+        6,
+        7,
+        14,
+        10,
+        11
+      ],
+      "lastSpin": "2025-02-23T19:01:49.838Z"
     }
   ],
   "withdrawals": [
