@@ -19260,7 +19260,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T12:28:13.796Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-26T12:28:28.797Z"
+    },
+    {
+      "username": "Olakemi1 ",
+      "email": "olakemiayeni1@gmail.com",
+      "encrypted_password": "b47c2dddfc3d88838afff37d6d6f41ab",
+      "referral_code": "OLINO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T12:39:19.922Z"
     }
   ],
   "withdrawals": [
