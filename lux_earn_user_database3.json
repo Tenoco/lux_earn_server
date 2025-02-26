@@ -19247,11 +19247,12 @@
         "Yemcee",
         "Tobiizik ",
         "Sunnychi",
-        "Esthychi"
+        "Esthychi",
+        "Joyray"
       ],
       "balance": 100,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -21879,6 +21880,21 @@
       "joinDate": "2025-02-26T19:35:18.650Z",
       "completedMissions": [],
       "lastSpin": "2025-02-26T19:35:32.512Z"
+    },
+    {
+      "username": "Joyray",
+      "email": "lonelyjay17@gmail.com",
+      "encrypted_password": "8beacd3861df518a1e552005254559f1",
+      "referral_code": "JOR3R",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T19:39:38.656Z"
     }
   ],
   "withdrawals": [
