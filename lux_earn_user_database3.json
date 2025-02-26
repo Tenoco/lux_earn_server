@@ -22344,7 +22344,7 @@
       "inviter_referral_code": "ADZ27",
       "inviter_username": "Adisa",
       "invited_users": [],
-      "balance": 65,
+      "balance": 115,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22354,7 +22354,11 @@
       "completedMissions": [
         1,
         2,
-        4
+        4,
+        16,
+        5,
+        6,
+        7
       ]
     },
     {
