@@ -7820,11 +7820,12 @@
         "Deborah",
         "Kehinde",
         "Rufia",
-        "Mubarak "
+        "Mubarak ",
+        "Taiwo"
       ],
       "balance": 242,
-      "refers": 68,
-      "referralBalance": 6800,
+      "refers": 69,
+      "referralBalance": 6900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -17398,7 +17399,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T08:40:56.889Z"
+      "joinDate": "2025-02-26T08:40:56.889Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Taiwo",
+      "email": "maryroland13@gmail.com",
+      "encrypted_password": "5cf7573f250dd48c04cce437c37bebf5",
+      "referral_code": "TA1G2",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T08:41:43.543Z"
     }
   ],
   "withdrawals": [
