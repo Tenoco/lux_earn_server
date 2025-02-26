@@ -11761,11 +11761,12 @@
         "Gola",
         "Point ",
         "Really ",
-        "Coc"
+        "Coc",
+        "Darkray.t"
       ],
       "balance": 251,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T07:08:25.742Z",
@@ -16364,6 +16365,21 @@
       "joinDate": "2025-02-26T07:16:27.443Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Darkray.t",
+      "email": "idowuraymond78@gmail.com",
+      "encrypted_password": "8f2daba6338aa5559880784a70af9a0b",
+      "referral_code": "DAXNP",
+      "inviter_referral_code": "PRKU8",
+      "inviter_username": "Prince harry",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T07:19:00.088Z"
     }
   ],
   "withdrawals": [
