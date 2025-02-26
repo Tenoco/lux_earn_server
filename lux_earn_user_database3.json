@@ -10545,11 +10545,12 @@
       "invited_users": [
         "Ogunlade",
         "Ogunlade1",
-        "Mercyog"
+        "Mercyog",
+        "Victorog"
       ],
       "balance": 20,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T20:56:28.117Z",
@@ -14719,6 +14720,21 @@
       "joinDate": "2025-02-26T04:54:20.127Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victorog",
+      "email": "vickeysmart32@gmail.com",
+      "encrypted_password": "0f445b6cdb39759fd9813df4074b8a2c",
+      "referral_code": "VIZX0",
+      "inviter_referral_code": "IN8FM",
+      "inviter_username": "Infinite ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T04:59:27.476Z"
     }
   ],
   "withdrawals": [
