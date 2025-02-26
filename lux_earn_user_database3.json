@@ -17462,14 +17462,15 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 28,
+      "balance": 48,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T08:48:26.981Z",
       "completedMissions": [
-        4
+        4,
+        16
       ],
       "lastSpin": "2025-02-26T08:50:42.850Z"
     },
