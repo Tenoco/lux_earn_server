@@ -19937,13 +19937,16 @@
       "inviter_referral_code": "P17FM3XT",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:11:14.889Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14,
+        14
+      ],
       "lastSpin": null
     },
     {
@@ -19960,7 +19963,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T14:12:39.385Z",
-      "lastSpin": "2025-02-26T14:13:04.178Z",
       "completedMissions": [
         5,
         16,
@@ -19975,7 +19977,8 @@
         1,
         18,
         17
-      ]
+      ],
+      "lastSpin": "2025-02-26T14:13:04.178Z"
     },
     {
       "username": "Sunnychi",
