@@ -2725,11 +2725,12 @@
         "Allowance",
         "Joy",
         "Viera",
-        "Abegg"
+        "Abegg",
+        "Koredx"
       ],
       "balance": 277,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:36:39.495Z",
@@ -18860,7 +18861,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T11:14:43.552Z"
+      "joinDate": "2025-02-26T11:14:43.552Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Koredx",
+      "email": "somefundeborah41@gmail.com",
+      "encrypted_password": "d93ab99677c2fabc1cbdb136b02a9d93",
+      "referral_code": "KOZWU",
+      "inviter_referral_code": "GIW62",
+      "inviter_username": "gideonx",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T11:18:06.947Z"
     }
   ],
   "withdrawals": [
