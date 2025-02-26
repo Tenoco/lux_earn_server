@@ -18487,7 +18487,7 @@
       "inviter_referral_code": "FIRQF",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 340,
+      "balance": 380,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18515,7 +18515,9 @@
         9,
         9,
         7,
-        7
+        7,
+        16,
+        16
       ],
       "lastSpin": null
     },
@@ -18532,7 +18534,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T10:46:18.361Z"
+      "joinDate": "2025-02-26T10:46:18.361Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
