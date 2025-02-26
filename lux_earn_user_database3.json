@@ -7891,11 +7891,12 @@
         "Sewal",
         "Chirles",
         "Igba",
-        "Nazzy"
+        "Nazzy",
+        "Bet9ja"
       ],
       "balance": 262,
-      "refers": 85,
-      "referralBalance": 8500,
+      "refers": 86,
+      "referralBalance": 8600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:00:54.941Z",
@@ -21538,7 +21539,8 @@
         2,
         5,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Igba",
@@ -21641,6 +21643,21 @@
       "joinDate": "2025-02-26T18:53:28.703Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Bet9ja",
+      "email": "maryroland20@gmail.com",
+      "encrypted_password": "bbe991a1b594ed7d73b4a0f43c407745",
+      "referral_code": "BEVF9",
+      "inviter_referral_code": "IGE9G",
+      "inviter_username": "Igbayilola1",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-26T18:54:05.102Z"
     }
   ],
   "withdrawals": [
