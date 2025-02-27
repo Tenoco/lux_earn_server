@@ -26313,7 +26313,46 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T18:56:57.139Z"
+      "joinDate": "2025-02-27T18:56:57.139Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Chosenralph",
+      "email": "chosenfineman@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "CHN20",
+      "inviter_referral_code": "vgh",
+      "inviter_username": null,
+      "invited_users": [
+        "John3",
+        "CTO2",
+        "Zoe",
+        "Mermer",
+        "Rita70",
+        "Ralphyla",
+        "Merchant",
+        "Megaxplurs",
+        "Efosa45"
+      ],
+      "balance": 152,
+      "refers": 9,
+      "referralBalance": 900,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T07:02:08.022Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": "2025-02-23T05:01:27.245Z"
     }
   ],
   "withdrawals": [
