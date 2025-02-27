@@ -25709,11 +25709,12 @@
         "Adeyemi yomi",
         "Habeeb Azeez ",
         "Ayomide jumon ",
-        "rukyat bummi"
+        "rukyat bummi",
+        "Ibrahim22"
       ],
       "balance": 270,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26865,7 +26866,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T21:13:00.592Z"
+      "joinDate": "2025-02-27T21:13:00.592Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ibrahim22",
+      "email": "ibrahimsaka111222@gmail.com",
+      "encrypted_password": "d833a18394798b41e6c615d22111a141",
+      "referral_code": "IB7FF",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:14:50.030Z"
     }
   ],
   "withdrawals": [
