@@ -3082,7 +3082,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 453,
+      "balance": 473,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3115,7 +3115,7 @@
         13,
         14
       ],
-      "lastSpin": "2025-02-25T09:46:41.938Z"
+      "lastSpin": "2025-02-27T06:18:41.680Z"
     },
     {
       "username": "Penrosevik",
@@ -24006,7 +24006,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T06:18:22.756Z"
+      "joinDate": "2025-02-27T06:18:22.756Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
