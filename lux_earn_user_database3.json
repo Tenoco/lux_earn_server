@@ -24554,16 +24554,19 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T09:44:35.444Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        4,
+        16,
+        5
+      ]
     },
     {
       "username": "Aniemeka happiness ",
