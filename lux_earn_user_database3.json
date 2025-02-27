@@ -23143,11 +23143,12 @@
         "hussinat",
         "kabiru",
         "kabiru212",
-        "jame12"
+        "jame12",
+        "hadi"
       ],
       "balance": 490,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -23349,7 +23350,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T02:14:08.241Z"
+      "joinDate": "2025-02-27T02:14:08.241Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "hadi",
+      "email": "hadiibrahim@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "HALFE",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T02:20:43.172Z"
     }
   ],
   "withdrawals": [
