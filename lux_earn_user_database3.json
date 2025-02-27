@@ -25549,15 +25549,32 @@
       "referral_code": "THKEZ",
       "inviter_referral_code": null,
       "inviter_username": null,
+      "invited_users": [
+        "Gothes1357"
+      ],
+      "balance": 0,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T14:23:02.136Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gothes1357",
+      "email": "gothes1357@gmail.com",
+      "encrypted_password": "c26820b8a4c1b3c2aa868d6d57e14a79",
+      "referral_code": "GO13U",
+      "inviter_referral_code": "THKEZ",
+      "inviter_username": "Theo1357",
       "invited_users": [],
       "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T14:23:02.136Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "joinDate": "2025-02-27T14:30:48.779Z"
     }
   ],
   "withdrawals": [
