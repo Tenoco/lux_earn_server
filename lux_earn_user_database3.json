@@ -24122,7 +24122,7 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24130,7 +24130,8 @@
       "joinDate": "2025-02-27T06:03:57.656Z",
       "completedMissions": [
         1,
-        2
+        2,
+        20
       ],
       "lastSpin": "2025-02-27T06:04:13.873Z"
     },
