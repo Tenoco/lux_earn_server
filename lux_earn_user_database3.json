@@ -11539,11 +11539,12 @@
         "Samuel1 ",
         "Dommy ",
         "Igbaisaac",
-        "Peller uc "
+        "Peller uc ",
+        "Faithful4545"
       ],
       "balance": 186,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -26575,7 +26576,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:07:27.178Z"
+      "joinDate": "2025-02-27T20:07:27.178Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Faithful4545",
+      "email": "faithfulferdonand000@gmail.com",
+      "encrypted_password": "68fd83df9ed0fb2e3a4e9431419594dc",
+      "referral_code": "FA7TK",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:17:10.253Z"
     }
   ],
   "withdrawals": [
