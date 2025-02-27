@@ -25087,7 +25087,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 370,
+      "balance": 371,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25116,7 +25116,7 @@
         18,
         19
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-27T12:26:29.988Z"
     },
     {
       "username": "Akinpelu03",
@@ -25165,7 +25165,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:24:14.322Z"
+      "joinDate": "2025-02-27T12:24:14.322Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
