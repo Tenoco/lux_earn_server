@@ -22035,7 +22035,7 @@
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
       "invited_users": [],
-      "balance": 472,
+      "balance": 492,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22067,7 +22067,8 @@
         10,
         10,
         7,
-        6
+        6,
+        19
       ],
       "lastSpin": "2025-02-26T19:49:05.116Z"
     },
@@ -24685,7 +24686,8 @@
       "completedMissions": [
         19,
         18
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Zubairu Mohammed",
