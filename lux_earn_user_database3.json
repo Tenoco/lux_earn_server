@@ -25590,7 +25590,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 260,
+      "balance": 270,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25611,7 +25611,8 @@
         11,
         10,
         15,
-        7
+        7,
+        2
       ],
       "lastSpin": null
     },
@@ -25645,7 +25646,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T14:49:50.817Z"
+      "joinDate": "2025-02-27T14:49:50.817Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
