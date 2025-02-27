@@ -24676,14 +24676,15 @@
       "inviter_referral_code": "KIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T10:45:10.992Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        19
+      ]
     },
     {
       "username": "Zubairu Mohammed",
@@ -24698,7 +24699,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T10:45:26.391Z"
+      "joinDate": "2025-02-27T10:45:26.391Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
