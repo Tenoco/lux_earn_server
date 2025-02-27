@@ -25049,7 +25049,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
-      "lastSpin": "2025-02-27T12:09:40.253Z",
       "completedMissions": [
         1,
         5,
@@ -25057,7 +25056,8 @@
         4,
         2,
         6
-      ]
+      ],
+      "lastSpin": "2025-02-27T12:09:40.253Z"
     },
     {
       "username": "Temzy",
@@ -25075,6 +25075,21 @@
       "joinDate": "2025-02-27T12:11:30.117Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "kingdogbo48",
+      "email": "dogboking6@gmail.com",
+      "encrypted_password": "a71b70c89da6b582eeff49168e75f899",
+      "referral_code": "KI7UG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:12:25.649Z"
     }
   ],
   "withdrawals": [
