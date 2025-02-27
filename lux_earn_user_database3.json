@@ -5223,11 +5223,12 @@
         "REZ123",
         "Debright",
         "Omofonmwan favour ",
-        "Favour33"
+        "Favour33",
+        "Teemarh 123"
       ],
       "balance": 1035,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T11:50:17.542Z",
@@ -26454,6 +26455,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Teemarh 123",
+      "email": "Saaduhassana8@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "TEO8J",
+      "inviter_referral_code": "LUNH5",
+      "inviter_username": "Luckyprosper091 ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T19:48:23.370Z"
     }
   ],
   "withdrawals": [
