@@ -25047,11 +25047,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Chiski68"
+        "Chiski68",
+        "Joyous"
       ],
       "balance": 85,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25394,6 +25395,21 @@
       "joinDate": "2025-02-27T13:44:45.121Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Joyous",
+      "email": "lucahernandez09@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "JOWIF",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T13:46:06.618Z"
     }
   ],
   "withdrawals": [
