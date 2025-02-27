@@ -23862,6 +23862,21 @@
         17
       ],
       "lastSpin": "2025-02-23T06:29:16.973Z"
+    },
+    {
+      "username": "McFoster",
+      "email": "jademcfoster@gmail.com",
+      "encrypted_password": "f81d1a279564155803aa5a3bb6870b24",
+      "referral_code": "MCD3T",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T05:57:20.062Z"
     }
   ],
   "withdrawals": [
