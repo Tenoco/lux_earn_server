@@ -26558,7 +26558,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:03:12.303Z"
+      "joinDate": "2025-02-27T20:03:12.303Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Izzylaw",
+      "email": "oluwafemiisrael664@gmail.com",
+      "encrypted_password": "f7ea887e2b587d88d1f86ce84104535f",
+      "referral_code": "IZD6G",
+      "inviter_referral_code": "BAK8U",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:07:27.178Z"
     }
   ],
   "withdrawals": [
