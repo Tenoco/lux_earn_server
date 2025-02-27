@@ -23880,6 +23880,43 @@
       "joinDate": "2025-02-27T05:57:20.062Z",
       "completedMissions": [],
       "lastSpin": "2025-02-27T05:57:51.438Z"
+    },
+    {
+      "username": "Seerty",
+      "email": "imkehinde@student.lautech.edu.ng",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SESUD",
+      "inviter_referral_code": "LEUPH",
+      "inviter_username": null,
+      "invited_users": [
+        "Haily",
+        "Ayomide",
+        "Ayob",
+        "Susan",
+        "Susann",
+        "Lolap",
+        "Tobi l",
+        "Deborah",
+        "Debby"
+      ],
+      "balance": 140,
+      "refers": 9,
+      "referralBalance": 900,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:09:32.304Z",
+      "completedMissions": [
+        2,
+        1,
+        4,
+        5,
+        5,
+        8,
+        7,
+        6,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
