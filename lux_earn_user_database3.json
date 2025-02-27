@@ -26405,13 +26405,15 @@
       "inviter_referral_code": "MCD3T",
       "inviter_username": "McFoster",
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T19:20:44.734Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-27T19:21:23.876Z"
     }
   ],
