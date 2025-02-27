@@ -24521,13 +24521,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T09:34:34.448Z",
-      "lastSpin": "2025-02-27T09:35:27.717Z"
+      "lastSpin": "2025-02-27T09:35:27.717Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
