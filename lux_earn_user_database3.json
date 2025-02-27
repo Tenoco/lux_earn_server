@@ -24773,7 +24773,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 280,
+      "balance": 302,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24798,7 +24798,7 @@
         18,
         19
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-27T11:32:01.827Z"
     },
     {
       "username": "Huxeey1",
@@ -24813,7 +24813,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T11:31:43.790Z"
+      "joinDate": "2025-02-27T11:31:43.790Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
