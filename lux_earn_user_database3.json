@@ -23086,12 +23086,22 @@
       "inviter_referral_code": "GEkXS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 80,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T00:37:25.424Z"
+      "joinDate": "2025-02-27T00:37:25.424Z",
+      "completedMissions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
     }
   ],
   "withdrawals": [
