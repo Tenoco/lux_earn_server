@@ -23930,16 +23930,17 @@
       "inviter_referral_code": "BE3ON",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:03:57.656Z",
+      "lastSpin": "2025-02-27T06:04:13.873Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-27T06:04:13.873Z"
+        1,
+        2
+      ]
     },
     {
       "username": "Robinson50",
@@ -23954,7 +23955,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T06:05:57.601Z"
+      "joinDate": "2025-02-27T06:05:57.601Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
