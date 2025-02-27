@@ -25049,10 +25049,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
-      "lastSpin": "2025-02-27T12:09:40.253Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-27T12:09:40.253Z"
+    },
+    {
+      "username": "Temzy",
+      "email": "oluwatetisimifasoranti@gmail.com",
+      "encrypted_password": "21fe8551c643d0b0824ea69bd46c01d4",
+      "referral_code": "TE987",
+      "inviter_referral_code": "FIRQF",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:11:30.117Z"
     }
   ],
   "withdrawals": [
