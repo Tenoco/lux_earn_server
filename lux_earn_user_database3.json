@@ -25708,11 +25708,12 @@
         "Damilola ezekiel",
         "Adeyemi yomi",
         "Habeeb Azeez ",
-        "Ayomide jumon "
+        "Ayomide jumon ",
+        "rukyat bummi"
       ],
       "balance": 270,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26847,7 +26848,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T21:10:28.085Z"
+      "joinDate": "2025-02-27T21:10:28.085Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "rukyat bummi",
+      "email": "bakare07@gmail.com",
+      "encrypted_password": "91ee52913b846398ea97c6f4d9af2723",
+      "referral_code": "RUT78",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:13:00.592Z"
     }
   ],
   "withdrawals": [
