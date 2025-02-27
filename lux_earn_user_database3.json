@@ -23134,12 +23134,15 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T01:03:34.081Z"
+      "joinDate": "2025-02-27T01:03:34.081Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
