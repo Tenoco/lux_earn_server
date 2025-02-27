@@ -23135,11 +23135,12 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": null,
       "invited_users": [
-        "Fatimah3200"
+        "Fatimah3200",
+        "Aishat"
       ],
       "balance": 490,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -23191,6 +23192,21 @@
         1
       ],
       "lastSpin": "2025-02-27T01:25:20.715Z"
+    },
+    {
+      "username": "Aishat",
+      "email": "aishatsani21@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "AIZ0N",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T01:40:22.772Z"
     }
   ],
   "withdrawals": [
