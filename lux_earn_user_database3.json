@@ -24936,7 +24936,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T11:49:10.661Z"
+      "joinDate": "2025-02-27T11:49:10.661Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Heisremy001",
+      "email": "Confidencerich97@gmail.com",
+      "encrypted_password": "9c36316ffd7e38202596098a6790ea41",
+      "referral_code": "HEV3A",
+      "inviter_referral_code": "LEUPH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 162,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T13:44:09.521Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "lastSpin": "2025-02-22T13:51:06.923Z"
     }
   ],
   "withdrawals": [
