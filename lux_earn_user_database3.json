@@ -22467,11 +22467,12 @@
         "Aji03",
         "Sanusi ",
         "Akinpelu03",
-        "Abayomi03 "
+        "Abayomi03 ",
+        "Esther77"
       ],
       "balance": 301,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -25150,6 +25151,21 @@
       "joinDate": "2025-02-27T12:16:25.820Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Esther77",
+      "email": "e44609443@gmail.com",
+      "encrypted_password": "3b0704e94737d1ba8121a02784f67c1e",
+      "referral_code": "ESODT",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:24:14.322Z"
     }
   ],
   "withdrawals": [
