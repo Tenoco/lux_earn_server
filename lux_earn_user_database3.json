@@ -23579,7 +23579,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T04:32:39.677Z"
+      "joinDate": "2025-02-27T04:32:39.677Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "horlarbeekay001@gmail.com",
+      "email": "horlarbeekay001@gmail.com",
+      "encrypted_password": "7aa505709522698f00131a6ac70ce42c",
+      "referral_code": "HOF4M",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T05:02:19.090Z"
     }
   ],
   "withdrawals": [
