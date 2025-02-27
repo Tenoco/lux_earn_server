@@ -25705,11 +25705,12 @@
       "invited_users": [
         "Dayo33",
         "Funkeakinwunmi",
-        "Damilola ezekiel"
+        "Damilola ezekiel",
+        "Adeyemi yomi"
       ],
       "balance": 270,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26793,7 +26794,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T21:03:37.305Z"
+      "joinDate": "2025-02-27T21:03:37.305Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adeyemi yomi",
+      "email": "ekundayoadefuye@gmail.com",
+      "encrypted_password": "6136f0c8bb67f99222acb450e577e9d3",
+      "referral_code": "ADEHD",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:05:36.077Z"
     }
   ],
   "withdrawals": [
