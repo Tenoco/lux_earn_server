@@ -25710,11 +25710,12 @@
         "Habeeb Azeez ",
         "Ayomide jumon ",
         "rukyat bummi",
-        "Ibrahim22"
+        "Ibrahim22",
+        "Tosin50"
       ],
       "balance": 270,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26896,6 +26897,21 @@
       "joinDate": "2025-02-27T21:14:50.030Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tosin50",
+      "email": "hollygoldempire111@gmail.com",
+      "encrypted_password": "ba2871a1a70e94509eef0306e6ba22f1",
+      "referral_code": "TOTHU",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:18:09.712Z"
     }
   ],
   "withdrawals": [
