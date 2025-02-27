@@ -25043,13 +25043,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 5,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
-      "lastSpin": "2025-02-27T12:09:40.253Z"
+      "lastSpin": "2025-02-27T12:09:40.253Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
