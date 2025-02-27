@@ -24214,14 +24214,19 @@
       "invited_users": [
         "Sharex"
       ],
-      "balance": 0,
+      "balance": 121,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:39:55.592Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "lastSpin": "2025-02-27T06:13:49.766Z"
     },
     {
       "username": "Newworlde",
@@ -38633,7 +38638,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-26T21:35:58.968Z"
+      "joinDate": "2025-02-26T21:35:58.968Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
