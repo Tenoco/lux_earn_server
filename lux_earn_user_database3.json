@@ -23936,10 +23936,25 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:03:57.656Z",
-      "lastSpin": "2025-02-27T06:04:13.873Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-27T06:04:13.873Z"
+    },
+    {
+      "username": "Robinson50",
+      "email": "robinsonoffeh@gmail.com",
+      "encrypted_password": "3f4958854ca83cbaa9028986ed6e7fbc",
+      "referral_code": "ROUTE",
+      "inviter_referral_code": "MIQP1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T06:05:57.601Z"
     }
   ],
   "withdrawals": [
