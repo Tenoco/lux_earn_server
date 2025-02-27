@@ -25031,7 +25031,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:08:42.865Z"
+      "joinDate": "2025-02-27T12:08:42.865Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Toski43",
+      "email": "obihenry346@gmail.com",
+      "encrypted_password": "790b38b7d197704562155184ab3b5f39",
+      "referral_code": "TOKOG",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:09:27.060Z"
     }
   ],
   "withdrawals": [
