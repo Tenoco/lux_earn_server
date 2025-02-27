@@ -23883,7 +23883,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 225,
+      "balance": 245,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23903,7 +23903,9 @@
         5,
         16,
         16,
-        6
+        6,
+        6,
+        7
       ],
       "lastSpin": "2025-02-27T05:57:51.438Z"
     },
