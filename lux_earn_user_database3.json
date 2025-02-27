@@ -25043,16 +25043,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 15,
+      "balance": 45,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
+      "lastSpin": "2025-02-27T12:09:40.253Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": "2025-02-27T12:09:40.253Z"
+        1,
+        5,
+        16
+      ]
     },
     {
       "username": "Temzy",
@@ -25067,7 +25069,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:11:30.117Z"
+      "joinDate": "2025-02-27T12:11:30.117Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
