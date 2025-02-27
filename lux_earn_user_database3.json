@@ -24101,10 +24101,12 @@
       "referral_code": "ROUTE",
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ade49"
+      ],
       "balance": 290,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:05:57.601Z",
@@ -25742,6 +25744,21 @@
       "joinDate": "2025-02-27T15:48:19.975Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ade49",
+      "email": "adesimi49@gmail.com",
+      "encrypted_password": "e83a950be00ed0aebf7d209c41aa52e6",
+      "referral_code": "ADPO7",
+      "inviter_referral_code": "ROUTE",
+      "inviter_username": "Robinson50",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T15:59:14.263Z"
     }
   ],
   "withdrawals": [
