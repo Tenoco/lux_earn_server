@@ -24681,7 +24681,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T10:45:10.992Z"
+      "joinDate": "2025-02-27T10:45:10.992Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zubairu Mohammed",
+      "email": "zubairukudu554@gmail.com",
+      "encrypted_password": "deed6160876579293db64d2202c7f6da",
+      "referral_code": "ZUQXG",
+      "inviter_referral_code": "ZUQ0Y ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T10:45:26.391Z"
     }
   ],
   "withdrawals": [
