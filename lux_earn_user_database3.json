@@ -22464,11 +22464,12 @@
       "inviter_username": null,
       "invited_users": [
         "Peacegirl",
-        "Aji03"
+        "Aji03",
+        "Sanusi "
       ],
       "balance": 301,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -25013,7 +25014,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:05:07.567Z"
+      "joinDate": "2025-02-27T12:05:07.567Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sanusi ",
+      "email": "sanusiadeola2011@gmail.com",
+      "encrypted_password": "d8420ee1c07a593566004a1dd88dd207",
+      "referral_code": "SAUFC",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:08:42.865Z"
     }
   ],
   "withdrawals": [
