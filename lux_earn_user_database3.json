@@ -23423,7 +23423,38 @@
       "joinDate": "2025-02-27T03:25:07.272Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Franca5",
+      "email": "francavenerido@gmail.com",
+      "encrypted_password": "52c2a8db3f4e0e147805f8c6c8c47bf1",
+      "referral_code": "FR2E1",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 160,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T15:44:01.831Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        12,
+        14,
+        10,
+        11,
+        13,
+        15
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
