@@ -26680,7 +26680,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:46:09.307Z"
+      "joinDate": "2025-02-27T20:46:09.307Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samuel20",
+      "email": "toyosiakinboluresamuel@gmail.com",
+      "encrypted_password": "8fc652d0c9679fbb034988d934b7eb17",
+      "referral_code": "SAEGT",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 130,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T02:53:42.195Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        13,
+        6,
+        8,
+        7
+      ],
+      "lastSpin": "2025-02-23T02:56:13.223Z"
     }
   ],
   "withdrawals": [
