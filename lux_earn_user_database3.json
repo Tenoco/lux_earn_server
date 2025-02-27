@@ -22463,11 +22463,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Peacegirl"
+        "Peacegirl",
+        "Aji03"
       ],
       "balance": 301,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -24995,7 +24996,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:02:02.046Z"
+      "joinDate": "2025-02-27T12:02:02.046Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aji03",
+      "email": "tosinbammy03@gmail.com",
+      "encrypted_password": "41e045306a56839b475214469d622509",
+      "referral_code": "AJ4IV",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:05:07.567Z"
     }
   ],
   "withdrawals": [
