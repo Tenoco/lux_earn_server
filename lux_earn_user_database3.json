@@ -26039,7 +26039,7 @@
         "Abrahamicgrace1 ",
         "Favorite222"
       ],
-      "balance": 125,
+      "balance": 147,
       "refers": 12,
       "referralBalance": 1200,
       "withdrawalBalance": 0,
@@ -26056,7 +26056,7 @@
         7,
         13
       ],
-      "lastSpin": "2025-02-23T14:54:44.092Z"
+      "lastSpin": "2025-02-27T17:10:36.550Z"
     },
     {
       "username": "Henry37",
@@ -26071,7 +26071,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T17:09:29.388Z"
+      "joinDate": "2025-02-27T17:09:29.388Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
