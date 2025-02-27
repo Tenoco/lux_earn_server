@@ -24653,14 +24653,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 40,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T09:34:34.448Z",
       "completedMissions": [
-        1
+        1,
+        4
       ],
       "lastSpin": "2025-02-27T09:35:27.717Z"
     },
