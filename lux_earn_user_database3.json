@@ -23237,11 +23237,12 @@
         "jame12",
         "hadi",
         "hadi33",
-        "babaliyu20"
+        "babaliyu20",
+        "Aliyu2"
       ],
       "balance": 490,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -24854,6 +24855,21 @@
       "joinDate": "2025-02-27T11:39:05.263Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aliyu2",
+      "email": "AliyuPom14@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "ALJQV",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T11:40:24.352Z"
     }
   ],
   "withdrawals": [
