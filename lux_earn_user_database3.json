@@ -22466,11 +22466,12 @@
         "Peacegirl",
         "Aji03",
         "Sanusi ",
-        "Akinpelu03"
+        "Akinpelu03",
+        "Abayomi03 "
       ],
       "balance": 301,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -25113,6 +25114,21 @@
       "joinDate": "2025-02-27T12:13:04.344Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abayomi03 ",
+      "email": "ajimotokanabayomi@yahoo.com",
+      "encrypted_password": "3c5b1fc27a8339efd82c6bb754550b6c",
+      "referral_code": "ABWHJ",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:16:25.820Z"
     }
   ],
   "withdrawals": [
