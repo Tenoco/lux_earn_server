@@ -24032,11 +24032,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Admin"
+        "Admin",
+        "Victor "
       ],
       "balance": 605,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:57:20.062Z",
@@ -26387,6 +26388,21 @@
       "joinDate": "2025-02-27T19:07:45.448Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victor ",
+      "email": "omomulerinojoayovictor@gmail.com",
+      "encrypted_password": "c25f3380eca1e2d548b5962042a9d8f8",
+      "referral_code": "VICJA",
+      "inviter_referral_code": "MCD3T",
+      "inviter_username": "McFoster",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T19:20:44.734Z"
     }
   ],
   "withdrawals": [
