@@ -4610,7 +4610,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 230,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -4630,7 +4630,7 @@
         14,
         17
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-27T08:29:01.518Z"
     },
     {
       "username": "Oguzie ",
@@ -24280,6 +24280,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T08:20:32.867Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-27T08:21:26.530Z"
     }
   ],
