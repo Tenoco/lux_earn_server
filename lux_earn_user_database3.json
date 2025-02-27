@@ -22465,11 +22465,12 @@
       "invited_users": [
         "Peacegirl",
         "Aji03",
-        "Sanusi "
+        "Sanusi ",
+        "Akinpelu03"
       ],
       "balance": 301,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -25089,7 +25090,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T12:12:25.649Z"
+      "joinDate": "2025-02-27T12:12:25.649Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akinpelu03",
+      "email": "akinpeluolawale091@gmail.com",
+      "encrypted_password": "c5b1a1c49fed6382b2bc97fadfb2cb61",
+      "referral_code": "AKOQ4",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:13:04.344Z"
     }
   ],
   "withdrawals": [
