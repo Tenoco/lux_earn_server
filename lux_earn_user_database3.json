@@ -24274,12 +24274,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T08:20:32.867Z"
+      "joinDate": "2025-02-27T08:20:32.867Z",
+      "lastSpin": "2025-02-27T08:21:26.530Z"
     }
   ],
   "withdrawals": [
