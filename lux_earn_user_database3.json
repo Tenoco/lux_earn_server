@@ -24135,11 +24135,12 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [
-        "Ade49"
+        "Ade49",
+        "Henry37"
       ],
       "balance": 290,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:05:57.601Z",
@@ -26056,6 +26057,21 @@
         13
       ],
       "lastSpin": "2025-02-23T14:54:44.092Z"
+    },
+    {
+      "username": "Henry37",
+      "email": "henrylydia37@gmail.com",
+      "encrypted_password": "3f4958854ca83cbaa9028986ed6e7fbc",
+      "referral_code": "HETNG",
+      "inviter_referral_code": "ROUTE",
+      "inviter_username": "Robinson50",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T17:09:29.388Z"
     }
   ],
   "withdrawals": [
