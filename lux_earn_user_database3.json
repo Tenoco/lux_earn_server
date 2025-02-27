@@ -7468,7 +7468,7 @@
         "malikAcs",
         "imole"
       ],
-      "balance": 215,
+      "balance": 227,
       "refers": 8,
       "referralBalance": 800,
       "withdrawalBalance": 0,
@@ -7485,7 +7485,7 @@
         5,
         2
       ],
-      "lastSpin": "2025-02-25T16:36:44.625Z"
+      "lastSpin": "2025-02-27T05:45:05.459Z"
     },
     {
       "username": "destiny ",
@@ -23816,7 +23816,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T05:44:30.169Z"
+      "joinDate": "2025-02-27T05:44:30.169Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
