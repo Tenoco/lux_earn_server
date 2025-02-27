@@ -23403,7 +23403,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T03:10:57.867Z"
+      "joinDate": "2025-02-27T03:10:57.867Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "lilvon",
+      "email": "codmpredator19@gmail.com",
+      "encrypted_password": "ba19e909a8dafc9e2a0eedf18d3b4098",
+      "referral_code": "LIXZ9",
+      "inviter_referral_code": "MAQEG",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T03:25:07.272Z"
     }
   ],
   "withdrawals": [
