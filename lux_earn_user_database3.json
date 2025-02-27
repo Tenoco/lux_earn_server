@@ -23181,12 +23181,15 @@
       "inviter_referral_code": "HALIV",
       "inviter_username": "hassan",
       "invited_users": [],
-      "balance": 12,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:24:57.061Z",
+      "completedMissions": [
+        1
+      ],
       "lastSpin": "2025-02-27T01:25:20.715Z"
     }
   ],
