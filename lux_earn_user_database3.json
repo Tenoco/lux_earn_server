@@ -26308,14 +26308,15 @@
       "inviter_referral_code": "MOTO9",
       "inviter_username": "moloreofe",
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T18:56:57.139Z",
       "completedMissions": [
-        5
+        5,
+        15
       ]
     },
     {
