@@ -19541,7 +19541,7 @@
         "Fredrick2005",
         "Henry "
       ],
-      "balance": 430,
+      "balance": 450,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -19564,7 +19564,7 @@
         11,
         14
       ],
-      "lastSpin": "2025-02-23T19:18:34.133Z"
+      "lastSpin": "2025-02-27T13:37:53.424Z"
     },
     {
       "username": "Grace",
@@ -25324,7 +25324,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T13:36:28.763Z"
+      "joinDate": "2025-02-27T13:36:28.763Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
