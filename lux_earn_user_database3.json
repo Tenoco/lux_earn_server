@@ -23621,14 +23621,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:14:14.667Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        2
+      ]
     },
     {
       "username": "@ib123@ ",
@@ -23643,7 +23644,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T05:15:14.871Z"
+      "joinDate": "2025-02-27T05:15:14.871Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
