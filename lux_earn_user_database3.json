@@ -23994,7 +23994,7 @@
       "inviter_referral_code": "MIQP1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -24003,9 +24003,12 @@
       "completedMissions": [
         1,
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        16,
+        5,
+        5
+      ]
     },
     {
       "username": "Okoro -Ephenus favour ",
@@ -24124,6 +24127,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:43:57.788Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-27T06:44:21.611Z"
     }
   ],
