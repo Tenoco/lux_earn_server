@@ -22465,7 +22465,7 @@
       "inviter_referral_code": "4I48E",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 260,
+      "balance": 320,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22485,7 +22485,10 @@
         8,
         8,
         8,
-        2
+        2,
+        15,
+        15,
+        15
       ],
       "lastSpin": null
     },
@@ -24559,7 +24562,8 @@
       "joinDate": "2025-02-27T09:44:35.444Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
