@@ -6723,11 +6723,12 @@
         "Ibrahim ",
         "Udoye434",
         "Aaron33",
-        "CalmAyodeji"
+        "CalmAyodeji",
+        "ukaneprecious28"
       ],
       "balance": 138,
-      "refers": 155,
-      "referralBalance": 15500,
+      "refers": 156,
+      "referralBalance": 15600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -39431,6 +39432,21 @@
         2
       ],
       "lastSpin": null
+    },
+    {
+      "username": "ukaneprecious28",
+      "email": "ukaneprecious28@gmail.com",
+      "encrypted_password": "38bb523f81f0dd52314d96163e012862",
+      "referral_code": "UK61S",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T16:42:43.070Z"
     }
   ],
   "withdrawals": [
