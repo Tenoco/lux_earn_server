@@ -17744,7 +17744,7 @@
       "invited_users": [
         "deenpeter8"
       ],
-      "balance": 420,
+      "balance": 440,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -17764,7 +17764,8 @@
         9,
         12,
         17,
-        18
+        18,
+        19
       ],
       "lastSpin": "2025-02-26T08:52:18.672Z"
     },
@@ -25663,7 +25664,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T15:00:01.048Z"
+      "joinDate": "2025-02-27T15:00:01.048Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
