@@ -23658,16 +23658,19 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:16:22.665Z",
       "completedMissions": [
-        1
-      ],
-      "lastSpin": null
+        1,
+        2,
+        4,
+        16,
+        6
+      ]
     },
     {
       "username": "The",
@@ -23682,7 +23685,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T05:19:03.133Z"
+      "joinDate": "2025-02-27T05:19:03.133Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
