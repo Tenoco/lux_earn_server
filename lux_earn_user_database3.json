@@ -25046,10 +25046,12 @@
       "referral_code": "TOKOG",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Chiski68"
+      ],
       "balance": 85,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25308,6 +25310,21 @@
         4
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Chiski68",
+      "email": "ikedigwetochukwu715@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "CHVX8",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T13:36:28.763Z"
     }
   ],
   "withdrawals": [
