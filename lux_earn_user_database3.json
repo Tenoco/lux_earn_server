@@ -25461,7 +25461,7 @@
       "inviter_referral_code": "PEHXW",
       "inviter_username": "Pearl",
       "invited_users": [],
-      "balance": 240,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25476,7 +25476,10 @@
         6,
         6,
         7,
-        19
+        19,
+        18,
+        17,
+        14
       ],
       "lastSpin": null
     },
@@ -25510,7 +25513,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T14:04:42.010Z"
+      "joinDate": "2025-02-27T14:04:42.010Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
