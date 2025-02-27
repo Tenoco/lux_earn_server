@@ -23142,11 +23142,12 @@
         "kuda12",
         "hussinat",
         "kabiru",
-        "kabiru212"
+        "kabiru212",
+        "jame12"
       ],
       "balance": 490,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -23331,7 +23332,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T02:12:38.751Z"
+      "joinDate": "2025-02-27T02:12:38.751Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "jame12",
+      "email": "jame12@gmae.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "JA8MM",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T02:14:08.241Z"
     }
   ],
   "withdrawals": [
