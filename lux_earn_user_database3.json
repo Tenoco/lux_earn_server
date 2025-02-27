@@ -25054,11 +25054,12 @@
       "invited_users": [
         "Chiski68",
         "Joyous",
-        "Jnorm65"
+        "Jnorm65",
+        "Jayden4"
       ],
       "balance": 265,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25609,6 +25610,21 @@
         11
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Jayden4",
+      "email": "johnwick@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "JA2R1",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T14:47:54.360Z"
     }
   ],
   "withdrawals": [
