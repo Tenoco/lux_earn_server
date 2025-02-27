@@ -23882,10 +23882,12 @@
       "referral_code": "MCD3T",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Admin"
+      ],
       "balance": 605,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:57:20.062Z",
@@ -24044,6 +24046,21 @@
       "joinDate": "2025-02-27T06:18:22.756Z",
       "completedMissions": [],
       "lastSpin": "2025-02-27T06:19:05.375Z"
+    },
+    {
+      "username": "Admin",
+      "email": "olayimikasanni@gmail.com",
+      "encrypted_password": "f81d1a279564155803aa5a3bb6870b24",
+      "referral_code": "AD3R4",
+      "inviter_referral_code": "MCD3T",
+      "inviter_username": "McFoster",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T06:31:49.543Z"
     }
   ],
   "withdrawals": [
