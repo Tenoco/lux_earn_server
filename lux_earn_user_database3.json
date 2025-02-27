@@ -26684,7 +26684,8 @@
       "completedMissions": [
         4,
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samuel20",
@@ -26720,6 +26721,21 @@
         15
       ],
       "lastSpin": "2025-02-27T20:47:13.325Z"
+    },
+    {
+      "username": "Ayanakouji",
+      "email": "sg8223061@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "AYL9K",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:53:15.412Z"
     }
   ],
   "withdrawals": [
