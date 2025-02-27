@@ -26646,7 +26646,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:34:56.317Z"
+      "joinDate": "2025-02-27T20:34:56.317Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Victor1227",
+      "email": "olarindevictor1@gmail.com",
+      "encrypted_password": "f8365e60c09cb72ff566abbc48b42f93",
+      "referral_code": "VIG6S",
+      "inviter_referral_code": "SAX07",
+      "inviter_username": "Sam1204",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T08:49:11.229Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
