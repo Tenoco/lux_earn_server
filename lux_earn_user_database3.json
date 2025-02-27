@@ -23134,10 +23134,12 @@
       "referral_code": "HALIV",
       "inviter_referral_code": "JEYIW",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Fatimah3200"
+      ],
       "balance": 490,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -23170,6 +23172,21 @@
         19
       ],
       "lastSpin": "2025-02-27T01:11:09.349Z"
+    },
+    {
+      "username": "Fatimah3200",
+      "email": "fatimahabubakar1218@gmail.com",
+      "encrypted_password": "ac00f370b1507e5f81fe5c4e5078a17f",
+      "referral_code": "FAR91",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T01:24:57.061Z"
     }
   ],
   "withdrawals": [
