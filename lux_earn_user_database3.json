@@ -19309,11 +19309,12 @@
         "Tobiizik ",
         "Sunnychi",
         "Esthychi",
-        "Joyray"
+        "Joyray",
+        "Olatee"
       ],
       "balance": 100,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -24457,6 +24458,21 @@
       "joinDate": "2025-02-27T09:19:12.554Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Olatee",
+      "email": "tunrayojumi19@gmail.com",
+      "encrypted_password": "4118b400e35e22d59445899906b2b367",
+      "referral_code": "OL559",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T09:20:50.350Z"
     }
   ],
   "withdrawals": [
