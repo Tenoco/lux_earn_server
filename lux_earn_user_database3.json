@@ -25050,7 +25050,7 @@
         "Chiski68",
         "Joyous"
       ],
-      "balance": 85,
+      "balance": 115,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -25062,7 +25062,9 @@
         16,
         4,
         2,
-        6
+        6,
+        15,
+        10
       ],
       "lastSpin": "2025-02-27T12:09:40.253Z"
     },
@@ -25481,7 +25483,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T14:02:14.902Z"
+      "joinDate": "2025-02-27T14:02:14.902Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
