@@ -22468,11 +22468,12 @@
         "Sanusi ",
         "Akinpelu03",
         "Abayomi03 ",
-        "Esther77"
+        "Esther77",
+        "Seunyommex "
       ],
       "balance": 301,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -25168,6 +25169,21 @@
       "joinDate": "2025-02-27T12:24:14.322Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Seunyommex ",
+      "email": "seunyommex@yahoo.com",
+      "encrypted_password": "f21ca33fffbd3d58dce092efb3547596",
+      "referral_code": "SEW7D",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:29:45.585Z"
     }
   ],
   "withdrawals": [
