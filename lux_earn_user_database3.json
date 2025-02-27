@@ -23233,11 +23233,12 @@
         "kabiru",
         "kabiru212",
         "jame12",
-        "hadi"
+        "hadi",
+        "hadi33"
       ],
       "balance": 490,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -24816,6 +24817,21 @@
       "joinDate": "2025-02-27T11:31:43.790Z",
       "completedMissions": [],
       "lastSpin": "2025-02-27T11:32:51.256Z"
+    },
+    {
+      "username": "hadi33",
+      "email": "hadiibrahim23@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "HANY1",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T11:37:40.419Z"
     }
   ],
   "withdrawals": [
