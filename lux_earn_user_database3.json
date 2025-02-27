@@ -501,7 +501,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1239,
+      "balance": 1240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -522,7 +522,7 @@
         14,
         17
       ],
-      "lastSpin": "2025-02-25T06:01:32.925Z"
+      "lastSpin": "2025-02-27T09:20:16.000Z"
     },
     {
       "username": "Budemi",
@@ -24454,7 +24454,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T09:19:12.554Z"
+      "joinDate": "2025-02-27T09:19:12.554Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
