@@ -25076,11 +25076,12 @@
         "Joyous",
         "Jnorm65",
         "Jayden4",
-        "Danny24"
+        "Danny24",
+        "Benson06"
       ],
       "balance": 265,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25758,7 +25759,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T15:59:14.263Z"
+      "joinDate": "2025-02-27T15:59:14.263Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Benson06",
+      "email": "benson2@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "BE9QG",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T16:01:23.331Z"
     }
   ],
   "withdrawals": [
