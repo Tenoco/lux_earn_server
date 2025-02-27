@@ -24297,7 +24297,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T08:31:25.799Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-27T08:32:03.981Z"
+    },
+    {
+      "username": "Semi456",
+      "email": "paulprincess672@gmail.com",
+      "encrypted_password": "b3685a71fbea622025b544405996ecad",
+      "referral_code": "SEZCM",
+      "inviter_referral_code": "SE0T6 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T08:32:55.299Z"
     }
   ],
   "withdrawals": [
