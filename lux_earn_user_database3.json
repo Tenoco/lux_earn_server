@@ -25961,7 +25961,7 @@
       "invited_users": [
         "Triplexkris "
       ],
-      "balance": 285,
+      "balance": 305,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -25983,7 +25983,8 @@
         19,
         18,
         17,
-        13
+        13,
+        15
       ],
       "lastSpin": "2025-02-22T14:06:06.696Z"
     },
@@ -26000,7 +26001,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T16:48:21.385Z"
+      "joinDate": "2025-02-27T16:48:21.385Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
