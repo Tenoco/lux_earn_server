@@ -25552,13 +25552,15 @@
       "invited_users": [
         "Gothes1357"
       ],
-      "balance": 0,
+      "balance": 10,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:23:02.136Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -25574,7 +25576,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T14:30:48.779Z"
+      "joinDate": "2025-02-27T14:30:48.779Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
