@@ -24714,12 +24714,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T10:51:41.608Z"
+      "joinDate": "2025-02-27T10:51:41.608Z",
+      "lastSpin": "2025-02-27T10:52:03.443Z"
     }
   ],
   "withdrawals": [
