@@ -23629,7 +23629,8 @@
       "joinDate": "2025-02-27T05:14:14.667Z",
       "completedMissions": [
         2
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "@ib123@ ",
@@ -23647,6 +23648,21 @@
       "joinDate": "2025-02-27T05:15:14.871Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Derri ",
+      "email": "energybad56@gmail.com",
+      "encrypted_password": "66bf4de3eb30f84ae7bb3e2e5854fff4",
+      "referral_code": "DE88W",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T05:16:22.665Z"
     }
   ],
   "withdrawals": [
