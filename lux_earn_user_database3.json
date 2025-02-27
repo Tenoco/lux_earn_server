@@ -24038,11 +24038,12 @@
       "inviter_username": null,
       "invited_users": [
         "Admin",
-        "Victor "
+        "Victor ",
+        "Adesola"
       ],
       "balance": 605,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:57:20.062Z",
@@ -26540,7 +26541,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:02:43.381Z"
+      "joinDate": "2025-02-27T20:02:43.381Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adesola",
+      "email": "fawazsalami835@gmail.com",
+      "encrypted_password": "33045d39b5e7e76ad1ce44ed94736276",
+      "referral_code": "AD0WO",
+      "inviter_referral_code": "MCD3T",
+      "inviter_username": "McFoster",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:03:12.303Z"
     }
   ],
   "withdrawals": [
