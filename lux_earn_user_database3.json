@@ -25055,11 +25055,12 @@
         "Chiski68",
         "Joyous",
         "Jnorm65",
-        "Jayden4"
+        "Jayden4",
+        "Danny24"
       ],
       "balance": 265,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25630,6 +25631,21 @@
       "joinDate": "2025-02-27T14:47:54.360Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Danny24",
+      "email": "janeroyce@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "DAIM3",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T14:49:50.817Z"
     }
   ],
   "withdrawals": [
