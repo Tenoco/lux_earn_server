@@ -26444,12 +26444,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T19:45:13.024Z"
+      "joinDate": "2025-02-27T19:45:13.024Z",
+      "completedMissions": [
+        1
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
