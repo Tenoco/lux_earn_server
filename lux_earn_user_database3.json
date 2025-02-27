@@ -24291,12 +24291,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T08:31:25.799Z"
+      "joinDate": "2025-02-27T08:31:25.799Z",
+      "lastSpin": "2025-02-27T08:32:03.981Z"
     }
   ],
   "withdrawals": [
