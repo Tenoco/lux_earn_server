@@ -25083,11 +25083,12 @@
         "Jnorm65",
         "Jayden4",
         "Danny24",
-        "Benson06"
+        "Benson06",
+        "Jessica11"
       ],
       "balance": 265,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25785,6 +25786,21 @@
       "joinDate": "2025-02-27T16:01:23.331Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jessica11",
+      "email": "terrymiller0@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "JEYQ1",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T16:03:09.623Z"
     }
   ],
   "withdrawals": [
