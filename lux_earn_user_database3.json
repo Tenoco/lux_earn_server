@@ -22807,11 +22807,12 @@
       "inviter_username": "Pearl",
       "invited_users": [
         "Mak23",
-        "Max81"
+        "Max81",
+        "Emma280"
       ],
       "balance": 321,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:59.293Z",
@@ -24439,6 +24440,21 @@
         17
       ],
       "lastSpin": "2025-02-27T08:47:20.108Z"
+    },
+    {
+      "username": "Emma280",
+      "email": "pauliseac445@gmail.com",
+      "encrypted_password": "b3685a71fbea622025b544405996ecad",
+      "referral_code": "EMFJY",
+      "inviter_referral_code": "SE0T6",
+      "inviter_username": "Set26",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T09:19:12.554Z"
     }
   ],
   "withdrawals": [
