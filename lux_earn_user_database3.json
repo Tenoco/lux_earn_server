@@ -23134,7 +23134,7 @@
       "inviter_referral_code": "JEYIW",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -23147,7 +23147,11 @@
         4,
         16,
         5,
-        6
+        6,
+        7,
+        15,
+        10,
+        11
       ]
     }
   ],
