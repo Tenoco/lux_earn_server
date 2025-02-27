@@ -27153,6 +27153,21 @@
         10
       ],
       "lastSpin": "2025-02-23T14:08:20.932Z"
+    },
+    {
+      "username": "Riel1",
+      "email": "gbrlaniekan@gmail.com",
+      "encrypted_password": "6ab199ec02bd37029668bba91af2ec33",
+      "referral_code": "RILTM",
+      "inviter_referral_code": "BE3ON",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T23:27:17.074Z"
     }
   ],
   "withdrawals": [
