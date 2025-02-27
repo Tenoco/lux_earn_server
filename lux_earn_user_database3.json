@@ -23766,12 +23766,13 @@
       "inviter_referral_code": "MIF46",
       "inviter_username": "Michael",
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T05:38:53.850Z"
+      "joinDate": "2025-02-27T05:38:53.850Z",
+      "lastSpin": "2025-02-27T05:39:44.978Z"
     }
   ],
   "withdrawals": [
