@@ -25702,10 +25702,12 @@
       "referral_code": "HO2WL",
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Dayo33"
+      ],
       "balance": 270,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26687,7 +26689,8 @@
         1,
         16,
         5
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Samuel20",
@@ -26740,6 +26743,21 @@
       "joinDate": "2025-02-27T20:53:15.412Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Dayo33",
+      "email": "adefuyeolamiji0@gmail.com",
+      "encrypted_password": "677f50a4b2cee6fff1f2ce835cd62cac",
+      "referral_code": "DABUJ",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:56:30.930Z"
     }
   ],
   "withdrawals": [
