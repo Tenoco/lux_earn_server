@@ -20013,7 +20013,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 218,
+      "balance": 238,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20034,7 +20034,7 @@
         13,
         14
       ],
-      "lastSpin": "2025-02-26T13:41:44.009Z"
+      "lastSpin": "2025-02-27T20:22:42.662Z"
     },
     {
       "username": "Ramat777",
@@ -26593,7 +26593,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:17:10.253Z"
+      "joinDate": "2025-02-27T20:17:10.253Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
