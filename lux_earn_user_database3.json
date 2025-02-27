@@ -23367,7 +23367,28 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T02:20:43.172Z"
+      "joinDate": "2025-02-27T02:20:43.172Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mrs c",
+      "email": "ayomikuolayemi2@gmail.com",
+      "encrypted_password": "4ce6fd99c8a1312f5bea7c281fa5f8c8",
+      "referral_code": "MRZ4V",
+      "inviter_referral_code": "MRFZZ",
+      "inviter_username": "Mr T ",
+      "invited_users": [],
+      "balance": 40,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T00:49:24.019Z",
+      "completedMissions": [
+        14
+      ],
+      "lastSpin": "2025-02-24T00:50:36.782Z"
     }
   ],
   "withdrawals": [
