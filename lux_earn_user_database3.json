@@ -26445,16 +26445,20 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 90,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T19:45:13.024Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        4,
+        16,
+        5
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-27T19:49:21.767Z"
     },
     {
       "username": "Teemarh 123",
@@ -26469,7 +26473,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T19:48:23.370Z"
+      "joinDate": "2025-02-27T19:48:23.370Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
