@@ -23629,16 +23629,29 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 240,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:14:14.667Z",
       "completedMissions": [
-        2
+        2,
+        2,
+        6,
+        5,
+        14,
+        17,
+        17,
+        18,
+        16,
+        13,
+        4,
+        7,
+        10,
+        10
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-27T05:23:51.159Z"
     },
     {
       "username": "@ib123@ ",
