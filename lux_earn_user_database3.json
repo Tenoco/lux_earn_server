@@ -25684,7 +25684,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 40,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25692,9 +25692,10 @@
       "joinDate": "2025-02-27T15:36:55.707Z",
       "completedMissions": [
         20,
-        19
-      ],
-      "lastSpin": null
+        19,
+        5,
+        6
+      ]
     },
     {
       "username": "mabdulyekeen72@gmail.com ",
