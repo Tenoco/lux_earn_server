@@ -22462,10 +22462,12 @@
       "referral_code": "TMBM2",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Peacegirl"
+      ],
       "balance": 301,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
@@ -24979,6 +24981,21 @@
         14
       ],
       "lastSpin": "2025-02-27T11:51:02.707Z"
+    },
+    {
+      "username": "Peacegirl",
+      "email": "peaceajimotokan051@gmail.com",
+      "encrypted_password": "1c45962365f749d04be50e8d5db39bd1",
+      "referral_code": "PEB35",
+      "inviter_referral_code": "TMBM2",
+      "inviter_username": "Tmamagirl03",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T12:02:02.046Z"
     }
   ],
   "withdrawals": [
