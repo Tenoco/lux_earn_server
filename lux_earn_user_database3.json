@@ -25050,11 +25050,12 @@
       "inviter_username": null,
       "invited_users": [
         "Chiski68",
-        "Joyous"
+        "Joyous",
+        "Jnorm65"
       ],
       "balance": 265,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -25495,6 +25496,21 @@
       "joinDate": "2025-02-27T14:02:14.902Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jnorm65",
+      "email": "jamesbrown@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "JNO1U",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T14:04:42.010Z"
     }
   ],
   "withdrawals": [
