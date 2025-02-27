@@ -39237,6 +39237,30 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "beejaydaniel",
+      "email": "benjamindaniel938@gmail.com",
+      "encrypted_password": "a1a8bbe35109cccb3e89c7a6cbea9769",
+      "referral_code": "BEH4S",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 205,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:30:10.157Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        3,
+        5,
+        6
+      ],
+      "lastSpin": "2025-02-21T12:38:27.325Z"
     }
   ],
   "withdrawals": [
