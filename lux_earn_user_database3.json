@@ -25707,11 +25707,12 @@
         "Funkeakinwunmi",
         "Damilola ezekiel",
         "Adeyemi yomi",
-        "Habeeb Azeez "
+        "Habeeb Azeez ",
+        "Ayomide jumon "
       ],
       "balance": 270,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26829,7 +26830,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T21:07:42.584Z"
+      "joinDate": "2025-02-27T21:07:42.584Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ayomide jumon ",
+      "email": "ayobamibakare077@gmail.com",
+      "encrypted_password": "03a177dbc8edb35a35630f3841fcac61",
+      "referral_code": "AYD74",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:10:28.085Z"
     }
   ],
   "withdrawals": [
