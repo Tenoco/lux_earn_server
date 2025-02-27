@@ -22813,7 +22813,7 @@
         "Max81",
         "Emma280"
       ],
-      "balance": 363,
+      "balance": 393,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -22832,7 +22832,8 @@
         9,
         10,
         16,
-        15
+        15,
+        12
       ],
       "lastSpin": "2025-02-27T09:32:15.202Z"
     },
@@ -24527,10 +24528,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T09:34:34.448Z",
-      "lastSpin": "2025-02-27T09:35:27.717Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": "2025-02-27T09:35:27.717Z"
     }
   ],
   "withdrawals": [
