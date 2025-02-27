@@ -23206,7 +23206,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T01:40:22.772Z"
+      "joinDate": "2025-02-27T01:40:22.772Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tommzyjoe",
+      "email": "joshuatomiwa178@gmail.com",
+      "encrypted_password": "e8e450e06c2e42192dca7af18f2909fa",
+      "referral_code": "TOF6V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T01:41:42.308Z"
     }
   ],
   "withdrawals": [
