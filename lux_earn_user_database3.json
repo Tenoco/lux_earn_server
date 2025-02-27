@@ -24016,7 +24016,7 @@
       "invited_users": [
         "Sharex"
       ],
-      "balance": 121,
+      "balance": 381,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -24026,7 +24026,20 @@
         1,
         2,
         2,
-        2
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        19,
+        18,
+        18,
+        18,
+        18,
+        18
       ],
       "lastSpin": "2025-02-27T06:13:49.766Z"
     },
@@ -24060,7 +24073,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T06:31:49.543Z"
+      "joinDate": "2025-02-27T06:31:49.543Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
