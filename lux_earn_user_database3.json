@@ -22433,14 +22433,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 11,
+      "balance": 21,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T21:22:41.126Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-26T21:31:10.424Z"
     },
@@ -24013,7 +24014,8 @@
         6,
         11,
         10
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Okoro -Ephenus favour ",
