@@ -3007,11 +3007,12 @@
       "inviter_referral_code": "JE7LQ",
       "inviter_username": "Jerry14",
       "invited_users": [
-        "Smith "
+        "Smith ",
+        "Kinggovernor"
       ],
       "balance": 437,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T10:47:27.566Z",
@@ -26298,6 +26299,21 @@
         10
       ],
       "lastSpin": "2025-02-24T04:44:58.547Z"
+    },
+    {
+      "username": "Kinggovernor",
+      "email": "tochukwu.emmanuel.ikeh.john@gmail.com",
+      "encrypted_password": "cd7a6e07d715bd5cb4db28f73931c05d",
+      "referral_code": "KI280",
+      "inviter_referral_code": "MOTO9",
+      "inviter_username": "moloreofe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T18:56:57.139Z"
     }
   ],
   "withdrawals": [
