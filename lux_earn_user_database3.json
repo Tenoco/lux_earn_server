@@ -22034,10 +22034,12 @@
       "referral_code": "JOR3R",
       "inviter_referral_code": "TER48",
       "inviter_username": "Temmychi",
-      "invited_users": [],
+      "invited_users": [
+        "Lonelyjay"
+      ],
       "balance": 492,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T19:39:38.656Z",
@@ -24720,7 +24722,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T10:51:41.608Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-27T10:52:03.443Z"
+    },
+    {
+      "username": "Lonelyjay",
+      "email": "joyray1258@gmail.com",
+      "encrypted_password": "8beacd3861df518a1e552005254559f1",
+      "referral_code": "LOXRV",
+      "inviter_referral_code": "JOR3R",
+      "inviter_username": "Joyray",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T10:54:54.896Z"
     }
   ],
   "withdrawals": [
