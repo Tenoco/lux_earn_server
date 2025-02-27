@@ -8780,13 +8780,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T17:54:33.021Z",
-      "completedMissions": [],
+      "completedMissions": [
+        1,
+        2
+      ],
       "lastSpin": null
     },
     {
@@ -23674,7 +23677,8 @@
         12,
         18,
         19
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "The",
