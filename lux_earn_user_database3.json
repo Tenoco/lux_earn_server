@@ -7548,11 +7548,12 @@
       "inviter_referral_code": "COSCL",
       "inviter_username": null,
       "invited_users": [
-        "Zeo"
+        "Zeo",
+        "The"
       ],
       "balance": 255,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:54:13.510Z",
@@ -23665,7 +23666,23 @@
       "joinDate": "2025-02-27T05:16:22.665Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "The",
+      "email": "ajayiayomiposi43@gmail.com",
+      "encrypted_password": "5179c2cfa34ba8f90e0bf74c5676cd1d",
+      "referral_code": "TH3FK",
+      "inviter_referral_code": "RIK3K",
+      "inviter_username": "Risky01",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T05:19:03.133Z"
     }
   ],
   "withdrawals": [
