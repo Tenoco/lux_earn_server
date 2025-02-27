@@ -465,11 +465,12 @@
       "inviter_username": "JamesCharles",
       "invited_users": [
         "Latex ",
-        "Fekaangaliambeelouis "
+        "Fekaangaliambeelouis ",
+        "Maryfrank"
       ],
       "balance": 271,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:40.263Z",
@@ -23753,7 +23754,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T05:33:41.353Z"
+      "joinDate": "2025-02-27T05:33:41.353Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Maryfrank",
+      "email": "fekaangamary@gmail.com",
+      "encrypted_password": "3a4e19284bc4d5a74d57c29a8953e651",
+      "referral_code": "MADI2",
+      "inviter_referral_code": "MIF46",
+      "inviter_username": "Michael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T05:38:53.850Z"
     }
   ],
   "withdrawals": [
