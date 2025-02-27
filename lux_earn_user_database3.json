@@ -25706,11 +25706,12 @@
         "Dayo33",
         "Funkeakinwunmi",
         "Damilola ezekiel",
-        "Adeyemi yomi"
+        "Adeyemi yomi",
+        "Habeeb Azeez "
       ],
       "balance": 270,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26811,7 +26812,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T21:05:36.077Z"
+      "joinDate": "2025-02-27T21:05:36.077Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Habeeb Azeez ",
+      "email": "habeeb2000habeeb12@gmail.com",
+      "encrypted_password": "4724fb73cdb353c7b9a2ff49f1e7b5b2",
+      "referral_code": "HAD97",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T21:07:42.584Z"
     }
   ],
   "withdrawals": [
