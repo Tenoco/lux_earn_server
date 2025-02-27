@@ -23137,11 +23137,12 @@
       "invited_users": [
         "Fatimah3200",
         "Aishat",
-        "nankadijat"
+        "nankadijat",
+        "masurat"
       ],
       "balance": 490,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -23241,7 +23242,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T01:44:04.979Z"
+      "joinDate": "2025-02-27T01:44:04.979Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "masurat",
+      "email": "masurajame12@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "MASRV",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T01:47:09.127Z"
     }
   ],
   "withdrawals": [
