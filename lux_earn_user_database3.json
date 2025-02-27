@@ -25703,11 +25703,12 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [
-        "Dayo33"
+        "Dayo33",
+        "Funkeakinwunmi"
       ],
       "balance": 270,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T14:37:03.341Z",
@@ -26757,7 +26758,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-27T20:56:30.930Z"
+      "joinDate": "2025-02-27T20:56:30.930Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Funkeakinwunmi",
+      "email": "olamijiadefuye@gmail.com",
+      "encrypted_password": "5f24412d5d67c59649cccea30c134120",
+      "referral_code": "FUGDO",
+      "inviter_referral_code": "HO2WL",
+      "inviter_username": "Hollygold",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-27T20:58:42.690Z"
     }
   ],
   "withdrawals": [
