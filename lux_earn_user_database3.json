@@ -24317,11 +24317,12 @@
       "inviter_username": null,
       "invited_users": [
         "Ade49",
-        "Henry37"
+        "Henry37",
+        "Akpojoto50"
       ],
       "balance": 290,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T06:05:57.601Z",
@@ -29243,6 +29244,21 @@
       "joinDate": "2025-02-28T14:11:58.799Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akpojoto50",
+      "email": "robinsonoffeh3@gmail.com",
+      "encrypted_password": "3f4958854ca83cbaa9028986ed6e7fbc",
+      "referral_code": "AKI5C",
+      "inviter_referral_code": "ROUTE",
+      "inviter_username": "Robinson50",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T14:40:26.030Z"
     }
   ],
   "withdrawals": [
