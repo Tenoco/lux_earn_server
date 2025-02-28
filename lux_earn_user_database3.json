@@ -28131,10 +28131,12 @@
       "referral_code": "AY25N",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Yusif"
+      ],
       "balance": 720,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T07:40:05.028Z",
@@ -28285,6 +28287,21 @@
       "joinDate": "2025-02-28T08:08:22.656Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yusif",
+      "email": "yusifayubasaidkondiko@gmail.com",
+      "encrypted_password": "99ced88309093190180fa8bb4917bdde",
+      "referral_code": "YUH05",
+      "inviter_referral_code": "AY25N",
+      "inviter_username": "Ayuba",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T08:13:57.312Z"
     }
   ],
   "withdrawals": [
