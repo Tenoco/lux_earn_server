@@ -3369,7 +3369,7 @@
       "inviter_referral_code": "SHNDD",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 57,
+      "balance": 87,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3377,7 +3377,8 @@
       "joinDate": "2025-02-25T10:05:14.866Z",
       "completedMissions": [
         1,
-        2
+        2,
+        12
       ],
       "lastSpin": "2025-02-28T11:53:38.216Z"
     },
