@@ -3032,7 +3032,7 @@
         "Smith ",
         "Kinggovernor"
       ],
-      "balance": 497,
+      "balance": 517,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -3057,7 +3057,8 @@
         18,
         21,
         20,
-        19
+        19,
+        15
       ],
       "lastSpin": "2025-02-26T17:49:23.469Z"
     },
@@ -28616,6 +28617,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T10:52:15.945Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T11:08:07.264Z"
     },
     {
