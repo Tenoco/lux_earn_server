@@ -27914,11 +27914,12 @@
       "inviter_username": "Abisco22",
       "invited_users": [
         "Ritaosaz",
-        "Ozegberita"
+        "Ozegberita",
+        "Olijeff"
       ],
       "balance": 365,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T06:42:40.653Z",
@@ -28048,6 +28049,21 @@
         2
       ],
       "lastSpin": "2025-02-23T11:30:46.144Z"
+    },
+    {
+      "username": "Olijeff",
+      "email": "iwddy9glc5@dygovil.com",
+      "encrypted_password": "5add8c1d6c4dcf70020f3a091c05aa0e",
+      "referral_code": "OLM3P",
+      "inviter_referral_code": "PRSDX",
+      "inviter_username": "princemacdonz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T07:24:43.186Z"
     }
   ],
   "withdrawals": [
