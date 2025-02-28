@@ -11658,11 +11658,12 @@
         "Samuel1 ",
         "Dommy ",
         "Igbaisaac",
-        "Meemoses"
+        "Meemoses",
+        "@anichideracrescent042"
       ],
       "balance": 341,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -29700,7 +29701,23 @@
       "joinDate": "2025-02-28T17:45:31.403Z",
       "completedMissions": [
         21
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "@anichideracrescent042",
+      "email": "crescentchidexinvestment@gmail.com",
+      "encrypted_password": "85f44074e3e3efe9652767f2be7c2fb5",
+      "referral_code": "@AWEN",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T17:50:49.581Z"
     }
   ],
   "withdrawals": [
