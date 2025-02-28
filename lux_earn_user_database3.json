@@ -25235,11 +25235,12 @@
         "Danny24",
         "Benson06",
         "Jessica11",
-        "Pelumi5q"
+        "Pelumi5q",
+        "Riley43"
       ],
       "balance": 265,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -28266,6 +28267,21 @@
       "joinDate": "2025-02-28T08:06:14.879Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Riley43",
+      "email": "billycyrus@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "RIGAX",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T08:08:22.656Z"
     }
   ],
   "withdrawals": [
