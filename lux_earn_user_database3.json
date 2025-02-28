@@ -8098,7 +8098,7 @@
       "inviter_referral_code": "FAWR7",
       "inviter_username": "Favourites ",
       "invited_users": [],
-      "balance": 583,
+      "balance": 603,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8134,7 +8134,7 @@
         19,
         19
       ],
-      "lastSpin": "2025-02-27T10:02:25.542Z"
+      "lastSpin": "2025-02-28T10:59:23.828Z"
     },
     {
       "username": "Esther042",
@@ -28629,7 +28629,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T10:52:27.221Z"
+      "joinDate": "2025-02-28T10:52:27.221Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
