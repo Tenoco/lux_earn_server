@@ -3157,14 +3157,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 11,
+      "balance": 21,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T09:48:08.123Z",
       "completedMissions": [
-        2
+        2,
+        7
       ],
       "lastSpin": "2025-02-26T22:45:21.080Z"
     },
