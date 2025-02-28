@@ -3953,7 +3953,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 250,
+      "balance": 280,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3976,7 +3976,7 @@
         14,
         17
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-28T15:20:03.851Z"
     },
     {
       "username": "Nwulu",
@@ -29448,6 +29448,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T15:14:32.012Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T15:15:00.545Z"
     }
   ],
