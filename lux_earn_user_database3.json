@@ -24580,7 +24580,7 @@
       "invited_users": [
         "SCIBAB"
       ],
-      "balance": 225,
+      "balance": 250,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -24602,7 +24602,7 @@
         7,
         7
       ],
-      "lastSpin": "2025-02-27T08:39:22.484Z"
+      "lastSpin": "2025-02-28T08:52:46.012Z"
     },
     {
       "username": "Omotayo1990",
@@ -28375,6 +28375,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T08:51:12.508Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T08:51:34.568Z"
     }
   ],
