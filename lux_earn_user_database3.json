@@ -19389,11 +19389,12 @@
         "Sunnychi",
         "Esthychi",
         "Joyray",
-        "Olatee"
+        "Olatee",
+        "Kayleb flash"
       ],
       "balance": 100,
-      "refers": 11,
-      "referralBalance": 1100,
+      "refers": 12,
+      "referralBalance": 1200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:21:30.976Z",
@@ -27627,6 +27628,21 @@
         20
       ],
       "lastSpin": "2025-02-28T05:25:02.811Z"
+    },
+    {
+      "username": "Kayleb flash",
+      "email": "calebayanwale68@gmail.com",
+      "encrypted_password": "23efe9c3a9c54fec5eb02f8f33f8559d",
+      "referral_code": "KA0IJ",
+      "inviter_referral_code": "TER48",
+      "inviter_username": "Temmychi",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T05:32:11.886Z"
     }
   ],
   "withdrawals": [
