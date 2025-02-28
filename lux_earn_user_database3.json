@@ -3377,10 +3377,12 @@
       "referral_code": "BL95C",
       "inviter_referral_code": "SHNDD",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "RUTH "
+      ],
       "balance": 87,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T10:05:14.866Z",
@@ -29072,6 +29074,21 @@
         8
       ],
       "lastSpin": "2025-02-28T13:22:30.037Z"
+    },
+    {
+      "username": "RUTH ",
+      "email": "princessruzzy484@gmail.com",
+      "encrypted_password": "46dce5f2f0e61edb70931a00d00a464e",
+      "referral_code": "RUQZW",
+      "inviter_referral_code": "BL95C",
+      "inviter_username": "BLESSEDME",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T13:37:08.457Z"
     }
   ],
   "withdrawals": [
