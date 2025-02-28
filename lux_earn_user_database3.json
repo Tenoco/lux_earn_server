@@ -22868,7 +22868,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 48,
+      "balance": 56,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -22877,7 +22877,7 @@
       "completedMissions": [
         16
       ],
-      "lastSpin": "2025-02-26T21:30:39.175Z"
+      "lastSpin": "2025-02-28T17:37:21.237Z"
     },
     {
       "username": "LOVERBOY",
@@ -29659,7 +29659,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T17:25:35.049Z",
-      "lastSpin": "2025-02-28T17:28:10.491Z",
       "completedMissions": [
         2,
         1,
@@ -29682,7 +29681,8 @@
         20,
         21,
         19
-      ]
+      ],
+      "lastSpin": "2025-02-28T17:28:10.491Z"
     }
   ],
   "withdrawals": [
