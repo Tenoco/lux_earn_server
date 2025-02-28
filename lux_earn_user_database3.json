@@ -14202,7 +14202,7 @@
       "inviter_referral_code": "BE30N",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 395,
+      "balance": 405,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -14231,7 +14231,7 @@
         15,
         18
       ],
-      "lastSpin": "2025-02-26T02:43:17.170Z"
+      "lastSpin": "2025-02-28T03:24:39.871Z"
     },
     {
       "username": "EL Matadore ",
@@ -27511,7 +27511,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T03:20:08.806Z"
+      "joinDate": "2025-02-28T03:20:08.806Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
