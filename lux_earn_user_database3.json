@@ -29482,6 +29482,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Chris",
+      "email": "ce137071@gmail.com",
+      "encrypted_password": "2cf44e33964d9d9cba55b69a9ec60b0b",
+      "referral_code": "CH78A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T15:27:56.646Z"
     }
   ],
   "withdrawals": [
