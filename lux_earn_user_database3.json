@@ -23346,11 +23346,12 @@
         "babaliyu20",
         "Aliyu2",
         "galimatu12",
-        "humjame"
+        "humjame",
+        "humjame22"
       ],
       "balance": 490,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T01:03:34.081Z",
@@ -27215,6 +27216,21 @@
       "joinDate": "2025-02-27T23:28:28.650Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "humjame22",
+      "email": "alimmm221@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "HU65A",
+      "inviter_referral_code": "HALIV",
+      "inviter_username": "hassan",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T00:02:45.838Z"
     }
   ],
   "withdrawals": [
