@@ -29258,7 +29258,40 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T14:40:26.030Z"
+      "joinDate": "2025-02-28T14:40:26.030Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Laytua1",
+      "email": "lateefataluko1994@gmail.com",
+      "encrypted_password": "0d3459e07f0f040ce15715f55cc7ba33",
+      "referral_code": "LAGV5",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": "Sirblack",
+      "invited_users": [],
+      "balance": 380,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T03:16:48.929Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        4,
+        10,
+        15,
+        11,
+        12,
+        13
+      ],
+      "lastSpin": "2025-02-24T04:26:49.124Z"
     }
   ],
   "withdrawals": [
