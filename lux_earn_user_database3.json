@@ -28005,7 +28005,44 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T07:05:33.057Z"
+      "joinDate": "2025-02-28T07:05:33.057Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "ghgc",
+      "email": "onihorse06@gmail.com",
+      "encrypted_password": "3dbe00a167653a1aaee01d93e77e730e",
+      "referral_code": "GHPUW",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [
+        "mikumoosamu",
+        "hhhhh",
+        "aaaaa",
+        "ssssss"
+      ],
+      "balance": 285,
+      "refers": 4,
+      "referralBalance": 400,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T11:29:31.033Z",
+      "completedMissions": [
+        1,
+        10,
+        14,
+        12,
+        7,
+        7,
+        6,
+        6,
+        4,
+        5,
+        5,
+        2
+      ],
+      "lastSpin": "2025-02-23T11:30:46.144Z"
     }
   ],
   "withdrawals": [
