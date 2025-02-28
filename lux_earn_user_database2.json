@@ -39559,7 +39559,36 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T06:42:40.653Z"
+      "joinDate": "2025-02-28T06:42:40.653Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Akano",
+      "email": "241davidfelix@gmail.com",
+      "encrypted_password": "b81bf3541b6229c8c50edd2c2fc71f64",
+      "referral_code": "AKVRR",
+      "inviter_referral_code": "OFP5T",
+      "inviter_username": "officialrollex",
+      "invited_users": [],
+      "balance": 250,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:40:10.588Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
