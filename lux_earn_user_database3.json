@@ -22990,11 +22990,12 @@
       "invited_users": [
         "Mak23",
         "Max81",
-        "Emma280"
+        "Emma280",
+        "Tota"
       ],
       "balance": 553,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T09:24:59.293Z",
@@ -27879,6 +27880,21 @@
       "joinDate": "2025-02-28T06:33:41.262Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tota",
+      "email": "princessssrah@icloud.com",
+      "encrypted_password": "96d149d2832a709f347fa07c5b414869",
+      "referral_code": "TON62",
+      "inviter_referral_code": "SE0T6",
+      "inviter_username": "Set26",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T06:40:56.306Z"
     }
   ],
   "withdrawals": [
