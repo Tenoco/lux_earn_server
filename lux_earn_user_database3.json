@@ -29653,13 +29653,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T17:25:35.049Z",
-      "lastSpin": "2025-02-28T17:28:10.491Z"
+      "lastSpin": "2025-02-28T17:28:10.491Z",
+      "completedMissions": [
+        2
+      ]
     }
   ],
   "withdrawals": [
