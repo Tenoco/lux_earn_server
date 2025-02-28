@@ -27769,7 +27769,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T06:10:33.097Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T06:10:46.918Z"
+    },
+    {
+      "username": "Independent",
+      "email": "yusufadua28@gmail.com",
+      "encrypted_password": "28686a391549daa0a52dfc222fc72d23",
+      "referral_code": "INUP4",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T06:12:18.848Z"
     }
   ],
   "withdrawals": [
