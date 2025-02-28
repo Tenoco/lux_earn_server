@@ -29996,12 +29996,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T20:02:01.636Z"
+      "joinDate": "2025-02-28T20:02:01.636Z",
+      "lastSpin": "2025-02-28T20:06:22.323Z"
     }
   ],
   "withdrawals": [
