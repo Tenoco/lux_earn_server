@@ -25059,7 +25059,7 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 270,
+      "balance": 290,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -25081,7 +25081,8 @@
         14,
         13,
         12,
-        11
+        11,
+        21
       ],
       "lastSpin": null
     },
@@ -29982,7 +29983,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T19:28:22.708Z"
+      "joinDate": "2025-02-28T19:28:22.708Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
