@@ -9217,14 +9217,15 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 10,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T04:45:06.627Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": null
     },
