@@ -27907,10 +27907,12 @@
       "referral_code": "PRSDX",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Ritaosaz"
+      ],
       "balance": 365,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T06:42:40.653Z",
@@ -27954,6 +27956,21 @@
       "joinDate": "2025-02-28T06:44:29.875Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ritaosaz",
+      "email": "gacounty995@gmail.com",
+      "encrypted_password": "5add8c1d6c4dcf70020f3a091c05aa0e",
+      "referral_code": "RIFQY",
+      "inviter_referral_code": "PRSDX",
+      "inviter_username": "princemacdonz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T07:02:17.249Z"
     }
   ],
   "withdrawals": [
