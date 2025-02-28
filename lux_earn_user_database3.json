@@ -28469,14 +28469,16 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": "championTheGreat",
       "invited_users": [],
-      "balance": 70,
+      "balance": 110,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:23:44.615Z",
       "completedMissions": [
-        21
+        21,
+        20,
+        19
       ],
       "lastSpin": null
     }
