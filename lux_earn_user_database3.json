@@ -29030,13 +29030,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 22,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T13:16:27.879Z",
-      "lastSpin": "2025-02-28T13:17:00.615Z"
+      "lastSpin": "2025-02-28T13:17:00.615Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
