@@ -28807,14 +28807,18 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T12:45:01.433Z",
       "completedMissions": [
-        1
+        1,
+        2,
+        2,
+        4,
+        16
       ],
       "lastSpin": null
     },
