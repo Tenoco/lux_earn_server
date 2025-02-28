@@ -25461,7 +25461,7 @@
       "invited_users": [
         "Joshua Victoria "
       ],
-      "balance": 210,
+      "balance": 220,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -25478,7 +25478,8 @@
         19,
         18,
         17,
-        14
+        14,
+        7
       ],
       "lastSpin": "2025-02-27T22:12:38.422Z"
     },
@@ -27642,7 +27643,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T05:32:11.886Z"
+      "joinDate": "2025-02-28T05:32:11.886Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
