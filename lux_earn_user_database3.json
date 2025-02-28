@@ -28612,7 +28612,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T10:52:15.945Z"
+      "joinDate": "2025-02-28T10:52:15.945Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Teeboi450",
+      "email": "taiwojayeoba23@gmail.com",
+      "encrypted_password": "90445ee46b6614825cb100a7cc00f64f",
+      "referral_code": "TESI9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T10:52:27.221Z"
     }
   ],
   "withdrawals": [
