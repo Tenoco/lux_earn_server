@@ -29496,7 +29496,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T15:27:56.646Z"
+      "joinDate": "2025-02-28T15:27:56.646Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "nuraagyou",
+      "email": "nurag80@gmail.com",
+      "encrypted_password": "c09b360dc2101f1fb48f380f23c2ade0",
+      "referral_code": "NUP5F",
+      "inviter_referral_code": "KIIO1",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T15:29:35.482Z"
     }
   ],
   "withdrawals": [
