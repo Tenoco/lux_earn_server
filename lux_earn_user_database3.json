@@ -30136,13 +30136,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 18,
+      "balance": 28,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T21:29:17.045Z",
-      "lastSpin": "2025-02-28T21:30:43.107Z"
+      "lastSpin": "2025-02-28T21:30:43.107Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
