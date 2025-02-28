@@ -15087,7 +15087,7 @@
       "inviter_referral_code": "COS2L",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 450,
+      "balance": 470,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15119,7 +15119,7 @@
         10,
         18
       ],
-      "lastSpin": "2025-02-26T04:53:14.479Z"
+      "lastSpin": "2025-02-28T09:22:15.027Z"
     },
     {
       "username": "Ogunlade1",
@@ -28446,7 +28446,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T09:14:49.170Z"
+      "joinDate": "2025-02-28T09:14:49.170Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
