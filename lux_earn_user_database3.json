@@ -2360,7 +2360,7 @@
         "Usman",
         "Shafiyi "
       ],
-      "balance": 385,
+      "balance": 405,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -2386,7 +2386,8 @@
         17,
         15,
         15,
-        20
+        20,
+        21
       ],
       "lastSpin": "2025-02-27T10:57:29.022Z"
     },
@@ -28281,7 +28282,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T08:08:22.656Z"
+      "joinDate": "2025-02-28T08:08:22.656Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
