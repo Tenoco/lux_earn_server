@@ -6724,11 +6724,12 @@
         "Udoye434",
         "Aaron33",
         "CalmAyodeji",
-        "ukaneprecious28"
+        "ukaneprecious28",
+        "princemacdonz"
       ],
       "balance": 138,
-      "refers": 156,
-      "referralBalance": 15600,
+      "refers": 157,
+      "referralBalance": 15700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T14:10:32.987Z",
@@ -39544,6 +39545,21 @@
         6
       ],
       "lastSpin": "2025-02-21T00:14:32.302Z"
+    },
+    {
+      "username": "princemacdonz",
+      "email": "ifwe0874@gmail.com",
+      "encrypted_password": "928e258cda18f04b293dbd0345bca61c",
+      "referral_code": "PRSDX",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T06:42:40.653Z"
     }
   ],
   "withdrawals": [
