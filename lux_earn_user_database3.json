@@ -25835,7 +25835,7 @@
         "Ibrahim22",
         "Tosin50"
       ],
-      "balance": 270,
+      "balance": 295,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -25859,7 +25859,7 @@
         7,
         2
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-28T11:20:50.883Z"
     },
     {
       "username": "Jayden4",
@@ -28652,6 +28652,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T11:17:30.509Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T11:17:51.367Z"
     }
   ],
