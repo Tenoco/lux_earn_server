@@ -28135,11 +28135,12 @@
       "inviter_username": null,
       "invited_users": [
         "Yusif",
-        "Youseep"
+        "Youseep",
+        "Murtala"
       ],
       "balance": 720,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T07:40:05.028Z",
@@ -28322,7 +28323,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T08:31:52.778Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T08:32:26.339Z"
+    },
+    {
+      "username": "Murtala",
+      "email": "murtalaayuba2025@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "MUDJF",
+      "inviter_referral_code": "AY25N",
+      "inviter_username": "Ayuba",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T08:42:30.641Z"
     }
   ],
   "withdrawals": [
