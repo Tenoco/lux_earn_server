@@ -24273,14 +24273,15 @@
       "inviter_referral_code": "MIF46",
       "inviter_username": "Michael",
       "invited_users": [],
-      "balance": 23,
+      "balance": 33,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T05:38:53.850Z",
       "completedMissions": [
-        1
+        1,
+        2
       ],
       "lastSpin": "2025-02-28T20:32:50.513Z"
     },
