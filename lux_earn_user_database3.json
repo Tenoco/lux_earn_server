@@ -2283,7 +2283,7 @@
       "invited_users": [
         "Chinonso1"
       ],
-      "balance": 374,
+      "balance": 394,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2307,7 +2307,8 @@
         13,
         19,
         18,
-        20
+        20,
+        21
       ],
       "lastSpin": "2025-02-28T07:47:58.529Z"
     },
@@ -28157,7 +28158,8 @@
         11,
         10,
         7
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
