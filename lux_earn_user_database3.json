@@ -29088,7 +29088,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T13:37:08.457Z"
+      "joinDate": "2025-02-28T13:37:08.457Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Funnydesto ",
+      "email": "funnydesto@gmail.com",
+      "encrypted_password": "69b58f927c0dba027febea81a13b309f",
+      "referral_code": "FUSOQ",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T13:43:42.055Z"
     }
   ],
   "withdrawals": [
