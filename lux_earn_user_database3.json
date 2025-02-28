@@ -14931,11 +14931,12 @@
       "invited_users": [
         "Faithlove",
         "Aina ayobami",
-        "Premo1234"
+        "Premo1234",
+        "Shaibu blessing"
       ],
       "balance": 0,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:12:22.713Z",
@@ -28597,6 +28598,21 @@
       "joinDate": "2025-02-23T21:01:01.157Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shaibu blessing",
+      "email": "blessingohunene058@gmail.com",
+      "encrypted_password": "2fc916317e868ccd4c1250e4712d852b",
+      "referral_code": "SH9DC",
+      "inviter_referral_code": "ADZ27",
+      "inviter_username": "Adisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T10:52:15.945Z"
     }
   ],
   "withdrawals": [
