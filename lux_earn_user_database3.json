@@ -27584,6 +27584,21 @@
         21
       ],
       "lastSpin": null
+    },
+    {
+      "username": "williamsmith",
+      "email": "ws9496178@gmail.com",
+      "encrypted_password": "50745beccc5d2661a89e34337c38bffb",
+      "referral_code": "WINED",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T05:11:50.354Z"
     }
   ],
   "withdrawals": [
