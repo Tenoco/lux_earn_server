@@ -25719,10 +25719,12 @@
       "referral_code": "BEN25",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Vivian133"
+      ],
       "balance": 285,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T13:00:02.863Z",
@@ -29899,6 +29901,21 @@
         1
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Vivian133",
+      "email": "adannaviviannnabuike@gmail.com",
+      "encrypted_password": "c46046ed491349263d23f1405e03aa0e",
+      "referral_code": "VI9KW",
+      "inviter_referral_code": "BEN25",
+      "inviter_username": "Beejaydaniel ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T18:42:50.835Z"
     }
   ],
   "withdrawals": [
