@@ -29692,12 +29692,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T17:45:31.403Z"
+      "joinDate": "2025-02-28T17:45:31.403Z",
+      "completedMissions": [
+        21
+      ]
     }
   ],
   "withdrawals": [
