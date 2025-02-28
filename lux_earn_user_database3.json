@@ -8271,7 +8271,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 387,
+      "balance": 402,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -8297,7 +8297,7 @@
         20,
         18
       ],
-      "lastSpin": "2025-02-26T07:44:15.724Z"
+      "lastSpin": "2025-02-27T18:27:13.682Z"
     },
     {
       "username": "Viole ",
@@ -29735,7 +29735,8 @@
         4,
         4,
         16
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Hammed",
