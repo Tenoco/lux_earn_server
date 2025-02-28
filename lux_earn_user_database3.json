@@ -30002,7 +30002,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T20:02:01.636Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T20:06:22.323Z"
+    },
+    {
+      "username": "Adekemi 22 ",
+      "email": "bolanlemustapha693@gmail.com",
+      "encrypted_password": "07e45a9ff8cc067b011949ead442b491",
+      "referral_code": "AD4S2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T20:23:29.351Z"
     }
   ],
   "withdrawals": [
