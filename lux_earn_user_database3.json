@@ -10341,7 +10341,7 @@
         "Kahsjsh",
         "Whhwhshs"
       ],
-      "balance": 312,
+      "balance": 320,
       "refers": 12,
       "referralBalance": 1200,
       "withdrawalBalance": 0,
@@ -10365,7 +10365,7 @@
         4,
         16
       ],
-      "lastSpin": "2025-02-27T07:59:19.762Z"
+      "lastSpin": "2025-02-28T13:06:15.888Z"
     },
     {
       "username": "Minnah12",
@@ -29010,7 +29010,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T13:05:49.331Z"
+      "joinDate": "2025-02-28T13:05:49.331Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
