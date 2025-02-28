@@ -28667,13 +28667,16 @@
       "inviter_referral_code": "DAPBL",
       "inviter_username": "Dammil",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:46:52.785Z",
-      "completedMissions": [],
+      "completedMissions": [
+        2,
+        2
+      ],
       "lastSpin": null
     }
   ],
