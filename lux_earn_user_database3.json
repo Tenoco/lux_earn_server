@@ -27970,7 +27970,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T07:02:17.249Z"
+      "joinDate": "2025-02-28T07:02:17.249Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kaylalee",
+      "email": "afolayantioluwani@gmail.com",
+      "encrypted_password": "7093bbde58f710443543d4c3c1e25b6f",
+      "referral_code": "KA1HA",
+      "inviter_referral_code": "CO4PD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1030,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T08:59:55.253Z",
+      "completedMissions": [],
+      "lastSpin": "2025-02-22T09:02:26.063Z"
     }
   ],
   "withdrawals": [
