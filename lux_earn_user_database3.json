@@ -3380,7 +3380,7 @@
       "invited_users": [
         "RUTH "
       ],
-      "balance": 87,
+      "balance": 107,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -3389,7 +3389,8 @@
       "completedMissions": [
         1,
         2,
-        12
+        12,
+        11
       ],
       "lastSpin": "2025-02-28T11:53:38.216Z"
     },
@@ -29513,7 +29514,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T15:29:35.482Z"
+      "joinDate": "2025-02-28T15:29:35.482Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
