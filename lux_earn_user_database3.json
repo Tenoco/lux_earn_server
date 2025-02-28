@@ -28646,12 +28646,13 @@
       "inviter_referral_code": "K1704",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T11:17:30.509Z"
+      "joinDate": "2025-02-28T11:17:30.509Z",
+      "lastSpin": "2025-02-28T11:17:51.367Z"
     }
   ],
   "withdrawals": [
