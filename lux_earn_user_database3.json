@@ -15132,7 +15132,7 @@
         "John ",
         "Ak gang"
       ],
-      "balance": 1262,
+      "balance": 1263,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -15152,7 +15152,7 @@
         6,
         12
       ],
-      "lastSpin": "2025-02-26T04:58:05.027Z"
+      "lastSpin": "2025-02-28T17:26:52.495Z"
     },
     {
       "username": "Ogunlade",
@@ -29658,7 +29658,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T17:25:35.049Z"
+      "joinDate": "2025-02-28T17:25:35.049Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
