@@ -29910,12 +29910,15 @@
       "inviter_referral_code": "BEN25",
       "inviter_username": "Beejaydaniel ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 10,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T18:42:50.835Z"
+      "joinDate": "2025-02-28T18:42:50.835Z",
+      "completedMissions": [
+        1
+      ]
     }
   ],
   "withdrawals": [
