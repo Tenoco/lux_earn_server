@@ -27894,7 +27894,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T06:40:56.306Z"
+      "joinDate": "2025-02-28T06:40:56.306Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "princemacdonz",
+      "email": "ifwe0874@gmail.com",
+      "encrypted_password": "928e258cda18f04b293dbd0345bca61c",
+      "referral_code": "PRSDX",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T06:42:40.653Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
