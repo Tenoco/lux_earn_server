@@ -17835,11 +17835,12 @@
         "deenpeter8",
         "Fakell",
         "Habe",
-        "Kael"
+        "Kael",
+        "Gabe"
       ],
       "balance": 505,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
@@ -28428,7 +28429,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T09:13:48.748Z"
+      "joinDate": "2025-02-28T09:13:48.748Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Gabe",
+      "email": "gabeli23@gmail.com",
+      "encrypted_password": "5b1b68a9abf4d2cd155c81a9225fd158",
+      "referral_code": "GAE4K",
+      "inviter_referral_code": "NIS14",
+      "inviter_username": "Nicefaith",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T09:14:49.170Z"
     }
   ],
   "withdrawals": [
