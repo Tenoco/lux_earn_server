@@ -13275,10 +13275,12 @@
       "referral_code": "JISSP",
       "inviter_referral_code": "JA9WU",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Ayfrosh "
+      ],
       "balance": 310,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T23:37:50.398Z",
@@ -29209,6 +29211,21 @@
         18
       ],
       "lastSpin": "2025-02-28T14:11:28.531Z"
+    },
+    {
+      "username": "Ayfrosh ",
+      "email": "ayfrosh7272@gmail.com",
+      "encrypted_password": "13b1d90665792aa5ffcd254615aea3cb",
+      "referral_code": "AYIDU",
+      "inviter_referral_code": "JISSP",
+      "inviter_username": "Jimohmuhammad",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T14:11:58.799Z"
     }
   ],
   "withdrawals": [
