@@ -17834,11 +17834,12 @@
       "invited_users": [
         "deenpeter8",
         "Fakell",
-        "Habe"
+        "Habe",
+        "Kael"
       ],
       "balance": 505,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
@@ -28410,7 +28411,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T09:12:33.742Z"
+      "joinDate": "2025-02-28T09:12:33.742Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kael",
+      "email": "kaelgam@gmail.com",
+      "encrypted_password": "c6b65e95e1319dcd98f61c38b9d37f97",
+      "referral_code": "KACB7",
+      "inviter_referral_code": "NIS14",
+      "inviter_username": "Nicefaith",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T09:13:48.748Z"
     }
   ],
   "withdrawals": [
