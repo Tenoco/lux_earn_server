@@ -28339,7 +28339,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T08:42:30.641Z"
+      "joinDate": "2025-02-28T08:42:30.641Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "olakoretimi",
+      "email": "olalekanoluwatimileyin20@gmail.com",
+      "encrypted_password": "123a7ef5394bae210b011730a55879b1",
+      "referral_code": "OLM6O",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T08:43:35.621Z"
     }
   ],
   "withdrawals": [
