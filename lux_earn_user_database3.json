@@ -17833,11 +17833,12 @@
       "inviter_username": "Oluwajoy",
       "invited_users": [
         "deenpeter8",
-        "Fakell"
+        "Fakell",
+        "Habe"
       ],
       "balance": 505,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T11:57:30.456Z",
@@ -28392,7 +28393,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T09:08:16.124Z"
+      "joinDate": "2025-02-28T09:08:16.124Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Habe",
+      "email": "hage66@gmail.com",
+      "encrypted_password": "224ffab451387a4bcb1bf270fec54e30",
+      "referral_code": "HA6ZL",
+      "inviter_referral_code": "NIS14",
+      "inviter_username": "Nicefaith",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T09:12:33.742Z"
     }
   ],
   "withdrawals": [
