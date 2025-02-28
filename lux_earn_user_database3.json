@@ -27921,11 +27921,12 @@
         "Ritaosaz",
         "Ozegberita",
         "Olijeff",
-        "Omotit"
+        "Omotit",
+        "Jeefboi"
       ],
       "balance": 365,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T06:42:40.653Z",
@@ -28089,6 +28090,21 @@
       "joinDate": "2025-02-28T07:26:19.515Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Jeefboi",
+      "email": "zcraqe8xsm@cmhvzylmfc.com",
+      "encrypted_password": "5add8c1d6c4dcf70020f3a091c05aa0e",
+      "referral_code": "JE220",
+      "inviter_referral_code": "PRSDX",
+      "inviter_username": "princemacdonz",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T07:30:43.397Z"
     }
   ],
   "withdrawals": [
