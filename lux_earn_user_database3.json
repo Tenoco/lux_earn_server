@@ -30086,7 +30086,23 @@
       "joinDate": "2025-02-28T21:04:37.310Z",
       "completedMissions": [
         1
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Samrecords4",
+      "email": "essiensamuel066@gmail.com",
+      "encrypted_password": "3eccb14d68e84d3e76e2250edee60df1",
+      "referral_code": "SAP87",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T21:08:55.248Z"
     }
   ],
   "withdrawals": [
