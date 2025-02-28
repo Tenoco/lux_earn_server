@@ -28140,14 +28140,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 10,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T07:41:46.140Z",
       "completedMissions": [
-        2
+        2,
+        4
       ]
     }
   ],
