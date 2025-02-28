@@ -10417,7 +10417,7 @@
         "Papa p",
         "Mama j"
       ],
-      "balance": 1431,
+      "balance": 1451,
       "refers": 14,
       "referralBalance": 1400,
       "withdrawalBalance": 0,
@@ -10441,7 +10441,8 @@
         18,
         13,
         12,
-        12
+        12,
+        17
       ],
       "lastSpin": "2025-02-28T06:10:48.695Z"
     },
@@ -27794,6 +27795,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T06:12:18.848Z",
+      "completedMissions": [],
       "lastSpin": "2025-02-28T06:13:12.945Z"
     }
   ],
