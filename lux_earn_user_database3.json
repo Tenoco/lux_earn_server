@@ -28814,6 +28814,25 @@
       "joinDate": "2025-02-21T12:23:53.546Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "HaggaiData",
+      "email": "haggai22cyrus@gmail.com",
+      "encrypted_password": "3691adcb1fbf036496274efe0745a556",
+      "referral_code": "HA9MB",
+      "inviter_referral_code": "SI8L7",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 30,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T12:20:19.829Z",
+      "completedMissions": [
+        9
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
