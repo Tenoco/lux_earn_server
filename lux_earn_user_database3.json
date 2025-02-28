@@ -28124,7 +28124,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T07:40:05.028Z"
+      "joinDate": "2025-02-28T07:40:05.028Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Estylove",
+      "email": "reubenesther332@gmail.com",
+      "encrypted_password": "84cfafb50b7da124aff33eb0140e2db8",
+      "referral_code": "ESYTR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T07:41:46.140Z"
     }
   ],
   "withdrawals": [
