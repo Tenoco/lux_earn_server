@@ -11545,7 +11545,7 @@
         "Dommy ",
         "Igbaisaac"
       ],
-      "balance": 311,
+      "balance": 341,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -11561,7 +11561,8 @@
         18,
         18,
         14,
-        14
+        14,
+        12
       ],
       "lastSpin": "2025-02-28T05:21:08.091Z"
     },
@@ -27623,7 +27624,8 @@
         17,
         18,
         19
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
