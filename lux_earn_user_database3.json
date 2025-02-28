@@ -29933,7 +29933,7 @@
       "inviter_referral_code": "BEN25",
       "inviter_username": "Beejaydaniel ",
       "invited_users": [],
-      "balance": 10,
+      "balance": 32,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29942,7 +29942,7 @@
       "completedMissions": [
         1
       ],
-      "lastSpin": null
+      "lastSpin": "2025-02-28T18:52:28.836Z"
     },
     {
       "username": "Princedemmy",
@@ -29957,7 +29957,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T18:48:00.008Z"
+      "joinDate": "2025-02-28T18:48:00.008Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
