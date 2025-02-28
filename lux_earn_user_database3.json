@@ -11578,11 +11578,12 @@
         "korex56",
         "Samuel1 ",
         "Dommy ",
-        "Igbaisaac"
+        "Igbaisaac",
+        "Meemoses"
       ],
       "balance": 341,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:56.739Z",
@@ -28548,6 +28549,21 @@
         21
       ],
       "lastSpin": "2025-02-28T09:40:18.555Z"
+    },
+    {
+      "username": "Meemoses",
+      "email": "methuselahmoses556@gmail.com",
+      "encrypted_password": "ab554776be4a0e9ccf828123597677b3",
+      "referral_code": "ME6CN",
+      "inviter_referral_code": "JO4QJ",
+      "inviter_username": "Jonahegbe",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T09:46:59.255Z"
     }
   ],
   "withdrawals": [
