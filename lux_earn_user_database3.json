@@ -2524,7 +2524,7 @@
         "Desmond ",
         "Celebobo"
       ],
-      "balance": 439,
+      "balance": 451,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -2546,7 +2546,7 @@
         13,
         17
       ],
-      "lastSpin": "2025-02-26T22:35:33.649Z"
+      "lastSpin": "2025-02-28T13:05:08.733Z"
     },
     {
       "username": "Oluwaexcess",
@@ -28848,7 +28848,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T12:57:07.225Z",
-      "lastSpin": "2025-02-28T12:57:26.285Z",
       "completedMissions": [
         21,
         21,
@@ -28995,7 +28994,8 @@
         13,
         13,
         13
-      ]
+      ],
+      "lastSpin": "2025-02-28T12:57:26.285Z"
     }
   ],
   "withdrawals": [
