@@ -25232,11 +25232,12 @@
         "Jayden4",
         "Danny24",
         "Benson06",
-        "Jessica11"
+        "Jessica11",
+        "Pelumi5q"
       ],
       "balance": 265,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-27T12:09:27.060Z",
@@ -28246,6 +28247,21 @@
       "joinDate": "2025-02-28T07:56:13.352Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Pelumi5q",
+      "email": "janetwill@gmail.com",
+      "encrypted_password": "d3786ec2413a8cd9413bfcb24be95a73",
+      "referral_code": "PEBPI",
+      "inviter_referral_code": "TOKOG",
+      "inviter_username": "Toski43",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T08:06:14.879Z"
     }
   ],
   "withdrawals": [
