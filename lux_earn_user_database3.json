@@ -28842,13 +28842,35 @@
       "inviter_referral_code": "kIIO1",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 610,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T12:57:07.225Z",
-      "lastSpin": "2025-02-28T12:57:26.285Z"
+      "lastSpin": "2025-02-28T12:57:26.285Z",
+      "completedMissions": [
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21,
+        21
+      ]
     }
   ],
   "withdrawals": [
