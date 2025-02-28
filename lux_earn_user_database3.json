@@ -30124,7 +30124,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T21:28:05.131Z"
+      "joinDate": "2025-02-28T21:28:05.131Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bby tori",
+      "email": "meneejegifaith@gmail.com",
+      "encrypted_password": "5c8afbc86b5b24a93f1703fc391909e8",
+      "referral_code": "BB8PA",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-28T21:29:17.045Z"
     }
   ],
   "withdrawals": [
