@@ -29723,7 +29723,7 @@
       "inviter_referral_code": "JO4QJ",
       "inviter_username": "Jonahegbe",
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -29731,9 +29731,10 @@
       "joinDate": "2025-02-28T17:50:49.581Z",
       "completedMissions": [
         1,
-        2
-      ],
-      "lastSpin": null
+        2,
+        4,
+        4
+      ]
     },
     {
       "username": "Hammed",
