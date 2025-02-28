@@ -29693,16 +29693,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T17:45:31.403Z",
       "completedMissions": [
-        21
-      ],
-      "lastSpin": null
+        21,
+        20,
+        20
+      ]
     },
     {
       "username": "@anichideracrescent042",
@@ -29717,7 +29718,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-02-28T17:50:49.581Z"
+      "joinDate": "2025-02-28T17:50:49.581Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
