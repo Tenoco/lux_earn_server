@@ -32133,10 +32133,12 @@
       "referral_code": "WAXZK",
       "inviter_referral_code": "NOXTO",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Nany"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T22:53:05.138Z",
@@ -32170,6 +32172,21 @@
         1
       ],
       "lastSpin": "2025-03-01T22:55:00.200Z"
+    },
+    {
+      "username": "Nany",
+      "email": "sunnywat47t@gmail.com",
+      "encrypted_password": "409b35274803d73b0697509cb9871f04",
+      "referral_code": "NAHGJ",
+      "inviter_referral_code": "WAXZK",
+      "inviter_username": "Watt",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T22:55:32.266Z"
     }
   ],
   "withdrawals": [
