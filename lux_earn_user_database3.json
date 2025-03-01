@@ -2380,11 +2380,12 @@
       "invited_users": [
         "Mohmmed",
         "Usman",
-        "Shafiyi "
+        "Shafiyi ",
+        "Kuduboy00"
       ],
       "balance": 423,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -30628,6 +30629,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Kuduboy00",
+      "email": "kuduboy@gmail.com",
+      "encrypted_password": "13c66e499fd9a7a9f6f918c953628267",
+      "referral_code": "KUAN4",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T07:47:24.720Z"
     }
   ],
   "withdrawals": [
