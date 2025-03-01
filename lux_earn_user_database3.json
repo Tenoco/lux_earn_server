@@ -30883,12 +30883,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T10:36:18.598Z"
+      "joinDate": "2025-03-01T10:36:18.598Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-01T10:39:03.445Z"
     }
   ],
   "withdrawals": [
