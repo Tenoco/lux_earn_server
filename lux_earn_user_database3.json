@@ -30894,11 +30894,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Speedy "
+        "Speedy ",
+        "Abdulmalik "
       ],
       "balance": 481,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -30938,6 +30939,21 @@
       "joinDate": "2025-03-01T10:51:20.823Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdulmalik ",
+      "email": "adeyemiabdulmalik2019@gmail.com",
+      "encrypted_password": "638bedc9b343b96c2e9088e01ed62414",
+      "referral_code": "AB7NT",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T10:58:51.545Z"
     }
   ],
   "withdrawals": [
