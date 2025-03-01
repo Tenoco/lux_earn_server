@@ -30923,11 +30923,12 @@
         "Abdulmalik ",
         "Kayode ",
         "Shade",
-        "Iyabo"
+        "Iyabo",
+        "Abdulqodri1"
       ],
       "balance": 481,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -31065,6 +31066,21 @@
       "joinDate": "2025-03-01T11:12:16.516Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Abdulqodri1",
+      "email": "adeyemiabdulqodri2@gmail.com",
+      "encrypted_password": "b2130cc690a15a0ed214904cfa7460d0",
+      "referral_code": "ABWV4",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T11:15:52.117Z"
     }
   ],
   "withdrawals": [
