@@ -32139,7 +32139,37 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T22:53:05.138Z"
+      "joinDate": "2025-03-01T22:53:05.138Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "emma1122",
+      "email": "wimipim243@cudcis.com",
+      "encrypted_password": "4300e633d91bd13a658e79f5c9a81177",
+      "referral_code": "EMF5O",
+      "inviter_referral_code": "PEPVK",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 183,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T15:14:49.146Z",
+      "completedMissions": [
+        5,
+        5,
+        12,
+        12,
+        4,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "lastSpin": "2025-02-23T22:00:06.276Z"
     }
   ],
   "withdrawals": [
