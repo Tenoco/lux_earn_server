@@ -916,11 +916,12 @@
         "Oadeoye123",
         "olaade126",
         "ADESOLA VERACITY",
-        "Azeemaboidub "
+        "Azeemaboidub ",
+        "ogunyemifunmilola38"
       ],
       "balance": 75,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T09:50:50.554Z",
@@ -31759,6 +31760,21 @@
         14
       ],
       "lastSpin": "2025-02-21T09:17:45.831Z"
+    },
+    {
+      "username": "ogunyemifunmilola38",
+      "email": "ogunyemifunmilola38@gmail.com",
+      "encrypted_password": "67963b7ccb7574671e8fcc605c16592c",
+      "referral_code": "OG9OW",
+      "inviter_referral_code": "AYT8B",
+      "inviter_username": "Aygold22",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T21:07:12.657Z"
     }
   ],
   "withdrawals": [
