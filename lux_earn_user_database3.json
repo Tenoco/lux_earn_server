@@ -4194,7 +4194,7 @@
         "Precious1",
         "Godgiftrobert1 "
       ],
-      "balance": 390,
+      "balance": 420,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -4216,7 +4216,8 @@
         23,
         22,
         21,
-        20
+        20,
+        19
       ],
       "lastSpin": "2025-03-01T11:11:04.468Z"
     },
@@ -31080,7 +31081,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T11:15:52.117Z"
+      "joinDate": "2025-03-01T11:15:52.117Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
