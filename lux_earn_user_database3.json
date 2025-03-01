@@ -30992,7 +30992,7 @@
       "inviter_referral_code": "  TER48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 210,
+      "balance": 330,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31005,9 +31005,12 @@
         14,
         17,
         19,
-        18
-      ],
-      "lastSpin": null
+        18,
+        20,
+        10,
+        10,
+        22
+      ]
     },
     {
       "username": "Kayode ",
