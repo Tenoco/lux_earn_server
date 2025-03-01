@@ -31224,13 +31224,15 @@
       "inviter_referral_code": "ADUNL",
       "inviter_username": "ADESOLA VERACITY",
       "invited_users": [],
-      "balance": 5,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T13:37:22.892Z",
-      "completedMissions": [],
+      "completedMissions": [
+        27
+      ],
       "lastSpin": "2025-03-01T13:38:05.426Z"
     }
   ],
