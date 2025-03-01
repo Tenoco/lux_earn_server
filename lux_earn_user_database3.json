@@ -31302,7 +31302,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T15:17:48.868Z"
+      "joinDate": "2025-03-01T15:17:48.868Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Auntie success ",
+      "email": "janetjack456789@gmail.com",
+      "encrypted_password": "eb9c35edfd4259bb7cc85b7b74cae9a0",
+      "referral_code": "AUENR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T15:23:40.096Z"
     }
   ],
   "withdrawals": [
