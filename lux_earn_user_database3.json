@@ -9316,10 +9316,12 @@
       "referral_code": "ADUNL",
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
-      "invited_users": [],
+      "invited_users": [
+        "Olasina00"
+      ],
       "balance": 340,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T04:45:06.627Z",
@@ -31213,6 +31215,21 @@
         11
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Olasina00",
+      "email": "Azeezmubaraqolasina@gmail.com",
+      "encrypted_password": "1f16ce68e95065df44b8db2686975220",
+      "referral_code": "OL2OW",
+      "inviter_referral_code": "ADUNL",
+      "inviter_username": "ADESOLA VERACITY",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T13:37:22.892Z"
     }
   ],
   "withdrawals": [
