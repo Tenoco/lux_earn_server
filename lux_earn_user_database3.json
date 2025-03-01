@@ -31610,6 +31610,21 @@
       "joinDate": "2025-03-01T19:04:55.955Z",
       "completedMissions": [],
       "lastSpin": "2025-03-01T19:05:09.007Z"
+    },
+    {
+      "username": "Abba",
+      "email": "bazeeabba@gmail.com",
+      "encrypted_password": "cbd6dd8621012570393c1115c769d171",
+      "referral_code": "ABSLL",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T19:52:19.903Z"
     }
   ],
   "withdrawals": [
