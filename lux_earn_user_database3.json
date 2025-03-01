@@ -32136,14 +32136,15 @@
       "invited_users": [
         "Nany"
       ],
-      "balance": 50,
+      "balance": 100,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T22:53:05.138Z",
       "completedMissions": [
-        11
+        11,
+        12
       ],
       "lastSpin": null
     },
