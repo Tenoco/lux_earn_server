@@ -30176,14 +30176,15 @@
       "inviter_referral_code": "Themez001",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 38,
+      "balance": 68,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
       "completedMissions": [
-        11
+        11,
+        12
       ],
       "lastSpin": "2025-03-01T07:49:42.781Z"
     },
