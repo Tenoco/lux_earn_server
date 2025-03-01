@@ -20232,7 +20232,7 @@
         "Fredrick2005",
         "Henry "
       ],
-      "balance": 515,
+      "balance": 565,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -20256,7 +20256,8 @@
         14,
         21,
         20,
-        17
+        17,
+        27
       ],
       "lastSpin": "2025-03-01T11:11:51.350Z"
     },
@@ -32022,7 +32023,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T22:13:30.003Z"
+      "joinDate": "2025-03-01T22:13:30.003Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
