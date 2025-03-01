@@ -31716,7 +31716,7 @@
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
       "invited_users": [],
-      "balance": 250,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -31727,9 +31727,9 @@
         11,
         12,
         13,
-        14
-      ],
-      "lastSpin": null
+        14,
+        17
+      ]
     },
     {
       "username": "Candy",
@@ -31774,7 +31774,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T21:07:12.657Z"
+      "joinDate": "2025-03-01T21:07:12.657Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
