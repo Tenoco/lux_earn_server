@@ -32257,7 +32257,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T23:20:03.917Z"
+      "joinDate": "2025-03-01T23:20:03.917Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "officialrollex",
+      "email": "idowuebenezerolamide2020@gmail.com",
+      "encrypted_password": "d08132b4267d5d4bceae6cf682bb5950",
+      "referral_code": "OFP5T",
+      "inviter_referral_code": "Sc4h4",
+      "inviter_username": null,
+      "invited_users": [
+        "Wisdomchibuike ",
+        "Akano",
+        "Absolute ",
+        "Victor oluwafemi ",
+        "Idowu"
+      ],
+      "balance": 60,
+      "refers": 5,
+      "referralBalance": 500,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:51:10.486Z",
+      "completedMissions": [
+        1,
+        2
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
