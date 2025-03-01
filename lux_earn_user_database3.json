@@ -30988,7 +30988,7 @@
       "inviter_referral_code": "  TER48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 90,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -30997,7 +30997,8 @@
       "completedMissions": [
         11,
         12,
-        13
+        13,
+        14
       ]
     },
     {
