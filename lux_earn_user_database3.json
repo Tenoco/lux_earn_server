@@ -32006,7 +32006,23 @@
         25,
         26,
         26
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "chimajulam1",
+      "email": "yxngclinton06@gmail.com",
+      "encrypted_password": "0225227c44a4de0026a1433864b0904f",
+      "referral_code": "CHVVU",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T22:13:30.003Z"
     }
   ],
   "withdrawals": [
