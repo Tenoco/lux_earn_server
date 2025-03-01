@@ -30919,11 +30919,12 @@
         "Speedy ",
         "Abdulmalik ",
         "Kayode ",
-        "Shade"
+        "Shade",
+        "Iyabo"
       ],
       "balance": 481,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -31037,6 +31038,21 @@
       "joinDate": "2025-03-01T11:07:18.796Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Iyabo",
+      "email": "abdulsalamiyabo@gmail.com",
+      "encrypted_password": "736e878bd573f9c290c49e2a447c5580",
+      "referral_code": "IYHOK",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T11:12:16.516Z"
     }
   ],
   "withdrawals": [
