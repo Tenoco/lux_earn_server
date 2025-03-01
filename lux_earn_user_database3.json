@@ -12860,11 +12860,12 @@
         "Adufeade ",
         "dembele123",
         "starlight",
-        "Monday "
+        "Monday ",
+        "Testimony@35"
       ],
       "balance": 237,
-      "refers": 8,
-      "referralBalance": 800,
+      "refers": 9,
+      "referralBalance": 900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -31702,7 +31703,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T21:02:07.523Z"
+      "joinDate": "2025-03-01T21:02:07.523Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Testimony@35",
+      "email": "dianaokon808@gmail.com",
+      "encrypted_password": "b764a13000697ddc1bc9901db75db1a5",
+      "referral_code": "TEFVX",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T21:02:45.823Z"
     }
   ],
   "withdrawals": [
