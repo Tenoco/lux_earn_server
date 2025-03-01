@@ -30814,13 +30814,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 20,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T19:16:59.843Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": "2025-03-01T09:52:08.383Z"
     }
   ],
