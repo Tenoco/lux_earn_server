@@ -2328,7 +2328,7 @@
       "invited_users": [
         "Chinonso1"
       ],
-      "balance": 394,
+      "balance": 404,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -2355,7 +2355,7 @@
         20,
         21
       ],
-      "lastSpin": "2025-02-28T07:47:58.529Z"
+      "lastSpin": "2025-03-01T08:52:12.653Z"
     },
     {
       "username": "Boss man",
@@ -30773,7 +30773,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T08:26:25.644Z"
+      "joinDate": "2025-03-01T08:26:25.644Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
