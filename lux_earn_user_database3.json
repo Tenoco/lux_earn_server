@@ -30175,10 +30175,12 @@
       "referral_code": "THIT1",
       "inviter_referral_code": "Themez001",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Gabriel1"
+      ],
       "balance": 98,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -30757,6 +30759,21 @@
         12
       ],
       "lastSpin": "2025-03-01T07:48:10.474Z"
+    },
+    {
+      "username": "Gabriel1",
+      "email": "malachi@gmail.com",
+      "encrypted_password": "7779e4c913f872c4cfa8a10e767ebbdb",
+      "referral_code": "GA9SF",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T08:26:25.644Z"
     }
   ],
   "withdrawals": [
