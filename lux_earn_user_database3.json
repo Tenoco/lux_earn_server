@@ -30890,10 +30890,12 @@
       "referral_code": "HP120",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Speedy "
+      ],
       "balance": 481,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -30916,6 +30918,21 @@
         22
       ],
       "lastSpin": "2025-03-01T10:39:03.445Z"
+    },
+    {
+      "username": "Speedy ",
+      "email": "adeyemiopemiposi5@gmail.com",
+      "encrypted_password": "fcea920f7412b5da7be0cf42b8c93759",
+      "referral_code": "SPA4B",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T10:51:20.823Z"
     }
   ],
   "withdrawals": [
