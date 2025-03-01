@@ -31098,6 +31098,21 @@
       "joinDate": "2025-03-01T11:15:52.117Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Aigbologa",
+      "email": "aigbologan@gmail.com",
+      "encrypted_password": "575668f2c4493f6752b584a7d2400ba1",
+      "referral_code": "AIVOY",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T11:22:42.372Z"
     }
   ],
   "withdrawals": [
