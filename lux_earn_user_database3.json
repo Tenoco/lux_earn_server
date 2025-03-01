@@ -30905,11 +30905,12 @@
       "inviter_username": null,
       "invited_users": [
         "Speedy ",
-        "Abdulmalik "
+        "Abdulmalik ",
+        "Kayode "
       ],
       "balance": 481,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -30983,6 +30984,21 @@
       "joinDate": "2025-03-01T11:04:10.783Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kayode ",
+      "email": "kamardeenadeyemi@gmail.com",
+      "encrypted_password": "ba00819f263287af1ff0100c5a323355",
+      "referral_code": "KAGVI",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T11:04:25.487Z"
     }
   ],
   "withdrawals": [
