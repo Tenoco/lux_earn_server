@@ -3447,7 +3447,7 @@
       "invited_users": [
         "RUTH "
       ],
-      "balance": 107,
+      "balance": 127,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -3459,7 +3459,7 @@
         12,
         11
       ],
-      "lastSpin": "2025-02-28T11:53:38.216Z"
+      "lastSpin": "2025-03-01T16:12:46.272Z"
     },
     {
       "username": "Dodi",
@@ -31416,7 +31416,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T16:11:58.728Z"
+      "joinDate": "2025-03-01T16:11:58.728Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
