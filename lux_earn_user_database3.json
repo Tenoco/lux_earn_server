@@ -31727,7 +31727,36 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Candy",
+      "email": "slimbb02@gmail.com",
+      "encrypted_password": "25c55a59873d3f7496f9bb2e852c4fcb",
+      "referral_code": "CAL4E",
+      "inviter_referral_code": "JEYIW",
+      "inviter_username": "Jennie ",
+      "invited_users": [],
+      "balance": 332,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T09:17:19.799Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12
+      ],
+      "lastSpin": "2025-02-21T09:17:45.831Z"
     }
   ],
   "withdrawals": [
