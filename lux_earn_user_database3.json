@@ -31270,12 +31270,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T14:28:22.387Z"
+      "joinDate": "2025-03-01T14:28:22.387Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-01T14:29:33.641Z"
     }
   ],
   "withdrawals": [
