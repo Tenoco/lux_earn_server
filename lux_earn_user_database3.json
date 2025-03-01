@@ -30988,16 +30988,16 @@
       "inviter_referral_code": "  TER48",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 60,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T11:04:10.783Z",
       "completedMissions": [
-        11
-      ],
-      "lastSpin": null
+        11,
+        12
+      ]
     },
     {
       "username": "Kayode ",
@@ -31029,7 +31029,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T11:07:18.796Z"
+      "joinDate": "2025-03-01T11:07:18.796Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
