@@ -31112,7 +31112,38 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-01T11:22:42.372Z"
+      "joinDate": "2025-03-01T11:22:42.372Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "BigJohn ",
+      "email": "brightdelight65@gmail.com",
+      "encrypted_password": "987af98f0cbe2505a3854f3ad9bfa4d6",
+      "referral_code": "BIAHI",
+      "inviter_referral_code": "SAWY4",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 1202,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T09:25:05.933Z",
+      "completedMissions": [
+        1,
+        10,
+        9,
+        9,
+        8,
+        7,
+        6,
+        5,
+        5,
+        4,
+        2
+      ],
+      "lastSpin": "2025-02-22T09:25:26.720Z"
     }
   ],
   "withdrawals": [
