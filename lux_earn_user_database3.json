@@ -30917,11 +30917,12 @@
       "invited_users": [
         "Speedy ",
         "Abdulmalik ",
-        "Kayode "
+        "Kayode ",
+        "Shade"
       ],
       "balance": 481,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T10:36:18.598Z",
@@ -31014,6 +31015,21 @@
       "joinDate": "2025-03-01T11:04:25.487Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shade",
+      "email": "rasheedatabdulsalam@gmail.com",
+      "encrypted_password": "c3c2ceb4661d2f665c851880d0816c78",
+      "referral_code": "SHNVY",
+      "inviter_referral_code": "HP120",
+      "inviter_username": "hpvenom",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-01T11:07:18.796Z"
     }
   ],
   "withdrawals": [
