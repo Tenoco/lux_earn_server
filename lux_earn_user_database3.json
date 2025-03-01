@@ -31776,13 +31776,15 @@
       "inviter_referral_code": "AYT8B",
       "inviter_username": "Aygold22",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T21:07:12.657Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": null
     }
   ],
