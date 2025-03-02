@@ -22484,11 +22484,12 @@
         "Muhammadu",
         "Sadik555",
         "Sadiku56",
-        "Muhammad67"
+        "Muhammad67",
+        "Muhammad57"
       ],
       "balance": 835,
-      "refers": 37,
-      "referralBalance": 3700,
+      "refers": 38,
+      "referralBalance": 3800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35038,7 +35039,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:12:12.861Z"
+      "joinDate": "2025-03-02T20:12:12.861Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad57",
+      "email": "saniismail566@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "MU2CC",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:12:34.349Z"
     }
   ],
   "withdrawals": [
