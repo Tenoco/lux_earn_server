@@ -33553,11 +33553,12 @@
         "Aliyu67",
         "Aliyu68",
         "Aliyu69",
-        "Saminu68"
+        "Saminu68",
+        "Muhammad67i"
       ],
       "balance": 658,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T12:21:09.826Z",
@@ -35926,6 +35927,21 @@
       "joinDate": "2025-03-02T23:29:08.856Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad67i",
+      "email": "mugulale1666@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "MU5Q2",
+      "inviter_referral_code": "MUTFA",
+      "inviter_username": "Muhammad55",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:30:26.366Z"
     }
   ],
   "withdrawals": [
