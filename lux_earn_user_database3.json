@@ -9499,7 +9499,7 @@
       "invited_users": [
         "Olasina00"
       ],
-      "balance": 340,
+      "balance": 390,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -9525,7 +9525,8 @@
         16,
         16,
         5,
-        5
+        5,
+        11
       ],
       "lastSpin": null
     },
@@ -35700,7 +35701,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T22:07:01.362Z"
+      "joinDate": "2025-03-02T22:07:01.362Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
