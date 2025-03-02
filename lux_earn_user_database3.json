@@ -22502,11 +22502,12 @@
         "Sani56",
         "Welcome",
         "Muhd56",
-        "Muhammad76"
+        "Muhammad76",
+        "Ismailjibrin"
       ],
       "balance": 835,
-      "refers": 55,
-      "referralBalance": 5500,
+      "refers": 56,
+      "referralBalance": 5600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35506,6 +35507,21 @@
       "joinDate": "2025-03-02T21:33:00.171Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ismailjibrin",
+      "email": "Saminusani578@gmail.com",
+      "encrypted_password": "0985b33de96476bbee054339591a2977",
+      "referral_code": "IS5G7",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T21:34:31.566Z"
     }
   ],
   "withdrawals": [
