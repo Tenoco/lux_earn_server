@@ -25117,7 +25117,7 @@
         "Victor ",
         "Adesola"
       ],
-      "balance": 765,
+      "balance": 775,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -25166,7 +25166,7 @@
         19,
         19
       ],
-      "lastSpin": "2025-02-27T05:57:51.438Z"
+      "lastSpin": "2025-03-02T21:38:54.701Z"
     },
     {
       "username": "Seerty",
@@ -35592,7 +35592,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T21:38:43.150Z"
+      "joinDate": "2025-03-02T21:38:43.150Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
