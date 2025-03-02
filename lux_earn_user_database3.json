@@ -32509,12 +32509,16 @@
       "inviter_referral_code": "Opp132",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T04:55:17.029Z"
+      "joinDate": "2025-03-02T04:55:17.029Z",
+      "completedMissions": [
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
