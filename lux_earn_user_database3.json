@@ -33567,11 +33567,12 @@
       "inviter_username": null,
       "invited_users": [
         "Safgsg",
-        "Muhd55"
+        "Muhd55",
+        "Usain45"
       ],
       "balance": 760,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:28:31.879Z",
@@ -34698,7 +34699,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:39:27.497Z"
+      "joinDate": "2025-03-02T19:39:27.497Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Usain45",
+      "email": "hussain577@gmail.com",
+      "encrypted_password": "e807f1fcf82d132f9bb018ca6738a19f",
+      "referral_code": "USLNX",
+      "inviter_referral_code": "AH6WJ",
+      "inviter_username": "Ahmad44",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:40:20.041Z"
     }
   ],
   "withdrawals": [
