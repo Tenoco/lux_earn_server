@@ -22474,11 +22474,12 @@
         "Ashuru5",
         "Muhammad78",
         "Meku56",
-        "Yakubu55"
+        "Yakubu55",
+        "Sadik6"
       ],
       "balance": 835,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34844,6 +34845,21 @@
       "joinDate": "2025-02-24T19:04:13.783Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Sadik6",
+      "email": "salihuauwal976@gmail.com",
+      "encrypted_password": "ac0680456dde20cf8a5bd599eec12163",
+      "referral_code": "SA5U1",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:48:21.516Z"
     }
   ],
   "withdrawals": [
