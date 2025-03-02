@@ -22525,11 +22525,12 @@
         "Muhammad675",
         "Muhammad787",
         "Welcome5",
-        "Sadi45"
+        "Sadi45",
+        "Aminu68"
       ],
       "balance": 835,
-      "refers": 64,
-      "referralBalance": 6400,
+      "refers": 65,
+      "referralBalance": 6500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35864,7 +35865,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T23:26:49.249Z"
+      "joinDate": "2025-03-02T23:26:49.249Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aminu68",
+      "email": "mugulale186@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "AMOAV",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:27:44.540Z"
     }
   ],
   "withdrawals": [
