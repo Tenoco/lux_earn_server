@@ -22471,11 +22471,12 @@
         "Ahmadu8",
         "Sumaila",
         "Muhammad6",
-        "Ashuru5"
+        "Ashuru5",
+        "Muhammad78"
       ],
       "balance": 835,
-      "refers": 24,
-      "referralBalance": 2400,
+      "refers": 25,
+      "referralBalance": 2500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34770,7 +34771,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:44:06.488Z"
+      "joinDate": "2025-03-02T19:44:06.488Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad78",
+      "email": "muhammad5779@gmail.com",
+      "encrypted_password": "512fbd9c4b6c7d911e48cd1390d4a08d",
+      "referral_code": "MUTQG",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:45:12.481Z"
     }
   ],
   "withdrawals": [
