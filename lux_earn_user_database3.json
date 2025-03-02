@@ -33681,7 +33681,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:57:54.964Z",
-      "lastSpin": "2025-03-02T13:58:08.085Z",
       "completedMissions": [
         11,
         12,
@@ -33699,7 +33698,8 @@
         25,
         26,
         27
-      ]
+      ],
+      "lastSpin": "2025-03-02T13:58:08.085Z"
     },
     {
       "username": "Yamiaaron ",
@@ -33709,14 +33709,16 @@
       "inviter_referral_code": "SO5KJ",
       "inviter_username": "sokoyami ",
       "invited_users": [],
-      "balance": 25,
+      "balance": 75,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:59:06.560Z",
-      "completedMissions": [],
-      "lastSpin": "2025-03-02T13:59:21.057Z"
+      "lastSpin": "2025-03-02T13:59:21.057Z",
+      "completedMissions": [
+        11
+      ]
     }
   ],
   "withdrawals": [
