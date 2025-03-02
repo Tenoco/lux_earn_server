@@ -33552,11 +33552,12 @@
         "Aliyu66",
         "Aliyu67",
         "Aliyu68",
-        "Aliyu69"
+        "Aliyu69",
+        "Saminu68"
       ],
       "balance": 658,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T12:21:09.826Z",
@@ -35899,7 +35900,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T23:28:20.211Z"
+      "joinDate": "2025-03-02T23:28:20.211Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Saminu68",
+      "email": "Saminusani768@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "SAKPC",
+      "inviter_referral_code": "MUTFA",
+      "inviter_username": "Muhammad55",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:29:08.856Z"
     }
   ],
   "withdrawals": [
