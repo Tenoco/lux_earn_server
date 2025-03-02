@@ -33745,7 +33745,7 @@
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
       "invited_users": [],
-      "balance": 412,
+      "balance": 512,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33760,7 +33760,9 @@
         17,
         18,
         18,
-        21
+        21,
+        20,
+        22
       ]
     }
   ],
