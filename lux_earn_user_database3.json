@@ -23095,7 +23095,7 @@
         "Lonelyjay",
         "Raymond"
       ],
-      "balance": 1067,
+      "balance": 1089,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -23143,7 +23143,7 @@
         22,
         22
       ],
-      "lastSpin": "2025-03-01T13:13:13.514Z"
+      "lastSpin": "2025-03-02T19:28:58.168Z"
     },
     {
       "username": "KaydeeX",
@@ -34588,7 +34588,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:28:30.297Z"
+      "joinDate": "2025-03-02T19:28:30.297Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
