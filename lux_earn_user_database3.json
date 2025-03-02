@@ -32477,7 +32477,29 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T04:39:39.063Z"
+      "joinDate": "2025-03-02T04:39:39.063Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "COACHTINA",
+      "email": "oldipotina08@gmail.com",
+      "encrypted_password": "b2724599c511b3b0a204da8015a08989",
+      "referral_code": "CO4PD",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": null,
+      "invited_users": [
+        "Sylviapurity",
+        "Akinjobi"
+      ],
+      "balance": 0,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T00:43:58.481Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
