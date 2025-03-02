@@ -22485,11 +22485,12 @@
         "Sadik555",
         "Sadiku56",
         "Muhammad67",
-        "Muhammad57"
+        "Muhammad57",
+        "Tammy "
       ],
       "balance": 835,
-      "refers": 38,
-      "referralBalance": 3800,
+      "refers": 39,
+      "referralBalance": 3900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35059,6 +35060,21 @@
       "joinDate": "2025-03-02T20:12:34.349Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Tammy ",
+      "email": "Murtalamuhd345@gmail.com",
+      "encrypted_password": "d779c66e9e80d160f8046bb95a15af79",
+      "referral_code": "TAU6Z",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:14:14.948Z"
     }
   ],
   "withdrawals": [
