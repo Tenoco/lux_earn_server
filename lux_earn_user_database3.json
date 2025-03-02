@@ -33297,12 +33297,17 @@
       "inviter_referral_code": "FLZB9",
       "inviter_username": "Flexxdee",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T12:42:25.630Z"
+      "joinDate": "2025-03-02T12:42:25.630Z",
+      "completedMissions": [
+        11,
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
