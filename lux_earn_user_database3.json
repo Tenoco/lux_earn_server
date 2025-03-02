@@ -32764,7 +32764,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T06:43:10.956Z"
+      "joinDate": "2025-03-02T06:43:10.956Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Matthew ",
+      "email": "fridaymathew963@gmail.com",
+      "encrypted_password": "ed6b609263c2547812db7f7af4e7df36",
+      "referral_code": "MA2UI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T07:02:12.505Z"
     }
   ],
   "withdrawals": [
