@@ -34378,7 +34378,44 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:16:28.878Z"
+      "joinDate": "2025-03-02T19:16:28.878Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Nomcy25",
+      "email": "ibierejoel96@gmail.com",
+      "encrypted_password": "563e0b4106881073ca6e3a2c074f6b72",
+      "referral_code": "NORTR",
+      "inviter_referral_code": null,
+      "inviter_username": "Abisco22",
+      "invited_users": [],
+      "balance": 342,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T19:39:02.062Z",
+      "completedMissions": [
+        1,
+        2,
+        16,
+        4,
+        5,
+        6,
+        7,
+        15,
+        10,
+        11,
+        11,
+        14,
+        17,
+        12,
+        12,
+        13,
+        13
+      ],
+      "lastSpin": "2025-02-26T19:30:52.343Z"
     }
   ],
   "withdrawals": [
