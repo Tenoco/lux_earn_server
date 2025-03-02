@@ -1430,10 +1430,12 @@
       "referral_code": "NOXT0",
       "inviter_referral_code": "LUTF3",
       "inviter_username": "Luxearner",
-      "invited_users": [],
+      "invited_users": [
+        "sokoyami "
+      ],
       "balance": 370,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T01:17:28.154Z",
@@ -33550,6 +33552,21 @@
         27
       ],
       "lastSpin": "2025-03-02T13:44:45.052Z"
+    },
+    {
+      "username": "sokoyami ",
+      "email": "aaronsokoyami@gmail.com",
+      "encrypted_password": "72b10a4500d4eef07b80283f649adad8",
+      "referral_code": "SO5KJ",
+      "inviter_referral_code": "NOXT0",
+      "inviter_username": "Noblegrafix",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:45:59.997Z"
     }
   ],
   "withdrawals": [
