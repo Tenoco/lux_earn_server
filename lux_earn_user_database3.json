@@ -22505,11 +22505,12 @@
         "Muhammad76",
         "Ismailjibrin",
         "Raunchy ",
-        "Sadik67"
+        "Sadik67",
+        "Yahaya35"
       ],
       "balance": 835,
-      "refers": 58,
-      "referralBalance": 5800,
+      "refers": 59,
+      "referralBalance": 5900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35574,7 +35575,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T21:38:10.893Z"
+      "joinDate": "2025-03-02T21:38:10.893Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yahaya35",
+      "email": "tsakuwa163@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "YAHWL",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T21:38:43.150Z"
     }
   ],
   "withdrawals": [
