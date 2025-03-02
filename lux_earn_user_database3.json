@@ -33577,10 +33577,12 @@
       "referral_code": "SO5KJ",
       "inviter_referral_code": "NOXT0",
       "inviter_username": "Noblegrafix",
-      "invited_users": [],
+      "invited_users": [
+        "Yamiaaron "
+      ],
       "balance": 808,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:45:59.997Z",
@@ -33679,7 +33681,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:57:54.964Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T13:58:08.085Z"
+    },
+    {
+      "username": "Yamiaaron ",
+      "email": "buddysokoyami@gmail.com",
+      "encrypted_password": "d4c6389f8e6b4a562a92e336dfcb2e43",
+      "referral_code": "YAEP8",
+      "inviter_referral_code": "SO5KJ",
+      "inviter_username": "sokoyami ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:59:06.560Z"
     }
   ],
   "withdrawals": [
