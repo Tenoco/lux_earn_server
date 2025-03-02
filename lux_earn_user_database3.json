@@ -22389,11 +22389,12 @@
       "invited_users": [
         "Muhammad55",
         "Abdul54",
-        "Usmail54"
+        "Usmail54",
+        "Ahmad45"
       ],
       "balance": 835,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -33463,6 +33464,21 @@
         27
       ],
       "lastSpin": "2025-03-02T13:32:45.211Z"
+    },
+    {
+      "username": "Ahmad45",
+      "email": "ahmadumar56@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "AH3YE",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:34:56.038Z"
     }
   ],
   "withdrawals": [
