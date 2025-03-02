@@ -6886,7 +6886,7 @@
         "Yokeji",
         "Jobrighy"
       ],
-      "balance": 479,
+      "balance": 499,
       "refers": 6,
       "referralBalance": 600,
       "withdrawalBalance": 0,
@@ -6918,7 +6918,7 @@
         18,
         18
       ],
-      "lastSpin": "2025-02-26T16:33:14.681Z"
+      "lastSpin": "2025-03-02T15:30:58.973Z"
     },
     {
       "username": "Hsjskskskdk3",
@@ -33983,7 +33983,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T15:27:11.425Z"
+      "joinDate": "2025-03-02T15:27:11.425Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
