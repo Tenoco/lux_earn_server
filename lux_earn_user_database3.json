@@ -22460,11 +22460,12 @@
         "Muhammad64",
         "AdMan",
         "Muhammad77",
-        "Tasiu5"
+        "Tasiu5",
+        "Sulaiman67"
       ],
       "balance": 835,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34323,7 +34324,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:12:52.642Z"
+      "joinDate": "2025-03-02T19:12:52.642Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sulaiman67",
+      "email": "Sulaimansani843@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "SU2NJ",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:13:46.203Z"
     }
   ],
   "withdrawals": [
