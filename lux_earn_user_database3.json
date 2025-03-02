@@ -33577,14 +33577,15 @@
       "inviter_referral_code": "NOXT0",
       "inviter_username": "Noblegrafix",
       "invited_users": [],
-      "balance": 50,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:45:59.997Z",
       "completedMissions": [
-        11
+        11,
+        12
       ],
       "lastSpin": null
     },
@@ -33636,6 +33637,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:52:45.748Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T13:52:58.900Z"
     }
   ],
