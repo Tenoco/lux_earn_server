@@ -35570,14 +35570,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T21:38:10.893Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11,
+        12
+      ]
     },
     {
       "username": "Yahaya35",
