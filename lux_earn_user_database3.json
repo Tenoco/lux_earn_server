@@ -22511,11 +22511,12 @@
         "Raunchy ",
         "Sadik67",
         "Yahaya35",
-        "Shuaibu56"
+        "Shuaibu56",
+        "Muhammad675"
       ],
       "balance": 835,
-      "refers": 60,
-      "referralBalance": 6000,
+      "refers": 61,
+      "referralBalance": 6100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35722,7 +35723,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T22:29:13.623Z"
+      "joinDate": "2025-03-02T22:29:13.623Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad675",
+      "email": "fatima5668@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "MUJC2",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T22:32:35.507Z"
     }
   ],
   "withdrawals": [
