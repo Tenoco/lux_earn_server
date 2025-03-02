@@ -22468,11 +22468,12 @@
         "5famin",
         "Aminu66",
         "Yusuf6",
-        "Ahmadu8"
+        "Ahmadu8",
+        "Sumaila"
       ],
       "balance": 835,
-      "refers": 21,
-      "referralBalance": 2100,
+      "refers": 22,
+      "referralBalance": 2200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34716,7 +34717,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:40:20.041Z"
+      "joinDate": "2025-03-02T19:40:20.041Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sumaila",
+      "email": "Sulaimansani343@gmail.com",
+      "encrypted_password": "ac0680456dde20cf8a5bd599eec12163",
+      "referral_code": "SUB95",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:41:22.443Z"
     }
   ],
   "withdrawals": [
