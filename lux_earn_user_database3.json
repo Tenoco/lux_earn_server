@@ -33566,11 +33566,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Safgsg"
+        "Safgsg",
+        "Muhd55"
       ],
       "balance": 760,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:28:31.879Z",
@@ -34680,7 +34681,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:38:19.547Z"
+      "joinDate": "2025-03-02T19:38:19.547Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhd55",
+      "email": "kamaluddeeni344@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "MURYZ",
+      "inviter_referral_code": "AH6WJ",
+      "inviter_username": "Ahmad44",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:39:27.497Z"
     }
   ],
   "withdrawals": [
