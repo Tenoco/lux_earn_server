@@ -32610,11 +32610,12 @@
       "inviter_username": null,
       "invited_users": [
         "Nany",
-        "Lack "
+        "Lack ",
+        "Last "
       ],
       "balance": 862,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T22:53:05.138Z",
@@ -35664,7 +35665,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T22:03:30.973Z"
+      "joinDate": "2025-03-02T22:03:30.973Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Last ",
+      "email": "last48@gmail.com",
+      "encrypted_password": "409b35274803d73b0697509cb9871f04",
+      "referral_code": "LAVG9",
+      "inviter_referral_code": "WAXZK",
+      "inviter_username": "Watt",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T22:05:49.874Z"
     }
   ],
   "withdrawals": [
