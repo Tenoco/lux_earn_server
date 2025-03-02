@@ -22465,11 +22465,12 @@
         "Anisa55",
         "Yakubu5",
         "Farii5",
-        "5famin"
+        "5famin",
+        "Aminu66"
       ],
       "balance": 835,
-      "refers": 18,
-      "referralBalance": 1800,
+      "refers": 19,
+      "referralBalance": 1900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34552,7 +34553,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:25:59.997Z"
+      "joinDate": "2025-03-02T19:25:59.997Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aminu66",
+      "email": "aminualiyu78@gmail.com",
+      "encrypted_password": "82fe974368b99e91005971a2e71d6c5e",
+      "referral_code": "AMPVE",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:27:22.935Z"
     }
   ],
   "withdrawals": [
