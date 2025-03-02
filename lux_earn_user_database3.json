@@ -35557,7 +35557,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T21:36:36.705Z"
+      "joinDate": "2025-03-02T21:36:36.705Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Olasmatt",
+      "email": "olaoluwolemathew@gmail.com",
+      "encrypted_password": "937a845f58dab536eef0e8807e9c4f28",
+      "referral_code": "OL1UO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T21:38:10.893Z"
     }
   ],
   "withdrawals": [
