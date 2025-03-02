@@ -10228,7 +10228,7 @@
       "inviter_referral_code": "HA2YX",
       "inviter_username": "Haywhy",
       "invited_users": [],
-      "balance": 389,
+      "balance": 539,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -10252,7 +10252,10 @@
         13,
         15,
         16,
-        17
+        17,
+        17,
+        17,
+        18
       ],
       "lastSpin": "2025-03-02T18:45:59.414Z"
     },
@@ -34181,7 +34184,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T18:53:53.707Z"
+      "joinDate": "2025-03-02T18:53:53.707Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
