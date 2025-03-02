@@ -34061,7 +34061,7 @@
       "inviter_referral_code": "CHJWK",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -34069,7 +34069,8 @@
       "joinDate": "2025-03-02T16:50:13.409Z",
       "completedMissions": [
         11,
-        12
+        12,
+        13
       ],
       "lastSpin": null
     }
