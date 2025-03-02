@@ -32556,7 +32556,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T05:10:28.121Z"
+      "joinDate": "2025-03-02T05:10:28.121Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Wetduhur Walshak john",
+      "email": "wetduhurwalshakjohn@gmail.com",
+      "encrypted_password": "05e11d952762921a8133a5e4380ce5b4",
+      "referral_code": "WE1QD",
+      "inviter_referral_code": "Ku47j",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T05:11:04.651Z"
     }
   ],
   "withdrawals": [
