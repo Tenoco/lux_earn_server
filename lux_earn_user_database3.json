@@ -22522,11 +22522,12 @@
         "Sadik67",
         "Yahaya35",
         "Shuaibu56",
-        "Muhammad675"
+        "Muhammad675",
+        "Muhammad787"
       ],
       "balance": 835,
-      "refers": 61,
-      "referralBalance": 6100,
+      "refers": 62,
+      "referralBalance": 6200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35813,6 +35814,21 @@
       "joinDate": "2025-02-22T22:01:09.682Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad787",
+      "email": "Yahayasani57@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MU4EA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:22:21.125Z"
     }
   ],
   "withdrawals": [
