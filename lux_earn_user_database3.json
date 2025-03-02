@@ -22479,11 +22479,12 @@
         "Mugu56",
         "Muhammad56",
         "Muhammad54",
-        "Usman55"
+        "Usman55",
+        "Haidar"
       ],
       "balance": 835,
-      "refers": 32,
-      "referralBalance": 3200,
+      "refers": 33,
+      "referralBalance": 3300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34934,6 +34935,21 @@
       "joinDate": "2025-03-02T19:55:01.513Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Haidar",
+      "email": "halifasani6677@gmail.com",
+      "encrypted_password": "1ca2e224b097b6c27c89d96060da9226",
+      "referral_code": "HA4DA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:58:11.142Z"
     }
   ],
   "withdrawals": [
