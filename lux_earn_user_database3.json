@@ -27809,7 +27809,7 @@
       "inviter_referral_code": "OL6TF ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 514,
+      "balance": 519,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27833,7 +27833,7 @@
         20,
         19
       ],
-      "lastSpin": "2025-02-27T20:23:15.286Z"
+      "lastSpin": "2025-03-02T19:57:17.673Z"
     },
     {
       "username": "Tunsman ",
@@ -34931,7 +34931,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:55:01.513Z"
+      "joinDate": "2025-03-02T19:55:01.513Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
