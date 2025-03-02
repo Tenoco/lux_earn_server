@@ -32799,12 +32799,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T07:13:22.500Z"
+      "joinDate": "2025-03-02T07:13:22.500Z",
+      "completedMissions": [
+        27
+      ]
     }
   ],
   "withdrawals": [
