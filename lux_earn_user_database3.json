@@ -35333,7 +35333,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:35:53.102Z"
+      "joinDate": "2025-03-02T20:35:53.102Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "iheanachodestinykelechi",
+      "email": "bdesty966@gmail.com",
+      "encrypted_password": "c9c8c6c961b43660998c6919037de5de",
+      "referral_code": "IHQ7C",
+      "inviter_referral_code": "Chjwk",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:39:34.563Z"
     }
   ],
   "withdrawals": [
