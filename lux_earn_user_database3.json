@@ -22390,11 +22390,12 @@
         "Muhammad55",
         "Abdul54",
         "Usmail54",
-        "Ahmad45"
+        "Ahmad45",
+        "Saminu6"
       ],
       "balance": 835,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -33510,7 +33511,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T13:39:07.164Z"
+      "joinDate": "2025-03-02T13:39:07.164Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Saminu6",
+      "email": "Saminusani78@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "SAM0W",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:40:14.377Z"
     }
   ],
   "withdrawals": [
