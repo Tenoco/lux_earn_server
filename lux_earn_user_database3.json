@@ -33330,11 +33330,12 @@
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
       "invited_users": [
-        "Sani5"
+        "Sani5",
+        "Aliyu66"
       ],
       "balance": 658,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T12:21:09.826Z",
@@ -33800,7 +33801,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T14:13:45.798Z"
+      "joinDate": "2025-03-02T14:13:45.798Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Aliyu66",
+      "email": "Aliyuabubakarnura78@gmail.com",
+      "encrypted_password": "feb8dc0697a2e0a947c6e20dc4ec3ebc",
+      "referral_code": "ALY6A",
+      "inviter_referral_code": "MUTFA",
+      "inviter_username": "Muhammad55",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T14:16:10.024Z"
     }
   ],
   "withdrawals": [
