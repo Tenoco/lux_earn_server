@@ -22486,11 +22486,12 @@
         "Sadiku56",
         "Muhammad67",
         "Muhammad57",
-        "Tammy "
+        "Tammy ",
+        "Yahaya33"
       ],
       "balance": 835,
-      "refers": 39,
-      "referralBalance": 3900,
+      "refers": 40,
+      "referralBalance": 4000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35074,7 +35075,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:14:14.948Z"
+      "joinDate": "2025-03-02T20:14:14.948Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Yahaya33",
+      "email": "Yahayasani56@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "YA578",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:15:27.747Z"
     }
   ],
   "withdrawals": [
