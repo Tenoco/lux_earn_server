@@ -32821,7 +32821,23 @@
         17,
         12,
         11
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Henry ",
+      "email": "rajirisikat93@gmail.com",
+      "encrypted_password": "e3047fcff9d68924db662c1b12706f7e",
+      "referral_code": "HEW38",
+      "inviter_referral_code": "MAUOD",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T07:22:14.024Z"
     }
   ],
   "withdrawals": [
