@@ -32899,12 +32899,14 @@
       "inviter_referral_code": "OYYAS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T08:11:51.717Z"
+      "joinDate": "2025-03-02T08:11:51.717Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-02T08:13:49.878Z"
     }
   ],
   "withdrawals": [
