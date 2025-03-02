@@ -2529,7 +2529,7 @@
         "Shafiyi ",
         "Kuduboy00"
       ],
-      "balance": 423,
+      "balance": 503,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -2556,9 +2556,10 @@
         15,
         15,
         20,
-        21
+        21,
+        22
       ],
-      "lastSpin": "2025-02-28T18:36:25.891Z"
+      "lastSpin": "2025-03-02T13:41:44.880Z"
     },
     {
       "username": "Victor234",
@@ -33587,6 +33588,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:46:47.117Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T13:47:07.817Z"
     }
   ],
