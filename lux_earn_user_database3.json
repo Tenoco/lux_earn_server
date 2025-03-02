@@ -22372,10 +22372,12 @@
       "referral_code": "USH6W",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Muhammad55"
+      ],
       "balance": 835,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -33263,6 +33265,21 @@
         17
       ],
       "lastSpin": "2025-03-02T11:40:24.211Z"
+    },
+    {
+      "username": "Muhammad55",
+      "email": "mugulale166@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MUTFA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T12:21:09.826Z"
     }
   ],
   "withdrawals": [
