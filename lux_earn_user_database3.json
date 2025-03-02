@@ -32799,7 +32799,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 750,
+      "balance": 760,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32822,7 +32822,7 @@
         12,
         11
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-02T07:22:44.389Z"
     },
     {
       "username": "Henry ",
@@ -32837,7 +32837,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T07:22:14.024Z"
+      "joinDate": "2025-03-02T07:22:14.024Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
