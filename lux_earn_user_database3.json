@@ -22500,11 +22500,12 @@
         "Jamilu5",
         "salim31",
         "Sani56",
-        "Welcome"
+        "Welcome",
+        "Muhd56"
       ],
       "balance": 835,
-      "refers": 53,
-      "referralBalance": 5300,
+      "refers": 54,
+      "referralBalance": 5400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35466,6 +35467,21 @@
         13
       ],
       "lastSpin": "2025-03-02T21:28:43.450Z"
+    },
+    {
+      "username": "Muhd56",
+      "email": "Hamisusani56@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MUPLA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T21:31:40.786Z"
     }
   ],
   "withdrawals": [
