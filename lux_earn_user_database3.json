@@ -22475,11 +22475,12 @@
         "Muhammad78",
         "Meku56",
         "Yakubu55",
-        "Sadik6"
+        "Sadik6",
+        "Mugu56"
       ],
       "balance": 835,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34859,7 +34860,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:48:21.516Z"
+      "joinDate": "2025-03-02T19:48:21.516Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mugu56",
+      "email": "mugulale68@gmail.com",
+      "encrypted_password": "ccbe89b9d6724141bb8ef1a73009fc2a",
+      "referral_code": "MUOD2",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:49:20.658Z"
     }
   ],
   "withdrawals": [
