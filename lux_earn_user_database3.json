@@ -22510,11 +22510,12 @@
         "Ismailjibrin",
         "Raunchy ",
         "Sadik67",
-        "Yahaya35"
+        "Yahaya35",
+        "Shuaibu56"
       ],
       "balance": 835,
-      "refers": 59,
-      "referralBalance": 5900,
+      "refers": 60,
+      "referralBalance": 6000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35707,6 +35708,21 @@
       "joinDate": "2025-03-02T22:07:01.362Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Shuaibu56",
+      "email": "Shuaibusani789@gmail.com",
+      "encrypted_password": "c2bd595807c3653002325cfafc672495",
+      "referral_code": "SHTCK",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T22:29:13.623Z"
     }
   ],
   "withdrawals": [
