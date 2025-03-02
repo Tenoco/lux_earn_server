@@ -27847,7 +27847,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 340,
+      "balance": 348,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -27872,7 +27872,7 @@
         10,
         15
       ],
-      "lastSpin": "2025-02-27T20:47:13.325Z"
+      "lastSpin": "2025-03-02T14:06:58.651Z"
     },
     {
       "username": "Ayanakouji",
@@ -33751,7 +33751,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T14:03:07.394Z",
-      "lastSpin": "2025-03-02T14:03:28.886Z",
       "completedMissions": [
         11,
         12,
@@ -33769,7 +33768,8 @@
         26,
         27,
         19
-      ]
+      ],
+      "lastSpin": "2025-03-02T14:03:28.886Z"
     }
   ],
   "withdrawals": [
