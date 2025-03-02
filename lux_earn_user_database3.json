@@ -22409,11 +22409,12 @@
         "Ahmad45",
         "Saminu6",
         "Saminu67",
-        "Yahaya3"
+        "Yahaya3",
+        "Yahaya34"
       ],
       "balance": 835,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -33663,6 +33664,21 @@
         20
       ],
       "lastSpin": "2025-03-02T13:52:58.900Z"
+    },
+    {
+      "username": "Yahaya34",
+      "email": "mugulale666@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "YARNZ",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:57:54.964Z"
     }
   ],
   "withdrawals": [
