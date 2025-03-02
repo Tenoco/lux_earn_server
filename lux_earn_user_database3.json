@@ -22489,11 +22489,12 @@
         "Tammy ",
         "Yahaya33",
         "Tasiu55",
-        "Adamu65"
+        "Adamu65",
+        "Iliyasu"
       ],
       "balance": 835,
-      "refers": 42,
-      "referralBalance": 4200,
+      "refers": 43,
+      "referralBalance": 4300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35128,7 +35129,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:18:25.894Z"
+      "joinDate": "2025-03-02T20:18:25.894Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iliyasu",
+      "email": "tsakuwa53@gmail.com",
+      "encrypted_password": "4c6e32905fcb8fa9fe1d9a62ce385021",
+      "referral_code": "ILPU0",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:19:58.618Z"
     }
   ],
   "withdrawals": [
