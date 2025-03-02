@@ -22457,11 +22457,12 @@
         "Yahaya3",
         "Yahaya34",
         "Sabiu5",
-        "Muhammad64"
+        "Muhammad64",
+        "AdMan"
       ],
       "balance": 835,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34200,6 +34201,21 @@
       "joinDate": "2025-03-02T18:53:53.707Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "AdMan",
+      "email": "Muhammadabubakarusman87@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "ADY24",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:03:47.311Z"
     }
   ],
   "withdrawals": [
