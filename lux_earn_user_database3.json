@@ -34824,7 +34824,26 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:47:08.073Z"
+      "joinDate": "2025-03-02T19:47:08.073Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mide",
+      "email": "easyspring71@gmail.com",
+      "encrypted_password": "115cb53deea1f407b6a4d3513fc492b0",
+      "referral_code": "MI48N",
+      "inviter_referral_code": "TEBD4",
+      "inviter_username": "Tee boy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-24T19:04:13.783Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
