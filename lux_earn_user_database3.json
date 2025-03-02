@@ -33777,10 +33777,12 @@
       "referral_code": "YARNZ",
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
-      "invited_users": [],
+      "invited_users": [
+        "Sadisu5"
+      ],
       "balance": 820,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:57:54.964Z",
@@ -34341,7 +34343,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:13:46.203Z"
+      "joinDate": "2025-03-02T19:13:46.203Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadisu5",
+      "email": "salihuauwal78@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "SA1IK",
+      "inviter_referral_code": "YARNZ",
+      "inviter_username": "Yahaya34",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:15:42.960Z"
     }
   ],
   "withdrawals": [
