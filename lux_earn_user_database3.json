@@ -33132,12 +33132,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T10:15:26.247Z"
+      "joinDate": "2025-03-02T10:15:26.247Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-02T10:16:32.101Z"
     }
   ],
   "withdrawals": [
