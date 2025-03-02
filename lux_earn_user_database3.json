@@ -22524,11 +22524,12 @@
         "Shuaibu56",
         "Muhammad675",
         "Muhammad787",
-        "Welcome5"
+        "Welcome5",
+        "Sadi45"
       ],
       "balance": 835,
-      "refers": 63,
-      "referralBalance": 6300,
+      "refers": 64,
+      "referralBalance": 6400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35846,7 +35847,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T23:23:08.968Z"
+      "joinDate": "2025-03-02T23:23:08.968Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadi45",
+      "email": "Sadiqmuhammad686@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "SA2NW",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:26:49.249Z"
     }
   ],
   "withdrawals": [
