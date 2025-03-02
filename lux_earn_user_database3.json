@@ -33599,11 +33599,12 @@
       "inviter_username": "Usman5",
       "invited_users": [
         "Samini",
-        "Tsakuwa"
+        "Tsakuwa",
+        "Abubakar6"
       ],
       "balance": 720,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:34:56.038Z",
@@ -34625,7 +34626,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:31:55.408Z"
+      "joinDate": "2025-03-02T19:31:55.408Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Abubakar6",
+      "email": "abubakarnura@gmail.com",
+      "encrypted_password": "ac0680456dde20cf8a5bd599eec12163",
+      "referral_code": "ABXHZ",
+      "inviter_referral_code": "AH3YE",
+      "inviter_username": "Ahmad45",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:33:29.991Z"
     }
   ],
   "withdrawals": [
