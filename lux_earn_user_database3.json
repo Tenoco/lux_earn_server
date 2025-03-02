@@ -33947,7 +33947,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T14:30:08.289Z"
+      "joinDate": "2025-03-02T14:30:08.289Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Samson17",
+      "email": "samsonoyerinde2000@gmail.com",
+      "encrypted_password": "adb0dbe361890122b8dd93744ff53fd7",
+      "referral_code": "SAB0I",
+      "inviter_referral_code": "BE30N",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T14:43:20.606Z"
     }
   ],
   "withdrawals": [
