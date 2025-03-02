@@ -32737,7 +32737,7 @@
       "inviter_referral_code": "VAGJR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 122,
+      "balance": 172,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -32747,7 +32747,8 @@
         1,
         2,
         5,
-        11
+        11,
+        27
       ],
       "lastSpin": "2025-03-02T06:38:31.117Z"
     },
@@ -32784,7 +32785,8 @@
       "joinDate": "2025-03-02T07:02:12.505Z",
       "completedMissions": [
         27
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
