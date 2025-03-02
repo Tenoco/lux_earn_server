@@ -22504,11 +22504,12 @@
         "Muhd56",
         "Muhammad76",
         "Ismailjibrin",
-        "Raunchy "
+        "Raunchy ",
+        "Sadik67"
       ],
       "balance": 835,
-      "refers": 57,
-      "referralBalance": 5700,
+      "refers": 58,
+      "referralBalance": 5800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35539,7 +35540,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T21:35:29.826Z"
+      "joinDate": "2025-03-02T21:35:29.826Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadik67",
+      "email": "mugulale176@gmail.com",
+      "encrypted_password": "ac0680456dde20cf8a5bd599eec12163",
+      "referral_code": "SAMOA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T21:36:36.705Z"
     }
   ],
   "withdrawals": [
