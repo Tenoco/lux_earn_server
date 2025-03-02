@@ -33645,11 +33645,12 @@
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
       "invited_users": [
-        "Saidu5"
+        "Saidu5",
+        "Nndhsh"
       ],
       "balance": 775,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:40:14.377Z",
@@ -34455,6 +34456,21 @@
       "joinDate": "2025-03-02T19:19:26.588Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nndhsh",
+      "email": "Lawansani457@gmail.com",
+      "encrypted_password": "b7cf28b6530d96359de9e3846f08e34d",
+      "referral_code": "NNB0H",
+      "inviter_referral_code": "SAM0W",
+      "inviter_username": "Saminu6",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:20:52.397Z"
     }
   ],
   "withdrawals": [
