@@ -33597,10 +33597,12 @@
       "referral_code": "AH3YE",
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
-      "invited_users": [],
+      "invited_users": [
+        "Samini"
+      ],
       "balance": 720,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:34:56.038Z",
@@ -34591,6 +34593,21 @@
       "joinDate": "2025-03-02T19:28:30.297Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samini",
+      "email": "mugulale16@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "SA35S",
+      "inviter_referral_code": "AH3YE",
+      "inviter_username": "Ahmad45",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:30:57.214Z"
     }
   ],
   "withdrawals": [
