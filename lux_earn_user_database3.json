@@ -33598,11 +33598,12 @@
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
       "invited_users": [
-        "Samini"
+        "Samini",
+        "Tsakuwa"
       ],
       "balance": 720,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:34:56.038Z",
@@ -34607,7 +34608,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:30:57.214Z"
+      "joinDate": "2025-03-02T19:30:57.214Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Tsakuwa",
+      "email": "tsakuwa122@gmail.com",
+      "encrypted_password": "259ef480959e1e25d918b73988cd81bf",
+      "referral_code": "TSH4N",
+      "inviter_referral_code": "AH3YE",
+      "inviter_username": "Ahmad45",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:31:55.408Z"
     }
   ],
   "withdrawals": [
