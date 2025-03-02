@@ -22488,11 +22488,12 @@
         "Muhammad57",
         "Tammy ",
         "Yahaya33",
-        "Tasiu55"
+        "Tasiu55",
+        "Adamu65"
       ],
       "balance": 835,
-      "refers": 41,
-      "referralBalance": 4100,
+      "refers": 42,
+      "referralBalance": 4200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35110,7 +35111,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:17:20.711Z"
+      "joinDate": "2025-03-02T20:17:20.711Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Adamu65",
+      "email": "adamu123@gmail.com",
+      "encrypted_password": "1ca2e224b097b6c27c89d96060da9226",
+      "referral_code": "ADZGD",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:18:25.894Z"
     }
   ],
   "withdrawals": [
