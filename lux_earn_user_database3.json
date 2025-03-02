@@ -33644,7 +33644,7 @@
       "inviter_referral_code": "USH6W",
       "inviter_username": "Usman5",
       "invited_users": [],
-      "balance": 125,
+      "balance": 325,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33653,7 +33653,11 @@
       "lastSpin": "2025-03-02T13:52:58.900Z",
       "completedMissions": [
         11,
-        12
+        12,
+        13,
+        14,
+        17,
+        18
       ]
     }
   ],
