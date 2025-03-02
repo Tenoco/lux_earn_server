@@ -22461,11 +22461,12 @@
         "AdMan",
         "Muhammad77",
         "Tasiu5",
-        "Sulaiman67"
+        "Sulaiman67",
+        "Anisa55"
       ],
       "balance": 835,
-      "refers": 14,
-      "referralBalance": 1400,
+      "refers": 15,
+      "referralBalance": 1500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34416,6 +34417,21 @@
         13
       ],
       "lastSpin": "2025-02-26T19:30:52.343Z"
+    },
+    {
+      "username": "Anisa55",
+      "email": "Aliyuabubakarnura677@gmail.com",
+      "encrypted_password": "18b8f5696569553d0c3377236bbf91ce",
+      "referral_code": "AN44S",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:17:51.006Z"
     }
   ],
   "withdrawals": [
