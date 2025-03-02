@@ -33310,7 +33310,7 @@
       "inviter_referral_code": "FLZB9",
       "inviter_username": "Flexxdee",
       "invited_users": [],
-      "balance": 1200,
+      "balance": 1222,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33342,7 +33342,7 @@
         26,
         27
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-02T13:10:06.215Z"
     },
     {
       "username": "Abdul54",
@@ -33357,7 +33357,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T13:09:25.365Z"
+      "joinDate": "2025-03-02T13:09:25.365Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
