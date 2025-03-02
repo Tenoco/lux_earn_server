@@ -22469,11 +22469,12 @@
         "Aminu66",
         "Yusuf6",
         "Ahmadu8",
-        "Sumaila"
+        "Sumaila",
+        "Muhammad6"
       ],
       "balance": 835,
-      "refers": 22,
-      "referralBalance": 2200,
+      "refers": 23,
+      "referralBalance": 2300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34734,7 +34735,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:41:22.443Z"
+      "joinDate": "2025-03-02T19:41:22.443Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad6",
+      "email": "Muhammadabubakarusman89@gmail.com",
+      "encrypted_password": "57cb7f2aec1d085cc754953b4bb57b43",
+      "referral_code": "MUCKV",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:43:10.276Z"
     }
   ],
   "withdrawals": [
