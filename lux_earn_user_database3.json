@@ -34251,7 +34251,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:09:15.793Z"
+      "joinDate": "2025-03-02T19:09:15.793Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "godsonrivers",
+      "email": "godsonrivers879@gmail.com",
+      "encrypted_password": "991819d3b782f108892a5bbe2a6fbf76",
+      "referral_code": "GOAV8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:09:24.622Z"
     }
   ],
   "withdrawals": [
