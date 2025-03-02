@@ -35021,7 +35021,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:09:42.016Z"
+      "joinDate": "2025-03-02T20:09:42.016Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Uzoma ",
+      "email": "uzomamunachimso901@gmail.com",
+      "encrypted_password": "0b6201b008b7ff52d581e577ec448ddf",
+      "referral_code": "UZLQV",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:12:12.861Z"
     }
   ],
   "withdrawals": [
