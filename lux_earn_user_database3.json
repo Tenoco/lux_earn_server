@@ -9156,7 +9156,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 611,
+      "balance": 629,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9186,7 +9186,7 @@
         25,
         24
       ],
-      "lastSpin": "2025-03-01T09:33:42.617Z"
+      "lastSpin": "2025-03-02T10:22:28.604Z"
     },
     {
       "username": "Mueez gamawa",
@@ -33155,6 +33155,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T10:17:25.013Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T10:21:34.412Z"
     }
   ],
