@@ -22467,11 +22467,12 @@
         "Farii5",
         "5famin",
         "Aminu66",
-        "Yusuf6"
+        "Yusuf6",
+        "Ahmadu8"
       ],
       "balance": 835,
-      "refers": 20,
-      "referralBalance": 2000,
+      "refers": 21,
+      "referralBalance": 2100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34644,7 +34645,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T19:33:29.991Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T19:33:45.585Z"
+    },
+    {
+      "username": "Ahmadu8",
+      "email": "ahmadumar555@gmail.com",
+      "encrypted_password": "ac92edd472b13b706dc73757664bfeee",
+      "referral_code": "AHLPQ",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:35:39.072Z"
     }
   ],
   "withdrawals": [
