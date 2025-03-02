@@ -132,7 +132,7 @@
         "Adeoye123",
         "Demilade"
       ],
-      "balance": 758,
+      "balance": 783,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -162,7 +162,7 @@
         19,
         18
       ],
-      "lastSpin": "2025-03-01T20:23:55.995Z"
+      "lastSpin": "2025-03-02T20:24:39.090Z"
     },
     {
       "username": "Gracefavour",
@@ -35200,7 +35200,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:23:33.583Z"
+      "joinDate": "2025-03-02T20:23:33.583Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
