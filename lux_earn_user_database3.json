@@ -12701,7 +12701,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 713,
+      "balance": 743,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -12734,7 +12734,7 @@
         26,
         27
       ],
-      "lastSpin": "2025-03-01T18:37:01.285Z"
+      "lastSpin": "2025-03-02T18:43:12.630Z"
     },
     {
       "username": "Ibrahim adamu ",
@@ -34162,7 +34162,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T18:34:41.276Z"
+      "joinDate": "2025-03-02T18:34:41.276Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
