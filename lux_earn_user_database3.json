@@ -20247,13 +20247,15 @@
       "inviter_referral_code": "BEIR4",
       "inviter_username": "BELYKGHOST",
       "invited_users": [],
-      "balance": 18,
+      "balance": 68,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T12:11:31.870Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": "2025-02-26T12:12:12.118Z"
     },
     {
