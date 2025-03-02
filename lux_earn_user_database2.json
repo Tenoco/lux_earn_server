@@ -40119,6 +40119,33 @@
       "joinDate": "2025-02-21T07:01:30.259Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "untold",
+      "email": "nosamick1@gmail.com",
+      "encrypted_password": "8040a6112b27b71087a8d472ffff0cfc",
+      "referral_code": "UNF9V",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 140,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T05:30:45.064Z",
+      "completedMissions": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
