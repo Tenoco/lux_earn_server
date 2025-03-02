@@ -33047,7 +33047,7 @@
       "inviter_referral_code": "OYYAS",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 262,
+      "balance": 362,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33058,7 +33058,9 @@
         26,
         26,
         13,
-        13
+        13,
+        11,
+        12
       ],
       "lastSpin": "2025-03-02T08:13:49.878Z"
     },
@@ -33749,6 +33751,7 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T14:03:07.394Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-02T14:03:28.886Z"
     }
   ],
