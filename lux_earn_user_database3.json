@@ -22493,11 +22493,12 @@
         "Iliyasu",
         "Lawant",
         "Umar56",
-        "Yusuf67"
+        "Yusuf67",
+        "Salisu56"
       ],
       "balance": 835,
-      "refers": 46,
-      "referralBalance": 4600,
+      "refers": 47,
+      "referralBalance": 4700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35203,6 +35204,21 @@
       "joinDate": "2025-03-02T20:23:33.583Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Salisu56",
+      "email": "salisusale55@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "SAHFG",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:25:24.908Z"
     }
   ],
   "withdrawals": [
