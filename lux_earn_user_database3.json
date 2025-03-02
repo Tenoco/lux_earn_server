@@ -22497,11 +22497,12 @@
         "Salisu56",
         "56usman",
         "Sultan",
-        "Jamilu5"
+        "Jamilu5",
+        "salim31"
       ],
       "balance": 835,
-      "refers": 50,
-      "referralBalance": 5000,
+      "refers": 51,
+      "referralBalance": 5100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35279,7 +35280,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:30:57.882Z"
+      "joinDate": "2025-03-02T20:30:57.882Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "salim31",
+      "email": "Salimsani67@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "SA8TA",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:33:13.888Z"
     }
   ],
   "withdrawals": [
