@@ -22375,11 +22375,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Muhammad55"
+        "Muhammad55",
+        "Abdul54"
       ],
       "balance": 835,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -33342,6 +33343,21 @@
         27
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Abdul54",
+      "email": "Malamikojahili636@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "ABX7W",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T13:09:25.365Z"
     }
   ],
   "withdrawals": [
