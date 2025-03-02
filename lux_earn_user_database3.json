@@ -33506,13 +33506,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T13:39:07.164Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        11
+      ],
       "lastSpin": null
     },
     {
@@ -33528,7 +33531,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T13:40:14.377Z"
+      "joinDate": "2025-03-02T13:40:14.377Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
