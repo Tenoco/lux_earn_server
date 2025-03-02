@@ -22071,7 +22071,7 @@
       "invited_users": [
         "Som"
       ],
-      "balance": 635,
+      "balance": 636,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -22107,7 +22107,7 @@
         23,
         22
       ],
-      "lastSpin": "2025-03-01T18:13:14.454Z"
+      "lastSpin": "2025-03-02T19:18:23.474Z"
     },
     {
       "username": "Noble227",
@@ -34431,7 +34431,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:17:51.006Z"
+      "joinDate": "2025-03-02T19:17:51.006Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
