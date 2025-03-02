@@ -22462,11 +22462,12 @@
         "Muhammad77",
         "Tasiu5",
         "Sulaiman67",
-        "Anisa55"
+        "Anisa55",
+        "Yakubu5"
       ],
       "balance": 835,
-      "refers": 15,
-      "referralBalance": 1500,
+      "refers": 16,
+      "referralBalance": 1600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34501,6 +34502,21 @@
       "joinDate": "2025-03-02T19:22:25.724Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Yakubu5",
+      "email": "yakubuumar234@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "YAL4X",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:23:57.238Z"
     }
   ],
   "withdrawals": [
