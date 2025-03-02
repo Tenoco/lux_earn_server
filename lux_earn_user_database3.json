@@ -22440,11 +22440,12 @@
         "Saminu67",
         "Yahaya3",
         "Yahaya34",
-        "Sabiu5"
+        "Sabiu5",
+        "Muhammad64"
       ],
       "balance": 835,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34166,6 +34167,21 @@
       "joinDate": "2025-03-02T18:34:41.276Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Muhammad64",
+      "email": "mugulale66@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MUM6P",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T18:53:53.707Z"
     }
   ],
   "withdrawals": [
