@@ -22495,11 +22495,12 @@
         "Umar56",
         "Yusuf67",
         "Salisu56",
-        "56usman"
+        "56usman",
+        "Sultan"
       ],
       "balance": 835,
-      "refers": 48,
-      "referralBalance": 4800,
+      "refers": 49,
+      "referralBalance": 4900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35243,7 +35244,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:27:29.900Z"
+      "joinDate": "2025-03-02T20:27:29.900Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sultan",
+      "email": "Sulaimansani847@gmail.com",
+      "encrypted_password": "bb745b1b050f6e3933a8da77a7aeca7b",
+      "referral_code": "SUHCJ",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:29:10.972Z"
     }
   ],
   "withdrawals": [
