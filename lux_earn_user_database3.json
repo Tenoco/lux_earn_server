@@ -33930,7 +33930,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T14:27:34.218Z"
+      "joinDate": "2025-03-02T14:27:34.218Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dadi66",
+      "email": "salihuauwal768@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "DAF5Y",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T14:30:08.289Z"
     }
   ],
   "withdrawals": [
