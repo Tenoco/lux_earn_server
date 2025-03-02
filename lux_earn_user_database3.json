@@ -15901,7 +15901,7 @@
       "inviter_referral_code": "IBPK8",
       "inviter_username": "Ibn wakil001",
       "invited_users": [],
-      "balance": 645,
+      "balance": 655,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -15935,7 +15935,7 @@
         25,
         24
       ],
-      "lastSpin": "2025-03-01T10:34:48.467Z"
+      "lastSpin": "2025-03-02T13:31:17.385Z"
     },
     {
       "username": "Absolute ",
@@ -33455,7 +33455,8 @@
         20,
         21,
         22
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
