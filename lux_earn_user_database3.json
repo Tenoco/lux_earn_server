@@ -22491,11 +22491,12 @@
         "Tasiu55",
         "Adamu65",
         "Iliyasu",
-        "Lawant"
+        "Lawant",
+        "Umar56"
       ],
       "balance": 835,
-      "refers": 44,
-      "referralBalance": 4400,
+      "refers": 45,
+      "referralBalance": 4500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35164,7 +35165,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T20:21:14.847Z"
+      "joinDate": "2025-03-02T20:21:14.847Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Umar56",
+      "email": "Umarabubakar58@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "UM6QB",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:22:31.789Z"
     }
   ],
   "withdrawals": [
