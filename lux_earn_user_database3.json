@@ -22464,11 +22464,12 @@
         "Sulaiman67",
         "Anisa55",
         "Yakubu5",
-        "Farii5"
+        "Farii5",
+        "5famin"
       ],
       "balance": 835,
-      "refers": 17,
-      "referralBalance": 1700,
+      "refers": 18,
+      "referralBalance": 1800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -34534,7 +34535,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T19:25:05.080Z"
+      "joinDate": "2025-03-02T19:25:05.080Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "5famin",
+      "email": "fatima568@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "5FDKU",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T19:25:59.997Z"
     }
   ],
   "withdrawals": [
