@@ -22494,11 +22494,12 @@
         "Lawant",
         "Umar56",
         "Yusuf67",
-        "Salisu56"
+        "Salisu56",
+        "56usman"
       ],
       "balance": 835,
-      "refers": 47,
-      "referralBalance": 4700,
+      "refers": 48,
+      "referralBalance": 4800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35228,6 +35229,21 @@
       "joinDate": "2025-03-02T20:25:24.908Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "56usman",
+      "email": "usmansabiu456@gmail.com",
+      "encrypted_password": "385ec817ac26619fee9e56969dd403c4",
+      "referral_code": "56AJ4",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T20:27:29.900Z"
     }
   ],
   "withdrawals": [
