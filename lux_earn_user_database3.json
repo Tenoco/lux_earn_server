@@ -22526,11 +22526,12 @@
         "Muhammad787",
         "Welcome5",
         "Sadi45",
-        "Aminu68"
+        "Aminu68",
+        "Alison "
       ],
       "balance": 835,
-      "refers": 65,
-      "referralBalance": 6500,
+      "refers": 66,
+      "referralBalance": 6600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -35952,6 +35953,21 @@
       "joinDate": "2025-03-02T23:30:26.366Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Alison ",
+      "email": "Aliyuabubakarnura778@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "ALZ19",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:32:42.636Z"
     }
   ],
   "withdrawals": [
