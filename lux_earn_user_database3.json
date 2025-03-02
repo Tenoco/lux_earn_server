@@ -32609,11 +32609,12 @@
       "inviter_referral_code": "NOXTO",
       "inviter_username": null,
       "invited_users": [
-        "Nany"
+        "Nany",
+        "Lack "
       ],
       "balance": 862,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T22:53:05.138Z",
@@ -35646,7 +35647,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T22:02:04.056Z"
+      "joinDate": "2025-03-02T22:02:04.056Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lack ",
+      "email": "lavk48@gmail.com",
+      "encrypted_password": "409b35274803d73b0697509cb9871f04",
+      "referral_code": "LA51G",
+      "inviter_referral_code": "WAXZK",
+      "inviter_username": "Watt",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T22:03:30.973Z"
     }
   ],
   "withdrawals": [
