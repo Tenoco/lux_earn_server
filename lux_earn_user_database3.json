@@ -35882,7 +35882,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-02T23:27:44.540Z"
+      "joinDate": "2025-03-02T23:27:44.540Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Peter306",
+      "email": "mp2216861@gmail.com",
+      "encrypted_password": "5d59493a6196829ca25753bbca9f7c04",
+      "referral_code": "PE1SS",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-02T23:28:20.211Z"
     }
   ],
   "withdrawals": [
