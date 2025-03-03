@@ -22762,11 +22762,12 @@
         "Sadiku67",
         "Muhammadu56",
         "Jabir76",
-        "Dauda56"
+        "Dauda56",
+        "Muhammad766"
       ],
       "balance": 850,
-      "refers": 83,
-      "referralBalance": 8300,
+      "refers": 84,
+      "referralBalance": 8400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37059,6 +37060,21 @@
         12
       ],
       "lastSpin": "2025-02-22T17:08:44.531Z"
+    },
+    {
+      "username": "Muhammad766",
+      "email": "Muhammadabubakarusman097@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MUOEH",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:27:26.275Z"
     }
   ],
   "withdrawals": [
