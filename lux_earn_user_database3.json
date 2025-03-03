@@ -22699,11 +22699,12 @@
         "Saminu56",
         "Muhammad 670 ",
         "Taliya",
-        "ibrahim56"
+        "ibrahim56",
+        "Sunusi56"
       ],
       "balance": 850,
-      "refers": 78,
-      "referralBalance": 7800,
+      "refers": 79,
+      "referralBalance": 7900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36580,7 +36581,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T07:46:45.552Z"
+      "joinDate": "2025-03-03T07:46:45.552Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sunusi56",
+      "email": "Sunusine678@gmail.com",
+      "encrypted_password": "c4d52a5a0609f2ceddb0ff8ec4929616",
+      "referral_code": "SU8W6",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T07:47:35.619Z"
     }
   ],
   "withdrawals": [
