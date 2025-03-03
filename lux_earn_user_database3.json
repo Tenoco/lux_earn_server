@@ -36976,6 +36976,34 @@
       "joinDate": "2025-03-03T12:11:15.765Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Lilafavour",
+      "email": "lilafavour800@gmail.com",
+      "encrypted_password": "2d397335099eadf351d17d540757f211",
+      "referral_code": "LIR3V",
+      "inviter_referral_code": null,
+      "inviter_username": "Bella",
+      "invited_users": [],
+      "balance": 136,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T04:42:34.275Z",
+      "completedMissions": [
+        1,
+        1,
+        1,
+        5,
+        5,
+        6,
+        7,
+        2,
+        2,
+        4
+      ],
+      "lastSpin": "2025-02-24T02:30:18.620Z"
     }
   ],
   "withdrawals": [
