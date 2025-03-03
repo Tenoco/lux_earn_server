@@ -37429,6 +37429,31 @@
       "joinDate": "2025-03-03T14:53:09.054Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Samuel",
+      "email": "osamudiamenosaro04@gmail.com",
+      "encrypted_password": "3e6f7568aac84d6a7dfe1b3641698697",
+      "referral_code": "SA101",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 123,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T08:24:45.100Z",
+      "completedMissions": [
+        1,
+        2,
+        5,
+        4,
+        6,
+        7,
+        8
+      ],
+      "lastSpin": "2025-02-24T20:10:05.527Z"
     }
   ],
   "withdrawals": [
