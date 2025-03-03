@@ -22653,11 +22653,12 @@
         "Salihu5 ",
         "Rabiu4",
         "Farii6",
-        "Issh6 7"
+        "Issh6 7",
+        "Sanii"
       ],
       "balance": 835,
-      "refers": 70,
-      "referralBalance": 7000,
+      "refers": 71,
+      "referralBalance": 7100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36345,7 +36346,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:33:13.218Z"
+      "joinDate": "2025-03-03T05:33:13.218Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sanii",
+      "email": "Muhammadabubakarusman898@gmail.com",
+      "encrypted_password": "25f9e794323b453885f5181f1b624d0b",
+      "referral_code": "SAW76",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:34:56.493Z"
     }
   ],
   "withdrawals": [
