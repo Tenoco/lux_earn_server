@@ -9058,10 +9058,12 @@
       "referral_code": "ADYZF",
       "inviter_referral_code": "BAL4N",
       "inviter_username": "Bayonets",
-      "invited_users": [],
+      "invited_users": [
+        "Salem"
+      ],
       "balance": 808,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T16:52:06.776Z",
@@ -36489,7 +36491,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:41:17.844Z"
+      "joinDate": "2025-03-03T05:41:17.844Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Salem",
+      "email": "salemadwumi100@gmail.com",
+      "encrypted_password": "b41b874b7010460b0ac4be679a4f22e1",
+      "referral_code": "SAIKQ",
+      "inviter_referral_code": "ADYZF",
+      "inviter_username": "Adewumi5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:47:01.105Z"
     }
   ],
   "withdrawals": [
