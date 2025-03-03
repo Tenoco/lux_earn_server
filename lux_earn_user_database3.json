@@ -31320,11 +31320,12 @@
         "Lop",
         "Kio",
         "Jk",
-        "Iop"
+        "Iop",
+        "Ghj"
       ],
       "balance": 118,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -37782,7 +37783,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T17:47:44.814Z"
+      "joinDate": "2025-03-03T17:47:44.814Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ghj",
+      "email": "ghj@gmail.com",
+      "encrypted_password": "e120ea280aa50693d5568d0071456460",
+      "referral_code": "GH8IR",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T17:48:27.828Z"
     }
   ],
   "withdrawals": [
