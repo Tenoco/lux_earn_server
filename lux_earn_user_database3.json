@@ -22764,11 +22764,12 @@
         "Jabir76",
         "Dauda56",
         "Muhammad766",
-        "Hanif56"
+        "Hanif56",
+        "Umar57"
       ],
       "balance": 850,
-      "refers": 85,
-      "referralBalance": 8500,
+      "refers": 86,
+      "referralBalance": 8600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37092,7 +37093,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:35:36.033Z"
+      "joinDate": "2025-03-03T14:35:36.033Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Umar57",
+      "email": "Umarabubakar589@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "UMCKN",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:36:36.978Z"
     }
   ],
   "withdrawals": [
