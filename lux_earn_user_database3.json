@@ -22656,11 +22656,12 @@
         "Issh6 7",
         "Sanii",
         "Sidui",
-        "Muhammadyt"
+        "Muhammadyt",
+        "Ismail67"
       ],
       "balance": 835,
-      "refers": 73,
-      "referralBalance": 7300,
+      "refers": 74,
+      "referralBalance": 7400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36399,7 +36400,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:36:26.242Z"
+      "joinDate": "2025-03-03T05:36:26.242Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ismail67",
+      "email": "Muhammadabubakarusman888@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "IS9QW",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:37:24.565Z"
     }
   ],
   "withdrawals": [
