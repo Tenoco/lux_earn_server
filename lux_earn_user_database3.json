@@ -22775,11 +22775,12 @@
         "67muhammad ",
         "Shadaya",
         "Lawan56",
-        "Lawan67"
+        "Lawan67",
+        "Saminu54"
       ],
       "balance": 850,
-      "refers": 96,
-      "referralBalance": 9600,
+      "refers": 97,
+      "referralBalance": 9700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37293,6 +37294,21 @@
       "joinDate": "2025-03-03T14:45:56.606Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Saminu54",
+      "email": "Saminusani787@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "SAEU8",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:49:21.837Z"
     }
   ],
   "withdrawals": [
