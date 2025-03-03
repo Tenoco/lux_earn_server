@@ -30788,11 +30788,12 @@
         "Venus",
         "Favefx",
         "Atlanta91",
-        "Chizem"
+        "Chizem",
+        "Emmisco"
       ],
       "balance": 192,
-      "refers": 27,
-      "referralBalance": 2700,
+      "refers": 28,
+      "referralBalance": 2800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -36902,6 +36903,21 @@
         8
       ],
       "lastSpin": "2025-03-03T10:33:59.239Z"
+    },
+    {
+      "username": "Emmisco",
+      "email": "e3220747@gmail.com",
+      "encrypted_password": "fae738c108fbc7c57f6c57c4400947f9",
+      "referral_code": "EM4NK",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T11:38:52.502Z"
     }
   ],
   "withdrawals": [
