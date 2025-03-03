@@ -36555,12 +36555,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T06:43:09.497Z"
+      "joinDate": "2025-03-03T06:43:09.497Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-03T06:44:50.907Z"
     }
   ],
   "withdrawals": [
