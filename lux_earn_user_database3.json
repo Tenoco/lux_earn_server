@@ -22777,11 +22777,12 @@
         "Lawan56",
         "Lawan67",
         "Saminu54",
-        "Adamu69"
+        "Adamu69",
+        "678muhd"
       ],
       "balance": 850,
-      "refers": 98,
-      "referralBalance": 9800,
+      "refers": 99,
+      "referralBalance": 9900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37326,7 +37327,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:50:09.174Z"
+      "joinDate": "2025-03-03T14:50:09.174Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "678muhd",
+      "email": "mugulale1866@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "67A1I",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:51:41.649Z"
     }
   ],
   "withdrawals": [
