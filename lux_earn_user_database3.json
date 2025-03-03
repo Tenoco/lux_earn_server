@@ -24188,7 +24188,7 @@
         "Tota",
         "Sera"
       ],
-      "balance": 883,
+      "balance": 895,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -24224,7 +24224,7 @@
         23,
         22
       ],
-      "lastSpin": "2025-03-02T06:06:10.568Z"
+      "lastSpin": "2025-03-03T08:47:04.018Z"
     },
     {
       "username": "Alexanonymous",
@@ -36771,7 +36771,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T08:31:58.274Z"
+      "joinDate": "2025-03-03T08:31:58.274Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
