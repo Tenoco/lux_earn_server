@@ -22700,11 +22700,12 @@
         "Muhammad 670 ",
         "Taliya",
         "ibrahim56",
-        "Sunusi56"
+        "Sunusi56",
+        "Sadiku67"
       ],
       "balance": 850,
-      "refers": 79,
-      "referralBalance": 7900,
+      "refers": 80,
+      "referralBalance": 8000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36598,7 +36599,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T07:47:35.619Z"
+      "joinDate": "2025-03-03T07:47:35.619Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Sadiku67",
+      "email": "sadiksani55@gmail.com",
+      "encrypted_password": "70b509a821d7ac650b8bc54c5c8cb34d",
+      "referral_code": "SAO96",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T07:48:32.140Z"
     }
   ],
   "withdrawals": [
