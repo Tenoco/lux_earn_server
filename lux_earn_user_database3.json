@@ -22769,11 +22769,12 @@
         "Umar58",
         "12muhd",
         "Fatima78",
-        "Aminu687"
+        "Aminu687",
+        "Muhammad87"
       ],
       "balance": 850,
-      "refers": 90,
-      "referralBalance": 9000,
+      "refers": 91,
+      "referralBalance": 9100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37182,7 +37183,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:39:49.458Z"
+      "joinDate": "2025-03-03T14:39:49.458Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad87",
+      "email": "Muhammadabubakarusman8997@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "MU6L4",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:40:26.190Z"
     }
   ],
   "withdrawals": [
