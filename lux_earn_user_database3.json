@@ -22763,11 +22763,12 @@
         "Muhammadu56",
         "Jabir76",
         "Dauda56",
-        "Muhammad766"
+        "Muhammad766",
+        "Hanif56"
       ],
       "balance": 850,
-      "refers": 84,
-      "referralBalance": 8400,
+      "refers": 85,
+      "referralBalance": 8500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37074,7 +37075,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:27:26.275Z"
+      "joinDate": "2025-03-03T14:27:26.275Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Hanif56",
+      "email": "Muhammadabubakarusman8987@gmail.com",
+      "encrypted_password": "25d55ad283aa400af464c76d713c07ad",
+      "referral_code": "HA73A",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:35:36.033Z"
     }
   ],
   "withdrawals": [
