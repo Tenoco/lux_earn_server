@@ -31315,11 +31315,12 @@
       "inviter_referral_code": "Themez001",
       "inviter_username": null,
       "invited_users": [
-        "Gabriel1"
+        "Gabriel1",
+        "Hjk"
       ],
       "balance": 98,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -37593,6 +37594,21 @@
         13
       ],
       "lastSpin": "2025-03-03T16:35:49.449Z"
+    },
+    {
+      "username": "Hjk",
+      "email": "hik@gmail.com",
+      "encrypted_password": "d6b193ac038f165a08cddb60b1f54a20",
+      "referral_code": "HJFGA",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T17:10:53.439Z"
     }
   ],
   "withdrawals": [
