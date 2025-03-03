@@ -31323,7 +31323,7 @@
         "Iop",
         "Ghj"
       ],
-      "balance": 118,
+      "balance": 168,
       "refers": 7,
       "referralBalance": 700,
       "withdrawalBalance": 0,
@@ -31332,7 +31332,8 @@
       "completedMissions": [
         11,
         12,
-        13
+        13,
+        14
       ],
       "lastSpin": "2025-03-03T17:14:39.564Z"
     },
@@ -37800,7 +37801,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T17:48:27.828Z"
+      "joinDate": "2025-03-03T17:48:27.828Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
