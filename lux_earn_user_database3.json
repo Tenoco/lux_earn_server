@@ -22659,7 +22659,7 @@
         "Muhammadyt",
         "Ismail67"
       ],
-      "balance": 835,
+      "balance": 850,
       "refers": 74,
       "referralBalance": 7400,
       "withdrawalBalance": 0,
@@ -22698,7 +22698,7 @@
         24,
         22
       ],
-      "lastSpin": "2025-03-01T22:30:52.301Z"
+      "lastSpin": "2025-03-03T05:38:30.225Z"
     },
     {
       "username": "keshfx",
@@ -36417,7 +36417,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:37:24.565Z"
+      "joinDate": "2025-03-03T05:37:24.565Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
