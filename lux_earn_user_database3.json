@@ -22660,11 +22660,12 @@
         "Muhammadyt",
         "Ismail67",
         "Saminu56",
-        "Muhammad 670 "
+        "Muhammad 670 ",
+        "Taliya"
       ],
       "balance": 850,
-      "refers": 76,
-      "referralBalance": 7600,
+      "refers": 77,
+      "referralBalance": 7700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36471,7 +36472,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:40:36.117Z"
+      "joinDate": "2025-03-03T05:40:36.117Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Taliya",
+      "email": "taliya55@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "TAXIN",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:41:17.844Z"
     }
   ],
   "withdrawals": [
