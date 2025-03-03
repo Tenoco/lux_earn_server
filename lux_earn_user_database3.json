@@ -36985,7 +36985,7 @@
       "inviter_referral_code": null,
       "inviter_username": "Bella",
       "invited_users": [],
-      "balance": 201,
+      "balance": 351,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -37002,7 +37002,10 @@
         2,
         2,
         4,
-        11
+        11,
+        12,
+        13,
+        13
       ],
       "lastSpin": "2025-03-03T13:26:18.262Z"
     }
