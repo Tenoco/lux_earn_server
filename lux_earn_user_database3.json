@@ -33168,7 +33168,7 @@
       "inviter_referral_code": "Ku47j",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 162,
+      "balance": 212,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33177,7 +33177,8 @@
       "completedMissions": [
         18,
         17,
-        14
+        14,
+        11
       ],
       "lastSpin": "2025-03-02T05:13:21.522Z"
     },
@@ -36251,7 +36252,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T04:58:05.740Z"
+      "joinDate": "2025-03-03T04:58:05.740Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
