@@ -36204,12 +36204,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 8,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T04:34:22.691Z"
+      "joinDate": "2025-03-03T04:34:22.691Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-03T04:39:46.674Z"
     }
   ],
   "withdrawals": [
