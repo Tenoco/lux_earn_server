@@ -22773,11 +22773,12 @@
         "Muhammad87",
         "Rabiu49",
         "67muhammad ",
-        "Shadaya"
+        "Shadaya",
+        "Lawan56"
       ],
       "balance": 850,
-      "refers": 94,
-      "referralBalance": 9400,
+      "refers": 95,
+      "referralBalance": 9500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37254,7 +37255,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:42:46.112Z"
+      "joinDate": "2025-03-03T14:42:46.112Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Lawan56",
+      "email": "Lawansani45@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "LAXJH",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:45:06.380Z"
     }
   ],
   "withdrawals": [
