@@ -37363,7 +37363,34 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:51:57.618Z"
+      "joinDate": "2025-03-03T14:51:57.618Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Elijah1234",
+      "email": "lomd7813@gmail.com",
+      "encrypted_password": "13fe72b1c41dda3796eeb9eed6af5f71",
+      "referral_code": "ELE2L",
+      "inviter_referral_code": "Sl2MH",
+      "inviter_username": null,
+      "invited_users": [
+        "Danielkafillu",
+        "Samify ",
+        "Phillipine kid"
+      ],
+      "balance": 40,
+      "refers": 3,
+      "referralBalance": 300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:13:06.448Z",
+      "completedMissions": [
+        2,
+        1,
+        4
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
