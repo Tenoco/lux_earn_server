@@ -22659,11 +22659,12 @@
         "Sidui",
         "Muhammadyt",
         "Ismail67",
-        "Saminu56"
+        "Saminu56",
+        "Muhammad 670 "
       ],
       "balance": 850,
-      "refers": 75,
-      "referralBalance": 7500,
+      "refers": 76,
+      "referralBalance": 7600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36453,7 +36454,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:39:50.370Z"
+      "joinDate": "2025-03-03T05:39:50.370Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Muhammad 670 ",
+      "email": "Saminusani75@gmail.com",
+      "encrypted_password": "385ec817ac26619fee9e56969dd403c4",
+      "referral_code": "MUVKM",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:40:36.117Z"
     }
   ],
   "withdrawals": [
