@@ -31318,11 +31318,12 @@
         "Gabriel1",
         "Hjk",
         "Lop",
-        "Kio"
+        "Kio",
+        "Jk"
       ],
       "balance": 118,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -37746,7 +37747,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T17:45:16.293Z"
+      "joinDate": "2025-03-03T17:45:16.293Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jk",
+      "email": "jk@gmail.com",
+      "encrypted_password": "56389779689e8f3ddd533c1b05470bea",
+      "referral_code": "JKIUP",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T17:47:06.069Z"
     }
   ],
   "withdrawals": [
