@@ -22703,11 +22703,12 @@
         "Sunusi56",
         "Sadiku67",
         "Muhammadu56",
-        "Jabir76"
+        "Jabir76",
+        "Dauda56"
       ],
       "balance": 850,
-      "refers": 82,
-      "referralBalance": 8200,
+      "refers": 83,
+      "referralBalance": 8300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36652,7 +36653,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T07:50:48.853Z"
+      "joinDate": "2025-03-03T07:50:48.853Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Dauda56",
+      "email": "halifasani67@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "DAD9F",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T08:01:35.497Z"
     }
   ],
   "withdrawals": [
