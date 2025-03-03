@@ -31316,11 +31316,12 @@
       "inviter_username": null,
       "invited_users": [
         "Gabriel1",
-        "Hjk"
+        "Hjk",
+        "Lop"
       ],
       "balance": 118,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -37713,6 +37714,21 @@
         21
       ],
       "lastSpin": "2025-02-23T12:23:22.626Z"
+    },
+    {
+      "username": "Lop",
+      "email": "lo@gmail.com",
+      "encrypted_password": "e53b45cc850e8e2120f78cb46764c7dd",
+      "referral_code": "LO9T2",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T17:43:51.007Z"
     }
   ],
   "withdrawals": [
