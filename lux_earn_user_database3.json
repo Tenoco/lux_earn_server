@@ -37529,7 +37529,7 @@
         "Ikem chibuike ",
         "Ike judit"
       ],
-      "balance": 1012,
+      "balance": 1112,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -37556,7 +37556,9 @@
         14,
         20,
         18,
-        19
+        19,
+        17,
+        27
       ],
       "lastSpin": "2025-03-03T16:20:08.606Z"
     },
@@ -37574,10 +37576,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-03T16:32:39.143Z",
-      "lastSpin": "2025-03-03T16:35:49.449Z",
       "completedMissions": [
         11
-      ]
+      ],
+      "lastSpin": "2025-03-03T16:35:49.449Z"
     }
   ],
   "withdrawals": [
