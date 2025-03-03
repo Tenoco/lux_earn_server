@@ -28165,7 +28165,7 @@
       "inviter_referral_code": "https://luxearn0.netlify.app",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 175,
+      "balance": 185,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -28180,7 +28180,7 @@
         13,
         11
       ],
-      "lastSpin": "2025-02-27T20:01:36.111Z"
+      "lastSpin": "2025-03-03T19:22:12.898Z"
     },
     {
       "username": "Xeeno ",
@@ -37881,7 +37881,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T19:21:19.605Z"
+      "joinDate": "2025-03-03T19:21:19.605Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
