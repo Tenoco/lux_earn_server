@@ -36078,11 +36078,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Jkkkjhhj"
+        "Jkkkjhhj",
+        "Kamalu"
       ],
       "balance": 0,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-03T01:12:47.184Z",
@@ -36102,7 +36103,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T01:17:01.400Z"
+      "joinDate": "2025-03-03T01:17:01.400Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Kamalu",
+      "email": "kamaludeenbbas2024@gmail.com",
+      "encrypted_password": "134c021470a7a48cb3d37a0faa615caa",
+      "referral_code": "KAGM5",
+      "inviter_referral_code": "KA3MF",
+      "inviter_username": "kamalabbas",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T01:18:59.469Z"
     }
   ],
   "withdrawals": [
