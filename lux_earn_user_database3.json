@@ -22657,11 +22657,12 @@
         "Sanii",
         "Sidui",
         "Muhammadyt",
-        "Ismail67"
+        "Ismail67",
+        "Saminu56"
       ],
       "balance": 850,
-      "refers": 74,
-      "referralBalance": 7400,
+      "refers": 75,
+      "referralBalance": 7500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36420,6 +36421,21 @@
       "joinDate": "2025-03-03T05:37:24.565Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Saminu56",
+      "email": "tsakuwa1235@gmail.com",
+      "encrypted_password": "f371d6d77dd833686ec358a8fcea7129",
+      "referral_code": "SA1YU",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:39:16.250Z"
     }
   ],
   "withdrawals": [
