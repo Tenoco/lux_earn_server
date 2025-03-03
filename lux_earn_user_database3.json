@@ -11238,7 +11238,7 @@
         "Mohyinhohluhwah ",
         "Samchris "
       ],
-      "balance": 68,
+      "balance": 118,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -11248,7 +11248,8 @@
         1,
         4,
         16,
-        5
+        5,
+        11
       ],
       "lastSpin": "2025-02-25T20:30:07.104Z"
     },
@@ -37576,12 +37577,12 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-03T16:32:39.143Z",
-      "lastSpin": "2025-03-03T16:35:49.449Z",
       "completedMissions": [
         11,
         12,
         13
-      ]
+      ],
+      "lastSpin": "2025-03-03T16:35:49.449Z"
     }
   ],
   "withdrawals": [
