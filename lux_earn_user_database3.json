@@ -17831,7 +17831,7 @@
       "inviter_referral_code": "AY8J4",
       "inviter_username": "AyoRichee ",
       "invited_users": [],
-      "balance": 4130,
+      "balance": 4380,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -17955,7 +17955,12 @@
         26,
         26,
         26,
-        26
+        26,
+        25,
+        25,
+        25,
+        25,
+        25
       ],
       "lastSpin": null
     },
@@ -36508,7 +36513,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:47:01.105Z"
+      "joinDate": "2025-03-03T05:47:01.105Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
