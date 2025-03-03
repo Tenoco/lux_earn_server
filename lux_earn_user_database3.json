@@ -38061,7 +38061,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 800,
+      "balance": 830,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38085,7 +38085,7 @@
         18,
         17
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-03T23:23:14.859Z"
     },
     {
       "username": "Hackdam",
@@ -38100,7 +38100,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T23:22:25.542Z"
+      "joinDate": "2025-03-03T23:22:25.542Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
