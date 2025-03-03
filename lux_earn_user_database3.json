@@ -33410,10 +33410,12 @@
       "referral_code": "RAXXM",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Evidence"
+      ],
       "balance": 705,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T05:30:20.002Z",
@@ -37344,7 +37346,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:51:41.649Z"
+      "joinDate": "2025-03-03T14:51:41.649Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Evidence",
+      "email": "biodunjamiu607@gmail.com",
+      "encrypted_password": "c7b2a4d55fbea4d044644cf5b2b45d29",
+      "referral_code": "EVAOU",
+      "inviter_referral_code": "RAXXM",
+      "inviter_username": "Raufujamiu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:51:57.618Z"
     }
   ],
   "withdrawals": [
