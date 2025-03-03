@@ -31319,11 +31319,12 @@
         "Hjk",
         "Lop",
         "Kio",
-        "Jk"
+        "Jk",
+        "Iop"
       ],
       "balance": 118,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -37764,7 +37765,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T17:47:06.069Z"
+      "joinDate": "2025-03-03T17:47:06.069Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Iop",
+      "email": "iop@gmail.com",
+      "encrypted_password": "e434cf7349b93000c59a1d3372f40cc1",
+      "referral_code": "IOW8I",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T17:47:44.814Z"
     }
   ],
   "withdrawals": [
