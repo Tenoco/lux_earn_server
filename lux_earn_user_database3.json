@@ -38101,7 +38101,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-03T23:22:25.542Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-03T23:24:46.660Z"
+    },
+    {
+      "username": "Aunoluwa",
+      "email": "oluwaseunaweda100@gmail.com",
+      "encrypted_password": "eebf3ce7483ddd51493a8b67a50bac3b",
+      "referral_code": "AULCS",
+      "inviter_referral_code": "AGxy92 ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T23:39:37.616Z"
     }
   ],
   "withdrawals": [
