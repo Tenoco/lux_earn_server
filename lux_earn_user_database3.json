@@ -22652,11 +22652,12 @@
         "Alison ",
         "Salihu5 ",
         "Rabiu4",
-        "Farii6"
+        "Farii6",
+        "Issh6 7"
       ],
       "balance": 835,
-      "refers": 69,
-      "referralBalance": 6900,
+      "refers": 70,
+      "referralBalance": 7000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36327,7 +36328,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:32:17.653Z"
+      "joinDate": "2025-03-03T05:32:17.653Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Issh6 7",
+      "email": "isahabubakar567@gmail.com",
+      "encrypted_password": "57ce2872af5d16b19b8958a5c39e6627",
+      "referral_code": "IS7FP",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:33:13.218Z"
     }
   ],
   "withdrawals": [
