@@ -38112,7 +38112,7 @@
       "inviter_referral_code": "AGxy92 ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38120,8 +38120,10 @@
       "joinDate": "2025-03-03T23:39:37.616Z",
       "completedMissions": [
         11,
-        12
-      ]
+        12,
+        13
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
