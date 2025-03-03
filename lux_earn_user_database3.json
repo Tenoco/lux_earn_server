@@ -22651,11 +22651,12 @@
         "Aminu68",
         "Alison ",
         "Salihu5 ",
-        "Rabiu4"
+        "Rabiu4",
+        "Farii6"
       ],
       "balance": 835,
-      "refers": 68,
-      "referralBalance": 6800,
+      "refers": 69,
+      "referralBalance": 6900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -36309,7 +36310,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:29:30.441Z"
+      "joinDate": "2025-03-03T05:29:30.441Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Farii6",
+      "email": "Sadiqmuhammad67@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "FAKEB",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:32:17.653Z"
     }
   ],
   "withdrawals": [
