@@ -3101,11 +3101,12 @@
         "Powerjohn001",
         "freedom",
         "Destiny",
-        "Destiny "
+        "Destiny ",
+        "Desmond"
       ],
       "balance": 476,
-      "refers": 12,
-      "referralBalance": 1200,
+      "refers": 13,
+      "referralBalance": 1300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T02:48:23.042Z",
@@ -36435,7 +36436,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T05:39:16.250Z"
+      "joinDate": "2025-03-03T05:39:16.250Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Desmond",
+      "email": "faithjourneycom06@gmail.com",
+      "encrypted_password": "f818aba7e3d031c3d832b970af03187a",
+      "referral_code": "DEW51",
+      "inviter_referral_code": "MDZYH",
+      "inviter_username": "MDFELIX",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T05:39:50.370Z"
     }
   ],
   "withdrawals": [
