@@ -37380,7 +37380,7 @@
         "Samify ",
         "Phillipine kid"
       ],
-      "balance": 40,
+      "balance": 90,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -37389,7 +37389,8 @@
       "completedMissions": [
         2,
         1,
-        4
+        4,
+        11
       ],
       "lastSpin": null
     },
@@ -37406,7 +37407,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:53:09.054Z"
+      "joinDate": "2025-03-03T14:53:09.054Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
