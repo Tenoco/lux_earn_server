@@ -37983,14 +37983,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-03T22:15:17.113Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11
+      ]
     }
   ],
   "withdrawals": [
