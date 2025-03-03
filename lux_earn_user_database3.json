@@ -22766,11 +22766,12 @@
         "Muhammad766",
         "Hanif56",
         "Umar57",
-        "Umar58"
+        "Umar58",
+        "12muhd"
       ],
       "balance": 850,
-      "refers": 87,
-      "referralBalance": 8700,
+      "refers": 88,
+      "referralBalance": 8800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -37128,7 +37129,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-03T14:37:21.928Z"
+      "joinDate": "2025-03-03T14:37:21.928Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "12muhd",
+      "email": "Sanisani363@gmail.com",
+      "encrypted_password": "7613e2f1d331444fd12c519a3952dad8",
+      "referral_code": "124H2",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T14:38:05.681Z"
     }
   ],
   "withdrawals": [
