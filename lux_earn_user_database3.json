@@ -37611,6 +37611,29 @@
       "joinDate": "2025-03-03T17:10:53.439Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Convenant ",
+      "email": "convenantiloba22@gmail.com",
+      "encrypted_password": "bf9eeb6625b113b0151fb3713e7d40b5",
+      "referral_code": "CO42A",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 98,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T23:20:59.341Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        11
+      ],
+      "lastSpin": "2025-02-22T23:38:24.707Z"
     }
   ],
   "withdrawals": [
