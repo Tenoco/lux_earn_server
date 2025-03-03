@@ -2013,11 +2013,12 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [
-        "Lawal_ayomide"
+        "Lawal_ayomide",
+        "Hackdam"
       ],
       "balance": 165,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T17:05:08.724Z",
@@ -38085,6 +38086,21 @@
         17
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Hackdam",
+      "email": "faruqrokky@gmail.com",
+      "encrypted_password": "194081eebf8437a3402eacf584fefbce",
+      "referral_code": "HA3F2",
+      "inviter_referral_code": "HAX8K",
+      "inviter_username": "Haryor_Richie",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-03T23:22:25.542Z"
     }
   ],
   "withdrawals": [
