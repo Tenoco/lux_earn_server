@@ -31412,11 +31412,12 @@
         "Kio",
         "Jk",
         "Iop",
-        "Ghj"
+        "Ghj",
+        "Cd"
       ],
       "balance": 468,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-28T19:28:22.708Z",
@@ -38593,7 +38594,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T14:48:12.693Z"
+      "joinDate": "2025-03-04T14:48:12.693Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Cd",
+      "email": "cd@gmail.com",
+      "encrypted_password": "22255c2165b6aea6270a14d292244d61",
+      "referral_code": "CDJVV",
+      "inviter_referral_code": "THIT1",
+      "inviter_username": "Themez",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T14:48:57.940Z"
     }
   ],
   "withdrawals": [
