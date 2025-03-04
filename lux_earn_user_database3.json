@@ -7598,7 +7598,7 @@
       "inviter_referral_code": "HEO20",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1380,
+      "balance": 2080,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -7672,7 +7672,21 @@
         18,
         18,
         18,
-        18
+        18,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19
       ],
       "lastSpin": "2025-02-26T15:44:34.166Z"
     },
@@ -39143,7 +39157,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T23:00:17.375Z"
+      "joinDate": "2025-03-04T23:00:17.375Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
