@@ -38436,12 +38436,14 @@
       "inviter_referral_code": "NAIWW",
       "inviter_username": "Nasmatu Haruna",
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T10:59:31.929Z"
+      "joinDate": "2025-03-04T10:59:31.929Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-04T11:00:42.827Z"
     }
   ],
   "withdrawals": [
