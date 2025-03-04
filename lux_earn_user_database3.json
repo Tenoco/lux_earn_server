@@ -38519,6 +38519,29 @@
       "joinDate": "2025-03-04T13:49:48.494Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gabirel 091",
+      "email": "gaberailndubuisi@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "GAMIV",
+      "inviter_referral_code": "Ekw5E",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 92,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-22T16:54:16.634Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        5
+      ],
+      "lastSpin": "2025-02-22T17:06:18.474Z"
     }
   ],
   "withdrawals": [
