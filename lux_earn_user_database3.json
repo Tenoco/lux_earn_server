@@ -38303,7 +38303,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38312,7 +38312,9 @@
       "completedMissions": [
         11,
         17,
-        12
+        12,
+        13,
+        18
       ],
       "lastSpin": null
     }
