@@ -22885,7 +22885,7 @@
         "Halipha87",
         "bashir63"
       ],
-      "balance": 850,
+      "balance": 865,
       "refers": 105,
       "referralBalance": 10500,
       "withdrawalBalance": 0,
@@ -22924,7 +22924,7 @@
         24,
         22
       ],
-      "lastSpin": "2025-03-03T05:38:30.225Z"
+      "lastSpin": "2025-03-04T14:52:17.070Z"
     },
     {
       "username": "keshfx",
@@ -38674,7 +38674,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T14:50:55.359Z"
+      "joinDate": "2025-03-04T14:50:55.359Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
