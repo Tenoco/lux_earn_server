@@ -38885,14 +38885,15 @@
       "inviter_referral_code": "MA74G",
       "inviter_username": "Maxdav",
       "invited_users": [],
-      "balance": 50,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-04T20:31:03.181Z",
       "completedMissions": [
-        11
+        11,
+        12
       ],
       "lastSpin": null
     }
