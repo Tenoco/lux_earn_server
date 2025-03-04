@@ -15812,11 +15812,12 @@
         "Faithlove",
         "Aina ayobami",
         "Premo1234",
-        "Shaibu blessing"
+        "Shaibu blessing",
+        "Timilehin"
       ],
       "balance": 0,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T11:12:22.713Z",
@@ -39103,6 +39104,21 @@
         27
       ],
       "lastSpin": "2025-03-04T21:39:56.638Z"
+    },
+    {
+      "username": "Timilehin",
+      "email": "timilehinodeyemi52@gmail.com",
+      "encrypted_password": "e2052dbc8925930612ac981cb62c19fd",
+      "referral_code": "TI9YA",
+      "inviter_referral_code": "ADZ27",
+      "inviter_username": "Adisa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T22:34:53.392Z"
     }
   ],
   "withdrawals": [
