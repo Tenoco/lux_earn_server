@@ -39064,13 +39064,15 @@
       "inviter_referral_code": "BKFS9",
       "inviter_username": "BkGraphics001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-04T21:29:51.094Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": null
     }
   ],
