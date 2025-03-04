@@ -22878,11 +22878,12 @@
         "Saminu54",
         "Adamu69",
         "678muhd",
-        "Sulaiman650"
+        "Sulaiman650",
+        "Bala455"
       ],
       "balance": 850,
-      "refers": 100,
-      "referralBalance": 10000,
+      "refers": 101,
+      "referralBalance": 10100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -38542,6 +38543,21 @@
         5
       ],
       "lastSpin": "2025-02-22T17:06:18.474Z"
+    },
+    {
+      "username": "Bala455",
+      "email": "bashir687@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "BAQCV",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T14:46:39.364Z"
     }
   ],
   "withdrawals": [
