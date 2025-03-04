@@ -38744,7 +38744,7 @@
       "invited_users": [
         "Victor"
       ],
-      "balance": 600,
+      "balance": 800,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -38762,7 +38762,11 @@
         25,
         25,
         25,
-        25
+        25,
+        24,
+        24,
+        24,
+        24
       ],
       "lastSpin": null
     },
@@ -38921,7 +38925,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T20:54:42.480Z"
+      "joinDate": "2025-03-04T20:54:42.480Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
