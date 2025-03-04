@@ -22882,11 +22882,12 @@
         "Bala455",
         "Kamal56",
         "Auwal54",
-        "Halipha87"
+        "Halipha87",
+        "bashir63"
       ],
       "balance": 850,
-      "refers": 104,
-      "referralBalance": 10400,
+      "refers": 105,
+      "referralBalance": 10500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -38659,6 +38660,21 @@
         9
       ],
       "lastSpin": "2025-02-22T13:43:45.637Z"
+    },
+    {
+      "username": "bashir63",
+      "email": "bashir676@gmail.com",
+      "encrypted_password": "1ee1bb58a234b8c88531e3dc8e2f6dce",
+      "referral_code": "BAWTN",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T14:50:55.359Z"
     }
   ],
   "withdrawals": [
