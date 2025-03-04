@@ -32263,10 +32263,12 @@
       "referral_code": "AIVOY",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kehinde44"
+      ],
       "balance": 908,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-01T11:22:42.372Z",
@@ -38401,6 +38403,21 @@
         17
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Kehinde44",
+      "email": "skeren819@gmail.com",
+      "encrypted_password": "e01b4ea3c8a6daeb5e756783f22df0eb",
+      "referral_code": "KEL5L",
+      "inviter_referral_code": "AIVOY",
+      "inviter_username": "Aigbologa",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T10:48:04.500Z"
     }
   ],
   "withdrawals": [
