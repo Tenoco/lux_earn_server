@@ -38219,7 +38219,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38228,7 +38228,8 @@
       "completedMissions": [
         11,
         12,
-        13
+        13,
+        14
       ]
     }
   ],
