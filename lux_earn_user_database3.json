@@ -30973,11 +30973,12 @@
         "Favefx",
         "Atlanta91",
         "Chizem",
-        "Emmisco"
+        "Emmisco",
+        "Akinem"
       ],
       "balance": 192,
-      "refers": 28,
-      "referralBalance": 2800,
+      "refers": 29,
+      "referralBalance": 2900,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T14:07:59.285Z",
@@ -39054,6 +39055,21 @@
         27
       ],
       "lastSpin": "2025-03-04T21:25:02.739Z"
+    },
+    {
+      "username": "Akinem",
+      "email": "akinlagunemmanuel9@gmail.com",
+      "encrypted_password": "7e0c5e4c9c43c6c10c2786f99465df17",
+      "referral_code": "AKGPF",
+      "inviter_referral_code": "BKFS9",
+      "inviter_username": "BkGraphics001",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T21:29:51.094Z"
     }
   ],
   "withdrawals": [
