@@ -39010,12 +39010,19 @@
       "inviter_referral_code": "NAIWW",
       "inviter_username": "Nasmatu Haruna",
       "invited_users": [],
-      "balance": 0,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T21:14:18.079Z"
+      "joinDate": "2025-03-04T21:14:18.079Z",
+      "completedMissions": [
+        12,
+        12,
+        11,
+        13
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
