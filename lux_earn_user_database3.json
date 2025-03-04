@@ -36153,10 +36153,12 @@
       "referral_code": "LI7EJ",
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Maxdav"
+      ],
       "balance": 250,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T21:52:12.393Z",
@@ -38727,6 +38729,21 @@
         25
       ],
       "lastSpin": "2025-03-04T16:42:00.179Z"
+    },
+    {
+      "username": "Maxdav",
+      "email": "davidabayomi315@gmail.com",
+      "encrypted_password": "68ebdfe7e33792ee5b2c41f71dec1eb2",
+      "referral_code": "MA74G",
+      "inviter_referral_code": "LI7EJ",
+      "inviter_username": "Lilyyoung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T17:52:02.869Z"
     }
   ],
   "withdrawals": [
