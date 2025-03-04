@@ -795,10 +795,12 @@
       "referral_code": "NAIWW",
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
-      "invited_users": [],
+      "invited_users": [
+        "Faisaljega"
+      ],
       "balance": 780,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
@@ -38425,6 +38427,21 @@
       "joinDate": "2025-03-04T10:48:04.500Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Faisaljega",
+      "email": "fh7900138@gmail.com",
+      "encrypted_password": "7d668ecfabb24a2c4fa23a58024d6cf3",
+      "referral_code": "FALSK",
+      "inviter_referral_code": "NAIWW",
+      "inviter_username": "Nasmatu Haruna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T10:59:31.929Z"
     }
   ],
   "withdrawals": [
