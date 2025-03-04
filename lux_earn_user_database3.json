@@ -38739,10 +38739,12 @@
       "referral_code": "MA74G",
       "inviter_referral_code": "LI7EJ",
       "inviter_username": "Lilyyoung",
-      "invited_users": [],
+      "invited_users": [
+        "Victor"
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-04T17:52:02.869Z",
@@ -38874,6 +38876,21 @@
       "joinDate": "2025-02-21T12:01:07.463Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Victor",
+      "email": "victortejiri@icloud.com",
+      "encrypted_password": "4c50e764e3c7a7c3404302afd4c2e7ea",
+      "referral_code": "VILW3",
+      "inviter_referral_code": "MA74G",
+      "inviter_username": "Maxdav",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T20:31:03.181Z"
     }
   ],
   "withdrawals": [
