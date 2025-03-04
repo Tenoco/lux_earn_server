@@ -38689,7 +38689,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 105,
+      "balance": 205,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38697,7 +38697,9 @@
       "joinDate": "2025-03-04T16:23:05.007Z",
       "completedMissions": [
         11,
-        27
+        27,
+        26,
+        25
       ],
       "lastSpin": "2025-03-04T17:29:53.417Z"
     },
