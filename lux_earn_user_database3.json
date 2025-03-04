@@ -38904,7 +38904,7 @@
       "inviter_referral_code": "MA74G",
       "inviter_username": "Maxdav",
       "invited_users": [],
-      "balance": 200,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38914,7 +38914,8 @@
         11,
         12,
         13,
-        14
+        14,
+        17
       ],
       "lastSpin": null
     },
@@ -38948,7 +38949,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T21:00:57.364Z"
+      "joinDate": "2025-03-04T21:00:57.364Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
