@@ -796,11 +796,12 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [
-        "Faisaljega"
+        "Faisaljega",
+        "Aganee"
       ],
       "balance": 780,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
@@ -38486,6 +38487,21 @@
         27
       ],
       "lastSpin": "2025-03-04T11:14:50.584Z"
+    },
+    {
+      "username": "Aganee",
+      "email": "abdussalamliman73@gmail.com",
+      "encrypted_password": "0721dedfac31c8ca4803676ceeb397a3",
+      "referral_code": "AGGKI",
+      "inviter_referral_code": "NAIWW",
+      "inviter_username": "Nasmatu Haruna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T13:49:48.494Z"
     }
   ],
   "withdrawals": [
