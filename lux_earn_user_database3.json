@@ -33128,7 +33128,7 @@
         "Last ",
         "Nann"
       ],
-      "balance": 862,
+      "balance": 870,
       "refers": 4,
       "referralBalance": 400,
       "withdrawalBalance": 0,
@@ -33153,7 +33153,7 @@
         26,
         27
       ],
-      "lastSpin": "2025-03-01T23:02:51.766Z"
+      "lastSpin": "2025-03-04T16:24:47.917Z"
     },
     {
       "username": "emma1122",
@@ -38692,7 +38692,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T16:23:05.007Z"
+      "joinDate": "2025-03-04T16:23:05.007Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
