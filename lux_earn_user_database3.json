@@ -36593,7 +36593,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 308,
+      "balance": 318,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -36607,7 +36607,7 @@
         17,
         18
       ],
-      "lastSpin": "2025-03-03T04:39:46.674Z"
+      "lastSpin": "2025-03-04T21:32:36.115Z"
     },
     {
       "username": "Oladipupovictor",
@@ -39069,7 +39069,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T21:29:51.094Z"
+      "joinDate": "2025-03-04T21:29:51.094Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
