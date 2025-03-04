@@ -37468,11 +37468,12 @@
       "invited_users": [
         "Danielkafillu",
         "Samify ",
-        "Phillipine kid"
+        "Phillipine kid",
+        "DANIEL_EZRA"
       ],
       "balance": 790,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:13:06.448Z",
@@ -38255,6 +38256,21 @@
         17
       ],
       "lastSpin": null
+    },
+    {
+      "username": "DANIEL_EZRA",
+      "email": "danielkutdang@gmail.com",
+      "encrypted_password": "60ba3e9ca126d28cb1a8815ed169db1e",
+      "referral_code": "DA7KW",
+      "inviter_referral_code": "ELE2L",
+      "inviter_username": "Elijah1234",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T08:39:04.468Z"
     }
   ],
   "withdrawals": [
