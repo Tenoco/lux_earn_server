@@ -36156,7 +36156,7 @@
       "invited_users": [
         "Maxdav"
       ],
-      "balance": 250,
+      "balance": 270,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -36169,7 +36169,7 @@
         27,
         26
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-04T17:53:31.957Z"
     },
     {
       "username": "Victoralabi",
@@ -38743,7 +38743,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T17:52:02.869Z"
+      "joinDate": "2025-03-04T17:52:02.869Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
