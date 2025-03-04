@@ -38265,12 +38265,17 @@
       "inviter_referral_code": "ELE2L",
       "inviter_username": "Elijah1234",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T08:39:04.468Z"
+      "joinDate": "2025-03-04T08:39:04.468Z",
+      "completedMissions": [
+        11,
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
