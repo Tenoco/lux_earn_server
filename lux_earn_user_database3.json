@@ -38141,12 +38141,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-04T00:25:57.540Z"
+      "joinDate": "2025-03-04T00:25:57.540Z",
+      "lastSpin": "2025-03-04T00:26:24.724Z"
     }
   ],
   "withdrawals": [
