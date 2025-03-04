@@ -15277,10 +15277,12 @@
       "referral_code": "POWW5",
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
-      "invited_users": [],
+      "invited_users": [
+        "Adebayo "
+      ],
       "balance": 260,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-24T17:28:09.327Z",
@@ -38905,6 +38907,21 @@
         13
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Adebayo ",
+      "email": "adebayomuheezat2@gmail.com",
+      "encrypted_password": "dc7d711869f1a07b3d8159c4809fac79",
+      "referral_code": "ADCN2",
+      "inviter_referral_code": "POWW5",
+      "inviter_username": "Pop Hizy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T20:54:42.480Z"
     }
   ],
   "withdrawals": [
