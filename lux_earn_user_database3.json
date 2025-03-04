@@ -36154,11 +36154,12 @@
       "inviter_referral_code": "MAQEG",
       "inviter_username": null,
       "invited_users": [
-        "Maxdav"
+        "Maxdav",
+        "Michealy"
       ],
       "balance": 270,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T21:52:12.393Z",
@@ -38775,6 +38776,21 @@
         8
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Michealy",
+      "email": "ezem21100@gmail.com",
+      "encrypted_password": "076f06d88d5a06a329d3582000424e23",
+      "referral_code": "MI1ON",
+      "inviter_referral_code": "LI7EJ",
+      "inviter_username": "Lilyyoung",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T19:18:26.834Z"
     }
   ],
   "withdrawals": [
