@@ -797,11 +797,12 @@
       "inviter_username": "SuccessfulEhdee ",
       "invited_users": [
         "Faisaljega",
-        "Aganee"
+        "Aganee",
+        "Fiddausi"
       ],
       "balance": 780,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
@@ -39000,6 +39001,21 @@
         15
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Fiddausi",
+      "email": "fiddausisulaiman488@gmail.com",
+      "encrypted_password": "9cbfef820a2142c54982ce72eb8e14d8",
+      "referral_code": "FIFAW",
+      "inviter_referral_code": "NAIWW",
+      "inviter_username": "Nasmatu Haruna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-04T21:14:18.079Z"
     }
   ],
   "withdrawals": [
