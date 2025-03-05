@@ -39413,10 +39413,12 @@
       "referral_code": "GR9S6",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Iyorebles"
+      ],
       "balance": 710,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T06:59:49.223Z",
@@ -39437,6 +39439,21 @@
         22
       ],
       "lastSpin": "2025-03-05T07:00:01.498Z"
+    },
+    {
+      "username": "Iyorebles",
+      "email": "iyoreiyare78@gmail.com",
+      "encrypted_password": "0c2bb4100c1f6cfd0598838935b504da",
+      "referral_code": "IYUIQ",
+      "inviter_referral_code": "GR9S6",
+      "inviter_username": "Gracey ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T07:34:40.861Z"
     }
   ],
   "withdrawals": [
