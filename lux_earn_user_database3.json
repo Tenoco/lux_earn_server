@@ -39947,12 +39947,13 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 0,
+      "balance": 1,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T14:55:35.714Z"
+      "joinDate": "2025-03-05T14:55:35.714Z",
+      "lastSpin": "2025-03-05T14:56:02.816Z"
     }
   ],
   "withdrawals": [
