@@ -26250,11 +26250,12 @@
         "Abu006",
         "Precious",
         "Peterly",
-        "James "
+        "James ",
+        "Prreecious "
       ],
       "balance": 152,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:13:58.617Z",
@@ -39937,6 +39938,21 @@
         12
       ],
       "lastSpin": "2025-02-23T13:10:01.252Z"
+    },
+    {
+      "username": "Prreecious ",
+      "email": "pelumiopeyemi468@gmail.com",
+      "encrypted_password": "e1a7e8024f15eee25660c8f580142453",
+      "referral_code": "PR5B6",
+      "inviter_referral_code": "EMISH",
+      "inviter_username": "Emmy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T14:55:35.714Z"
     }
   ],
   "withdrawals": [
