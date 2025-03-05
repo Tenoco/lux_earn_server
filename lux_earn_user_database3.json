@@ -39735,14 +39735,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 72,
+      "balance": 172,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T10:48:35.461Z",
       "completedMissions": [
-        12
+        12,
+        11,
+        27
       ],
       "lastSpin": "2025-03-05T10:52:02.916Z"
     }
