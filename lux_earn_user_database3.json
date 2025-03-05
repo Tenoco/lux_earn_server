@@ -39947,7 +39947,7 @@
       "inviter_referral_code": "EMISH",
       "inviter_username": "Emmy",
       "invited_users": [],
-      "balance": 151,
+      "balance": 251,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -39957,7 +39957,9 @@
       "completedMissions": [
         11,
         11,
-        13
+        13,
+        13,
+        14
       ]
     }
   ],
