@@ -40565,14 +40565,16 @@
       "inviter_referral_code": null,
       "inviter_username": "Abisco22",
       "invited_users": [],
-      "balance": 55,
+      "balance": 155,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T08:28:09.342Z",
       "completedMissions": [
-        11
+        11,
+        12,
+        13
       ],
       "lastSpin": "2025-02-23T08:30:20.383Z"
     }
