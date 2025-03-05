@@ -38317,7 +38317,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 770,
+      "balance": 790,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38340,7 +38340,7 @@
         26,
         27
       ],
-      "lastSpin": "2025-03-03T22:23:26.976Z"
+      "lastSpin": "2025-03-05T08:27:56.741Z"
     },
     {
       "username": "Godstime",
@@ -39634,7 +39634,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T08:19:50.419Z"
+      "joinDate": "2025-03-05T08:19:50.419Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
