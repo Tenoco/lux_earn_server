@@ -39897,12 +39897,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 30,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T13:11:05.965Z"
+      "joinDate": "2025-03-05T13:11:05.965Z",
+      "lastSpin": "2025-03-05T13:11:30.959Z"
     }
   ],
   "withdrawals": [
