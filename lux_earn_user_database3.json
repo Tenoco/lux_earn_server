@@ -40133,7 +40133,35 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T18:07:04.897Z"
+      "joinDate": "2025-03-05T18:07:04.897Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vicky perry ",
+      "email": "oluwagbengavictor01@gmail.com",
+      "encrypted_password": "f676790720f7007f7ffcf33930b43ce4",
+      "referral_code": "VIDQ2",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Boky"
+      ],
+      "balance": 81,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:24:36.384Z",
+      "completedMissions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "lastSpin": "2025-02-22T02:12:27.720Z"
     }
   ],
   "withdrawals": [
