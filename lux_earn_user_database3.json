@@ -40350,6 +40350,21 @@
         10
       ],
       "lastSpin": "2025-02-22T09:29:54.496Z"
+    },
+    {
+      "username": "Rody",
+      "email": "rhodaanthony@gmail.com",
+      "encrypted_password": "d8dfd835c96b09072944c7ab991b4da8",
+      "referral_code": "RO3KO",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T21:08:09.624Z"
     }
   ],
   "withdrawals": [
