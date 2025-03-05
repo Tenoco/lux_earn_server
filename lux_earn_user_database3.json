@@ -5132,7 +5132,7 @@
       "inviter_referral_code": "BIAWR",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 6178,
+      "balance": 6828,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -5480,7 +5480,20 @@
         13,
         13,
         18,
-        18
+        18,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19
       ],
       "lastSpin": "2025-02-24T16:48:09.155Z"
     },
@@ -39453,7 +39466,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T07:34:40.861Z"
+      "joinDate": "2025-03-05T07:34:40.861Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
