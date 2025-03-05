@@ -25000,10 +25000,12 @@
       "referral_code": "MIRCD",
       "inviter_referral_code": "RYG0I",
       "inviter_username": "Rymics",
-      "invited_users": [],
+      "invited_users": [
+        "Emmys"
+      ],
       "balance": 0,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:55:53.425Z",
@@ -39987,6 +39989,21 @@
       "joinDate": "2025-03-05T15:48:42.168Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Emmys",
+      "email": "emmy707248@gmail.com",
+      "encrypted_password": "b310a1a2753475951edf5f4ecd8774e2",
+      "referral_code": "EM7HF",
+      "inviter_referral_code": "MIRCD",
+      "inviter_username": "Mikeys ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T16:07:44.845Z"
     }
   ],
   "withdrawals": [
