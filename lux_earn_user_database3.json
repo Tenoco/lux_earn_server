@@ -39636,11 +39636,12 @@
       "inviter_username": null,
       "invited_users": [
         "Iyorebles",
-        "Smiling "
+        "Smiling ",
+        "Eunicee"
       ],
       "balance": 710,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T06:59:49.223Z",
@@ -39968,6 +39969,21 @@
         18
       ],
       "lastSpin": "2025-03-05T14:56:02.816Z"
+    },
+    {
+      "username": "Eunicee",
+      "email": "enogierueunice35@gmail.com",
+      "encrypted_password": "61b630e857b7f161ddf3918c1a182a11",
+      "referral_code": "EUSB7",
+      "inviter_referral_code": "GR9S6",
+      "inviter_username": "Gracey ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T15:48:42.168Z"
     }
   ],
   "withdrawals": [
