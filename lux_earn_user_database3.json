@@ -39998,12 +39998,16 @@
       "inviter_referral_code": "MIRCD",
       "inviter_username": "Mikeys ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T16:07:44.845Z"
+      "joinDate": "2025-03-05T16:07:44.845Z",
+      "completedMissions": [
+        23
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
