@@ -39330,6 +39330,38 @@
       "joinDate": "2025-03-05T04:14:19.948Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Gaius velji ",
+      "email": "veljigaius@gmail.com",
+      "encrypted_password": "ae27bd8d5b0dac8820c33d1e5f019081",
+      "referral_code": "GAFCU",
+      "inviter_referral_code": "SI2MH",
+      "inviter_username": "SIRBLACKMEDIA",
+      "invited_users": [],
+      "balance": 345,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T06:33:36.629Z",
+      "completedMissions": [
+        8,
+        3,
+        2,
+        9,
+        6,
+        5,
+        7,
+        10,
+        16,
+        4,
+        12,
+        14,
+        13,
+        15
+      ],
+      "lastSpin": "2025-02-23T22:09:25.122Z"
     }
   ],
   "withdrawals": [
