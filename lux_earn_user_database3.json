@@ -39537,11 +39537,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Iyorebles"
+        "Iyorebles",
+        "Smiling "
       ],
       "balance": 710,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T06:59:49.223Z",
@@ -39619,6 +39620,21 @@
         10
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Smiling ",
+      "email": "joyamos355@gmail.com",
+      "encrypted_password": "49e2bcc682fa64af37565842266e57b4",
+      "referral_code": "SMCO8",
+      "inviter_referral_code": "GR9S6",
+      "inviter_username": "Gracey ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T08:19:50.419Z"
     }
   ],
   "withdrawals": [
