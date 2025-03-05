@@ -1671,7 +1671,7 @@
       "inviter_referral_code": "Aim",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 330,
+      "balance": 530,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -1688,7 +1688,11 @@
         16,
         12,
         13,
-        14
+        14,
+        14,
+        14,
+        14,
+        17
       ],
       "lastSpin": "2025-03-05T23:40:30.588Z"
     },
