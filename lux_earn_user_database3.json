@@ -26812,7 +26812,7 @@
         "Pelumi5q",
         "Riley43"
       ],
-      "balance": 400,
+      "balance": 408,
       "refers": 9,
       "referralBalance": 900,
       "withdrawalBalance": 0,
@@ -26839,7 +26839,7 @@
         22,
         23
       ],
-      "lastSpin": "2025-03-03T10:21:25.364Z"
+      "lastSpin": "2025-03-05T04:37:26.695Z"
     },
     {
       "username": "Temzy",
@@ -39327,7 +39327,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T04:14:19.948Z"
+      "joinDate": "2025-03-05T04:14:19.948Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
