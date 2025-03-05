@@ -22966,11 +22966,12 @@
         "Kamal56",
         "Auwal54",
         "Halipha87",
-        "bashir63"
+        "bashir63",
+        "Aliyu87"
       ],
       "balance": 865,
-      "refers": 105,
-      "referralBalance": 10500,
+      "refers": 106,
+      "referralBalance": 10600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T18:21:40.245Z",
@@ -39280,6 +39281,21 @@
         5
       ],
       "lastSpin": "2025-02-22T12:38:34.553Z"
+    },
+    {
+      "username": "Aliyu87",
+      "email": "Aliyuabubakarnura776@gmail.com",
+      "encrypted_password": "aea32d5c45a0ef86686fba28a3c2a5d0",
+      "referral_code": "ALI9W",
+      "inviter_referral_code": "USH6W",
+      "inviter_username": "Usman5",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T04:00:36.935Z"
     }
   ],
   "withdrawals": [
