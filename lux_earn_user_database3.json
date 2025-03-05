@@ -798,11 +798,12 @@
       "invited_users": [
         "Faisaljega",
         "Aganee",
-        "Fiddausi"
+        "Fiddausi",
+        "Khadija"
       ],
       "balance": 780,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T15:36:41.513Z",
@@ -39374,6 +39375,21 @@
         24
       ],
       "lastSpin": "2025-03-05T06:32:08.839Z"
+    },
+    {
+      "username": "Khadija",
+      "email": "haidaribrahim6982@gmail.com",
+      "encrypted_password": "2ae60ca70104f045d1771aead79aa0c0",
+      "referral_code": "KH8ZX",
+      "inviter_referral_code": "NAIWW",
+      "inviter_username": "Nasmatu Haruna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T06:51:32.416Z"
     }
   ],
   "withdrawals": [
