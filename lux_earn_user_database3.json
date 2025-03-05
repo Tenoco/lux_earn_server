@@ -25008,13 +25008,16 @@
       "invited_users": [
         "Emmys"
       ],
-      "balance": 5,
+      "balance": 105,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-26T23:55:53.425Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        12
+      ],
       "lastSpin": "2025-03-05T17:35:07.045Z"
     },
     {
@@ -40097,7 +40100,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T17:35:54.413Z"
+      "joinDate": "2025-03-05T17:35:54.413Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
