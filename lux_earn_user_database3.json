@@ -19291,7 +19291,7 @@
       "inviter_referral_code": "DEP90",
       "inviter_username": "Debright",
       "invited_users": [],
-      "balance": 306,
+      "balance": 331,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19314,7 +19314,7 @@
         17,
         18
       ],
-      "lastSpin": "2025-03-04T08:33:59.629Z"
+      "lastSpin": "2025-03-05T15:05:03.311Z"
     },
     {
       "username": "Kayode11",
@@ -39953,7 +39953,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T14:55:35.714Z",
-      "lastSpin": "2025-03-05T14:56:02.816Z",
       "completedMissions": [
         11,
         11,
@@ -39963,7 +39962,8 @@
         27,
         26,
         25
-      ]
+      ],
+      "lastSpin": "2025-03-05T14:56:02.816Z"
     }
   ],
   "withdrawals": [
