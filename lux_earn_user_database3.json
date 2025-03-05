@@ -28258,10 +28258,12 @@
       "referral_code": "VIRRJ",
       "inviter_referral_code": "GROUP2",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "K9"
+      ],
       "balance": 924,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T12:34:44.191Z",
@@ -39311,6 +39313,21 @@
       "joinDate": "2025-03-05T04:00:36.935Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "K9",
+      "email": "victorsam395@gmail.com",
+      "encrypted_password": "e10adc3949ba59abbe56e057f20f883e",
+      "referral_code": "K9K79",
+      "inviter_referral_code": "VIRRJ",
+      "inviter_username": "Victor ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T04:14:19.948Z"
     }
   ],
   "withdrawals": [
