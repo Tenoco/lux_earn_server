@@ -39213,14 +39213,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 70,
+      "balance": 120,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T12:35:29.558Z",
       "completedMissions": [
-        11
+        11,
+        27
       ],
       "lastSpin": "2025-03-05T00:06:33.148Z"
     }
