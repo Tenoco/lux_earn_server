@@ -40186,13 +40186,16 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T20:15:49.501Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        12
+      ],
       "lastSpin": null
     }
   ],
