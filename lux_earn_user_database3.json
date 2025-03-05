@@ -13073,7 +13073,7 @@
       "inviter_referral_code": "Khalil ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1251,
+      "balance": 1259,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -13117,7 +13117,7 @@
         19,
         26
       ],
-      "lastSpin": "2025-02-25T23:35:28.308Z"
+      "lastSpin": "2025-03-05T06:55:54.197Z"
     },
     {
       "username": "Yuggjft",
@@ -39389,7 +39389,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T06:51:32.416Z"
+      "joinDate": "2025-03-05T06:51:32.416Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
