@@ -13546,11 +13546,12 @@
         "dembele123",
         "starlight",
         "Monday ",
-        "Testimony@35"
+        "Testimony@35",
+        "muhammed"
       ],
       "balance": 245,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T20:18:24.072Z",
@@ -40364,7 +40365,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T21:08:09.624Z"
+      "joinDate": "2025-03-05T21:08:09.624Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "muhammed",
+      "email": "sarafaa984@gmail.com",
+      "encrypted_password": "126875ae0727cf40692ac280ecfe45b9",
+      "referral_code": "MULIH",
+      "inviter_referral_code": "ANBCY",
+      "inviter_username": "Angel997",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-05T21:13:45.111Z"
     }
   ],
   "withdrawals": [
