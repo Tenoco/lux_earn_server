@@ -40221,7 +40221,42 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-05T20:24:09.854Z"
+      "joinDate": "2025-03-05T20:24:09.854Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Shegzzy Media",
+      "email": "erinlesegun69@gmail.com",
+      "encrypted_password": "fb187460e4bd92f53607ba3ab4e7f455",
+      "referral_code": "SHNDD",
+      "inviter_referral_code": "KITGL",
+      "inviter_username": "Kimah373",
+      "invited_users": [
+        "Mammiegold",
+        "Thim cd5"
+      ],
+      "balance": 375,
+      "refers": 2,
+      "referralBalance": 200,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:22:36.620Z",
+      "completedMissions": [
+        2,
+        3,
+        4,
+        1,
+        5,
+        6,
+        7,
+        8,
+        11,
+        10,
+        14,
+        12
+      ],
+      "lastSpin": "2025-02-23T15:07:36.459Z"
     }
   ],
   "withdrawals": [
