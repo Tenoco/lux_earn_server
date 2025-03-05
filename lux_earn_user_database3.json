@@ -11268,13 +11268,15 @@
       "inviter_referral_code": "OZ7IX",
       "inviter_username": "Ozimama001",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-25T19:57:19.370Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": null
     },
     {
