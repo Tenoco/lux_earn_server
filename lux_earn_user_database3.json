@@ -42012,7 +42012,7 @@
       "inviter_referral_code": "FAYMV",
       "inviter_username": "FANCYgod ",
       "invited_users": [],
-      "balance": 68,
+      "balance": 168,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -42020,7 +42020,9 @@
       "joinDate": "2025-03-06T21:11:08.717Z",
       "lastSpin": "2025-03-06T21:13:31.604Z",
       "completedMissions": [
-        11
+        11,
+        12,
+        13
       ]
     }
   ],
