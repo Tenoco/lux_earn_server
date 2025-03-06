@@ -40506,10 +40506,12 @@
       "referral_code": "MULIH",
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
-      "invited_users": [],
+      "invited_users": [
+        "sarafa"
+      ],
       "balance": 500,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T21:13:45.111Z",
@@ -40786,6 +40788,21 @@
         3
       ],
       "lastSpin": "2025-02-20T23:55:31.038Z"
+    },
+    {
+      "username": "sarafa",
+      "email": "tiamiyusarafa2016@gmail.com",
+      "encrypted_password": "eead2753e7f53eb50d90c058baacfd73",
+      "referral_code": "SAMPH",
+      "inviter_referral_code": "MULIH",
+      "inviter_username": "muhammed",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T03:54:13.624Z"
     }
   ],
   "withdrawals": [
