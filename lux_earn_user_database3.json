@@ -40733,11 +40733,12 @@
       "invited_users": [
         "ugochukwu",
         "Mickey",
-        "Timilehin "
+        "Timilehin ",
+        "Monday"
       ],
       "balance": 200,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T22:50:07.847Z",
@@ -42228,7 +42229,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T23:19:18.248Z"
+      "joinDate": "2025-03-06T23:19:18.248Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Monday",
+      "email": "sunday8021389@gmail.com",
+      "encrypted_password": "e1a6f0d3d9acbaaacb02b3a1b30baf13",
+      "referral_code": "MOJ85",
+      "inviter_referral_code": "OB3D5",
+      "inviter_username": "Obinna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T23:20:43.988Z"
     }
   ],
   "withdrawals": [
