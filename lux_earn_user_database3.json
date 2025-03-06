@@ -40776,7 +40776,7 @@
         "Donpor",
         "Chris120"
       ],
-      "balance": 70,
+      "balance": 170,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -40785,7 +40785,9 @@
       "completedMissions": [
         1,
         2,
-        3
+        3,
+        11,
+        12
       ],
       "lastSpin": "2025-02-20T23:55:31.038Z"
     },
@@ -40802,7 +40804,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T03:54:13.624Z"
+      "joinDate": "2025-03-06T03:54:13.624Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
