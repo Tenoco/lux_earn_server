@@ -13682,7 +13682,7 @@
         "Testimony@35",
         "muhammed"
       ],
-      "balance": 245,
+      "balance": 250,
       "refers": 10,
       "referralBalance": 1000,
       "withdrawalBalance": 0,
@@ -13702,7 +13702,7 @@
         11,
         10
       ],
-      "lastSpin": "2025-03-01T21:08:42.874Z"
+      "lastSpin": "2025-03-06T15:44:29.462Z"
     },
     {
       "username": "Oscar",
@@ -41518,7 +41518,8 @@
         25,
         26,
         27
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
