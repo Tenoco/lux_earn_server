@@ -40689,11 +40689,12 @@
       "inviter_username": null,
       "invited_users": [
         "ugochukwu",
-        "Mickey"
+        "Mickey",
+        "Timilehin "
       ],
       "balance": 200,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T22:50:07.847Z",
@@ -41823,7 +41824,23 @@
         23,
         25,
         27
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Timilehin ",
+      "email": "oluokuntimilehin88@gmail.com",
+      "encrypted_password": "602108f371cd5703733c997d903f688c",
+      "referral_code": "TIPG6",
+      "inviter_referral_code": "OB3D5",
+      "inviter_username": "Obinna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T20:18:29.427Z"
     }
   ],
   "withdrawals": [
