@@ -21648,7 +21648,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1046,
+      "balance": 1061,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21705,7 +21705,7 @@
         19,
         19
       ],
-      "lastSpin": "2025-03-02T09:32:45.426Z"
+      "lastSpin": "2025-03-06T20:44:54.116Z"
     },
     {
       "username": "USMAN",
@@ -41939,7 +41939,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T20:43:44.820Z"
+      "joinDate": "2025-03-06T20:43:44.820Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
