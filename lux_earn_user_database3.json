@@ -41841,13 +41841,22 @@
       "inviter_referral_code": "OB3D5",
       "inviter_username": "Obinna",
       "invited_users": [],
-      "balance": 0,
+      "balance": 400,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:18:29.427Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11,
+        12,
+        13,
+        14,
+        17,
+        18,
+        19,
+        20
+      ],
       "lastSpin": null
     },
     {
