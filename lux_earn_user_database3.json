@@ -41310,7 +41310,7 @@
       "inviter_referral_code": "Optional ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 172,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41321,7 +41321,7 @@
         12,
         12
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-06T15:37:31.087Z"
     },
     {
       "username": "ChampionThegreat1",
@@ -41501,7 +41501,8 @@
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
