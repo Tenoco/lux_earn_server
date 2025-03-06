@@ -9657,11 +9657,12 @@
         "joluniyi99",
         "Malloy",
         "BkGraphics001",
-        "Kossymma "
+        "Kossymma ",
+        "Jarmar001"
       ],
       "balance": 295,
-      "refers": 31,
-      "referralBalance": 3100,
+      "refers": 32,
+      "referralBalance": 3200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-20T23:04:40.135Z",
@@ -40518,6 +40519,21 @@
       "joinDate": "2025-02-21T12:35:29.558Z",
       "completedMissions": [],
       "lastSpin": "2025-03-05T00:06:33.148Z"
+    },
+    {
+      "username": "Jarmar001",
+      "email": "oyedejijamiu551@gmail.com",
+      "encrypted_password": "18a650ebdc3236635ff71fd073b5bffc",
+      "referral_code": "JAJZ9",
+      "inviter_referral_code": "COWOA",
+      "inviter_username": "Confirmtv",
+      "invited_users": [],
+      "balance": 1000,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T17:50:22.762Z"
     }
   ],
   "withdrawals": [
