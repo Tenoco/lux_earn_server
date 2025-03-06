@@ -41889,7 +41889,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 100,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41897,7 +41897,8 @@
       "joinDate": "2025-03-06T20:26:42.762Z",
       "completedMissions": [
         13,
-        12
+        12,
+        11
       ]
     }
   ],
