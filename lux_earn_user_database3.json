@@ -42078,20 +42078,23 @@
       "inviter_referral_code": "SWNRU",
       "inviter_username": "Switch999",
       "invited_users": [],
-      "balance": 270,
+      "balance": 420,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:33:48.069Z",
+      "lastSpin": "2025-03-06T21:34:01.658Z",
       "completedMissions": [
         11,
         12,
         13,
         14,
-        17
-      ],
-      "lastSpin": "2025-03-06T21:34:01.658Z"
+        17,
+        18,
+        19,
+        20
+      ]
     },
     {
       "username": "Yahaya Usman",
