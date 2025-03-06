@@ -31631,11 +31631,12 @@
         "Tobiloba",
         "Happiness009",
         "Loveth",
-        "Chunsoo"
+        "Chunsoo",
+        "Samzara"
       ],
       "balance": 150,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T06:35:30.775Z",
@@ -41002,6 +41003,21 @@
         26
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Samzara",
+      "email": "samzara336@gmail.com",
+      "encrypted_password": "508681c27278c644989de81af62e6c9c",
+      "referral_code": "SA6MA",
+      "inviter_referral_code": "TERYC",
+      "inviter_username": "Temmie336",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T08:48:27.840Z"
     }
   ],
   "withdrawals": [
