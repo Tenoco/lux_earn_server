@@ -36699,10 +36699,12 @@
       "referral_code": "OL1UO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "olasmatt"
+      ],
       "balance": 869,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T21:38:10.893Z",
@@ -41569,6 +41571,21 @@
         18
       ],
       "lastSpin": "2025-03-06T16:32:10.875Z"
+    },
+    {
+      "username": "olasmatt",
+      "email": "olaoluwolemichael@gmail.com",
+      "encrypted_password": "7bb77d0b9c2ad7c556d82b6b2e69798e",
+      "referral_code": "OL8JT",
+      "inviter_referral_code": "OL1UO",
+      "inviter_username": "Olasmatt",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T16:40:05.961Z"
     }
   ],
   "withdrawals": [
