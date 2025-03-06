@@ -40673,11 +40673,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "ugochukwu"
+        "ugochukwu",
+        "Mickey"
       ],
       "balance": 200,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T22:50:07.847Z",
@@ -41642,7 +41643,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T17:07:08.466Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-06T17:08:10.653Z"
+    },
+    {
+      "username": "Mickey",
+      "email": "mickholland883@gmail.com",
+      "encrypted_password": "dd9703027d674a59654ecba9623127c0",
+      "referral_code": "MIYBC",
+      "inviter_referral_code": "OB3D5",
+      "inviter_username": "Obinna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T17:09:19.636Z"
     }
   ],
   "withdrawals": [
