@@ -40737,12 +40737,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 20,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T03:32:19.209Z"
+      "joinDate": "2025-03-06T03:32:19.209Z",
+      "lastSpin": "2025-03-06T03:33:13.308Z"
     }
   ],
   "withdrawals": [
