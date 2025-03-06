@@ -42047,7 +42047,7 @@
       "inviter_referral_code": "DEH12",
       "inviter_username": "Debandpele ",
       "invited_users": [],
-      "balance": 405,
+      "balance": 455,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -42061,7 +42061,8 @@
         24,
         23,
         22,
-        21
+        21,
+        20
       ],
       "lastSpin": "2025-03-06T21:20:05.645Z"
     },
@@ -42079,14 +42080,14 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:33:48.069Z",
-      "lastSpin": "2025-03-06T21:34:01.658Z",
       "completedMissions": [
         11,
         12,
         13,
         14,
         17
-      ]
+      ],
+      "lastSpin": "2025-03-06T21:34:01.658Z"
     }
   ],
   "withdrawals": [
