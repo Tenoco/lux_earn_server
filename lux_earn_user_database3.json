@@ -40812,13 +40812,15 @@
       "inviter_referral_code": "MULIH",
       "inviter_username": "muhammed",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T03:54:13.624Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": null
     }
   ],
