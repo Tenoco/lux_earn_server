@@ -41182,7 +41182,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 72,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41191,7 +41191,7 @@
       "completedMissions": [
         11
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-06T12:01:00.324Z"
     },
     {
       "username": "Emini Pedro ",
@@ -41256,7 +41256,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T11:41:14.517Z"
+      "joinDate": "2025-03-06T11:41:14.517Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
