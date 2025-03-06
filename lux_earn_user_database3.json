@@ -42013,10 +42013,12 @@
       "referral_code": "SWNRU",
       "inviter_referral_code": "FAYMV",
       "inviter_username": "FANCYgod ",
-      "invited_users": [],
+      "invited_users": [
+        "Gracie "
+      ],
       "balance": 668,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:11:08.717Z",
@@ -42060,6 +42062,21 @@
         23
       ],
       "lastSpin": "2025-03-06T21:20:05.645Z"
+    },
+    {
+      "username": "Gracie ",
+      "email": "switchberrywrld@gmail.com",
+      "encrypted_password": "f8487d0663c79f8b645c95003ccadb4c",
+      "referral_code": "GR99I",
+      "inviter_referral_code": "SWNRU",
+      "inviter_username": "Switch999",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T21:33:48.069Z"
     }
   ],
   "withdrawals": [
