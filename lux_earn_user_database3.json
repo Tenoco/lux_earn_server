@@ -41298,14 +41298,16 @@
       "inviter_referral_code": "Optional ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T12:14:26.991Z",
       "completedMissions": [
-        11
+        11,
+        12,
+        12
       ],
       "lastSpin": null
     },
@@ -41365,7 +41367,8 @@
         13,
         13,
         17
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
