@@ -41978,10 +41978,12 @@
       "referral_code": "DEH12",
       "inviter_referral_code": "SU4B5",
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Alabede1"
+      ],
       "balance": 750,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:43:44.820Z",
@@ -42018,13 +42020,28 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:11:08.717Z",
-      "lastSpin": "2025-03-06T21:13:31.604Z",
       "completedMissions": [
         11,
         12,
         13,
         14
-      ]
+      ],
+      "lastSpin": "2025-03-06T21:13:31.604Z"
+    },
+    {
+      "username": "Alabede1",
+      "email": "alabedeidowu0@gmail.com",
+      "encrypted_password": "2dc5308761e59f72ded057b6e59d196d",
+      "referral_code": "AL4UM",
+      "inviter_referral_code": "DEH12",
+      "inviter_username": "Debandpele ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T21:16:49.121Z"
     }
   ],
   "withdrawals": [
