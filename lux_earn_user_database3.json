@@ -41698,13 +41698,15 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 1000,
+      "balance": 1050,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T17:50:22.762Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": null
     }
   ],
