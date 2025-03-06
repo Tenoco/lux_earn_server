@@ -41800,14 +41800,17 @@
       "inviter_referral_code": "FAYMV",
       "inviter_username": "FANCYgod ",
       "invited_users": [],
-      "balance": 50,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T19:54:20.494Z",
       "completedMissions": [
-        11
+        11,
+        12,
+        12,
+        17
       ]
     }
   ],
