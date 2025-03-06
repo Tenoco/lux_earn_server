@@ -11645,7 +11645,7 @@
         "Mohyinhohluhwah ",
         "Samchris "
       ],
-      "balance": 838,
+      "balance": 839,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -11672,7 +11672,7 @@
         12,
         14
       ],
-      "lastSpin": "2025-03-04T17:41:10.009Z"
+      "lastSpin": "2025-03-06T00:18:09.098Z"
     },
     {
       "username": "Bwiocruz",
@@ -40690,7 +40690,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T00:17:15.913Z"
+      "joinDate": "2025-03-06T00:17:15.913Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
