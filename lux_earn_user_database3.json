@@ -41698,7 +41698,7 @@
       "inviter_referral_code": "COWOA",
       "inviter_username": "Confirmtv",
       "invited_users": [],
-      "balance": 1100,
+      "balance": 1200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41706,7 +41706,9 @@
       "joinDate": "2025-03-06T17:50:22.762Z",
       "completedMissions": [
         11,
-        12
+        12,
+        13,
+        14
       ],
       "lastSpin": null
     }
