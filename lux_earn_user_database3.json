@@ -41901,13 +41901,16 @@
       "inviter_referral_code": "FAYMV",
       "inviter_username": "FANCYgod ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:23:45.898Z",
-      "completedMissions": [],
+      "completedMissions": [
+        27,
+        26
+      ],
       "lastSpin": null
     },
     {
