@@ -19798,7 +19798,7 @@
       "inviter_referral_code": "HE020",
       "inviter_username": "Herit207",
       "invited_users": [],
-      "balance": 438,
+      "balance": 448,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -19827,7 +19827,7 @@
         9,
         15
       ],
-      "lastSpin": "2025-02-27T09:55:09.862Z"
+      "lastSpin": "2025-03-06T11:20:51.282Z"
     },
     {
       "username": "Olajumoke",
@@ -41185,7 +41185,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T11:17:50.913Z"
+      "joinDate": "2025-03-06T11:17:50.913Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
