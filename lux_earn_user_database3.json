@@ -40028,10 +40028,12 @@
       "referral_code": "MA8WH",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Kamisuntbk"
+      ],
       "balance": 873,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T10:29:06.452Z",
@@ -41323,6 +41325,21 @@
       "joinDate": "2025-02-22T10:43:49.918Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kamisuntbk",
+      "email": "goribantulu@gmail.com",
+      "encrypted_password": "0a33c209f21637b571cf0264b35120e9",
+      "referral_code": "KALG0",
+      "inviter_referral_code": "MA8WH",
+      "inviter_username": "Maishahada",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T13:40:27.135Z"
     }
   ],
   "withdrawals": [
