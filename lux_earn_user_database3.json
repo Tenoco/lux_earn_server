@@ -41029,12 +41029,13 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T09:02:40.186Z"
+      "joinDate": "2025-03-06T09:02:40.186Z",
+      "lastSpin": "2025-03-06T09:03:27.329Z"
     }
   ],
   "withdrawals": [
