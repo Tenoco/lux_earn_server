@@ -42073,7 +42073,7 @@
       "inviter_referral_code": "SWNRU",
       "inviter_username": "Switch999",
       "invited_users": [],
-      "balance": 70,
+      "balance": 170,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -42081,7 +42081,9 @@
       "joinDate": "2025-03-06T21:33:48.069Z",
       "lastSpin": "2025-03-06T21:34:01.658Z",
       "completedMissions": [
-        11
+        11,
+        12,
+        13
       ]
     }
   ],
