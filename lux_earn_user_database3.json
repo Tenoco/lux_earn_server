@@ -40036,11 +40036,12 @@
       "inviter_username": null,
       "invited_users": [
         "Kamisuntbk",
-        "TUMBURKAI"
+        "TUMBURKAI",
+        "Tumburkai1"
       ],
       "balance": 873,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T10:29:06.452Z",
@@ -41432,6 +41433,21 @@
         12
       ],
       "lastSpin": "2025-03-06T14:28:19.068Z"
+    },
+    {
+      "username": "Tumburkai1",
+      "email": "tajuddeensalis91@gmail.com",
+      "encrypted_password": "0a33c209f21637b571cf0264b35120e9",
+      "referral_code": "TU4LA",
+      "inviter_referral_code": "MA8WH",
+      "inviter_username": "Maishahada",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T14:31:12.144Z"
     }
   ],
   "withdrawals": [
