@@ -40328,14 +40328,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 75,
+      "balance": 125,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T18:07:04.897Z",
       "completedMissions": [
-        12
+        12,
+        13
       ],
       "lastSpin": "2025-03-05T18:14:08.751Z"
     },
