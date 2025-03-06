@@ -41268,12 +41268,16 @@
       "inviter_referral_code": "Optional ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T12:14:26.991Z"
+      "joinDate": "2025-03-06T12:14:26.991Z",
+      "completedMissions": [
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
