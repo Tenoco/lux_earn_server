@@ -41442,13 +41442,16 @@
       "inviter_referral_code": "MA8WH",
       "inviter_username": "Maishahada",
       "invited_users": [],
-      "balance": 12,
+      "balance": 62,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T14:31:12.144Z",
-      "lastSpin": "2025-03-06T14:31:21.117Z"
+      "lastSpin": "2025-03-06T14:31:21.117Z",
+      "completedMissions": [
+        14
+      ]
     }
   ],
   "withdrawals": [
