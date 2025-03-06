@@ -40604,10 +40604,12 @@
       "referral_code": "FAYMV",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Zanga"
+      ],
       "balance": 755,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T23:51:51.133Z",
@@ -40629,6 +40631,21 @@
         27
       ],
       "lastSpin": "2025-03-06T00:04:19.367Z"
+    },
+    {
+      "username": "Zanga",
+      "email": "bigfancy40@gmail.com",
+      "encrypted_password": "1420fddf019dd93999325cfef3090254",
+      "referral_code": "ZA0WA",
+      "inviter_referral_code": "FAYMV",
+      "inviter_username": "FANCYgod ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T00:07:53.468Z"
     }
   ],
   "withdrawals": [
