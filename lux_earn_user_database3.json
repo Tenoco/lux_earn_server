@@ -29421,11 +29421,12 @@
       "inviter_username": null,
       "invited_users": [
         "Nickipearl ",
-        "Michelle"
+        "Michelle",
+        "Jagaban7552"
       ],
       "balance": 0,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T18:54:54.903Z",
@@ -42175,6 +42176,21 @@
         23
       ],
       "lastSpin": "2025-03-06T22:34:13.518Z"
+    },
+    {
+      "username": "Jagaban7552",
+      "email": "jagabanefcc@gmail.com",
+      "encrypted_password": "c821524d42a5a8f6a7b992504302d268",
+      "referral_code": "JAFPU",
+      "inviter_referral_code": "VAXO2",
+      "inviter_username": "Valentine1p",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T22:58:16.404Z"
     }
   ],
   "withdrawals": [
