@@ -41624,7 +41624,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T17:06:42.892Z"
+      "joinDate": "2025-03-06T17:06:42.892Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Rhodu",
+      "email": "boyrhodi@gmail.com",
+      "encrypted_password": "b66f0f2039ff5c60cc6387f6d2a914d3",
+      "referral_code": "RH375",
+      "inviter_referral_code": "LEUPH",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T17:07:08.466Z"
     }
   ],
   "withdrawals": [
