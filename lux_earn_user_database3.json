@@ -41017,7 +41017,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T08:48:27.840Z"
+      "joinDate": "2025-03-06T08:48:27.840Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Omotowo muslimat arinola",
+      "email": "omotowomuslimat53@gmail.com",
+      "encrypted_password": "46740ca031d20d8a31235908d552b14b",
+      "referral_code": "OMYH9",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T09:02:40.186Z"
     }
   ],
   "withdrawals": [
