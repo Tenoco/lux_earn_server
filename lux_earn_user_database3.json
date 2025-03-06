@@ -15843,7 +15843,7 @@
       "inviter_referral_code": "LI4O7",
       "inviter_username": "Livvey",
       "invited_users": [
-        "ÃÂÃÂlÃÂÃÂ¥ mÃÂÃÂ¯dÃÂÃÂ« "
+        "ÃÂÃÂÃÂÃÂlÃÂÃÂÃÂÃÂ¥ mÃÂÃÂÃÂÃÂ¯dÃÂÃÂÃÂÃÂ« "
       ],
       "balance": 330,
       "refers": 1,
@@ -38301,7 +38301,7 @@
       "invited_users": [
         "Stephanie",
         "Kelvin ",
-        "DÃ« DÃ« ÃffÃ­Ã§Ã¯Ã£l ",
+        "DÃÂ« DÃÂ« ÃÂffÃÂ­ÃÂ§ÃÂ¯ÃÂ£l ",
         "Eze Kenneth ",
         "Ferdinand stephen",
         "Onyedikachi Ikube",
@@ -40784,11 +40784,12 @@
         "Zanga",
         "UCHELUCKY ",
         "Aniani",
-        "SAADATUNUHU"
+        "SAADATUNUHU",
+        "Okesurajudeen"
       ],
       "balance": 755,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T23:51:51.133Z",
@@ -41845,10 +41846,10 @@
       "lastSpin": null
     },
     {
-      "username": "K�sh",
+      "username": "Kãsh",
       "email": "momohabdulwaheed4@gmail.com",
       "encrypted_password": "68f5a6e1df5eb13f5e55260d2468f1f0",
-      "referral_code": "K�OWU",
+      "referral_code": "KÃOWU",
       "inviter_referral_code": "SU4B5",
       "inviter_username": null,
       "invited_users": [],
@@ -41857,7 +41858,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T20:22:05.734Z"
+      "joinDate": "2025-03-06T20:22:05.734Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Okesurajudeen",
+      "email": "okesurajudeen45@gmail.com",
+      "encrypted_password": "2a80a34b07d365674d1c9de4192085e5",
+      "referral_code": "OKV83",
+      "inviter_referral_code": "FAYMV",
+      "inviter_username": "FANCYgod ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T20:23:45.898Z"
     }
   ],
   "withdrawals": [
