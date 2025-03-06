@@ -41664,6 +41664,31 @@
       "joinDate": "2025-03-06T17:09:19.636Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "africa",
+      "email": "yemma1245@gmail.com",
+      "encrypted_password": "fec9eb8019de4d517a66ca1c48ed65c8",
+      "referral_code": "AFJS3",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 102,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-23T01:11:36.158Z",
+      "completedMissions": [
+        11,
+        10,
+        12,
+        7,
+        5,
+        1,
+        2
+      ],
+      "lastSpin": "2025-02-23T12:25:30.933Z"
     }
   ],
   "withdrawals": [
