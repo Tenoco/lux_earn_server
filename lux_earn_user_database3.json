@@ -32984,7 +32984,7 @@
       "inviter_referral_code": "ADUNL",
       "inviter_username": "ADESOLA VERACITY",
       "invited_users": [],
-      "balance": 1005,
+      "balance": 1306,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -33010,9 +33010,15 @@
         14,
         13,
         12,
-        11
+        11,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18
       ],
-      "lastSpin": "2025-03-01T13:38:05.426Z"
+      "lastSpin": "2025-03-06T16:40:37.657Z"
     },
     {
       "username": "Zylixawe",
@@ -41585,7 +41591,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T16:40:05.961Z"
+      "joinDate": "2025-03-06T16:40:05.961Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
