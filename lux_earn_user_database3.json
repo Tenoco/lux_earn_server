@@ -41398,7 +41398,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 350,
+      "balance": 370,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41413,7 +41413,7 @@
         23,
         13
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-06T14:32:27.014Z"
     },
     {
       "username": "TUMBURKAI",
@@ -41448,10 +41448,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T14:31:12.144Z",
-      "lastSpin": "2025-03-06T14:31:21.117Z",
       "completedMissions": [
         14
-      ]
+      ],
+      "lastSpin": "2025-03-06T14:31:21.117Z"
     }
   ],
   "withdrawals": [
