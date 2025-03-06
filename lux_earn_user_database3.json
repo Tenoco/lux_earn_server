@@ -40615,11 +40615,12 @@
       "inviter_username": null,
       "invited_users": [
         "Zanga",
-        "UCHELUCKY "
+        "UCHELUCKY ",
+        "Aniani"
       ],
       "balance": 755,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T23:51:51.133Z",
@@ -40673,7 +40674,23 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T00:15:33.849Z",
+      "completedMissions": [],
       "lastSpin": "2025-03-06T00:15:47.600Z"
+    },
+    {
+      "username": "Aniani",
+      "email": "ellaposh361@gmail.com",
+      "encrypted_password": "b9bc21370b3c31a8a7aa2b61ff833ff9",
+      "referral_code": "ANASR",
+      "inviter_referral_code": "FAYMV",
+      "inviter_username": "FANCYgod ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T00:17:15.913Z"
     }
   ],
   "withdrawals": [
