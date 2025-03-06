@@ -41875,7 +41875,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T20:23:45.898Z"
+      "joinDate": "2025-03-06T20:23:45.898Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SalzzyBility ",
+      "email": "salvation23@gmail.com",
+      "encrypted_password": "ecfa099d042bc6411c8c8f6eabb414aa",
+      "referral_code": "SASF8",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T20:26:42.762Z"
     }
   ],
   "withdrawals": [
