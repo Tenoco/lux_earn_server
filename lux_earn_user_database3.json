@@ -41636,12 +41636,13 @@
       "inviter_referral_code": "LEUPH",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 22,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T17:07:08.466Z"
+      "joinDate": "2025-03-06T17:07:08.466Z",
+      "lastSpin": "2025-03-06T17:08:10.653Z"
     }
   ],
   "withdrawals": [
