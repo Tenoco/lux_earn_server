@@ -40809,11 +40809,12 @@
         "UCHELUCKY ",
         "Aniani",
         "SAADATUNUHU",
-        "Okesurajudeen"
+        "Okesurajudeen",
+        "Switch999"
       ],
       "balance": 755,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T23:51:51.133Z",
@@ -41993,6 +41994,21 @@
         21
       ],
       "lastSpin": null
+    },
+    {
+      "username": "Switch999",
+      "email": "ocheemma306@gmail.com",
+      "encrypted_password": "192f7572724badfaab52bd2e9d6180b7",
+      "referral_code": "SWNRU",
+      "inviter_referral_code": "FAYMV",
+      "inviter_username": "FANCYgod ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T21:11:08.717Z"
     }
   ],
   "withdrawals": [
