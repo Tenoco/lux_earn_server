@@ -38875,7 +38875,7 @@
       "inviter_referral_code": "AGxy92 ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 580,
+      "balance": 585,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -38894,7 +38894,7 @@
         20,
         21
       ],
-      "lastSpin": "2025-03-05T23:01:59.695Z"
+      "lastSpin": "2025-03-06T23:46:12.197Z"
     },
     {
       "username": "Sunday joseph",
@@ -42246,7 +42246,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T23:20:43.988Z"
+      "joinDate": "2025-03-06T23:20:43.988Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
