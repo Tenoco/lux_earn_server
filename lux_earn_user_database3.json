@@ -41748,12 +41748,14 @@
       "inviter_referral_code": "mamanshuraim",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 18,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T18:43:56.308Z"
+      "joinDate": "2025-03-06T18:43:56.308Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-06T18:46:58.811Z"
     }
   ],
   "withdrawals": [
