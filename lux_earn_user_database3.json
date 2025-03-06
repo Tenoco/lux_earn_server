@@ -2604,11 +2604,12 @@
         "Mohmmed",
         "Usman",
         "Shafiyi ",
-        "Kuduboy00"
+        "Kuduboy00",
+        "Yahaya Usman"
       ],
       "balance": 761,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-23T07:16:56.181Z",
@@ -42089,6 +42090,21 @@
         17
       ],
       "lastSpin": "2025-03-06T21:34:01.658Z"
+    },
+    {
+      "username": "Yahaya Usman",
+      "email": "seniormanschool@gmail.com",
+      "encrypted_password": "2c5063a257909f5c6ae507fa3ead7851",
+      "referral_code": "YA6X8",
+      "inviter_referral_code": "ZUQ0Y",
+      "inviter_username": "Zubairu jibrin ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T21:37:05.375Z"
     }
   ],
   "withdrawals": [
