@@ -42045,13 +42045,15 @@
       "inviter_referral_code": "DEH12",
       "inviter_username": "Debandpele ",
       "invited_users": [],
-      "balance": 5,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:16:49.121Z",
-      "completedMissions": [],
+      "completedMissions": [
+        11
+      ],
       "lastSpin": "2025-03-06T21:20:05.645Z"
     }
   ],
