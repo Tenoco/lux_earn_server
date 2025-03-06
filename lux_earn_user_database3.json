@@ -42020,7 +42020,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:11:08.717Z",
-      "lastSpin": "2025-03-06T21:13:31.604Z",
       "completedMissions": [
         11,
         12,
@@ -42035,7 +42034,8 @@
         22,
         23,
         26
-      ]
+      ],
+      "lastSpin": "2025-03-06T21:13:31.604Z"
     },
     {
       "username": "Alabede1",
@@ -42045,14 +42045,14 @@
       "inviter_referral_code": "DEH12",
       "inviter_username": "Debandpele ",
       "invited_users": [],
-      "balance": 0,
+      "balance": 5,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:16:49.121Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-03-06T21:20:05.645Z"
     }
   ],
   "withdrawals": [
