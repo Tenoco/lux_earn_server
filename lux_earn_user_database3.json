@@ -41989,11 +41989,12 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": null,
       "invited_users": [
-        "Alabede1"
+        "Alabede1",
+        "afariogun "
       ],
       "balance": 762,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:43:44.820Z",
@@ -42123,6 +42124,21 @@
       "joinDate": "2025-03-06T21:37:05.375Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "afariogun ",
+      "email": "aafariogunafariogun@gmail.com",
+      "encrypted_password": "5bd5e3679d6442c0045d2f8b7aeac0bf",
+      "referral_code": "AFDG1",
+      "inviter_referral_code": "DEH12",
+      "inviter_username": "Debandpele ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T22:20:56.524Z"
     }
   ],
   "withdrawals": [
