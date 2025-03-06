@@ -41934,14 +41934,17 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 200,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:43:44.820Z",
       "completedMissions": [
-        12
+        12,
+        11,
+        13,
+        14
       ]
     }
   ],
