@@ -40856,14 +40856,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 50,
+      "balance": 150,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T05:55:02.951Z",
       "completedMissions": [
-        11
+        11,
+        13,
+        12
       ],
       "lastSpin": null
     },
