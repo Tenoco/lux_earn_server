@@ -20215,7 +20215,7 @@
       "invited_users": [
         "Khalifangw21"
       ],
-      "balance": 1040,
+      "balance": 1140,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -20258,7 +20258,9 @@
         19,
         19,
         19,
-        19
+        19,
+        25,
+        25
       ],
       "lastSpin": null
     },
@@ -41659,7 +41661,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T17:09:19.636Z"
+      "joinDate": "2025-03-06T17:09:19.636Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
