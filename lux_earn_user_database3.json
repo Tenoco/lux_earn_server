@@ -42014,19 +42014,20 @@
       "inviter_referral_code": "FAYMV",
       "inviter_username": "FANCYgod ",
       "invited_users": [],
-      "balance": 218,
+      "balance": 268,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T21:11:08.717Z",
+      "lastSpin": "2025-03-06T21:13:31.604Z",
       "completedMissions": [
         11,
         12,
         13,
-        14
-      ],
-      "lastSpin": "2025-03-06T21:13:31.604Z"
+        14,
+        27
+      ]
     },
     {
       "username": "Alabede1",
@@ -42041,7 +42042,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T21:16:49.121Z"
+      "joinDate": "2025-03-06T21:16:49.121Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
