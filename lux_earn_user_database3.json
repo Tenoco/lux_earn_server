@@ -40327,10 +40327,12 @@
       "referral_code": "MAV8Z",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Emini Pedro "
+      ],
       "balance": 825,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T18:07:04.897Z",
@@ -41188,7 +41190,23 @@
       "joinDate": "2025-03-06T11:17:50.913Z",
       "completedMissions": [
         11
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Emini Pedro ",
+      "email": "eminipedro@gmail.com",
+      "encrypted_password": "24d9309eba5bcfe39a3d89324dde7d64",
+      "referral_code": "EM54M",
+      "inviter_referral_code": "MAV8Z",
+      "inviter_username": "Mayor2610",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T11:31:22.221Z"
     }
   ],
   "withdrawals": [
