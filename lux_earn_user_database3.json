@@ -3044,7 +3044,7 @@
         "Abegg",
         "Koredx"
       ],
-      "balance": 307,
+      "balance": 317,
       "refers": 5,
       "referralBalance": 500,
       "withdrawalBalance": 0,
@@ -3066,7 +3066,7 @@
         6,
         16
       ],
-      "lastSpin": "2025-03-01T03:03:55.688Z"
+      "lastSpin": "2025-03-06T10:14:55.893Z"
     },
     {
       "username": "Shamsudeen ",
@@ -41118,7 +41118,8 @@
       "joinDate": "2025-03-06T09:56:58.179Z",
       "completedMissions": [
         11
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
