@@ -40782,11 +40782,12 @@
       "invited_users": [
         "Zanga",
         "UCHELUCKY ",
-        "Aniani"
+        "Aniani",
+        "SAADATUNUHU"
       ],
       "balance": 755,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T23:51:51.133Z",
@@ -41790,6 +41791,21 @@
         27
       ],
       "lastSpin": "2025-03-06T19:35:40.946Z"
+    },
+    {
+      "username": "SAADATUNUHU",
+      "email": "saadatusnuhu315@gmail.com",
+      "encrypted_password": "caa1142ebad7767935fa5c7170ed30a1",
+      "referral_code": "SAOSY",
+      "inviter_referral_code": "FAYMV",
+      "inviter_username": "FANCYgod ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T19:54:20.494Z"
     }
   ],
   "withdrawals": [
