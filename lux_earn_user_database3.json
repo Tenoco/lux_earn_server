@@ -9401,7 +9401,7 @@
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
       "invited_users": [],
-      "balance": 1810,
+      "balance": 1830,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -9469,7 +9469,7 @@
         24,
         24
       ],
-      "lastSpin": "2025-03-05T09:32:31.238Z"
+      "lastSpin": "2025-03-06T10:59:33.516Z"
     },
     {
       "username": "Renny333 ",
@@ -41168,7 +41168,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T10:56:53.314Z"
+      "joinDate": "2025-03-06T10:56:53.314Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
