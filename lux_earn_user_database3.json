@@ -40506,12 +40506,10 @@
       "referral_code": "MULIH",
       "inviter_referral_code": "ANBCY",
       "inviter_username": "Angel997",
-      "invited_users": [
-        "sarafa"
-      ],
-      "balance": 500,
-      "refers": 1,
-      "referralBalance": 100,
+      "invited_users": [],
+      "balance": 550,
+      "refers": 0,
+      "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T21:13:45.111Z",
@@ -40525,7 +40523,8 @@
         19,
         20,
         21,
-        22
+        22,
+        27
       ],
       "lastSpin": null
     },
