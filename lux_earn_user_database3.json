@@ -40672,10 +40672,12 @@
       "referral_code": "OB3D5",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "ugochukwu"
+      ],
       "balance": 200,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T22:50:07.847Z",
@@ -41608,6 +41610,21 @@
       "joinDate": "2025-03-06T16:40:05.961Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "ugochukwu",
+      "email": "hesgreatugochukwu@gmail.com",
+      "encrypted_password": "dc647eb65e6711e155375218212b3964",
+      "referral_code": "UGH89",
+      "inviter_referral_code": "OB3D5",
+      "inviter_username": "Obinna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T17:06:42.892Z"
     }
   ],
   "withdrawals": [
