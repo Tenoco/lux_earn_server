@@ -42184,10 +42184,12 @@
       "referral_code": "JAFPU",
       "inviter_referral_code": "VAXO2",
       "inviter_username": "Valentine1p",
-      "invited_users": [],
+      "invited_users": [
+        "Amadi7552"
+      ],
       "balance": 918,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T22:58:16.404Z",
@@ -42212,6 +42214,21 @@
         18
       ],
       "lastSpin": "2025-03-06T22:58:35.155Z"
+    },
+    {
+      "username": "Amadi7552",
+      "email": "godfreyogbonda61@gmail.com",
+      "encrypted_password": "c821524d42a5a8f6a7b992504302d268",
+      "referral_code": "AMZZ0",
+      "inviter_referral_code": "JAFPU",
+      "inviter_username": "Jagaban7552",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-06T23:19:18.248Z"
     }
   ],
   "withdrawals": [
