@@ -41943,7 +41943,7 @@
       "inviter_referral_code": "SU4B5",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 400,
+      "balance": 550,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -41957,7 +41957,10 @@
         17,
         18,
         19,
-        20
+        20,
+        27,
+        26,
+        25
       ],
       "lastSpin": null
     }
