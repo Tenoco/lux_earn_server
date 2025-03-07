@@ -6492,7 +6492,7 @@
         "Moses24 ",
         "Innocent "
       ],
-      "balance": 862,
+      "balance": 1082,
       "refers": 3,
       "referralBalance": 300,
       "withdrawalBalance": 0,
@@ -6548,9 +6548,13 @@
         19,
         20,
         20,
-        21
+        21,
+        27,
+        26,
+        25,
+        24
       ],
-      "lastSpin": "2025-03-06T08:43:04.376Z"
+      "lastSpin": "2025-03-07T09:12:54.001Z"
     },
     {
       "username": "Adeleke10",
@@ -42710,10 +42714,10 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T09:12:31.947Z",
-      "lastSpin": "2025-03-07T09:14:04.019Z",
       "completedMissions": [
         11
-      ]
+      ],
+      "lastSpin": "2025-03-07T09:14:04.019Z"
     }
   ],
   "withdrawals": [
