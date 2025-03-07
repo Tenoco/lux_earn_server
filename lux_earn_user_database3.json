@@ -44067,7 +44067,23 @@
         26,
         27,
         27
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Mrdeleb",
+      "email": "mrdeleb008@gmail.com",
+      "encrypted_password": "92b5928424c2fc21d08638bf37701597",
+      "referral_code": "MRTAI",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T22:56:49.632Z"
     }
   ],
   "withdrawals": [
