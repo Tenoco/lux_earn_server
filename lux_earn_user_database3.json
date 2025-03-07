@@ -36868,7 +36868,7 @@
         "olasmatt",
         "ola"
       ],
-      "balance": 869,
+      "balance": 899,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -36893,7 +36893,7 @@
         18,
         14
       ],
-      "lastSpin": "2025-03-06T07:41:41.550Z"
+      "lastSpin": "2025-03-07T15:12:48.717Z"
     },
     {
       "username": "Yahaya35",
@@ -43568,7 +43568,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T15:12:06.245Z"
+      "joinDate": "2025-03-07T15:12:06.245Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
