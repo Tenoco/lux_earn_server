@@ -484,11 +484,12 @@
       "invited_users": [
         "Latex ",
         "Fekaangaliambeelouis ",
-        "Maryfrank"
+        "Maryfrank",
+        "Niongun Cletus "
       ],
       "balance": 1292,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:40.263Z",
@@ -43839,6 +43840,21 @@
       "joinDate": "2025-03-07T19:00:52.501Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Niongun Cletus ",
+      "email": "nionguncletus@gmail.com",
+      "encrypted_password": "043feb146c422b4572acea9c5edc8021",
+      "referral_code": "NIGW0",
+      "inviter_referral_code": "MIF46",
+      "inviter_username": "Michael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T19:23:46.917Z"
     }
   ],
   "withdrawals": [
