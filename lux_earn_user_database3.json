@@ -43103,11 +43103,12 @@
       "inviter_referral_code": "PUYFO",
       "inviter_username": "Purity24",
       "invited_users": [
-        "Idris"
+        "Idris",
+        "Ewaola"
       ],
       "balance": 650,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:43:11.450Z",
@@ -43327,7 +43328,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:38:56.954Z"
+      "joinDate": "2025-03-07T14:38:56.954Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ewaola",
+      "email": "serahogunname@gmail.com",
+      "encrypted_password": "f5176f66aec771aefd26a70f5fc5b4fb",
+      "referral_code": "EWWUF",
+      "inviter_referral_code": "KEJQK",
+      "inviter_username": "Kennybeauty01",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:40:11.980Z"
     }
   ],
   "withdrawals": [
