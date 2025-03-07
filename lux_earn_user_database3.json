@@ -43069,14 +43069,15 @@
       "inviter_referral_code": "PUYFO",
       "inviter_username": "Purity24",
       "invited_users": [],
-      "balance": 50,
+      "balance": 100,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:43:11.450Z",
       "completedMissions": [
-        11
+        11,
+        12
       ]
     }
   ],
