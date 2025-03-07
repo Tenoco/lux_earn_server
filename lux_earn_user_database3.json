@@ -40897,11 +40897,12 @@
         "ugochukwu",
         "Mickey",
         "Timilehin ",
-        "Monday"
+        "Monday",
+        "Akuzzy"
       ],
       "balance": 255,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-05T22:50:07.847Z",
@@ -43821,6 +43822,21 @@
       "joinDate": "2025-03-07T17:30:44.204Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Akuzzy",
+      "email": "cristyjohn40@gmail.com",
+      "encrypted_password": "4841f2c07daefd045cb0430ab06ee3b4",
+      "referral_code": "AKZ5T",
+      "inviter_referral_code": "OB3D5",
+      "inviter_username": "Obinna",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T19:00:52.501Z"
     }
   ],
   "withdrawals": [
