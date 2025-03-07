@@ -42062,11 +42062,12 @@
       "inviter_username": null,
       "invited_users": [
         "Alabede1",
-        "afariogun "
+        "afariogun ",
+        "Momoh habeeb "
       ],
       "balance": 762,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-06T20:43:44.820Z",
@@ -42694,6 +42695,21 @@
       "joinDate": "2025-03-07T08:51:29.051Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Momoh habeeb ",
+      "email": "momohkasim046@gmail.com",
+      "encrypted_password": "1da85cb7a8cd0384407e48907c17d0dd",
+      "referral_code": "MOUEG",
+      "inviter_referral_code": "DEH12",
+      "inviter_username": "Debandpele ",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T09:12:31.947Z"
     }
   ],
   "withdrawals": [
