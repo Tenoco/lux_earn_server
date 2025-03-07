@@ -20083,7 +20083,7 @@
       "inviter_referral_code": "LUX EARN",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1399,
+      "balance": 1429,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -20147,7 +20147,7 @@
         26,
         27
       ],
-      "lastSpin": "2025-03-05T23:38:58.522Z"
+      "lastSpin": "2025-03-07T11:21:29.975Z"
     },
     {
       "username": "MARY LYNN ",
@@ -42876,7 +42876,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T10:54:49.360Z"
+      "joinDate": "2025-03-07T10:54:49.360Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
