@@ -43050,11 +43050,12 @@
       "invited_users": [
         "Grace ibe",
         "Ifeay99",
-        "Benjamin 90"
+        "Benjamin 90",
+        "Danco78"
       ],
       "balance": 610,
-      "refers": 3,
-      "referralBalance": 300,
+      "refers": 4,
+      "referralBalance": 400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43248,7 +43249,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:24:53.688Z"
+      "joinDate": "2025-03-07T14:24:53.688Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Danco78",
+      "email": "ugochukwu999@gmail.com",
+      "encrypted_password": "9d7f6dfcd416c1c66a93a60054358fdc",
+      "referral_code": "DATOE",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:28:13.012Z"
     }
   ],
   "withdrawals": [
