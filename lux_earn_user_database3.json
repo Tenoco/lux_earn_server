@@ -42800,11 +42800,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Active247"
+        "Active247",
+        "Ghjkboy"
       ],
       "balance": 820,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T10:36:31.668Z",
@@ -42844,6 +42845,21 @@
       "joinDate": "2025-03-07T10:49:25.415Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Ghjkboy",
+      "email": "chiboyactive247@gmail.com",
+      "encrypted_password": "d979f39fe9ff99b967a30cbf9a5de7e3",
+      "referral_code": "GHUFS",
+      "inviter_referral_code": "ACQ3N",
+      "inviter_username": "Activeboy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T10:53:23.614Z"
     }
   ],
   "withdrawals": [
