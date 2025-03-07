@@ -43052,11 +43052,12 @@
         "Ifeay99",
         "Benjamin 90",
         "Danco78",
-        "IKECHIugo"
+        "IKECHIugo",
+        "Jacob44"
       ],
       "balance": 610,
-      "refers": 5,
-      "referralBalance": 500,
+      "refers": 6,
+      "referralBalance": 600,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43291,7 +43292,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:34:19.235Z"
+      "joinDate": "2025-03-07T14:34:19.235Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Jacob44",
+      "email": "jbella3@gmail.com",
+      "encrypted_password": "6515e2f2b8c32c9227d872201c5044ea",
+      "referral_code": "JASHZ",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:37:43.832Z"
     }
   ],
   "withdrawals": [
