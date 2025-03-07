@@ -42916,11 +42916,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "Eazybwoi"
+        "Eazybwoi",
+        "IKECHI99"
       ],
       "balance": 825,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:01:27.173Z",
@@ -43024,6 +43025,21 @@
         8
       ],
       "lastSpin": "2025-02-25T12:43:11.919Z"
+    },
+    {
+      "username": "IKECHI99",
+      "email": "leowugo222@gmail.com",
+      "encrypted_password": "574e85f12fcbf579b0c8929a15f13ff5",
+      "referral_code": "IKNSY",
+      "inviter_referral_code": "PUYFO",
+      "inviter_username": "Purity24",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T13:38:48.025Z"
     }
   ],
   "withdrawals": [
