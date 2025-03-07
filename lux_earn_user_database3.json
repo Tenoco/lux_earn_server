@@ -6933,7 +6933,7 @@
       "inviter_referral_code": "BKSF9",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 751,
+      "balance": 759,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -6963,7 +6963,7 @@
         26,
         27
       ],
-      "lastSpin": "2025-03-05T18:15:31.802Z"
+      "lastSpin": "2025-03-07T10:42:05.535Z"
     },
     {
       "username": "Ola75",
@@ -42805,7 +42805,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T10:36:31.668Z"
+      "joinDate": "2025-03-07T10:36:31.668Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
