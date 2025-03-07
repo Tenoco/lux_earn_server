@@ -43209,10 +43209,12 @@
       "referral_code": "MO268",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Debest"
+      ],
       "balance": 812,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:40:41.815Z",
@@ -44000,6 +44002,21 @@
         27
       ],
       "lastSpin": "2025-03-07T20:25:45.209Z"
+    },
+    {
+      "username": "Debest",
+      "email": "debest714@gmail.com",
+      "encrypted_password": "07be875f28396a932bc2bcc2c1a66cdd",
+      "referral_code": "DEKZ6",
+      "inviter_referral_code": "MO268",
+      "inviter_username": "Mohyamadu",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T21:38:28.930Z"
     }
   ],
   "withdrawals": [
