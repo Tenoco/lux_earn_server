@@ -43244,14 +43244,20 @@
       "inviter_referral_code": "KEJQK",
       "inviter_username": "Kennybeauty01",
       "invited_users": [],
-      "balance": 0,
+      "balance": 300,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T14:24:53.688Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11,
+        11,
+        12,
+        13,
+        14,
+        18
+      ]
     },
     {
       "username": "Danco78",
@@ -43266,7 +43272,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:28:13.012Z"
+      "joinDate": "2025-03-07T14:28:13.012Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
