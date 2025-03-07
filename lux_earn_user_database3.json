@@ -43563,14 +43563,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 55,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T15:12:06.245Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11
+      ],
+      "lastSpin": "2025-03-07T15:13:07.241Z"
     }
   ],
   "withdrawals": [
