@@ -43658,7 +43658,29 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T15:53:32.808Z"
+      "joinDate": "2025-03-07T15:53:32.808Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Goodnewseff",
+      "email": "egoodnews738@gmail.com",
+      "encrypted_password": "551b7f5ac4bdc0f569bc25e99998af34",
+      "referral_code": "GO2QW",
+      "inviter_referral_code": "CHJWK",
+      "inviter_username": "championTheGreat",
+      "invited_users": [],
+      "balance": 150,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-20T23:28:05.661Z",
+      "completedMissions": [
+        11,
+        12
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
