@@ -42941,6 +42941,31 @@
         27
       ],
       "lastSpin": "2025-03-07T13:12:39.691Z"
+    },
+    {
+      "username": "Jokybill",
+      "email": "jokybill1@gmail.com",
+      "encrypted_password": "f55f6aaf379bc7bac97151639c6dedb6",
+      "referral_code": "JOM7Z",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "LUME"
+      ],
+      "balance": 165,
+      "refers": 1,
+      "referralBalance": 100,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T14:32:11.803Z",
+      "completedMissions": [
+        1,
+        2,
+        6,
+        7,
+        8
+      ],
+      "lastSpin": "2025-02-23T15:24:40.628Z"
     }
   ],
   "withdrawals": [
