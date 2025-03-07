@@ -42367,12 +42367,16 @@
       "inviter_referral_code": "ZIWZH ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T02:43:12.804Z"
+      "joinDate": "2025-03-07T02:43:12.804Z",
+      "completedMissions": [
+        11
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
