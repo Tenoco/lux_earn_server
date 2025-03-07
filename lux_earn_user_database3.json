@@ -44044,7 +44044,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 800,
+      "balance": 825,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -44068,7 +44068,7 @@
         27,
         27
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-07T22:58:11.104Z"
     },
     {
       "username": "Mrdeleb",
@@ -44083,7 +44083,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T22:56:49.632Z"
+      "joinDate": "2025-03-07T22:56:49.632Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
