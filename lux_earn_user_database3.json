@@ -11696,7 +11696,7 @@
         "Papa p",
         "Mama j"
       ],
-      "balance": 2012,
+      "balance": 2050,
       "refers": 14,
       "referralBalance": 1400,
       "withdrawalBalance": 0,
@@ -11734,7 +11734,7 @@
         19,
         11
       ],
-      "lastSpin": "2025-03-05T16:15:01.779Z"
+      "lastSpin": "2025-03-07T19:27:22.413Z"
     },
     {
       "username": "Mona_lee",
@@ -43854,7 +43854,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T19:23:46.917Z"
+      "joinDate": "2025-03-07T19:23:46.917Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
