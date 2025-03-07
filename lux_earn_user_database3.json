@@ -42917,11 +42917,12 @@
       "inviter_username": null,
       "invited_users": [
         "Eazybwoi",
-        "IKECHI99"
+        "IKECHI99",
+        "Kennybeauty01"
       ],
       "balance": 825,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:01:27.173Z",
@@ -43059,6 +43060,21 @@
       "joinDate": "2025-03-07T13:40:41.815Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Kennybeauty01",
+      "email": "ogunnamekehinde297@gmail.com",
+      "encrypted_password": "f5176f66aec771aefd26a70f5fc5b4fb",
+      "referral_code": "KEJQK",
+      "inviter_referral_code": "PUYFO",
+      "inviter_username": "Purity24",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T13:43:11.450Z"
     }
   ],
   "withdrawals": [
