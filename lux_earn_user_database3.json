@@ -43128,11 +43128,12 @@
       "inviter_username": "Purity24",
       "invited_users": [
         "Idris",
-        "Ewaola"
+        "Ewaola",
+        "Donbio02"
       ],
       "balance": 650,
-      "refers": 2,
-      "referralBalance": 200,
+      "refers": 3,
+      "referralBalance": 300,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:43:11.450Z",
@@ -43513,7 +43514,23 @@
         14,
         14,
         18
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "Donbio02",
+      "email": "anikebaby699@gmail.com",
+      "encrypted_password": "f5176f66aec771aefd26a70f5fc5b4fb",
+      "referral_code": "DOXWR",
+      "inviter_referral_code": "KEJQK",
+      "inviter_username": "Kennybeauty01",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T15:00:16.201Z"
     }
   ],
   "withdrawals": [
