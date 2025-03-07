@@ -43056,11 +43056,12 @@
         "Jacob44",
         "Vivian34",
         "Amara23",
-        "Percy 34"
+        "Percy 34",
+        "Billy90"
       ],
       "balance": 610,
-      "refers": 9,
-      "referralBalance": 900,
+      "refers": 10,
+      "referralBalance": 1000,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43390,6 +43391,21 @@
       "joinDate": "2025-03-07T14:43:24.927Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Billy90",
+      "email": "billiy123@gamil.com",
+      "encrypted_password": "2bd77c7b8408ac0336629e9f2e0d1a10",
+      "referral_code": "BIPMU",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:44:55.541Z"
     }
   ],
   "withdrawals": [
