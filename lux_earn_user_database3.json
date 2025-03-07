@@ -42495,14 +42495,16 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 70,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T06:55:16.517Z",
-      "completedMissions": [],
-      "lastSpin": null
+      "completedMissions": [
+        11
+      ],
+      "lastSpin": "2025-03-07T06:59:08.695Z"
     }
   ],
   "withdrawals": [
