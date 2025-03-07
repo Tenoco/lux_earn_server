@@ -43887,13 +43887,17 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 30,
+      "balance": 180,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T19:47:59.646Z",
-      "completedMissions": [],
+      "completedMissions": [
+        14,
+        13,
+        11
+      ],
       "lastSpin": "2025-03-07T19:52:04.167Z"
     }
   ],
