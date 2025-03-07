@@ -42355,7 +42355,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T02:34:09.011Z"
+      "joinDate": "2025-03-07T02:34:09.011Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Juliette",
+      "email": "ezehjuliet920@gmail.com",
+      "encrypted_password": "6b018412c49a9d296461cccb7bc312f6",
+      "referral_code": "JU8WB",
+      "inviter_referral_code": "ZIWZH ",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T02:43:12.804Z"
     }
   ],
   "withdrawals": [
