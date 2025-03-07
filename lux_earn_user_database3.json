@@ -43594,13 +43594,15 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T15:19:10.242Z",
-      "completedMissions": [],
+      "completedMissions": [
+        13
+      ],
       "lastSpin": null
     }
   ],
