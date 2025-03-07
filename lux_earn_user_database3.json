@@ -21729,7 +21729,7 @@
       "inviter_referral_code": "Ifelayomi",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 150,
+      "balance": 250,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -21737,7 +21737,9 @@
       "joinDate": "2025-02-21T05:01:18.646Z",
       "completedMissions": [
         13,
-        12
+        12,
+        11,
+        14
       ],
       "lastSpin": null
     },
