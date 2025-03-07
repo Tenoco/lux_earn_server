@@ -43717,7 +43717,6 @@
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T17:05:43.167Z",
-      "lastSpin": "2025-03-07T17:06:12.333Z",
       "completedMissions": [
         11,
         11,
@@ -43734,7 +43733,8 @@
         23,
         24,
         25
-      ]
+      ],
+      "lastSpin": "2025-03-07T17:06:12.333Z"
     },
     {
       "username": "Tomiwa ",
@@ -43752,6 +43752,21 @@
       "joinDate": "2025-03-07T17:08:23.416Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Isaac",
+      "email": "obaroprince8@gmail.com",
+      "encrypted_password": "562348edd2ded080999f748733fcc1b9",
+      "referral_code": "ISU7Q",
+      "inviter_referral_code": "Isaiah",
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T17:19:09.252Z"
     }
   ],
   "withdrawals": [
