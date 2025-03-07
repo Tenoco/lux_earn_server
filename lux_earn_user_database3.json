@@ -42999,7 +42999,31 @@
         25,
         26,
         27
-      ]
+      ],
+      "lastSpin": null
+    },
+    {
+      "username": "BigNachi",
+      "email": "iwuohamunachi5@gmail.com",
+      "encrypted_password": "79d32318f0e18be58932d73abe1226db",
+      "referral_code": "BIAWR",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [
+        "Eze Ebuka",
+        "Majestic",
+        "SUNUSI  MUHISIAQ "
+      ],
+      "balance": 76,
+      "refers": 3,
+      "referralBalance": 300,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-02-21T07:53:18.443Z",
+      "completedMissions": [
+        8
+      ],
+      "lastSpin": "2025-02-25T12:43:11.919Z"
     }
   ],
   "withdrawals": [
