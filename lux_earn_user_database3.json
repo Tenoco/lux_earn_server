@@ -43048,7 +43048,7 @@
       "inviter_referral_code": "PUYFO",
       "inviter_username": "Purity24",
       "invited_users": [],
-      "balance": 600,
+      "balance": 610,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -43068,7 +43068,7 @@
         23,
         24
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-07T14:14:06.042Z"
     },
     {
       "username": "Mohyamadu",
@@ -43174,7 +43174,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:12:33.494Z"
+      "joinDate": "2025-03-07T14:12:33.494Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
