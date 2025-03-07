@@ -27658,7 +27658,7 @@
       "invited_users": [
         "Vivian133"
       ],
-      "balance": 650,
+      "balance": 675,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -27690,7 +27690,7 @@
         23,
         22
       ],
-      "lastSpin": "2025-03-06T00:53:48.453Z"
+      "lastSpin": "2025-03-07T13:02:27.840Z"
     },
     {
       "username": "Theophiluspeter ",
@@ -42918,7 +42918,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T13:01:27.173Z"
+      "joinDate": "2025-03-07T13:01:27.173Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
