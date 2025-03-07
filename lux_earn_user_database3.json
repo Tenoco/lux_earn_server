@@ -43054,11 +43054,12 @@
         "Danco78",
         "IKECHIugo",
         "Jacob44",
-        "Vivian34"
+        "Vivian34",
+        "Amara23"
       ],
       "balance": 610,
-      "refers": 7,
-      "referralBalance": 700,
+      "refers": 8,
+      "referralBalance": 800,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43348,6 +43349,21 @@
       "joinDate": "2025-03-07T14:40:11.980Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Amara23",
+      "email": "amara879@gmail.com",
+      "encrypted_password": "b6a9aa2d969ff39152525950a9bcc621",
+      "referral_code": "AMBNU",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:41:45.944Z"
     }
   ],
   "withdrawals": [
