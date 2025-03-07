@@ -42296,12 +42296,14 @@
       "inviter_referral_code": "COUJC",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 15,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T00:25:12.866Z"
+      "joinDate": "2025-03-07T00:25:12.866Z",
+      "completedMissions": [],
+      "lastSpin": "2025-03-07T00:27:13.085Z"
     }
   ],
   "withdrawals": [
