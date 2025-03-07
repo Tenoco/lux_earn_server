@@ -39551,7 +39551,7 @@
       "invited_users": [
         "Victor"
       ],
-      "balance": 1720,
+      "balance": 1746,
       "refers": 1,
       "referralBalance": 100,
       "withdrawalBalance": 0,
@@ -39593,7 +39593,7 @@
         21,
         19
       ],
-      "lastSpin": "2025-03-04T21:06:40.517Z"
+      "lastSpin": "2025-03-07T17:23:25.391Z"
     },
     {
       "username": "Blaze",
@@ -43766,7 +43766,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T17:19:09.252Z"
+      "joinDate": "2025-03-07T17:19:09.252Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
