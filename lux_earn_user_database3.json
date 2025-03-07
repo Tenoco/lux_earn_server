@@ -43488,7 +43488,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:52:31.447Z"
+      "joinDate": "2025-03-07T14:52:31.447Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "SEADOFF",
+      "email": "seadoffolamide@gmail.com",
+      "encrypted_password": "61ef95d4b16f96255253594bc4efc540",
+      "referral_code": "SE93H",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:54:16.878Z"
     }
   ],
   "withdrawals": [
