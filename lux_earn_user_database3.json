@@ -43053,11 +43053,12 @@
         "Benjamin 90",
         "Danco78",
         "IKECHIugo",
-        "Jacob44"
+        "Jacob44",
+        "Vivian34"
       ],
       "balance": 610,
-      "refers": 6,
-      "referralBalance": 600,
+      "refers": 7,
+      "referralBalance": 700,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43309,7 +43310,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:37:43.832Z"
+      "joinDate": "2025-03-07T14:37:43.832Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Vivian34",
+      "email": "vivia1112@gmail.com",
+      "encrypted_password": "c8afa25b694ce89e7c6f15b35f6d9368",
+      "referral_code": "VIG3K",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:38:56.954Z"
     }
   ],
   "withdrawals": [
