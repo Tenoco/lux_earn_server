@@ -36819,11 +36819,12 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [
-        "olasmatt"
+        "olasmatt",
+        "ola"
       ],
       "balance": 869,
-      "refers": 1,
-      "referralBalance": 100,
+      "refers": 2,
+      "referralBalance": 200,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-02T21:38:10.893Z",
@@ -42674,6 +42675,21 @@
         26
       ],
       "lastSpin": null
+    },
+    {
+      "username": "ola",
+      "email": "olaoluwolemixhael@gmail.com",
+      "encrypted_password": "7bb77d0b9c2ad7c556d82b6b2e69798e",
+      "referral_code": "OLYSX",
+      "inviter_referral_code": "OL1UO",
+      "inviter_username": "Olasmatt",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T08:51:29.051Z"
     }
   ],
   "withdrawals": [
