@@ -43057,11 +43057,12 @@
         "Vivian34",
         "Amara23",
         "Percy 34",
-        "Billy90"
+        "Billy90",
+        "Zala122"
       ],
       "balance": 610,
-      "refers": 10,
-      "referralBalance": 1000,
+      "refers": 11,
+      "referralBalance": 1100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43405,7 +43406,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:44:55.541Z"
+      "joinDate": "2025-03-07T14:44:55.541Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Zala122",
+      "email": "grace12@gmail.com",
+      "encrypted_password": "b4be1c568a6dc02dcaf2849852bdb13e",
+      "referral_code": "ZATKZ",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:45:45.944Z"
     }
   ],
   "withdrawals": [
