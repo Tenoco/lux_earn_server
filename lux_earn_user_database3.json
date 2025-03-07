@@ -42781,13 +42781,15 @@
       "inviter_referral_code": "PRQAG",
       "inviter_username": "praise33",
       "invited_users": [],
-      "balance": 0,
+      "balance": 50,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-22T15:23:23.871Z",
-      "completedMissions": [],
+      "completedMissions": [
+        27
+      ],
       "lastSpin": null
     }
   ],
