@@ -43051,11 +43051,12 @@
         "Grace ibe",
         "Ifeay99",
         "Benjamin 90",
-        "Danco78"
+        "Danco78",
+        "IKECHIugo"
       ],
       "balance": 610,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43257,7 +43258,8 @@
         13,
         14,
         18
-      ]
+      ],
+      "lastSpin": null
     },
     {
       "username": "Danco78",
@@ -43275,6 +43277,21 @@
       "joinDate": "2025-03-07T14:28:13.012Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "IKECHIugo",
+      "email": "peter293@gmail.com",
+      "encrypted_password": "e724376da29cd63234b601118f9d061f",
+      "referral_code": "IKK0N",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:34:19.235Z"
     }
   ],
   "withdrawals": [
