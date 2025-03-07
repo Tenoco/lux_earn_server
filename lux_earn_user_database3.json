@@ -16287,7 +16287,7 @@
       "inviter_referral_code": "EMISH ",
       "inviter_username": null,
       "invited_users": [],
-      "balance": 374,
+      "balance": 424,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -16312,7 +16312,8 @@
         15,
         10,
         11,
-        14
+        14,
+        18
       ],
       "lastSpin": "2025-02-28T17:21:20.680Z"
     },
@@ -43089,7 +43090,8 @@
         21,
         22,
         18
-      ]
+      ],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
