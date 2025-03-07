@@ -485,11 +485,12 @@
         "Latex ",
         "Fekaangaliambeelouis ",
         "Maryfrank",
-        "Niongun Cletus "
+        "Niongun Cletus ",
+        "Nater02"
       ],
       "balance": 1292,
-      "refers": 4,
-      "referralBalance": 400,
+      "refers": 5,
+      "referralBalance": 500,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T08:22:40.263Z",
@@ -43857,6 +43858,21 @@
       "joinDate": "2025-03-07T19:23:46.917Z",
       "completedMissions": [],
       "lastSpin": null
+    },
+    {
+      "username": "Nater02",
+      "email": "hookr807@gmail.com",
+      "encrypted_password": "15266c1091efabeec9a8e6514a3885f5",
+      "referral_code": "NAEDW",
+      "inviter_referral_code": "MIF46",
+      "inviter_username": "Michael",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T19:30:24.836Z"
     }
   ],
   "withdrawals": [
