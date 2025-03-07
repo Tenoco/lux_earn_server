@@ -43060,11 +43060,12 @@
         "Billy90",
         "Zala122",
         "Uk890",
-        "Imelda "
+        "Imelda ",
+        "Bel90"
       ],
       "balance": 610,
-      "refers": 13,
-      "referralBalance": 1300,
+      "refers": 14,
+      "referralBalance": 1400,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:38:48.025Z",
@@ -43470,7 +43471,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:51:27.519Z"
+      "joinDate": "2025-03-07T14:51:27.519Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Bel90",
+      "email": "bella675@gmail.com",
+      "encrypted_password": "226fa0f896d76a378fa3b101ef24faa7",
+      "referral_code": "BEQ23",
+      "inviter_referral_code": "IKNSY",
+      "inviter_username": "IKECHI99",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T14:52:31.447Z"
     }
   ],
   "withdrawals": [
