@@ -42649,7 +42649,7 @@
       "inviter_referral_code": "MAQXF",
       "inviter_username": "Matthew",
       "invited_users": [],
-      "balance": 710,
+      "balance": 760,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -42672,7 +42672,8 @@
         23,
         24,
         25,
-        26
+        26,
+        27
       ],
       "lastSpin": null
     },
@@ -42689,7 +42690,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T08:51:29.051Z"
+      "joinDate": "2025-03-07T08:51:29.051Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
