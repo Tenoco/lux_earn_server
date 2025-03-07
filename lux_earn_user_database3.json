@@ -3266,7 +3266,7 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 1508,
+      "balance": 1538,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -3304,7 +3304,7 @@
         27,
         27
       ],
-      "lastSpin": "2025-03-04T23:49:36.968Z"
+      "lastSpin": "2025-03-07T13:47:35.133Z"
     },
     {
       "username": "Bright13",
@@ -43074,7 +43074,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T13:43:11.450Z"
+      "joinDate": "2025-03-07T13:43:11.450Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
