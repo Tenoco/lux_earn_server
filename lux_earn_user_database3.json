@@ -43039,7 +43039,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T13:38:48.025Z"
+      "joinDate": "2025-03-07T13:38:48.025Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Mohyamadu",
+      "email": "mohyamadu64@gmail.com",
+      "encrypted_password": "07be875f28396a932bc2bcc2c1a66cdd",
+      "referral_code": "MO268",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T13:40:41.815Z"
     }
   ],
   "withdrawals": [
