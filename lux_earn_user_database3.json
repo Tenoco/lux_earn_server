@@ -42859,7 +42859,24 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T10:53:23.614Z"
+      "joinDate": "2025-03-07T10:53:23.614Z",
+      "completedMissions": [],
+      "lastSpin": null
+    },
+    {
+      "username": "Ghostkid ",
+      "email": "lateefishaq2@gmail.com",
+      "encrypted_password": "6c3672cba41ffec95e33c878019b5ccd",
+      "referral_code": "GHIGF",
+      "inviter_referral_code": null,
+      "inviter_username": null,
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T10:54:49.360Z"
     }
   ],
   "withdrawals": [
