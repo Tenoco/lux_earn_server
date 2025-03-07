@@ -43086,14 +43086,14 @@
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
-      "balance": 0,
+      "balance": 12,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:40:41.815Z",
       "completedMissions": [],
-      "lastSpin": null
+      "lastSpin": "2025-03-07T14:41:38.193Z"
     },
     {
       "username": "Kennybeauty01",
@@ -43345,7 +43345,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T14:40:11.980Z"
+      "joinDate": "2025-03-07T14:40:11.980Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
