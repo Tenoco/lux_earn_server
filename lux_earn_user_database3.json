@@ -42915,10 +42915,12 @@
       "referral_code": "PUYFO",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Eazybwoi"
+      ],
       "balance": 825,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T13:01:27.173Z",
@@ -42966,6 +42968,21 @@
         8
       ],
       "lastSpin": "2025-02-23T15:24:40.628Z"
+    },
+    {
+      "username": "Eazybwoi",
+      "email": "adeotanezekiel@gmail.com",
+      "encrypted_password": "ebc15c14cf2bbff20eae9e610f8d1c51",
+      "referral_code": "EAVGN",
+      "inviter_referral_code": "PUYFO",
+      "inviter_username": "Purity24",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T13:26:09.043Z"
     }
   ],
   "withdrawals": [
