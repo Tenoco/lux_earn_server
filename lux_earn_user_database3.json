@@ -42978,7 +42978,7 @@
       "inviter_referral_code": "PUYFO",
       "inviter_username": "Purity24",
       "invited_users": [],
-      "balance": 750,
+      "balance": 762,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -43001,7 +43001,7 @@
         26,
         27
       ],
-      "lastSpin": null
+      "lastSpin": "2025-03-07T13:42:18.904Z"
     },
     {
       "username": "BigNachi",
@@ -43056,7 +43056,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T13:40:41.815Z"
+      "joinDate": "2025-03-07T13:40:41.815Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
