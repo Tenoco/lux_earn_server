@@ -42799,10 +42799,12 @@
       "referral_code": "ACQ3N",
       "inviter_referral_code": null,
       "inviter_username": null,
-      "invited_users": [],
+      "invited_users": [
+        "Active247"
+      ],
       "balance": 820,
-      "refers": 0,
-      "referralBalance": 0,
+      "refers": 1,
+      "referralBalance": 100,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-03-07T10:36:31.668Z",
@@ -42825,6 +42827,21 @@
         27
       ],
       "lastSpin": "2025-03-07T10:44:23.507Z"
+    },
+    {
+      "username": "Active247",
+      "email": "jkkdjdjgdh@gmail.com",
+      "encrypted_password": "0a218b83bc17c396f3c307fb62a60445",
+      "referral_code": "AC3EV",
+      "inviter_referral_code": "ACQ3N",
+      "inviter_username": "Activeboy",
+      "invited_users": [],
+      "balance": 0,
+      "refers": 0,
+      "referralBalance": 0,
+      "withdrawalBalance": 0,
+      "status": "active",
+      "joinDate": "2025-03-07T10:49:25.415Z"
     }
   ],
   "withdrawals": [
