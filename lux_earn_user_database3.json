@@ -1153,7 +1153,7 @@
         "odunayo12",
         "Ade"
       ],
-      "balance": 4871,
+      "balance": 4876,
       "refers": 2,
       "referralBalance": 200,
       "withdrawalBalance": 0,
@@ -1295,7 +1295,7 @@
         27,
         27
       ],
-      "lastSpin": "2025-02-26T07:16:18.168Z"
+      "lastSpin": "2025-03-07T10:50:23.780Z"
     },
     {
       "username": "speedychucky0",
@@ -42841,7 +42841,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-07T10:49:25.415Z"
+      "joinDate": "2025-03-07T10:49:25.415Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
