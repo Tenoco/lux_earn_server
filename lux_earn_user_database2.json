@@ -18251,7 +18251,7 @@
       "inviter_referral_code": "CHDBE",
       "inviter_username": "Chinenyefavour",
       "invited_users": [],
-      "balance": 308,
+      "balance": 328,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
@@ -18268,7 +18268,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "lastSpin": "2025-02-21T15:12:47.249Z"
     },
@@ -40533,7 +40534,9 @@
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
-      "joinDate": "2025-03-06T17:50:22.762Z"
+      "joinDate": "2025-03-06T17:50:22.762Z",
+      "completedMissions": [],
+      "lastSpin": null
     }
   ],
   "withdrawals": [
